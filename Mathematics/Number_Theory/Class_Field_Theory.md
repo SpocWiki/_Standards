@@ -82,3 +82,22 @@ has_id_wikidata: Q1744580
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Class%20field%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Class_Field_Theory](/_Standards/Mathematics/Number_Theory/Class_Field_Theory.md) 
+
+### #is_/same_as :: [Class_Field_Theory.public](/_public/Mathematics/Number_Theory/Class_Field_Theory.public.md) 
+
+### #is_/same_as :: [Class_Field_Theory.internal](/_internal/Mathematics/Number_Theory/Class_Field_Theory.internal.md) 
+
+### #is_/same_as :: [Class_Field_Theory.protect](/_protect/Mathematics/Number_Theory/Class_Field_Theory.protect.md) 
+
+### #is_/same_as :: [Class_Field_Theory.private](/_private/Mathematics/Number_Theory/Class_Field_Theory.private.md) 
+
+### #is_/same_as :: [Class_Field_Theory.personal](/_personal/Mathematics/Number_Theory/Class_Field_Theory.personal.md) 
+
+### #is_/same_as :: [Class_Field_Theory.secret](/_secret/Mathematics/Number_Theory/Class_Field_Theory.secret.md)
+

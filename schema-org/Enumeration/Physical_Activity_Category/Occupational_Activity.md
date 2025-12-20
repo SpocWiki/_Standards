@@ -40,17 +40,17 @@ Any physical activity engaged in for job-related purposes. Examples may include 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Occupational_Activity](Occupational_Activity.md) 
+### #is_/same_as :: [Occupational_Activity](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.md) 
 
-### #is_/same_as :: [occupational_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/occupational_activity.public.md) 
+### #is_/same_as :: [Occupational_Activity.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.public.md) 
 
-### #is_/same_as :: [occupational_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/occupational_activity.internal.md) 
+### #is_/same_as :: [Occupational_Activity.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.internal.md) 
 
-### #is_/same_as :: [occupational_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/occupational_activity.protect.md) 
+### #is_/same_as :: [Occupational_Activity.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.protect.md) 
 
-### #is_/same_as :: [occupational_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/occupational_activity.private.md) 
+### #is_/same_as :: [Occupational_Activity.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.private.md) 
 
-### #is_/same_as :: [occupational_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/occupational_activity.personal.md) 
+### #is_/same_as :: [Occupational_Activity.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.personal.md) 
 
-### #is_/same_as :: [occupational_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/occupational_activity.secret.md)
+### #is_/same_as :: [Occupational_Activity.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.secret.md)
 

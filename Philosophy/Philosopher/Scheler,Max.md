@@ -79,3 +79,22 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Scheler
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Scheler) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scheler,Max](/_Standards/Philosophy/Philosopher/Scheler,Max.md) 
+
+### #is_/same_as :: [Scheler,Max.public](/_public/Philosophy/Philosopher/Scheler,Max.public.md) 
+
+### #is_/same_as :: [Scheler,Max.internal](/_internal/Philosophy/Philosopher/Scheler,Max.internal.md) 
+
+### #is_/same_as :: [Scheler,Max.protect](/_protect/Philosophy/Philosopher/Scheler,Max.protect.md) 
+
+### #is_/same_as :: [Scheler,Max.private](/_private/Philosophy/Philosopher/Scheler,Max.private.md) 
+
+### #is_/same_as :: [Scheler,Max.personal](/_personal/Philosophy/Philosopher/Scheler,Max.personal.md) 
+
+### #is_/same_as :: [Scheler,Max.secret](/_secret/Philosophy/Philosopher/Scheler,Max.secret.md)
+

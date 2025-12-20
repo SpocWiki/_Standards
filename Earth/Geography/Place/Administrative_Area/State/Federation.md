@@ -73,3 +73,22 @@ Commons_category: Federación
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Federation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Federation](/_Standards/Earth/Geography/Place/Administrative_Area/State/Federation.md) 
+
+### #is_/same_as :: [Federation.public](/_public/Earth/Geography/Place/Administrative_Area/State/Federation.public.md) 
+
+### #is_/same_as :: [Federation.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Federation.internal.md) 
+
+### #is_/same_as :: [Federation.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Federation.protect.md) 
+
+### #is_/same_as :: [Federation.private](/_private/Earth/Geography/Place/Administrative_Area/State/Federation.private.md) 
+
+### #is_/same_as :: [Federation.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Federation.personal.md) 
+
+### #is_/same_as :: [Federation.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Federation.secret.md)
+

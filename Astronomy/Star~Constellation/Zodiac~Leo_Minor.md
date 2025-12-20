@@ -66,6 +66,7 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leo%20Minor)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Leo_Minor](/_Standards/Astronomy/Star~Constellation/Zodiac~Leo_Minor.md) 

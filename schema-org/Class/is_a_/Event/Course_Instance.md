@@ -39,17 +39,17 @@ An instance of a [[../../../../Society/Communication/Media/Creative_Work/Course]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [course_instance](/_Standards/schema-org/Class/is_a_/event/course_instance.md) 
+### #is_/same_as :: [Course_Instance](/_Standards/schema-org/Class/is_a_/Event/Course_Instance.md) 
 
-### #is_/same_as :: [course_instance.public](/_public/schema-org/Class/is_a_/event/course_instance.public.md) 
+### #is_/same_as :: [Course_Instance.public](/_public/schema-org/Class/is_a_/Event/Course_Instance.public.md) 
 
-### #is_/same_as :: [course_instance.internal](/_internal/schema-org/Class/is_a_/event/course_instance.internal.md) 
+### #is_/same_as :: [Course_Instance.internal](/_internal/schema-org/Class/is_a_/Event/Course_Instance.internal.md) 
 
-### #is_/same_as :: [course_instance.protect](/_protect/schema-org/Class/is_a_/event/course_instance.protect.md) 
+### #is_/same_as :: [Course_Instance.protect](/_protect/schema-org/Class/is_a_/Event/Course_Instance.protect.md) 
 
-### #is_/same_as :: [course_instance.private](/_private/schema-org/Class/is_a_/event/course_instance.private.md) 
+### #is_/same_as :: [Course_Instance.private](/_private/schema-org/Class/is_a_/Event/Course_Instance.private.md) 
 
-### #is_/same_as :: [course_instance.personal](/_personal/schema-org/Class/is_a_/event/course_instance.personal.md) 
+### #is_/same_as :: [Course_Instance.personal](/_personal/schema-org/Class/is_a_/Event/Course_Instance.personal.md) 
 
-### #is_/same_as :: [course_instance.secret](/_secret/schema-org/Class/is_a_/event/course_instance.secret.md)
+### #is_/same_as :: [Course_Instance.secret](/_secret/schema-org/Class/is_a_/Event/Course_Instance.secret.md)
 

@@ -42,6 +42,7 @@ A vehicle is a device that is designed or used to transport people or cargo over
 
 #is_/same_as :: [[../../WikiData/WD~Vehicle,42889|WD~Vehicle,42889]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vehicle](/_Standards/Technology/Transport/Vehicle.md) 

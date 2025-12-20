@@ -51,3 +51,22 @@ Commons_category: Metamorphosis (biology)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metamorphosis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metamorphosis](/_Standards/bio/Reproduction/Metamorphosis.md) 
+
+### #is_/same_as :: [Metamorphosis.public](/_public/bio/Reproduction/Metamorphosis.public.md) 
+
+### #is_/same_as :: [Metamorphosis.internal](/_internal/bio/Reproduction/Metamorphosis.internal.md) 
+
+### #is_/same_as :: [Metamorphosis.protect](/_protect/bio/Reproduction/Metamorphosis.protect.md) 
+
+### #is_/same_as :: [Metamorphosis.private](/_private/bio/Reproduction/Metamorphosis.private.md) 
+
+### #is_/same_as :: [Metamorphosis.personal](/_personal/bio/Reproduction/Metamorphosis.personal.md) 
+
+### #is_/same_as :: [Metamorphosis.secret](/_secret/bio/Reproduction/Metamorphosis.secret.md)
+

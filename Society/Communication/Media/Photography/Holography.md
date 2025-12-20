@@ -41,3 +41,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/GOLOGRAFIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holography](/_Standards/Society/Communication/Media/Photography/Holography.md) 
+
+### #is_/same_as :: [Holography.public](/_public/Society/Communication/Media/Photography/Holography.public.md) 
+
+### #is_/same_as :: [Holography.internal](/_internal/Society/Communication/Media/Photography/Holography.internal.md) 
+
+### #is_/same_as :: [Holography.protect](/_protect/Society/Communication/Media/Photography/Holography.protect.md) 
+
+### #is_/same_as :: [Holography.private](/_private/Society/Communication/Media/Photography/Holography.private.md) 
+
+### #is_/same_as :: [Holography.personal](/_personal/Society/Communication/Media/Photography/Holography.personal.md) 
+
+### #is_/same_as :: [Holography.secret](/_secret/Society/Communication/Media/Photography/Holography.secret.md)
+

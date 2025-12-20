@@ -51,3 +51,22 @@ Wikidata_SPARQL_query_equivalent: wd:Q131255 p:P2370/psn:P2370 [wikibase:quantit
 > [Wikipedia](https://en.wikipedia.org/wiki/Farad) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Farad](/_Standards/Dimension/Unit~Farad.md) 
+
+### #is_/same_as :: [Unit~Farad.public](/_public/Dimension/Unit~Farad.public.md) 
+
+### #is_/same_as :: [Unit~Farad.internal](/_internal/Dimension/Unit~Farad.internal.md) 
+
+### #is_/same_as :: [Unit~Farad.protect](/_protect/Dimension/Unit~Farad.protect.md) 
+
+### #is_/same_as :: [Unit~Farad.private](/_private/Dimension/Unit~Farad.private.md) 
+
+### #is_/same_as :: [Unit~Farad.personal](/_personal/Dimension/Unit~Farad.personal.md) 
+
+### #is_/same_as :: [Unit~Farad.secret](/_secret/Dimension/Unit~Farad.secret.md)
+

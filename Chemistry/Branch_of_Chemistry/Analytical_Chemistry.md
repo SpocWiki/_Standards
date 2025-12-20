@@ -37,17 +37,17 @@ Universal_Decimal_Classification: 543
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Analytical_Chemistry](Analytical_Chemistry.md) 
+### #is_/same_as :: [Analytical_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.md) 
 
-### #is_/same_as :: [Analytical_Chemistry.public](/_public/Chemistry/Analytical_Chemistry.public.md) 
+### #is_/same_as :: [Analytical_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.public.md) 
 
-### #is_/same_as :: [Analytical_Chemistry.internal](/_internal/Chemistry/Analytical_Chemistry.internal.md) 
+### #is_/same_as :: [Analytical_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.internal.md) 
 
-### #is_/same_as :: [Analytical_Chemistry.protect](/_protect/Chemistry/Analytical_Chemistry.protect.md) 
+### #is_/same_as :: [Analytical_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.protect.md) 
 
-### #is_/same_as :: [Analytical_Chemistry.private](/_private/Chemistry/Analytical_Chemistry.private.md) 
+### #is_/same_as :: [Analytical_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.private.md) 
 
-### #is_/same_as :: [Analytical_Chemistry.personal](/_personal/Chemistry/Analytical_Chemistry.personal.md) 
+### #is_/same_as :: [Analytical_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.personal.md) 
 
-### #is_/same_as :: [Analytical_Chemistry.secret](/_secret/Chemistry/Analytical_Chemistry.secret.md)
+### #is_/same_as :: [Analytical_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.secret.md)
 

@@ -126,6 +126,7 @@ Tag Instances like this: #is_a_/state
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20(polity)) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [State](/_Standards/Earth/Geography/Place/Administrative_Area/State.md) 

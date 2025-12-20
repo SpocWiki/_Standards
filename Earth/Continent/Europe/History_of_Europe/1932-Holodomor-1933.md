@@ -90,3 +90,22 @@ start_time: 1932-01-01T00:00:00Z
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1932-Holodomor-1933](/_Standards/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.md) 
+
+### #is_/same_as :: [1932-Holodomor-1933.public](/_public/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.public.md) 
+
+### #is_/same_as :: [1932-Holodomor-1933.internal](/_internal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.internal.md) 
+
+### #is_/same_as :: [1932-Holodomor-1933.protect](/_protect/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.protect.md) 
+
+### #is_/same_as :: [1932-Holodomor-1933.private](/_private/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.private.md) 
+
+### #is_/same_as :: [1932-Holodomor-1933.personal](/_personal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.personal.md) 
+
+### #is_/same_as :: [1932-Holodomor-1933.secret](/_secret/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.secret.md)
+

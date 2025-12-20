@@ -40,17 +40,17 @@ A medical device used for therapeutic purposes.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [therapeutic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.md) 
+### #is_/same_as :: [Therapeutic](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.md) 
 
-### #is_/same_as :: [therapeutic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.public.md) 
+### #is_/same_as :: [Therapeutic.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.public.md) 
 
-### #is_/same_as :: [therapeutic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.internal.md) 
+### #is_/same_as :: [Therapeutic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.internal.md) 
 
-### #is_/same_as :: [therapeutic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.protect.md) 
+### #is_/same_as :: [Therapeutic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.protect.md) 
 
-### #is_/same_as :: [therapeutic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.private.md) 
+### #is_/same_as :: [Therapeutic.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.private.md) 
 
-### #is_/same_as :: [therapeutic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.personal.md) 
+### #is_/same_as :: [Therapeutic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.personal.md) 
 
-### #is_/same_as :: [therapeutic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.secret.md)
+### #is_/same_as :: [Therapeutic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.secret.md)
 

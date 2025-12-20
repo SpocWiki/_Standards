@@ -39,17 +39,17 @@ A travel agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Travel_Agency](Travel_Agency.md) 
+### #is_/same_as :: [Travel_Agency](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Travel_Agency.md) 
 
-### #is_/same_as :: [Travel_Agency.public](/_public/Society/Organization/Local_Business/Travel_Agency.public.md) 
+### #is_/same_as :: [Travel_Agency.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Travel_Agency.public.md) 
 
-### #is_/same_as :: [Travel_Agency.internal](/_internal/Society/Organization/Local_Business/Travel_Agency.internal.md) 
+### #is_/same_as :: [Travel_Agency.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Travel_Agency.internal.md) 
 
-### #is_/same_as :: [Travel_Agency.protect](/_protect/Society/Organization/Local_Business/Travel_Agency.protect.md) 
+### #is_/same_as :: [Travel_Agency.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Travel_Agency.protect.md) 
 
-### #is_/same_as :: [Travel_Agency.private](/_private/Society/Organization/Local_Business/Travel_Agency.private.md) 
+### #is_/same_as :: [Travel_Agency.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Travel_Agency.private.md) 
 
-### #is_/same_as :: [Travel_Agency.personal](/_personal/Society/Organization/Local_Business/Travel_Agency.personal.md) 
+### #is_/same_as :: [Travel_Agency.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Travel_Agency.personal.md) 
 
-### #is_/same_as :: [Travel_Agency.secret](/_secret/Society/Organization/Local_Business/Travel_Agency.secret.md)
+### #is_/same_as :: [Travel_Agency.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Travel_Agency.secret.md)
 

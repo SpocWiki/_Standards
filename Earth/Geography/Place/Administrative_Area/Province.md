@@ -46,3 +46,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20country%20s
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Province) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Province](/_Standards/Earth/Geography/Place/Administrative_Area/Province.md) 
+
+### #is_/same_as :: [Province.public](/_public/Earth/Geography/Place/Administrative_Area/Province.public.md) 
+
+### #is_/same_as :: [Province.internal](/_internal/Earth/Geography/Place/Administrative_Area/Province.internal.md) 
+
+### #is_/same_as :: [Province.protect](/_protect/Earth/Geography/Place/Administrative_Area/Province.protect.md) 
+
+### #is_/same_as :: [Province.private](/_private/Earth/Geography/Place/Administrative_Area/Province.private.md) 
+
+### #is_/same_as :: [Province.personal](/_personal/Earth/Geography/Place/Administrative_Area/Province.personal.md) 
+
+### #is_/same_as :: [Province.secret](/_secret/Earth/Geography/Place/Administrative_Area/Province.secret.md)
+

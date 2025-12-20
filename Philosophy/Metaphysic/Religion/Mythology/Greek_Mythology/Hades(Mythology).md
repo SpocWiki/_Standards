@@ -71,3 +71,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/AID.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hades) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hades(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).md) 
+
+### #is_/same_as :: [Hades(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).public.md) 
+
+### #is_/same_as :: [Hades(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).internal.md) 
+
+### #is_/same_as :: [Hades(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).protect.md) 
+
+### #is_/same_as :: [Hades(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).private.md) 
+
+### #is_/same_as :: [Hades(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).personal.md) 
+
+### #is_/same_as :: [Hades(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).secret.md)
+

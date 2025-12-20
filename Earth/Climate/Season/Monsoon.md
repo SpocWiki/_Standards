@@ -48,3 +48,22 @@ Krugosvet_article_archived_: geografiya/musson
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monsoon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monsoon](/_Standards/Earth/Climate/Season/Monsoon.md) 
+
+### #is_/same_as :: [Monsoon.public](/_public/Earth/Climate/Season/Monsoon.public.md) 
+
+### #is_/same_as :: [Monsoon.internal](/_internal/Earth/Climate/Season/Monsoon.internal.md) 
+
+### #is_/same_as :: [Monsoon.protect](/_protect/Earth/Climate/Season/Monsoon.protect.md) 
+
+### #is_/same_as :: [Monsoon.private](/_private/Earth/Climate/Season/Monsoon.private.md) 
+
+### #is_/same_as :: [Monsoon.personal](/_personal/Earth/Climate/Season/Monsoon.personal.md) 
+
+### #is_/same_as :: [Monsoon.secret](/_secret/Earth/Climate/Season/Monsoon.secret.md)
+

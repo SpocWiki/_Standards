@@ -33,3 +33,22 @@ subclass_of: "[[_Standards/WikiData/WD~compensation,21127747]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Damages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Damages](/_Standards/Society/Law/Common_Law/Damages.md) 
+
+### #is_/same_as :: [Damages.public](/_public/Society/Law/Common_Law/Damages.public.md) 
+
+### #is_/same_as :: [Damages.internal](/_internal/Society/Law/Common_Law/Damages.internal.md) 
+
+### #is_/same_as :: [Damages.protect](/_protect/Society/Law/Common_Law/Damages.protect.md) 
+
+### #is_/same_as :: [Damages.private](/_private/Society/Law/Common_Law/Damages.private.md) 
+
+### #is_/same_as :: [Damages.personal](/_personal/Society/Law/Common_Law/Damages.personal.md) 
+
+### #is_/same_as :: [Damages.secret](/_secret/Society/Law/Common_Law/Damages.secret.md)
+

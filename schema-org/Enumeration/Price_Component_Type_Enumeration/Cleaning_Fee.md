@@ -42,17 +42,17 @@ Represents the cleaning fee part of the total price for an offered product, for 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cleaning_Fee](Cleaning_Fee.md) 
+### #is_/same_as :: [Cleaning_Fee](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.md) 
 
-### #is_/same_as :: [cleaning_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.public.md) 
+### #is_/same_as :: [Cleaning_Fee.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.public.md) 
 
-### #is_/same_as :: [cleaning_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.internal.md) 
+### #is_/same_as :: [Cleaning_Fee.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.internal.md) 
 
-### #is_/same_as :: [cleaning_fee.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.protect.md) 
+### #is_/same_as :: [Cleaning_Fee.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.protect.md) 
 
-### #is_/same_as :: [cleaning_fee.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.private.md) 
+### #is_/same_as :: [Cleaning_Fee.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.private.md) 
 
-### #is_/same_as :: [cleaning_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.personal.md) 
+### #is_/same_as :: [Cleaning_Fee.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.personal.md) 
 
-### #is_/same_as :: [cleaning_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.secret.md)
+### #is_/same_as :: [Cleaning_Fee.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.secret.md)
 

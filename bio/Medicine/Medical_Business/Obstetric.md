@@ -40,17 +40,17 @@ A specific branch of medical science that specializes in the care of women durin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obstetric](Obstetric.md) 
+### #is_/same_as :: [Obstetric](/_Standards/bio/Medicine/Medical_Business/Obstetric.md) 
 
-### #is_/same_as :: [Obstetric.public](/_public/Society/Organization/Local_Business/Medical_Business/Obstetric.public.md) 
+### #is_/same_as :: [Obstetric.public](/_public/bio/Medicine/Medical_Business/Obstetric.public.md) 
 
-### #is_/same_as :: [Obstetric.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Obstetric.internal.md) 
+### #is_/same_as :: [Obstetric.internal](/_internal/bio/Medicine/Medical_Business/Obstetric.internal.md) 
 
-### #is_/same_as :: [Obstetric.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Obstetric.protect.md) 
+### #is_/same_as :: [Obstetric.protect](/_protect/bio/Medicine/Medical_Business/Obstetric.protect.md) 
 
-### #is_/same_as :: [Obstetric.private](/_private/Society/Organization/Local_Business/Medical_Business/Obstetric.private.md) 
+### #is_/same_as :: [Obstetric.private](/_private/bio/Medicine/Medical_Business/Obstetric.private.md) 
 
-### #is_/same_as :: [Obstetric.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Obstetric.personal.md) 
+### #is_/same_as :: [Obstetric.personal](/_personal/bio/Medicine/Medical_Business/Obstetric.personal.md) 
 
-### #is_/same_as :: [Obstetric.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Obstetric.secret.md)
+### #is_/same_as :: [Obstetric.secret](/_secret/bio/Medicine/Medical_Business/Obstetric.secret.md)
 

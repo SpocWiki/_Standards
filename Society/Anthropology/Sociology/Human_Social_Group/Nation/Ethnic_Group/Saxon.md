@@ -57,3 +57,22 @@ Commons_category: Saxons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saxons) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saxon](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Saxon.md) 
+
+### #is_/same_as :: [Saxon.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Saxon.public.md) 
+
+### #is_/same_as :: [Saxon.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Saxon.internal.md) 
+
+### #is_/same_as :: [Saxon.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Saxon.protect.md) 
+
+### #is_/same_as :: [Saxon.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Saxon.private.md) 
+
+### #is_/same_as :: [Saxon.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Saxon.personal.md) 
+
+### #is_/same_as :: [Saxon.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Saxon.secret.md)
+

@@ -86,3 +86,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermal%20conductivity%20and%20resistivity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thermal_Conductivity](/_Standards/Science/Physics/Thermodynamics/Thermal_Conductivity.md) 
+
+### #is_/same_as :: [Thermal_Conductivity.public](/_public/Science/Physics/Thermodynamics/Thermal_Conductivity.public.md) 
+
+### #is_/same_as :: [Thermal_Conductivity.internal](/_internal/Science/Physics/Thermodynamics/Thermal_Conductivity.internal.md) 
+
+### #is_/same_as :: [Thermal_Conductivity.protect](/_protect/Science/Physics/Thermodynamics/Thermal_Conductivity.protect.md) 
+
+### #is_/same_as :: [Thermal_Conductivity.private](/_private/Science/Physics/Thermodynamics/Thermal_Conductivity.private.md) 
+
+### #is_/same_as :: [Thermal_Conductivity.personal](/_personal/Science/Physics/Thermodynamics/Thermal_Conductivity.personal.md) 
+
+### #is_/same_as :: [Thermal_Conductivity.secret](/_secret/Science/Physics/Thermodynamics/Thermal_Conductivity.secret.md)
+

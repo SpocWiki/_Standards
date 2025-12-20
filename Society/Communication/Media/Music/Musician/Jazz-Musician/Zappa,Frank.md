@@ -184,3 +184,22 @@ date_of_birth: 1940-12-21T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Zappa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zappa,Frank](/_Standards/Society/Communication/Media/Music/Musician/Jazz-Musician/Zappa,Frank.md) 
+
+### #is_/same_as :: [Zappa,Frank.public](/_public/Society/Communication/Media/Music/Musician/Jazz-Musician/Zappa,Frank.public.md) 
+
+### #is_/same_as :: [Zappa,Frank.internal](/_internal/Society/Communication/Media/Music/Musician/Jazz-Musician/Zappa,Frank.internal.md) 
+
+### #is_/same_as :: [Zappa,Frank.protect](/_protect/Society/Communication/Media/Music/Musician/Jazz-Musician/Zappa,Frank.protect.md) 
+
+### #is_/same_as :: [Zappa,Frank.private](/_private/Society/Communication/Media/Music/Musician/Jazz-Musician/Zappa,Frank.private.md) 
+
+### #is_/same_as :: [Zappa,Frank.personal](/_personal/Society/Communication/Media/Music/Musician/Jazz-Musician/Zappa,Frank.personal.md) 
+
+### #is_/same_as :: [Zappa,Frank.secret](/_secret/Society/Communication/Media/Music/Musician/Jazz-Musician/Zappa,Frank.secret.md)
+

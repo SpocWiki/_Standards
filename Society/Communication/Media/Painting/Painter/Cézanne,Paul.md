@@ -311,3 +311,22 @@ ISNI: "0000000121287379"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20C%C3%A9zanne) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cézanne,Paul](/_Standards/Society/Communication/Media/Painting/Painter/Cézanne,Paul.md) 
+
+### #is_/same_as :: [Cézanne,Paul.public](/_public/Society/Communication/Media/Painting/Painter/Cézanne,Paul.public.md) 
+
+### #is_/same_as :: [Cézanne,Paul.internal](/_internal/Society/Communication/Media/Painting/Painter/Cézanne,Paul.internal.md) 
+
+### #is_/same_as :: [Cézanne,Paul.protect](/_protect/Society/Communication/Media/Painting/Painter/Cézanne,Paul.protect.md) 
+
+### #is_/same_as :: [Cézanne,Paul.private](/_private/Society/Communication/Media/Painting/Painter/Cézanne,Paul.private.md) 
+
+### #is_/same_as :: [Cézanne,Paul.personal](/_personal/Society/Communication/Media/Painting/Painter/Cézanne,Paul.personal.md) 
+
+### #is_/same_as :: [Cézanne,Paul.secret](/_secret/Society/Communication/Media/Painting/Painter/Cézanne,Paul.secret.md)
+

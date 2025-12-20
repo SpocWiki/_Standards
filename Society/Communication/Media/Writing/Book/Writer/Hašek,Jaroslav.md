@@ -125,3 +125,22 @@ Libris_URI: 20dgbs1l3s9nrw4
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jaroslav%20Ha%C5%A1ek) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hašek,Jaroslav](/_Standards/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav.md) 
+
+### #is_/same_as :: [Hašek,Jaroslav.public](/_public/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav.public.md) 
+
+### #is_/same_as :: [Hašek,Jaroslav.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav.internal.md) 
+
+### #is_/same_as :: [Hašek,Jaroslav.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav.protect.md) 
+
+### #is_/same_as :: [Hašek,Jaroslav.private](/_private/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav.private.md) 
+
+### #is_/same_as :: [Hašek,Jaroslav.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav.personal.md) 
+
+### #is_/same_as :: [Hašek,Jaroslav.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav.secret.md)
+

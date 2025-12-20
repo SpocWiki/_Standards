@@ -62,3 +62,22 @@ Commons_category: Sericulture
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sericulture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sericulture](/_Standards/Technology/Tool/Clothing/Sericulture.md) 
+
+### #is_/same_as :: [Sericulture.public](/_public/Technology/Tool/Clothing/Sericulture.public.md) 
+
+### #is_/same_as :: [Sericulture.internal](/_internal/Technology/Tool/Clothing/Sericulture.internal.md) 
+
+### #is_/same_as :: [Sericulture.protect](/_protect/Technology/Tool/Clothing/Sericulture.protect.md) 
+
+### #is_/same_as :: [Sericulture.private](/_private/Technology/Tool/Clothing/Sericulture.private.md) 
+
+### #is_/same_as :: [Sericulture.personal](/_personal/Technology/Tool/Clothing/Sericulture.personal.md) 
+
+### #is_/same_as :: [Sericulture.secret](/_secret/Technology/Tool/Clothing/Sericulture.secret.md)
+

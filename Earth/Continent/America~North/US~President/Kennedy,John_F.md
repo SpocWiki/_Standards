@@ -211,3 +211,22 @@ Social_Security_Death_Index_entry: 026-22-3747
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kennedy,John_F](/_Standards/Earth/Continent/America~North/US~President/Kennedy,John_F.md) 
+
+### #is_/same_as :: [Kennedy,John_F.public](/_public/Earth/Continent/America~North/US~President/Kennedy,John_F.public.md) 
+
+### #is_/same_as :: [Kennedy,John_F.internal](/_internal/Earth/Continent/America~North/US~President/Kennedy,John_F.internal.md) 
+
+### #is_/same_as :: [Kennedy,John_F.protect](/_protect/Earth/Continent/America~North/US~President/Kennedy,John_F.protect.md) 
+
+### #is_/same_as :: [Kennedy,John_F.private](/_private/Earth/Continent/America~North/US~President/Kennedy,John_F.private.md) 
+
+### #is_/same_as :: [Kennedy,John_F.personal](/_personal/Earth/Continent/America~North/US~President/Kennedy,John_F.personal.md) 
+
+### #is_/same_as :: [Kennedy,John_F.secret](/_secret/Earth/Continent/America~North/US~President/Kennedy,John_F.secret.md)
+

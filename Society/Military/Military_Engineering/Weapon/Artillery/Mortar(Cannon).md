@@ -49,3 +49,22 @@ Artillery weapon that launches explosive projectiles at high angles.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mortar%20(weapon))  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mortar(Cannon)](/_Standards/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).md) 
+
+### #is_/same_as :: [Mortar(Cannon).public](/_public/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).public.md) 
+
+### #is_/same_as :: [Mortar(Cannon).internal](/_internal/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).internal.md) 
+
+### #is_/same_as :: [Mortar(Cannon).protect](/_protect/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).protect.md) 
+
+### #is_/same_as :: [Mortar(Cannon).private](/_private/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).private.md) 
+
+### #is_/same_as :: [Mortar(Cannon).personal](/_personal/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).personal.md) 
+
+### #is_/same_as :: [Mortar(Cannon).secret](/_secret/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).secret.md)
+

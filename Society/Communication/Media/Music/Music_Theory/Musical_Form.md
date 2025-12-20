@@ -43,3 +43,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MUZIKALNAYA_FORMA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Musical%20form) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Musical_Form](/_Standards/Society/Communication/Media/Music/Music_Theory/Musical_Form.md) 
+
+### #is_/same_as :: [Musical_Form.public](/_public/Society/Communication/Media/Music/Music_Theory/Musical_Form.public.md) 
+
+### #is_/same_as :: [Musical_Form.internal](/_internal/Society/Communication/Media/Music/Music_Theory/Musical_Form.internal.md) 
+
+### #is_/same_as :: [Musical_Form.protect](/_protect/Society/Communication/Media/Music/Music_Theory/Musical_Form.protect.md) 
+
+### #is_/same_as :: [Musical_Form.private](/_private/Society/Communication/Media/Music/Music_Theory/Musical_Form.private.md) 
+
+### #is_/same_as :: [Musical_Form.personal](/_personal/Society/Communication/Media/Music/Music_Theory/Musical_Form.personal.md) 
+
+### #is_/same_as :: [Musical_Form.secret](/_secret/Society/Communication/Media/Music/Music_Theory/Musical_Form.secret.md)
+

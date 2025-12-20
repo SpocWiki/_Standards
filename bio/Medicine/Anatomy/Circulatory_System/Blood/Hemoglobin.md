@@ -75,3 +75,22 @@ Krugosvet_article_archived_: meditsina/gemoglobin
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hemoglobin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hemoglobin](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood/Hemoglobin.md) 
+
+### #is_/same_as :: [Hemoglobin.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Blood/Hemoglobin.public.md) 
+
+### #is_/same_as :: [Hemoglobin.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood/Hemoglobin.internal.md) 
+
+### #is_/same_as :: [Hemoglobin.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood/Hemoglobin.protect.md) 
+
+### #is_/same_as :: [Hemoglobin.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Blood/Hemoglobin.private.md) 
+
+### #is_/same_as :: [Hemoglobin.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood/Hemoglobin.personal.md) 
+
+### #is_/same_as :: [Hemoglobin.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood/Hemoglobin.secret.md)
+

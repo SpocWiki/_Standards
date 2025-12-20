@@ -23,3 +23,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Siren%20(mythology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Siren(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Siren(Mythology).md) 
+
+### #is_/same_as :: [Siren(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Siren(Mythology).public.md) 
+
+### #is_/same_as :: [Siren(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Siren(Mythology).internal.md) 
+
+### #is_/same_as :: [Siren(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Siren(Mythology).protect.md) 
+
+### #is_/same_as :: [Siren(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Siren(Mythology).private.md) 
+
+### #is_/same_as :: [Siren(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Siren(Mythology).personal.md) 
+
+### #is_/same_as :: [Siren(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Siren(Mythology).secret.md)
+

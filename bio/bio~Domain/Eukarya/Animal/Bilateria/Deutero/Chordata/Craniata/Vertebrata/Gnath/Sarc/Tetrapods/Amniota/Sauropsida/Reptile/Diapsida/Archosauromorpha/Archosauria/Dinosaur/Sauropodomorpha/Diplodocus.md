@@ -51,3 +51,22 @@ Unicode_character: 🦕
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diplodocus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diplodocus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Sauropodomorpha/Diplodocus.md) 
+
+### #is_/same_as :: [Diplodocus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Sauropodomorpha/Diplodocus.public.md) 
+
+### #is_/same_as :: [Diplodocus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Sauropodomorpha/Diplodocus.internal.md) 
+
+### #is_/same_as :: [Diplodocus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Sauropodomorpha/Diplodocus.protect.md) 
+
+### #is_/same_as :: [Diplodocus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Sauropodomorpha/Diplodocus.private.md) 
+
+### #is_/same_as :: [Diplodocus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Sauropodomorpha/Diplodocus.personal.md) 
+
+### #is_/same_as :: [Diplodocus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Sauropodomorpha/Diplodocus.secret.md)
+

@@ -208,17 +208,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.md) 
+### #is_/same_as :: [Gauss,Carl_Friedrich](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.md) 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.public.md) 
+### #is_/same_as :: [Gauss,Carl_Friedrich.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.public.md) 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.internal.md) 
+### #is_/same_as :: [Gauss,Carl_Friedrich.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.internal.md) 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.protect.md) 
+### #is_/same_as :: [Gauss,Carl_Friedrich.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.protect.md) 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.private.md) 
+### #is_/same_as :: [Gauss,Carl_Friedrich.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.private.md) 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.personal.md) 
+### #is_/same_as :: [Gauss,Carl_Friedrich.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.personal.md) 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.secret.md)
+### #is_/same_as :: [Gauss,Carl_Friedrich.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.secret.md)
 

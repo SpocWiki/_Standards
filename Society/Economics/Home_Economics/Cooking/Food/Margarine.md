@@ -102,3 +102,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Margarine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Margarine](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Margarine.md) 
+
+### #is_/same_as :: [Margarine.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Margarine.public.md) 
+
+### #is_/same_as :: [Margarine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Margarine.internal.md) 
+
+### #is_/same_as :: [Margarine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Margarine.protect.md) 
+
+### #is_/same_as :: [Margarine.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Margarine.private.md) 
+
+### #is_/same_as :: [Margarine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Margarine.personal.md) 
+
+### #is_/same_as :: [Margarine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Margarine.secret.md)
+

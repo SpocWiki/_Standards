@@ -51,3 +51,22 @@ Commons_category: Special forces
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Special%20forces) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Special_Forces](/_Standards/Society/Military/Armed_Forces/Special_Forces.md) 
+
+### #is_/same_as :: [Special_Forces.public](/_public/Society/Military/Armed_Forces/Special_Forces.public.md) 
+
+### #is_/same_as :: [Special_Forces.internal](/_internal/Society/Military/Armed_Forces/Special_Forces.internal.md) 
+
+### #is_/same_as :: [Special_Forces.protect](/_protect/Society/Military/Armed_Forces/Special_Forces.protect.md) 
+
+### #is_/same_as :: [Special_Forces.private](/_private/Society/Military/Armed_Forces/Special_Forces.private.md) 
+
+### #is_/same_as :: [Special_Forces.personal](/_personal/Society/Military/Armed_Forces/Special_Forces.personal.md) 
+
+### #is_/same_as :: [Special_Forces.secret](/_secret/Society/Military/Armed_Forces/Special_Forces.secret.md)
+

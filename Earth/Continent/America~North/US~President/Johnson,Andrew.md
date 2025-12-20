@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Johnson,Andrew
 - "Andrew Johnson"
@@ -34,4 +34,23 @@ type: private_note
 [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]] ] 
 
 -   [has_role :: [[../US~President]] ] [created:: 1865-04-15]  [cancelled:: 1869-03-04]  
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Johnson,Andrew](/_Standards/Earth/Continent/America~North/US~President/Johnson,Andrew.md) 
+
+### #is_/same_as :: [Johnson,Andrew.public](/_public/Earth/Continent/America~North/US~President/Johnson,Andrew.public.md) 
+
+### #is_/same_as :: [Johnson,Andrew.internal](/_internal/Earth/Continent/America~North/US~President/Johnson,Andrew.internal.md) 
+
+### #is_/same_as :: [Johnson,Andrew.protect](/_protect/Earth/Continent/America~North/US~President/Johnson,Andrew.protect.md) 
+
+### #is_/same_as :: [Johnson,Andrew.private](/_private/Earth/Continent/America~North/US~President/Johnson,Andrew.private.md) 
+
+### #is_/same_as :: [Johnson,Andrew.personal](/_personal/Earth/Continent/America~North/US~President/Johnson,Andrew.personal.md) 
+
+### #is_/same_as :: [Johnson,Andrew.secret](/_secret/Earth/Continent/America~North/US~President/Johnson,Andrew.secret.md)
 

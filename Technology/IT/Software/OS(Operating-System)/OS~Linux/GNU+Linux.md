@@ -25,3 +25,22 @@ subreddit: gnulinux
 ---
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GNU+Linux](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.md) 
+
+### #is_/same_as :: [GNU+Linux.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.public.md) 
+
+### #is_/same_as :: [GNU+Linux.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.internal.md) 
+
+### #is_/same_as :: [GNU+Linux.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.protect.md) 
+
+### #is_/same_as :: [GNU+Linux.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.private.md) 
+
+### #is_/same_as :: [GNU+Linux.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.personal.md) 
+
+### #is_/same_as :: [GNU+Linux.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.secret.md)
+

@@ -80,3 +80,22 @@ official_website: https://www.lego.com/en-us
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lego) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lego](/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Lego.md) 
+
+### #is_/same_as :: [Lego.public](/_public/Society/Communication/Media/Creative_Work/Game/Toy/Lego.public.md) 
+
+### #is_/same_as :: [Lego.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Toy/Lego.internal.md) 
+
+### #is_/same_as :: [Lego.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Toy/Lego.protect.md) 
+
+### #is_/same_as :: [Lego.private](/_private/Society/Communication/Media/Creative_Work/Game/Toy/Lego.private.md) 
+
+### #is_/same_as :: [Lego.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Toy/Lego.personal.md) 
+
+### #is_/same_as :: [Lego.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Toy/Lego.secret.md)
+

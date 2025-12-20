@@ -33,3 +33,22 @@ video:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reflecting_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.md) 
+
+### #is_/same_as :: [Reflecting_Telescope.public](/_public/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.public.md) 
+
+### #is_/same_as :: [Reflecting_Telescope.internal](/_internal/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.internal.md) 
+
+### #is_/same_as :: [Reflecting_Telescope.protect](/_protect/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.protect.md) 
+
+### #is_/same_as :: [Reflecting_Telescope.private](/_private/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.private.md) 
+
+### #is_/same_as :: [Reflecting_Telescope.personal](/_personal/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.personal.md) 
+
+### #is_/same_as :: [Reflecting_Telescope.secret](/_secret/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.secret.md)
+

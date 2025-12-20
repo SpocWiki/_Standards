@@ -29,3 +29,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Baroque_Painting](/_Standards/Society/Communication/Media/Painting/Painter/Baroque_Painting.md) 
+
+### #is_/same_as :: [Baroque_Painting.public](/_public/Society/Communication/Media/Painting/Painter/Baroque_Painting.public.md) 
+
+### #is_/same_as :: [Baroque_Painting.internal](/_internal/Society/Communication/Media/Painting/Painter/Baroque_Painting.internal.md) 
+
+### #is_/same_as :: [Baroque_Painting.protect](/_protect/Society/Communication/Media/Painting/Painter/Baroque_Painting.protect.md) 
+
+### #is_/same_as :: [Baroque_Painting.private](/_private/Society/Communication/Media/Painting/Painter/Baroque_Painting.private.md) 
+
+### #is_/same_as :: [Baroque_Painting.personal](/_personal/Society/Communication/Media/Painting/Painter/Baroque_Painting.personal.md) 
+
+### #is_/same_as :: [Baroque_Painting.secret](/_secret/Society/Communication/Media/Painting/Painter/Baroque_Painting.secret.md)
+

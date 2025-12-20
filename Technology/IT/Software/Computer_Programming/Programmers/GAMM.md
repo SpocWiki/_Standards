@@ -24,3 +24,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gesellschaft%20f%C3%BCr%20Angewandte%20Mathematik%20und%20Mechanik)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GAMM](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/GAMM.md) 
+
+### #is_/same_as :: [GAMM.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/GAMM.public.md) 
+
+### #is_/same_as :: [GAMM.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/GAMM.internal.md) 
+
+### #is_/same_as :: [GAMM.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/GAMM.protect.md) 
+
+### #is_/same_as :: [GAMM.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/GAMM.private.md) 
+
+### #is_/same_as :: [GAMM.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/GAMM.personal.md) 
+
+### #is_/same_as :: [GAMM.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/GAMM.secret.md)
+

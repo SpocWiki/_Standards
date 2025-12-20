@@ -34,3 +34,22 @@ opposite_of: "[[_Standards/WikiData/WD~applied_mathematics,33521]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pure%20mathematics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pure_Mathematics](/_Standards/Mathematics/Pure_Mathematics.md) 
+
+### #is_/same_as :: [Pure_Mathematics.public](/_public/Mathematics/Pure_Mathematics.public.md) 
+
+### #is_/same_as :: [Pure_Mathematics.internal](/_internal/Mathematics/Pure_Mathematics.internal.md) 
+
+### #is_/same_as :: [Pure_Mathematics.protect](/_protect/Mathematics/Pure_Mathematics.protect.md) 
+
+### #is_/same_as :: [Pure_Mathematics.private](/_private/Mathematics/Pure_Mathematics.private.md) 
+
+### #is_/same_as :: [Pure_Mathematics.personal](/_personal/Mathematics/Pure_Mathematics.personal.md) 
+
+### #is_/same_as :: [Pure_Mathematics.secret](/_secret/Mathematics/Pure_Mathematics.secret.md)
+

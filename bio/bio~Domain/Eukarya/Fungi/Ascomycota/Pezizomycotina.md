@@ -22,7 +22,7 @@ title: Pezizomycotina
 
 # Pezizomycotina 
 
-Containing group:[Ascomycota](../Ascomycota.md))
+Containing group:[Ascomycota](../Ascomycota.md))
 
 
 ## Confidential Links & Embeds: 

@@ -61,3 +61,22 @@ Dewey_Decimal_Classification: "621.45"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wind%20turbine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wind_Turbine](/_Standards/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.md) 
+
+### #is_/same_as :: [Wind_Turbine.public](/_public/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.public.md) 
+
+### #is_/same_as :: [Wind_Turbine.internal](/_internal/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.internal.md) 
+
+### #is_/same_as :: [Wind_Turbine.protect](/_protect/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.protect.md) 
+
+### #is_/same_as :: [Wind_Turbine.private](/_private/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.private.md) 
+
+### #is_/same_as :: [Wind_Turbine.personal](/_personal/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.personal.md) 
+
+### #is_/same_as :: [Wind_Turbine.secret](/_secret/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.secret.md)
+

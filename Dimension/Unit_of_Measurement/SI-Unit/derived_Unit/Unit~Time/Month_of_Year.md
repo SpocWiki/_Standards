@@ -16,3 +16,22 @@ has_id_wikidata: Q5151
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Month) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Month_of_Year](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.md) 
+
+### #is_/same_as :: [Month_of_Year.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.public.md) 
+
+### #is_/same_as :: [Month_of_Year.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.internal.md) 
+
+### #is_/same_as :: [Month_of_Year.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.protect.md) 
+
+### #is_/same_as :: [Month_of_Year.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.private.md) 
+
+### #is_/same_as :: [Month_of_Year.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.personal.md) 
+
+### #is_/same_as :: [Month_of_Year.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.secret.md)
+

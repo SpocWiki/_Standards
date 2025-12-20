@@ -151,3 +151,22 @@ name_in_native_language: Γαία
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gaia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gaia](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Gaia.md) 
+
+### #is_/same_as :: [Gaia.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Gaia.public.md) 
+
+### #is_/same_as :: [Gaia.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Gaia.internal.md) 
+
+### #is_/same_as :: [Gaia.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Gaia.protect.md) 
+
+### #is_/same_as :: [Gaia.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Gaia.private.md) 
+
+### #is_/same_as :: [Gaia.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Gaia.personal.md) 
+
+### #is_/same_as :: [Gaia.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Gaia.secret.md)
+

@@ -72,19 +72,20 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 #is_/same_as :: [[WD~broadcasting,15078788]] 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Broadcast_Channel](Broadcast_Channel.md) 
+### #is_/same_as :: [Broadcast_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.md) 
 
-### #is_/same_as :: [broadcast_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel.public.md) 
+### #is_/same_as :: [Broadcast_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.public.md) 
 
-### #is_/same_as :: [broadcast_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel.internal.md) 
+### #is_/same_as :: [Broadcast_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.internal.md) 
 
-### #is_/same_as :: [broadcast_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel.protect.md) 
+### #is_/same_as :: [Broadcast_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.protect.md) 
 
-### #is_/same_as :: [broadcast_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel.private.md) 
+### #is_/same_as :: [Broadcast_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.private.md) 
 
-### #is_/same_as :: [broadcast_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel.personal.md) 
+### #is_/same_as :: [Broadcast_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.personal.md) 
 
-### #is_/same_as :: [broadcast_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel.secret.md)
+### #is_/same_as :: [Broadcast_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel.secret.md)
 

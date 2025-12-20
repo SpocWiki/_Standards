@@ -50,3 +50,22 @@ Commons_category: Perpetual calendars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Perpetual%20calendar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Perpetual_Calendar](/_Standards/ISO/Calendar/Perpetual_Calendar.md) 
+
+### #is_/same_as :: [Perpetual_Calendar.public](/_public/ISO/Calendar/Perpetual_Calendar.public.md) 
+
+### #is_/same_as :: [Perpetual_Calendar.internal](/_internal/ISO/Calendar/Perpetual_Calendar.internal.md) 
+
+### #is_/same_as :: [Perpetual_Calendar.protect](/_protect/ISO/Calendar/Perpetual_Calendar.protect.md) 
+
+### #is_/same_as :: [Perpetual_Calendar.private](/_private/ISO/Calendar/Perpetual_Calendar.private.md) 
+
+### #is_/same_as :: [Perpetual_Calendar.personal](/_personal/ISO/Calendar/Perpetual_Calendar.personal.md) 
+
+### #is_/same_as :: [Perpetual_Calendar.secret](/_secret/ISO/Calendar/Perpetual_Calendar.secret.md)
+

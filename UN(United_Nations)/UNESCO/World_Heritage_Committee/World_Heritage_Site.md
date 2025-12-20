@@ -64,3 +64,22 @@ OpenStreetMap_tag: heritage:operator=whc
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Heritage%20Site) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [World_Heritage_Site](/_Standards/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.md) 
+
+### #is_/same_as :: [World_Heritage_Site.public](/_public/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.public.md) 
+
+### #is_/same_as :: [World_Heritage_Site.internal](/_internal/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.internal.md) 
+
+### #is_/same_as :: [World_Heritage_Site.protect](/_protect/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.protect.md) 
+
+### #is_/same_as :: [World_Heritage_Site.private](/_private/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.private.md) 
+
+### #is_/same_as :: [World_Heritage_Site.personal](/_personal/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.personal.md) 
+
+### #is_/same_as :: [World_Heritage_Site.secret](/_secret/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.secret.md)
+

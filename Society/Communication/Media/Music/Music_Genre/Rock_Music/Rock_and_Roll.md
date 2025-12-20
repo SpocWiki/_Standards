@@ -62,3 +62,22 @@ hashtag_: RockAndRoll
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rock%20and%20roll) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rock_and_Roll](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Rock_and_Roll.md) 
+
+### #is_/same_as :: [Rock_and_Roll.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Rock_and_Roll.public.md) 
+
+### #is_/same_as :: [Rock_and_Roll.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Rock_and_Roll.internal.md) 
+
+### #is_/same_as :: [Rock_and_Roll.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Rock_and_Roll.protect.md) 
+
+### #is_/same_as :: [Rock_and_Roll.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Rock_and_Roll.private.md) 
+
+### #is_/same_as :: [Rock_and_Roll.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Rock_and_Roll.personal.md) 
+
+### #is_/same_as :: [Rock_and_Roll.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Rock_and_Roll.secret.md)
+

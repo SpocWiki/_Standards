@@ -17,17 +17,17 @@ has_id_wikidata: Q180472
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adoption](/_Standards/Society/Family/Adoption.md) 
+### #is_/same_as :: [Adoption](/_Standards/Society/Agent/Community/Clan/Family/Adoption.md) 
 
-### #is_/same_as :: [Adoption.public](/_public/Society/Family/Adoption.public.md) 
+### #is_/same_as :: [Adoption.public](/_public/Society/Agent/Community/Clan/Family/Adoption.public.md) 
 
-### #is_/same_as :: [Adoption.internal](/_internal/Society/Family/Adoption.internal.md) 
+### #is_/same_as :: [Adoption.internal](/_internal/Society/Agent/Community/Clan/Family/Adoption.internal.md) 
 
-### #is_/same_as :: [Adoption.protect](/_protect/Society/Family/Adoption.protect.md) 
+### #is_/same_as :: [Adoption.protect](/_protect/Society/Agent/Community/Clan/Family/Adoption.protect.md) 
 
-### #is_/same_as :: [Adoption.private](/_private/Society/Family/Adoption.private.md) 
+### #is_/same_as :: [Adoption.private](/_private/Society/Agent/Community/Clan/Family/Adoption.private.md) 
 
-### #is_/same_as :: [Adoption.personal](/_personal/Society/Family/Adoption.personal.md) 
+### #is_/same_as :: [Adoption.personal](/_personal/Society/Agent/Community/Clan/Family/Adoption.personal.md) 
 
-### #is_/same_as :: [Adoption.secret](/_secret/Society/Family/Adoption.secret.md)
+### #is_/same_as :: [Adoption.secret](/_secret/Society/Agent/Community/Clan/Family/Adoption.secret.md)
 

@@ -33,3 +33,22 @@ has_id_wikidata: Q28598
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cultural%20anthropology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cultural_Anthropology](/_Standards/Society/Anthropology/Cultural_Anthropology.md) 
+
+### #is_/same_as :: [Cultural_Anthropology.public](/_public/Society/Anthropology/Cultural_Anthropology.public.md) 
+
+### #is_/same_as :: [Cultural_Anthropology.internal](/_internal/Society/Anthropology/Cultural_Anthropology.internal.md) 
+
+### #is_/same_as :: [Cultural_Anthropology.protect](/_protect/Society/Anthropology/Cultural_Anthropology.protect.md) 
+
+### #is_/same_as :: [Cultural_Anthropology.private](/_private/Society/Anthropology/Cultural_Anthropology.private.md) 
+
+### #is_/same_as :: [Cultural_Anthropology.personal](/_personal/Society/Anthropology/Cultural_Anthropology.personal.md) 
+
+### #is_/same_as :: [Cultural_Anthropology.secret](/_secret/Society/Anthropology/Cultural_Anthropology.secret.md)
+

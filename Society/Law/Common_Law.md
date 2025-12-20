@@ -74,3 +74,22 @@ Commons_category: Common law
 > . 
 > [Wikipedia](https://en.wikipedia.org/wiki/Common%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Common_Law](/_Standards/Society/Law/Common_Law.md) 
+
+### #is_/same_as :: [Common_Law.public](/_public/Society/Law/Common_Law.public.md) 
+
+### #is_/same_as :: [Common_Law.internal](/_internal/Society/Law/Common_Law.internal.md) 
+
+### #is_/same_as :: [Common_Law.protect](/_protect/Society/Law/Common_Law.protect.md) 
+
+### #is_/same_as :: [Common_Law.private](/_private/Society/Law/Common_Law.private.md) 
+
+### #is_/same_as :: [Common_Law.personal](/_personal/Society/Law/Common_Law.personal.md) 
+
+### #is_/same_as :: [Common_Law.secret](/_secret/Society/Law/Common_Law.secret.md)
+

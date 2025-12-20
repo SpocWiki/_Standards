@@ -29,3 +29,22 @@ Library_of_Congress_Classification: BL325.C7
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Origin_Myth](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Origin_Myth.md) 
+
+### #is_/same_as :: [Origin_Myth.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Origin_Myth.public.md) 
+
+### #is_/same_as :: [Origin_Myth.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Origin_Myth.internal.md) 
+
+### #is_/same_as :: [Origin_Myth.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Origin_Myth.protect.md) 
+
+### #is_/same_as :: [Origin_Myth.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Origin_Myth.private.md) 
+
+### #is_/same_as :: [Origin_Myth.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Origin_Myth.personal.md) 
+
+### #is_/same_as :: [Origin_Myth.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Origin_Myth.secret.md)
+

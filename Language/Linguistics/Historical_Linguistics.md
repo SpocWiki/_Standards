@@ -42,3 +42,22 @@ PhilPapers_topic: historical-linguistics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Historical%20linguistics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Historical_Linguistics](/_Standards/Language/Linguistics/Historical_Linguistics.md) 
+
+### #is_/same_as :: [Historical_Linguistics.public](/_public/Language/Linguistics/Historical_Linguistics.public.md) 
+
+### #is_/same_as :: [Historical_Linguistics.internal](/_internal/Language/Linguistics/Historical_Linguistics.internal.md) 
+
+### #is_/same_as :: [Historical_Linguistics.protect](/_protect/Language/Linguistics/Historical_Linguistics.protect.md) 
+
+### #is_/same_as :: [Historical_Linguistics.private](/_private/Language/Linguistics/Historical_Linguistics.private.md) 
+
+### #is_/same_as :: [Historical_Linguistics.personal](/_personal/Language/Linguistics/Historical_Linguistics.personal.md) 
+
+### #is_/same_as :: [Historical_Linguistics.secret](/_secret/Language/Linguistics/Historical_Linguistics.secret.md)
+

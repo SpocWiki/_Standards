@@ -79,3 +79,22 @@ Commons_category: Le Penseur
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Thinker) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [The_Thinker](/_Standards/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.md) 
+
+### #is_/same_as :: [The_Thinker.public](/_public/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.public.md) 
+
+### #is_/same_as :: [The_Thinker.internal](/_internal/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.internal.md) 
+
+### #is_/same_as :: [The_Thinker.protect](/_protect/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.protect.md) 
+
+### #is_/same_as :: [The_Thinker.private](/_private/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.private.md) 
+
+### #is_/same_as :: [The_Thinker.personal](/_personal/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.personal.md) 
+
+### #is_/same_as :: [The_Thinker.secret](/_secret/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.secret.md)
+

@@ -62,3 +62,22 @@ inception: 1912-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20pentathlon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modern_Pentathlon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.md) 
+
+### #is_/same_as :: [Modern_Pentathlon.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.public.md) 
+
+### #is_/same_as :: [Modern_Pentathlon.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.internal.md) 
+
+### #is_/same_as :: [Modern_Pentathlon.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.protect.md) 
+
+### #is_/same_as :: [Modern_Pentathlon.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.private.md) 
+
+### #is_/same_as :: [Modern_Pentathlon.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.personal.md) 
+
+### #is_/same_as :: [Modern_Pentathlon.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.secret.md)
+

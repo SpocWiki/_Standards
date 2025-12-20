@@ -96,3 +96,22 @@ IMDb_keyword: reference-to-tarzan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tarzan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tarzan](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.md) 
+
+### #is_/same_as :: [Tarzan.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.public.md) 
+
+### #is_/same_as :: [Tarzan.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.internal.md) 
+
+### #is_/same_as :: [Tarzan.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.protect.md) 
+
+### #is_/same_as :: [Tarzan.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.private.md) 
+
+### #is_/same_as :: [Tarzan.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.personal.md) 
+
+### #is_/same_as :: [Tarzan.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.secret.md)
+

@@ -42,3 +42,22 @@ Commons_category: Slugs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Slug) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Slug](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Slug.md) 
+
+### #is_/same_as :: [Slug.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Slug.public.md) 
+
+### #is_/same_as :: [Slug.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Slug.internal.md) 
+
+### #is_/same_as :: [Slug.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Slug.protect.md) 
+
+### #is_/same_as :: [Slug.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Slug.private.md) 
+
+### #is_/same_as :: [Slug.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Slug.personal.md) 
+
+### #is_/same_as :: [Slug.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Slug.secret.md)
+

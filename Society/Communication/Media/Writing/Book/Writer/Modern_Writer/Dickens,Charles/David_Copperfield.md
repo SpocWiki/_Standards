@@ -73,3 +73,22 @@ first_line: Whether I shall turn out to be the hero of my own life, or whether t
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Copperfield) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [David_Copperfield](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.md) 
+
+### #is_/same_as :: [David_Copperfield.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.public.md) 
+
+### #is_/same_as :: [David_Copperfield.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.internal.md) 
+
+### #is_/same_as :: [David_Copperfield.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.protect.md) 
+
+### #is_/same_as :: [David_Copperfield.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.private.md) 
+
+### #is_/same_as :: [David_Copperfield.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.personal.md) 
+
+### #is_/same_as :: [David_Copperfield.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.secret.md)
+

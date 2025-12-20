@@ -48,3 +48,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schli
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20skating) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ice_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating.md) 
+
+### #is_/same_as :: [Ice_Skating.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating.public.md) 
+
+### #is_/same_as :: [Ice_Skating.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating.internal.md) 
+
+### #is_/same_as :: [Ice_Skating.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating.protect.md) 
+
+### #is_/same_as :: [Ice_Skating.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating.private.md) 
+
+### #is_/same_as :: [Ice_Skating.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating.personal.md) 
+
+### #is_/same_as :: [Ice_Skating.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating.secret.md)
+

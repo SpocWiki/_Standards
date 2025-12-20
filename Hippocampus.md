@@ -22,3 +22,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hippocampus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hippocampus](/_Standards/Hippocampus.md) 
+
+### #is_/same_as :: [Hippocampus.public](/_public/Hippocampus.public.md) 
+
+### #is_/same_as :: [Hippocampus.internal](/_internal/Hippocampus.internal.md) 
+
+### #is_/same_as :: [Hippocampus.protect](/_protect/Hippocampus.protect.md) 
+
+### #is_/same_as :: [Hippocampus.private](/_private/Hippocampus.private.md) 
+
+### #is_/same_as :: [Hippocampus.personal](/_personal/Hippocampus.personal.md) 
+
+### #is_/same_as :: [Hippocampus.secret](/_secret/Hippocampus.secret.md)
+

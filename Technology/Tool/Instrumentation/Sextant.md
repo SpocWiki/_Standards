@@ -72,3 +72,22 @@ Commons_category: Sextants
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sextant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sextant](/_Standards/Technology/Tool/Instrumentation/Sextant.md) 
+
+### #is_/same_as :: [Sextant.public](/_public/Technology/Tool/Instrumentation/Sextant.public.md) 
+
+### #is_/same_as :: [Sextant.internal](/_internal/Technology/Tool/Instrumentation/Sextant.internal.md) 
+
+### #is_/same_as :: [Sextant.protect](/_protect/Technology/Tool/Instrumentation/Sextant.protect.md) 
+
+### #is_/same_as :: [Sextant.private](/_private/Technology/Tool/Instrumentation/Sextant.private.md) 
+
+### #is_/same_as :: [Sextant.personal](/_personal/Technology/Tool/Instrumentation/Sextant.personal.md) 
+
+### #is_/same_as :: [Sextant.secret](/_secret/Technology/Tool/Instrumentation/Sextant.secret.md)
+

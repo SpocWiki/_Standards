@@ -72,3 +72,22 @@ native_label: Московский Кремль
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kremlin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kremlin,Moscow](/_Standards/Earth/Geography/Place/Kremlin,Moscow.md) 
+
+### #is_/same_as :: [Kremlin,Moscow.public](/_public/Earth/Geography/Place/Kremlin,Moscow.public.md) 
+
+### #is_/same_as :: [Kremlin,Moscow.internal](/_internal/Earth/Geography/Place/Kremlin,Moscow.internal.md) 
+
+### #is_/same_as :: [Kremlin,Moscow.protect](/_protect/Earth/Geography/Place/Kremlin,Moscow.protect.md) 
+
+### #is_/same_as :: [Kremlin,Moscow.private](/_private/Earth/Geography/Place/Kremlin,Moscow.private.md) 
+
+### #is_/same_as :: [Kremlin,Moscow.personal](/_personal/Earth/Geography/Place/Kremlin,Moscow.personal.md) 
+
+### #is_/same_as :: [Kremlin,Moscow.secret](/_secret/Earth/Geography/Place/Kremlin,Moscow.secret.md)
+

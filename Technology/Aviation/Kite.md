@@ -66,3 +66,22 @@ Unicode_character: 🪁
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kite](/_Standards/Technology/Aviation/Kite.md) 
+
+### #is_/same_as :: [Kite.public](/_public/Technology/Aviation/Kite.public.md) 
+
+### #is_/same_as :: [Kite.internal](/_internal/Technology/Aviation/Kite.internal.md) 
+
+### #is_/same_as :: [Kite.protect](/_protect/Technology/Aviation/Kite.protect.md) 
+
+### #is_/same_as :: [Kite.private](/_private/Technology/Aviation/Kite.private.md) 
+
+### #is_/same_as :: [Kite.personal](/_personal/Technology/Aviation/Kite.personal.md) 
+
+### #is_/same_as :: [Kite.secret](/_secret/Technology/Aviation/Kite.secret.md)
+

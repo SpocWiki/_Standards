@@ -51,3 +51,22 @@ Commons_category: Nordic skiing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nordic%20skiing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nordic_Skiing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.md) 
+
+### #is_/same_as :: [Nordic_Skiing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.public.md) 
+
+### #is_/same_as :: [Nordic_Skiing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.internal.md) 
+
+### #is_/same_as :: [Nordic_Skiing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.protect.md) 
+
+### #is_/same_as :: [Nordic_Skiing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.private.md) 
+
+### #is_/same_as :: [Nordic_Skiing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.personal.md) 
+
+### #is_/same_as :: [Nordic_Skiing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.secret.md)
+

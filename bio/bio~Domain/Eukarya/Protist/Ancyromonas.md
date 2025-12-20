@@ -99,7 +99,6 @@ European Journal of Protistology 32:423-448.
   ------------------
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ancyromonas](/_Standards/bio/bio~Domain/Eukarya/Protist/Ancyromonas.md) 

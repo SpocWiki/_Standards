@@ -89,7 +89,7 @@ European Journal of Protistology 32:423-448.
   Comments             Light micrographs of living cells (Differential Interference Contrast)
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 David J. Patterson and Alastair Simpson
-  ---------------------------
+  ---------------------------
 
 
 ## Confidential Links & Embeds: 

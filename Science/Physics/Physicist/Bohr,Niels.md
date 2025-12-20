@@ -211,3 +211,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Bohr::vj9nc"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niels%20Bohr) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bohr,Niels](/_Standards/Science/Physics/Physicist/Bohr,Niels.md) 
+
+### #is_/same_as :: [Bohr,Niels.public](/_public/Science/Physics/Physicist/Bohr,Niels.public.md) 
+
+### #is_/same_as :: [Bohr,Niels.internal](/_internal/Science/Physics/Physicist/Bohr,Niels.internal.md) 
+
+### #is_/same_as :: [Bohr,Niels.protect](/_protect/Science/Physics/Physicist/Bohr,Niels.protect.md) 
+
+### #is_/same_as :: [Bohr,Niels.private](/_private/Science/Physics/Physicist/Bohr,Niels.private.md) 
+
+### #is_/same_as :: [Bohr,Niels.personal](/_personal/Science/Physics/Physicist/Bohr,Niels.personal.md) 
+
+### #is_/same_as :: [Bohr,Niels.secret](/_secret/Science/Physics/Physicist/Bohr,Niels.secret.md)
+

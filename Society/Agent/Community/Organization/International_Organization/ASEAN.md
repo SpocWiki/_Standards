@@ -117,17 +117,17 @@ X_Twitter_username: ASEAN
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ASEAN](ASEAN.md) 
+### #is_/same_as :: [ASEAN](/_Standards/Society/Agent/Community/Organization/International_Organization/ASEAN.md) 
 
-### #is_/same_as :: [ASEAN.public](/_public/International/ASEAN.public.md) 
+### #is_/same_as :: [ASEAN.public](/_public/Society/Agent/Community/Organization/International_Organization/ASEAN.public.md) 
 
-### #is_/same_as :: [ASEAN.internal](/_internal/International/ASEAN.internal.md) 
+### #is_/same_as :: [ASEAN.internal](/_internal/Society/Agent/Community/Organization/International_Organization/ASEAN.internal.md) 
 
-### #is_/same_as :: [ASEAN.protect](/_protect/International/ASEAN.protect.md) 
+### #is_/same_as :: [ASEAN.protect](/_protect/Society/Agent/Community/Organization/International_Organization/ASEAN.protect.md) 
 
-### #is_/same_as :: [ASEAN.private](/_private/International/ASEAN.private.md) 
+### #is_/same_as :: [ASEAN.private](/_private/Society/Agent/Community/Organization/International_Organization/ASEAN.private.md) 
 
-### #is_/same_as :: [ASEAN.personal](/_personal/International/ASEAN.personal.md) 
+### #is_/same_as :: [ASEAN.personal](/_personal/Society/Agent/Community/Organization/International_Organization/ASEAN.personal.md) 
 
-### #is_/same_as :: [ASEAN.secret](/_secret/International/ASEAN.secret.md)
+### #is_/same_as :: [ASEAN.secret](/_secret/Society/Agent/Community/Organization/International_Organization/ASEAN.secret.md)
 

@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electron_Capture](/_Standards/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Electron_Capture.md) 
+### #is_/same_as :: [Electron_Capture](/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.md) 
 
-### #is_/same_as :: [Electron_Capture.public](/_public/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Electron_Capture.public.md) 
+### #is_/same_as :: [Electron_Capture.public](/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.public.md) 
 
-### #is_/same_as :: [Electron_Capture.internal](/_internal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Electron_Capture.internal.md) 
+### #is_/same_as :: [Electron_Capture.internal](/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.internal.md) 
 
-### #is_/same_as :: [Electron_Capture.protect](/_protect/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Electron_Capture.protect.md) 
+### #is_/same_as :: [Electron_Capture.protect](/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.protect.md) 
 
-### #is_/same_as :: [Electron_Capture.private](/_private/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Electron_Capture.private.md) 
+### #is_/same_as :: [Electron_Capture.private](/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.private.md) 
 
-### #is_/same_as :: [Electron_Capture.personal](/_personal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Electron_Capture.personal.md) 
+### #is_/same_as :: [Electron_Capture.personal](/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.personal.md) 
 
-### #is_/same_as :: [Electron_Capture.secret](/_secret/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Electron_Capture.secret.md)
+### #is_/same_as :: [Electron_Capture.secret](/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.secret.md)
 

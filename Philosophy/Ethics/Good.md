@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Good) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Good](/_Standards/Philosophy/Ethics/Good.md) 
+
+### #is_/same_as :: [Good.public](/_public/Philosophy/Ethics/Good.public.md) 
+
+### #is_/same_as :: [Good.internal](/_internal/Philosophy/Ethics/Good.internal.md) 
+
+### #is_/same_as :: [Good.protect](/_protect/Philosophy/Ethics/Good.protect.md) 
+
+### #is_/same_as :: [Good.private](/_private/Philosophy/Ethics/Good.private.md) 
+
+### #is_/same_as :: [Good.personal](/_personal/Philosophy/Ethics/Good.personal.md) 
+
+### #is_/same_as :: [Good.secret](/_secret/Philosophy/Ethics/Good.secret.md)
+

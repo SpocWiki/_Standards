@@ -43,3 +43,22 @@ subreddit: paganism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paganism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paganism](/_Standards/Philosophy/Metaphysic/Religion/Paganism.md) 
+
+### #is_/same_as :: [Paganism.public](/_public/Philosophy/Metaphysic/Religion/Paganism.public.md) 
+
+### #is_/same_as :: [Paganism.internal](/_internal/Philosophy/Metaphysic/Religion/Paganism.internal.md) 
+
+### #is_/same_as :: [Paganism.protect](/_protect/Philosophy/Metaphysic/Religion/Paganism.protect.md) 
+
+### #is_/same_as :: [Paganism.private](/_private/Philosophy/Metaphysic/Religion/Paganism.private.md) 
+
+### #is_/same_as :: [Paganism.personal](/_personal/Philosophy/Metaphysic/Religion/Paganism.personal.md) 
+
+### #is_/same_as :: [Paganism.secret](/_secret/Philosophy/Metaphysic/Religion/Paganism.secret.md)
+

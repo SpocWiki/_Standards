@@ -87,3 +87,22 @@ Provenio_UUID: 028f33dc-266f-4632-bfb7-e897333039a2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Handicraft) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Handicraft](/_Standards/Society/Communication/Art/Decorative_Art/Handicraft.md) 
+
+### #is_/same_as :: [Handicraft.public](/_public/Society/Communication/Art/Decorative_Art/Handicraft.public.md) 
+
+### #is_/same_as :: [Handicraft.internal](/_internal/Society/Communication/Art/Decorative_Art/Handicraft.internal.md) 
+
+### #is_/same_as :: [Handicraft.protect](/_protect/Society/Communication/Art/Decorative_Art/Handicraft.protect.md) 
+
+### #is_/same_as :: [Handicraft.private](/_private/Society/Communication/Art/Decorative_Art/Handicraft.private.md) 
+
+### #is_/same_as :: [Handicraft.personal](/_personal/Society/Communication/Art/Decorative_Art/Handicraft.personal.md) 
+
+### #is_/same_as :: [Handicraft.secret](/_secret/Society/Communication/Art/Decorative_Art/Handicraft.secret.md)
+

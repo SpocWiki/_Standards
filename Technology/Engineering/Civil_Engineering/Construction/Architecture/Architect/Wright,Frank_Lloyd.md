@@ -197,17 +197,17 @@ work_period_start_: 1893
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wright,Frank_Lloyd](Wright,Frank_Lloyd.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.public](/_public/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.public.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.public.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.internal](/_internal/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.internal.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.internal.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.protect](/_protect/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.protect.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.protect.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.private](/_private/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.private.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.private.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.personal](/_personal/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.personal.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.personal.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.secret](/_secret/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.secret.md)
+### #is_/same_as :: [Wright,Frank_Lloyd.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.secret.md)
 

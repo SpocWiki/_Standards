@@ -58,3 +58,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/CHERNI
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ink) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ink](/_Standards/Technology/Tool/Writing_Tool/Ink.md) 
+
+### #is_/same_as :: [Ink.public](/_public/Technology/Tool/Writing_Tool/Ink.public.md) 
+
+### #is_/same_as :: [Ink.internal](/_internal/Technology/Tool/Writing_Tool/Ink.internal.md) 
+
+### #is_/same_as :: [Ink.protect](/_protect/Technology/Tool/Writing_Tool/Ink.protect.md) 
+
+### #is_/same_as :: [Ink.private](/_private/Technology/Tool/Writing_Tool/Ink.private.md) 
+
+### #is_/same_as :: [Ink.personal](/_personal/Technology/Tool/Writing_Tool/Ink.personal.md) 
+
+### #is_/same_as :: [Ink.secret](/_secret/Technology/Tool/Writing_Tool/Ink.secret.md)
+

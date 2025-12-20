@@ -38,3 +38,22 @@ Commons_category: Photochemistry
 > [Wikipedia](https://en.wikipedia.org/wiki/Photochemistry) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Photochemistry](/_Standards/Chemistry/Photochemistry.md) 
+
+### #is_/same_as :: [Photochemistry.public](/_public/Chemistry/Photochemistry.public.md) 
+
+### #is_/same_as :: [Photochemistry.internal](/_internal/Chemistry/Photochemistry.internal.md) 
+
+### #is_/same_as :: [Photochemistry.protect](/_protect/Chemistry/Photochemistry.protect.md) 
+
+### #is_/same_as :: [Photochemistry.private](/_private/Chemistry/Photochemistry.private.md) 
+
+### #is_/same_as :: [Photochemistry.personal](/_personal/Chemistry/Photochemistry.personal.md) 
+
+### #is_/same_as :: [Photochemistry.secret](/_secret/Chemistry/Photochemistry.secret.md)
+

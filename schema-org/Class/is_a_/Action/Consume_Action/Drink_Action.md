@@ -39,17 +39,17 @@ The act of swallowing liquids.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [drink_action](/_Standards/schema-org/Class/is_a_/action/consume_action/drink_action.md) 
+### #is_/same_as :: [Drink_Action](/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Drink_Action.md) 
 
-### #is_/same_as :: [drink_action.public](/_public/schema-org/Class/is_a_/action/consume_action/drink_action.public.md) 
+### #is_/same_as :: [Drink_Action.public](/_public/schema-org/Class/is_a_/Action/Consume_Action/Drink_Action.public.md) 
 
-### #is_/same_as :: [drink_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/drink_action.internal.md) 
+### #is_/same_as :: [Drink_Action.internal](/_internal/schema-org/Class/is_a_/Action/Consume_Action/Drink_Action.internal.md) 
 
-### #is_/same_as :: [drink_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/drink_action.protect.md) 
+### #is_/same_as :: [Drink_Action.protect](/_protect/schema-org/Class/is_a_/Action/Consume_Action/Drink_Action.protect.md) 
 
-### #is_/same_as :: [drink_action.private](/_private/schema-org/Class/is_a_/action/consume_action/drink_action.private.md) 
+### #is_/same_as :: [Drink_Action.private](/_private/schema-org/Class/is_a_/Action/Consume_Action/Drink_Action.private.md) 
 
-### #is_/same_as :: [drink_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/drink_action.personal.md) 
+### #is_/same_as :: [Drink_Action.personal](/_personal/schema-org/Class/is_a_/Action/Consume_Action/Drink_Action.personal.md) 
 
-### #is_/same_as :: [drink_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/drink_action.secret.md)
+### #is_/same_as :: [Drink_Action.secret](/_secret/schema-org/Class/is_a_/Action/Consume_Action/Drink_Action.secret.md)
 

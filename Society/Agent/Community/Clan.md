@@ -47,3 +47,22 @@ Clans and Villages have better chances of Survival than Families.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clan](/_Standards/Society/Agent/Community/Clan.md) 
+
+### #is_/same_as :: [Clan.public](/_public/Society/Agent/Community/Clan.public.md) 
+
+### #is_/same_as :: [Clan.internal](/_internal/Society/Agent/Community/Clan.internal.md) 
+
+### #is_/same_as :: [Clan.protect](/_protect/Society/Agent/Community/Clan.protect.md) 
+
+### #is_/same_as :: [Clan.private](/_private/Society/Agent/Community/Clan.private.md) 
+
+### #is_/same_as :: [Clan.personal](/_personal/Society/Agent/Community/Clan.personal.md) 
+
+### #is_/same_as :: [Clan.secret](/_secret/Society/Agent/Community/Clan.secret.md)
+

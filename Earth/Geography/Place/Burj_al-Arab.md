@@ -57,3 +57,22 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/j
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burj%20Al%20Arab) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Burj_al-Arab](/_Standards/Earth/Geography/Place/Burj_al-Arab.md) 
+
+### #is_/same_as :: [Burj_al-Arab.public](/_public/Earth/Geography/Place/Burj_al-Arab.public.md) 
+
+### #is_/same_as :: [Burj_al-Arab.internal](/_internal/Earth/Geography/Place/Burj_al-Arab.internal.md) 
+
+### #is_/same_as :: [Burj_al-Arab.protect](/_protect/Earth/Geography/Place/Burj_al-Arab.protect.md) 
+
+### #is_/same_as :: [Burj_al-Arab.private](/_private/Earth/Geography/Place/Burj_al-Arab.private.md) 
+
+### #is_/same_as :: [Burj_al-Arab.personal](/_personal/Earth/Geography/Place/Burj_al-Arab.personal.md) 
+
+### #is_/same_as :: [Burj_al-Arab.secret](/_secret/Earth/Geography/Place/Burj_al-Arab.secret.md)
+

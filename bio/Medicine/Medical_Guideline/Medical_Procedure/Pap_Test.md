@@ -60,3 +60,22 @@ Commons_category: Pap test cytology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pap%20test) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pap_Test](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.md) 
+
+### #is_/same_as :: [Pap_Test.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.public.md) 
+
+### #is_/same_as :: [Pap_Test.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.internal.md) 
+
+### #is_/same_as :: [Pap_Test.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.protect.md) 
+
+### #is_/same_as :: [Pap_Test.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.private.md) 
+
+### #is_/same_as :: [Pap_Test.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.personal.md) 
+
+### #is_/same_as :: [Pap_Test.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.secret.md)
+

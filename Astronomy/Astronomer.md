@@ -81,8 +81,6 @@ UMLS_CUI: C0334726
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronomer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Astronomer](/_Standards/Astronomy/Astronomer.md) 

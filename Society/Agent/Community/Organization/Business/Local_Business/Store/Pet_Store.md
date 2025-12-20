@@ -39,17 +39,17 @@ A pet store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pet_Store](Pet_Store.md) 
+### #is_/same_as :: [Pet_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Pet_Store.md) 
 
-### #is_/same_as :: [Pet_Store.public](/_public/Society/Organization/Local_Business/Store/Pet_Store.public.md) 
+### #is_/same_as :: [Pet_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Pet_Store.public.md) 
 
-### #is_/same_as :: [Pet_Store.internal](/_internal/Society/Organization/Local_Business/Store/Pet_Store.internal.md) 
+### #is_/same_as :: [Pet_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Pet_Store.internal.md) 
 
-### #is_/same_as :: [Pet_Store.protect](/_protect/Society/Organization/Local_Business/Store/Pet_Store.protect.md) 
+### #is_/same_as :: [Pet_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Pet_Store.protect.md) 
 
-### #is_/same_as :: [Pet_Store.private](/_private/Society/Organization/Local_Business/Store/Pet_Store.private.md) 
+### #is_/same_as :: [Pet_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Pet_Store.private.md) 
 
-### #is_/same_as :: [Pet_Store.personal](/_personal/Society/Organization/Local_Business/Store/Pet_Store.personal.md) 
+### #is_/same_as :: [Pet_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Pet_Store.personal.md) 
 
-### #is_/same_as :: [Pet_Store.secret](/_secret/Society/Organization/Local_Business/Store/Pet_Store.secret.md)
+### #is_/same_as :: [Pet_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Pet_Store.secret.md)
 

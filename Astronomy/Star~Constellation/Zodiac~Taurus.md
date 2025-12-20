@@ -57,6 +57,7 @@ short_name: Tau
 
 #is_/same_as :: [[../../WikiData/WD~Taurus,10570|WD~Taurus,10570]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Taurus](/_Standards/Astronomy/Star~Constellation/Zodiac~Taurus.md) 

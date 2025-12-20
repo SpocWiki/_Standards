@@ -28,3 +28,22 @@ Provenio_UUID: af3bd97e-9be8-4c91-ad5e-f5b1826d2335
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20philosophy)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modern_Philosophy](/_Standards/Philosophy/Modern_Philosophy.md) 
+
+### #is_/same_as :: [Modern_Philosophy.public](/_public/Philosophy/Modern_Philosophy.public.md) 
+
+### #is_/same_as :: [Modern_Philosophy.internal](/_internal/Philosophy/Modern_Philosophy.internal.md) 
+
+### #is_/same_as :: [Modern_Philosophy.protect](/_protect/Philosophy/Modern_Philosophy.protect.md) 
+
+### #is_/same_as :: [Modern_Philosophy.private](/_private/Philosophy/Modern_Philosophy.private.md) 
+
+### #is_/same_as :: [Modern_Philosophy.personal](/_personal/Philosophy/Modern_Philosophy.personal.md) 
+
+### #is_/same_as :: [Modern_Philosophy.secret](/_secret/Philosophy/Modern_Philosophy.secret.md)
+

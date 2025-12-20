@@ -28,3 +28,22 @@ Commons_category: Genetic drift
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetic%20drift) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Genetic_Drift](/_Standards/bio/Genetics/Genetic_Drift.md) 
+
+### #is_/same_as :: [Genetic_Drift.public](/_public/bio/Genetics/Genetic_Drift.public.md) 
+
+### #is_/same_as :: [Genetic_Drift.internal](/_internal/bio/Genetics/Genetic_Drift.internal.md) 
+
+### #is_/same_as :: [Genetic_Drift.protect](/_protect/bio/Genetics/Genetic_Drift.protect.md) 
+
+### #is_/same_as :: [Genetic_Drift.private](/_private/bio/Genetics/Genetic_Drift.private.md) 
+
+### #is_/same_as :: [Genetic_Drift.personal](/_personal/bio/Genetics/Genetic_Drift.personal.md) 
+
+### #is_/same_as :: [Genetic_Drift.secret](/_secret/bio/Genetics/Genetic_Drift.secret.md)
+

@@ -66,17 +66,17 @@ Both tools are powerful and capable, and the choice between them often comes dow
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SW~Terraform](SW~Terraform.md) 
+### #is_/same_as :: [SW~Terraform](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.md) 
 
-### #is_/same_as :: [SW~Terraform.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/SW~Terraform.public.md) 
+### #is_/same_as :: [SW~Terraform.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.public.md) 
 
-### #is_/same_as :: [SW~Terraform.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/SW~Terraform.internal.md) 
+### #is_/same_as :: [SW~Terraform.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.internal.md) 
 
-### #is_/same_as :: [SW~Terraform.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/SW~Terraform.protect.md) 
+### #is_/same_as :: [SW~Terraform.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.protect.md) 
 
-### #is_/same_as :: [SW~Terraform.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/SW~Terraform.private.md) 
+### #is_/same_as :: [SW~Terraform.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.private.md) 
 
-### #is_/same_as :: [SW~Terraform.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/SW~Terraform.personal.md) 
+### #is_/same_as :: [SW~Terraform.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.personal.md) 
 
-### #is_/same_as :: [SW~Terraform.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/SW~Terraform.secret.md)
+### #is_/same_as :: [SW~Terraform.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.secret.md)
 

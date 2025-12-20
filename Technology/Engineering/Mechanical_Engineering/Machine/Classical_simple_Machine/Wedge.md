@@ -55,3 +55,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wedge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wedge](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.md) 
+
+### #is_/same_as :: [Wedge.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.public.md) 
+
+### #is_/same_as :: [Wedge.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.internal.md) 
+
+### #is_/same_as :: [Wedge.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.protect.md) 
+
+### #is_/same_as :: [Wedge.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.private.md) 
+
+### #is_/same_as :: [Wedge.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.personal.md) 
+
+### #is_/same_as :: [Wedge.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.secret.md)
+

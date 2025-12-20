@@ -175,17 +175,17 @@ Wolfram_Language_unit_code: '"SpeedOfLight"'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Speed_of_Light](/_Standards/Science/Physics/Speed_of_Light.md) 
+### #is_/same_as :: [Speed_of_Light](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.md) 
 
-### #is_/same_as :: [Speed_of_Light.public](/_public/Science/Physics/Speed_of_Light.public.md) 
+### #is_/same_as :: [Speed_of_Light.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.public.md) 
 
-### #is_/same_as :: [Speed_of_Light.internal](/_internal/Science/Physics/Speed_of_Light.internal.md) 
+### #is_/same_as :: [Speed_of_Light.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.internal.md) 
 
-### #is_/same_as :: [Speed_of_Light.protect](/_protect/Science/Physics/Speed_of_Light.protect.md) 
+### #is_/same_as :: [Speed_of_Light.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.protect.md) 
 
-### #is_/same_as :: [Speed_of_Light.private](/_private/Science/Physics/Speed_of_Light.private.md) 
+### #is_/same_as :: [Speed_of_Light.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.private.md) 
 
-### #is_/same_as :: [Speed_of_Light.personal](/_personal/Science/Physics/Speed_of_Light.personal.md) 
+### #is_/same_as :: [Speed_of_Light.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.personal.md) 
 
-### #is_/same_as :: [Speed_of_Light.secret](/_secret/Science/Physics/Speed_of_Light.secret.md)
+### #is_/same_as :: [Speed_of_Light.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Speed_of_Light.secret.md)
 

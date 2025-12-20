@@ -119,7 +119,7 @@ Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
 
   ------
   Copyright ::   © D. Faulkner
-  ------
+  ------
 
 
 ## Confidential Links & Embeds: 

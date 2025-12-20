@@ -106,17 +106,17 @@ Similar to [[../../Mathematics/Mathematician/Frege,Gottlob|Frege,Gottlob]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grassmann,Hermann](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Grassmann,Hermann.md) 
+### #is_/same_as :: [Grassmann,Hermann](/_Standards/Science/Polymath/Grassmann,Hermann.md) 
 
-### #is_/same_as :: [Grassmann,Hermann.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Grassmann,Hermann.public.md) 
+### #is_/same_as :: [Grassmann,Hermann.public](/_public/Science/Polymath/Grassmann,Hermann.public.md) 
 
-### #is_/same_as :: [Grassmann,Hermann.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Grassmann,Hermann.internal.md) 
+### #is_/same_as :: [Grassmann,Hermann.internal](/_internal/Science/Polymath/Grassmann,Hermann.internal.md) 
 
-### #is_/same_as :: [Grassmann,Hermann.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Grassmann,Hermann.protect.md) 
+### #is_/same_as :: [Grassmann,Hermann.protect](/_protect/Science/Polymath/Grassmann,Hermann.protect.md) 
 
-### #is_/same_as :: [Grassmann,Hermann.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Grassmann,Hermann.private.md) 
+### #is_/same_as :: [Grassmann,Hermann.private](/_private/Science/Polymath/Grassmann,Hermann.private.md) 
 
-### #is_/same_as :: [Grassmann,Hermann.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Grassmann,Hermann.personal.md) 
+### #is_/same_as :: [Grassmann,Hermann.personal](/_personal/Science/Polymath/Grassmann,Hermann.personal.md) 
 
-### #is_/same_as :: [Grassmann,Hermann.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Grassmann,Hermann.secret.md)
+### #is_/same_as :: [Grassmann,Hermann.secret](/_secret/Science/Polymath/Grassmann,Hermann.secret.md)
 

@@ -24,3 +24,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Napoleon%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Empire%20style) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Empire_Style](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.md) 
+
+### #is_/same_as :: [Empire_Style.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.public.md) 
+
+### #is_/same_as :: [Empire_Style.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.internal.md) 
+
+### #is_/same_as :: [Empire_Style.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.protect.md) 
+
+### #is_/same_as :: [Empire_Style.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.private.md) 
+
+### #is_/same_as :: [Empire_Style.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.personal.md) 
+
+### #is_/same_as :: [Empire_Style.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.secret.md)
+

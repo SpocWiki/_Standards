@@ -132,3 +132,22 @@ UNSPSC_Code: "44121513"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Postage%20stamp) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Postage_Stamp](/_Standards/Technology/Transport/Mail/Postage_Stamp.md) 
+
+### #is_/same_as :: [Postage_Stamp.public](/_public/Technology/Transport/Mail/Postage_Stamp.public.md) 
+
+### #is_/same_as :: [Postage_Stamp.internal](/_internal/Technology/Transport/Mail/Postage_Stamp.internal.md) 
+
+### #is_/same_as :: [Postage_Stamp.protect](/_protect/Technology/Transport/Mail/Postage_Stamp.protect.md) 
+
+### #is_/same_as :: [Postage_Stamp.private](/_private/Technology/Transport/Mail/Postage_Stamp.private.md) 
+
+### #is_/same_as :: [Postage_Stamp.personal](/_personal/Technology/Transport/Mail/Postage_Stamp.personal.md) 
+
+### #is_/same_as :: [Postage_Stamp.secret](/_secret/Technology/Transport/Mail/Postage_Stamp.secret.md)
+

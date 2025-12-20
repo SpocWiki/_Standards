@@ -78,3 +78,22 @@ OpenStreetMap_tag: natural=shrub
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shrub) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shrub](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.md) 
+
+### #is_/same_as :: [Shrub.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.public.md) 
+
+### #is_/same_as :: [Shrub.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.internal.md) 
+
+### #is_/same_as :: [Shrub.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.protect.md) 
+
+### #is_/same_as :: [Shrub.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.private.md) 
+
+### #is_/same_as :: [Shrub.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.personal.md) 
+
+### #is_/same_as :: [Shrub.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.secret.md)
+

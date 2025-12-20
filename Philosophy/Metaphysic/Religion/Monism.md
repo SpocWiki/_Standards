@@ -56,3 +56,22 @@ Commons_category: Monism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monism](/_Standards/Philosophy/Metaphysic/Religion/Monism.md) 
+
+### #is_/same_as :: [Monism.public](/_public/Philosophy/Metaphysic/Religion/Monism.public.md) 
+
+### #is_/same_as :: [Monism.internal](/_internal/Philosophy/Metaphysic/Religion/Monism.internal.md) 
+
+### #is_/same_as :: [Monism.protect](/_protect/Philosophy/Metaphysic/Religion/Monism.protect.md) 
+
+### #is_/same_as :: [Monism.private](/_private/Philosophy/Metaphysic/Religion/Monism.private.md) 
+
+### #is_/same_as :: [Monism.personal](/_personal/Philosophy/Metaphysic/Religion/Monism.personal.md) 
+
+### #is_/same_as :: [Monism.secret](/_secret/Philosophy/Metaphysic/Religion/Monism.secret.md)
+

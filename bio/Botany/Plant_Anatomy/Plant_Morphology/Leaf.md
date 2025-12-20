@@ -84,3 +84,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Leaf%20Varieties%20%28
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leaf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leaf](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.md) 
+
+### #is_/same_as :: [Leaf.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.public.md) 
+
+### #is_/same_as :: [Leaf.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.internal.md) 
+
+### #is_/same_as :: [Leaf.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.protect.md) 
+
+### #is_/same_as :: [Leaf.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.private.md) 
+
+### #is_/same_as :: [Leaf.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.personal.md) 
+
+### #is_/same_as :: [Leaf.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.secret.md)
+

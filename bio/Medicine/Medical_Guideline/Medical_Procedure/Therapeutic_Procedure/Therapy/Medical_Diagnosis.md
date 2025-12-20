@@ -34,3 +34,22 @@ UMLS_CUI: C0525034
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Medical%20diagnosis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medical_Diagnosis](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.md) 
+
+### #is_/same_as :: [Medical_Diagnosis.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.public.md) 
+
+### #is_/same_as :: [Medical_Diagnosis.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.internal.md) 
+
+### #is_/same_as :: [Medical_Diagnosis.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.protect.md) 
+
+### #is_/same_as :: [Medical_Diagnosis.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.private.md) 
+
+### #is_/same_as :: [Medical_Diagnosis.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.personal.md) 
+
+### #is_/same_as :: [Medical_Diagnosis.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.secret.md)
+

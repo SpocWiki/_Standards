@@ -43,3 +43,22 @@ Gujarati_Vishwakosh_entry: વાક્-3-નાટ્યશાસ્ત્ર
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dialogue) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dialogue](/_Standards/Society/Communication/Dialogue.md) 
+
+### #is_/same_as :: [Dialogue.public](/_public/Society/Communication/Dialogue.public.md) 
+
+### #is_/same_as :: [Dialogue.internal](/_internal/Society/Communication/Dialogue.internal.md) 
+
+### #is_/same_as :: [Dialogue.protect](/_protect/Society/Communication/Dialogue.protect.md) 
+
+### #is_/same_as :: [Dialogue.private](/_private/Society/Communication/Dialogue.private.md) 
+
+### #is_/same_as :: [Dialogue.personal](/_personal/Society/Communication/Dialogue.personal.md) 
+
+### #is_/same_as :: [Dialogue.secret](/_secret/Society/Communication/Dialogue.secret.md)
+

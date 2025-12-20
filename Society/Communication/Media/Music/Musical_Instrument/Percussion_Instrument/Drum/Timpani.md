@@ -52,3 +52,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LITAVRI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Timpani) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Timpani](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.md) 
+
+### #is_/same_as :: [Timpani.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.public.md) 
+
+### #is_/same_as :: [Timpani.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.internal.md) 
+
+### #is_/same_as :: [Timpani.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.protect.md) 
+
+### #is_/same_as :: [Timpani.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.private.md) 
+
+### #is_/same_as :: [Timpani.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.personal.md) 
+
+### #is_/same_as :: [Timpani.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.secret.md)
+

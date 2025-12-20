@@ -60,3 +60,22 @@ Commons_category: Sets (mathematics)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Set(Math)](/_Standards/Mathematics/Set_Theory/Set(Math).md) 
+
+### #is_/same_as :: [Set(Math).public](/_public/Mathematics/Set_Theory/Set(Math).public.md) 
+
+### #is_/same_as :: [Set(Math).internal](/_internal/Mathematics/Set_Theory/Set(Math).internal.md) 
+
+### #is_/same_as :: [Set(Math).protect](/_protect/Mathematics/Set_Theory/Set(Math).protect.md) 
+
+### #is_/same_as :: [Set(Math).private](/_private/Mathematics/Set_Theory/Set(Math).private.md) 
+
+### #is_/same_as :: [Set(Math).personal](/_personal/Mathematics/Set_Theory/Set(Math).personal.md) 
+
+### #is_/same_as :: [Set(Math).secret](/_secret/Mathematics/Set_Theory/Set(Math).secret.md)
+

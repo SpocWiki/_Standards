@@ -43,3 +43,22 @@ subreddit: dalmatians
 > [Wikipedia](https://en.wikipedia.org/wiki/Dalmatian%20dog) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dalmatian_Dog](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dalmatian_Dog.md) 
+
+### #is_/same_as :: [Dalmatian_Dog.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dalmatian_Dog.public.md) 
+
+### #is_/same_as :: [Dalmatian_Dog.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dalmatian_Dog.internal.md) 
+
+### #is_/same_as :: [Dalmatian_Dog.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dalmatian_Dog.protect.md) 
+
+### #is_/same_as :: [Dalmatian_Dog.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dalmatian_Dog.private.md) 
+
+### #is_/same_as :: [Dalmatian_Dog.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dalmatian_Dog.personal.md) 
+
+### #is_/same_as :: [Dalmatian_Dog.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dalmatian_Dog.secret.md)
+

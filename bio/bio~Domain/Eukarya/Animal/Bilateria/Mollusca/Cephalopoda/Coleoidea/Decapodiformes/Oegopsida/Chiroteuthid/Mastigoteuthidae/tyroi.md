@@ -131,7 +131,7 @@ Beaufortia, 47: 91-108.
   Size               15 mm ML
   Type               Holotype
   Copyright ::          © 2004 [Mario Alejandro Salcedo-Vargas](mailto:ikatako@hotmail.com) 
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -45,3 +45,22 @@ Iconclass_notation: 41C119
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hunger) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hunger](/_Standards/bio/Metabolism/Nutrition/Hunger.md) 
+
+### #is_/same_as :: [Hunger.public](/_public/bio/Metabolism/Nutrition/Hunger.public.md) 
+
+### #is_/same_as :: [Hunger.internal](/_internal/bio/Metabolism/Nutrition/Hunger.internal.md) 
+
+### #is_/same_as :: [Hunger.protect](/_protect/bio/Metabolism/Nutrition/Hunger.protect.md) 
+
+### #is_/same_as :: [Hunger.private](/_private/bio/Metabolism/Nutrition/Hunger.private.md) 
+
+### #is_/same_as :: [Hunger.personal](/_personal/bio/Metabolism/Nutrition/Hunger.personal.md) 
+
+### #is_/same_as :: [Hunger.secret](/_secret/bio/Metabolism/Nutrition/Hunger.secret.md)
+

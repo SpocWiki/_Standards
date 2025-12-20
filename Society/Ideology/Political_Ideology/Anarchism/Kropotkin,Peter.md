@@ -140,3 +140,22 @@ ISNI: 000000012281103X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Kropotkin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kropotkin,Peter](/_Standards/Society/Ideology/Political_Ideology/Anarchism/Kropotkin,Peter.md) 
+
+### #is_/same_as :: [Kropotkin,Peter.public](/_public/Society/Ideology/Political_Ideology/Anarchism/Kropotkin,Peter.public.md) 
+
+### #is_/same_as :: [Kropotkin,Peter.internal](/_internal/Society/Ideology/Political_Ideology/Anarchism/Kropotkin,Peter.internal.md) 
+
+### #is_/same_as :: [Kropotkin,Peter.protect](/_protect/Society/Ideology/Political_Ideology/Anarchism/Kropotkin,Peter.protect.md) 
+
+### #is_/same_as :: [Kropotkin,Peter.private](/_private/Society/Ideology/Political_Ideology/Anarchism/Kropotkin,Peter.private.md) 
+
+### #is_/same_as :: [Kropotkin,Peter.personal](/_personal/Society/Ideology/Political_Ideology/Anarchism/Kropotkin,Peter.personal.md) 
+
+### #is_/same_as :: [Kropotkin,Peter.secret](/_secret/Society/Ideology/Political_Ideology/Anarchism/Kropotkin,Peter.secret.md)
+

@@ -46,3 +46,22 @@ Libris_URI: rp354zk92xjz0wg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malay%20Peninsula) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Malay_Peninsula](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.md) 
+
+### #is_/same_as :: [Malay_Peninsula.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.public.md) 
+
+### #is_/same_as :: [Malay_Peninsula.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.internal.md) 
+
+### #is_/same_as :: [Malay_Peninsula.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.protect.md) 
+
+### #is_/same_as :: [Malay_Peninsula.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.private.md) 
+
+### #is_/same_as :: [Malay_Peninsula.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.personal.md) 
+
+### #is_/same_as :: [Malay_Peninsula.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.secret.md)
+

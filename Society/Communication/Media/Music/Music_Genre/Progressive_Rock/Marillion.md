@@ -21,3 +21,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marillion](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Marillion.md) 
+
+### #is_/same_as :: [Marillion.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Marillion.public.md) 
+
+### #is_/same_as :: [Marillion.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Marillion.internal.md) 
+
+### #is_/same_as :: [Marillion.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Marillion.protect.md) 
+
+### #is_/same_as :: [Marillion.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Marillion.private.md) 
+
+### #is_/same_as :: [Marillion.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Marillion.personal.md) 
+
+### #is_/same_as :: [Marillion.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Marillion.secret.md)
+

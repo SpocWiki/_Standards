@@ -89,3 +89,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RASTAFARIANSTVO.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rastafari) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rastafari](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Rastafari.md) 
+
+### #is_/same_as :: [Rastafari.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Rastafari.public.md) 
+
+### #is_/same_as :: [Rastafari.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Rastafari.internal.md) 
+
+### #is_/same_as :: [Rastafari.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Rastafari.protect.md) 
+
+### #is_/same_as :: [Rastafari.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Rastafari.private.md) 
+
+### #is_/same_as :: [Rastafari.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Rastafari.personal.md) 
+
+### #is_/same_as :: [Rastafari.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Rastafari.secret.md)
+

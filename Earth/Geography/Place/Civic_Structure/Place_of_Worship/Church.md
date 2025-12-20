@@ -170,6 +170,7 @@ A church.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Church%20(building)) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Church](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.md) 

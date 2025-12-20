@@ -52,3 +52,22 @@ Dewey_Decimal_Classification: "384.558"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Video) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Video_Recording](/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording.md) 
+
+### #is_/same_as :: [Video_Recording.public](/_public/Science/Physics/Wave/Optics/Camera/Video_Recording.public.md) 
+
+### #is_/same_as :: [Video_Recording.internal](/_internal/Science/Physics/Wave/Optics/Camera/Video_Recording.internal.md) 
+
+### #is_/same_as :: [Video_Recording.protect](/_protect/Science/Physics/Wave/Optics/Camera/Video_Recording.protect.md) 
+
+### #is_/same_as :: [Video_Recording.private](/_private/Science/Physics/Wave/Optics/Camera/Video_Recording.private.md) 
+
+### #is_/same_as :: [Video_Recording.personal](/_personal/Science/Physics/Wave/Optics/Camera/Video_Recording.personal.md) 
+
+### #is_/same_as :: [Video_Recording.secret](/_secret/Science/Physics/Wave/Optics/Camera/Video_Recording.secret.md)
+

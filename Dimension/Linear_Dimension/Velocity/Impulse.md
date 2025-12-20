@@ -30,3 +30,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Impulse%20(physics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Impulse](/_Standards/Dimension/Linear_Dimension/Velocity/Impulse.md) 
+
+### #is_/same_as :: [Impulse.public](/_public/Dimension/Linear_Dimension/Velocity/Impulse.public.md) 
+
+### #is_/same_as :: [Impulse.internal](/_internal/Dimension/Linear_Dimension/Velocity/Impulse.internal.md) 
+
+### #is_/same_as :: [Impulse.protect](/_protect/Dimension/Linear_Dimension/Velocity/Impulse.protect.md) 
+
+### #is_/same_as :: [Impulse.private](/_private/Dimension/Linear_Dimension/Velocity/Impulse.private.md) 
+
+### #is_/same_as :: [Impulse.personal](/_personal/Dimension/Linear_Dimension/Velocity/Impulse.personal.md) 
+
+### #is_/same_as :: [Impulse.secret](/_secret/Dimension/Linear_Dimension/Velocity/Impulse.secret.md)
+

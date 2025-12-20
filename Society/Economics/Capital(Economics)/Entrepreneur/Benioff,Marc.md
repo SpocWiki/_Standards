@@ -17,3 +17,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marc%20Benioff)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Benioff,Marc](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.md) 
+
+### #is_/same_as :: [Benioff,Marc.public](/_public/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.public.md) 
+
+### #is_/same_as :: [Benioff,Marc.internal](/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.internal.md) 
+
+### #is_/same_as :: [Benioff,Marc.protect](/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.protect.md) 
+
+### #is_/same_as :: [Benioff,Marc.private](/_private/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.private.md) 
+
+### #is_/same_as :: [Benioff,Marc.personal](/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.personal.md) 
+
+### #is_/same_as :: [Benioff,Marc.secret](/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.secret.md)
+

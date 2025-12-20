@@ -48,3 +48,22 @@ MeSH_tree_code: D26.255.830
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tablet%20(pharmacy)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tablet](/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet.md) 
+
+### #is_/same_as :: [Tablet.public](/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public.md) 
+
+### #is_/same_as :: [Tablet.internal](/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal.md) 
+
+### #is_/same_as :: [Tablet.protect](/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect.md) 
+
+### #is_/same_as :: [Tablet.private](/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private.md) 
+
+### #is_/same_as :: [Tablet.personal](/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal.md) 
+
+### #is_/same_as :: [Tablet.secret](/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret.md)
+

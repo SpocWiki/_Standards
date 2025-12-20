@@ -44,3 +44,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RTG%20radiation%20meas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nuclear_Engineering](/_Standards/Technology/Engineering/Nuclear_Engineering.md) 
+
+### #is_/same_as :: [Nuclear_Engineering.public](/_public/Technology/Engineering/Nuclear_Engineering.public.md) 
+
+### #is_/same_as :: [Nuclear_Engineering.internal](/_internal/Technology/Engineering/Nuclear_Engineering.internal.md) 
+
+### #is_/same_as :: [Nuclear_Engineering.protect](/_protect/Technology/Engineering/Nuclear_Engineering.protect.md) 
+
+### #is_/same_as :: [Nuclear_Engineering.private](/_private/Technology/Engineering/Nuclear_Engineering.private.md) 
+
+### #is_/same_as :: [Nuclear_Engineering.personal](/_personal/Technology/Engineering/Nuclear_Engineering.personal.md) 
+
+### #is_/same_as :: [Nuclear_Engineering.secret](/_secret/Technology/Engineering/Nuclear_Engineering.secret.md)
+

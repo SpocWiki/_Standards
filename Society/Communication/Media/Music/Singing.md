@@ -77,3 +77,22 @@ Baidu_Tieba_name: 唱歌
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Singing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Singing](/_Standards/Society/Communication/Media/Music/Singing.md) 
+
+### #is_/same_as :: [Singing.public](/_public/Society/Communication/Media/Music/Singing.public.md) 
+
+### #is_/same_as :: [Singing.internal](/_internal/Society/Communication/Media/Music/Singing.internal.md) 
+
+### #is_/same_as :: [Singing.protect](/_protect/Society/Communication/Media/Music/Singing.protect.md) 
+
+### #is_/same_as :: [Singing.private](/_private/Society/Communication/Media/Music/Singing.private.md) 
+
+### #is_/same_as :: [Singing.personal](/_personal/Society/Communication/Media/Music/Singing.personal.md) 
+
+### #is_/same_as :: [Singing.secret](/_secret/Society/Communication/Media/Music/Singing.secret.md)
+

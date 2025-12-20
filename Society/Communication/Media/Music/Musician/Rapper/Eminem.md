@@ -156,3 +156,22 @@ Wolfram_Language_entity_code: Entity["MusicAct", "Eminem::3wkhm"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eminem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eminem](/_Standards/Society/Communication/Media/Music/Musician/Rapper/Eminem.md) 
+
+### #is_/same_as :: [Eminem.public](/_public/Society/Communication/Media/Music/Musician/Rapper/Eminem.public.md) 
+
+### #is_/same_as :: [Eminem.internal](/_internal/Society/Communication/Media/Music/Musician/Rapper/Eminem.internal.md) 
+
+### #is_/same_as :: [Eminem.protect](/_protect/Society/Communication/Media/Music/Musician/Rapper/Eminem.protect.md) 
+
+### #is_/same_as :: [Eminem.private](/_private/Society/Communication/Media/Music/Musician/Rapper/Eminem.private.md) 
+
+### #is_/same_as :: [Eminem.personal](/_personal/Society/Communication/Media/Music/Musician/Rapper/Eminem.personal.md) 
+
+### #is_/same_as :: [Eminem.secret](/_secret/Society/Communication/Media/Music/Musician/Rapper/Eminem.secret.md)
+

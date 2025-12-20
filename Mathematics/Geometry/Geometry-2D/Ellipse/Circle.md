@@ -76,3 +76,22 @@ Commons_category: Circle geometry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Circle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Circle](/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.md) 
+
+### #is_/same_as :: [Circle.public](/_public/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.public.md) 
+
+### #is_/same_as :: [Circle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.internal.md) 
+
+### #is_/same_as :: [Circle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.protect.md) 
+
+### #is_/same_as :: [Circle.private](/_private/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.private.md) 
+
+### #is_/same_as :: [Circle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.personal.md) 
+
+### #is_/same_as :: [Circle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.secret.md)
+

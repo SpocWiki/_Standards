@@ -28,3 +28,22 @@ has_id_wikidata: Q846600
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clamp%20(tool)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clamp(tool)](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).md) 
+
+### #is_/same_as :: [Clamp(tool).public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).public.md) 
+
+### #is_/same_as :: [Clamp(tool).internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).internal.md) 
+
+### #is_/same_as :: [Clamp(tool).protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).protect.md) 
+
+### #is_/same_as :: [Clamp(tool).private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).private.md) 
+
+### #is_/same_as :: [Clamp(tool).personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).personal.md) 
+
+### #is_/same_as :: [Clamp(tool).secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).secret.md)
+

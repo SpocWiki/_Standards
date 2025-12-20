@@ -83,17 +83,17 @@ This that was soon reverse-engineered though by [[Phoenix_Technologies]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Micro-Processor](Micro-Processor.md) 
+### #is_/same_as :: [Micro-Processor](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/Micro-Processor.md) 
 
-### #is_/same_as :: [Micro-Processor.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Micro-Processor.public.md) 
+### #is_/same_as :: [Micro-Processor.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/Micro-Processor.public.md) 
 
-### #is_/same_as :: [Micro-Processor.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Micro-Processor.internal.md) 
+### #is_/same_as :: [Micro-Processor.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/Micro-Processor.internal.md) 
 
-### #is_/same_as :: [Micro-Processor.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Micro-Processor.protect.md) 
+### #is_/same_as :: [Micro-Processor.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/Micro-Processor.protect.md) 
 
-### #is_/same_as :: [Micro-Processor.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Micro-Processor.private.md) 
+### #is_/same_as :: [Micro-Processor.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/Micro-Processor.private.md) 
 
-### #is_/same_as :: [Micro-Processor.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Micro-Processor.personal.md) 
+### #is_/same_as :: [Micro-Processor.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/Micro-Processor.personal.md) 
 
-### #is_/same_as :: [Micro-Processor.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Micro-Processor.secret.md)
+### #is_/same_as :: [Micro-Processor.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/Micro-Processor.secret.md)
 

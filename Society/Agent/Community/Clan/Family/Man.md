@@ -60,17 +60,17 @@ U_S_National_Archives_Identifier: 10637899
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Man](/_Standards/Society/Family/Man.md) 
+### #is_/same_as :: [Man](/_Standards/Society/Agent/Community/Clan/Family/Man.md) 
 
-### #is_/same_as :: [Man.public](/_public/Society/Family/Man.public.md) 
+### #is_/same_as :: [Man.public](/_public/Society/Agent/Community/Clan/Family/Man.public.md) 
 
-### #is_/same_as :: [Man.internal](/_internal/Society/Family/Man.internal.md) 
+### #is_/same_as :: [Man.internal](/_internal/Society/Agent/Community/Clan/Family/Man.internal.md) 
 
-### #is_/same_as :: [Man.protect](/_protect/Society/Family/Man.protect.md) 
+### #is_/same_as :: [Man.protect](/_protect/Society/Agent/Community/Clan/Family/Man.protect.md) 
 
-### #is_/same_as :: [Man.private](/_private/Society/Family/Man.private.md) 
+### #is_/same_as :: [Man.private](/_private/Society/Agent/Community/Clan/Family/Man.private.md) 
 
-### #is_/same_as :: [Man.personal](/_personal/Society/Family/Man.personal.md) 
+### #is_/same_as :: [Man.personal](/_personal/Society/Agent/Community/Clan/Family/Man.personal.md) 
 
-### #is_/same_as :: [Man.secret](/_secret/Society/Family/Man.secret.md)
+### #is_/same_as :: [Man.secret](/_secret/Society/Agent/Community/Clan/Family/Man.secret.md)
 

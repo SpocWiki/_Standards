@@ -131,3 +131,22 @@ street_address:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pantheon,%20Rome) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pantheon,Rome](/_Standards/Earth/Geography/Place/Pantheon,Rome.md) 
+
+### #is_/same_as :: [Pantheon,Rome.public](/_public/Earth/Geography/Place/Pantheon,Rome.public.md) 
+
+### #is_/same_as :: [Pantheon,Rome.internal](/_internal/Earth/Geography/Place/Pantheon,Rome.internal.md) 
+
+### #is_/same_as :: [Pantheon,Rome.protect](/_protect/Earth/Geography/Place/Pantheon,Rome.protect.md) 
+
+### #is_/same_as :: [Pantheon,Rome.private](/_private/Earth/Geography/Place/Pantheon,Rome.private.md) 
+
+### #is_/same_as :: [Pantheon,Rome.personal](/_personal/Earth/Geography/Place/Pantheon,Rome.personal.md) 
+
+### #is_/same_as :: [Pantheon,Rome.secret](/_secret/Earth/Geography/Place/Pantheon,Rome.secret.md)
+

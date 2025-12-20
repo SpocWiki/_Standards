@@ -114,17 +114,17 @@ Unit :: #Unit/SI/m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Meter](/_Standards/Unit/SI-Unit/Unit~Meter.md) 
+### #is_/same_as :: [Unit~Meter](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.md) 
 
-### #is_/same_as :: [Unit~Meter.public](/_public/Unit/SI-Unit/Unit~Meter.public.md) 
+### #is_/same_as :: [Unit~Meter.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.public.md) 
 
-### #is_/same_as :: [Unit~Meter.internal](/_internal/Unit/SI-Unit/Unit~Meter.internal.md) 
+### #is_/same_as :: [Unit~Meter.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.internal.md) 
 
-### #is_/same_as :: [Unit~Meter.protect](/_protect/Unit/SI-Unit/Unit~Meter.protect.md) 
+### #is_/same_as :: [Unit~Meter.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.protect.md) 
 
-### #is_/same_as :: [Unit~Meter.private](/_private/Unit/SI-Unit/Unit~Meter.private.md) 
+### #is_/same_as :: [Unit~Meter.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.private.md) 
 
-### #is_/same_as :: [Unit~Meter.personal](/_personal/Unit/SI-Unit/Unit~Meter.personal.md) 
+### #is_/same_as :: [Unit~Meter.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.personal.md) 
 
-### #is_/same_as :: [Unit~Meter.secret](/_secret/Unit/SI-Unit/Unit~Meter.secret.md)
+### #is_/same_as :: [Unit~Meter.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.secret.md)
 

@@ -46,3 +46,22 @@ Commons_category: Mirages
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mirage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mirage](/_Standards/Science/Physics/Wave/Optics/Mirage.md) 
+
+### #is_/same_as :: [Mirage.public](/_public/Science/Physics/Wave/Optics/Mirage.public.md) 
+
+### #is_/same_as :: [Mirage.internal](/_internal/Science/Physics/Wave/Optics/Mirage.internal.md) 
+
+### #is_/same_as :: [Mirage.protect](/_protect/Science/Physics/Wave/Optics/Mirage.protect.md) 
+
+### #is_/same_as :: [Mirage.private](/_private/Science/Physics/Wave/Optics/Mirage.private.md) 
+
+### #is_/same_as :: [Mirage.personal](/_personal/Science/Physics/Wave/Optics/Mirage.personal.md) 
+
+### #is_/same_as :: [Mirage.secret](/_secret/Science/Physics/Wave/Optics/Mirage.secret.md)
+

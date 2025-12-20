@@ -52,3 +52,22 @@ Commons_category: Evil
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Evil) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Evil](/_Standards/Philosophy/Ethics/Evil.md) 
+
+### #is_/same_as :: [Evil.public](/_public/Philosophy/Ethics/Evil.public.md) 
+
+### #is_/same_as :: [Evil.internal](/_internal/Philosophy/Ethics/Evil.internal.md) 
+
+### #is_/same_as :: [Evil.protect](/_protect/Philosophy/Ethics/Evil.protect.md) 
+
+### #is_/same_as :: [Evil.private](/_private/Philosophy/Ethics/Evil.private.md) 
+
+### #is_/same_as :: [Evil.personal](/_personal/Philosophy/Ethics/Evil.personal.md) 
+
+### #is_/same_as :: [Evil.secret](/_secret/Philosophy/Ethics/Evil.secret.md)
+

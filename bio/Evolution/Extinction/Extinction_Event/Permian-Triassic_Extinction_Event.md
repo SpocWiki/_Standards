@@ -57,3 +57,22 @@ Commons_category: Permian–Triassic extinction event
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Permian-Triassic_Extinction_Event](/_Standards/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.md) 
+
+### #is_/same_as :: [Permian-Triassic_Extinction_Event.public](/_public/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.public.md) 
+
+### #is_/same_as :: [Permian-Triassic_Extinction_Event.internal](/_internal/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.internal.md) 
+
+### #is_/same_as :: [Permian-Triassic_Extinction_Event.protect](/_protect/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.protect.md) 
+
+### #is_/same_as :: [Permian-Triassic_Extinction_Event.private](/_private/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.private.md) 
+
+### #is_/same_as :: [Permian-Triassic_Extinction_Event.personal](/_personal/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.personal.md) 
+
+### #is_/same_as :: [Permian-Triassic_Extinction_Event.secret](/_secret/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.secret.md)
+

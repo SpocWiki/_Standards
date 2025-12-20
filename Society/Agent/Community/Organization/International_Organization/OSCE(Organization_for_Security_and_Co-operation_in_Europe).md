@@ -144,17 +144,17 @@ dv.view("TableByName", ["OSZE.tsv"]);
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe)](OSCE(Organization_for_Security_and_Co-operation_in_Europe).md) 
+### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe)](/_Standards/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).md) 
 
-### #is_/same_as :: [OSZE.public](/_public/International/OSZE.public.md) 
+### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).public](/_public/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).public.md) 
 
-### #is_/same_as :: [OSZE.internal](/_internal/International/OSZE.internal.md) 
+### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).internal](/_internal/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).internal.md) 
 
-### #is_/same_as :: [OSZE.protect](/_protect/International/OSZE.protect.md) 
+### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).protect](/_protect/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).protect.md) 
 
-### #is_/same_as :: [OSZE.private](/_private/International/OSZE.private.md) 
+### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).private](/_private/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).private.md) 
 
-### #is_/same_as :: [OSZE.personal](/_personal/International/OSZE.personal.md) 
+### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).personal](/_personal/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).personal.md) 
 
-### #is_/same_as :: [OSZE.secret](/_secret/International/OSZE.secret.md)
+### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).secret](/_secret/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).secret.md)
 

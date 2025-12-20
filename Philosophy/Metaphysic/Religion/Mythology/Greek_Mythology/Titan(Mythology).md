@@ -57,8 +57,6 @@ female_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Titans) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Titan(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).md) 

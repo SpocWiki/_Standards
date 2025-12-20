@@ -182,3 +182,22 @@ date_of_birth: 1938-01-10T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Donald%20Knuth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Knuth,Donald](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.md) 
+
+### #is_/same_as :: [Knuth,Donald.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.public.md) 
+
+### #is_/same_as :: [Knuth,Donald.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.internal.md) 
+
+### #is_/same_as :: [Knuth,Donald.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.protect.md) 
+
+### #is_/same_as :: [Knuth,Donald.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.private.md) 
+
+### #is_/same_as :: [Knuth,Donald.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.personal.md) 
+
+### #is_/same_as :: [Knuth,Donald.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Knuth,Donald.secret.md)
+

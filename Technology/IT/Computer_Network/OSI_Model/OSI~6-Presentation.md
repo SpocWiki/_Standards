@@ -20,3 +20,22 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/presentation-layer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Presentation%20layer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OSI~6-Presentation](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.md) 
+
+### #is_/same_as :: [OSI~6-Presentation.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.public.md) 
+
+### #is_/same_as :: [OSI~6-Presentation.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.internal.md) 
+
+### #is_/same_as :: [OSI~6-Presentation.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.protect.md) 
+
+### #is_/same_as :: [OSI~6-Presentation.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.private.md) 
+
+### #is_/same_as :: [OSI~6-Presentation.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.personal.md) 
+
+### #is_/same_as :: [OSI~6-Presentation.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.secret.md)
+

@@ -59,3 +59,22 @@ native_label: Lex Salica
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salic%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Salic_Law](/_Standards/Society/Law/Salic_Law.md) 
+
+### #is_/same_as :: [Salic_Law.public](/_public/Society/Law/Salic_Law.public.md) 
+
+### #is_/same_as :: [Salic_Law.internal](/_internal/Society/Law/Salic_Law.internal.md) 
+
+### #is_/same_as :: [Salic_Law.protect](/_protect/Society/Law/Salic_Law.protect.md) 
+
+### #is_/same_as :: [Salic_Law.private](/_private/Society/Law/Salic_Law.private.md) 
+
+### #is_/same_as :: [Salic_Law.personal](/_personal/Society/Law/Salic_Law.personal.md) 
+
+### #is_/same_as :: [Salic_Law.secret](/_secret/Society/Law/Salic_Law.secret.md)
+

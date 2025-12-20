@@ -75,3 +75,22 @@ inception: 1904-06-20T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration%20Internationale%20de%20l'Automobile) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fédération_Internationale_de_l'Automobile](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.public.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.internal.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.protect.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.private.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.personal.md) 
+
+### #is_/same_as :: [Fédération_Internationale_de_l'Automobile.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.secret.md)
+

@@ -39,3 +39,22 @@ MeSH_tree_code: L01.143.910
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20network)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Network](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.md) 
+
+### #is_/same_as :: [Social_Network.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.public.md) 
+
+### #is_/same_as :: [Social_Network.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.internal.md) 
+
+### #is_/same_as :: [Social_Network.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.protect.md) 
+
+### #is_/same_as :: [Social_Network.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.private.md) 
+
+### #is_/same_as :: [Social_Network.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.personal.md) 
+
+### #is_/same_as :: [Social_Network.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.secret.md)
+

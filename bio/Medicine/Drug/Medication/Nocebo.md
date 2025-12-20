@@ -31,3 +31,22 @@ Commons_category: Nocebos
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nocebo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nocebo](/_Standards/bio/Medicine/Drug/Medication/Nocebo.md) 
+
+### #is_/same_as :: [Nocebo.public](/_public/bio/Medicine/Drug/Medication/Nocebo.public.md) 
+
+### #is_/same_as :: [Nocebo.internal](/_internal/bio/Medicine/Drug/Medication/Nocebo.internal.md) 
+
+### #is_/same_as :: [Nocebo.protect](/_protect/bio/Medicine/Drug/Medication/Nocebo.protect.md) 
+
+### #is_/same_as :: [Nocebo.private](/_private/bio/Medicine/Drug/Medication/Nocebo.private.md) 
+
+### #is_/same_as :: [Nocebo.personal](/_personal/bio/Medicine/Drug/Medication/Nocebo.personal.md) 
+
+### #is_/same_as :: [Nocebo.secret](/_secret/bio/Medicine/Drug/Medication/Nocebo.secret.md)
+

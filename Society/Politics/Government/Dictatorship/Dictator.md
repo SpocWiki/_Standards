@@ -31,3 +31,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictator) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dictator](/_Standards/Society/Politics/Government/Dictatorship/Dictator.md) 
+
+### #is_/same_as :: [Dictator.public](/_public/Society/Politics/Government/Dictatorship/Dictator.public.md) 
+
+### #is_/same_as :: [Dictator.internal](/_internal/Society/Politics/Government/Dictatorship/Dictator.internal.md) 
+
+### #is_/same_as :: [Dictator.protect](/_protect/Society/Politics/Government/Dictatorship/Dictator.protect.md) 
+
+### #is_/same_as :: [Dictator.private](/_private/Society/Politics/Government/Dictatorship/Dictator.private.md) 
+
+### #is_/same_as :: [Dictator.personal](/_personal/Society/Politics/Government/Dictatorship/Dictator.personal.md) 
+
+### #is_/same_as :: [Dictator.secret](/_secret/Society/Politics/Government/Dictatorship/Dictator.secret.md)
+

@@ -122,3 +122,22 @@ ISNI: "0000000110351945"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/P.%20T.%20Barnum) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Barnum,P.T.](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..md) 
+
+### #is_/same_as :: [Barnum,P.T..public](/_public/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..public.md) 
+
+### #is_/same_as :: [Barnum,P.T..internal](/_internal/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..internal.md) 
+
+### #is_/same_as :: [Barnum,P.T..protect](/_protect/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..protect.md) 
+
+### #is_/same_as :: [Barnum,P.T..private](/_private/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..private.md) 
+
+### #is_/same_as :: [Barnum,P.T..personal](/_personal/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..personal.md) 
+
+### #is_/same_as :: [Barnum,P.T..secret](/_secret/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..secret.md)
+

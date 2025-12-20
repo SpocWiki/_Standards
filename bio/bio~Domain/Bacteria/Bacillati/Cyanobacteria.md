@@ -167,17 +167,17 @@ title: Cyanobacteria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyanobacteria](Cyanobacteria.md) 
+### #is_/same_as :: [Cyanobacteria](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Cyanobacteria.md) 
 
-### #is_/same_as :: [Cyanobacteria.public](/_public/bio/bio~Domain/Bacteria/Cyanobacteria.public.md) 
+### #is_/same_as :: [Cyanobacteria.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Cyanobacteria.public.md) 
 
-### #is_/same_as :: [Cyanobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Cyanobacteria.internal.md) 
+### #is_/same_as :: [Cyanobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Cyanobacteria.internal.md) 
 
-### #is_/same_as :: [Cyanobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Cyanobacteria.protect.md) 
+### #is_/same_as :: [Cyanobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Cyanobacteria.protect.md) 
 
-### #is_/same_as :: [Cyanobacteria.private](/_private/bio/bio~Domain/Bacteria/Cyanobacteria.private.md) 
+### #is_/same_as :: [Cyanobacteria.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Cyanobacteria.private.md) 
 
-### #is_/same_as :: [Cyanobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Cyanobacteria.personal.md) 
+### #is_/same_as :: [Cyanobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Cyanobacteria.personal.md) 
 
-### #is_/same_as :: [Cyanobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Cyanobacteria.secret.md)
+### #is_/same_as :: [Cyanobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Cyanobacteria.secret.md)
 

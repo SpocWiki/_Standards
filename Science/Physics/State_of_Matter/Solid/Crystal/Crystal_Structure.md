@@ -27,3 +27,22 @@ has_id_wikidata: Q895901
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crystal%20structure) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crystal_Structure](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.md) 
+
+### #is_/same_as :: [Crystal_Structure.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.public.md) 
+
+### #is_/same_as :: [Crystal_Structure.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.internal.md) 
+
+### #is_/same_as :: [Crystal_Structure.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.protect.md) 
+
+### #is_/same_as :: [Crystal_Structure.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.private.md) 
+
+### #is_/same_as :: [Crystal_Structure.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.personal.md) 
+
+### #is_/same_as :: [Crystal_Structure.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.secret.md)
+

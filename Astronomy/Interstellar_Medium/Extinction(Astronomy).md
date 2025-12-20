@@ -22,3 +22,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Extinction(Astronomy)](/_Standards/Astronomy/Interstellar_Medium/Extinction(Astronomy).md) 
+
+### #is_/same_as :: [Extinction(Astronomy).public](/_public/Astronomy/Interstellar_Medium/Extinction(Astronomy).public.md) 
+
+### #is_/same_as :: [Extinction(Astronomy).internal](/_internal/Astronomy/Interstellar_Medium/Extinction(Astronomy).internal.md) 
+
+### #is_/same_as :: [Extinction(Astronomy).protect](/_protect/Astronomy/Interstellar_Medium/Extinction(Astronomy).protect.md) 
+
+### #is_/same_as :: [Extinction(Astronomy).private](/_private/Astronomy/Interstellar_Medium/Extinction(Astronomy).private.md) 
+
+### #is_/same_as :: [Extinction(Astronomy).personal](/_personal/Astronomy/Interstellar_Medium/Extinction(Astronomy).personal.md) 
+
+### #is_/same_as :: [Extinction(Astronomy).secret](/_secret/Astronomy/Interstellar_Medium/Extinction(Astronomy).secret.md)
+

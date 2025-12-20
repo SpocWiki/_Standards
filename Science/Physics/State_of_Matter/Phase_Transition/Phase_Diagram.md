@@ -67,3 +67,22 @@ Commons_category: Phase diagrams
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phase_Diagram](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Phase_Diagram.md) 
+
+### #is_/same_as :: [Phase_Diagram.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Phase_Diagram.public.md) 
+
+### #is_/same_as :: [Phase_Diagram.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Phase_Diagram.internal.md) 
+
+### #is_/same_as :: [Phase_Diagram.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Phase_Diagram.protect.md) 
+
+### #is_/same_as :: [Phase_Diagram.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Phase_Diagram.private.md) 
+
+### #is_/same_as :: [Phase_Diagram.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Phase_Diagram.personal.md) 
+
+### #is_/same_as :: [Phase_Diagram.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Phase_Diagram.secret.md)
+

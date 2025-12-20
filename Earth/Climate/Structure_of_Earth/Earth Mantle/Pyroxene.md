@@ -56,3 +56,22 @@ Commons_category: Pyroxene
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyroxene) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pyroxene](/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.md) 
+
+### #is_/same_as :: [Pyroxene.public](/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public.md) 
+
+### #is_/same_as :: [Pyroxene.internal](/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal.md) 
+
+### #is_/same_as :: [Pyroxene.protect](/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect.md) 
+
+### #is_/same_as :: [Pyroxene.private](/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private.md) 
+
+### #is_/same_as :: [Pyroxene.personal](/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal.md) 
+
+### #is_/same_as :: [Pyroxene.secret](/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret.md)
+

@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to the study of the kidneys a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [renal](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.md) 
+### #is_/same_as :: [Renal](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Renal.md) 
 
-### #is_/same_as :: [renal.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.public.md) 
+### #is_/same_as :: [Renal.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Renal.public.md) 
 
-### #is_/same_as :: [renal.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.internal.md) 
+### #is_/same_as :: [Renal.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Renal.internal.md) 
 
-### #is_/same_as :: [renal.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.protect.md) 
+### #is_/same_as :: [Renal.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Renal.protect.md) 
 
-### #is_/same_as :: [renal.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.private.md) 
+### #is_/same_as :: [Renal.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Renal.private.md) 
 
-### #is_/same_as :: [renal.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.personal.md) 
+### #is_/same_as :: [Renal.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Renal.personal.md) 
 
-### #is_/same_as :: [renal.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.secret.md)
+### #is_/same_as :: [Renal.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Renal.secret.md)
 

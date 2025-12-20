@@ -36,3 +36,22 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~VB.NET](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.md) 
+
+### #is_/same_as :: [Prog~VB.NET.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.public.md) 
+
+### #is_/same_as :: [Prog~VB.NET.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.internal.md) 
+
+### #is_/same_as :: [Prog~VB.NET.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.protect.md) 
+
+### #is_/same_as :: [Prog~VB.NET.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.private.md) 
+
+### #is_/same_as :: [Prog~VB.NET.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.personal.md) 
+
+### #is_/same_as :: [Prog~VB.NET.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB/Prog~VB.NET.secret.md)
+

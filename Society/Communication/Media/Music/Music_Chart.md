@@ -44,3 +44,22 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Music-GClef.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Record%20chart) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Music_Chart](/_Standards/Society/Communication/Media/Music/Music_Chart.md) 
+
+### #is_/same_as :: [Music_Chart.public](/_public/Society/Communication/Media/Music/Music_Chart.public.md) 
+
+### #is_/same_as :: [Music_Chart.internal](/_internal/Society/Communication/Media/Music/Music_Chart.internal.md) 
+
+### #is_/same_as :: [Music_Chart.protect](/_protect/Society/Communication/Media/Music/Music_Chart.protect.md) 
+
+### #is_/same_as :: [Music_Chart.private](/_private/Society/Communication/Media/Music/Music_Chart.private.md) 
+
+### #is_/same_as :: [Music_Chart.personal](/_personal/Society/Communication/Media/Music/Music_Chart.personal.md) 
+
+### #is_/same_as :: [Music_Chart.secret](/_secret/Society/Communication/Media/Music/Music_Chart.secret.md)
+

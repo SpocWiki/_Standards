@@ -75,3 +75,22 @@ taxon_common_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tuatara) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tuatara](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae/Tuatara.md) 
+
+### #is_/same_as :: [Tuatara.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae/Tuatara.public.md) 
+
+### #is_/same_as :: [Tuatara.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae/Tuatara.internal.md) 
+
+### #is_/same_as :: [Tuatara.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae/Tuatara.protect.md) 
+
+### #is_/same_as :: [Tuatara.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae/Tuatara.private.md) 
+
+### #is_/same_as :: [Tuatara.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae/Tuatara.personal.md) 
+
+### #is_/same_as :: [Tuatara.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Sphenodontinae/Tuatara.secret.md)
+

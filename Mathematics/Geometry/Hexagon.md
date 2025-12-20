@@ -37,3 +37,22 @@ Commons_category: Hexagons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hexagon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hexagon](/_Standards/Mathematics/Geometry/Hexagon.md) 
+
+### #is_/same_as :: [Hexagon.public](/_public/Mathematics/Geometry/Hexagon.public.md) 
+
+### #is_/same_as :: [Hexagon.internal](/_internal/Mathematics/Geometry/Hexagon.internal.md) 
+
+### #is_/same_as :: [Hexagon.protect](/_protect/Mathematics/Geometry/Hexagon.protect.md) 
+
+### #is_/same_as :: [Hexagon.private](/_private/Mathematics/Geometry/Hexagon.private.md) 
+
+### #is_/same_as :: [Hexagon.personal](/_personal/Mathematics/Geometry/Hexagon.personal.md) 
+
+### #is_/same_as :: [Hexagon.secret](/_secret/Mathematics/Geometry/Hexagon.secret.md)
+

@@ -27,3 +27,22 @@ has_id_wikidata: "130975"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Millikan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Millikan,Robert_A](/_Standards/Science/Physics/Physicist/Millikan,Robert_A.md) 
+
+### #is_/same_as :: [Millikan,Robert_A.public](/_public/Science/Physics/Physicist/Millikan,Robert_A.public.md) 
+
+### #is_/same_as :: [Millikan,Robert_A.internal](/_internal/Science/Physics/Physicist/Millikan,Robert_A.internal.md) 
+
+### #is_/same_as :: [Millikan,Robert_A.protect](/_protect/Science/Physics/Physicist/Millikan,Robert_A.protect.md) 
+
+### #is_/same_as :: [Millikan,Robert_A.private](/_private/Science/Physics/Physicist/Millikan,Robert_A.private.md) 
+
+### #is_/same_as :: [Millikan,Robert_A.personal](/_personal/Science/Physics/Physicist/Millikan,Robert_A.personal.md) 
+
+### #is_/same_as :: [Millikan,Robert_A.secret](/_secret/Science/Physics/Physicist/Millikan,Robert_A.secret.md)
+

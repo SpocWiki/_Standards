@@ -115,3 +115,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RUSSKAYA_PRAVOSLAVNA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russian%20Orthodox%20Church) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Russian_Orthodox_Church](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.md) 
+
+### #is_/same_as :: [Russian_Orthodox_Church.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.public.md) 
+
+### #is_/same_as :: [Russian_Orthodox_Church.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.internal.md) 
+
+### #is_/same_as :: [Russian_Orthodox_Church.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.protect.md) 
+
+### #is_/same_as :: [Russian_Orthodox_Church.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.private.md) 
+
+### #is_/same_as :: [Russian_Orthodox_Church.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.personal.md) 
+
+### #is_/same_as :: [Russian_Orthodox_Church.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.secret.md)
+

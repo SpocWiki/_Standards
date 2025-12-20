@@ -62,3 +62,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sundial) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sundial](/_Standards/Technology/Tool/Instrumentation/Sundial.md) 
+
+### #is_/same_as :: [Sundial.public](/_public/Technology/Tool/Instrumentation/Sundial.public.md) 
+
+### #is_/same_as :: [Sundial.internal](/_internal/Technology/Tool/Instrumentation/Sundial.internal.md) 
+
+### #is_/same_as :: [Sundial.protect](/_protect/Technology/Tool/Instrumentation/Sundial.protect.md) 
+
+### #is_/same_as :: [Sundial.private](/_private/Technology/Tool/Instrumentation/Sundial.private.md) 
+
+### #is_/same_as :: [Sundial.personal](/_personal/Technology/Tool/Instrumentation/Sundial.personal.md) 
+
+### #is_/same_as :: [Sundial.secret](/_secret/Technology/Tool/Instrumentation/Sundial.secret.md)
+

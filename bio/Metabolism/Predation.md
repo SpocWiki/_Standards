@@ -41,3 +41,22 @@ Commons_category: Predation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Predation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Predation](/_Standards/bio/Metabolism/Predation.md) 
+
+### #is_/same_as :: [Predation.public](/_public/bio/Metabolism/Predation.public.md) 
+
+### #is_/same_as :: [Predation.internal](/_internal/bio/Metabolism/Predation.internal.md) 
+
+### #is_/same_as :: [Predation.protect](/_protect/bio/Metabolism/Predation.protect.md) 
+
+### #is_/same_as :: [Predation.private](/_private/bio/Metabolism/Predation.private.md) 
+
+### #is_/same_as :: [Predation.personal](/_personal/bio/Metabolism/Predation.personal.md) 
+
+### #is_/same_as :: [Predation.secret](/_secret/bio/Metabolism/Predation.secret.md)
+

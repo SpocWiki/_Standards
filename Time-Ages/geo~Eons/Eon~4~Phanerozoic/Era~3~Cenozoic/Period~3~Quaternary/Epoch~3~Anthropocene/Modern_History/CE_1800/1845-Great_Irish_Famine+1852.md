@@ -121,3 +121,22 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine%20(Ireland)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1845-Great_Irish_Famine+1852](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.md) 
+
+### #is_/same_as :: [1845-Great_Irish_Famine+1852.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.public.md) 
+
+### #is_/same_as :: [1845-Great_Irish_Famine+1852.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.internal.md) 
+
+### #is_/same_as :: [1845-Great_Irish_Famine+1852.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.protect.md) 
+
+### #is_/same_as :: [1845-Great_Irish_Famine+1852.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.private.md) 
+
+### #is_/same_as :: [1845-Great_Irish_Famine+1852.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.personal.md) 
+
+### #is_/same_as :: [1845-Great_Irish_Famine+1852.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.secret.md)
+

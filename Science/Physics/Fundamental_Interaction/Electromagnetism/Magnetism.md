@@ -44,3 +44,22 @@ has_id_wikidata: Q3294789
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.md) 
+
+### #is_/same_as :: [Magnetism.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.public.md) 
+
+### #is_/same_as :: [Magnetism.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.internal.md) 
+
+### #is_/same_as :: [Magnetism.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.protect.md) 
+
+### #is_/same_as :: [Magnetism.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.private.md) 
+
+### #is_/same_as :: [Magnetism.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.personal.md) 
+
+### #is_/same_as :: [Magnetism.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.secret.md)
+

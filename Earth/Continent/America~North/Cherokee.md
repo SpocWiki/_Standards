@@ -82,3 +82,22 @@ P8189: "987007285056005171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cherokee) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cherokee](/_Standards/Earth/Continent/America~North/Cherokee.md) 
+
+### #is_/same_as :: [Cherokee.public](/_public/Earth/Continent/America~North/Cherokee.public.md) 
+
+### #is_/same_as :: [Cherokee.internal](/_internal/Earth/Continent/America~North/Cherokee.internal.md) 
+
+### #is_/same_as :: [Cherokee.protect](/_protect/Earth/Continent/America~North/Cherokee.protect.md) 
+
+### #is_/same_as :: [Cherokee.private](/_private/Earth/Continent/America~North/Cherokee.private.md) 
+
+### #is_/same_as :: [Cherokee.personal](/_personal/Earth/Continent/America~North/Cherokee.personal.md) 
+
+### #is_/same_as :: [Cherokee.secret](/_secret/Earth/Continent/America~North/Cherokee.secret.md)
+

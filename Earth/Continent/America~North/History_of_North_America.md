@@ -55,3 +55,22 @@ Commons_category: History of North America
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20North%20America) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_North_America](/_Standards/Earth/Continent/America~North/History_of_North_America.md) 
+
+### #is_/same_as :: [History_of_North_America.public](/_public/Earth/Continent/America~North/History_of_North_America.public.md) 
+
+### #is_/same_as :: [History_of_North_America.internal](/_internal/Earth/Continent/America~North/History_of_North_America.internal.md) 
+
+### #is_/same_as :: [History_of_North_America.protect](/_protect/Earth/Continent/America~North/History_of_North_America.protect.md) 
+
+### #is_/same_as :: [History_of_North_America.private](/_private/Earth/Continent/America~North/History_of_North_America.private.md) 
+
+### #is_/same_as :: [History_of_North_America.personal](/_personal/Earth/Continent/America~North/History_of_North_America.personal.md) 
+
+### #is_/same_as :: [History_of_North_America.secret](/_secret/Earth/Continent/America~North/History_of_North_America.secret.md)
+

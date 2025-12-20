@@ -39,17 +39,17 @@ The act of producing a painting, typically with paint and canvas as instruments.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [paint_action](/_Standards/schema-org/Class/is_a_/action/create_action/paint_action.md) 
+### #is_/same_as :: [Paint_Action](/_Standards/schema-org/Class/is_a_/Action/Create_Action/Paint_Action.md) 
 
-### #is_/same_as :: [paint_action.public](/_public/schema-org/Class/is_a_/action/create_action/paint_action.public.md) 
+### #is_/same_as :: [Paint_Action.public](/_public/schema-org/Class/is_a_/Action/Create_Action/Paint_Action.public.md) 
 
-### #is_/same_as :: [paint_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/paint_action.internal.md) 
+### #is_/same_as :: [Paint_Action.internal](/_internal/schema-org/Class/is_a_/Action/Create_Action/Paint_Action.internal.md) 
 
-### #is_/same_as :: [paint_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/paint_action.protect.md) 
+### #is_/same_as :: [Paint_Action.protect](/_protect/schema-org/Class/is_a_/Action/Create_Action/Paint_Action.protect.md) 
 
-### #is_/same_as :: [paint_action.private](/_private/schema-org/Class/is_a_/action/create_action/paint_action.private.md) 
+### #is_/same_as :: [Paint_Action.private](/_private/schema-org/Class/is_a_/Action/Create_Action/Paint_Action.private.md) 
 
-### #is_/same_as :: [paint_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/paint_action.personal.md) 
+### #is_/same_as :: [Paint_Action.personal](/_personal/schema-org/Class/is_a_/Action/Create_Action/Paint_Action.personal.md) 
 
-### #is_/same_as :: [paint_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/paint_action.secret.md)
+### #is_/same_as :: [Paint_Action.secret](/_secret/schema-org/Class/is_a_/Action/Create_Action/Paint_Action.secret.md)
 

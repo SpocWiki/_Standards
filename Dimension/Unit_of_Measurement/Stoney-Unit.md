@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stoney-Unit](/_Standards/Unit/Stoney-Unit.md) 
+### #is_/same_as :: [Stoney-Unit](/_Standards/Dimension/Unit_of_Measurement/Stoney-Unit.md) 
 
-### #is_/same_as :: [Stoney-Unit.public](/_public/Unit/Stoney-Unit.public.md) 
+### #is_/same_as :: [Stoney-Unit.public](/_public/Dimension/Unit_of_Measurement/Stoney-Unit.public.md) 
 
-### #is_/same_as :: [Stoney-Unit.internal](/_internal/Unit/Stoney-Unit.internal.md) 
+### #is_/same_as :: [Stoney-Unit.internal](/_internal/Dimension/Unit_of_Measurement/Stoney-Unit.internal.md) 
 
-### #is_/same_as :: [Stoney-Unit.protect](/_protect/Unit/Stoney-Unit.protect.md) 
+### #is_/same_as :: [Stoney-Unit.protect](/_protect/Dimension/Unit_of_Measurement/Stoney-Unit.protect.md) 
 
-### #is_/same_as :: [Stoney-Unit.private](/_private/Unit/Stoney-Unit.private.md) 
+### #is_/same_as :: [Stoney-Unit.private](/_private/Dimension/Unit_of_Measurement/Stoney-Unit.private.md) 
 
-### #is_/same_as :: [Stoney-Unit.personal](/_personal/Unit/Stoney-Unit.personal.md) 
+### #is_/same_as :: [Stoney-Unit.personal](/_personal/Dimension/Unit_of_Measurement/Stoney-Unit.personal.md) 
 
-### #is_/same_as :: [Stoney-Unit.secret](/_secret/Unit/Stoney-Unit.secret.md)
+### #is_/same_as :: [Stoney-Unit.secret](/_secret/Dimension/Unit_of_Measurement/Stoney-Unit.secret.md)
 

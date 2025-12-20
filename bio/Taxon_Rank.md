@@ -96,3 +96,22 @@ More granular Subdivisions are created by Prefixes to the Rank and differing Suf
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taxonomic%20rank) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Taxon_Rank](/_Standards/bio/Taxon_Rank.md) 
+
+### #is_/same_as :: [Taxon_Rank.public](/_public/bio/Taxon_Rank.public.md) 
+
+### #is_/same_as :: [Taxon_Rank.internal](/_internal/bio/Taxon_Rank.internal.md) 
+
+### #is_/same_as :: [Taxon_Rank.protect](/_protect/bio/Taxon_Rank.protect.md) 
+
+### #is_/same_as :: [Taxon_Rank.private](/_private/bio/Taxon_Rank.private.md) 
+
+### #is_/same_as :: [Taxon_Rank.personal](/_personal/bio/Taxon_Rank.personal.md) 
+
+### #is_/same_as :: [Taxon_Rank.secret](/_secret/bio/Taxon_Rank.secret.md)
+

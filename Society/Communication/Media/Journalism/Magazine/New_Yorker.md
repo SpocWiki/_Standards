@@ -121,3 +121,22 @@ Instagram_username: newyorkermag
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20New%20Yorker) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [New_Yorker](/_Standards/Society/Communication/Media/Journalism/Magazine/New_Yorker.md) 
+
+### #is_/same_as :: [New_Yorker.public](/_public/Society/Communication/Media/Journalism/Magazine/New_Yorker.public.md) 
+
+### #is_/same_as :: [New_Yorker.internal](/_internal/Society/Communication/Media/Journalism/Magazine/New_Yorker.internal.md) 
+
+### #is_/same_as :: [New_Yorker.protect](/_protect/Society/Communication/Media/Journalism/Magazine/New_Yorker.protect.md) 
+
+### #is_/same_as :: [New_Yorker.private](/_private/Society/Communication/Media/Journalism/Magazine/New_Yorker.private.md) 
+
+### #is_/same_as :: [New_Yorker.personal](/_personal/Society/Communication/Media/Journalism/Magazine/New_Yorker.personal.md) 
+
+### #is_/same_as :: [New_Yorker.secret](/_secret/Society/Communication/Media/Journalism/Magazine/New_Yorker.secret.md)
+

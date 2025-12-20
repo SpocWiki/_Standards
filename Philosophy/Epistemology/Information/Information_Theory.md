@@ -50,3 +50,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/INFORMATSII_TEORIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Information%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Information_Theory](/_Standards/Philosophy/Epistemology/Information/Information_Theory.md) 
+
+### #is_/same_as :: [Information_Theory.public](/_public/Philosophy/Epistemology/Information/Information_Theory.public.md) 
+
+### #is_/same_as :: [Information_Theory.internal](/_internal/Philosophy/Epistemology/Information/Information_Theory.internal.md) 
+
+### #is_/same_as :: [Information_Theory.protect](/_protect/Philosophy/Epistemology/Information/Information_Theory.protect.md) 
+
+### #is_/same_as :: [Information_Theory.private](/_private/Philosophy/Epistemology/Information/Information_Theory.private.md) 
+
+### #is_/same_as :: [Information_Theory.personal](/_personal/Philosophy/Epistemology/Information/Information_Theory.personal.md) 
+
+### #is_/same_as :: [Information_Theory.secret](/_secret/Philosophy/Epistemology/Information/Information_Theory.secret.md)
+

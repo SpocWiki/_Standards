@@ -107,3 +107,22 @@ Stack_Exchange_tag: https://islam.stackexchange.com/tags/sufism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sufism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sufism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sufism.md) 
+
+### #is_/same_as :: [Sufism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sufism.public.md) 
+
+### #is_/same_as :: [Sufism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sufism.internal.md) 
+
+### #is_/same_as :: [Sufism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sufism.protect.md) 
+
+### #is_/same_as :: [Sufism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sufism.private.md) 
+
+### #is_/same_as :: [Sufism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sufism.personal.md) 
+
+### #is_/same_as :: [Sufism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sufism.secret.md)
+

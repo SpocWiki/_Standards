@@ -46,3 +46,22 @@ Libris_URI: 75kmp4br0wqq0j7
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hegemony) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hegemony](/_Standards/Society/Politics/Diplomacy/Hegemony.md) 
+
+### #is_/same_as :: [Hegemony.public](/_public/Society/Politics/Diplomacy/Hegemony.public.md) 
+
+### #is_/same_as :: [Hegemony.internal](/_internal/Society/Politics/Diplomacy/Hegemony.internal.md) 
+
+### #is_/same_as :: [Hegemony.protect](/_protect/Society/Politics/Diplomacy/Hegemony.protect.md) 
+
+### #is_/same_as :: [Hegemony.private](/_private/Society/Politics/Diplomacy/Hegemony.private.md) 
+
+### #is_/same_as :: [Hegemony.personal](/_personal/Society/Politics/Diplomacy/Hegemony.personal.md) 
+
+### #is_/same_as :: [Hegemony.secret](/_secret/Society/Politics/Diplomacy/Hegemony.secret.md)
+

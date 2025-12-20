@@ -51,3 +51,22 @@ Commons_category: Legumes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Legume) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Legume](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Legume.md) 
+
+### #is_/same_as :: [Legume.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Legume.public.md) 
+
+### #is_/same_as :: [Legume.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Legume.internal.md) 
+
+### #is_/same_as :: [Legume.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Legume.protect.md) 
+
+### #is_/same_as :: [Legume.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Legume.private.md) 
+
+### #is_/same_as :: [Legume.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Legume.personal.md) 
+
+### #is_/same_as :: [Legume.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Legume.secret.md)
+

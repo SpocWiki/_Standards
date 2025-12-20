@@ -116,3 +116,22 @@ name_in_native_language: Sydney Pollack
 > [Wikipedia](https://en.wikipedia.org/wiki/Sydney%20Pollack) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pollack,Sydney](/_Standards/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.md) 
+
+### #is_/same_as :: [Pollack,Sydney.public](/_public/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.public.md) 
+
+### #is_/same_as :: [Pollack,Sydney.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.internal.md) 
+
+### #is_/same_as :: [Pollack,Sydney.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.protect.md) 
+
+### #is_/same_as :: [Pollack,Sydney.private](/_private/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.private.md) 
+
+### #is_/same_as :: [Pollack,Sydney.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.personal.md) 
+
+### #is_/same_as :: [Pollack,Sydney.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.secret.md)
+

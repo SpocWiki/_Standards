@@ -66,19 +66,20 @@ A school.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/School)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [School](School.md) 
+### #is_/same_as :: [School](/_Standards/Society/Agent/Community/Organization/Educational_Organization/School.md) 
 
-### #is_/same_as :: [School.public](/_public/Society/Organization/Educational_Organization/School.public.md) 
+### #is_/same_as :: [School.public](/_public/Society/Agent/Community/Organization/Educational_Organization/School.public.md) 
 
-### #is_/same_as :: [School.internal](/_internal/Society/Organization/Educational_Organization/School.internal.md) 
+### #is_/same_as :: [School.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/School.internal.md) 
 
-### #is_/same_as :: [School.protect](/_protect/Society/Organization/Educational_Organization/School.protect.md) 
+### #is_/same_as :: [School.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/School.protect.md) 
 
-### #is_/same_as :: [School.private](/_private/Society/Organization/Educational_Organization/School.private.md) 
+### #is_/same_as :: [School.private](/_private/Society/Agent/Community/Organization/Educational_Organization/School.private.md) 
 
-### #is_/same_as :: [School.personal](/_personal/Society/Organization/Educational_Organization/School.personal.md) 
+### #is_/same_as :: [School.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/School.personal.md) 
 
-### #is_/same_as :: [School.secret](/_secret/Society/Organization/Educational_Organization/School.secret.md)
+### #is_/same_as :: [School.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/School.secret.md)
 

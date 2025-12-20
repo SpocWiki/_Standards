@@ -53,3 +53,22 @@ Library_of_Congress_Classification: JC352
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/City-state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [City-State](/_Standards/Earth/Geography/Place/Administrative_Area/City-State.md) 
+
+### #is_/same_as :: [City-State.public](/_public/Earth/Geography/Place/Administrative_Area/City-State.public.md) 
+
+### #is_/same_as :: [City-State.internal](/_internal/Earth/Geography/Place/Administrative_Area/City-State.internal.md) 
+
+### #is_/same_as :: [City-State.protect](/_protect/Earth/Geography/Place/Administrative_Area/City-State.protect.md) 
+
+### #is_/same_as :: [City-State.private](/_private/Earth/Geography/Place/Administrative_Area/City-State.private.md) 
+
+### #is_/same_as :: [City-State.personal](/_personal/Earth/Geography/Place/Administrative_Area/City-State.personal.md) 
+
+### #is_/same_as :: [City-State.secret](/_secret/Earth/Geography/Place/Administrative_Area/City-State.secret.md)
+

@@ -224,3 +224,22 @@ Instagram_username: francisfordcoppola
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Ford%20Coppola) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coppola,Francis_Ford](/_Standards/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.md) 
+
+### #is_/same_as :: [Coppola,Francis_Ford.public](/_public/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.public.md) 
+
+### #is_/same_as :: [Coppola,Francis_Ford.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.internal.md) 
+
+### #is_/same_as :: [Coppola,Francis_Ford.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.protect.md) 
+
+### #is_/same_as :: [Coppola,Francis_Ford.private](/_private/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.private.md) 
+
+### #is_/same_as :: [Coppola,Francis_Ford.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.personal.md) 
+
+### #is_/same_as :: [Coppola,Francis_Ford.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.secret.md)
+

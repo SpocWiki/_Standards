@@ -66,3 +66,22 @@ inception: 1923-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theodolite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theodolite](/_Standards/Technology/Tool/Instrumentation/Theodolite.md) 
+
+### #is_/same_as :: [Theodolite.public](/_public/Technology/Tool/Instrumentation/Theodolite.public.md) 
+
+### #is_/same_as :: [Theodolite.internal](/_internal/Technology/Tool/Instrumentation/Theodolite.internal.md) 
+
+### #is_/same_as :: [Theodolite.protect](/_protect/Technology/Tool/Instrumentation/Theodolite.protect.md) 
+
+### #is_/same_as :: [Theodolite.private](/_private/Technology/Tool/Instrumentation/Theodolite.private.md) 
+
+### #is_/same_as :: [Theodolite.personal](/_personal/Technology/Tool/Instrumentation/Theodolite.personal.md) 
+
+### #is_/same_as :: [Theodolite.secret](/_secret/Technology/Tool/Instrumentation/Theodolite.secret.md)
+

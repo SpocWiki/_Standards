@@ -47,3 +47,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Creative%20destruction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [creative_Destruction](/_Standards/Society/Economics/Economist/creative_Destruction.md) 
+
+### #is_/same_as :: [creative_Destruction.public](/_public/Society/Economics/Economist/creative_Destruction.public.md) 
+
+### #is_/same_as :: [creative_Destruction.internal](/_internal/Society/Economics/Economist/creative_Destruction.internal.md) 
+
+### #is_/same_as :: [creative_Destruction.protect](/_protect/Society/Economics/Economist/creative_Destruction.protect.md) 
+
+### #is_/same_as :: [creative_Destruction.private](/_private/Society/Economics/Economist/creative_Destruction.private.md) 
+
+### #is_/same_as :: [creative_Destruction.personal](/_personal/Society/Economics/Economist/creative_Destruction.personal.md) 
+
+### #is_/same_as :: [creative_Destruction.secret](/_secret/Society/Economics/Economist/creative_Destruction.secret.md)
+

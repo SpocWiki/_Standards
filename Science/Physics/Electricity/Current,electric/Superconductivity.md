@@ -76,3 +76,22 @@ Dewey_Decimal_Classification: "537.623"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Superconductivity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Superconductivity](/_Standards/Science/Physics/Electricity/Current,electric/Superconductivity.md) 
+
+### #is_/same_as :: [Superconductivity.public](/_public/Science/Physics/Electricity/Current,electric/Superconductivity.public.md) 
+
+### #is_/same_as :: [Superconductivity.internal](/_internal/Science/Physics/Electricity/Current,electric/Superconductivity.internal.md) 
+
+### #is_/same_as :: [Superconductivity.protect](/_protect/Science/Physics/Electricity/Current,electric/Superconductivity.protect.md) 
+
+### #is_/same_as :: [Superconductivity.private](/_private/Science/Physics/Electricity/Current,electric/Superconductivity.private.md) 
+
+### #is_/same_as :: [Superconductivity.personal](/_personal/Science/Physics/Electricity/Current,electric/Superconductivity.personal.md) 
+
+### #is_/same_as :: [Superconductivity.secret](/_secret/Science/Physics/Electricity/Current,electric/Superconductivity.secret.md)
+

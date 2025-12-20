@@ -67,3 +67,22 @@ Dewey_Decimal_Classification: "573.49"
 > [Wikipedia](https://en.wikipedia.org/wiki/Bladder)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Urinary_Bladder](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.md) 
+
+### #is_/same_as :: [Urinary_Bladder.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.public.md) 
+
+### #is_/same_as :: [Urinary_Bladder.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.internal.md) 
+
+### #is_/same_as :: [Urinary_Bladder.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.protect.md) 
+
+### #is_/same_as :: [Urinary_Bladder.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.private.md) 
+
+### #is_/same_as :: [Urinary_Bladder.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.personal.md) 
+
+### #is_/same_as :: [Urinary_Bladder.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.secret.md)
+

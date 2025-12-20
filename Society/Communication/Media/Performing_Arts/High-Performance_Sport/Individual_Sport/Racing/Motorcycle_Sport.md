@@ -32,3 +32,22 @@ Colon_Classification: MY227
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Motorcycle%20sport) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Motorcycle_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Motorcycle_Sport.md) 
+
+### #is_/same_as :: [Motorcycle_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Motorcycle_Sport.public.md) 
+
+### #is_/same_as :: [Motorcycle_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Motorcycle_Sport.internal.md) 
+
+### #is_/same_as :: [Motorcycle_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Motorcycle_Sport.protect.md) 
+
+### #is_/same_as :: [Motorcycle_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Motorcycle_Sport.private.md) 
+
+### #is_/same_as :: [Motorcycle_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Motorcycle_Sport.personal.md) 
+
+### #is_/same_as :: [Motorcycle_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Motorcycle_Sport.secret.md)
+

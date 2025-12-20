@@ -41,17 +41,17 @@ A delivery service through which content is provided via broadcast over the air 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Broadcast_Service](Broadcast_Service.md) 
+### #is_/same_as :: [Broadcast_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.md) 
 
-### #is_/same_as :: [broadcast_service.public](/_public/schema-org/Class/is_a_/Intangible/service/broadcast_service.public.md) 
+### #is_/same_as :: [Broadcast_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.public.md) 
 
-### #is_/same_as :: [broadcast_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/broadcast_service.internal.md) 
+### #is_/same_as :: [Broadcast_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.internal.md) 
 
-### #is_/same_as :: [broadcast_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/broadcast_service.protect.md) 
+### #is_/same_as :: [Broadcast_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.protect.md) 
 
-### #is_/same_as :: [broadcast_service.private](/_private/schema-org/Class/is_a_/Intangible/service/broadcast_service.private.md) 
+### #is_/same_as :: [Broadcast_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.private.md) 
 
-### #is_/same_as :: [broadcast_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/broadcast_service.personal.md) 
+### #is_/same_as :: [Broadcast_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.personal.md) 
 
-### #is_/same_as :: [broadcast_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/broadcast_service.secret.md)
+### #is_/same_as :: [Broadcast_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.secret.md)
 

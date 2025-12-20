@@ -87,3 +87,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Energy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Energy](/_Standards/Dimension/Energy.md) 
+
+### #is_/same_as :: [Energy.public](/_public/Dimension/Energy.public.md) 
+
+### #is_/same_as :: [Energy.internal](/_internal/Dimension/Energy.internal.md) 
+
+### #is_/same_as :: [Energy.protect](/_protect/Dimension/Energy.protect.md) 
+
+### #is_/same_as :: [Energy.private](/_private/Dimension/Energy.private.md) 
+
+### #is_/same_as :: [Energy.personal](/_personal/Dimension/Energy.personal.md) 
+
+### #is_/same_as :: [Energy.secret](/_secret/Dimension/Energy.secret.md)
+

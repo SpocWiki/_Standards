@@ -40,3 +40,22 @@ end_time: 1914-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scramble%20for%20Africa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1884-Scramble_for_Africa+1914](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.md) 
+
+### #is_/same_as :: [1884-Scramble_for_Africa+1914.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.public.md) 
+
+### #is_/same_as :: [1884-Scramble_for_Africa+1914.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.internal.md) 
+
+### #is_/same_as :: [1884-Scramble_for_Africa+1914.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.protect.md) 
+
+### #is_/same_as :: [1884-Scramble_for_Africa+1914.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.private.md) 
+
+### #is_/same_as :: [1884-Scramble_for_Africa+1914.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.personal.md) 
+
+### #is_/same_as :: [1884-Scramble_for_Africa+1914.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.secret.md)
+

@@ -45,3 +45,22 @@ Library_of_Congress_Classification:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Control](/_Standards/Society/Culture/Social_Control.md) 
+
+### #is_/same_as :: [Social_Control.public](/_public/Society/Culture/Social_Control.public.md) 
+
+### #is_/same_as :: [Social_Control.internal](/_internal/Society/Culture/Social_Control.internal.md) 
+
+### #is_/same_as :: [Social_Control.protect](/_protect/Society/Culture/Social_Control.protect.md) 
+
+### #is_/same_as :: [Social_Control.private](/_private/Society/Culture/Social_Control.private.md) 
+
+### #is_/same_as :: [Social_Control.personal](/_personal/Society/Culture/Social_Control.personal.md) 
+
+### #is_/same_as :: [Social_Control.secret](/_secret/Society/Culture/Social_Control.secret.md)
+

@@ -86,7 +86,7 @@ Lab, University of California is gratefully acknowledged.
 
   -------
   Copyright ::   © 2000 Ron Ates
-  -------
+  -------
 
 
 ## Confidential Links & Embeds: 

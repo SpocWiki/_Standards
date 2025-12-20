@@ -46,17 +46,17 @@ U_S_National_Archives_Identifier: 10047242
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [North_Pole](/_Standards/Earth/Geography/North_Pole.md) 
+### #is_/same_as :: [North_Pole](/_Standards/Earth/Geography/Cartography/North_Pole.md) 
 
-### #is_/same_as :: [North_Pole.public](/_public/Earth/Geography/North_Pole.public.md) 
+### #is_/same_as :: [North_Pole.public](/_public/Earth/Geography/Cartography/North_Pole.public.md) 
 
-### #is_/same_as :: [North_Pole.internal](/_internal/Earth/Geography/North_Pole.internal.md) 
+### #is_/same_as :: [North_Pole.internal](/_internal/Earth/Geography/Cartography/North_Pole.internal.md) 
 
-### #is_/same_as :: [North_Pole.protect](/_protect/Earth/Geography/North_Pole.protect.md) 
+### #is_/same_as :: [North_Pole.protect](/_protect/Earth/Geography/Cartography/North_Pole.protect.md) 
 
-### #is_/same_as :: [North_Pole.private](/_private/Earth/Geography/North_Pole.private.md) 
+### #is_/same_as :: [North_Pole.private](/_private/Earth/Geography/Cartography/North_Pole.private.md) 
 
-### #is_/same_as :: [North_Pole.personal](/_personal/Earth/Geography/North_Pole.personal.md) 
+### #is_/same_as :: [North_Pole.personal](/_personal/Earth/Geography/Cartography/North_Pole.personal.md) 
 
-### #is_/same_as :: [North_Pole.secret](/_secret/Earth/Geography/North_Pole.secret.md)
+### #is_/same_as :: [North_Pole.secret](/_secret/Earth/Geography/Cartography/North_Pole.secret.md)
 

@@ -65,3 +65,22 @@ time_of_discovery_or_invention: 1915-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Handball) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Handball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Handball.md) 
+
+### #is_/same_as :: [Handball.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Handball.public.md) 
+
+### #is_/same_as :: [Handball.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Handball.internal.md) 
+
+### #is_/same_as :: [Handball.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Handball.protect.md) 
+
+### #is_/same_as :: [Handball.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Handball.private.md) 
+
+### #is_/same_as :: [Handball.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Handball.personal.md) 
+
+### #is_/same_as :: [Handball.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Handball.secret.md)
+

@@ -74,3 +74,22 @@ Commons_category: Taxi vehicles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taxi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Taxi](/_Standards/Technology/Transport/Road_Transport/Taxi.md) 
+
+### #is_/same_as :: [Taxi.public](/_public/Technology/Transport/Road_Transport/Taxi.public.md) 
+
+### #is_/same_as :: [Taxi.internal](/_internal/Technology/Transport/Road_Transport/Taxi.internal.md) 
+
+### #is_/same_as :: [Taxi.protect](/_protect/Technology/Transport/Road_Transport/Taxi.protect.md) 
+
+### #is_/same_as :: [Taxi.private](/_private/Technology/Transport/Road_Transport/Taxi.private.md) 
+
+### #is_/same_as :: [Taxi.personal](/_personal/Technology/Transport/Road_Transport/Taxi.personal.md) 
+
+### #is_/same_as :: [Taxi.secret](/_secret/Technology/Transport/Road_Transport/Taxi.secret.md)
+

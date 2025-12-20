@@ -19,3 +19,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aculeata) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aculeata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.md) 
+
+### #is_/same_as :: [Aculeata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.public.md) 
+
+### #is_/same_as :: [Aculeata.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.internal.md) 
+
+### #is_/same_as :: [Aculeata.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.protect.md) 
+
+### #is_/same_as :: [Aculeata.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.private.md) 
+
+### #is_/same_as :: [Aculeata.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.personal.md) 
+
+### #is_/same_as :: [Aculeata.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.secret.md)
+

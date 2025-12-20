@@ -66,3 +66,22 @@ Commons_category: The War of the Worlds (radio drama)
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20War%20of%20the%20Worlds%20(1938%20radio%20drama)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [War_of_the_Worlds(Welles)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).md) 
+
+### #is_/same_as :: [War_of_the_Worlds(Welles).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).public.md) 
+
+### #is_/same_as :: [War_of_the_Worlds(Welles).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).internal.md) 
+
+### #is_/same_as :: [War_of_the_Worlds(Welles).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).protect.md) 
+
+### #is_/same_as :: [War_of_the_Worlds(Welles).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).private.md) 
+
+### #is_/same_as :: [War_of_the_Worlds(Welles).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).personal.md) 
+
+### #is_/same_as :: [War_of_the_Worlds(Welles).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).secret.md)
+

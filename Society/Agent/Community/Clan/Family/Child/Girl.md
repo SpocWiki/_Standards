@@ -42,3 +42,21 @@ hashtag_: girl
 > The treatment and status of girls in any society is usually closely related to the status of women in that culture.  In cultures where women have or had a low social position, girls may be unwanted by their parents, and society may invest less in girls.  The difference in girls' and boys' upbringing ranges from slight to completely different.  Mixing of the sexes may vary by age, and from totally mixed to total sex segregation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Girl)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Girl](/_Standards/Society/Agent/Community/Clan/Family/Child/Girl.md) 
+
+### #is_/same_as :: [Girl.public](/_public/Society/Agent/Community/Clan/Family/Child/Girl.public.md) 
+
+### #is_/same_as :: [Girl.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Girl.internal.md) 
+
+### #is_/same_as :: [Girl.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Girl.protect.md) 
+
+### #is_/same_as :: [Girl.private](/_private/Society/Agent/Community/Clan/Family/Child/Girl.private.md) 
+
+### #is_/same_as :: [Girl.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Girl.personal.md) 
+
+### #is_/same_as :: [Girl.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Girl.secret.md)
+

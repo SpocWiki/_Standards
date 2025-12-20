@@ -52,3 +52,22 @@ Wolfram_Language_unit_code: '"Passengers"'
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Passenger)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Passenger](/_Standards/Technology/Transport/Passenger.md) 
+
+### #is_/same_as :: [Passenger.public](/_public/Technology/Transport/Passenger.public.md) 
+
+### #is_/same_as :: [Passenger.internal](/_internal/Technology/Transport/Passenger.internal.md) 
+
+### #is_/same_as :: [Passenger.protect](/_protect/Technology/Transport/Passenger.protect.md) 
+
+### #is_/same_as :: [Passenger.private](/_private/Technology/Transport/Passenger.private.md) 
+
+### #is_/same_as :: [Passenger.personal](/_personal/Technology/Transport/Passenger.personal.md) 
+
+### #is_/same_as :: [Passenger.secret](/_secret/Technology/Transport/Passenger.secret.md)
+

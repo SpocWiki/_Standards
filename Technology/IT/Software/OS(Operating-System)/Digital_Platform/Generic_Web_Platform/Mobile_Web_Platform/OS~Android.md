@@ -206,17 +206,17 @@ Represents the broad notion of Android-based operating systems.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [android_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.md) 
+### #is_/same_as :: [OS~Android](/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.md) 
 
-### #is_/same_as :: [android_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.public.md) 
+### #is_/same_as :: [OS~Android.public](/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.public.md) 
 
-### #is_/same_as :: [android_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.internal.md) 
+### #is_/same_as :: [OS~Android.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.internal.md) 
 
-### #is_/same_as :: [android_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.protect.md) 
+### #is_/same_as :: [OS~Android.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.protect.md) 
 
-### #is_/same_as :: [android_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.private.md) 
+### #is_/same_as :: [OS~Android.private](/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.private.md) 
 
-### #is_/same_as :: [android_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.personal.md) 
+### #is_/same_as :: [OS~Android.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.personal.md) 
 
-### #is_/same_as :: [android_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.secret.md)
+### #is_/same_as :: [OS~Android.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.secret.md)
 

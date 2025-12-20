@@ -154,3 +154,22 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/RIMSKO-KATOLICHESKAYA_TSERKOV.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Catholic%20Church) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Catholic_Church](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.md) 
+
+### #is_/same_as :: [Catholic_Church.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.public.md) 
+
+### #is_/same_as :: [Catholic_Church.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.internal.md) 
+
+### #is_/same_as :: [Catholic_Church.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.protect.md) 
+
+### #is_/same_as :: [Catholic_Church.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.private.md) 
+
+### #is_/same_as :: [Catholic_Church.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.personal.md) 
+
+### #is_/same_as :: [Catholic_Church.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.secret.md)
+

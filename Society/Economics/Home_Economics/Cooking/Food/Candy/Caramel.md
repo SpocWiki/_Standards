@@ -20,8 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Caramel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Caramel](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.md) 

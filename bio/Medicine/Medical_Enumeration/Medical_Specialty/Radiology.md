@@ -38,3 +38,22 @@ OpenStreetMap_tag: healthcare:speciality=radiology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radiology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Radiology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Radiology.md) 
+
+### #is_/same_as :: [Radiology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Radiology.public.md) 
+
+### #is_/same_as :: [Radiology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Radiology.internal.md) 
+
+### #is_/same_as :: [Radiology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Radiology.protect.md) 
+
+### #is_/same_as :: [Radiology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Radiology.private.md) 
+
+### #is_/same_as :: [Radiology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Radiology.personal.md) 
+
+### #is_/same_as :: [Radiology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Radiology.secret.md)
+

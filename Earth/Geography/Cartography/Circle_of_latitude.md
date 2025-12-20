@@ -60,3 +60,22 @@ Dewey_Decimal_Classification: "526.6"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Circle%20of%20latitude) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Circle_of_latitude](/_Standards/Earth/Geography/Cartography/Circle_of_latitude.md) 
+
+### #is_/same_as :: [Circle_of_latitude.public](/_public/Earth/Geography/Cartography/Circle_of_latitude.public.md) 
+
+### #is_/same_as :: [Circle_of_latitude.internal](/_internal/Earth/Geography/Cartography/Circle_of_latitude.internal.md) 
+
+### #is_/same_as :: [Circle_of_latitude.protect](/_protect/Earth/Geography/Cartography/Circle_of_latitude.protect.md) 
+
+### #is_/same_as :: [Circle_of_latitude.private](/_private/Earth/Geography/Cartography/Circle_of_latitude.private.md) 
+
+### #is_/same_as :: [Circle_of_latitude.personal](/_personal/Earth/Geography/Cartography/Circle_of_latitude.personal.md) 
+
+### #is_/same_as :: [Circle_of_latitude.secret](/_secret/Earth/Geography/Cartography/Circle_of_latitude.secret.md)
+

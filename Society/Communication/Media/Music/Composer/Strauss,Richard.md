@@ -28,3 +28,22 @@ has_id_wikidata: Q13894
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Strauss) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Strauss,Richard](/_Standards/Society/Communication/Media/Music/Composer/Strauss,Richard.md) 
+
+### #is_/same_as :: [Strauss,Richard.public](/_public/Society/Communication/Media/Music/Composer/Strauss,Richard.public.md) 
+
+### #is_/same_as :: [Strauss,Richard.internal](/_internal/Society/Communication/Media/Music/Composer/Strauss,Richard.internal.md) 
+
+### #is_/same_as :: [Strauss,Richard.protect](/_protect/Society/Communication/Media/Music/Composer/Strauss,Richard.protect.md) 
+
+### #is_/same_as :: [Strauss,Richard.private](/_private/Society/Communication/Media/Music/Composer/Strauss,Richard.private.md) 
+
+### #is_/same_as :: [Strauss,Richard.personal](/_personal/Society/Communication/Media/Music/Composer/Strauss,Richard.personal.md) 
+
+### #is_/same_as :: [Strauss,Richard.secret](/_secret/Society/Communication/Media/Music/Composer/Strauss,Richard.secret.md)
+

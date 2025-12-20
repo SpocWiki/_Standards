@@ -59,3 +59,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Potential%20energy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Potential_Energy](/_Standards/Dimension/Energy/Potential_Energy.md) 
+
+### #is_/same_as :: [Potential_Energy.public](/_public/Dimension/Energy/Potential_Energy.public.md) 
+
+### #is_/same_as :: [Potential_Energy.internal](/_internal/Dimension/Energy/Potential_Energy.internal.md) 
+
+### #is_/same_as :: [Potential_Energy.protect](/_protect/Dimension/Energy/Potential_Energy.protect.md) 
+
+### #is_/same_as :: [Potential_Energy.private](/_private/Dimension/Energy/Potential_Energy.private.md) 
+
+### #is_/same_as :: [Potential_Energy.personal](/_personal/Dimension/Energy/Potential_Energy.personal.md) 
+
+### #is_/same_as :: [Potential_Energy.secret](/_secret/Dimension/Energy/Potential_Energy.secret.md)
+

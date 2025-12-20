@@ -75,3 +75,22 @@ name_in_native_language: Πήγασος
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pegasus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pegasus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.md) 
+
+### #is_/same_as :: [Pegasus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.public.md) 
+
+### #is_/same_as :: [Pegasus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.internal.md) 
+
+### #is_/same_as :: [Pegasus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.protect.md) 
+
+### #is_/same_as :: [Pegasus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.private.md) 
+
+### #is_/same_as :: [Pegasus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.personal.md) 
+
+### #is_/same_as :: [Pegasus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.secret.md)
+

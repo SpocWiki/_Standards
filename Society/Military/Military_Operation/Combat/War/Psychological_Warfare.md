@@ -41,3 +41,22 @@ Commons_category: Psychological warfare
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychological%20warfare) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Psychological_Warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.md) 
+
+### #is_/same_as :: [Psychological_Warfare.public](/_public/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.public.md) 
+
+### #is_/same_as :: [Psychological_Warfare.internal](/_internal/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.internal.md) 
+
+### #is_/same_as :: [Psychological_Warfare.protect](/_protect/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.protect.md) 
+
+### #is_/same_as :: [Psychological_Warfare.private](/_private/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.private.md) 
+
+### #is_/same_as :: [Psychological_Warfare.personal](/_personal/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.personal.md) 
+
+### #is_/same_as :: [Psychological_Warfare.secret](/_secret/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.secret.md)
+

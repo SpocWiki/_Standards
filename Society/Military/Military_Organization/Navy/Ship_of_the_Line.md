@@ -43,3 +43,22 @@ Commons_category: Ships of the line
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ship%20of%20the%20line) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ship_of_the_Line](/_Standards/Society/Military/Military_Organization/Navy/Ship_of_the_Line.md) 
+
+### #is_/same_as :: [Ship_of_the_Line.public](/_public/Society/Military/Military_Organization/Navy/Ship_of_the_Line.public.md) 
+
+### #is_/same_as :: [Ship_of_the_Line.internal](/_internal/Society/Military/Military_Organization/Navy/Ship_of_the_Line.internal.md) 
+
+### #is_/same_as :: [Ship_of_the_Line.protect](/_protect/Society/Military/Military_Organization/Navy/Ship_of_the_Line.protect.md) 
+
+### #is_/same_as :: [Ship_of_the_Line.private](/_private/Society/Military/Military_Organization/Navy/Ship_of_the_Line.private.md) 
+
+### #is_/same_as :: [Ship_of_the_Line.personal](/_personal/Society/Military/Military_Organization/Navy/Ship_of_the_Line.personal.md) 
+
+### #is_/same_as :: [Ship_of_the_Line.secret](/_secret/Society/Military/Military_Organization/Navy/Ship_of_the_Line.secret.md)
+

@@ -121,3 +121,22 @@ H-O
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lactic_acid](/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.md) 
+
+### #is_/same_as :: [Lactic_acid.public](/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.public.md) 
+
+### #is_/same_as :: [Lactic_acid.internal](/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.internal.md) 
+
+### #is_/same_as :: [Lactic_acid.protect](/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.protect.md) 
+
+### #is_/same_as :: [Lactic_acid.private](/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.private.md) 
+
+### #is_/same_as :: [Lactic_acid.personal](/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.personal.md) 
+
+### #is_/same_as :: [Lactic_acid.secret](/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.secret.md)
+

@@ -50,3 +50,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lunch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lunch](/_Standards/Society/Economics/Home_Economics/Meal/Lunch.md) 
+
+### #is_/same_as :: [Lunch.public](/_public/Society/Economics/Home_Economics/Meal/Lunch.public.md) 
+
+### #is_/same_as :: [Lunch.internal](/_internal/Society/Economics/Home_Economics/Meal/Lunch.internal.md) 
+
+### #is_/same_as :: [Lunch.protect](/_protect/Society/Economics/Home_Economics/Meal/Lunch.protect.md) 
+
+### #is_/same_as :: [Lunch.private](/_private/Society/Economics/Home_Economics/Meal/Lunch.private.md) 
+
+### #is_/same_as :: [Lunch.personal](/_personal/Society/Economics/Home_Economics/Meal/Lunch.personal.md) 
+
+### #is_/same_as :: [Lunch.secret](/_secret/Society/Economics/Home_Economics/Meal/Lunch.secret.md)
+

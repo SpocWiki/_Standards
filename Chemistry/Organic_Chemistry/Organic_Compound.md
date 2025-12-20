@@ -64,3 +64,22 @@ Commons_category: Organic compounds
 > [Wikipedia](https://en.wikipedia.org/wiki/Organic%20compound) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Organic_Compound](/_Standards/Chemistry/Organic_Chemistry/Organic_Compound.md) 
+
+### #is_/same_as :: [Organic_Compound.public](/_public/Chemistry/Organic_Chemistry/Organic_Compound.public.md) 
+
+### #is_/same_as :: [Organic_Compound.internal](/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal.md) 
+
+### #is_/same_as :: [Organic_Compound.protect](/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect.md) 
+
+### #is_/same_as :: [Organic_Compound.private](/_private/Chemistry/Organic_Chemistry/Organic_Compound.private.md) 
+
+### #is_/same_as :: [Organic_Compound.personal](/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal.md) 
+
+### #is_/same_as :: [Organic_Compound.secret](/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret.md)
+

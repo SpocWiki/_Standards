@@ -41,3 +41,21 @@ has_id_wikidata: Q177332
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spore) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spore](/_Standards/bio/Reproduction/Spore.md) 
+
+### #is_/same_as :: [Spore.public](/_public/bio/Reproduction/Spore.public.md) 
+
+### #is_/same_as :: [Spore.internal](/_internal/bio/Reproduction/Spore.internal.md) 
+
+### #is_/same_as :: [Spore.protect](/_protect/bio/Reproduction/Spore.protect.md) 
+
+### #is_/same_as :: [Spore.private](/_private/bio/Reproduction/Spore.private.md) 
+
+### #is_/same_as :: [Spore.personal](/_personal/bio/Reproduction/Spore.personal.md) 
+
+### #is_/same_as :: [Spore.secret](/_secret/bio/Reproduction/Spore.secret.md)
+

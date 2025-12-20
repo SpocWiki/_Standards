@@ -56,17 +56,17 @@ HTML Meta-Tags are often used to describe Web Pages using
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microformat](/_Standards/W3C/RDF(Resource_Description_Framework)/Microformat.md) 
+### #is_/same_as :: [Microformat](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.md) 
 
-### #is_/same_as :: [Microformat.public](/_public/W3C/RDF(Resource_Description_Framework)/Microformat.public.md) 
+### #is_/same_as :: [Microformat.public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.public.md) 
 
-### #is_/same_as :: [Microformat.internal](/_internal/W3C/RDF(Resource_Description_Framework)/Microformat.internal.md) 
+### #is_/same_as :: [Microformat.internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.internal.md) 
 
-### #is_/same_as :: [Microformat.protect](/_protect/W3C/RDF(Resource_Description_Framework)/Microformat.protect.md) 
+### #is_/same_as :: [Microformat.protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.protect.md) 
 
-### #is_/same_as :: [Microformat.private](/_private/W3C/RDF(Resource_Description_Framework)/Microformat.private.md) 
+### #is_/same_as :: [Microformat.private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.private.md) 
 
-### #is_/same_as :: [Microformat.personal](/_personal/W3C/RDF(Resource_Description_Framework)/Microformat.personal.md) 
+### #is_/same_as :: [Microformat.personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.personal.md) 
 
-### #is_/same_as :: [Microformat.secret](/_secret/W3C/RDF(Resource_Description_Framework)/Microformat.secret.md)
+### #is_/same_as :: [Microformat.secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microformat.secret.md)
 

@@ -64,17 +64,17 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_camera,5913742]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Camera](/_Standards/Science/Physics/Optics/Camera.md) 
+### #is_/same_as :: [Camera](/_Standards/Science/Physics/Wave/Optics/Camera.md) 
 
-### #is_/same_as :: [Camera.public](/_public/Science/Physics/Optics/Camera.public.md) 
+### #is_/same_as :: [Camera.public](/_public/Science/Physics/Wave/Optics/Camera.public.md) 
 
-### #is_/same_as :: [Camera.internal](/_internal/Science/Physics/Optics/Camera.internal.md) 
+### #is_/same_as :: [Camera.internal](/_internal/Science/Physics/Wave/Optics/Camera.internal.md) 
 
-### #is_/same_as :: [Camera.protect](/_protect/Science/Physics/Optics/Camera.protect.md) 
+### #is_/same_as :: [Camera.protect](/_protect/Science/Physics/Wave/Optics/Camera.protect.md) 
 
-### #is_/same_as :: [Camera.private](/_private/Science/Physics/Optics/Camera.private.md) 
+### #is_/same_as :: [Camera.private](/_private/Science/Physics/Wave/Optics/Camera.private.md) 
 
-### #is_/same_as :: [Camera.personal](/_personal/Science/Physics/Optics/Camera.personal.md) 
+### #is_/same_as :: [Camera.personal](/_personal/Science/Physics/Wave/Optics/Camera.personal.md) 
 
-### #is_/same_as :: [Camera.secret](/_secret/Science/Physics/Optics/Camera.secret.md)
+### #is_/same_as :: [Camera.secret](/_secret/Science/Physics/Wave/Optics/Camera.secret.md)
 

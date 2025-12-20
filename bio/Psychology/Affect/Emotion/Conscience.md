@@ -18,3 +18,22 @@ has_id_wikidata: Q193526
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Conscience) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conscience](/_Standards/bio/Psychology/Affect/Emotion/Conscience.md) 
+
+### #is_/same_as :: [Conscience.public](/_public/bio/Psychology/Affect/Emotion/Conscience.public.md) 
+
+### #is_/same_as :: [Conscience.internal](/_internal/bio/Psychology/Affect/Emotion/Conscience.internal.md) 
+
+### #is_/same_as :: [Conscience.protect](/_protect/bio/Psychology/Affect/Emotion/Conscience.protect.md) 
+
+### #is_/same_as :: [Conscience.private](/_private/bio/Psychology/Affect/Emotion/Conscience.private.md) 
+
+### #is_/same_as :: [Conscience.personal](/_personal/bio/Psychology/Affect/Emotion/Conscience.personal.md) 
+
+### #is_/same_as :: [Conscience.secret](/_secret/bio/Psychology/Affect/Emotion/Conscience.secret.md)
+

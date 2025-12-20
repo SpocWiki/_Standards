@@ -140,3 +140,22 @@ Dewey_Decimal_Classification: "439.7"
 > [Wikipedia](https://en.wikipedia.org/wiki/Swedish%20language)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-swe](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.md) 
+
+### #is_/same_as :: [Lang-swe.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.public.md) 
+
+### #is_/same_as :: [Lang-swe.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.internal.md) 
+
+### #is_/same_as :: [Lang-swe.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.protect.md) 
+
+### #is_/same_as :: [Lang-swe.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.private.md) 
+
+### #is_/same_as :: [Lang-swe.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.personal.md) 
+
+### #is_/same_as :: [Lang-swe.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.secret.md)
+

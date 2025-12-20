@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Desert](/_Standards/Earth/Geology/Biomes/Desert.md) 
+### #is_/same_as :: [Desert](/_Standards/Earth/Climate/Biosphere/Biomes/Desert.md) 
 
-### #is_/same_as :: [Desert.public](/_public/Earth/Geology/Biomes/Desert.public.md) 
+### #is_/same_as :: [Desert.public](/_public/Earth/Climate/Biosphere/Biomes/Desert.public.md) 
 
-### #is_/same_as :: [Desert.internal](/_internal/Earth/Geology/Biomes/Desert.internal.md) 
+### #is_/same_as :: [Desert.internal](/_internal/Earth/Climate/Biosphere/Biomes/Desert.internal.md) 
 
-### #is_/same_as :: [Desert.protect](/_protect/Earth/Geology/Biomes/Desert.protect.md) 
+### #is_/same_as :: [Desert.protect](/_protect/Earth/Climate/Biosphere/Biomes/Desert.protect.md) 
 
-### #is_/same_as :: [Desert.private](/_private/Earth/Geology/Biomes/Desert.private.md) 
+### #is_/same_as :: [Desert.private](/_private/Earth/Climate/Biosphere/Biomes/Desert.private.md) 
 
-### #is_/same_as :: [Desert.personal](/_personal/Earth/Geology/Biomes/Desert.personal.md) 
+### #is_/same_as :: [Desert.personal](/_personal/Earth/Climate/Biosphere/Biomes/Desert.personal.md) 
 
-### #is_/same_as :: [Desert.secret](/_secret/Earth/Geology/Biomes/Desert.secret.md)
+### #is_/same_as :: [Desert.secret](/_secret/Earth/Climate/Biosphere/Biomes/Desert.secret.md)
 

@@ -157,3 +157,22 @@ You should rather use the (more expensive) ImmutableStack for this purpose
 (and eventually revert the order). 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Functional](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional.md) 
+
+### #is_/same_as :: [Prog~Functional.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional.public.md) 
+
+### #is_/same_as :: [Prog~Functional.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional.internal.md) 
+
+### #is_/same_as :: [Prog~Functional.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional.protect.md) 
+
+### #is_/same_as :: [Prog~Functional.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional.private.md) 
+
+### #is_/same_as :: [Prog~Functional.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional.personal.md) 
+
+### #is_/same_as :: [Prog~Functional.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional.secret.md)
+

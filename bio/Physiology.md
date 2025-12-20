@@ -85,3 +85,22 @@ native_label: Qhichwa simi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Physiology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Physiology](/_Standards/bio/Physiology.md) 
+
+### #is_/same_as :: [Physiology.public](/_public/bio/Physiology.public.md) 
+
+### #is_/same_as :: [Physiology.internal](/_internal/bio/Physiology.internal.md) 
+
+### #is_/same_as :: [Physiology.protect](/_protect/bio/Physiology.protect.md) 
+
+### #is_/same_as :: [Physiology.private](/_private/bio/Physiology.private.md) 
+
+### #is_/same_as :: [Physiology.personal](/_personal/bio/Physiology.personal.md) 
+
+### #is_/same_as :: [Physiology.secret](/_secret/bio/Physiology.secret.md)
+

@@ -44,3 +44,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hinton,Geoffrey](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Hinton,Geoffrey.md) 
+
+### #is_/same_as :: [Hinton,Geoffrey.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Hinton,Geoffrey.public.md) 
+
+### #is_/same_as :: [Hinton,Geoffrey.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Hinton,Geoffrey.internal.md) 
+
+### #is_/same_as :: [Hinton,Geoffrey.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Hinton,Geoffrey.protect.md) 
+
+### #is_/same_as :: [Hinton,Geoffrey.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Hinton,Geoffrey.private.md) 
+
+### #is_/same_as :: [Hinton,Geoffrey.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Hinton,Geoffrey.personal.md) 
+
+### #is_/same_as :: [Hinton,Geoffrey.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Hinton,Geoffrey.secret.md)
+

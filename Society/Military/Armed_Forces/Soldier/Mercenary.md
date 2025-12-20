@@ -49,3 +49,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Mercenary::fpnh8"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercenary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mercenary](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary.md) 
+
+### #is_/same_as :: [Mercenary.public](/_public/Society/Military/Armed_Forces/Soldier/Mercenary.public.md) 
+
+### #is_/same_as :: [Mercenary.internal](/_internal/Society/Military/Armed_Forces/Soldier/Mercenary.internal.md) 
+
+### #is_/same_as :: [Mercenary.protect](/_protect/Society/Military/Armed_Forces/Soldier/Mercenary.protect.md) 
+
+### #is_/same_as :: [Mercenary.private](/_private/Society/Military/Armed_Forces/Soldier/Mercenary.private.md) 
+
+### #is_/same_as :: [Mercenary.personal](/_personal/Society/Military/Armed_Forces/Soldier/Mercenary.personal.md) 
+
+### #is_/same_as :: [Mercenary.secret](/_secret/Society/Military/Armed_Forces/Soldier/Mercenary.secret.md)
+

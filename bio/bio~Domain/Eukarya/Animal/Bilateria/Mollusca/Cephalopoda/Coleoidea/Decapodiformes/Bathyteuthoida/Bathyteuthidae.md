@@ -213,7 +213,7 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
   Location ::        Antarctic waters
   Comments          Photographed in a shipboard aquarium.
   Copyright ::         © 1996 Edward McSweeny
-  ----------------
+  ----------------
 
 
 ## Confidential Links & Embeds: 

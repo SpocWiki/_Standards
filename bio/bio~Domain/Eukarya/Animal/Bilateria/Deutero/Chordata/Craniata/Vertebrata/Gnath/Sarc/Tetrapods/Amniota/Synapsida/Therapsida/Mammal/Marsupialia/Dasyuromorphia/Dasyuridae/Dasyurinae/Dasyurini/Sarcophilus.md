@@ -37,3 +37,22 @@ taxon_author_citation: Cuvier, 1837
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sarcophilus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sarcophilus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.md) 
+
+### #is_/same_as :: [Sarcophilus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.public.md) 
+
+### #is_/same_as :: [Sarcophilus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.internal.md) 
+
+### #is_/same_as :: [Sarcophilus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.protect.md) 
+
+### #is_/same_as :: [Sarcophilus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.private.md) 
+
+### #is_/same_as :: [Sarcophilus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.personal.md) 
+
+### #is_/same_as :: [Sarcophilus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.secret.md)
+

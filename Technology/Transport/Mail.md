@@ -65,3 +65,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/POCHTOVAYA_SVYAZ.
 > [Wikipedia](https://en.wikipedia.org/wiki/Mail)--
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mail](/_Standards/Technology/Transport/Mail.md) 
+
+### #is_/same_as :: [Mail.public](/_public/Technology/Transport/Mail.public.md) 
+
+### #is_/same_as :: [Mail.internal](/_internal/Technology/Transport/Mail.internal.md) 
+
+### #is_/same_as :: [Mail.protect](/_protect/Technology/Transport/Mail.protect.md) 
+
+### #is_/same_as :: [Mail.private](/_private/Technology/Transport/Mail.private.md) 
+
+### #is_/same_as :: [Mail.personal](/_personal/Technology/Transport/Mail.personal.md) 
+
+### #is_/same_as :: [Mail.secret](/_secret/Technology/Transport/Mail.secret.md)
+

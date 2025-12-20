@@ -166,3 +166,22 @@ Libris_URI: c9ps14cw1nw63nw
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/UEFA) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [UEFA](/_Standards/Society/Agent/Community/Organization/Sports_Organization/UEFA.md) 
+
+### #is_/same_as :: [UEFA.public](/_public/Society/Agent/Community/Organization/Sports_Organization/UEFA.public.md) 
+
+### #is_/same_as :: [UEFA.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/UEFA.internal.md) 
+
+### #is_/same_as :: [UEFA.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/UEFA.protect.md) 
+
+### #is_/same_as :: [UEFA.private](/_private/Society/Agent/Community/Organization/Sports_Organization/UEFA.private.md) 
+
+### #is_/same_as :: [UEFA.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/UEFA.personal.md) 
+
+### #is_/same_as :: [UEFA.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/UEFA.secret.md)
+

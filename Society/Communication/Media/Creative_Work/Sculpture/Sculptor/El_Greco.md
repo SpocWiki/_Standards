@@ -285,3 +285,22 @@ pseudonym: Theotocopuli, Dominico
 > [Wikipedia](https://en.wikipedia.org/wiki/El%20Greco) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [El_Greco](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.md) 
+
+### #is_/same_as :: [El_Greco.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.public.md) 
+
+### #is_/same_as :: [El_Greco.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.internal.md) 
+
+### #is_/same_as :: [El_Greco.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.protect.md) 
+
+### #is_/same_as :: [El_Greco.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.private.md) 
+
+### #is_/same_as :: [El_Greco.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.personal.md) 
+
+### #is_/same_as :: [El_Greco.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.secret.md)
+

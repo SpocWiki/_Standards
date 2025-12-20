@@ -53,17 +53,17 @@ because regulatory and tax rules were leaner in New York than in Boston, where A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bell_Telephone_Company](Bell_Telephone_Company.md) 
+### #is_/same_as :: [Bell_Telephone_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.md) 
 
-### #is_/same_as :: [Bell_Telephone_Company.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.public.md) 
+### #is_/same_as :: [Bell_Telephone_Company.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.public.md) 
 
-### #is_/same_as :: [Bell_Telephone_Company.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.internal.md) 
+### #is_/same_as :: [Bell_Telephone_Company.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.internal.md) 
 
-### #is_/same_as :: [Bell_Telephone_Company.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.protect.md) 
+### #is_/same_as :: [Bell_Telephone_Company.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.protect.md) 
 
-### #is_/same_as :: [Bell_Telephone_Company.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.private.md) 
+### #is_/same_as :: [Bell_Telephone_Company.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.private.md) 
 
-### #is_/same_as :: [Bell_Telephone_Company.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.personal.md) 
+### #is_/same_as :: [Bell_Telephone_Company.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.personal.md) 
 
-### #is_/same_as :: [Bell_Telephone_Company.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.secret.md)
+### #is_/same_as :: [Bell_Telephone_Company.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company.secret.md)
 

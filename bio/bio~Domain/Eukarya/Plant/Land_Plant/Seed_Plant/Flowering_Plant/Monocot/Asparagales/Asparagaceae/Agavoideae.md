@@ -33,3 +33,22 @@ taxon_common_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Agavoideae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Agavoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae.md) 
+
+### #is_/same_as :: [Agavoideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae.public.md) 
+
+### #is_/same_as :: [Agavoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae.internal.md) 
+
+### #is_/same_as :: [Agavoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae.protect.md) 
+
+### #is_/same_as :: [Agavoideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae.private.md) 
+
+### #is_/same_as :: [Agavoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae.personal.md) 
+
+### #is_/same_as :: [Agavoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae.secret.md)
+

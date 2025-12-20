@@ -88,3 +88,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vagina)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vagina](/_Standards/bio/Medicine/Anatomy/Vagina.md) 
+
+### #is_/same_as :: [Vagina.public](/_public/bio/Medicine/Anatomy/Vagina.public.md) 
+
+### #is_/same_as :: [Vagina.internal](/_internal/bio/Medicine/Anatomy/Vagina.internal.md) 
+
+### #is_/same_as :: [Vagina.protect](/_protect/bio/Medicine/Anatomy/Vagina.protect.md) 
+
+### #is_/same_as :: [Vagina.private](/_private/bio/Medicine/Anatomy/Vagina.private.md) 
+
+### #is_/same_as :: [Vagina.personal](/_personal/bio/Medicine/Anatomy/Vagina.personal.md) 
+
+### #is_/same_as :: [Vagina.secret](/_secret/bio/Medicine/Anatomy/Vagina.secret.md)
+

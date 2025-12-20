@@ -39,17 +39,17 @@ Enumerates several types of return labels for product returns.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Label_Source_Enumeration](Return_Label_Source_Enumeration.md) 
+### #is_/same_as :: [Return_Label_Source_Enumeration](/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration.md) 
 
-### #is_/same_as :: [return_label_source_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.public.md) 
+### #is_/same_as :: [Return_Label_Source_Enumeration.public](/_public/schema-org/Enumeration/Return_Label_Source_Enumeration.public.md) 
 
-### #is_/same_as :: [return_label_source_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.internal.md) 
+### #is_/same_as :: [Return_Label_Source_Enumeration.internal](/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration.internal.md) 
 
-### #is_/same_as :: [return_label_source_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.protect.md) 
+### #is_/same_as :: [Return_Label_Source_Enumeration.protect](/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration.protect.md) 
 
-### #is_/same_as :: [return_label_source_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.private.md) 
+### #is_/same_as :: [Return_Label_Source_Enumeration.private](/_private/schema-org/Enumeration/Return_Label_Source_Enumeration.private.md) 
 
-### #is_/same_as :: [return_label_source_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.personal.md) 
+### #is_/same_as :: [Return_Label_Source_Enumeration.personal](/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration.personal.md) 
 
-### #is_/same_as :: [return_label_source_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.secret.md)
+### #is_/same_as :: [Return_Label_Source_Enumeration.secret](/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration.secret.md)
 

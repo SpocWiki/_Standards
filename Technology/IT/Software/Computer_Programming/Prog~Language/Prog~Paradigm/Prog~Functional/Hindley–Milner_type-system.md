@@ -25,3 +25,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner%20type%20system)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hindley–Milner_type-system](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.md) 
+
+### #is_/same_as :: [Hindley–Milner_type-system.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.public.md) 
+
+### #is_/same_as :: [Hindley–Milner_type-system.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.internal.md) 
+
+### #is_/same_as :: [Hindley–Milner_type-system.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.protect.md) 
+
+### #is_/same_as :: [Hindley–Milner_type-system.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.private.md) 
+
+### #is_/same_as :: [Hindley–Milner_type-system.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.personal.md) 
+
+### #is_/same_as :: [Hindley–Milner_type-system.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.secret.md)
+

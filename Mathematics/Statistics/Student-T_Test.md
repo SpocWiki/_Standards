@@ -26,3 +26,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Student's%20t-test) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Student-T_Test](/_Standards/Mathematics/Statistics/Student-T_Test.md) 
+
+### #is_/same_as :: [Student-T_Test.public](/_public/Mathematics/Statistics/Student-T_Test.public.md) 
+
+### #is_/same_as :: [Student-T_Test.internal](/_internal/Mathematics/Statistics/Student-T_Test.internal.md) 
+
+### #is_/same_as :: [Student-T_Test.protect](/_protect/Mathematics/Statistics/Student-T_Test.protect.md) 
+
+### #is_/same_as :: [Student-T_Test.private](/_private/Mathematics/Statistics/Student-T_Test.private.md) 
+
+### #is_/same_as :: [Student-T_Test.personal](/_personal/Mathematics/Statistics/Student-T_Test.personal.md) 
+
+### #is_/same_as :: [Student-T_Test.secret](/_secret/Mathematics/Statistics/Student-T_Test.secret.md)
+

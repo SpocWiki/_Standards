@@ -71,3 +71,22 @@ has_id_wikidata: Q7939
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/El%20Ni%C3%B1o%E2%80%93Southern%20Oscillation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [El_Niño](/_Standards/Earth/Climate/Season/El_Niño.md) 
+
+### #is_/same_as :: [El_Niño.public](/_public/Earth/Climate/Season/El_Niño.public.md) 
+
+### #is_/same_as :: [El_Niño.internal](/_internal/Earth/Climate/Season/El_Niño.internal.md) 
+
+### #is_/same_as :: [El_Niño.protect](/_protect/Earth/Climate/Season/El_Niño.protect.md) 
+
+### #is_/same_as :: [El_Niño.private](/_private/Earth/Climate/Season/El_Niño.private.md) 
+
+### #is_/same_as :: [El_Niño.personal](/_personal/Earth/Climate/Season/El_Niño.personal.md) 
+
+### #is_/same_as :: [El_Niño.secret](/_secret/Earth/Climate/Season/El_Niño.secret.md)
+

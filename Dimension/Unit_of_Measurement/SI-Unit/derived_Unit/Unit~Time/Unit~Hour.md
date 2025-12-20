@@ -81,20 +81,19 @@ Wikidata_SPARQL_query_equivalent: wd:Q25235 p:P2370/psn:P2370 [wikibase:quantity
 > [Wikipedia](https://en.wikipedia.org/wiki/Hour) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Hour](Unit~Hour.md) 
+### #is_/same_as :: [Unit~Hour](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Hour.md) 
 
-### #is_/same_as :: [Unit~Hour.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Hour.public.md) 
+### #is_/same_as :: [Unit~Hour.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Hour.public.md) 
 
-### #is_/same_as :: [Unit~Hour.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Hour.internal.md) 
+### #is_/same_as :: [Unit~Hour.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Hour.internal.md) 
 
-### #is_/same_as :: [Unit~Hour.protect](/_protect/Unit/SI-Unit/derived_Unit/Unit~Hour.protect.md) 
+### #is_/same_as :: [Unit~Hour.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Hour.protect.md) 
 
-### #is_/same_as :: [Unit~Hour.private](/_private/Unit/SI-Unit/derived_Unit/Unit~Hour.private.md) 
+### #is_/same_as :: [Unit~Hour.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Hour.private.md) 
 
-### #is_/same_as :: [Unit~Hour.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Hour.personal.md) 
+### #is_/same_as :: [Unit~Hour.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Hour.personal.md) 
 
-### #is_/same_as :: [Unit~Hour.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Hour.secret.md)
+### #is_/same_as :: [Unit~Hour.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Hour.secret.md)
 

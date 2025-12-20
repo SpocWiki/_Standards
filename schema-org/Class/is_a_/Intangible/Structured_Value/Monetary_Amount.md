@@ -46,17 +46,17 @@ to describe the price of an Offer, Invoice, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [monetary_amount](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.md) 
+### #is_/same_as :: [Monetary_Amount](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.md) 
 
-### #is_/same_as :: [monetary_amount.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.public.md) 
+### #is_/same_as :: [Monetary_Amount.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.public.md) 
 
-### #is_/same_as :: [monetary_amount.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.internal.md) 
+### #is_/same_as :: [Monetary_Amount.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.internal.md) 
 
-### #is_/same_as :: [monetary_amount.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.protect.md) 
+### #is_/same_as :: [Monetary_Amount.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.protect.md) 
 
-### #is_/same_as :: [monetary_amount.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.private.md) 
+### #is_/same_as :: [Monetary_Amount.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.private.md) 
 
-### #is_/same_as :: [monetary_amount.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.personal.md) 
+### #is_/same_as :: [Monetary_Amount.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.personal.md) 
 
-### #is_/same_as :: [monetary_amount.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.secret.md)
+### #is_/same_as :: [Monetary_Amount.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.secret.md)
 

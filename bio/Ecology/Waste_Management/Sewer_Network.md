@@ -67,3 +67,22 @@ Iconclass_notation: 25I171
 > [Wikipedia](https://en.wikipedia.org/wiki/Sewerage)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sewer_Network](/_Standards/bio/Ecology/Waste_Management/Sewer_Network.md) 
+
+### #is_/same_as :: [Sewer_Network.public](/_public/bio/Ecology/Waste_Management/Sewer_Network.public.md) 
+
+### #is_/same_as :: [Sewer_Network.internal](/_internal/bio/Ecology/Waste_Management/Sewer_Network.internal.md) 
+
+### #is_/same_as :: [Sewer_Network.protect](/_protect/bio/Ecology/Waste_Management/Sewer_Network.protect.md) 
+
+### #is_/same_as :: [Sewer_Network.private](/_private/bio/Ecology/Waste_Management/Sewer_Network.private.md) 
+
+### #is_/same_as :: [Sewer_Network.personal](/_personal/bio/Ecology/Waste_Management/Sewer_Network.personal.md) 
+
+### #is_/same_as :: [Sewer_Network.secret](/_secret/bio/Ecology/Waste_Management/Sewer_Network.secret.md)
+

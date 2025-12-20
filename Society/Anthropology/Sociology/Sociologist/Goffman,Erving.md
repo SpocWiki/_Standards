@@ -22,3 +22,22 @@ has_id_wikidata: Q314471
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Erving%20Goffman) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goffman,Erving](/_Standards/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.md) 
+
+### #is_/same_as :: [Goffman,Erving.public](/_public/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.public.md) 
+
+### #is_/same_as :: [Goffman,Erving.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.internal.md) 
+
+### #is_/same_as :: [Goffman,Erving.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.protect.md) 
+
+### #is_/same_as :: [Goffman,Erving.private](/_private/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.private.md) 
+
+### #is_/same_as :: [Goffman,Erving.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.personal.md) 
+
+### #is_/same_as :: [Goffman,Erving.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.secret.md)
+

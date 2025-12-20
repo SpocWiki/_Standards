@@ -94,3 +94,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Curia%20Iulia.JPG
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20Senate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roman_Senate](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.md) 
+
+### #is_/same_as :: [Roman_Senate.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.public.md) 
+
+### #is_/same_as :: [Roman_Senate.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.internal.md) 
+
+### #is_/same_as :: [Roman_Senate.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.protect.md) 
+
+### #is_/same_as :: [Roman_Senate.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.private.md) 
+
+### #is_/same_as :: [Roman_Senate.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.personal.md) 
+
+### #is_/same_as :: [Roman_Senate.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.secret.md)
+

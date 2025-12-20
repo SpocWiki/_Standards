@@ -30,17 +30,17 @@ P8189: "987007284756605171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bigamy](/_Standards/Society/Family/Marriage/Bigamy.md) 
+### #is_/same_as :: [Bigamy](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Bigamy.md) 
 
-### #is_/same_as :: [Bigamy.public](/_public/Society/Family/Marriage/Bigamy.public.md) 
+### #is_/same_as :: [Bigamy.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Bigamy.public.md) 
 
-### #is_/same_as :: [Bigamy.internal](/_internal/Society/Family/Marriage/Bigamy.internal.md) 
+### #is_/same_as :: [Bigamy.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Bigamy.internal.md) 
 
-### #is_/same_as :: [Bigamy.protect](/_protect/Society/Family/Marriage/Bigamy.protect.md) 
+### #is_/same_as :: [Bigamy.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Bigamy.protect.md) 
 
-### #is_/same_as :: [Bigamy.private](/_private/Society/Family/Marriage/Bigamy.private.md) 
+### #is_/same_as :: [Bigamy.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Bigamy.private.md) 
 
-### #is_/same_as :: [Bigamy.personal](/_personal/Society/Family/Marriage/Bigamy.personal.md) 
+### #is_/same_as :: [Bigamy.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Bigamy.personal.md) 
 
-### #is_/same_as :: [Bigamy.secret](/_secret/Society/Family/Marriage/Bigamy.secret.md)
+### #is_/same_as :: [Bigamy.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Bigamy.secret.md)
 

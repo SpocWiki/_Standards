@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack](/_Standards/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.md) 
+### #is_/same_as :: [Tokyo_subway_sarin_attack](/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.md) 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.public](/_public/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.public.md) 
+### #is_/same_as :: [Tokyo_subway_sarin_attack.public](/_public/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.public.md) 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.internal](/_internal/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.internal.md) 
+### #is_/same_as :: [Tokyo_subway_sarin_attack.internal](/_internal/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.internal.md) 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.protect](/_protect/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.protect.md) 
+### #is_/same_as :: [Tokyo_subway_sarin_attack.protect](/_protect/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.protect.md) 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.private](/_private/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.private.md) 
+### #is_/same_as :: [Tokyo_subway_sarin_attack.private](/_private/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.private.md) 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.personal](/_personal/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.personal.md) 
+### #is_/same_as :: [Tokyo_subway_sarin_attack.personal](/_personal/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.personal.md) 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.secret](/_secret/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.secret.md)
+### #is_/same_as :: [Tokyo_subway_sarin_attack.secret](/_secret/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.secret.md)
 

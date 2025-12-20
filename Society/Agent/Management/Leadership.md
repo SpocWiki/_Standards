@@ -57,3 +57,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leadership) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leadership](/_Standards/Society/Agent/Management/Leadership.md) 
+
+### #is_/same_as :: [Leadership.public](/_public/Society/Agent/Management/Leadership.public.md) 
+
+### #is_/same_as :: [Leadership.internal](/_internal/Society/Agent/Management/Leadership.internal.md) 
+
+### #is_/same_as :: [Leadership.protect](/_protect/Society/Agent/Management/Leadership.protect.md) 
+
+### #is_/same_as :: [Leadership.private](/_private/Society/Agent/Management/Leadership.private.md) 
+
+### #is_/same_as :: [Leadership.personal](/_personal/Society/Agent/Management/Leadership.personal.md) 
+
+### #is_/same_as :: [Leadership.secret](/_secret/Society/Agent/Management/Leadership.secret.md)
+

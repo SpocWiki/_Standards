@@ -63,3 +63,22 @@ Commons_category: Scalar product
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dot%20product) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scalar_Product](/_Standards/Mathematics/Geometry/Vector/Scalar_Product.md) 
+
+### #is_/same_as :: [Scalar_Product.public](/_public/Mathematics/Geometry/Vector/Scalar_Product.public.md) 
+
+### #is_/same_as :: [Scalar_Product.internal](/_internal/Mathematics/Geometry/Vector/Scalar_Product.internal.md) 
+
+### #is_/same_as :: [Scalar_Product.protect](/_protect/Mathematics/Geometry/Vector/Scalar_Product.protect.md) 
+
+### #is_/same_as :: [Scalar_Product.private](/_private/Mathematics/Geometry/Vector/Scalar_Product.private.md) 
+
+### #is_/same_as :: [Scalar_Product.personal](/_personal/Mathematics/Geometry/Vector/Scalar_Product.personal.md) 
+
+### #is_/same_as :: [Scalar_Product.secret](/_secret/Mathematics/Geometry/Vector/Scalar_Product.secret.md)
+

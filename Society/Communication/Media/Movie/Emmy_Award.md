@@ -49,3 +49,22 @@ inception: 1949-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emmy%20Awards) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Emmy_Award](/_Standards/Society/Communication/Media/Movie/Emmy_Award.md) 
+
+### #is_/same_as :: [Emmy_Award.public](/_public/Society/Communication/Media/Movie/Emmy_Award.public.md) 
+
+### #is_/same_as :: [Emmy_Award.internal](/_internal/Society/Communication/Media/Movie/Emmy_Award.internal.md) 
+
+### #is_/same_as :: [Emmy_Award.protect](/_protect/Society/Communication/Media/Movie/Emmy_Award.protect.md) 
+
+### #is_/same_as :: [Emmy_Award.private](/_private/Society/Communication/Media/Movie/Emmy_Award.private.md) 
+
+### #is_/same_as :: [Emmy_Award.personal](/_personal/Society/Communication/Media/Movie/Emmy_Award.personal.md) 
+
+### #is_/same_as :: [Emmy_Award.secret](/_secret/Society/Communication/Media/Movie/Emmy_Award.secret.md)
+

@@ -23,3 +23,22 @@ has_id_wikidata: Q83030
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dementia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dementia](/_Standards/bio/Medicine/Medical_Condition/Disease/Dementia.md) 
+
+### #is_/same_as :: [Dementia.public](/_public/bio/Medicine/Medical_Condition/Disease/Dementia.public.md) 
+
+### #is_/same_as :: [Dementia.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Dementia.internal.md) 
+
+### #is_/same_as :: [Dementia.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Dementia.protect.md) 
+
+### #is_/same_as :: [Dementia.private](/_private/bio/Medicine/Medical_Condition/Disease/Dementia.private.md) 
+
+### #is_/same_as :: [Dementia.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Dementia.personal.md) 
+
+### #is_/same_as :: [Dementia.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Dementia.secret.md)
+

@@ -192,3 +192,22 @@ DPLA_subject_term: King, Martin Luther, Jr., 1929-1968
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Luther%20King%20Jr.) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Luther_King,Martin](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Luther_King,Martin.md) 
+
+### #is_/same_as :: [Luther_King,Martin.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Luther_King,Martin.public.md) 
+
+### #is_/same_as :: [Luther_King,Martin.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Luther_King,Martin.internal.md) 
+
+### #is_/same_as :: [Luther_King,Martin.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Luther_King,Martin.protect.md) 
+
+### #is_/same_as :: [Luther_King,Martin.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Luther_King,Martin.private.md) 
+
+### #is_/same_as :: [Luther_King,Martin.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Luther_King,Martin.personal.md) 
+
+### #is_/same_as :: [Luther_King,Martin.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Luther_King,Martin.secret.md)
+

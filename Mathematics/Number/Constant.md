@@ -44,3 +44,22 @@ opposite_of: "[[_Standards/WikiData/WD~variable,50701]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Constant%20(mathematics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Constant](/_Standards/Mathematics/Number/Constant.md) 
+
+### #is_/same_as :: [Constant.public](/_public/Mathematics/Number/Constant.public.md) 
+
+### #is_/same_as :: [Constant.internal](/_internal/Mathematics/Number/Constant.internal.md) 
+
+### #is_/same_as :: [Constant.protect](/_protect/Mathematics/Number/Constant.protect.md) 
+
+### #is_/same_as :: [Constant.private](/_private/Mathematics/Number/Constant.private.md) 
+
+### #is_/same_as :: [Constant.personal](/_personal/Mathematics/Number/Constant.personal.md) 
+
+### #is_/same_as :: [Constant.secret](/_secret/Mathematics/Number/Constant.secret.md)
+

@@ -40,17 +40,17 @@ The status of a reservation when a request has been sent, but not confirmed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reservation_Pending](Reservation_Pending.md) 
+### #is_/same_as :: [Reservation_Pending](/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.md) 
 
-### #is_/same_as :: [reservation_pending.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.public.md) 
+### #is_/same_as :: [Reservation_Pending.public](/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.public.md) 
 
-### #is_/same_as :: [reservation_pending.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.internal.md) 
+### #is_/same_as :: [Reservation_Pending.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.internal.md) 
 
-### #is_/same_as :: [reservation_pending.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.protect.md) 
+### #is_/same_as :: [Reservation_Pending.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.protect.md) 
 
-### #is_/same_as :: [reservation_pending.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.private.md) 
+### #is_/same_as :: [Reservation_Pending.private](/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.private.md) 
 
-### #is_/same_as :: [reservation_pending.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.personal.md) 
+### #is_/same_as :: [Reservation_Pending.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.personal.md) 
 
-### #is_/same_as :: [reservation_pending.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.secret.md)
+### #is_/same_as :: [Reservation_Pending.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.secret.md)
 

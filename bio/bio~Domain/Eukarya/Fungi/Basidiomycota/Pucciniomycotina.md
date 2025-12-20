@@ -126,7 +126,7 @@ urediniomycetous yeasts.
   Collection           TUB 012601
   Collector            M. Lutz
   Copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

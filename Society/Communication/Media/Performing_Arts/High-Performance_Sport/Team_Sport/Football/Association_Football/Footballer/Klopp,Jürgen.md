@@ -45,17 +45,17 @@ Seine weiße Kauleiste ist sehr markant.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klopp,Jürgen](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.md) 
+### #is_/same_as :: [Klopp,Jürgen](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Klopp,Jürgen.md) 
 
-### #is_/same_as :: [Klopp,Jürgen.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.public.md) 
+### #is_/same_as :: [Klopp,Jürgen.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Klopp,Jürgen.public.md) 
 
-### #is_/same_as :: [Klopp,Jürgen.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.internal.md) 
+### #is_/same_as :: [Klopp,Jürgen.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Klopp,Jürgen.internal.md) 
 
-### #is_/same_as :: [Klopp,Jürgen.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.protect.md) 
+### #is_/same_as :: [Klopp,Jürgen.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Klopp,Jürgen.protect.md) 
 
-### #is_/same_as :: [Klopp,Jürgen.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.private.md) 
+### #is_/same_as :: [Klopp,Jürgen.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Klopp,Jürgen.private.md) 
 
-### #is_/same_as :: [Klopp,Jürgen.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.personal.md) 
+### #is_/same_as :: [Klopp,Jürgen.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Klopp,Jürgen.personal.md) 
 
-### #is_/same_as :: [Klopp,Jürgen.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.secret.md)
+### #is_/same_as :: [Klopp,Jürgen.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Klopp,Jürgen.secret.md)
 

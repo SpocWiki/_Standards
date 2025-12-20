@@ -72,3 +72,22 @@ IPTC_NewsCode: mediatopic/20000100
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kidnapping) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kidnapping](/_Standards/Society/Law/Criminal_Law/Crime/Kidnapping.md) 
+
+### #is_/same_as :: [Kidnapping.public](/_public/Society/Law/Criminal_Law/Crime/Kidnapping.public.md) 
+
+### #is_/same_as :: [Kidnapping.internal](/_internal/Society/Law/Criminal_Law/Crime/Kidnapping.internal.md) 
+
+### #is_/same_as :: [Kidnapping.protect](/_protect/Society/Law/Criminal_Law/Crime/Kidnapping.protect.md) 
+
+### #is_/same_as :: [Kidnapping.private](/_private/Society/Law/Criminal_Law/Crime/Kidnapping.private.md) 
+
+### #is_/same_as :: [Kidnapping.personal](/_personal/Society/Law/Criminal_Law/Crime/Kidnapping.personal.md) 
+
+### #is_/same_as :: [Kidnapping.secret](/_secret/Society/Law/Criminal_Law/Crime/Kidnapping.secret.md)
+

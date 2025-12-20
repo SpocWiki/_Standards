@@ -52,3 +52,22 @@ OpenStreetMap_tag: athletics=pole_vault
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pole%20vault) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pole_Vault](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Pole_Vault.md) 
+
+### #is_/same_as :: [Pole_Vault.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Pole_Vault.public.md) 
+
+### #is_/same_as :: [Pole_Vault.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Pole_Vault.internal.md) 
+
+### #is_/same_as :: [Pole_Vault.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Pole_Vault.protect.md) 
+
+### #is_/same_as :: [Pole_Vault.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Pole_Vault.private.md) 
+
+### #is_/same_as :: [Pole_Vault.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Pole_Vault.personal.md) 
+
+### #is_/same_as :: [Pole_Vault.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Pole_Vault.secret.md)
+

@@ -59,3 +59,22 @@ Dewey_Decimal_Classification: "531.382"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elasticity%20(physics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elasticity](/_Standards/Science/Physics/Classical_Mechanics/Elasticity.md) 
+
+### #is_/same_as :: [Elasticity.public](/_public/Science/Physics/Classical_Mechanics/Elasticity.public.md) 
+
+### #is_/same_as :: [Elasticity.internal](/_internal/Science/Physics/Classical_Mechanics/Elasticity.internal.md) 
+
+### #is_/same_as :: [Elasticity.protect](/_protect/Science/Physics/Classical_Mechanics/Elasticity.protect.md) 
+
+### #is_/same_as :: [Elasticity.private](/_private/Science/Physics/Classical_Mechanics/Elasticity.private.md) 
+
+### #is_/same_as :: [Elasticity.personal](/_personal/Science/Physics/Classical_Mechanics/Elasticity.personal.md) 
+
+### #is_/same_as :: [Elasticity.secret](/_secret/Science/Physics/Classical_Mechanics/Elasticity.secret.md)
+

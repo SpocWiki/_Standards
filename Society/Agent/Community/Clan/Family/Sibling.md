@@ -82,3 +82,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sibling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sibling](/_Standards/Society/Agent/Community/Clan/Family/Sibling.md) 
+
+### #is_/same_as :: [Sibling.public](/_public/Society/Agent/Community/Clan/Family/Sibling.public.md) 
+
+### #is_/same_as :: [Sibling.internal](/_internal/Society/Agent/Community/Clan/Family/Sibling.internal.md) 
+
+### #is_/same_as :: [Sibling.protect](/_protect/Society/Agent/Community/Clan/Family/Sibling.protect.md) 
+
+### #is_/same_as :: [Sibling.private](/_private/Society/Agent/Community/Clan/Family/Sibling.private.md) 
+
+### #is_/same_as :: [Sibling.personal](/_personal/Society/Agent/Community/Clan/Family/Sibling.personal.md) 
+
+### #is_/same_as :: [Sibling.secret](/_secret/Society/Agent/Community/Clan/Family/Sibling.secret.md)
+

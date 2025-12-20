@@ -59,3 +59,22 @@ Amazon_com_browse_node: "6507197011"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tofu) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tofu](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.md) 
+
+### #is_/same_as :: [Tofu.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.public.md) 
+
+### #is_/same_as :: [Tofu.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.internal.md) 
+
+### #is_/same_as :: [Tofu.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.protect.md) 
+
+### #is_/same_as :: [Tofu.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.private.md) 
+
+### #is_/same_as :: [Tofu.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.personal.md) 
+
+### #is_/same_as :: [Tofu.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.secret.md)
+

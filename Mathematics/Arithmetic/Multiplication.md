@@ -60,3 +60,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiplication) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multiplication](/_Standards/Mathematics/Arithmetic/Multiplication.md) 
+
+### #is_/same_as :: [Multiplication.public](/_public/Mathematics/Arithmetic/Multiplication.public.md) 
+
+### #is_/same_as :: [Multiplication.internal](/_internal/Mathematics/Arithmetic/Multiplication.internal.md) 
+
+### #is_/same_as :: [Multiplication.protect](/_protect/Mathematics/Arithmetic/Multiplication.protect.md) 
+
+### #is_/same_as :: [Multiplication.private](/_private/Mathematics/Arithmetic/Multiplication.private.md) 
+
+### #is_/same_as :: [Multiplication.personal](/_personal/Mathematics/Arithmetic/Multiplication.personal.md) 
+
+### #is_/same_as :: [Multiplication.secret](/_secret/Mathematics/Arithmetic/Multiplication.secret.md)
+

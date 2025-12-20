@@ -46,3 +46,22 @@ MCN_code: 9506.11.00
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ski) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ski](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.md) 
+
+### #is_/same_as :: [Ski.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.public.md) 
+
+### #is_/same_as :: [Ski.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.internal.md) 
+
+### #is_/same_as :: [Ski.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.protect.md) 
+
+### #is_/same_as :: [Ski.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.private.md) 
+
+### #is_/same_as :: [Ski.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.personal.md) 
+
+### #is_/same_as :: [Ski.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.secret.md)
+

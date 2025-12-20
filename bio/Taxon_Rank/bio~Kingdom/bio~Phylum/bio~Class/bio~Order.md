@@ -72,17 +72,17 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q961
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Order](bio~Order.md) 
+### #is_/same_as :: [bio~Order](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.md) 
 
-### #is_/same_as :: [bio~Order.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.public.md) 
+### #is_/same_as :: [bio~Order.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.public.md) 
 
-### #is_/same_as :: [bio~Order.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.internal.md) 
+### #is_/same_as :: [bio~Order.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.internal.md) 
 
-### #is_/same_as :: [bio~Order.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.protect.md) 
+### #is_/same_as :: [bio~Order.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.protect.md) 
 
-### #is_/same_as :: [bio~Order.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.private.md) 
+### #is_/same_as :: [bio~Order.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.private.md) 
 
-### #is_/same_as :: [bio~Order.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.personal.md) 
+### #is_/same_as :: [bio~Order.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.personal.md) 
 
-### #is_/same_as :: [bio~Order.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.secret.md)
+### #is_/same_as :: [bio~Order.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.secret.md)
 

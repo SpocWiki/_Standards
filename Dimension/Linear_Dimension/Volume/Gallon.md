@@ -41,3 +41,22 @@ unit_symbol: gal
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gallon](/_Standards/Dimension/Linear_Dimension/Volume/Gallon.md) 
+
+### #is_/same_as :: [Gallon.public](/_public/Dimension/Linear_Dimension/Volume/Gallon.public.md) 
+
+### #is_/same_as :: [Gallon.internal](/_internal/Dimension/Linear_Dimension/Volume/Gallon.internal.md) 
+
+### #is_/same_as :: [Gallon.protect](/_protect/Dimension/Linear_Dimension/Volume/Gallon.protect.md) 
+
+### #is_/same_as :: [Gallon.private](/_private/Dimension/Linear_Dimension/Volume/Gallon.private.md) 
+
+### #is_/same_as :: [Gallon.personal](/_personal/Dimension/Linear_Dimension/Volume/Gallon.personal.md) 
+
+### #is_/same_as :: [Gallon.secret](/_secret/Dimension/Linear_Dimension/Volume/Gallon.secret.md)
+

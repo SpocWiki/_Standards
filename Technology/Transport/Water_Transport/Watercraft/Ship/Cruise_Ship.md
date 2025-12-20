@@ -39,3 +39,22 @@ IMDb_keyword: cruise-ship
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cruise%20ship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cruise_Ship](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.md) 
+
+### #is_/same_as :: [Cruise_Ship.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.public.md) 
+
+### #is_/same_as :: [Cruise_Ship.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.internal.md) 
+
+### #is_/same_as :: [Cruise_Ship.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.protect.md) 
+
+### #is_/same_as :: [Cruise_Ship.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.private.md) 
+
+### #is_/same_as :: [Cruise_Ship.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.personal.md) 
+
+### #is_/same_as :: [Cruise_Ship.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.secret.md)
+

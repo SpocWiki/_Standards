@@ -94,17 +94,17 @@ hashtag_: woman
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Woman](/_Standards/Society/Family/Woman.md) 
+### #is_/same_as :: [Woman](/_Standards/Society/Agent/Community/Clan/Family/Woman.md) 
 
-### #is_/same_as :: [Woman.public](/_public/Society/Family/Woman.public.md) 
+### #is_/same_as :: [Woman.public](/_public/Society/Agent/Community/Clan/Family/Woman.public.md) 
 
-### #is_/same_as :: [Woman.internal](/_internal/Society/Family/Woman.internal.md) 
+### #is_/same_as :: [Woman.internal](/_internal/Society/Agent/Community/Clan/Family/Woman.internal.md) 
 
-### #is_/same_as :: [Woman.protect](/_protect/Society/Family/Woman.protect.md) 
+### #is_/same_as :: [Woman.protect](/_protect/Society/Agent/Community/Clan/Family/Woman.protect.md) 
 
-### #is_/same_as :: [Woman.private](/_private/Society/Family/Woman.private.md) 
+### #is_/same_as :: [Woman.private](/_private/Society/Agent/Community/Clan/Family/Woman.private.md) 
 
-### #is_/same_as :: [Woman.personal](/_personal/Society/Family/Woman.personal.md) 
+### #is_/same_as :: [Woman.personal](/_personal/Society/Agent/Community/Clan/Family/Woman.personal.md) 
 
-### #is_/same_as :: [Woman.secret](/_secret/Society/Family/Woman.secret.md)
+### #is_/same_as :: [Woman.secret](/_secret/Society/Agent/Community/Clan/Family/Woman.secret.md)
 

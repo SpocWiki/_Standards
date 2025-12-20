@@ -19,3 +19,22 @@ fn ui_counter(ui: &mut egui::Ui, counter: &mut i32) {
     });
 }
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [crates~egui](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~egui.md) 
+
+### #is_/same_as :: [crates~egui.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~egui.public.md) 
+
+### #is_/same_as :: [crates~egui.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~egui.internal.md) 
+
+### #is_/same_as :: [crates~egui.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~egui.protect.md) 
+
+### #is_/same_as :: [crates~egui.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~egui.private.md) 
+
+### #is_/same_as :: [crates~egui.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~egui.personal.md) 
+
+### #is_/same_as :: [crates~egui.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~egui.secret.md)
+

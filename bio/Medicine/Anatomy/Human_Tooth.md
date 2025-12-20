@@ -48,3 +48,22 @@ Commons_category: Human teeth
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20tooth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Human_Tooth](/_Standards/bio/Medicine/Anatomy/Human_Tooth.md) 
+
+### #is_/same_as :: [Human_Tooth.public](/_public/bio/Medicine/Anatomy/Human_Tooth.public.md) 
+
+### #is_/same_as :: [Human_Tooth.internal](/_internal/bio/Medicine/Anatomy/Human_Tooth.internal.md) 
+
+### #is_/same_as :: [Human_Tooth.protect](/_protect/bio/Medicine/Anatomy/Human_Tooth.protect.md) 
+
+### #is_/same_as :: [Human_Tooth.private](/_private/bio/Medicine/Anatomy/Human_Tooth.private.md) 
+
+### #is_/same_as :: [Human_Tooth.personal](/_personal/bio/Medicine/Anatomy/Human_Tooth.personal.md) 
+
+### #is_/same_as :: [Human_Tooth.secret](/_secret/bio/Medicine/Anatomy/Human_Tooth.secret.md)
+

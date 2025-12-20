@@ -49,3 +49,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/EVOLYUTSIYA_CHELOVEKA.htm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20evolution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Human_Evolution](/_Standards/bio/Evolution/Human_Evolution.md) 
+
+### #is_/same_as :: [Human_Evolution.public](/_public/bio/Evolution/Human_Evolution.public.md) 
+
+### #is_/same_as :: [Human_Evolution.internal](/_internal/bio/Evolution/Human_Evolution.internal.md) 
+
+### #is_/same_as :: [Human_Evolution.protect](/_protect/bio/Evolution/Human_Evolution.protect.md) 
+
+### #is_/same_as :: [Human_Evolution.private](/_private/bio/Evolution/Human_Evolution.private.md) 
+
+### #is_/same_as :: [Human_Evolution.personal](/_personal/bio/Evolution/Human_Evolution.personal.md) 
+
+### #is_/same_as :: [Human_Evolution.secret](/_secret/bio/Evolution/Human_Evolution.secret.md)
+

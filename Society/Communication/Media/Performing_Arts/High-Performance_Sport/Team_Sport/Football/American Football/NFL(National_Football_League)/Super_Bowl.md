@@ -63,3 +63,22 @@ X_Twitter_username: SuperBowl
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Super%20Bowl) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Super_Bowl](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.md) 
+
+### #is_/same_as :: [Super_Bowl.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.public.md) 
+
+### #is_/same_as :: [Super_Bowl.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.internal.md) 
+
+### #is_/same_as :: [Super_Bowl.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.protect.md) 
+
+### #is_/same_as :: [Super_Bowl.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.private.md) 
+
+### #is_/same_as :: [Super_Bowl.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.personal.md) 
+
+### #is_/same_as :: [Super_Bowl.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.secret.md)
+

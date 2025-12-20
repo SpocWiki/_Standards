@@ -152,17 +152,17 @@ writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Austen,Jane](/_Standards/Society/Communication/Media/Writing/Book/Writer/Austen,Jane.md) 
+### #is_/same_as :: [Austen,Jane](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane.md) 
 
-### #is_/same_as :: [Austen,Jane.public](/_public/Society/Communication/Media/Writing/Book/Writer/Austen,Jane.public.md) 
+### #is_/same_as :: [Austen,Jane.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane.public.md) 
 
-### #is_/same_as :: [Austen,Jane.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Austen,Jane.internal.md) 
+### #is_/same_as :: [Austen,Jane.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane.internal.md) 
 
-### #is_/same_as :: [Austen,Jane.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Austen,Jane.protect.md) 
+### #is_/same_as :: [Austen,Jane.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane.protect.md) 
 
-### #is_/same_as :: [Austen,Jane.private](/_private/Society/Communication/Media/Writing/Book/Writer/Austen,Jane.private.md) 
+### #is_/same_as :: [Austen,Jane.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane.private.md) 
 
-### #is_/same_as :: [Austen,Jane.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Austen,Jane.personal.md) 
+### #is_/same_as :: [Austen,Jane.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane.personal.md) 
 
-### #is_/same_as :: [Austen,Jane.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Austen,Jane.secret.md)
+### #is_/same_as :: [Austen,Jane.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane.secret.md)
 

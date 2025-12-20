@@ -90,3 +90,22 @@ work_period_end_: 1907-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Pulitzer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pulitzer,Joseph](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph.md) 
+
+### #is_/same_as :: [Pulitzer,Joseph.public](/_public/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph.public.md) 
+
+### #is_/same_as :: [Pulitzer,Joseph.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph.internal.md) 
+
+### #is_/same_as :: [Pulitzer,Joseph.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph.protect.md) 
+
+### #is_/same_as :: [Pulitzer,Joseph.private](/_private/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph.private.md) 
+
+### #is_/same_as :: [Pulitzer,Joseph.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph.personal.md) 
+
+### #is_/same_as :: [Pulitzer,Joseph.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph.secret.md)
+

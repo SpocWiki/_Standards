@@ -18,3 +18,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 ---
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~atto](/_Standards/Dimension/Dim~Number/Metric_Prefix/Unit~atto.md) 
+
+### #is_/same_as :: [Unit~atto.public](/_public/Dimension/Dim~Number/Metric_Prefix/Unit~atto.public.md) 
+
+### #is_/same_as :: [Unit~atto.internal](/_internal/Dimension/Dim~Number/Metric_Prefix/Unit~atto.internal.md) 
+
+### #is_/same_as :: [Unit~atto.protect](/_protect/Dimension/Dim~Number/Metric_Prefix/Unit~atto.protect.md) 
+
+### #is_/same_as :: [Unit~atto.private](/_private/Dimension/Dim~Number/Metric_Prefix/Unit~atto.private.md) 
+
+### #is_/same_as :: [Unit~atto.personal](/_personal/Dimension/Dim~Number/Metric_Prefix/Unit~atto.personal.md) 
+
+### #is_/same_as :: [Unit~atto.secret](/_secret/Dimension/Dim~Number/Metric_Prefix/Unit~atto.secret.md)
+

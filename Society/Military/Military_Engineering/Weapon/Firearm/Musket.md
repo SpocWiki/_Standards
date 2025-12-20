@@ -40,3 +40,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Flintl%C3%A5sstudsare%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Musket) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Musket](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Musket.md) 
+
+### #is_/same_as :: [Musket.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Musket.public.md) 
+
+### #is_/same_as :: [Musket.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Musket.internal.md) 
+
+### #is_/same_as :: [Musket.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Musket.protect.md) 
+
+### #is_/same_as :: [Musket.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Musket.private.md) 
+
+### #is_/same_as :: [Musket.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Musket.personal.md) 
+
+### #is_/same_as :: [Musket.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Musket.secret.md)
+

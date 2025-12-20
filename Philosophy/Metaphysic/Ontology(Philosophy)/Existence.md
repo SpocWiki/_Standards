@@ -45,3 +45,22 @@ Iconclass_notation: 51A1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Existence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Existence](/_Standards/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.md) 
+
+### #is_/same_as :: [Existence.public](/_public/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.public.md) 
+
+### #is_/same_as :: [Existence.internal](/_internal/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.internal.md) 
+
+### #is_/same_as :: [Existence.protect](/_protect/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.protect.md) 
+
+### #is_/same_as :: [Existence.private](/_private/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.private.md) 
+
+### #is_/same_as :: [Existence.personal](/_personal/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.personal.md) 
+
+### #is_/same_as :: [Existence.secret](/_secret/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.secret.md)
+

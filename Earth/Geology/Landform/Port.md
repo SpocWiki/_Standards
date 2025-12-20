@@ -77,3 +77,22 @@ GeoNames_feature_code: L.PRT
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Port) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Port](/_Standards/Earth/Geology/Landform/Port.md) 
+
+### #is_/same_as :: [Port.public](/_public/Earth/Geology/Landform/Port.public.md) 
+
+### #is_/same_as :: [Port.internal](/_internal/Earth/Geology/Landform/Port.internal.md) 
+
+### #is_/same_as :: [Port.protect](/_protect/Earth/Geology/Landform/Port.protect.md) 
+
+### #is_/same_as :: [Port.private](/_private/Earth/Geology/Landform/Port.private.md) 
+
+### #is_/same_as :: [Port.personal](/_personal/Earth/Geology/Landform/Port.personal.md) 
+
+### #is_/same_as :: [Port.secret](/_secret/Earth/Geology/Landform/Port.secret.md)
+

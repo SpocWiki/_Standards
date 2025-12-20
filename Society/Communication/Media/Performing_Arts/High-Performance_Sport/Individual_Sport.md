@@ -13,17 +13,17 @@ has_id_wikidata: Q2755547
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Individual_Sport](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport.md) 
+### #is_/same_as :: [Individual_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.md) 
 
-### #is_/same_as :: [Individual_Sport.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport.public.md) 
+### #is_/same_as :: [Individual_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.public.md) 
 
-### #is_/same_as :: [Individual_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport.internal.md) 
+### #is_/same_as :: [Individual_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.internal.md) 
 
-### #is_/same_as :: [Individual_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport.protect.md) 
+### #is_/same_as :: [Individual_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.protect.md) 
 
-### #is_/same_as :: [Individual_Sport.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport.private.md) 
+### #is_/same_as :: [Individual_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.private.md) 
 
-### #is_/same_as :: [Individual_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport.personal.md) 
+### #is_/same_as :: [Individual_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.personal.md) 
 
-### #is_/same_as :: [Individual_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport.secret.md)
+### #is_/same_as :: [Individual_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.secret.md)
 

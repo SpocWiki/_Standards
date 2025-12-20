@@ -35,3 +35,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Stories%20of%20beowulf
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grendel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grendel](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf/Grendel.md) 
+
+### #is_/same_as :: [Grendel.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf/Grendel.public.md) 
+
+### #is_/same_as :: [Grendel.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf/Grendel.internal.md) 
+
+### #is_/same_as :: [Grendel.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf/Grendel.protect.md) 
+
+### #is_/same_as :: [Grendel.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf/Grendel.private.md) 
+
+### #is_/same_as :: [Grendel.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf/Grendel.personal.md) 
+
+### #is_/same_as :: [Grendel.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf/Grendel.secret.md)
+

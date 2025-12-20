@@ -71,7 +71,7 @@ cultivated garden soil in Australia. Archiv für Protistenkunde 148:
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas terricola
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
-  --------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

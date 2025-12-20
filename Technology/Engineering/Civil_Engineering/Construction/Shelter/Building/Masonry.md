@@ -37,3 +37,22 @@ Commons_category: Masonry (craft)
 > A person who constructs masonry is called a mason or bricklayer. These are both classified as construction trades.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Masonry) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Masonry](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.md) 
+
+### #is_/same_as :: [Masonry.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.public.md) 
+
+### #is_/same_as :: [Masonry.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.internal.md) 
+
+### #is_/same_as :: [Masonry.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.protect.md) 
+
+### #is_/same_as :: [Masonry.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.private.md) 
+
+### #is_/same_as :: [Masonry.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.personal.md) 
+
+### #is_/same_as :: [Masonry.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.secret.md)
+

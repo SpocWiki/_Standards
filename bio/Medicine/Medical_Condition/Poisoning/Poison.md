@@ -73,3 +73,22 @@ Commons_category: Poisons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poison) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poison](/_Standards/bio/Medicine/Medical_Condition/Poisoning/Poison.md) 
+
+### #is_/same_as :: [Poison.public](/_public/bio/Medicine/Medical_Condition/Poisoning/Poison.public.md) 
+
+### #is_/same_as :: [Poison.internal](/_internal/bio/Medicine/Medical_Condition/Poisoning/Poison.internal.md) 
+
+### #is_/same_as :: [Poison.protect](/_protect/bio/Medicine/Medical_Condition/Poisoning/Poison.protect.md) 
+
+### #is_/same_as :: [Poison.private](/_private/bio/Medicine/Medical_Condition/Poisoning/Poison.private.md) 
+
+### #is_/same_as :: [Poison.personal](/_personal/bio/Medicine/Medical_Condition/Poisoning/Poison.personal.md) 
+
+### #is_/same_as :: [Poison.secret](/_secret/bio/Medicine/Medical_Condition/Poisoning/Poison.secret.md)
+

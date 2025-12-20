@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Billy Corgan"
 - "William Patrick Corgan Jr."
@@ -41,4 +41,23 @@ aliases:
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Corgan,Billy](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.md) 
+
+### #is_/same_as :: [Corgan,Billy.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.public.md) 
+
+### #is_/same_as :: [Corgan,Billy.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.internal.md) 
+
+### #is_/same_as :: [Corgan,Billy.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.protect.md) 
+
+### #is_/same_as :: [Corgan,Billy.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.private.md) 
+
+### #is_/same_as :: [Corgan,Billy.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.personal.md) 
+
+### #is_/same_as :: [Corgan,Billy.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.secret.md)
 

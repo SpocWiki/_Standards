@@ -18,3 +18,22 @@ Commons_category: Contemporary philosophy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Contemporary%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Contemporary_Philosophy](/_Standards/Philosophy/Contemporary_Philosophy.md) 
+
+### #is_/same_as :: [Contemporary_Philosophy.public](/_public/Philosophy/Contemporary_Philosophy.public.md) 
+
+### #is_/same_as :: [Contemporary_Philosophy.internal](/_internal/Philosophy/Contemporary_Philosophy.internal.md) 
+
+### #is_/same_as :: [Contemporary_Philosophy.protect](/_protect/Philosophy/Contemporary_Philosophy.protect.md) 
+
+### #is_/same_as :: [Contemporary_Philosophy.private](/_private/Philosophy/Contemporary_Philosophy.private.md) 
+
+### #is_/same_as :: [Contemporary_Philosophy.personal](/_personal/Philosophy/Contemporary_Philosophy.personal.md) 
+
+### #is_/same_as :: [Contemporary_Philosophy.secret](/_secret/Philosophy/Contemporary_Philosophy.secret.md)
+

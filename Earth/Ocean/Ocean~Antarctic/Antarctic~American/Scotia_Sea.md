@@ -33,3 +33,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Scotia%20Sea%201996.jp
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scotia%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scotia_Sea](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.md) 
+
+### #is_/same_as :: [Scotia_Sea.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.public.md) 
+
+### #is_/same_as :: [Scotia_Sea.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.internal.md) 
+
+### #is_/same_as :: [Scotia_Sea.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.protect.md) 
+
+### #is_/same_as :: [Scotia_Sea.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.private.md) 
+
+### #is_/same_as :: [Scotia_Sea.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.personal.md) 
+
+### #is_/same_as :: [Scotia_Sea.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.secret.md)
+

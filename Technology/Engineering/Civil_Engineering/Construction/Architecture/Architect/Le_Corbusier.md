@@ -239,17 +239,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Le_Corbusier](Le_Corbusier.md) 
+### #is_/same_as :: [Le_Corbusier](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.md) 
 
-### #is_/same_as :: [Le_Corbusier.public](/_public/Technology/Construction/Architecture/Architect/Le_Corbusier.public.md) 
+### #is_/same_as :: [Le_Corbusier.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.public.md) 
 
-### #is_/same_as :: [Le_Corbusier.internal](/_internal/Technology/Construction/Architecture/Architect/Le_Corbusier.internal.md) 
+### #is_/same_as :: [Le_Corbusier.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.internal.md) 
 
-### #is_/same_as :: [Le_Corbusier.protect](/_protect/Technology/Construction/Architecture/Architect/Le_Corbusier.protect.md) 
+### #is_/same_as :: [Le_Corbusier.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.protect.md) 
 
-### #is_/same_as :: [Le_Corbusier.private](/_private/Technology/Construction/Architecture/Architect/Le_Corbusier.private.md) 
+### #is_/same_as :: [Le_Corbusier.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.private.md) 
 
-### #is_/same_as :: [Le_Corbusier.personal](/_personal/Technology/Construction/Architecture/Architect/Le_Corbusier.personal.md) 
+### #is_/same_as :: [Le_Corbusier.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.personal.md) 
 
-### #is_/same_as :: [Le_Corbusier.secret](/_secret/Technology/Construction/Architecture/Architect/Le_Corbusier.secret.md)
+### #is_/same_as :: [Le_Corbusier.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Le_Corbusier.secret.md)
 

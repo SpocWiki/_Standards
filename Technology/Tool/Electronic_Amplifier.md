@@ -40,3 +40,22 @@ Commons_category: Electronic amplifiers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amplifier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electronic_Amplifier](/_Standards/Technology/Tool/Electronic_Amplifier.md) 
+
+### #is_/same_as :: [Electronic_Amplifier.public](/_public/Technology/Tool/Electronic_Amplifier.public.md) 
+
+### #is_/same_as :: [Electronic_Amplifier.internal](/_internal/Technology/Tool/Electronic_Amplifier.internal.md) 
+
+### #is_/same_as :: [Electronic_Amplifier.protect](/_protect/Technology/Tool/Electronic_Amplifier.protect.md) 
+
+### #is_/same_as :: [Electronic_Amplifier.private](/_private/Technology/Tool/Electronic_Amplifier.private.md) 
+
+### #is_/same_as :: [Electronic_Amplifier.personal](/_personal/Technology/Tool/Electronic_Amplifier.personal.md) 
+
+### #is_/same_as :: [Electronic_Amplifier.secret](/_secret/Technology/Tool/Electronic_Amplifier.secret.md)
+

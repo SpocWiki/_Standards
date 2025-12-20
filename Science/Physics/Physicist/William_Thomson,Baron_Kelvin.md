@@ -184,3 +184,22 @@ ISNI: "0000000121259810"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lord%20Kelvin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [William_Thomson,Baron_Kelvin](/_Standards/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.md) 
+
+### #is_/same_as :: [William_Thomson,Baron_Kelvin.public](/_public/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.public.md) 
+
+### #is_/same_as :: [William_Thomson,Baron_Kelvin.internal](/_internal/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.internal.md) 
+
+### #is_/same_as :: [William_Thomson,Baron_Kelvin.protect](/_protect/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.protect.md) 
+
+### #is_/same_as :: [William_Thomson,Baron_Kelvin.private](/_private/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.private.md) 
+
+### #is_/same_as :: [William_Thomson,Baron_Kelvin.personal](/_personal/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.personal.md) 
+
+### #is_/same_as :: [William_Thomson,Baron_Kelvin.secret](/_secret/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.secret.md)
+

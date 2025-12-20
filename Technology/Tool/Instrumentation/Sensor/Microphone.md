@@ -56,3 +56,22 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "Microphone"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Microphone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Microphone](/_Standards/Technology/Tool/Instrumentation/Sensor/Microphone.md) 
+
+### #is_/same_as :: [Microphone.public](/_public/Technology/Tool/Instrumentation/Sensor/Microphone.public.md) 
+
+### #is_/same_as :: [Microphone.internal](/_internal/Technology/Tool/Instrumentation/Sensor/Microphone.internal.md) 
+
+### #is_/same_as :: [Microphone.protect](/_protect/Technology/Tool/Instrumentation/Sensor/Microphone.protect.md) 
+
+### #is_/same_as :: [Microphone.private](/_private/Technology/Tool/Instrumentation/Sensor/Microphone.private.md) 
+
+### #is_/same_as :: [Microphone.personal](/_personal/Technology/Tool/Instrumentation/Sensor/Microphone.personal.md) 
+
+### #is_/same_as :: [Microphone.secret](/_secret/Technology/Tool/Instrumentation/Sensor/Microphone.secret.md)
+

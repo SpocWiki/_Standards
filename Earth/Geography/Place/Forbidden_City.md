@@ -126,3 +126,22 @@ O. [Palace of Tranquil Longevity](https://en.wikipedia.org/wiki/Palace_of_Tranq
 > [Wikipedia](https://en.wikipedia.org/wiki/Forbidden%20City) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Forbidden_City](/_Standards/Earth/Geography/Place/Forbidden_City.md) 
+
+### #is_/same_as :: [Forbidden_City.public](/_public/Earth/Geography/Place/Forbidden_City.public.md) 
+
+### #is_/same_as :: [Forbidden_City.internal](/_internal/Earth/Geography/Place/Forbidden_City.internal.md) 
+
+### #is_/same_as :: [Forbidden_City.protect](/_protect/Earth/Geography/Place/Forbidden_City.protect.md) 
+
+### #is_/same_as :: [Forbidden_City.private](/_private/Earth/Geography/Place/Forbidden_City.private.md) 
+
+### #is_/same_as :: [Forbidden_City.personal](/_personal/Earth/Geography/Place/Forbidden_City.personal.md) 
+
+### #is_/same_as :: [Forbidden_City.secret](/_secret/Earth/Geography/Place/Forbidden_City.secret.md)
+

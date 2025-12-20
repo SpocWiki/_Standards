@@ -32,3 +32,22 @@ Commons_category: Homotopy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Homotopy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Homotopy](/_Standards/Mathematics/Topology/Homotopy.md) 
+
+### #is_/same_as :: [Homotopy.public](/_public/Mathematics/Topology/Homotopy.public.md) 
+
+### #is_/same_as :: [Homotopy.internal](/_internal/Mathematics/Topology/Homotopy.internal.md) 
+
+### #is_/same_as :: [Homotopy.protect](/_protect/Mathematics/Topology/Homotopy.protect.md) 
+
+### #is_/same_as :: [Homotopy.private](/_private/Mathematics/Topology/Homotopy.private.md) 
+
+### #is_/same_as :: [Homotopy.personal](/_personal/Mathematics/Topology/Homotopy.personal.md) 
+
+### #is_/same_as :: [Homotopy.secret](/_secret/Mathematics/Topology/Homotopy.secret.md)
+

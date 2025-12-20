@@ -49,3 +49,22 @@ UMLS_CUI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Semen) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Semen](/_Standards/bio/Reproduction/Sexual_Reproduction/Semen.md) 
+
+### #is_/same_as :: [Semen.public](/_public/bio/Reproduction/Sexual_Reproduction/Semen.public.md) 
+
+### #is_/same_as :: [Semen.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Semen.internal.md) 
+
+### #is_/same_as :: [Semen.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Semen.protect.md) 
+
+### #is_/same_as :: [Semen.private](/_private/bio/Reproduction/Sexual_Reproduction/Semen.private.md) 
+
+### #is_/same_as :: [Semen.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Semen.personal.md) 
+
+### #is_/same_as :: [Semen.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Semen.secret.md)
+

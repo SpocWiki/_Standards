@@ -32,3 +32,22 @@ Krugosvet_article_archived_: teatr-i-kino/kino-istoriya
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20film) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Film](/_Standards/Society/Communication/Media/Film/History_of_Film.md) 
+
+### #is_/same_as :: [History_of_Film.public](/_public/Society/Communication/Media/Film/History_of_Film.public.md) 
+
+### #is_/same_as :: [History_of_Film.internal](/_internal/Society/Communication/Media/Film/History_of_Film.internal.md) 
+
+### #is_/same_as :: [History_of_Film.protect](/_protect/Society/Communication/Media/Film/History_of_Film.protect.md) 
+
+### #is_/same_as :: [History_of_Film.private](/_private/Society/Communication/Media/Film/History_of_Film.private.md) 
+
+### #is_/same_as :: [History_of_Film.personal](/_personal/Society/Communication/Media/Film/History_of_Film.personal.md) 
+
+### #is_/same_as :: [History_of_Film.secret](/_secret/Society/Communication/Media/Film/History_of_Film.secret.md)
+

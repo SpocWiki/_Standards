@@ -58,3 +58,22 @@ Colon_Classification: S:23
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hearing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hearing](/_Standards/bio/Medicine/Anatomy/Sense/Hearing.md) 
+
+### #is_/same_as :: [Hearing.public](/_public/bio/Medicine/Anatomy/Sense/Hearing.public.md) 
+
+### #is_/same_as :: [Hearing.internal](/_internal/bio/Medicine/Anatomy/Sense/Hearing.internal.md) 
+
+### #is_/same_as :: [Hearing.protect](/_protect/bio/Medicine/Anatomy/Sense/Hearing.protect.md) 
+
+### #is_/same_as :: [Hearing.private](/_private/bio/Medicine/Anatomy/Sense/Hearing.private.md) 
+
+### #is_/same_as :: [Hearing.personal](/_personal/bio/Medicine/Anatomy/Sense/Hearing.personal.md) 
+
+### #is_/same_as :: [Hearing.secret](/_secret/bio/Medicine/Anatomy/Sense/Hearing.secret.md)
+

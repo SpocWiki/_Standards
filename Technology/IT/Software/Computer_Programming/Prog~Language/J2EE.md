@@ -42,3 +42,22 @@
 | J2EE 1.2         | 1999-12-17 | [1.2](https://download.oracle.com/otndocs/jcp/7391-j2ee_platform-1.2-fr-spec-oth-JSpec/) | J2SE 1.2                     | Initial specification release                                                                                                                                                        |
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [J2EE](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.md) 
+
+### #is_/same_as :: [J2EE.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.public.md) 
+
+### #is_/same_as :: [J2EE.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.internal.md) 
+
+### #is_/same_as :: [J2EE.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.protect.md) 
+
+### #is_/same_as :: [J2EE.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.private.md) 
+
+### #is_/same_as :: [J2EE.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.personal.md) 
+
+### #is_/same_as :: [J2EE.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/J2EE.secret.md)
+

@@ -89,3 +89,22 @@ time_of_discovery_or_invention: 1934-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Intermodal%20container) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shipping_Container](/_Standards/Technology/Transport/Shipping_Container.md) 
+
+### #is_/same_as :: [Shipping_Container.public](/_public/Technology/Transport/Shipping_Container.public.md) 
+
+### #is_/same_as :: [Shipping_Container.internal](/_internal/Technology/Transport/Shipping_Container.internal.md) 
+
+### #is_/same_as :: [Shipping_Container.protect](/_protect/Technology/Transport/Shipping_Container.protect.md) 
+
+### #is_/same_as :: [Shipping_Container.private](/_private/Technology/Transport/Shipping_Container.private.md) 
+
+### #is_/same_as :: [Shipping_Container.personal](/_personal/Technology/Transport/Shipping_Container.personal.md) 
+
+### #is_/same_as :: [Shipping_Container.secret](/_secret/Technology/Transport/Shipping_Container.secret.md)
+

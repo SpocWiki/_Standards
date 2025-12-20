@@ -37,3 +37,22 @@ Commons_category: Reductionism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reductionism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reductionism](/_Standards/Philosophy/Reductionism.md) 
+
+### #is_/same_as :: [Reductionism.public](/_public/Philosophy/Reductionism.public.md) 
+
+### #is_/same_as :: [Reductionism.internal](/_internal/Philosophy/Reductionism.internal.md) 
+
+### #is_/same_as :: [Reductionism.protect](/_protect/Philosophy/Reductionism.protect.md) 
+
+### #is_/same_as :: [Reductionism.private](/_private/Philosophy/Reductionism.private.md) 
+
+### #is_/same_as :: [Reductionism.personal](/_personal/Philosophy/Reductionism.personal.md) 
+
+### #is_/same_as :: [Reductionism.secret](/_secret/Philosophy/Reductionism.secret.md)
+

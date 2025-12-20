@@ -96,17 +96,17 @@ UNII: ZGV62C09KN
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Promethium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Promethium.md) 
+### #is_/same_as :: [Promethium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Promethium.md) 
 
-### #is_/same_as :: [Promethium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Promethium.public.md) 
+### #is_/same_as :: [Promethium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Promethium.public.md) 
 
-### #is_/same_as :: [Promethium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Promethium.internal.md) 
+### #is_/same_as :: [Promethium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Promethium.internal.md) 
 
-### #is_/same_as :: [Promethium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Promethium.protect.md) 
+### #is_/same_as :: [Promethium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Promethium.protect.md) 
 
-### #is_/same_as :: [Promethium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Promethium.private.md) 
+### #is_/same_as :: [Promethium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Promethium.private.md) 
 
-### #is_/same_as :: [Promethium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Promethium.personal.md) 
+### #is_/same_as :: [Promethium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Promethium.personal.md) 
 
-### #is_/same_as :: [Promethium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Promethium.secret.md)
+### #is_/same_as :: [Promethium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Promethium.secret.md)
 

@@ -56,3 +56,22 @@ Commons_category: Percentages
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Percentage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Percent](/_Standards/Dimension/Dim~Number/Unit~Percent.md) 
+
+### #is_/same_as :: [Unit~Percent.public](/_public/Dimension/Dim~Number/Unit~Percent.public.md) 
+
+### #is_/same_as :: [Unit~Percent.internal](/_internal/Dimension/Dim~Number/Unit~Percent.internal.md) 
+
+### #is_/same_as :: [Unit~Percent.protect](/_protect/Dimension/Dim~Number/Unit~Percent.protect.md) 
+
+### #is_/same_as :: [Unit~Percent.private](/_private/Dimension/Dim~Number/Unit~Percent.private.md) 
+
+### #is_/same_as :: [Unit~Percent.personal](/_personal/Dimension/Dim~Number/Unit~Percent.personal.md) 
+
+### #is_/same_as :: [Unit~Percent.secret](/_secret/Dimension/Dim~Number/Unit~Percent.secret.md)
+

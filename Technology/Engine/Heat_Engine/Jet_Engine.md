@@ -39,3 +39,22 @@ Commons_category: Jet engines
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jet_Engine](/_Standards/Technology/Engine/Heat_Engine/Jet_Engine.md) 
+
+### #is_/same_as :: [Jet_Engine.public](/_public/Technology/Engine/Heat_Engine/Jet_Engine.public.md) 
+
+### #is_/same_as :: [Jet_Engine.internal](/_internal/Technology/Engine/Heat_Engine/Jet_Engine.internal.md) 
+
+### #is_/same_as :: [Jet_Engine.protect](/_protect/Technology/Engine/Heat_Engine/Jet_Engine.protect.md) 
+
+### #is_/same_as :: [Jet_Engine.private](/_private/Technology/Engine/Heat_Engine/Jet_Engine.private.md) 
+
+### #is_/same_as :: [Jet_Engine.personal](/_personal/Technology/Engine/Heat_Engine/Jet_Engine.personal.md) 
+
+### #is_/same_as :: [Jet_Engine.secret](/_secret/Technology/Engine/Heat_Engine/Jet_Engine.secret.md)
+

@@ -86,3 +86,22 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laplace%20transform) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Laplace_Transform](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.md) 
+
+### #is_/same_as :: [Laplace_Transform.public](/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.public.md) 
+
+### #is_/same_as :: [Laplace_Transform.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.internal.md) 
+
+### #is_/same_as :: [Laplace_Transform.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.protect.md) 
+
+### #is_/same_as :: [Laplace_Transform.private](/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.private.md) 
+
+### #is_/same_as :: [Laplace_Transform.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.personal.md) 
+
+### #is_/same_as :: [Laplace_Transform.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.secret.md)
+

@@ -39,17 +39,17 @@ A registry-based study design.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [registry](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.md) 
+### #is_/same_as :: [Registry_Study](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Registry_Study.md) 
 
-### #is_/same_as :: [registry.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.public.md) 
+### #is_/same_as :: [Registry_Study.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Registry_Study.public.md) 
 
-### #is_/same_as :: [registry.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.internal.md) 
+### #is_/same_as :: [Registry_Study.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Registry_Study.internal.md) 
 
-### #is_/same_as :: [registry.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.protect.md) 
+### #is_/same_as :: [Registry_Study.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Registry_Study.protect.md) 
 
-### #is_/same_as :: [registry.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.private.md) 
+### #is_/same_as :: [Registry_Study.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Registry_Study.private.md) 
 
-### #is_/same_as :: [registry.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.personal.md) 
+### #is_/same_as :: [Registry_Study.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Registry_Study.personal.md) 
 
-### #is_/same_as :: [registry.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.secret.md)
+### #is_/same_as :: [Registry_Study.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Registry_Study.secret.md)
 

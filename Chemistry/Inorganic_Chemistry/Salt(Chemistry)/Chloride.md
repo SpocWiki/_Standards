@@ -35,3 +35,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chloride) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chloride](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.md) 
+
+### #is_/same_as :: [Chloride.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.public.md) 
+
+### #is_/same_as :: [Chloride.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.internal.md) 
+
+### #is_/same_as :: [Chloride.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.protect.md) 
+
+### #is_/same_as :: [Chloride.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.private.md) 
+
+### #is_/same_as :: [Chloride.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.personal.md) 
+
+### #is_/same_as :: [Chloride.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.secret.md)
+

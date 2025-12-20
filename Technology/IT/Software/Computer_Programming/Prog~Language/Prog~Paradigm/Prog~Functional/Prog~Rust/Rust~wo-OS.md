@@ -105,3 +105,22 @@ IO
 2. Set the Pin on and off, alternatively. 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rust~wo-OS](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~wo-OS.md) 
+
+### #is_/same_as :: [Rust~wo-OS.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~wo-OS.public.md) 
+
+### #is_/same_as :: [Rust~wo-OS.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~wo-OS.internal.md) 
+
+### #is_/same_as :: [Rust~wo-OS.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~wo-OS.protect.md) 
+
+### #is_/same_as :: [Rust~wo-OS.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~wo-OS.private.md) 
+
+### #is_/same_as :: [Rust~wo-OS.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~wo-OS.personal.md) 
+
+### #is_/same_as :: [Rust~wo-OS.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~wo-OS.secret.md)
+

@@ -29,3 +29,22 @@ Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/protostar
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Protostar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Protostar](/_Standards/Astronomy/Star/Star~Class/Protostar.md) 
+
+### #is_/same_as :: [Protostar.public](/_public/Astronomy/Star/Star~Class/Protostar.public.md) 
+
+### #is_/same_as :: [Protostar.internal](/_internal/Astronomy/Star/Star~Class/Protostar.internal.md) 
+
+### #is_/same_as :: [Protostar.protect](/_protect/Astronomy/Star/Star~Class/Protostar.protect.md) 
+
+### #is_/same_as :: [Protostar.private](/_private/Astronomy/Star/Star~Class/Protostar.private.md) 
+
+### #is_/same_as :: [Protostar.personal](/_personal/Astronomy/Star/Star~Class/Protostar.personal.md) 
+
+### #is_/same_as :: [Protostar.secret](/_secret/Astronomy/Star/Star~Class/Protostar.secret.md)
+

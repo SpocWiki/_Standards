@@ -54,3 +54,22 @@ Commons_category: Ice shelves
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20shelf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ice_Shelf](/_Standards/Earth/Geology/Landform/Glacier/Ice_Shelf.md) 
+
+### #is_/same_as :: [Ice_Shelf.public](/_public/Earth/Geology/Landform/Glacier/Ice_Shelf.public.md) 
+
+### #is_/same_as :: [Ice_Shelf.internal](/_internal/Earth/Geology/Landform/Glacier/Ice_Shelf.internal.md) 
+
+### #is_/same_as :: [Ice_Shelf.protect](/_protect/Earth/Geology/Landform/Glacier/Ice_Shelf.protect.md) 
+
+### #is_/same_as :: [Ice_Shelf.private](/_private/Earth/Geology/Landform/Glacier/Ice_Shelf.private.md) 
+
+### #is_/same_as :: [Ice_Shelf.personal](/_personal/Earth/Geology/Landform/Glacier/Ice_Shelf.personal.md) 
+
+### #is_/same_as :: [Ice_Shelf.secret](/_secret/Earth/Geology/Landform/Glacier/Ice_Shelf.secret.md)
+

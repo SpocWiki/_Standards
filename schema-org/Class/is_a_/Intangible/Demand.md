@@ -39,17 +39,17 @@ A demand entity represents the public, not necessarily binding, not necessarily 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [demand](/_Standards/schema-org/Class/is_a_/Intangible/demand.md) 
+### #is_/same_as :: [Demand](/_Standards/schema-org/Class/is_a_/Intangible/Demand.md) 
 
-### #is_/same_as :: [demand.public](/_public/schema-org/Class/is_a_/Intangible/demand.public.md) 
+### #is_/same_as :: [Demand.public](/_public/schema-org/Class/is_a_/Intangible/Demand.public.md) 
 
-### #is_/same_as :: [demand.internal](/_internal/schema-org/Class/is_a_/Intangible/demand.internal.md) 
+### #is_/same_as :: [Demand.internal](/_internal/schema-org/Class/is_a_/Intangible/Demand.internal.md) 
 
-### #is_/same_as :: [demand.protect](/_protect/schema-org/Class/is_a_/Intangible/demand.protect.md) 
+### #is_/same_as :: [Demand.protect](/_protect/schema-org/Class/is_a_/Intangible/Demand.protect.md) 
 
-### #is_/same_as :: [demand.private](/_private/schema-org/Class/is_a_/Intangible/demand.private.md) 
+### #is_/same_as :: [Demand.private](/_private/schema-org/Class/is_a_/Intangible/Demand.private.md) 
 
-### #is_/same_as :: [demand.personal](/_personal/schema-org/Class/is_a_/Intangible/demand.personal.md) 
+### #is_/same_as :: [Demand.personal](/_personal/schema-org/Class/is_a_/Intangible/Demand.personal.md) 
 
-### #is_/same_as :: [demand.secret](/_secret/schema-org/Class/is_a_/Intangible/demand.secret.md)
+### #is_/same_as :: [Demand.secret](/_secret/schema-org/Class/is_a_/Intangible/Demand.secret.md)
 

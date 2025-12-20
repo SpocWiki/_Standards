@@ -69,3 +69,22 @@ Commons_category: Organs (anatomy)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organ%20(biology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Organ](/_Standards/bio/Medicine/Anatomy/Organ.md) 
+
+### #is_/same_as :: [Organ.public](/_public/bio/Medicine/Anatomy/Organ.public.md) 
+
+### #is_/same_as :: [Organ.internal](/_internal/bio/Medicine/Anatomy/Organ.internal.md) 
+
+### #is_/same_as :: [Organ.protect](/_protect/bio/Medicine/Anatomy/Organ.protect.md) 
+
+### #is_/same_as :: [Organ.private](/_private/bio/Medicine/Anatomy/Organ.private.md) 
+
+### #is_/same_as :: [Organ.personal](/_personal/bio/Medicine/Anatomy/Organ.personal.md) 
+
+### #is_/same_as :: [Organ.secret](/_secret/bio/Medicine/Anatomy/Organ.secret.md)
+

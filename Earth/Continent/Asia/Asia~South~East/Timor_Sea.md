@@ -63,3 +63,22 @@ Commons_category: Timor Sea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Timor%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Timor_Sea](/_Standards/Earth/Continent/Asia/Asia~South~East/Timor_Sea.md) 
+
+### #is_/same_as :: [Timor_Sea.public](/_public/Earth/Continent/Asia/Asia~South~East/Timor_Sea.public.md) 
+
+### #is_/same_as :: [Timor_Sea.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Timor_Sea.internal.md) 
+
+### #is_/same_as :: [Timor_Sea.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Timor_Sea.protect.md) 
+
+### #is_/same_as :: [Timor_Sea.private](/_private/Earth/Continent/Asia/Asia~South~East/Timor_Sea.private.md) 
+
+### #is_/same_as :: [Timor_Sea.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Timor_Sea.personal.md) 
+
+### #is_/same_as :: [Timor_Sea.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Timor_Sea.secret.md)
+

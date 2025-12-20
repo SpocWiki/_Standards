@@ -77,3 +77,22 @@ Dewey_Decimal_Classification: "567.9158"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triceratops) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Triceratops](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia/Triceratops.md) 
+
+### #is_/same_as :: [Triceratops.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia/Triceratops.public.md) 
+
+### #is_/same_as :: [Triceratops.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia/Triceratops.internal.md) 
+
+### #is_/same_as :: [Triceratops.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia/Triceratops.protect.md) 
+
+### #is_/same_as :: [Triceratops.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia/Triceratops.private.md) 
+
+### #is_/same_as :: [Triceratops.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia/Triceratops.personal.md) 
+
+### #is_/same_as :: [Triceratops.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia/Triceratops.secret.md)
+

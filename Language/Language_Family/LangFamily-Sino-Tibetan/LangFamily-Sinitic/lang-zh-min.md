@@ -37,3 +37,22 @@ Glottolog_code: minn1248
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Min%20Chinese) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [lang-zh-min](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.md) 
+
+### #is_/same_as :: [lang-zh-min.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.public.md) 
+
+### #is_/same_as :: [lang-zh-min.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.internal.md) 
+
+### #is_/same_as :: [lang-zh-min.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.protect.md) 
+
+### #is_/same_as :: [lang-zh-min.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.private.md) 
+
+### #is_/same_as :: [lang-zh-min.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.personal.md) 
+
+### #is_/same_as :: [lang-zh-min.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.secret.md)
+

@@ -73,3 +73,22 @@ Dewey_Decimal_Classification: "788.93"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trombone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trombone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.md) 
+
+### #is_/same_as :: [Trombone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.public.md) 
+
+### #is_/same_as :: [Trombone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.internal.md) 
+
+### #is_/same_as :: [Trombone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.protect.md) 
+
+### #is_/same_as :: [Trombone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.private.md) 
+
+### #is_/same_as :: [Trombone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.personal.md) 
+
+### #is_/same_as :: [Trombone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trombone.secret.md)
+

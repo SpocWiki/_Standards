@@ -95,3 +95,22 @@ Commons_gallery: Incandescent light bulb
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Incandescent%20light%20bulb) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Incandescent_Light_Bulb](/_Standards/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.md) 
+
+### #is_/same_as :: [Incandescent_Light_Bulb.public](/_public/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.public.md) 
+
+### #is_/same_as :: [Incandescent_Light_Bulb.internal](/_internal/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.internal.md) 
+
+### #is_/same_as :: [Incandescent_Light_Bulb.protect](/_protect/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.protect.md) 
+
+### #is_/same_as :: [Incandescent_Light_Bulb.private](/_private/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.private.md) 
+
+### #is_/same_as :: [Incandescent_Light_Bulb.personal](/_personal/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.personal.md) 
+
+### #is_/same_as :: [Incandescent_Light_Bulb.secret](/_secret/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.secret.md)
+

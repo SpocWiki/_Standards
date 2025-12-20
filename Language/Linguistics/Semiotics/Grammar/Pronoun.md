@@ -51,3 +51,22 @@ entry_in_abbreviations_table: vnw.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pronoun) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pronoun](/_Standards/Language/Linguistics/Semiotics/Grammar/Pronoun.md) 
+
+### #is_/same_as :: [Pronoun.public](/_public/Language/Linguistics/Semiotics/Grammar/Pronoun.public.md) 
+
+### #is_/same_as :: [Pronoun.internal](/_internal/Language/Linguistics/Semiotics/Grammar/Pronoun.internal.md) 
+
+### #is_/same_as :: [Pronoun.protect](/_protect/Language/Linguistics/Semiotics/Grammar/Pronoun.protect.md) 
+
+### #is_/same_as :: [Pronoun.private](/_private/Language/Linguistics/Semiotics/Grammar/Pronoun.private.md) 
+
+### #is_/same_as :: [Pronoun.personal](/_personal/Language/Linguistics/Semiotics/Grammar/Pronoun.personal.md) 
+
+### #is_/same_as :: [Pronoun.secret](/_secret/Language/Linguistics/Semiotics/Grammar/Pronoun.secret.md)
+

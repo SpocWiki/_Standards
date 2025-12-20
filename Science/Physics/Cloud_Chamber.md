@@ -41,3 +41,22 @@ time_of_discovery_or_invention: 1911-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cloud%20chamber) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cloud_Chamber](/_Standards/Science/Physics/Cloud_Chamber.md) 
+
+### #is_/same_as :: [Cloud_Chamber.public](/_public/Science/Physics/Cloud_Chamber.public.md) 
+
+### #is_/same_as :: [Cloud_Chamber.internal](/_internal/Science/Physics/Cloud_Chamber.internal.md) 
+
+### #is_/same_as :: [Cloud_Chamber.protect](/_protect/Science/Physics/Cloud_Chamber.protect.md) 
+
+### #is_/same_as :: [Cloud_Chamber.private](/_private/Science/Physics/Cloud_Chamber.private.md) 
+
+### #is_/same_as :: [Cloud_Chamber.personal](/_personal/Science/Physics/Cloud_Chamber.personal.md) 
+
+### #is_/same_as :: [Cloud_Chamber.secret](/_secret/Science/Physics/Cloud_Chamber.secret.md)
+

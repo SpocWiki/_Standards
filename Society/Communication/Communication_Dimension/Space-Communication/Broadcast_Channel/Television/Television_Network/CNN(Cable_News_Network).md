@@ -94,3 +94,22 @@ P8189: "987007259337005171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/CNN) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CNN(Cable_News_Network)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CNN(Cable_News_Network).md) 
+
+### #is_/same_as :: [CNN(Cable_News_Network).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CNN(Cable_News_Network).public.md) 
+
+### #is_/same_as :: [CNN(Cable_News_Network).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CNN(Cable_News_Network).internal.md) 
+
+### #is_/same_as :: [CNN(Cable_News_Network).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CNN(Cable_News_Network).protect.md) 
+
+### #is_/same_as :: [CNN(Cable_News_Network).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CNN(Cable_News_Network).private.md) 
+
+### #is_/same_as :: [CNN(Cable_News_Network).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CNN(Cable_News_Network).personal.md) 
+
+### #is_/same_as :: [CNN(Cable_News_Network).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CNN(Cable_News_Network).secret.md)
+

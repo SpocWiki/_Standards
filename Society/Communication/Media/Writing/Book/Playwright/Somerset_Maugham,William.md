@@ -151,3 +151,22 @@ U_S_National_Archives_Identifier: "10581505"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/W.%20Somerset%20Maugham) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Somerset_Maugham,William](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.md) 
+
+### #is_/same_as :: [Somerset_Maugham,William.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.public.md) 
+
+### #is_/same_as :: [Somerset_Maugham,William.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.internal.md) 
+
+### #is_/same_as :: [Somerset_Maugham,William.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.protect.md) 
+
+### #is_/same_as :: [Somerset_Maugham,William.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.private.md) 
+
+### #is_/same_as :: [Somerset_Maugham,William.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.personal.md) 
+
+### #is_/same_as :: [Somerset_Maugham,William.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.secret.md)
+

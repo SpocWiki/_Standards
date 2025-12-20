@@ -84,3 +84,22 @@ Commons_category: Sexually transmitted diseases and disorders
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexually%20transmitted%20infection) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [STI(Sexually_transmitted_Infection)](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/STI(Sexually_transmitted_Infection).md) 
+
+### #is_/same_as :: [STI(Sexually_transmitted_Infection).public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/STI(Sexually_transmitted_Infection).public.md) 
+
+### #is_/same_as :: [STI(Sexually_transmitted_Infection).internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/STI(Sexually_transmitted_Infection).internal.md) 
+
+### #is_/same_as :: [STI(Sexually_transmitted_Infection).protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/STI(Sexually_transmitted_Infection).protect.md) 
+
+### #is_/same_as :: [STI(Sexually_transmitted_Infection).private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/STI(Sexually_transmitted_Infection).private.md) 
+
+### #is_/same_as :: [STI(Sexually_transmitted_Infection).personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/STI(Sexually_transmitted_Infection).personal.md) 
+
+### #is_/same_as :: [STI(Sexually_transmitted_Infection).secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/STI(Sexually_transmitted_Infection).secret.md)
+

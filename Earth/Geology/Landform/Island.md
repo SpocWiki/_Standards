@@ -75,3 +75,22 @@ UMLS_CUI: C0022130
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Island) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Island](/_Standards/Earth/Geology/Landform/Island.md) 
+
+### #is_/same_as :: [Island.public](/_public/Earth/Geology/Landform/Island.public.md) 
+
+### #is_/same_as :: [Island.internal](/_internal/Earth/Geology/Landform/Island.internal.md) 
+
+### #is_/same_as :: [Island.protect](/_protect/Earth/Geology/Landform/Island.protect.md) 
+
+### #is_/same_as :: [Island.private](/_private/Earth/Geology/Landform/Island.private.md) 
+
+### #is_/same_as :: [Island.personal](/_personal/Earth/Geology/Landform/Island.personal.md) 
+
+### #is_/same_as :: [Island.secret](/_secret/Earth/Geology/Landform/Island.secret.md)
+

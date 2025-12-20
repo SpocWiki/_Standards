@@ -37,17 +37,17 @@ Status of a game server.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Game_Server_Status](Game_Server_Status.md) 
+### #is_/same_as :: [Game_Server_Status](/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.md) 
 
-### #is_/same_as :: [game_server_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.public.md) 
+### #is_/same_as :: [Game_Server_Status.public](/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.public.md) 
 
-### #is_/same_as :: [game_server_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.internal.md) 
+### #is_/same_as :: [Game_Server_Status.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.internal.md) 
 
-### #is_/same_as :: [game_server_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.protect.md) 
+### #is_/same_as :: [Game_Server_Status.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.protect.md) 
 
-### #is_/same_as :: [game_server_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.private.md) 
+### #is_/same_as :: [Game_Server_Status.private](/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.private.md) 
 
-### #is_/same_as :: [game_server_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.personal.md) 
+### #is_/same_as :: [Game_Server_Status.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.personal.md) 
 
-### #is_/same_as :: [game_server_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.secret.md)
+### #is_/same_as :: [Game_Server_Status.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.secret.md)
 

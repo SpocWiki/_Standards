@@ -20,3 +20,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polyphaga) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polyphaga](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga.md) 
+
+### #is_/same_as :: [Polyphaga.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga.public.md) 
+
+### #is_/same_as :: [Polyphaga.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga.internal.md) 
+
+### #is_/same_as :: [Polyphaga.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga.protect.md) 
+
+### #is_/same_as :: [Polyphaga.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga.private.md) 
+
+### #is_/same_as :: [Polyphaga.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga.personal.md) 
+
+### #is_/same_as :: [Polyphaga.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga.secret.md)
+

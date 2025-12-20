@@ -30,3 +30,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Krizhevsky,Alex](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Krizhevsky,Alex.md) 
+
+### #is_/same_as :: [Krizhevsky,Alex.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Krizhevsky,Alex.public.md) 
+
+### #is_/same_as :: [Krizhevsky,Alex.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Krizhevsky,Alex.internal.md) 
+
+### #is_/same_as :: [Krizhevsky,Alex.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Krizhevsky,Alex.protect.md) 
+
+### #is_/same_as :: [Krizhevsky,Alex.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Krizhevsky,Alex.private.md) 
+
+### #is_/same_as :: [Krizhevsky,Alex.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Krizhevsky,Alex.personal.md) 
+
+### #is_/same_as :: [Krizhevsky,Alex.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Krizhevsky,Alex.secret.md)
+

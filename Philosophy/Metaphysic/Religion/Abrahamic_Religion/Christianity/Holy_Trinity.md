@@ -100,3 +100,22 @@ PhilPapers_topic: the-trinity
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trinity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holy_Trinity](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.md) 
+
+### #is_/same_as :: [Holy_Trinity.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.public.md) 
+
+### #is_/same_as :: [Holy_Trinity.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.internal.md) 
+
+### #is_/same_as :: [Holy_Trinity.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.protect.md) 
+
+### #is_/same_as :: [Holy_Trinity.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.private.md) 
+
+### #is_/same_as :: [Holy_Trinity.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.personal.md) 
+
+### #is_/same_as :: [Holy_Trinity.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.secret.md)
+

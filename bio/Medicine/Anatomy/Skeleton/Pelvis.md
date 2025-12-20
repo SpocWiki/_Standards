@@ -68,3 +68,22 @@ UMLS_CUI: C0030797
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pelvis)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pelvis](/_Standards/bio/Medicine/Anatomy/Skeleton/Pelvis.md) 
+
+### #is_/same_as :: [Pelvis.public](/_public/bio/Medicine/Anatomy/Skeleton/Pelvis.public.md) 
+
+### #is_/same_as :: [Pelvis.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Pelvis.internal.md) 
+
+### #is_/same_as :: [Pelvis.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Pelvis.protect.md) 
+
+### #is_/same_as :: [Pelvis.private](/_private/bio/Medicine/Anatomy/Skeleton/Pelvis.private.md) 
+
+### #is_/same_as :: [Pelvis.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Pelvis.personal.md) 
+
+### #is_/same_as :: [Pelvis.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Pelvis.secret.md)
+

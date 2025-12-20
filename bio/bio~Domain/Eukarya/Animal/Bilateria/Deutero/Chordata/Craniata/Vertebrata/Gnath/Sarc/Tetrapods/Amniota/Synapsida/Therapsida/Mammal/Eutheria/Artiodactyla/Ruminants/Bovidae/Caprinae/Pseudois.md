@@ -46,7 +46,7 @@ title: Pseudois
 -   *Pseudois nayaur* [(bharal)]
 -   *Pseudois schaeferi* [(dwarf bharal)]
 
-Containing group: [Caprinae](../Caprinae.md)
+Containing group: [Caprinae](../Caprinae.md)
 
 
 ## Confidential Links & Embeds: 

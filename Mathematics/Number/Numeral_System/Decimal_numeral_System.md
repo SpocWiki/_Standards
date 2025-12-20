@@ -71,3 +71,22 @@ has_id_wikidata: Q81365
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Decimal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Decimal_numeral_System](/_Standards/Mathematics/Number/Numeral_System/Decimal_numeral_System.md) 
+
+### #is_/same_as :: [Decimal_numeral_System.public](/_public/Mathematics/Number/Numeral_System/Decimal_numeral_System.public.md) 
+
+### #is_/same_as :: [Decimal_numeral_System.internal](/_internal/Mathematics/Number/Numeral_System/Decimal_numeral_System.internal.md) 
+
+### #is_/same_as :: [Decimal_numeral_System.protect](/_protect/Mathematics/Number/Numeral_System/Decimal_numeral_System.protect.md) 
+
+### #is_/same_as :: [Decimal_numeral_System.private](/_private/Mathematics/Number/Numeral_System/Decimal_numeral_System.private.md) 
+
+### #is_/same_as :: [Decimal_numeral_System.personal](/_personal/Mathematics/Number/Numeral_System/Decimal_numeral_System.personal.md) 
+
+### #is_/same_as :: [Decimal_numeral_System.secret](/_secret/Mathematics/Number/Numeral_System/Decimal_numeral_System.secret.md)
+

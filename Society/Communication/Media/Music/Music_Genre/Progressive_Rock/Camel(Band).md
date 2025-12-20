@@ -19,3 +19,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Camel(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Camel(Band).md) 
+
+### #is_/same_as :: [Camel(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Camel(Band).public.md) 
+
+### #is_/same_as :: [Camel(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Camel(Band).internal.md) 
+
+### #is_/same_as :: [Camel(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Camel(Band).protect.md) 
+
+### #is_/same_as :: [Camel(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Camel(Band).private.md) 
+
+### #is_/same_as :: [Camel(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Camel(Band).personal.md) 
+
+### #is_/same_as :: [Camel(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Camel(Band).secret.md)
+

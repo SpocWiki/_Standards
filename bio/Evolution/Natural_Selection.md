@@ -106,3 +106,22 @@ Provenio_UUID: 61bceeec-d304-4d5e-b7a5-17511b66ba61
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20selection) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Natural_Selection](/_Standards/bio/Evolution/Natural_Selection.md) 
+
+### #is_/same_as :: [Natural_Selection.public](/_public/bio/Evolution/Natural_Selection.public.md) 
+
+### #is_/same_as :: [Natural_Selection.internal](/_internal/bio/Evolution/Natural_Selection.internal.md) 
+
+### #is_/same_as :: [Natural_Selection.protect](/_protect/bio/Evolution/Natural_Selection.protect.md) 
+
+### #is_/same_as :: [Natural_Selection.private](/_private/bio/Evolution/Natural_Selection.private.md) 
+
+### #is_/same_as :: [Natural_Selection.personal](/_personal/bio/Evolution/Natural_Selection.personal.md) 
+
+### #is_/same_as :: [Natural_Selection.secret](/_secret/bio/Evolution/Natural_Selection.secret.md)
+

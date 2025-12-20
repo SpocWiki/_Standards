@@ -109,3 +109,22 @@ birth_name: Ferdinand Lewis Alcindor, Jr.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kareem%20Abdul-Jabbar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abdul-Jabbar,Kareem](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.md) 
+
+### #is_/same_as :: [Abdul-Jabbar,Kareem.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.public.md) 
+
+### #is_/same_as :: [Abdul-Jabbar,Kareem.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.internal.md) 
+
+### #is_/same_as :: [Abdul-Jabbar,Kareem.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.protect.md) 
+
+### #is_/same_as :: [Abdul-Jabbar,Kareem.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.private.md) 
+
+### #is_/same_as :: [Abdul-Jabbar,Kareem.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.personal.md) 
+
+### #is_/same_as :: [Abdul-Jabbar,Kareem.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.secret.md)
+

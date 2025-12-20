@@ -64,3 +64,21 @@ has_id_wikidata: Q5921
 > "Johnny B. Goode" is the only rock-and-roll song included on the Voyager Golden Record.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chuck%20Berry)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Berry,Chuck](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.md) 
+
+### #is_/same_as :: [Berry,Chuck.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.public.md) 
+
+### #is_/same_as :: [Berry,Chuck.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.internal.md) 
+
+### #is_/same_as :: [Berry,Chuck.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.protect.md) 
+
+### #is_/same_as :: [Berry,Chuck.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.private.md) 
+
+### #is_/same_as :: [Berry,Chuck.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.personal.md) 
+
+### #is_/same_as :: [Berry,Chuck.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.secret.md)
+

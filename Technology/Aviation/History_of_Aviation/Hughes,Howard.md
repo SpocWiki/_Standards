@@ -126,3 +126,22 @@ date_of_birth: 1905-12-24T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Howard%20Hughes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hughes,Howard](/_Standards/Technology/Aviation/History_of_Aviation/Hughes,Howard.md) 
+
+### #is_/same_as :: [Hughes,Howard.public](/_public/Technology/Aviation/History_of_Aviation/Hughes,Howard.public.md) 
+
+### #is_/same_as :: [Hughes,Howard.internal](/_internal/Technology/Aviation/History_of_Aviation/Hughes,Howard.internal.md) 
+
+### #is_/same_as :: [Hughes,Howard.protect](/_protect/Technology/Aviation/History_of_Aviation/Hughes,Howard.protect.md) 
+
+### #is_/same_as :: [Hughes,Howard.private](/_private/Technology/Aviation/History_of_Aviation/Hughes,Howard.private.md) 
+
+### #is_/same_as :: [Hughes,Howard.personal](/_personal/Technology/Aviation/History_of_Aviation/Hughes,Howard.personal.md) 
+
+### #is_/same_as :: [Hughes,Howard.secret](/_secret/Technology/Aviation/History_of_Aviation/Hughes,Howard.secret.md)
+

@@ -14,3 +14,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/OSI%20model) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OSI_Model](/_Standards/Technology/IT/Computer_Network/OSI_Model.md) 
+
+### #is_/same_as :: [OSI_Model.public](/_public/Technology/IT/Computer_Network/OSI_Model.public.md) 
+
+### #is_/same_as :: [OSI_Model.internal](/_internal/Technology/IT/Computer_Network/OSI_Model.internal.md) 
+
+### #is_/same_as :: [OSI_Model.protect](/_protect/Technology/IT/Computer_Network/OSI_Model.protect.md) 
+
+### #is_/same_as :: [OSI_Model.private](/_private/Technology/IT/Computer_Network/OSI_Model.private.md) 
+
+### #is_/same_as :: [OSI_Model.personal](/_personal/Technology/IT/Computer_Network/OSI_Model.personal.md) 
+
+### #is_/same_as :: [OSI_Model.secret](/_secret/Technology/IT/Computer_Network/OSI_Model.secret.md)
+

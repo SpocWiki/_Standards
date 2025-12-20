@@ -40,17 +40,17 @@ VinylFormat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vinyl_Format](Vinyl_Format.md) 
+### #is_/same_as :: [Vinyl_Format](/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.md) 
 
-### #is_/same_as :: [vinyl_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.public.md) 
+### #is_/same_as :: [Vinyl_Format.public](/_public/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.public.md) 
 
-### #is_/same_as :: [vinyl_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.internal.md) 
+### #is_/same_as :: [Vinyl_Format.internal](/_internal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.internal.md) 
 
-### #is_/same_as :: [vinyl_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.protect.md) 
+### #is_/same_as :: [Vinyl_Format.protect](/_protect/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.protect.md) 
 
-### #is_/same_as :: [vinyl_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.private.md) 
+### #is_/same_as :: [Vinyl_Format.private](/_private/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.private.md) 
 
-### #is_/same_as :: [vinyl_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.personal.md) 
+### #is_/same_as :: [Vinyl_Format.personal](/_personal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.personal.md) 
 
-### #is_/same_as :: [vinyl_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.secret.md)
+### #is_/same_as :: [Vinyl_Format.secret](/_secret/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.secret.md)
 

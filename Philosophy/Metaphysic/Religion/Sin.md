@@ -53,3 +53,22 @@ Stack_Exchange_tag: https://hinduism.stackexchange.com/tags/sin
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sin](/_Standards/Philosophy/Metaphysic/Religion/Sin.md) 
+
+### #is_/same_as :: [Sin.public](/_public/Philosophy/Metaphysic/Religion/Sin.public.md) 
+
+### #is_/same_as :: [Sin.internal](/_internal/Philosophy/Metaphysic/Religion/Sin.internal.md) 
+
+### #is_/same_as :: [Sin.protect](/_protect/Philosophy/Metaphysic/Religion/Sin.protect.md) 
+
+### #is_/same_as :: [Sin.private](/_private/Philosophy/Metaphysic/Religion/Sin.private.md) 
+
+### #is_/same_as :: [Sin.personal](/_personal/Philosophy/Metaphysic/Religion/Sin.personal.md) 
+
+### #is_/same_as :: [Sin.secret](/_secret/Philosophy/Metaphysic/Religion/Sin.secret.md)
+

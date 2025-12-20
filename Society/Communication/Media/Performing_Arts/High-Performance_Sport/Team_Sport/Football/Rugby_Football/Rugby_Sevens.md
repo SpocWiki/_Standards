@@ -29,3 +29,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rugby%20sevens) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rugby_Sevens](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.md) 
+
+### #is_/same_as :: [Rugby_Sevens.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.public.md) 
+
+### #is_/same_as :: [Rugby_Sevens.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.internal.md) 
+
+### #is_/same_as :: [Rugby_Sevens.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.protect.md) 
+
+### #is_/same_as :: [Rugby_Sevens.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.private.md) 
+
+### #is_/same_as :: [Rugby_Sevens.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.personal.md) 
+
+### #is_/same_as :: [Rugby_Sevens.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.secret.md)
+

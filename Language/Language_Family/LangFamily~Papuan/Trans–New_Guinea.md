@@ -34,3 +34,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Trans-New%20Guinea%20l
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trans%E2%80%93New%20Guinea%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trans–New_Guinea](/_Standards/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.md) 
+
+### #is_/same_as :: [Trans–New_Guinea.public](/_public/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.public.md) 
+
+### #is_/same_as :: [Trans–New_Guinea.internal](/_internal/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.internal.md) 
+
+### #is_/same_as :: [Trans–New_Guinea.protect](/_protect/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.protect.md) 
+
+### #is_/same_as :: [Trans–New_Guinea.private](/_private/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.private.md) 
+
+### #is_/same_as :: [Trans–New_Guinea.personal](/_personal/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.personal.md) 
+
+### #is_/same_as :: [Trans–New_Guinea.secret](/_secret/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.secret.md)
+

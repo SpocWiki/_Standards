@@ -50,3 +50,22 @@ booru_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Printed%20circuit%20board) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Printed_Circuit_Board](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.md) 
+
+### #is_/same_as :: [Printed_Circuit_Board.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.public.md) 
+
+### #is_/same_as :: [Printed_Circuit_Board.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.internal.md) 
+
+### #is_/same_as :: [Printed_Circuit_Board.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.protect.md) 
+
+### #is_/same_as :: [Printed_Circuit_Board.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.private.md) 
+
+### #is_/same_as :: [Printed_Circuit_Board.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.personal.md) 
+
+### #is_/same_as :: [Printed_Circuit_Board.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.secret.md)
+

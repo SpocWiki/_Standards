@@ -41,3 +41,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/GARMONIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harmony) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harmony](/_Standards/Society/Communication/Media/Music/Harmony.md) 
+
+### #is_/same_as :: [Harmony.public](/_public/Society/Communication/Media/Music/Harmony.public.md) 
+
+### #is_/same_as :: [Harmony.internal](/_internal/Society/Communication/Media/Music/Harmony.internal.md) 
+
+### #is_/same_as :: [Harmony.protect](/_protect/Society/Communication/Media/Music/Harmony.protect.md) 
+
+### #is_/same_as :: [Harmony.private](/_private/Society/Communication/Media/Music/Harmony.private.md) 
+
+### #is_/same_as :: [Harmony.personal](/_personal/Society/Communication/Media/Music/Harmony.personal.md) 
+
+### #is_/same_as :: [Harmony.secret](/_secret/Society/Communication/Media/Music/Harmony.secret.md)
+

@@ -31,3 +31,22 @@ Commons_category: Continuum mechanics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Continuum%20mechanics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Continuum_Mechanics](/_Standards/Science/Physics/Classical_Mechanics/Continuum_Mechanics.md) 
+
+### #is_/same_as :: [Continuum_Mechanics.public](/_public/Science/Physics/Classical_Mechanics/Continuum_Mechanics.public.md) 
+
+### #is_/same_as :: [Continuum_Mechanics.internal](/_internal/Science/Physics/Classical_Mechanics/Continuum_Mechanics.internal.md) 
+
+### #is_/same_as :: [Continuum_Mechanics.protect](/_protect/Science/Physics/Classical_Mechanics/Continuum_Mechanics.protect.md) 
+
+### #is_/same_as :: [Continuum_Mechanics.private](/_private/Science/Physics/Classical_Mechanics/Continuum_Mechanics.private.md) 
+
+### #is_/same_as :: [Continuum_Mechanics.personal](/_personal/Science/Physics/Classical_Mechanics/Continuum_Mechanics.personal.md) 
+
+### #is_/same_as :: [Continuum_Mechanics.secret](/_secret/Science/Physics/Classical_Mechanics/Continuum_Mechanics.secret.md)
+

@@ -262,17 +262,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physics_Nobel_Prize](Physics_Nobel_Prize.md) 
+### #is_/same_as :: [Physics_Nobel_Prize](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Physics_Nobel_Prize.md) 
 
-### #is_/same_as :: [Physics_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Physics_Nobel_Prize.public.md) 
+### #is_/same_as :: [Physics_Nobel_Prize.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Physics_Nobel_Prize.public.md) 
 
-### #is_/same_as :: [Physics_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Physics_Nobel_Prize.internal.md) 
+### #is_/same_as :: [Physics_Nobel_Prize.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Physics_Nobel_Prize.internal.md) 
 
-### #is_/same_as :: [Physics_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Physics_Nobel_Prize.protect.md) 
+### #is_/same_as :: [Physics_Nobel_Prize.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Physics_Nobel_Prize.protect.md) 
 
-### #is_/same_as :: [Physics_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Physics_Nobel_Prize.private.md) 
+### #is_/same_as :: [Physics_Nobel_Prize.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Physics_Nobel_Prize.private.md) 
 
-### #is_/same_as :: [Physics_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Physics_Nobel_Prize.personal.md) 
+### #is_/same_as :: [Physics_Nobel_Prize.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Physics_Nobel_Prize.personal.md) 
 
-### #is_/same_as :: [Physics_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Physics_Nobel_Prize.secret.md)
+### #is_/same_as :: [Physics_Nobel_Prize.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Physics_Nobel_Prize.secret.md)
 

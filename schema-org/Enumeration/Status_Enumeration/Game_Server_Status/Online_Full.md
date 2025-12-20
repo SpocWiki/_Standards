@@ -40,17 +40,17 @@ Game server status: OnlineFull. Server is online but unavailable. The maximum nu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Online_Full](Online_Full.md) 
+### #is_/same_as :: [Online_Full](/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.md) 
 
-### #is_/same_as :: [online_full.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.public.md) 
+### #is_/same_as :: [Online_Full.public](/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.public.md) 
 
-### #is_/same_as :: [online_full.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.internal.md) 
+### #is_/same_as :: [Online_Full.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.internal.md) 
 
-### #is_/same_as :: [online_full.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.protect.md) 
+### #is_/same_as :: [Online_Full.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.protect.md) 
 
-### #is_/same_as :: [online_full.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.private.md) 
+### #is_/same_as :: [Online_Full.private](/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.private.md) 
 
-### #is_/same_as :: [online_full.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.personal.md) 
+### #is_/same_as :: [Online_Full.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.personal.md) 
 
-### #is_/same_as :: [online_full.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.secret.md)
+### #is_/same_as :: [Online_Full.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.secret.md)
 

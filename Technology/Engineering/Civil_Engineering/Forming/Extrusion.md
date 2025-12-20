@@ -55,3 +55,22 @@ Commons_category: Extrusion
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Extrusion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Extrusion](/_Standards/Technology/Engineering/Civil_Engineering/Forming/Extrusion.md) 
+
+### #is_/same_as :: [Extrusion.public](/_public/Technology/Engineering/Civil_Engineering/Forming/Extrusion.public.md) 
+
+### #is_/same_as :: [Extrusion.internal](/_internal/Technology/Engineering/Civil_Engineering/Forming/Extrusion.internal.md) 
+
+### #is_/same_as :: [Extrusion.protect](/_protect/Technology/Engineering/Civil_Engineering/Forming/Extrusion.protect.md) 
+
+### #is_/same_as :: [Extrusion.private](/_private/Technology/Engineering/Civil_Engineering/Forming/Extrusion.private.md) 
+
+### #is_/same_as :: [Extrusion.personal](/_personal/Technology/Engineering/Civil_Engineering/Forming/Extrusion.personal.md) 
+
+### #is_/same_as :: [Extrusion.secret](/_secret/Technology/Engineering/Civil_Engineering/Forming/Extrusion.secret.md)
+

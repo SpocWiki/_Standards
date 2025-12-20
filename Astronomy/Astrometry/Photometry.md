@@ -31,3 +31,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Photometry%20(astronomy)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Photometry](/_Standards/Astronomy/Astrometry/Photometry.md) 
+
+### #is_/same_as :: [Photometry.public](/_public/Astronomy/Astrometry/Photometry.public.md) 
+
+### #is_/same_as :: [Photometry.internal](/_internal/Astronomy/Astrometry/Photometry.internal.md) 
+
+### #is_/same_as :: [Photometry.protect](/_protect/Astronomy/Astrometry/Photometry.protect.md) 
+
+### #is_/same_as :: [Photometry.private](/_private/Astronomy/Astrometry/Photometry.private.md) 
+
+### #is_/same_as :: [Photometry.personal](/_personal/Astronomy/Astrometry/Photometry.personal.md) 
+
+### #is_/same_as :: [Photometry.secret](/_secret/Astronomy/Astrometry/Photometry.secret.md)
+

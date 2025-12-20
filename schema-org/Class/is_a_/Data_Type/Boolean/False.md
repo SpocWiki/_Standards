@@ -35,17 +35,17 @@ The boolean value false.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FALSE](/_Standards/schema-org/Class/is_a_/data_type/boolean/FALSE.md) 
+### #is_/same_as :: [False](/_Standards/schema-org/Class/is_a_/Data_Type/Boolean/False.md) 
 
-### #is_/same_as :: [FALSE.public](/_public/schema-org/Class/is_a_/data_type/boolean/FALSE.public.md) 
+### #is_/same_as :: [False.public](/_public/schema-org/Class/is_a_/Data_Type/Boolean/False.public.md) 
 
-### #is_/same_as :: [FALSE.internal](/_internal/schema-org/Class/is_a_/data_type/boolean/FALSE.internal.md) 
+### #is_/same_as :: [False.internal](/_internal/schema-org/Class/is_a_/Data_Type/Boolean/False.internal.md) 
 
-### #is_/same_as :: [FALSE.protect](/_protect/schema-org/Class/is_a_/data_type/boolean/FALSE.protect.md) 
+### #is_/same_as :: [False.protect](/_protect/schema-org/Class/is_a_/Data_Type/Boolean/False.protect.md) 
 
-### #is_/same_as :: [FALSE.private](/_private/schema-org/Class/is_a_/data_type/boolean/FALSE.private.md) 
+### #is_/same_as :: [False.private](/_private/schema-org/Class/is_a_/Data_Type/Boolean/False.private.md) 
 
-### #is_/same_as :: [FALSE.personal](/_personal/schema-org/Class/is_a_/data_type/boolean/FALSE.personal.md) 
+### #is_/same_as :: [False.personal](/_personal/schema-org/Class/is_a_/Data_Type/Boolean/False.personal.md) 
 
-### #is_/same_as :: [FALSE.secret](/_secret/schema-org/Class/is_a_/data_type/boolean/FALSE.secret.md)
+### #is_/same_as :: [False.secret](/_secret/schema-org/Class/is_a_/Data_Type/Boolean/False.secret.md)
 

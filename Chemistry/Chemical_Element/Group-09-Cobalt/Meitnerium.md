@@ -49,3 +49,22 @@ CAS_Registry_Number: 54038-01-6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meitnerium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meitnerium](/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.md) 
+
+### #is_/same_as :: [Meitnerium.public](/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.public.md) 
+
+### #is_/same_as :: [Meitnerium.internal](/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.internal.md) 
+
+### #is_/same_as :: [Meitnerium.protect](/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.protect.md) 
+
+### #is_/same_as :: [Meitnerium.private](/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.private.md) 
+
+### #is_/same_as :: [Meitnerium.personal](/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.personal.md) 
+
+### #is_/same_as :: [Meitnerium.secret](/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.secret.md)
+

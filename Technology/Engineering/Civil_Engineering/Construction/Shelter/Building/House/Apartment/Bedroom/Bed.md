@@ -90,17 +90,17 @@ Unicode_character: 🛏
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bed](Bed.md) 
+### #is_/same_as :: [Bed](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.md) 
 
-### #is_/same_as :: [Bed.public](/_public/Technology/Construction/Building/House/Apartment/Bedroom/Bed.public.md) 
+### #is_/same_as :: [Bed.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.public.md) 
 
-### #is_/same_as :: [Bed.internal](/_internal/Technology/Construction/Building/House/Apartment/Bedroom/Bed.internal.md) 
+### #is_/same_as :: [Bed.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.internal.md) 
 
-### #is_/same_as :: [Bed.protect](/_protect/Technology/Construction/Building/House/Apartment/Bedroom/Bed.protect.md) 
+### #is_/same_as :: [Bed.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.protect.md) 
 
-### #is_/same_as :: [Bed.private](/_private/Technology/Construction/Building/House/Apartment/Bedroom/Bed.private.md) 
+### #is_/same_as :: [Bed.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.private.md) 
 
-### #is_/same_as :: [Bed.personal](/_personal/Technology/Construction/Building/House/Apartment/Bedroom/Bed.personal.md) 
+### #is_/same_as :: [Bed.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.personal.md) 
 
-### #is_/same_as :: [Bed.secret](/_secret/Technology/Construction/Building/House/Apartment/Bedroom/Bed.secret.md)
+### #is_/same_as :: [Bed.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom/Bed.secret.md)
 

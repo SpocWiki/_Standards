@@ -85,3 +85,22 @@ Commons_category: Euphrates
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euphrates) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euphrates](/_Standards/Earth/Continent/Asia/Asia~West/Euphrates.md) 
+
+### #is_/same_as :: [Euphrates.public](/_public/Earth/Continent/Asia/Asia~West/Euphrates.public.md) 
+
+### #is_/same_as :: [Euphrates.internal](/_internal/Earth/Continent/Asia/Asia~West/Euphrates.internal.md) 
+
+### #is_/same_as :: [Euphrates.protect](/_protect/Earth/Continent/Asia/Asia~West/Euphrates.protect.md) 
+
+### #is_/same_as :: [Euphrates.private](/_private/Earth/Continent/Asia/Asia~West/Euphrates.private.md) 
+
+### #is_/same_as :: [Euphrates.personal](/_personal/Earth/Continent/Asia/Asia~West/Euphrates.personal.md) 
+
+### #is_/same_as :: [Euphrates.secret](/_secret/Earth/Continent/Asia/Asia~West/Euphrates.secret.md)
+

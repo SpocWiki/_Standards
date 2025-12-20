@@ -46,3 +46,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Partial%20derivative) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Partial_Derivative](/_Standards/Mathematics/Calculus/Derivative/Partial_Derivative.md) 
+
+### #is_/same_as :: [Partial_Derivative.public](/_public/Mathematics/Calculus/Derivative/Partial_Derivative.public.md) 
+
+### #is_/same_as :: [Partial_Derivative.internal](/_internal/Mathematics/Calculus/Derivative/Partial_Derivative.internal.md) 
+
+### #is_/same_as :: [Partial_Derivative.protect](/_protect/Mathematics/Calculus/Derivative/Partial_Derivative.protect.md) 
+
+### #is_/same_as :: [Partial_Derivative.private](/_private/Mathematics/Calculus/Derivative/Partial_Derivative.private.md) 
+
+### #is_/same_as :: [Partial_Derivative.personal](/_personal/Mathematics/Calculus/Derivative/Partial_Derivative.personal.md) 
+
+### #is_/same_as :: [Partial_Derivative.secret](/_secret/Mathematics/Calculus/Derivative/Partial_Derivative.secret.md)
+

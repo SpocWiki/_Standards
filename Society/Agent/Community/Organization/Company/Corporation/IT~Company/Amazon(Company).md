@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amazon(Company)](Amazon(Company).md) 
+### #is_/same_as :: [Amazon(Company)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).md) 
 
-### #is_/same_as :: [Amazon(Company).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company).public.md) 
+### #is_/same_as :: [Amazon(Company).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).public.md) 
 
-### #is_/same_as :: [Amazon(Company).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company).internal.md) 
+### #is_/same_as :: [Amazon(Company).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).internal.md) 
 
-### #is_/same_as :: [Amazon(Company).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company).protect.md) 
+### #is_/same_as :: [Amazon(Company).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).protect.md) 
 
-### #is_/same_as :: [Amazon(Company).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company).private.md) 
+### #is_/same_as :: [Amazon(Company).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).private.md) 
 
-### #is_/same_as :: [Amazon(Company).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company).personal.md) 
+### #is_/same_as :: [Amazon(Company).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).personal.md) 
 
-### #is_/same_as :: [Amazon(Company).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company).secret.md)
+### #is_/same_as :: [Amazon(Company).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company).secret.md)
 

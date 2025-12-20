@@ -32,3 +32,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20lavoisier.jp
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Conservation%20of%20mass) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conservation_of_Mass](/_Standards/Science/Physics/Conservation_Law/Conservation_of_Mass.md) 
+
+### #is_/same_as :: [Conservation_of_Mass.public](/_public/Science/Physics/Conservation_Law/Conservation_of_Mass.public.md) 
+
+### #is_/same_as :: [Conservation_of_Mass.internal](/_internal/Science/Physics/Conservation_Law/Conservation_of_Mass.internal.md) 
+
+### #is_/same_as :: [Conservation_of_Mass.protect](/_protect/Science/Physics/Conservation_Law/Conservation_of_Mass.protect.md) 
+
+### #is_/same_as :: [Conservation_of_Mass.private](/_private/Science/Physics/Conservation_Law/Conservation_of_Mass.private.md) 
+
+### #is_/same_as :: [Conservation_of_Mass.personal](/_personal/Science/Physics/Conservation_Law/Conservation_of_Mass.personal.md) 
+
+### #is_/same_as :: [Conservation_of_Mass.secret](/_secret/Science/Physics/Conservation_Law/Conservation_of_Mass.secret.md)
+

@@ -136,3 +136,22 @@ and [[#closed,dynamic_Monad-Types]] allow to choose and combine these Behaviors 
 This technique employs  [[#open,dynamic_Type-Polymorphism]] to implement Multi-Polymorphism, 
 i.e. the dynamic selection of a Method based on 2 or more Parameters. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polymorphism](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.md) 
+
+### #is_/same_as :: [Polymorphism.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.public.md) 
+
+### #is_/same_as :: [Polymorphism.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.internal.md) 
+
+### #is_/same_as :: [Polymorphism.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.protect.md) 
+
+### #is_/same_as :: [Polymorphism.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.private.md) 
+
+### #is_/same_as :: [Polymorphism.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.personal.md) 
+
+### #is_/same_as :: [Polymorphism.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.secret.md)
+

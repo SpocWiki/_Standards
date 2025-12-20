@@ -64,3 +64,22 @@ last_line: Well, what would you do if your mother asked you?
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Cat%20in%20the%20Hat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cat_in_the_Hat](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.md) 
+
+### #is_/same_as :: [Cat_in_the_Hat.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.public.md) 
+
+### #is_/same_as :: [Cat_in_the_Hat.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.internal.md) 
+
+### #is_/same_as :: [Cat_in_the_Hat.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.protect.md) 
+
+### #is_/same_as :: [Cat_in_the_Hat.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.private.md) 
+
+### #is_/same_as :: [Cat_in_the_Hat.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.personal.md) 
+
+### #is_/same_as :: [Cat_in_the_Hat.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.secret.md)
+

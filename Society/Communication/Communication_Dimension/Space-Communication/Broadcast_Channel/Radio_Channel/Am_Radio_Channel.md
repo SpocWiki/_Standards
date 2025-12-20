@@ -39,17 +39,17 @@ A radio channel that uses AM.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Am_Radio_Channel](Am_Radio_Channel.md) 
+### #is_/same_as :: [Am_Radio_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.md) 
 
-### #is_/same_as :: [am_radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.public.md) 
+### #is_/same_as :: [Am_Radio_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.public.md) 
 
-### #is_/same_as :: [am_radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.internal.md) 
+### #is_/same_as :: [Am_Radio_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.internal.md) 
 
-### #is_/same_as :: [am_radio_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.protect.md) 
+### #is_/same_as :: [Am_Radio_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.protect.md) 
 
-### #is_/same_as :: [am_radio_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.private.md) 
+### #is_/same_as :: [Am_Radio_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.private.md) 
 
-### #is_/same_as :: [am_radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.personal.md) 
+### #is_/same_as :: [Am_Radio_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.personal.md) 
 
-### #is_/same_as :: [am_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.secret.md)
+### #is_/same_as :: [Am_Radio_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.secret.md)
 

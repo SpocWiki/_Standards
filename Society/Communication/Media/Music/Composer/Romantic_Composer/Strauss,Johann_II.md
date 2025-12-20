@@ -137,3 +137,22 @@ panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Monumento%20a
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Strauss%20II) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Strauss,Johann_II](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.md) 
+
+### #is_/same_as :: [Strauss,Johann_II.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.public.md) 
+
+### #is_/same_as :: [Strauss,Johann_II.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.internal.md) 
+
+### #is_/same_as :: [Strauss,Johann_II.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.protect.md) 
+
+### #is_/same_as :: [Strauss,Johann_II.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.private.md) 
+
+### #is_/same_as :: [Strauss,Johann_II.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.personal.md) 
+
+### #is_/same_as :: [Strauss,Johann_II.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.secret.md)
+

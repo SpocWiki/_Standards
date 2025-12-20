@@ -76,3 +76,22 @@ Commons_gallery: Sexual intercourse in humans
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20intercourse) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sexual_Intercourse](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.md) 
+
+### #is_/same_as :: [Sexual_Intercourse.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.public.md) 
+
+### #is_/same_as :: [Sexual_Intercourse.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.internal.md) 
+
+### #is_/same_as :: [Sexual_Intercourse.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.protect.md) 
+
+### #is_/same_as :: [Sexual_Intercourse.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.private.md) 
+
+### #is_/same_as :: [Sexual_Intercourse.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.personal.md) 
+
+### #is_/same_as :: [Sexual_Intercourse.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.secret.md)
+

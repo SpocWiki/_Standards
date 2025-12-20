@@ -49,3 +49,22 @@ male_form_of_label: Matrous
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sailor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seaman](/_Standards/Technology/Transport/Water_Transport/Seaman.md) 
+
+### #is_/same_as :: [Seaman.public](/_public/Technology/Transport/Water_Transport/Seaman.public.md) 
+
+### #is_/same_as :: [Seaman.internal](/_internal/Technology/Transport/Water_Transport/Seaman.internal.md) 
+
+### #is_/same_as :: [Seaman.protect](/_protect/Technology/Transport/Water_Transport/Seaman.protect.md) 
+
+### #is_/same_as :: [Seaman.private](/_private/Technology/Transport/Water_Transport/Seaman.private.md) 
+
+### #is_/same_as :: [Seaman.personal](/_personal/Technology/Transport/Water_Transport/Seaman.personal.md) 
+
+### #is_/same_as :: [Seaman.secret](/_secret/Technology/Transport/Water_Transport/Seaman.secret.md)
+

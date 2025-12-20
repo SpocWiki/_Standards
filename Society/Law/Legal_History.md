@@ -31,3 +31,22 @@ Commons_category: Legal history
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Legal%20history) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Legal_History](/_Standards/Society/Law/Legal_History.md) 
+
+### #is_/same_as :: [Legal_History.public](/_public/Society/Law/Legal_History.public.md) 
+
+### #is_/same_as :: [Legal_History.internal](/_internal/Society/Law/Legal_History.internal.md) 
+
+### #is_/same_as :: [Legal_History.protect](/_protect/Society/Law/Legal_History.protect.md) 
+
+### #is_/same_as :: [Legal_History.private](/_private/Society/Law/Legal_History.private.md) 
+
+### #is_/same_as :: [Legal_History.personal](/_personal/Society/Law/Legal_History.personal.md) 
+
+### #is_/same_as :: [Legal_History.secret](/_secret/Society/Law/Legal_History.secret.md)
+

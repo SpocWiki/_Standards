@@ -129,3 +129,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TSVINGLI_HULDRIH.htm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Huldrych%20Zwingli) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zwingli,Huldrych](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.md) 
+
+### #is_/same_as :: [Zwingli,Huldrych.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.public.md) 
+
+### #is_/same_as :: [Zwingli,Huldrych.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.internal.md) 
+
+### #is_/same_as :: [Zwingli,Huldrych.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.protect.md) 
+
+### #is_/same_as :: [Zwingli,Huldrych.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.private.md) 
+
+### #is_/same_as :: [Zwingli,Huldrych.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.personal.md) 
+
+### #is_/same_as :: [Zwingli,Huldrych.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.secret.md)
+

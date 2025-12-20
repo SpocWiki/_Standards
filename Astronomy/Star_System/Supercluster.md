@@ -30,3 +30,22 @@ Commons_category: Superclusters of galaxies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Supercluster) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Supercluster](/_Standards/Astronomy/Star_System/Supercluster.md) 
+
+### #is_/same_as :: [Supercluster.public](/_public/Astronomy/Star_System/Supercluster.public.md) 
+
+### #is_/same_as :: [Supercluster.internal](/_internal/Astronomy/Star_System/Supercluster.internal.md) 
+
+### #is_/same_as :: [Supercluster.protect](/_protect/Astronomy/Star_System/Supercluster.protect.md) 
+
+### #is_/same_as :: [Supercluster.private](/_private/Astronomy/Star_System/Supercluster.private.md) 
+
+### #is_/same_as :: [Supercluster.personal](/_personal/Astronomy/Star_System/Supercluster.personal.md) 
+
+### #is_/same_as :: [Supercluster.secret](/_secret/Astronomy/Star_System/Supercluster.secret.md)
+

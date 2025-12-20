@@ -57,3 +57,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/IMPR
 > [Wikipedia](https://en.wikipedia.org/wiki/Impressionism) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Impressionism](/_Standards/Society/Communication/Art/Art_History/Impressionism.md) 
+
+### #is_/same_as :: [Impressionism.public](/_public/Society/Communication/Art/Art_History/Impressionism.public.md) 
+
+### #is_/same_as :: [Impressionism.internal](/_internal/Society/Communication/Art/Art_History/Impressionism.internal.md) 
+
+### #is_/same_as :: [Impressionism.protect](/_protect/Society/Communication/Art/Art_History/Impressionism.protect.md) 
+
+### #is_/same_as :: [Impressionism.private](/_private/Society/Communication/Art/Art_History/Impressionism.private.md) 
+
+### #is_/same_as :: [Impressionism.personal](/_personal/Society/Communication/Art/Art_History/Impressionism.personal.md) 
+
+### #is_/same_as :: [Impressionism.secret](/_secret/Society/Communication/Art/Art_History/Impressionism.secret.md)
+

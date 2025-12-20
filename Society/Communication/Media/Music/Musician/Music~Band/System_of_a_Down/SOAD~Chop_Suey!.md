@@ -41,3 +41,22 @@ publication_date: 2001-11-06T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chop%20Suey!) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [SOAD~Chop_Suey!](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.md) 
+
+### #is_/same_as :: [SOAD~Chop_Suey!.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.public.md) 
+
+### #is_/same_as :: [SOAD~Chop_Suey!.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.internal.md) 
+
+### #is_/same_as :: [SOAD~Chop_Suey!.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.protect.md) 
+
+### #is_/same_as :: [SOAD~Chop_Suey!.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.private.md) 
+
+### #is_/same_as :: [SOAD~Chop_Suey!.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.personal.md) 
+
+### #is_/same_as :: [SOAD~Chop_Suey!.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.secret.md)
+

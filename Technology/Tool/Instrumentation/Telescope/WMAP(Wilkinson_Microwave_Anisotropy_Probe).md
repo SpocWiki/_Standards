@@ -101,3 +101,22 @@ UTC_date_of_spacecraft_launch: 2001-06-30T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilkinson%20Microwave%20Anisotropy%20Probe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe)](/_Standards/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).md) 
+
+### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).public](/_public/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).public.md) 
+
+### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).internal](/_internal/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).internal.md) 
+
+### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).protect](/_protect/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).protect.md) 
+
+### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).private](/_private/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).private.md) 
+
+### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).personal](/_personal/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).personal.md) 
+
+### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe).secret](/_secret/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).secret.md)
+

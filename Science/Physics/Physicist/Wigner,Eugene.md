@@ -153,3 +153,22 @@ date_of_death: 1995-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eugene%20Wigner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wigner,Eugene](/_Standards/Science/Physics/Physicist/Wigner,Eugene.md) 
+
+### #is_/same_as :: [Wigner,Eugene.public](/_public/Science/Physics/Physicist/Wigner,Eugene.public.md) 
+
+### #is_/same_as :: [Wigner,Eugene.internal](/_internal/Science/Physics/Physicist/Wigner,Eugene.internal.md) 
+
+### #is_/same_as :: [Wigner,Eugene.protect](/_protect/Science/Physics/Physicist/Wigner,Eugene.protect.md) 
+
+### #is_/same_as :: [Wigner,Eugene.private](/_private/Science/Physics/Physicist/Wigner,Eugene.private.md) 
+
+### #is_/same_as :: [Wigner,Eugene.personal](/_personal/Science/Physics/Physicist/Wigner,Eugene.personal.md) 
+
+### #is_/same_as :: [Wigner,Eugene.secret](/_secret/Science/Physics/Physicist/Wigner,Eugene.secret.md)
+

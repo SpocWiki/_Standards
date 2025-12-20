@@ -158,3 +158,22 @@ NLC_authorities: "038174713"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Walter%20Benjamin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Benjamin,Walter](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.md) 
+
+### #is_/same_as :: [Benjamin,Walter.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.public.md) 
+
+### #is_/same_as :: [Benjamin,Walter.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.internal.md) 
+
+### #is_/same_as :: [Benjamin,Walter.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.protect.md) 
+
+### #is_/same_as :: [Benjamin,Walter.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.private.md) 
+
+### #is_/same_as :: [Benjamin,Walter.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.personal.md) 
+
+### #is_/same_as :: [Benjamin,Walter.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.secret.md)
+

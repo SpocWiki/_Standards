@@ -68,3 +68,22 @@ Commons_category: Fractions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fraction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fraction](/_Standards/Mathematics/Algebra/Elementary_Algebra/Fraction.md) 
+
+### #is_/same_as :: [Fraction.public](/_public/Mathematics/Algebra/Elementary_Algebra/Fraction.public.md) 
+
+### #is_/same_as :: [Fraction.internal](/_internal/Mathematics/Algebra/Elementary_Algebra/Fraction.internal.md) 
+
+### #is_/same_as :: [Fraction.protect](/_protect/Mathematics/Algebra/Elementary_Algebra/Fraction.protect.md) 
+
+### #is_/same_as :: [Fraction.private](/_private/Mathematics/Algebra/Elementary_Algebra/Fraction.private.md) 
+
+### #is_/same_as :: [Fraction.personal](/_personal/Mathematics/Algebra/Elementary_Algebra/Fraction.personal.md) 
+
+### #is_/same_as :: [Fraction.secret](/_secret/Mathematics/Algebra/Elementary_Algebra/Fraction.secret.md)
+

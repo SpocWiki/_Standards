@@ -44,3 +44,22 @@ Commons_category: Confederations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Confederation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Confederation](/_Standards/Society/Politics/Government/Confederation.md) 
+
+### #is_/same_as :: [Confederation.public](/_public/Society/Politics/Government/Confederation.public.md) 
+
+### #is_/same_as :: [Confederation.internal](/_internal/Society/Politics/Government/Confederation.internal.md) 
+
+### #is_/same_as :: [Confederation.protect](/_protect/Society/Politics/Government/Confederation.protect.md) 
+
+### #is_/same_as :: [Confederation.private](/_private/Society/Politics/Government/Confederation.private.md) 
+
+### #is_/same_as :: [Confederation.personal](/_personal/Society/Politics/Government/Confederation.personal.md) 
+
+### #is_/same_as :: [Confederation.secret](/_secret/Society/Politics/Government/Confederation.secret.md)
+

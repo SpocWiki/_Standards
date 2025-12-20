@@ -59,3 +59,22 @@ has_id_wikidata: Q22657
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Concrete) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Concrete](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete.md) 
+
+### #is_/same_as :: [Concrete.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete.public.md) 
+
+### #is_/same_as :: [Concrete.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete.internal.md) 
+
+### #is_/same_as :: [Concrete.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete.protect.md) 
+
+### #is_/same_as :: [Concrete.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete.private.md) 
+
+### #is_/same_as :: [Concrete.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete.personal.md) 
+
+### #is_/same_as :: [Concrete.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete.secret.md)
+

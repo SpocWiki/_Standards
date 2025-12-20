@@ -67,17 +67,17 @@ Commons_category: Simple machines
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Simple_Machine](/_Standards/Technology/Mechanical_Engineering/Simple_Machine.md) 
+### #is_/same_as :: [Simple_Machine](/_Standards/Technology/Engineering/Mechanical_Engineering/Simple_Machine.md) 
 
-### #is_/same_as :: [Simple_Machine.public](/_public/Technology/Mechanical_Engineering/Simple_Machine.public.md) 
+### #is_/same_as :: [Simple_Machine.public](/_public/Technology/Engineering/Mechanical_Engineering/Simple_Machine.public.md) 
 
-### #is_/same_as :: [Simple_Machine.internal](/_internal/Technology/Mechanical_Engineering/Simple_Machine.internal.md) 
+### #is_/same_as :: [Simple_Machine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Simple_Machine.internal.md) 
 
-### #is_/same_as :: [Simple_Machine.protect](/_protect/Technology/Mechanical_Engineering/Simple_Machine.protect.md) 
+### #is_/same_as :: [Simple_Machine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Simple_Machine.protect.md) 
 
-### #is_/same_as :: [Simple_Machine.private](/_private/Technology/Mechanical_Engineering/Simple_Machine.private.md) 
+### #is_/same_as :: [Simple_Machine.private](/_private/Technology/Engineering/Mechanical_Engineering/Simple_Machine.private.md) 
 
-### #is_/same_as :: [Simple_Machine.personal](/_personal/Technology/Mechanical_Engineering/Simple_Machine.personal.md) 
+### #is_/same_as :: [Simple_Machine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Simple_Machine.personal.md) 
 
-### #is_/same_as :: [Simple_Machine.secret](/_secret/Technology/Mechanical_Engineering/Simple_Machine.secret.md)
+### #is_/same_as :: [Simple_Machine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Simple_Machine.secret.md)
 

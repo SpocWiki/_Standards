@@ -83,3 +83,22 @@ Commons_category: Skin cancers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skin%20cancer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skin_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.md) 
+
+### #is_/same_as :: [Skin_Cancer.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.public.md) 
+
+### #is_/same_as :: [Skin_Cancer.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.internal.md) 
+
+### #is_/same_as :: [Skin_Cancer.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.protect.md) 
+
+### #is_/same_as :: [Skin_Cancer.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.private.md) 
+
+### #is_/same_as :: [Skin_Cancer.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.personal.md) 
+
+### #is_/same_as :: [Skin_Cancer.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.secret.md)
+

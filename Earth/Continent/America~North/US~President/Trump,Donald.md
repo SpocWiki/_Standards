@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Trump,Donald
 - "Donald Trump"
@@ -33,4 +33,23 @@ type: private_note
 
 
 `$=JSON.stringify(dv.current(), null) + "-_-_-"`
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trump,Donald](/_Standards/Earth/Continent/America~North/US~President/Trump,Donald.md) 
+
+### #is_/same_as :: [Trump,Donald.public](/_public/Earth/Continent/America~North/US~President/Trump,Donald.public.md) 
+
+### #is_/same_as :: [Trump,Donald.internal](/_internal/Earth/Continent/America~North/US~President/Trump,Donald.internal.md) 
+
+### #is_/same_as :: [Trump,Donald.protect](/_protect/Earth/Continent/America~North/US~President/Trump,Donald.protect.md) 
+
+### #is_/same_as :: [Trump,Donald.private](/_private/Earth/Continent/America~North/US~President/Trump,Donald.private.md) 
+
+### #is_/same_as :: [Trump,Donald.personal](/_personal/Earth/Continent/America~North/US~President/Trump,Donald.personal.md) 
+
+### #is_/same_as :: [Trump,Donald.secret](/_secret/Earth/Continent/America~North/US~President/Trump,Donald.secret.md)
 

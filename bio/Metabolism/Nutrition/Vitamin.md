@@ -175,3 +175,4 @@ NRV = Nährstoffbezugswerte für die tägliche Zufuhr gemäß Lebensmittelinform
 ### #is_/same_as :: [Vitamin.personal](/_personal/bio/Metabolism/Nutrition/Vitamin.personal.md) 
 
 ### #is_/same_as :: [Vitamin.secret](/_secret/bio/Metabolism/Nutrition/Vitamin.secret.md)
+

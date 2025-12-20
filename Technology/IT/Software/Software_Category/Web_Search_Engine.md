@@ -65,3 +65,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Search-engine-diagram-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Search%20engine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Web_Search_Engine](/_Standards/Technology/IT/Software/Software_Category/Web_Search_Engine.md) 
+
+### #is_/same_as :: [Web_Search_Engine.public](/_public/Technology/IT/Software/Software_Category/Web_Search_Engine.public.md) 
+
+### #is_/same_as :: [Web_Search_Engine.internal](/_internal/Technology/IT/Software/Software_Category/Web_Search_Engine.internal.md) 
+
+### #is_/same_as :: [Web_Search_Engine.protect](/_protect/Technology/IT/Software/Software_Category/Web_Search_Engine.protect.md) 
+
+### #is_/same_as :: [Web_Search_Engine.private](/_private/Technology/IT/Software/Software_Category/Web_Search_Engine.private.md) 
+
+### #is_/same_as :: [Web_Search_Engine.personal](/_personal/Technology/IT/Software/Software_Category/Web_Search_Engine.personal.md) 
+
+### #is_/same_as :: [Web_Search_Engine.secret](/_secret/Technology/IT/Software/Software_Category/Web_Search_Engine.secret.md)
+

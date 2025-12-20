@@ -53,3 +53,22 @@ Provenio_UUID: 8514681b-affa-4ef7-9c88-a1c979215351
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poetics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poetics](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poetics.md) 
+
+### #is_/same_as :: [Poetics.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poetics.public.md) 
+
+### #is_/same_as :: [Poetics.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poetics.internal.md) 
+
+### #is_/same_as :: [Poetics.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poetics.protect.md) 
+
+### #is_/same_as :: [Poetics.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poetics.private.md) 
+
+### #is_/same_as :: [Poetics.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poetics.personal.md) 
+
+### #is_/same_as :: [Poetics.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poetics.secret.md)
+

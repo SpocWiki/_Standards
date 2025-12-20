@@ -6,3 +6,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Novelist) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Novelist](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist.md) 
+
+### #is_/same_as :: [Novelist.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist.public.md) 
+
+### #is_/same_as :: [Novelist.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist.internal.md) 
+
+### #is_/same_as :: [Novelist.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist.protect.md) 
+
+### #is_/same_as :: [Novelist.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist.private.md) 
+
+### #is_/same_as :: [Novelist.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist.personal.md) 
+
+### #is_/same_as :: [Novelist.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist.secret.md)
+

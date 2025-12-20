@@ -39,3 +39,21 @@ OmegaWiki_Defined_Meaning: "490269"
 > Tequila is commonly served neat in Mexico and as a shot with salt and lime around the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tequila)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tequila](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Tequila.md) 
+
+### #is_/same_as :: [Tequila.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Tequila.public.md) 
+
+### #is_/same_as :: [Tequila.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Tequila.internal.md) 
+
+### #is_/same_as :: [Tequila.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Tequila.protect.md) 
+
+### #is_/same_as :: [Tequila.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Tequila.private.md) 
+
+### #is_/same_as :: [Tequila.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Tequila.personal.md) 
+
+### #is_/same_as :: [Tequila.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Tequila.secret.md)
+

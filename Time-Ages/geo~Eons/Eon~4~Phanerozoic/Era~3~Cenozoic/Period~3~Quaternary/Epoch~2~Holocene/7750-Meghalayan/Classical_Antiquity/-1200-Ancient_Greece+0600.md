@@ -89,17 +89,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_Greece,7112550]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [8800-Ancient_Greece](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/8800-Ancient_Greece.md) 
+### #is_/same_as :: [-1200-Ancient_Greece+0600](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.md) 
 
-### #is_/same_as :: [8800-Ancient_Greece.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/8800-Ancient_Greece.public.md) 
+### #is_/same_as :: [-1200-Ancient_Greece+0600.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.public.md) 
 
-### #is_/same_as :: [8800-Ancient_Greece.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/8800-Ancient_Greece.internal.md) 
+### #is_/same_as :: [-1200-Ancient_Greece+0600.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.internal.md) 
 
-### #is_/same_as :: [8800-Ancient_Greece.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/8800-Ancient_Greece.protect.md) 
+### #is_/same_as :: [-1200-Ancient_Greece+0600.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.protect.md) 
 
-### #is_/same_as :: [8800-Ancient_Greece.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/8800-Ancient_Greece.private.md) 
+### #is_/same_as :: [-1200-Ancient_Greece+0600.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.private.md) 
 
-### #is_/same_as :: [8800-Ancient_Greece.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/8800-Ancient_Greece.personal.md) 
+### #is_/same_as :: [-1200-Ancient_Greece+0600.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.personal.md) 
 
-### #is_/same_as :: [8800-Ancient_Greece.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/8800-Ancient_Greece.secret.md)
+### #is_/same_as :: [-1200-Ancient_Greece+0600.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.secret.md)
 

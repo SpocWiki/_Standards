@@ -118,3 +118,22 @@ birth_name: Linus Benedict Torvalds
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Linus%20Torvalds) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Torvalds,Linus](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.md) 
+
+### #is_/same_as :: [Torvalds,Linus.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.public.md) 
+
+### #is_/same_as :: [Torvalds,Linus.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.internal.md) 
+
+### #is_/same_as :: [Torvalds,Linus.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.protect.md) 
+
+### #is_/same_as :: [Torvalds,Linus.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.private.md) 
+
+### #is_/same_as :: [Torvalds,Linus.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.personal.md) 
+
+### #is_/same_as :: [Torvalds,Linus.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.secret.md)
+

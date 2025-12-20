@@ -223,3 +223,22 @@ birth_name: Margaret Hilda Roberts
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Margaret%20Thatcher) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thatcher,Margaret](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret.md) 
+
+### #is_/same_as :: [Thatcher,Margaret.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret.public.md) 
+
+### #is_/same_as :: [Thatcher,Margaret.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret.internal.md) 
+
+### #is_/same_as :: [Thatcher,Margaret.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret.protect.md) 
+
+### #is_/same_as :: [Thatcher,Margaret.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret.private.md) 
+
+### #is_/same_as :: [Thatcher,Margaret.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret.personal.md) 
+
+### #is_/same_as :: [Thatcher,Margaret.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret.secret.md)
+

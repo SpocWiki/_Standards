@@ -190,3 +190,22 @@ ISNI: "0000000121032851"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Muhammad) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Muhammad](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad.md) 
+
+### #is_/same_as :: [Muhammad.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad.public.md) 
+
+### #is_/same_as :: [Muhammad.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad.internal.md) 
+
+### #is_/same_as :: [Muhammad.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad.protect.md) 
+
+### #is_/same_as :: [Muhammad.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad.private.md) 
+
+### #is_/same_as :: [Muhammad.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad.personal.md) 
+
+### #is_/same_as :: [Muhammad.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad.secret.md)
+

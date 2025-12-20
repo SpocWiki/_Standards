@@ -20,3 +20,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harm%20principle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harm_Principle](/_Standards/Society/Social_Issues/Human_Rights/Harm_Principle.md) 
+
+### #is_/same_as :: [Harm_Principle.public](/_public/Society/Social_Issues/Human_Rights/Harm_Principle.public.md) 
+
+### #is_/same_as :: [Harm_Principle.internal](/_internal/Society/Social_Issues/Human_Rights/Harm_Principle.internal.md) 
+
+### #is_/same_as :: [Harm_Principle.protect](/_protect/Society/Social_Issues/Human_Rights/Harm_Principle.protect.md) 
+
+### #is_/same_as :: [Harm_Principle.private](/_private/Society/Social_Issues/Human_Rights/Harm_Principle.private.md) 
+
+### #is_/same_as :: [Harm_Principle.personal](/_personal/Society/Social_Issues/Human_Rights/Harm_Principle.personal.md) 
+
+### #is_/same_as :: [Harm_Principle.secret](/_secret/Society/Social_Issues/Human_Rights/Harm_Principle.secret.md)
+

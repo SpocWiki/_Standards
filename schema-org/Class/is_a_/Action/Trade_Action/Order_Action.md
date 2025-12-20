@@ -39,17 +39,17 @@ An agent orders an object/product/service to be delivered/sent.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [order_action](/_Standards/schema-org/Class/is_a_/action/trade_action/order_action.md) 
+### #is_/same_as :: [Order_Action](/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.md) 
 
-### #is_/same_as :: [order_action.public](/_public/schema-org/Class/is_a_/action/trade_action/order_action.public.md) 
+### #is_/same_as :: [Order_Action.public](/_public/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.public.md) 
 
-### #is_/same_as :: [order_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/order_action.internal.md) 
+### #is_/same_as :: [Order_Action.internal](/_internal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.internal.md) 
 
-### #is_/same_as :: [order_action.protect](/_protect/schema-org/Class/is_a_/action/trade_action/order_action.protect.md) 
+### #is_/same_as :: [Order_Action.protect](/_protect/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.protect.md) 
 
-### #is_/same_as :: [order_action.private](/_private/schema-org/Class/is_a_/action/trade_action/order_action.private.md) 
+### #is_/same_as :: [Order_Action.private](/_private/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.private.md) 
 
-### #is_/same_as :: [order_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/order_action.personal.md) 
+### #is_/same_as :: [Order_Action.personal](/_personal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.personal.md) 
 
-### #is_/same_as :: [order_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/order_action.secret.md)
+### #is_/same_as :: [Order_Action.secret](/_secret/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.secret.md)
 

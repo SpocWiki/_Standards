@@ -47,3 +47,22 @@ Commons_category: Geodesy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geodesy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geodesy](/_Standards/Earth/Geography/Cartography/Geodesy.md) 
+
+### #is_/same_as :: [Geodesy.public](/_public/Earth/Geography/Cartography/Geodesy.public.md) 
+
+### #is_/same_as :: [Geodesy.internal](/_internal/Earth/Geography/Cartography/Geodesy.internal.md) 
+
+### #is_/same_as :: [Geodesy.protect](/_protect/Earth/Geography/Cartography/Geodesy.protect.md) 
+
+### #is_/same_as :: [Geodesy.private](/_private/Earth/Geography/Cartography/Geodesy.private.md) 
+
+### #is_/same_as :: [Geodesy.personal](/_personal/Earth/Geography/Cartography/Geodesy.personal.md) 
+
+### #is_/same_as :: [Geodesy.secret](/_secret/Earth/Geography/Cartography/Geodesy.secret.md)
+

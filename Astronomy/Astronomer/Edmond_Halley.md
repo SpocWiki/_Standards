@@ -36,3 +36,22 @@ has_id_wikidata: Q47434
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edmond%20Halley) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Edmond_Halley](/_Standards/Astronomy/Astronomer/Edmond_Halley.md) 
+
+### #is_/same_as :: [Edmond_Halley.public](/_public/Astronomy/Astronomer/Edmond_Halley.public.md) 
+
+### #is_/same_as :: [Edmond_Halley.internal](/_internal/Astronomy/Astronomer/Edmond_Halley.internal.md) 
+
+### #is_/same_as :: [Edmond_Halley.protect](/_protect/Astronomy/Astronomer/Edmond_Halley.protect.md) 
+
+### #is_/same_as :: [Edmond_Halley.private](/_private/Astronomy/Astronomer/Edmond_Halley.private.md) 
+
+### #is_/same_as :: [Edmond_Halley.personal](/_personal/Astronomy/Astronomer/Edmond_Halley.personal.md) 
+
+### #is_/same_as :: [Edmond_Halley.secret](/_secret/Astronomy/Astronomer/Edmond_Halley.secret.md)
+

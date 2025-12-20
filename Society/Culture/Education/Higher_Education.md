@@ -18,3 +18,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tertiary%20education) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Higher_Education](/_Standards/Society/Culture/Education/Higher_Education.md) 
+
+### #is_/same_as :: [Higher_Education.public](/_public/Society/Culture/Education/Higher_Education.public.md) 
+
+### #is_/same_as :: [Higher_Education.internal](/_internal/Society/Culture/Education/Higher_Education.internal.md) 
+
+### #is_/same_as :: [Higher_Education.protect](/_protect/Society/Culture/Education/Higher_Education.protect.md) 
+
+### #is_/same_as :: [Higher_Education.private](/_private/Society/Culture/Education/Higher_Education.private.md) 
+
+### #is_/same_as :: [Higher_Education.personal](/_personal/Society/Culture/Education/Higher_Education.personal.md) 
+
+### #is_/same_as :: [Higher_Education.secret](/_secret/Society/Culture/Education/Higher_Education.secret.md)
+

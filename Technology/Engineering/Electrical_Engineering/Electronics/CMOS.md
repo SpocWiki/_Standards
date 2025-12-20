@@ -57,3 +57,22 @@ but Consumption rises with Clock Speed.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/CMOS) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CMOS](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.md) 
+
+### #is_/same_as :: [CMOS.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.public.md) 
+
+### #is_/same_as :: [CMOS.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.internal.md) 
+
+### #is_/same_as :: [CMOS.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.protect.md) 
+
+### #is_/same_as :: [CMOS.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.private.md) 
+
+### #is_/same_as :: [CMOS.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.personal.md) 
+
+### #is_/same_as :: [CMOS.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.secret.md)
+

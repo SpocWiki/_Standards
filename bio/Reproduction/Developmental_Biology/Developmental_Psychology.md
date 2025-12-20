@@ -59,3 +59,22 @@ MeSH_tree_code: F04.096.628.270
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Developmental%20psychology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Developmental_Psychology](/_Standards/bio/Reproduction/Developmental_Biology/Developmental_Psychology.md) 
+
+### #is_/same_as :: [Developmental_Psychology.public](/_public/bio/Reproduction/Developmental_Biology/Developmental_Psychology.public.md) 
+
+### #is_/same_as :: [Developmental_Psychology.internal](/_internal/bio/Reproduction/Developmental_Biology/Developmental_Psychology.internal.md) 
+
+### #is_/same_as :: [Developmental_Psychology.protect](/_protect/bio/Reproduction/Developmental_Biology/Developmental_Psychology.protect.md) 
+
+### #is_/same_as :: [Developmental_Psychology.private](/_private/bio/Reproduction/Developmental_Biology/Developmental_Psychology.private.md) 
+
+### #is_/same_as :: [Developmental_Psychology.personal](/_personal/bio/Reproduction/Developmental_Biology/Developmental_Psychology.personal.md) 
+
+### #is_/same_as :: [Developmental_Psychology.secret](/_secret/bio/Reproduction/Developmental_Biology/Developmental_Psychology.secret.md)
+

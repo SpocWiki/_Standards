@@ -57,3 +57,22 @@ IMDb_keyword: space-station
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20station) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Space_Station](/_Standards/Technology/Spaceflight/Space_Station.md) 
+
+### #is_/same_as :: [Space_Station.public](/_public/Technology/Spaceflight/Space_Station.public.md) 
+
+### #is_/same_as :: [Space_Station.internal](/_internal/Technology/Spaceflight/Space_Station.internal.md) 
+
+### #is_/same_as :: [Space_Station.protect](/_protect/Technology/Spaceflight/Space_Station.protect.md) 
+
+### #is_/same_as :: [Space_Station.private](/_private/Technology/Spaceflight/Space_Station.private.md) 
+
+### #is_/same_as :: [Space_Station.personal](/_personal/Technology/Spaceflight/Space_Station.personal.md) 
+
+### #is_/same_as :: [Space_Station.secret](/_secret/Technology/Spaceflight/Space_Station.secret.md)
+

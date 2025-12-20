@@ -85,3 +85,22 @@ ISNI: "0000000107178678"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Dewar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dewar,James](/_Standards/Chemistry/Chemist/Dewar,James.md) 
+
+### #is_/same_as :: [Dewar,James.public](/_public/Chemistry/Chemist/Dewar,James.public.md) 
+
+### #is_/same_as :: [Dewar,James.internal](/_internal/Chemistry/Chemist/Dewar,James.internal.md) 
+
+### #is_/same_as :: [Dewar,James.protect](/_protect/Chemistry/Chemist/Dewar,James.protect.md) 
+
+### #is_/same_as :: [Dewar,James.private](/_private/Chemistry/Chemist/Dewar,James.private.md) 
+
+### #is_/same_as :: [Dewar,James.personal](/_personal/Chemistry/Chemist/Dewar,James.personal.md) 
+
+### #is_/same_as :: [Dewar,James.secret](/_secret/Chemistry/Chemist/Dewar,James.secret.md)
+

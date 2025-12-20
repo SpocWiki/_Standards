@@ -20,17 +20,17 @@ has_id_wikidata: Q156530
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antineutron](/_Standards/Science/Physics/Antimatter/Antineutron.md) 
+### #is_/same_as :: [Antineutron](/_Standards/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.md) 
 
-### #is_/same_as :: [Antineutron.public](/_public/Science/Physics/Antimatter/Antineutron.public.md) 
+### #is_/same_as :: [Antineutron.public](/_public/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.public.md) 
 
-### #is_/same_as :: [Antineutron.internal](/_internal/Science/Physics/Antimatter/Antineutron.internal.md) 
+### #is_/same_as :: [Antineutron.internal](/_internal/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.internal.md) 
 
-### #is_/same_as :: [Antineutron.protect](/_protect/Science/Physics/Antimatter/Antineutron.protect.md) 
+### #is_/same_as :: [Antineutron.protect](/_protect/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.protect.md) 
 
-### #is_/same_as :: [Antineutron.private](/_private/Science/Physics/Antimatter/Antineutron.private.md) 
+### #is_/same_as :: [Antineutron.private](/_private/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.private.md) 
 
-### #is_/same_as :: [Antineutron.personal](/_personal/Science/Physics/Antimatter/Antineutron.personal.md) 
+### #is_/same_as :: [Antineutron.personal](/_personal/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.personal.md) 
 
-### #is_/same_as :: [Antineutron.secret](/_secret/Science/Physics/Antimatter/Antineutron.secret.md)
+### #is_/same_as :: [Antineutron.secret](/_secret/Science/Physics/Quantum_Mechanics/Antimatter/Antineutron.secret.md)
 

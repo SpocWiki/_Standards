@@ -56,3 +56,22 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strait%20of%20Malacca) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Strait_of_Malacca](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.md) 
+
+### #is_/same_as :: [Strait_of_Malacca.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.public.md) 
+
+### #is_/same_as :: [Strait_of_Malacca.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.internal.md) 
+
+### #is_/same_as :: [Strait_of_Malacca.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.protect.md) 
+
+### #is_/same_as :: [Strait_of_Malacca.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.private.md) 
+
+### #is_/same_as :: [Strait_of_Malacca.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.personal.md) 
+
+### #is_/same_as :: [Strait_of_Malacca.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.secret.md)
+

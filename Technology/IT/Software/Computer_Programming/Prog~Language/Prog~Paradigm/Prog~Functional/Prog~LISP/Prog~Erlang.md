@@ -29,3 +29,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Erlang%20(programming%20language))
 
 Notably [[RabbitMQ]] is written in [[Prog~Erlang]]. 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Erlang](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.md) 
+
+### #is_/same_as :: [Prog~Erlang.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.public.md) 
+
+### #is_/same_as :: [Prog~Erlang.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.internal.md) 
+
+### #is_/same_as :: [Prog~Erlang.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.protect.md) 
+
+### #is_/same_as :: [Prog~Erlang.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.private.md) 
+
+### #is_/same_as :: [Prog~Erlang.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.personal.md) 
+
+### #is_/same_as :: [Prog~Erlang.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.secret.md)
+

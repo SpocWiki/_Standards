@@ -52,3 +52,22 @@ GeoNames_feature_code: L.CST
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coast) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coast](/_Standards/Earth/Geology/Landform/Coast.md) 
+
+### #is_/same_as :: [Coast.public](/_public/Earth/Geology/Landform/Coast.public.md) 
+
+### #is_/same_as :: [Coast.internal](/_internal/Earth/Geology/Landform/Coast.internal.md) 
+
+### #is_/same_as :: [Coast.protect](/_protect/Earth/Geology/Landform/Coast.protect.md) 
+
+### #is_/same_as :: [Coast.private](/_private/Earth/Geology/Landform/Coast.private.md) 
+
+### #is_/same_as :: [Coast.personal](/_personal/Earth/Geology/Landform/Coast.personal.md) 
+
+### #is_/same_as :: [Coast.secret](/_secret/Earth/Geology/Landform/Coast.secret.md)
+

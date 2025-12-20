@@ -42,3 +42,22 @@ Commons_category: Supermassive black holes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Supermassive%20black%20hole) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Supermassive_Black_Hole](/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole.md) 
+
+### #is_/same_as :: [Supermassive_Black_Hole.public](/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public.md) 
+
+### #is_/same_as :: [Supermassive_Black_Hole.internal](/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal.md) 
+
+### #is_/same_as :: [Supermassive_Black_Hole.protect](/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect.md) 
+
+### #is_/same_as :: [Supermassive_Black_Hole.private](/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private.md) 
+
+### #is_/same_as :: [Supermassive_Black_Hole.personal](/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal.md) 
+
+### #is_/same_as :: [Supermassive_Black_Hole.secret](/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret.md)
+

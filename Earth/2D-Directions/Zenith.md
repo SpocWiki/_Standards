@@ -36,3 +36,22 @@ Commons_category: Zenith (topography)
 > [Wikipedia](https://en.wikipedia.org/wiki/Zenith) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zenith](/_Standards/Earth/2D-Directions/Zenith.md) 
+
+### #is_/same_as :: [Zenith.public](/_public/Earth/2D-Directions/Zenith.public.md) 
+
+### #is_/same_as :: [Zenith.internal](/_internal/Earth/2D-Directions/Zenith.internal.md) 
+
+### #is_/same_as :: [Zenith.protect](/_protect/Earth/2D-Directions/Zenith.protect.md) 
+
+### #is_/same_as :: [Zenith.private](/_private/Earth/2D-Directions/Zenith.private.md) 
+
+### #is_/same_as :: [Zenith.personal](/_personal/Earth/2D-Directions/Zenith.personal.md) 
+
+### #is_/same_as :: [Zenith.secret](/_secret/Earth/2D-Directions/Zenith.secret.md)
+

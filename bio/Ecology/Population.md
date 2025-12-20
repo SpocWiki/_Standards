@@ -64,3 +64,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20biology%20%28
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Population) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Population](/_Standards/bio/Ecology/Population.md) 
+
+### #is_/same_as :: [Population.public](/_public/bio/Ecology/Population.public.md) 
+
+### #is_/same_as :: [Population.internal](/_internal/bio/Ecology/Population.internal.md) 
+
+### #is_/same_as :: [Population.protect](/_protect/bio/Ecology/Population.protect.md) 
+
+### #is_/same_as :: [Population.private](/_private/bio/Ecology/Population.private.md) 
+
+### #is_/same_as :: [Population.personal](/_personal/bio/Ecology/Population.personal.md) 
+
+### #is_/same_as :: [Population.secret](/_secret/bio/Ecology/Population.secret.md)
+

@@ -84,3 +84,22 @@ OpenStreetMap_tag_or_key: Tag:historic=monument
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monument) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monument](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.md) 
+
+### #is_/same_as :: [Monument.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.public.md) 
+
+### #is_/same_as :: [Monument.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.internal.md) 
+
+### #is_/same_as :: [Monument.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.protect.md) 
+
+### #is_/same_as :: [Monument.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.private.md) 
+
+### #is_/same_as :: [Monument.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.personal.md) 
+
+### #is_/same_as :: [Monument.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.secret.md)
+

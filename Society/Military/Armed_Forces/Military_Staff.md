@@ -37,3 +37,22 @@ Commons_category: Military staff
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Staff%20(military)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Staff](/_Standards/Society/Military/Armed_Forces/Military_Staff.md) 
+
+### #is_/same_as :: [Military_Staff.public](/_public/Society/Military/Armed_Forces/Military_Staff.public.md) 
+
+### #is_/same_as :: [Military_Staff.internal](/_internal/Society/Military/Armed_Forces/Military_Staff.internal.md) 
+
+### #is_/same_as :: [Military_Staff.protect](/_protect/Society/Military/Armed_Forces/Military_Staff.protect.md) 
+
+### #is_/same_as :: [Military_Staff.private](/_private/Society/Military/Armed_Forces/Military_Staff.private.md) 
+
+### #is_/same_as :: [Military_Staff.personal](/_personal/Society/Military/Armed_Forces/Military_Staff.personal.md) 
+
+### #is_/same_as :: [Military_Staff.secret](/_secret/Society/Military/Armed_Forces/Military_Staff.secret.md)
+

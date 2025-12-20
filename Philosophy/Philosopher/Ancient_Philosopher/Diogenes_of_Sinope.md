@@ -21,3 +21,22 @@ has_id_wikidata: Q59180
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diogenes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diogenes_of_Sinope](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.md) 
+
+### #is_/same_as :: [Diogenes_of_Sinope.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.public.md) 
+
+### #is_/same_as :: [Diogenes_of_Sinope.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.internal.md) 
+
+### #is_/same_as :: [Diogenes_of_Sinope.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.protect.md) 
+
+### #is_/same_as :: [Diogenes_of_Sinope.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.private.md) 
+
+### #is_/same_as :: [Diogenes_of_Sinope.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.personal.md) 
+
+### #is_/same_as :: [Diogenes_of_Sinope.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.secret.md)
+

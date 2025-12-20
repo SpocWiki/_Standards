@@ -34,3 +34,22 @@ MeSH_tree_code: I03.450.642
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Recreation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Recreation](/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.md) 
+
+### #is_/same_as :: [Recreation.public](/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.public.md) 
+
+### #is_/same_as :: [Recreation.internal](/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.internal.md) 
+
+### #is_/same_as :: [Recreation.protect](/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.protect.md) 
+
+### #is_/same_as :: [Recreation.private](/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.private.md) 
+
+### #is_/same_as :: [Recreation.personal](/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.personal.md) 
+
+### #is_/same_as :: [Recreation.secret](/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.secret.md)
+

@@ -121,3 +121,22 @@ work_period_start_: 1971-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Daniel%20Day-Lewis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Day-Lewis,Daniel](/_Standards/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.md) 
+
+### #is_/same_as :: [Day-Lewis,Daniel.public](/_public/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.public.md) 
+
+### #is_/same_as :: [Day-Lewis,Daniel.internal](/_internal/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.internal.md) 
+
+### #is_/same_as :: [Day-Lewis,Daniel.protect](/_protect/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.protect.md) 
+
+### #is_/same_as :: [Day-Lewis,Daniel.private](/_private/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.private.md) 
+
+### #is_/same_as :: [Day-Lewis,Daniel.personal](/_personal/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.personal.md) 
+
+### #is_/same_as :: [Day-Lewis,Daniel.secret](/_secret/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.secret.md)
+

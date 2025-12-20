@@ -52,17 +52,17 @@ Commons_category: Languages by family
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang~Family](/_Standards/Language/Lang~Family.md) 
+### #is_/same_as :: [Language_Family](/_Standards/Language/Language_Family.md) 
 
-### #is_/same_as :: [Lang~Family.public](/_public/Language/Lang~Family.public.md) 
+### #is_/same_as :: [Language_Family.public](/_public/Language/Language_Family.public.md) 
 
-### #is_/same_as :: [Lang~Family.internal](/_internal/Language/Lang~Family.internal.md) 
+### #is_/same_as :: [Language_Family.internal](/_internal/Language/Language_Family.internal.md) 
 
-### #is_/same_as :: [Lang~Family.protect](/_protect/Language/Lang~Family.protect.md) 
+### #is_/same_as :: [Language_Family.protect](/_protect/Language/Language_Family.protect.md) 
 
-### #is_/same_as :: [Lang~Family.private](/_private/Language/Lang~Family.private.md) 
+### #is_/same_as :: [Language_Family.private](/_private/Language/Language_Family.private.md) 
 
-### #is_/same_as :: [Lang~Family.personal](/_personal/Language/Lang~Family.personal.md) 
+### #is_/same_as :: [Language_Family.personal](/_personal/Language/Language_Family.personal.md) 
 
-### #is_/same_as :: [Lang~Family.secret](/_secret/Language/Lang~Family.secret.md)
+### #is_/same_as :: [Language_Family.secret](/_secret/Language/Language_Family.secret.md)
 

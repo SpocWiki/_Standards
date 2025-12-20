@@ -39,17 +39,17 @@ A plumbing service.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plumber](Plumber.md) 
+### #is_/same_as :: [Plumber](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Plumber.md) 
 
-### #is_/same_as :: [Plumber.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.public.md) 
+### #is_/same_as :: [Plumber.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Plumber.public.md) 
 
-### #is_/same_as :: [Plumber.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.internal.md) 
+### #is_/same_as :: [Plumber.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Plumber.internal.md) 
 
-### #is_/same_as :: [Plumber.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.protect.md) 
+### #is_/same_as :: [Plumber.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Plumber.protect.md) 
 
-### #is_/same_as :: [Plumber.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.private.md) 
+### #is_/same_as :: [Plumber.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Plumber.private.md) 
 
-### #is_/same_as :: [Plumber.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.personal.md) 
+### #is_/same_as :: [Plumber.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Plumber.personal.md) 
 
-### #is_/same_as :: [Plumber.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.secret.md)
+### #is_/same_as :: [Plumber.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Plumber.secret.md)
 

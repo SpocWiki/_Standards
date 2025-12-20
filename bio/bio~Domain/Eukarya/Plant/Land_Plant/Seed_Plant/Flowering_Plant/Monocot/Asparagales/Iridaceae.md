@@ -85,3 +85,22 @@ NBN_System_Key: NBNSYS0000160233
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iridaceae)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Iridaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae.md) 
+
+### #is_/same_as :: [Iridaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae.public.md) 
+
+### #is_/same_as :: [Iridaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae.internal.md) 
+
+### #is_/same_as :: [Iridaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae.protect.md) 
+
+### #is_/same_as :: [Iridaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae.private.md) 
+
+### #is_/same_as :: [Iridaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae.personal.md) 
+
+### #is_/same_as :: [Iridaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae.secret.md)
+

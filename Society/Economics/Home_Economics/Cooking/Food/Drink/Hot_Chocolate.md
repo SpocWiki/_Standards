@@ -60,3 +60,22 @@ Wolfram_Language_entity_code: Entity["Food", "HOTCOCOA::np357"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hot%20chocolate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hot_Chocolate](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.md) 
+
+### #is_/same_as :: [Hot_Chocolate.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.public.md) 
+
+### #is_/same_as :: [Hot_Chocolate.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.internal.md) 
+
+### #is_/same_as :: [Hot_Chocolate.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.protect.md) 
+
+### #is_/same_as :: [Hot_Chocolate.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.private.md) 
+
+### #is_/same_as :: [Hot_Chocolate.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.personal.md) 
+
+### #is_/same_as :: [Hot_Chocolate.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.secret.md)
+

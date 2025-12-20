@@ -37,3 +37,22 @@ OpenStreetMap_tag: healthcare:speciality=humanistic
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Humanistic%20psychology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Humanistic_Psychology](/_Standards/bio/Psychology/Humanistic_Psychology.md) 
+
+### #is_/same_as :: [Humanistic_Psychology.public](/_public/bio/Psychology/Humanistic_Psychology.public.md) 
+
+### #is_/same_as :: [Humanistic_Psychology.internal](/_internal/bio/Psychology/Humanistic_Psychology.internal.md) 
+
+### #is_/same_as :: [Humanistic_Psychology.protect](/_protect/bio/Psychology/Humanistic_Psychology.protect.md) 
+
+### #is_/same_as :: [Humanistic_Psychology.private](/_private/bio/Psychology/Humanistic_Psychology.private.md) 
+
+### #is_/same_as :: [Humanistic_Psychology.personal](/_personal/bio/Psychology/Humanistic_Psychology.personal.md) 
+
+### #is_/same_as :: [Humanistic_Psychology.secret](/_secret/bio/Psychology/Humanistic_Psychology.secret.md)
+

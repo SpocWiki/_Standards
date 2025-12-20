@@ -43,3 +43,21 @@ UNII: Z38C7FBM49
 > The **Turnip** or white turnip (Brassica rapa subsp. rapa) is a root vegetable commonly grown in temperate climates worldwide for its white, fleshy taproot. Small, tender varieties are grown for human consumption, while larger varieties are grown as feed for livestock. The name turnip – used in many regions – may also be used to refer to rutabaga (or neep or swede), which is a different but related vegetable.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turnip)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turnip](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.md) 
+
+### #is_/same_as :: [Turnip.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.public.md) 
+
+### #is_/same_as :: [Turnip.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.internal.md) 
+
+### #is_/same_as :: [Turnip.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.protect.md) 
+
+### #is_/same_as :: [Turnip.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.private.md) 
+
+### #is_/same_as :: [Turnip.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.personal.md) 
+
+### #is_/same_as :: [Turnip.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Turnip.secret.md)
+

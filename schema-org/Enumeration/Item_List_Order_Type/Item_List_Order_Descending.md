@@ -40,17 +40,17 @@ An ItemList ordered with higher values listed first.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_List_Order_Descending](Item_List_Order_Descending.md) 
+### #is_/same_as :: [Item_List_Order_Descending](/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.md) 
 
-### #is_/same_as :: [item_list_order_descending.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_descending.public.md) 
+### #is_/same_as :: [Item_List_Order_Descending.public](/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.public.md) 
 
-### #is_/same_as :: [item_list_order_descending.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_descending.internal.md) 
+### #is_/same_as :: [Item_List_Order_Descending.internal](/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.internal.md) 
 
-### #is_/same_as :: [item_list_order_descending.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_descending.protect.md) 
+### #is_/same_as :: [Item_List_Order_Descending.protect](/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.protect.md) 
 
-### #is_/same_as :: [item_list_order_descending.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_descending.private.md) 
+### #is_/same_as :: [Item_List_Order_Descending.private](/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.private.md) 
 
-### #is_/same_as :: [item_list_order_descending.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_descending.personal.md) 
+### #is_/same_as :: [Item_List_Order_Descending.personal](/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.personal.md) 
 
-### #is_/same_as :: [item_list_order_descending.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_descending.secret.md)
+### #is_/same_as :: [Item_List_Order_Descending.secret](/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.secret.md)
 

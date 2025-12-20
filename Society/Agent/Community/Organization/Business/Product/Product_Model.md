@@ -39,17 +39,17 @@ A datasheet or vendor specification of a product (in the sense of a prototypical
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Product_Model](Product_Model.md) 
+### #is_/same_as :: [Product_Model](/_Standards/Society/Agent/Community/Organization/Business/Product/Product_Model.md) 
 
-### #is_/same_as :: [product_model.public](/_public/schema-org/Class/is_a_/product/product_model.public.md) 
+### #is_/same_as :: [Product_Model.public](/_public/Society/Agent/Community/Organization/Business/Product/Product_Model.public.md) 
 
-### #is_/same_as :: [product_model.internal](/_internal/schema-org/Class/is_a_/product/product_model.internal.md) 
+### #is_/same_as :: [Product_Model.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Product_Model.internal.md) 
 
-### #is_/same_as :: [product_model.protect](/_protect/schema-org/Class/is_a_/product/product_model.protect.md) 
+### #is_/same_as :: [Product_Model.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Product_Model.protect.md) 
 
-### #is_/same_as :: [product_model.private](/_private/schema-org/Class/is_a_/product/product_model.private.md) 
+### #is_/same_as :: [Product_Model.private](/_private/Society/Agent/Community/Organization/Business/Product/Product_Model.private.md) 
 
-### #is_/same_as :: [product_model.personal](/_personal/schema-org/Class/is_a_/product/product_model.personal.md) 
+### #is_/same_as :: [Product_Model.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Product_Model.personal.md) 
 
-### #is_/same_as :: [product_model.secret](/_secret/schema-org/Class/is_a_/product/product_model.secret.md)
+### #is_/same_as :: [Product_Model.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Product_Model.secret.md)
 

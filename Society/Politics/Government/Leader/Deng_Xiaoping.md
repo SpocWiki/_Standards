@@ -126,3 +126,22 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deng%20Xiaoping) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Deng_Xiaoping](/_Standards/Society/Politics/Government/Leader/Deng_Xiaoping.md) 
+
+### #is_/same_as :: [Deng_Xiaoping.public](/_public/Society/Politics/Government/Leader/Deng_Xiaoping.public.md) 
+
+### #is_/same_as :: [Deng_Xiaoping.internal](/_internal/Society/Politics/Government/Leader/Deng_Xiaoping.internal.md) 
+
+### #is_/same_as :: [Deng_Xiaoping.protect](/_protect/Society/Politics/Government/Leader/Deng_Xiaoping.protect.md) 
+
+### #is_/same_as :: [Deng_Xiaoping.private](/_private/Society/Politics/Government/Leader/Deng_Xiaoping.private.md) 
+
+### #is_/same_as :: [Deng_Xiaoping.personal](/_personal/Society/Politics/Government/Leader/Deng_Xiaoping.personal.md) 
+
+### #is_/same_as :: [Deng_Xiaoping.secret](/_secret/Society/Politics/Government/Leader/Deng_Xiaoping.secret.md)
+

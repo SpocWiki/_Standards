@@ -41,3 +41,22 @@ Commons_category: Ionosphere
 > resulting in effects such as deflection in their path and delay in the arrival of the signal.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionosphere) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ionosphere](/_Standards/Earth/Climate/Atmosphere,Earth/Ionosphere.md) 
+
+### #is_/same_as :: [Ionosphere.public](/_public/Earth/Climate/Atmosphere,Earth/Ionosphere.public.md) 
+
+### #is_/same_as :: [Ionosphere.internal](/_internal/Earth/Climate/Atmosphere,Earth/Ionosphere.internal.md) 
+
+### #is_/same_as :: [Ionosphere.protect](/_protect/Earth/Climate/Atmosphere,Earth/Ionosphere.protect.md) 
+
+### #is_/same_as :: [Ionosphere.private](/_private/Earth/Climate/Atmosphere,Earth/Ionosphere.private.md) 
+
+### #is_/same_as :: [Ionosphere.personal](/_personal/Earth/Climate/Atmosphere,Earth/Ionosphere.personal.md) 
+
+### #is_/same_as :: [Ionosphere.secret](/_secret/Earth/Climate/Atmosphere,Earth/Ionosphere.secret.md)
+

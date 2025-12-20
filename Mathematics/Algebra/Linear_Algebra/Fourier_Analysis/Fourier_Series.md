@@ -130,3 +130,22 @@ Commons_category: Fourier series
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fourier%20series) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fourier_Series](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.md) 
+
+### #is_/same_as :: [Fourier_Series.public](/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.public.md) 
+
+### #is_/same_as :: [Fourier_Series.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.internal.md) 
+
+### #is_/same_as :: [Fourier_Series.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.protect.md) 
+
+### #is_/same_as :: [Fourier_Series.private](/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.private.md) 
+
+### #is_/same_as :: [Fourier_Series.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.personal.md) 
+
+### #is_/same_as :: [Fourier_Series.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Series.secret.md)
+

@@ -52,3 +52,22 @@ IPTC_NewsCode: mediatopic/20000383
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Recession) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Recession](/_Standards/Society/Economics/Economy/Recession.md) 
+
+### #is_/same_as :: [Recession.public](/_public/Society/Economics/Economy/Recession.public.md) 
+
+### #is_/same_as :: [Recession.internal](/_internal/Society/Economics/Economy/Recession.internal.md) 
+
+### #is_/same_as :: [Recession.protect](/_protect/Society/Economics/Economy/Recession.protect.md) 
+
+### #is_/same_as :: [Recession.private](/_private/Society/Economics/Economy/Recession.private.md) 
+
+### #is_/same_as :: [Recession.personal](/_personal/Society/Economics/Economy/Recession.personal.md) 
+
+### #is_/same_as :: [Recession.secret](/_secret/Society/Economics/Economy/Recession.secret.md)
+

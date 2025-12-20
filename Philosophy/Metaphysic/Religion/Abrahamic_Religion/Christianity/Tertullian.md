@@ -71,3 +71,22 @@ Commons_gallery: Quintus Septimius Florens Tertullianus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tertullian) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tertullian](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Tertullian.md) 
+
+### #is_/same_as :: [Tertullian.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Tertullian.public.md) 
+
+### #is_/same_as :: [Tertullian.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Tertullian.internal.md) 
+
+### #is_/same_as :: [Tertullian.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Tertullian.protect.md) 
+
+### #is_/same_as :: [Tertullian.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Tertullian.private.md) 
+
+### #is_/same_as :: [Tertullian.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Tertullian.personal.md) 
+
+### #is_/same_as :: [Tertullian.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Tertullian.secret.md)
+

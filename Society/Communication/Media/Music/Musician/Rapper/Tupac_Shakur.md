@@ -154,3 +154,22 @@ Know_Your_Meme_slug: tupac-hologram
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tupac%20Shakur) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tupac_Shakur](/_Standards/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.md) 
+
+### #is_/same_as :: [Tupac_Shakur.public](/_public/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.public.md) 
+
+### #is_/same_as :: [Tupac_Shakur.internal](/_internal/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.internal.md) 
+
+### #is_/same_as :: [Tupac_Shakur.protect](/_protect/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.protect.md) 
+
+### #is_/same_as :: [Tupac_Shakur.private](/_private/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.private.md) 
+
+### #is_/same_as :: [Tupac_Shakur.personal](/_personal/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.personal.md) 
+
+### #is_/same_as :: [Tupac_Shakur.secret](/_secret/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.secret.md)
+

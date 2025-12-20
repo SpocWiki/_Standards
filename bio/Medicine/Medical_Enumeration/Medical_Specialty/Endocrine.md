@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [endocrine](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.md) 
+### #is_/same_as :: [Endocrine](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.md) 
 
-### #is_/same_as :: [endocrine.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.public.md) 
+### #is_/same_as :: [Endocrine.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.public.md) 
 
-### #is_/same_as :: [endocrine.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.internal.md) 
+### #is_/same_as :: [Endocrine.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.internal.md) 
 
-### #is_/same_as :: [endocrine.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.protect.md) 
+### #is_/same_as :: [Endocrine.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.protect.md) 
 
-### #is_/same_as :: [endocrine.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.private.md) 
+### #is_/same_as :: [Endocrine.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.private.md) 
 
-### #is_/same_as :: [endocrine.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.personal.md) 
+### #is_/same_as :: [Endocrine.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.personal.md) 
 
-### #is_/same_as :: [endocrine.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.secret.md)
+### #is_/same_as :: [Endocrine.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.secret.md)
 

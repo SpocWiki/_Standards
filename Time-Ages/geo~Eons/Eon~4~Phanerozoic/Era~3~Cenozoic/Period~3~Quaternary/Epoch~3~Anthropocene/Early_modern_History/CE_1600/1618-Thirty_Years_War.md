@@ -106,17 +106,17 @@ start_time: 1618-05-23
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1618-Thirty_Years'_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.md) 
+### #is_/same_as :: [1618-Thirty_Years_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.md) 
 
-### #is_/same_as :: [1618-Thirty_Years'_War.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.public.md) 
+### #is_/same_as :: [1618-Thirty_Years_War.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.public.md) 
 
-### #is_/same_as :: [1618-Thirty_Years'_War.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.internal.md) 
+### #is_/same_as :: [1618-Thirty_Years_War.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.internal.md) 
 
-### #is_/same_as :: [1618-Thirty_Years'_War.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.protect.md) 
+### #is_/same_as :: [1618-Thirty_Years_War.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.protect.md) 
 
-### #is_/same_as :: [1618-Thirty_Years'_War.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.private.md) 
+### #is_/same_as :: [1618-Thirty_Years_War.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.private.md) 
 
-### #is_/same_as :: [1618-Thirty_Years'_War.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.personal.md) 
+### #is_/same_as :: [1618-Thirty_Years_War.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.personal.md) 
 
-### #is_/same_as :: [1618-Thirty_Years'_War.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.secret.md)
+### #is_/same_as :: [1618-Thirty_Years_War.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.secret.md)
 

@@ -64,3 +64,22 @@ Krugosvet_article: matematika/topologiya
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Topology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Topology](/_Standards/Mathematics/Topology.md) 
+
+### #is_/same_as :: [Topology.public](/_public/Mathematics/Topology.public.md) 
+
+### #is_/same_as :: [Topology.internal](/_internal/Mathematics/Topology.internal.md) 
+
+### #is_/same_as :: [Topology.protect](/_protect/Mathematics/Topology.protect.md) 
+
+### #is_/same_as :: [Topology.private](/_private/Mathematics/Topology.private.md) 
+
+### #is_/same_as :: [Topology.personal](/_personal/Mathematics/Topology.personal.md) 
+
+### #is_/same_as :: [Topology.secret](/_secret/Mathematics/Topology.secret.md)
+

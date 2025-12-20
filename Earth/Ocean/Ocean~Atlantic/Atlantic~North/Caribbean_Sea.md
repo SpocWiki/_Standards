@@ -37,8 +37,6 @@ has_id_wikidata: Q1247
 > [Wikipedia](https://en.wikipedia.org/wiki/Caribbean%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Caribbean_Sea](/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.md) 

@@ -109,3 +109,22 @@ ISNI: "0000000458753523"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Daniel%20Defoe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Defoe,Daniel](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel.md) 
+
+### #is_/same_as :: [Defoe,Daniel.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel.public.md) 
+
+### #is_/same_as :: [Defoe,Daniel.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel.internal.md) 
+
+### #is_/same_as :: [Defoe,Daniel.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel.protect.md) 
+
+### #is_/same_as :: [Defoe,Daniel.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel.private.md) 
+
+### #is_/same_as :: [Defoe,Daniel.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel.personal.md) 
+
+### #is_/same_as :: [Defoe,Daniel.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel.secret.md)
+

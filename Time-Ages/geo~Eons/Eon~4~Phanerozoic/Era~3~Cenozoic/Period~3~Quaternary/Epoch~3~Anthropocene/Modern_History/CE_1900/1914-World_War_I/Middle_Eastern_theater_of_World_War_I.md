@@ -58,3 +58,22 @@ start_time: 1914-10-29T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Eastern%20theatre%20of%20World%20War%20I) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Middle_Eastern_theater_of_World_War_I](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.md) 
+
+### #is_/same_as :: [Middle_Eastern_theater_of_World_War_I.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.public.md) 
+
+### #is_/same_as :: [Middle_Eastern_theater_of_World_War_I.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.internal.md) 
+
+### #is_/same_as :: [Middle_Eastern_theater_of_World_War_I.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.protect.md) 
+
+### #is_/same_as :: [Middle_Eastern_theater_of_World_War_I.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.private.md) 
+
+### #is_/same_as :: [Middle_Eastern_theater_of_World_War_I.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.personal.md) 
+
+### #is_/same_as :: [Middle_Eastern_theater_of_World_War_I.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.secret.md)
+

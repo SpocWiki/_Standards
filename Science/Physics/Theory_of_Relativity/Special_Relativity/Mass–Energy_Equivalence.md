@@ -49,3 +49,22 @@ time_of_discovery_or_invention: 1905-11-21T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mass%E2%80%93energy%20equivalence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mass–Energy_Equivalence](/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.md) 
+
+### #is_/same_as :: [Mass–Energy_Equivalence.public](/_public/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.public.md) 
+
+### #is_/same_as :: [Mass–Energy_Equivalence.internal](/_internal/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.internal.md) 
+
+### #is_/same_as :: [Mass–Energy_Equivalence.protect](/_protect/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.protect.md) 
+
+### #is_/same_as :: [Mass–Energy_Equivalence.private](/_private/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.private.md) 
+
+### #is_/same_as :: [Mass–Energy_Equivalence.personal](/_personal/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.personal.md) 
+
+### #is_/same_as :: [Mass–Energy_Equivalence.secret](/_secret/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.secret.md)
+

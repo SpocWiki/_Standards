@@ -60,3 +60,22 @@ Wolfram_Language_entity_code: Entity["Concept", "EcologicalNiche::b7cbh"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ecological%20niche) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ecological_Niche](/_Standards/bio/Ecology/Ecological_Niche.md) 
+
+### #is_/same_as :: [Ecological_Niche.public](/_public/bio/Ecology/Ecological_Niche.public.md) 
+
+### #is_/same_as :: [Ecological_Niche.internal](/_internal/bio/Ecology/Ecological_Niche.internal.md) 
+
+### #is_/same_as :: [Ecological_Niche.protect](/_protect/bio/Ecology/Ecological_Niche.protect.md) 
+
+### #is_/same_as :: [Ecological_Niche.private](/_private/bio/Ecology/Ecological_Niche.private.md) 
+
+### #is_/same_as :: [Ecological_Niche.personal](/_personal/bio/Ecology/Ecological_Niche.personal.md) 
+
+### #is_/same_as :: [Ecological_Niche.secret](/_secret/bio/Ecology/Ecological_Niche.secret.md)
+

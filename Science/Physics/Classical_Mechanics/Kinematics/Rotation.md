@@ -56,3 +56,22 @@ MeSH_tree_code: G01.482.703
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rotation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rotation](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Rotation.md) 
+
+### #is_/same_as :: [Rotation.public](/_public/Science/Physics/Classical_Mechanics/Kinematics/Rotation.public.md) 
+
+### #is_/same_as :: [Rotation.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics/Rotation.internal.md) 
+
+### #is_/same_as :: [Rotation.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics/Rotation.protect.md) 
+
+### #is_/same_as :: [Rotation.private](/_private/Science/Physics/Classical_Mechanics/Kinematics/Rotation.private.md) 
+
+### #is_/same_as :: [Rotation.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics/Rotation.personal.md) 
+
+### #is_/same_as :: [Rotation.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics/Rotation.secret.md)
+

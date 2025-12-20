@@ -39,3 +39,22 @@ Commons_category: World Heritage Sites
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Heritage%20Committee) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [World_Heritage_Committee](/_Standards/UN(United_Nations)/UNESCO/World_Heritage_Committee.md) 
+
+### #is_/same_as :: [World_Heritage_Committee.public](/_public/UN(United_Nations)/UNESCO/World_Heritage_Committee.public.md) 
+
+### #is_/same_as :: [World_Heritage_Committee.internal](/_internal/UN(United_Nations)/UNESCO/World_Heritage_Committee.internal.md) 
+
+### #is_/same_as :: [World_Heritage_Committee.protect](/_protect/UN(United_Nations)/UNESCO/World_Heritage_Committee.protect.md) 
+
+### #is_/same_as :: [World_Heritage_Committee.private](/_private/UN(United_Nations)/UNESCO/World_Heritage_Committee.private.md) 
+
+### #is_/same_as :: [World_Heritage_Committee.personal](/_personal/UN(United_Nations)/UNESCO/World_Heritage_Committee.personal.md) 
+
+### #is_/same_as :: [World_Heritage_Committee.secret](/_secret/UN(United_Nations)/UNESCO/World_Heritage_Committee.secret.md)
+

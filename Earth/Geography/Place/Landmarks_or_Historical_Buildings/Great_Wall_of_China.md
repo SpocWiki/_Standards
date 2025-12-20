@@ -93,17 +93,17 @@ width: 4.5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Wall_of_China](Great_Wall_of_China.md) 
+### #is_/same_as :: [Great_Wall_of_China](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.md) 
 
-### #is_/same_as :: [Great_Wall_of_China.public](/_public/Technology/Construction/Architecture/Great_Wall_of_China.public.md) 
+### #is_/same_as :: [Great_Wall_of_China.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.public.md) 
 
-### #is_/same_as :: [Great_Wall_of_China.internal](/_internal/Technology/Construction/Architecture/Great_Wall_of_China.internal.md) 
+### #is_/same_as :: [Great_Wall_of_China.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.internal.md) 
 
-### #is_/same_as :: [Great_Wall_of_China.protect](/_protect/Technology/Construction/Architecture/Great_Wall_of_China.protect.md) 
+### #is_/same_as :: [Great_Wall_of_China.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.protect.md) 
 
-### #is_/same_as :: [Great_Wall_of_China.private](/_private/Technology/Construction/Architecture/Great_Wall_of_China.private.md) 
+### #is_/same_as :: [Great_Wall_of_China.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.private.md) 
 
-### #is_/same_as :: [Great_Wall_of_China.personal](/_personal/Technology/Construction/Architecture/Great_Wall_of_China.personal.md) 
+### #is_/same_as :: [Great_Wall_of_China.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.personal.md) 
 
-### #is_/same_as :: [Great_Wall_of_China.secret](/_secret/Technology/Construction/Architecture/Great_Wall_of_China.secret.md)
+### #is_/same_as :: [Great_Wall_of_China.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.secret.md)
 

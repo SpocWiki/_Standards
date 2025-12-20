@@ -209,3 +209,22 @@ topic_has_template:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Hockey%20League) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [NHL(National_Hockey_League)](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/NHL(National_Hockey_League).md) 
+
+### #is_/same_as :: [NHL(National_Hockey_League).public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/NHL(National_Hockey_League).public.md) 
+
+### #is_/same_as :: [NHL(National_Hockey_League).internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/NHL(National_Hockey_League).internal.md) 
+
+### #is_/same_as :: [NHL(National_Hockey_League).protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/NHL(National_Hockey_League).protect.md) 
+
+### #is_/same_as :: [NHL(National_Hockey_League).private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/NHL(National_Hockey_League).private.md) 
+
+### #is_/same_as :: [NHL(National_Hockey_League).personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/NHL(National_Hockey_League).personal.md) 
+
+### #is_/same_as :: [NHL(National_Hockey_League).secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/NHL(National_Hockey_League).secret.md)
+

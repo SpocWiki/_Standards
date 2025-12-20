@@ -86,3 +86,22 @@ MeSH_tree_code: N03.219.521.576
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Insurance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Insurance](/_Standards/Society/Economics/Insurance.md) 
+
+### #is_/same_as :: [Insurance.public](/_public/Society/Economics/Insurance.public.md) 
+
+### #is_/same_as :: [Insurance.internal](/_internal/Society/Economics/Insurance.internal.md) 
+
+### #is_/same_as :: [Insurance.protect](/_protect/Society/Economics/Insurance.protect.md) 
+
+### #is_/same_as :: [Insurance.private](/_private/Society/Economics/Insurance.private.md) 
+
+### #is_/same_as :: [Insurance.personal](/_personal/Society/Economics/Insurance.personal.md) 
+
+### #is_/same_as :: [Insurance.secret](/_secret/Society/Economics/Insurance.secret.md)
+

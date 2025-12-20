@@ -45,3 +45,21 @@ name_in_native_language: Man met de rode tulband
 > Commonly used drying oils include linseed oil, poppy seed oil, walnut oil, and safflower oil. The choice of oil imparts a range of properties to the paint, such as the amount of yellowing or drying time. The paint could be thinned with turpentine. Certain differences, depending on the oil, are also visible in the sheen of the paints. An artist might use several different oils in the same painting depending on specific pigments and effects desired. The paints themselves also develop a particular consistency depending on the medium. The oil may be boiled with a resin, such as pine resin or frankincense, to create a varnish to provide protection and texture. The paint itself can be molded into different textures depending on its plasticity.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oil%20painting)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oil_painting](/_Standards/Society/Communication/Media/Painting/Oil_painting.md) 
+
+### #is_/same_as :: [Oil_painting.public](/_public/Society/Communication/Media/Painting/Oil_painting.public.md) 
+
+### #is_/same_as :: [Oil_painting.internal](/_internal/Society/Communication/Media/Painting/Oil_painting.internal.md) 
+
+### #is_/same_as :: [Oil_painting.protect](/_protect/Society/Communication/Media/Painting/Oil_painting.protect.md) 
+
+### #is_/same_as :: [Oil_painting.private](/_private/Society/Communication/Media/Painting/Oil_painting.private.md) 
+
+### #is_/same_as :: [Oil_painting.personal](/_personal/Society/Communication/Media/Painting/Oil_painting.personal.md) 
+
+### #is_/same_as :: [Oil_painting.secret](/_secret/Society/Communication/Media/Painting/Oil_painting.secret.md)
+

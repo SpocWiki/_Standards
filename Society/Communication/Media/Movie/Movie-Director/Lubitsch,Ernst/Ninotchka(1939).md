@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ninotchka(1939)](/_Standards/Society/Communication/Media/Movie/Movie-Director/Ninotchka(1939).md) 
+### #is_/same_as :: [Ninotchka(1939)](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).md) 
 
-### #is_/same_as :: [Ninotchka(1939).public](/_public/Society/Communication/Media/Movie/Movie-Director/Ninotchka(1939).public.md) 
+### #is_/same_as :: [Ninotchka(1939).public](/_public/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).public.md) 
 
-### #is_/same_as :: [Ninotchka(1939).internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Ninotchka(1939).internal.md) 
+### #is_/same_as :: [Ninotchka(1939).internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).internal.md) 
 
-### #is_/same_as :: [Ninotchka(1939).protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Ninotchka(1939).protect.md) 
+### #is_/same_as :: [Ninotchka(1939).protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).protect.md) 
 
-### #is_/same_as :: [Ninotchka(1939).private](/_private/Society/Communication/Media/Movie/Movie-Director/Ninotchka(1939).private.md) 
+### #is_/same_as :: [Ninotchka(1939).private](/_private/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).private.md) 
 
-### #is_/same_as :: [Ninotchka(1939).personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Ninotchka(1939).personal.md) 
+### #is_/same_as :: [Ninotchka(1939).personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).personal.md) 
 
-### #is_/same_as :: [Ninotchka(1939).secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Ninotchka(1939).secret.md)
+### #is_/same_as :: [Ninotchka(1939).secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).secret.md)
 

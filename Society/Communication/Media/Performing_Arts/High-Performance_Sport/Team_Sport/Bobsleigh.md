@@ -53,17 +53,17 @@ OpenStreetMap_tag_or_key: Tag:sport=bobsleigh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bobsleigh](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Bobsleigh.md) 
+### #is_/same_as :: [Bobsleigh](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Bobsleigh.md) 
 
-### #is_/same_as :: [Bobsleigh.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Bobsleigh.public.md) 
+### #is_/same_as :: [Bobsleigh.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Bobsleigh.public.md) 
 
-### #is_/same_as :: [Bobsleigh.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Bobsleigh.internal.md) 
+### #is_/same_as :: [Bobsleigh.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Bobsleigh.internal.md) 
 
-### #is_/same_as :: [Bobsleigh.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Bobsleigh.protect.md) 
+### #is_/same_as :: [Bobsleigh.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Bobsleigh.protect.md) 
 
-### #is_/same_as :: [Bobsleigh.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Bobsleigh.private.md) 
+### #is_/same_as :: [Bobsleigh.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Bobsleigh.private.md) 
 
-### #is_/same_as :: [Bobsleigh.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Bobsleigh.personal.md) 
+### #is_/same_as :: [Bobsleigh.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Bobsleigh.personal.md) 
 
-### #is_/same_as :: [Bobsleigh.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Bobsleigh.secret.md)
+### #is_/same_as :: [Bobsleigh.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Bobsleigh.secret.md)
 

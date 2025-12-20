@@ -74,3 +74,22 @@ Baidu_Tieba_name: 婚礼
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wedding) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wedding](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Wedding.md) 
+
+### #is_/same_as :: [Wedding.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Wedding.public.md) 
+
+### #is_/same_as :: [Wedding.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Wedding.internal.md) 
+
+### #is_/same_as :: [Wedding.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Wedding.protect.md) 
+
+### #is_/same_as :: [Wedding.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Wedding.private.md) 
+
+### #is_/same_as :: [Wedding.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Wedding.personal.md) 
+
+### #is_/same_as :: [Wedding.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Wedding.secret.md)
+

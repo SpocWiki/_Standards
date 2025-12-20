@@ -151,3 +151,21 @@ ISNI: 000000010901268X
 > He was barely mentioned in Arnold Houbraken's major source book on 17th-century Dutch painting (Grand Theatre of Dutch Painters and Women Artists, published 1718) and, as a result, was omitted from subsequent surveys of Dutch art for nearly two centuries. In the 19th century, Vermeer was rediscovered by Gustav Friedrich Waagen and Théophile Thoré-Bürger, who published an essay attributing 66 pictures to him, although only 34 paintings are universally attributed to him today. Since that time, Vermeer's reputation has grown enormously.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Vermeer)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vermeer,Johannes](/_Standards/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.md) 
+
+### #is_/same_as :: [Vermeer,Johannes.public](/_public/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.public.md) 
+
+### #is_/same_as :: [Vermeer,Johannes.internal](/_internal/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.internal.md) 
+
+### #is_/same_as :: [Vermeer,Johannes.protect](/_protect/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.protect.md) 
+
+### #is_/same_as :: [Vermeer,Johannes.private](/_private/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.private.md) 
+
+### #is_/same_as :: [Vermeer,Johannes.personal](/_personal/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.personal.md) 
+
+### #is_/same_as :: [Vermeer,Johannes.secret](/_secret/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.secret.md)
+

@@ -118,3 +118,22 @@ OpenStreetMap_key: addr:street
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Street) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Street](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.md) 
+
+### #is_/same_as :: [Street.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.public.md) 
+
+### #is_/same_as :: [Street.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.internal.md) 
+
+### #is_/same_as :: [Street.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.protect.md) 
+
+### #is_/same_as :: [Street.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.private.md) 
+
+### #is_/same_as :: [Street.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.personal.md) 
+
+### #is_/same_as :: [Street.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.secret.md)
+

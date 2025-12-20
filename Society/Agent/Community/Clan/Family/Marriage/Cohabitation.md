@@ -38,3 +38,22 @@ Commons_category: Cohabitation
 > [Wikipedia](https://en.wikipedia.org/wiki/Cohabitation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cohabitation](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.md) 
+
+### #is_/same_as :: [Cohabitation.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.public.md) 
+
+### #is_/same_as :: [Cohabitation.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.internal.md) 
+
+### #is_/same_as :: [Cohabitation.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.protect.md) 
+
+### #is_/same_as :: [Cohabitation.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.private.md) 
+
+### #is_/same_as :: [Cohabitation.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.personal.md) 
+
+### #is_/same_as :: [Cohabitation.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Cohabitation.secret.md)
+

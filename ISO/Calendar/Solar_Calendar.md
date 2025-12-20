@@ -34,3 +34,22 @@ Commons_category: Solar calendars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20calendar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solar_Calendar](/_Standards/ISO/Calendar/Solar_Calendar.md) 
+
+### #is_/same_as :: [Solar_Calendar.public](/_public/ISO/Calendar/Solar_Calendar.public.md) 
+
+### #is_/same_as :: [Solar_Calendar.internal](/_internal/ISO/Calendar/Solar_Calendar.internal.md) 
+
+### #is_/same_as :: [Solar_Calendar.protect](/_protect/ISO/Calendar/Solar_Calendar.protect.md) 
+
+### #is_/same_as :: [Solar_Calendar.private](/_private/ISO/Calendar/Solar_Calendar.private.md) 
+
+### #is_/same_as :: [Solar_Calendar.personal](/_personal/ISO/Calendar/Solar_Calendar.personal.md) 
+
+### #is_/same_as :: [Solar_Calendar.secret](/_secret/ISO/Calendar/Solar_Calendar.secret.md)
+

@@ -36,3 +36,22 @@ Commons_category: Star formation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20formation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Star_Formation](/_Standards/Astronomy/Star/Star~Class/Star_Formation.md) 
+
+### #is_/same_as :: [Star_Formation.public](/_public/Astronomy/Star/Star~Class/Star_Formation.public.md) 
+
+### #is_/same_as :: [Star_Formation.internal](/_internal/Astronomy/Star/Star~Class/Star_Formation.internal.md) 
+
+### #is_/same_as :: [Star_Formation.protect](/_protect/Astronomy/Star/Star~Class/Star_Formation.protect.md) 
+
+### #is_/same_as :: [Star_Formation.private](/_private/Astronomy/Star/Star~Class/Star_Formation.private.md) 
+
+### #is_/same_as :: [Star_Formation.personal](/_personal/Astronomy/Star/Star~Class/Star_Formation.personal.md) 
+
+### #is_/same_as :: [Star_Formation.secret](/_secret/Astronomy/Star/Star~Class/Star_Formation.secret.md)
+

@@ -91,3 +91,22 @@ Commons_category: Exponentiation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Exponentiation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Exponentiation](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/Exponentiation.md) 
+
+### #is_/same_as :: [Exponentiation.public](/_public/Mathematics/Function(Math)/Function~binary/Operator~binary/Exponentiation.public.md) 
+
+### #is_/same_as :: [Exponentiation.internal](/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary/Exponentiation.internal.md) 
+
+### #is_/same_as :: [Exponentiation.protect](/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary/Exponentiation.protect.md) 
+
+### #is_/same_as :: [Exponentiation.private](/_private/Mathematics/Function(Math)/Function~binary/Operator~binary/Exponentiation.private.md) 
+
+### #is_/same_as :: [Exponentiation.personal](/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary/Exponentiation.personal.md) 
+
+### #is_/same_as :: [Exponentiation.secret](/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary/Exponentiation.secret.md)
+

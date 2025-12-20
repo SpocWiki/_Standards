@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Postel's law"
 - "Postel's_Law"
@@ -61,3 +61,21 @@ Each persistent Store must remember the TransactionIds it has processed within o
 Preferably use only a single persistent Store, otherwise you need 2-phase Commits. 
 
 ### 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Robustness-Principle](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Robustness-Principle.md) 
+
+### #is_/same_as :: [Robustness-Principle.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Robustness-Principle.public.md) 
+
+### #is_/same_as :: [Robustness-Principle.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Robustness-Principle.internal.md) 
+
+### #is_/same_as :: [Robustness-Principle.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Robustness-Principle.protect.md) 
+
+### #is_/same_as :: [Robustness-Principle.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Robustness-Principle.private.md) 
+
+### #is_/same_as :: [Robustness-Principle.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Robustness-Principle.personal.md) 
+
+### #is_/same_as :: [Robustness-Principle.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Robustness-Principle.secret.md)
+

@@ -62,3 +62,22 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Night-a
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Night)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nighttime](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.md) 
+
+### #is_/same_as :: [Nighttime.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.public.md) 
+
+### #is_/same_as :: [Nighttime.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.internal.md) 
+
+### #is_/same_as :: [Nighttime.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.protect.md) 
+
+### #is_/same_as :: [Nighttime.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.private.md) 
+
+### #is_/same_as :: [Nighttime.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.personal.md) 
+
+### #is_/same_as :: [Nighttime.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.secret.md)
+

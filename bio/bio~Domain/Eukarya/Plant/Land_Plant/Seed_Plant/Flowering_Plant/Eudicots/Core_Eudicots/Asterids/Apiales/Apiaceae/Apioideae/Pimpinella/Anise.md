@@ -93,3 +93,22 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=28395
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anise) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anise](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella/Anise.md) 
+
+### #is_/same_as :: [Anise.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella/Anise.public.md) 
+
+### #is_/same_as :: [Anise.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella/Anise.internal.md) 
+
+### #is_/same_as :: [Anise.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella/Anise.protect.md) 
+
+### #is_/same_as :: [Anise.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella/Anise.private.md) 
+
+### #is_/same_as :: [Anise.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella/Anise.personal.md) 
+
+### #is_/same_as :: [Anise.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella/Anise.secret.md)
+

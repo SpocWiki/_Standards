@@ -65,3 +65,22 @@ Commons_category: Oceanography
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oceanography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oceanography](/_Standards/Earth/Ocean/Oceanography.md) 
+
+### #is_/same_as :: [Oceanography.public](/_public/Earth/Ocean/Oceanography.public.md) 
+
+### #is_/same_as :: [Oceanography.internal](/_internal/Earth/Ocean/Oceanography.internal.md) 
+
+### #is_/same_as :: [Oceanography.protect](/_protect/Earth/Ocean/Oceanography.protect.md) 
+
+### #is_/same_as :: [Oceanography.private](/_private/Earth/Ocean/Oceanography.private.md) 
+
+### #is_/same_as :: [Oceanography.personal](/_personal/Earth/Ocean/Oceanography.personal.md) 
+
+### #is_/same_as :: [Oceanography.secret](/_secret/Earth/Ocean/Oceanography.secret.md)
+

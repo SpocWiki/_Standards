@@ -83,3 +83,22 @@ According to Peirce, his projection has the following properties (Peirce, 1879):
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peirce%20quincuncial%20projection) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Peirce_quincuncial_Projection](/_Standards/Mathematics/Mathematician/Peirce_quincuncial_Projection.md) 
+
+### #is_/same_as :: [Peirce_quincuncial_Projection.public](/_public/Mathematics/Mathematician/Peirce_quincuncial_Projection.public.md) 
+
+### #is_/same_as :: [Peirce_quincuncial_Projection.internal](/_internal/Mathematics/Mathematician/Peirce_quincuncial_Projection.internal.md) 
+
+### #is_/same_as :: [Peirce_quincuncial_Projection.protect](/_protect/Mathematics/Mathematician/Peirce_quincuncial_Projection.protect.md) 
+
+### #is_/same_as :: [Peirce_quincuncial_Projection.private](/_private/Mathematics/Mathematician/Peirce_quincuncial_Projection.private.md) 
+
+### #is_/same_as :: [Peirce_quincuncial_Projection.personal](/_personal/Mathematics/Mathematician/Peirce_quincuncial_Projection.personal.md) 
+
+### #is_/same_as :: [Peirce_quincuncial_Projection.secret](/_secret/Mathematics/Mathematician/Peirce_quincuncial_Projection.secret.md)
+

@@ -58,3 +58,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chlorofluorocarbon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chlorofluorocarbon](/_Standards/Chemistry/Organic_Chemistry/Chlorofluorocarbon.md) 
+
+### #is_/same_as :: [Chlorofluorocarbon.public](/_public/Chemistry/Organic_Chemistry/Chlorofluorocarbon.public.md) 
+
+### #is_/same_as :: [Chlorofluorocarbon.internal](/_internal/Chemistry/Organic_Chemistry/Chlorofluorocarbon.internal.md) 
+
+### #is_/same_as :: [Chlorofluorocarbon.protect](/_protect/Chemistry/Organic_Chemistry/Chlorofluorocarbon.protect.md) 
+
+### #is_/same_as :: [Chlorofluorocarbon.private](/_private/Chemistry/Organic_Chemistry/Chlorofluorocarbon.private.md) 
+
+### #is_/same_as :: [Chlorofluorocarbon.personal](/_personal/Chemistry/Organic_Chemistry/Chlorofluorocarbon.personal.md) 
+
+### #is_/same_as :: [Chlorofluorocarbon.secret](/_secret/Chemistry/Organic_Chemistry/Chlorofluorocarbon.secret.md)
+

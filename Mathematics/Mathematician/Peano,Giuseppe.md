@@ -28,3 +28,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Peano,Giuseppe](/_Standards/Mathematics/Mathematician/Peano,Giuseppe.md) 
+
+### #is_/same_as :: [Peano,Giuseppe.public](/_public/Mathematics/Mathematician/Peano,Giuseppe.public.md) 
+
+### #is_/same_as :: [Peano,Giuseppe.internal](/_internal/Mathematics/Mathematician/Peano,Giuseppe.internal.md) 
+
+### #is_/same_as :: [Peano,Giuseppe.protect](/_protect/Mathematics/Mathematician/Peano,Giuseppe.protect.md) 
+
+### #is_/same_as :: [Peano,Giuseppe.private](/_private/Mathematics/Mathematician/Peano,Giuseppe.private.md) 
+
+### #is_/same_as :: [Peano,Giuseppe.personal](/_personal/Mathematics/Mathematician/Peano,Giuseppe.personal.md) 
+
+### #is_/same_as :: [Peano,Giuseppe.secret](/_secret/Mathematics/Mathematician/Peano,Giuseppe.secret.md)
+

@@ -74,3 +74,22 @@ Commons_category: Prague Spring
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prague%20Spring) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1968-Prague_Spring](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.md) 
+
+### #is_/same_as :: [1968-Prague_Spring.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.public.md) 
+
+### #is_/same_as :: [1968-Prague_Spring.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.internal.md) 
+
+### #is_/same_as :: [1968-Prague_Spring.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.protect.md) 
+
+### #is_/same_as :: [1968-Prague_Spring.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.private.md) 
+
+### #is_/same_as :: [1968-Prague_Spring.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.personal.md) 
+
+### #is_/same_as :: [1968-Prague_Spring.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.secret.md)
+

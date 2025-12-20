@@ -88,3 +88,22 @@ Instagram_username: comaneci10
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nadia%20Com%C4%83neci) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nadia_Comăneci](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.md) 
+
+### #is_/same_as :: [Nadia_Comăneci.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.public.md) 
+
+### #is_/same_as :: [Nadia_Comăneci.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.internal.md) 
+
+### #is_/same_as :: [Nadia_Comăneci.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.protect.md) 
+
+### #is_/same_as :: [Nadia_Comăneci.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.private.md) 
+
+### #is_/same_as :: [Nadia_Comăneci.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.personal.md) 
+
+### #is_/same_as :: [Nadia_Comăneci.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.secret.md)
+

@@ -50,3 +50,22 @@ Dewey_Decimal_Classification: "778.59"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Video%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Video_Art](/_Standards/Society/Communication/Art/Video_Art.md) 
+
+### #is_/same_as :: [Video_Art.public](/_public/Society/Communication/Art/Video_Art.public.md) 
+
+### #is_/same_as :: [Video_Art.internal](/_internal/Society/Communication/Art/Video_Art.internal.md) 
+
+### #is_/same_as :: [Video_Art.protect](/_protect/Society/Communication/Art/Video_Art.protect.md) 
+
+### #is_/same_as :: [Video_Art.private](/_private/Society/Communication/Art/Video_Art.private.md) 
+
+### #is_/same_as :: [Video_Art.personal](/_personal/Society/Communication/Art/Video_Art.personal.md) 
+
+### #is_/same_as :: [Video_Art.secret](/_secret/Society/Communication/Art/Video_Art.secret.md)
+

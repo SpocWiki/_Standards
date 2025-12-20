@@ -42,17 +42,17 @@ O    O
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calcium_Carbonate](/_Standards/Chemistry/inOrganic/Calcium_Carbonate.md) 
+### #is_/same_as :: [Calcium_Carbonate](/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.md) 
 
-### #is_/same_as :: [Calcium_Carbonate.public](/_public/Chemistry/inOrganic/Calcium_Carbonate.public.md) 
+### #is_/same_as :: [Calcium_Carbonate.public](/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.public.md) 
 
-### #is_/same_as :: [Calcium_Carbonate.internal](/_internal/Chemistry/inOrganic/Calcium_Carbonate.internal.md) 
+### #is_/same_as :: [Calcium_Carbonate.internal](/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.internal.md) 
 
-### #is_/same_as :: [Calcium_Carbonate.protect](/_protect/Chemistry/inOrganic/Calcium_Carbonate.protect.md) 
+### #is_/same_as :: [Calcium_Carbonate.protect](/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.protect.md) 
 
-### #is_/same_as :: [Calcium_Carbonate.private](/_private/Chemistry/inOrganic/Calcium_Carbonate.private.md) 
+### #is_/same_as :: [Calcium_Carbonate.private](/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.private.md) 
 
-### #is_/same_as :: [Calcium_Carbonate.personal](/_personal/Chemistry/inOrganic/Calcium_Carbonate.personal.md) 
+### #is_/same_as :: [Calcium_Carbonate.personal](/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.personal.md) 
 
-### #is_/same_as :: [Calcium_Carbonate.secret](/_secret/Chemistry/inOrganic/Calcium_Carbonate.secret.md)
+### #is_/same_as :: [Calcium_Carbonate.secret](/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.secret.md)
 

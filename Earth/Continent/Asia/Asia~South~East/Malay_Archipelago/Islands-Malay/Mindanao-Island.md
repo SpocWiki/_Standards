@@ -68,3 +68,22 @@ population: 27021036
 > According to the 2020 census, Davao City is the most populous city on the island, with 1,776,949 people, followed by Zamboanga City (pop. 977,234), Cagayan de Oro (pop. 728,402), General Santos (pop. 722,059), Butuan (pop. 372,910), Iligan (pop. 363,115) and Cotabato City (pop. 325,079). About 70% of residents identify as Christian and 24% as Muslim. Mindanao is considered the major Bread Basket of the Philippines.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mindanao)  
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mindanao-Island](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.md) 
+
+### #is_/same_as :: [Mindanao-Island.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.public.md) 
+
+### #is_/same_as :: [Mindanao-Island.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.internal.md) 
+
+### #is_/same_as :: [Mindanao-Island.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.protect.md) 
+
+### #is_/same_as :: [Mindanao-Island.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.private.md) 
+
+### #is_/same_as :: [Mindanao-Island.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.personal.md) 
+
+### #is_/same_as :: [Mindanao-Island.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.secret.md)
+

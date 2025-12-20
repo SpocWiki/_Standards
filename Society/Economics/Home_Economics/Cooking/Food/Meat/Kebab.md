@@ -54,3 +54,22 @@ Amazon_com_browse_node: "6518160011"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kebab) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kebab](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Kebab.md) 
+
+### #is_/same_as :: [Kebab.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Kebab.public.md) 
+
+### #is_/same_as :: [Kebab.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Kebab.internal.md) 
+
+### #is_/same_as :: [Kebab.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Kebab.protect.md) 
+
+### #is_/same_as :: [Kebab.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Kebab.private.md) 
+
+### #is_/same_as :: [Kebab.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Kebab.personal.md) 
+
+### #is_/same_as :: [Kebab.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Kebab.secret.md)
+

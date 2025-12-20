@@ -61,3 +61,22 @@ Commons_category: Photocopiers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Photocopier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Photocopier](/_Standards/Society/Communication/Printing/Photocopier.md) 
+
+### #is_/same_as :: [Photocopier.public](/_public/Society/Communication/Printing/Photocopier.public.md) 
+
+### #is_/same_as :: [Photocopier.internal](/_internal/Society/Communication/Printing/Photocopier.internal.md) 
+
+### #is_/same_as :: [Photocopier.protect](/_protect/Society/Communication/Printing/Photocopier.protect.md) 
+
+### #is_/same_as :: [Photocopier.private](/_private/Society/Communication/Printing/Photocopier.private.md) 
+
+### #is_/same_as :: [Photocopier.personal](/_personal/Society/Communication/Printing/Photocopier.personal.md) 
+
+### #is_/same_as :: [Photocopier.secret](/_secret/Society/Communication/Printing/Photocopier.secret.md)
+

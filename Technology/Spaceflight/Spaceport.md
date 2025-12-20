@@ -42,3 +42,22 @@ OpenStreetMap_tag: aeroway=spaceport
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spaceport) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spaceport](/_Standards/Technology/Spaceflight/Spaceport.md) 
+
+### #is_/same_as :: [Spaceport.public](/_public/Technology/Spaceflight/Spaceport.public.md) 
+
+### #is_/same_as :: [Spaceport.internal](/_internal/Technology/Spaceflight/Spaceport.internal.md) 
+
+### #is_/same_as :: [Spaceport.protect](/_protect/Technology/Spaceflight/Spaceport.protect.md) 
+
+### #is_/same_as :: [Spaceport.private](/_private/Technology/Spaceflight/Spaceport.private.md) 
+
+### #is_/same_as :: [Spaceport.personal](/_personal/Technology/Spaceflight/Spaceport.personal.md) 
+
+### #is_/same_as :: [Spaceport.secret](/_secret/Technology/Spaceflight/Spaceport.secret.md)
+

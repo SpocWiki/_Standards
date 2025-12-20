@@ -140,17 +140,17 @@ UNII: 60YU5MIG9W
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thorium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Thorium.md) 
+### #is_/same_as :: [Thorium](/_Standards/Chemistry/Chemical_Element/Actinide/Thorium.md) 
 
-### #is_/same_as :: [Thorium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Thorium.public.md) 
+### #is_/same_as :: [Thorium.public](/_public/Chemistry/Chemical_Element/Actinide/Thorium.public.md) 
 
-### #is_/same_as :: [Thorium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Thorium.internal.md) 
+### #is_/same_as :: [Thorium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Thorium.internal.md) 
 
-### #is_/same_as :: [Thorium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Thorium.protect.md) 
+### #is_/same_as :: [Thorium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Thorium.protect.md) 
 
-### #is_/same_as :: [Thorium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Thorium.private.md) 
+### #is_/same_as :: [Thorium.private](/_private/Chemistry/Chemical_Element/Actinide/Thorium.private.md) 
 
-### #is_/same_as :: [Thorium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Thorium.personal.md) 
+### #is_/same_as :: [Thorium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Thorium.personal.md) 
 
-### #is_/same_as :: [Thorium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Thorium.secret.md)
+### #is_/same_as :: [Thorium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Thorium.secret.md)
 

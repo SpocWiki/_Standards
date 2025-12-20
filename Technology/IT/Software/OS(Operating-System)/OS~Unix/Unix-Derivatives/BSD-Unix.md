@@ -53,3 +53,22 @@ has_id_wikidata: Q34264
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Berkeley%20Software%20Distribution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [BSD-Unix](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.md) 
+
+### #is_/same_as :: [BSD-Unix.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.public.md) 
+
+### #is_/same_as :: [BSD-Unix.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.internal.md) 
+
+### #is_/same_as :: [BSD-Unix.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.protect.md) 
+
+### #is_/same_as :: [BSD-Unix.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.private.md) 
+
+### #is_/same_as :: [BSD-Unix.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.personal.md) 
+
+### #is_/same_as :: [BSD-Unix.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.secret.md)
+

@@ -41,17 +41,17 @@ An emergency service, such as a fire station or ER.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emergency_Service](Emergency_Service.md) 
+### #is_/same_as :: [Emergency_Service](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.md) 
 
-### #is_/same_as :: [Emergency_Service.public](/_public/Society/Organization/Local_Business/Emergency_Service.public.md) 
+### #is_/same_as :: [Emergency_Service.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.public.md) 
 
-### #is_/same_as :: [Emergency_Service.internal](/_internal/Society/Organization/Local_Business/Emergency_Service.internal.md) 
+### #is_/same_as :: [Emergency_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.internal.md) 
 
-### #is_/same_as :: [Emergency_Service.protect](/_protect/Society/Organization/Local_Business/Emergency_Service.protect.md) 
+### #is_/same_as :: [Emergency_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.protect.md) 
 
-### #is_/same_as :: [Emergency_Service.private](/_private/Society/Organization/Local_Business/Emergency_Service.private.md) 
+### #is_/same_as :: [Emergency_Service.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.private.md) 
 
-### #is_/same_as :: [Emergency_Service.personal](/_personal/Society/Organization/Local_Business/Emergency_Service.personal.md) 
+### #is_/same_as :: [Emergency_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.personal.md) 
 
-### #is_/same_as :: [Emergency_Service.secret](/_secret/Society/Organization/Local_Business/Emergency_Service.secret.md)
+### #is_/same_as :: [Emergency_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.secret.md)
 

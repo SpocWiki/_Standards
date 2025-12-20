@@ -162,17 +162,17 @@ MeSH_tree_code: F03.625.164.113.500
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Autism](Autism.md) 
+### #is_/same_as :: [Autism](/_Standards/bio/Psychology/Mental_Disorder/Autism.md) 
 
-### #is_/same_as :: [Autism.public](/_public/bio/Psychology/Autism.public.md) 
+### #is_/same_as :: [Autism.public](/_public/bio/Psychology/Mental_Disorder/Autism.public.md) 
 
-### #is_/same_as :: [Autism.internal](/_internal/bio/Psychology/Autism.internal.md) 
+### #is_/same_as :: [Autism.internal](/_internal/bio/Psychology/Mental_Disorder/Autism.internal.md) 
 
-### #is_/same_as :: [Autism.protect](/_protect/bio/Psychology/Autism.protect.md) 
+### #is_/same_as :: [Autism.protect](/_protect/bio/Psychology/Mental_Disorder/Autism.protect.md) 
 
-### #is_/same_as :: [Autism.private](/_private/bio/Psychology/Autism.private.md) 
+### #is_/same_as :: [Autism.private](/_private/bio/Psychology/Mental_Disorder/Autism.private.md) 
 
-### #is_/same_as :: [Autism.personal](/_personal/bio/Psychology/Autism.personal.md) 
+### #is_/same_as :: [Autism.personal](/_personal/bio/Psychology/Mental_Disorder/Autism.personal.md) 
 
-### #is_/same_as :: [Autism.secret](/_secret/bio/Psychology/Autism.secret.md)
+### #is_/same_as :: [Autism.secret](/_secret/bio/Psychology/Mental_Disorder/Autism.secret.md)
 

@@ -45,3 +45,22 @@ Commons_category: Non-Euclidean geometry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Non-Euclidean%20geometry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Non-Euclidean_Geometry](/_Standards/Mathematics/Geometry/Non-Euclidean_Geometry.md) 
+
+### #is_/same_as :: [Non-Euclidean_Geometry.public](/_public/Mathematics/Geometry/Non-Euclidean_Geometry.public.md) 
+
+### #is_/same_as :: [Non-Euclidean_Geometry.internal](/_internal/Mathematics/Geometry/Non-Euclidean_Geometry.internal.md) 
+
+### #is_/same_as :: [Non-Euclidean_Geometry.protect](/_protect/Mathematics/Geometry/Non-Euclidean_Geometry.protect.md) 
+
+### #is_/same_as :: [Non-Euclidean_Geometry.private](/_private/Mathematics/Geometry/Non-Euclidean_Geometry.private.md) 
+
+### #is_/same_as :: [Non-Euclidean_Geometry.personal](/_personal/Mathematics/Geometry/Non-Euclidean_Geometry.personal.md) 
+
+### #is_/same_as :: [Non-Euclidean_Geometry.secret](/_secret/Mathematics/Geometry/Non-Euclidean_Geometry.secret.md)
+

@@ -87,3 +87,22 @@ inception: 1774-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Faust) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Faust(Goethe)](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).md) 
+
+### #is_/same_as :: [Faust(Goethe).public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).public.md) 
+
+### #is_/same_as :: [Faust(Goethe).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).internal.md) 
+
+### #is_/same_as :: [Faust(Goethe).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).protect.md) 
+
+### #is_/same_as :: [Faust(Goethe).private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).private.md) 
+
+### #is_/same_as :: [Faust(Goethe).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).personal.md) 
+
+### #is_/same_as :: [Faust(Goethe).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).secret.md)
+

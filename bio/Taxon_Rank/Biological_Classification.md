@@ -92,36 +92,17 @@ uses:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biological_Classification](Biological_Classification.md) 
+### #is_/same_as :: [Biological_Classification](/_Standards/bio/Taxon_Rank/Biological_Classification.md) 
 
-### #is_/same_as :: [Biological_Classification.public](/_public/bio/bio~Domain/Biological_Classification.public.md) 
+### #is_/same_as :: [Biological_Classification.public](/_public/bio/Taxon_Rank/Biological_Classification.public.md) 
 
-### #is_/same_as :: [Biological_Classification.internal](/_internal/bio/bio~Domain/Biological_Classification.internal.md) 
+### #is_/same_as :: [Biological_Classification.internal](/_internal/bio/Taxon_Rank/Biological_Classification.internal.md) 
 
-### #is_/same_as :: [Biological_Classification.protect](/_protect/bio/bio~Domain/Biological_Classification.protect.md) 
+### #is_/same_as :: [Biological_Classification.protect](/_protect/bio/Taxon_Rank/Biological_Classification.protect.md) 
 
-### #is_/same_as :: [Biological_Classification.private](/_private/bio/bio~Domain/Biological_Classification.private.md) 
+### #is_/same_as :: [Biological_Classification.private](/_private/bio/Taxon_Rank/Biological_Classification.private.md) 
 
-### #is_/same_as :: [Biological_Classification.personal](/_personal/bio/bio~Domain/Biological_Classification.personal.md) 
+### #is_/same_as :: [Biological_Classification.personal](/_personal/bio/Taxon_Rank/Biological_Classification.personal.md) 
 
-### #is_/same_as :: [Biological_Classification.secret](/_secret/bio/bio~Domain/Biological_Classification.secret.md)
+### #is_/same_as :: [Biological_Classification.secret](/_secret/bio/Taxon_Rank/Biological_Classification.secret.md)
 
-
-# [[Biological_Classification]] 
-
-#is_/part_of :: [[Biological_Classification]] 
-
-![[Biological_Classification.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Biological_Classification.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-``

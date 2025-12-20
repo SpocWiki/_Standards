@@ -30,3 +30,22 @@ Commons_category: Stimulated emission
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stimulated%20emission) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stimulated_Emission](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.md) 
+
+### #is_/same_as :: [Stimulated_Emission.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.public.md) 
+
+### #is_/same_as :: [Stimulated_Emission.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.internal.md) 
+
+### #is_/same_as :: [Stimulated_Emission.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.protect.md) 
+
+### #is_/same_as :: [Stimulated_Emission.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.private.md) 
+
+### #is_/same_as :: [Stimulated_Emission.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.personal.md) 
+
+### #is_/same_as :: [Stimulated_Emission.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.secret.md)
+

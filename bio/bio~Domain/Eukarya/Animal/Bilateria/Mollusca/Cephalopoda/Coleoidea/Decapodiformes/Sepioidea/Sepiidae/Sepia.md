@@ -78,7 +78,7 @@ Contr. Zool., 586:159-190.
   Comments          mate guarding, female on left
   Sex ::             f, m (2)
   Copyright ::         © 1996 Mark Norman
-  ---------------
+  ---------------
 
 
 ## Confidential Links & Embeds: 

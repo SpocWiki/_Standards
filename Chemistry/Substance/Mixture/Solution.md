@@ -47,3 +47,22 @@ Commons_category: Solutions
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solution](/_Standards/Chemistry/Substance/Mixture/Solution.md) 
+
+### #is_/same_as :: [Solution.public](/_public/Chemistry/Substance/Mixture/Solution.public.md) 
+
+### #is_/same_as :: [Solution.internal](/_internal/Chemistry/Substance/Mixture/Solution.internal.md) 
+
+### #is_/same_as :: [Solution.protect](/_protect/Chemistry/Substance/Mixture/Solution.protect.md) 
+
+### #is_/same_as :: [Solution.private](/_private/Chemistry/Substance/Mixture/Solution.private.md) 
+
+### #is_/same_as :: [Solution.personal](/_personal/Chemistry/Substance/Mixture/Solution.personal.md) 
+
+### #is_/same_as :: [Solution.secret](/_secret/Chemistry/Substance/Mixture/Solution.secret.md)
+

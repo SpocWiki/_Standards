@@ -26,3 +26,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sling%20(weapon)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sling](/_Standards/Society/Military/Military_Engineering/Weapon/Sling.md) 
+
+### #is_/same_as :: [Sling.public](/_public/Society/Military/Military_Engineering/Weapon/Sling.public.md) 
+
+### #is_/same_as :: [Sling.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sling.internal.md) 
+
+### #is_/same_as :: [Sling.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sling.protect.md) 
+
+### #is_/same_as :: [Sling.private](/_private/Society/Military/Military_Engineering/Weapon/Sling.private.md) 
+
+### #is_/same_as :: [Sling.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sling.personal.md) 
+
+### #is_/same_as :: [Sling.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sling.secret.md)
+

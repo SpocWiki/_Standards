@@ -68,3 +68,22 @@ Dewey_Decimal_Classification: "751.422"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Watercolor%20painting)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Watercolor](/_Standards/Society/Communication/Media/Painting/Watercolor.md) 
+
+### #is_/same_as :: [Watercolor.public](/_public/Society/Communication/Media/Painting/Watercolor.public.md) 
+
+### #is_/same_as :: [Watercolor.internal](/_internal/Society/Communication/Media/Painting/Watercolor.internal.md) 
+
+### #is_/same_as :: [Watercolor.protect](/_protect/Society/Communication/Media/Painting/Watercolor.protect.md) 
+
+### #is_/same_as :: [Watercolor.private](/_private/Society/Communication/Media/Painting/Watercolor.private.md) 
+
+### #is_/same_as :: [Watercolor.personal](/_personal/Society/Communication/Media/Painting/Watercolor.personal.md) 
+
+### #is_/same_as :: [Watercolor.secret](/_secret/Society/Communication/Media/Painting/Watercolor.secret.md)
+

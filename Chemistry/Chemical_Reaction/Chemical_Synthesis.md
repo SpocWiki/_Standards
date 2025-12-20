@@ -51,3 +51,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20synthesis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chemical_Synthesis](/_Standards/Chemistry/Chemical_Reaction/Chemical_Synthesis.md) 
+
+### #is_/same_as :: [Chemical_Synthesis.public](/_public/Chemistry/Chemical_Reaction/Chemical_Synthesis.public.md) 
+
+### #is_/same_as :: [Chemical_Synthesis.internal](/_internal/Chemistry/Chemical_Reaction/Chemical_Synthesis.internal.md) 
+
+### #is_/same_as :: [Chemical_Synthesis.protect](/_protect/Chemistry/Chemical_Reaction/Chemical_Synthesis.protect.md) 
+
+### #is_/same_as :: [Chemical_Synthesis.private](/_private/Chemistry/Chemical_Reaction/Chemical_Synthesis.private.md) 
+
+### #is_/same_as :: [Chemical_Synthesis.personal](/_personal/Chemistry/Chemical_Reaction/Chemical_Synthesis.personal.md) 
+
+### #is_/same_as :: [Chemical_Synthesis.secret](/_secret/Chemistry/Chemical_Reaction/Chemical_Synthesis.secret.md)
+

@@ -54,3 +54,22 @@ Commons_category: Soap operas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soap%20opera) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soap_Opera](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.md) 
+
+### #is_/same_as :: [Soap_Opera.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.public.md) 
+
+### #is_/same_as :: [Soap_Opera.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.internal.md) 
+
+### #is_/same_as :: [Soap_Opera.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.protect.md) 
+
+### #is_/same_as :: [Soap_Opera.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.private.md) 
+
+### #is_/same_as :: [Soap_Opera.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.personal.md) 
+
+### #is_/same_as :: [Soap_Opera.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.secret.md)
+

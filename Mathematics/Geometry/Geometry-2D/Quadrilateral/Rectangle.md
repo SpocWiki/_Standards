@@ -68,3 +68,22 @@ Commons_category: Rectangles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rectangle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rectangle](/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.md) 
+
+### #is_/same_as :: [Rectangle.public](/_public/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.public.md) 
+
+### #is_/same_as :: [Rectangle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.internal.md) 
+
+### #is_/same_as :: [Rectangle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.protect.md) 
+
+### #is_/same_as :: [Rectangle.private](/_private/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.private.md) 
+
+### #is_/same_as :: [Rectangle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.personal.md) 
+
+### #is_/same_as :: [Rectangle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.secret.md)
+

@@ -142,3 +142,22 @@ Libris_URI: 1zcfhbgk434b2t7
 > [Wikipedia](https://en.wikipedia.org/wiki/Marlon%20Brando) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brando,Marlon](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Brando,Marlon.md) 
+
+### #is_/same_as :: [Brando,Marlon.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Brando,Marlon.public.md) 
+
+### #is_/same_as :: [Brando,Marlon.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Brando,Marlon.internal.md) 
+
+### #is_/same_as :: [Brando,Marlon.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Brando,Marlon.protect.md) 
+
+### #is_/same_as :: [Brando,Marlon.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Brando,Marlon.private.md) 
+
+### #is_/same_as :: [Brando,Marlon.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Brando,Marlon.personal.md) 
+
+### #is_/same_as :: [Brando,Marlon.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Brando,Marlon.secret.md)
+

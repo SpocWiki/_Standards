@@ -101,3 +101,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/King%20Lear.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/King%20Lear) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [King_Lear](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.md) 
+
+### #is_/same_as :: [King_Lear.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.public.md) 
+
+### #is_/same_as :: [King_Lear.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.internal.md) 
+
+### #is_/same_as :: [King_Lear.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.protect.md) 
+
+### #is_/same_as :: [King_Lear.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.private.md) 
+
+### #is_/same_as :: [King_Lear.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.personal.md) 
+
+### #is_/same_as :: [King_Lear.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.secret.md)
+

@@ -39,3 +39,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Convex%20set) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Convex_Set](/_Standards/Mathematics/Algebra/Linear_Algebra/Convex_Set.md) 
+
+### #is_/same_as :: [Convex_Set.public](/_public/Mathematics/Algebra/Linear_Algebra/Convex_Set.public.md) 
+
+### #is_/same_as :: [Convex_Set.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Convex_Set.internal.md) 
+
+### #is_/same_as :: [Convex_Set.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Convex_Set.protect.md) 
+
+### #is_/same_as :: [Convex_Set.private](/_private/Mathematics/Algebra/Linear_Algebra/Convex_Set.private.md) 
+
+### #is_/same_as :: [Convex_Set.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Convex_Set.personal.md) 
+
+### #is_/same_as :: [Convex_Set.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Convex_Set.secret.md)
+

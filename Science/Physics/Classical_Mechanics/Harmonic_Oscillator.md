@@ -44,3 +44,22 @@ Commons_category: Harmonic oscillators
 > [Wikipedia](https://en.wikipedia.org/wiki/Harmonic%20oscillator) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harmonic_Oscillator](/_Standards/Science/Physics/Classical_Mechanics/Harmonic_Oscillator.md) 
+
+### #is_/same_as :: [Harmonic_Oscillator.public](/_public/Science/Physics/Classical_Mechanics/Harmonic_Oscillator.public.md) 
+
+### #is_/same_as :: [Harmonic_Oscillator.internal](/_internal/Science/Physics/Classical_Mechanics/Harmonic_Oscillator.internal.md) 
+
+### #is_/same_as :: [Harmonic_Oscillator.protect](/_protect/Science/Physics/Classical_Mechanics/Harmonic_Oscillator.protect.md) 
+
+### #is_/same_as :: [Harmonic_Oscillator.private](/_private/Science/Physics/Classical_Mechanics/Harmonic_Oscillator.private.md) 
+
+### #is_/same_as :: [Harmonic_Oscillator.personal](/_personal/Science/Physics/Classical_Mechanics/Harmonic_Oscillator.personal.md) 
+
+### #is_/same_as :: [Harmonic_Oscillator.secret](/_secret/Science/Physics/Classical_Mechanics/Harmonic_Oscillator.secret.md)
+

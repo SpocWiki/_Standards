@@ -152,17 +152,17 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "TreatyOfVersailles"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1919-Treaty_of_Versailles](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Treaty_of_Versailles.md) 
+### #is_/same_as :: [1919-Treaty_of_Versailles](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Versailles.md) 
 
-### #is_/same_as :: [1919-Treaty_of_Versailles.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Treaty_of_Versailles.public.md) 
+### #is_/same_as :: [1919-Treaty_of_Versailles.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Versailles.public.md) 
 
-### #is_/same_as :: [1919-Treaty_of_Versailles.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Treaty_of_Versailles.internal.md) 
+### #is_/same_as :: [1919-Treaty_of_Versailles.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Versailles.internal.md) 
 
-### #is_/same_as :: [1919-Treaty_of_Versailles.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Treaty_of_Versailles.protect.md) 
+### #is_/same_as :: [1919-Treaty_of_Versailles.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Versailles.protect.md) 
 
-### #is_/same_as :: [1919-Treaty_of_Versailles.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Treaty_of_Versailles.private.md) 
+### #is_/same_as :: [1919-Treaty_of_Versailles.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Versailles.private.md) 
 
-### #is_/same_as :: [1919-Treaty_of_Versailles.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Treaty_of_Versailles.personal.md) 
+### #is_/same_as :: [1919-Treaty_of_Versailles.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Versailles.personal.md) 
 
-### #is_/same_as :: [1919-Treaty_of_Versailles.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Treaty_of_Versailles.secret.md)
+### #is_/same_as :: [1919-Treaty_of_Versailles.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Versailles.secret.md)
 

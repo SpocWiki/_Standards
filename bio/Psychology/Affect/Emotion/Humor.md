@@ -54,3 +54,22 @@ MeSH_tree_code: V02.540
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Humour) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Humor](/_Standards/bio/Psychology/Affect/Emotion/Humor.md) 
+
+### #is_/same_as :: [Humor.public](/_public/bio/Psychology/Affect/Emotion/Humor.public.md) 
+
+### #is_/same_as :: [Humor.internal](/_internal/bio/Psychology/Affect/Emotion/Humor.internal.md) 
+
+### #is_/same_as :: [Humor.protect](/_protect/bio/Psychology/Affect/Emotion/Humor.protect.md) 
+
+### #is_/same_as :: [Humor.private](/_private/bio/Psychology/Affect/Emotion/Humor.private.md) 
+
+### #is_/same_as :: [Humor.personal](/_personal/bio/Psychology/Affect/Emotion/Humor.personal.md) 
+
+### #is_/same_as :: [Humor.secret](/_secret/bio/Psychology/Affect/Emotion/Humor.secret.md)
+

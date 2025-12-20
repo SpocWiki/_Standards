@@ -81,3 +81,22 @@ RTECS_number: LX3300000
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gasoline) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gasoline](/_Standards/Chemistry/Material/Fuel/Gasoline.md) 
+
+### #is_/same_as :: [Gasoline.public](/_public/Chemistry/Material/Fuel/Gasoline.public.md) 
+
+### #is_/same_as :: [Gasoline.internal](/_internal/Chemistry/Material/Fuel/Gasoline.internal.md) 
+
+### #is_/same_as :: [Gasoline.protect](/_protect/Chemistry/Material/Fuel/Gasoline.protect.md) 
+
+### #is_/same_as :: [Gasoline.private](/_private/Chemistry/Material/Fuel/Gasoline.private.md) 
+
+### #is_/same_as :: [Gasoline.personal](/_personal/Chemistry/Material/Fuel/Gasoline.personal.md) 
+
+### #is_/same_as :: [Gasoline.secret](/_secret/Chemistry/Material/Fuel/Gasoline.secret.md)
+

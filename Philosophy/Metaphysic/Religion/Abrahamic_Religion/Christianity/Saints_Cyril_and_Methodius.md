@@ -47,3 +47,22 @@ Commons_category: Saints Cyril and Methodius
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyril%20and%20Methodius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saints_Cyril_and_Methodius](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.md) 
+
+### #is_/same_as :: [Saints_Cyril_and_Methodius.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.public.md) 
+
+### #is_/same_as :: [Saints_Cyril_and_Methodius.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.internal.md) 
+
+### #is_/same_as :: [Saints_Cyril_and_Methodius.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.protect.md) 
+
+### #is_/same_as :: [Saints_Cyril_and_Methodius.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.private.md) 
+
+### #is_/same_as :: [Saints_Cyril_and_Methodius.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.personal.md) 
+
+### #is_/same_as :: [Saints_Cyril_and_Methodius.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.secret.md)
+

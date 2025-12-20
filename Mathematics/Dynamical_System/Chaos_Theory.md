@@ -83,3 +83,22 @@ Krugosvet_article: nauka_i_tehnika/matematika/HAOSA_TEORIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chaos%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chaos_Theory](/_Standards/Mathematics/Dynamical_System/Chaos_Theory.md) 
+
+### #is_/same_as :: [Chaos_Theory.public](/_public/Mathematics/Dynamical_System/Chaos_Theory.public.md) 
+
+### #is_/same_as :: [Chaos_Theory.internal](/_internal/Mathematics/Dynamical_System/Chaos_Theory.internal.md) 
+
+### #is_/same_as :: [Chaos_Theory.protect](/_protect/Mathematics/Dynamical_System/Chaos_Theory.protect.md) 
+
+### #is_/same_as :: [Chaos_Theory.private](/_private/Mathematics/Dynamical_System/Chaos_Theory.private.md) 
+
+### #is_/same_as :: [Chaos_Theory.personal](/_personal/Mathematics/Dynamical_System/Chaos_Theory.personal.md) 
+
+### #is_/same_as :: [Chaos_Theory.secret](/_secret/Mathematics/Dynamical_System/Chaos_Theory.secret.md)
+

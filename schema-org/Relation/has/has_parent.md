@@ -45,6 +45,7 @@ Relation describes that:
 #is_/inverse_of :: [[has_children]] 
 #is_/same_as :: [[WD~P40]]
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [has_parent](/_Standards/schema-org/Relation/has/has_parent.md) 

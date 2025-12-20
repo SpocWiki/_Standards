@@ -75,3 +75,22 @@ Commons_category: Poisson distribution
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poisson%20distribution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poisson_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.md) 
+
+### #is_/same_as :: [Poisson_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.public.md) 
+
+### #is_/same_as :: [Poisson_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.internal.md) 
+
+### #is_/same_as :: [Poisson_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.protect.md) 
+
+### #is_/same_as :: [Poisson_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.private.md) 
+
+### #is_/same_as :: [Poisson_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.personal.md) 
+
+### #is_/same_as :: [Poisson_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Poisson_Distribution.secret.md)
+

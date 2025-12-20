@@ -75,3 +75,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/PALMOV
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palm%20oil) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Palm_Oil](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Palm_Oil.md) 
+
+### #is_/same_as :: [Palm_Oil.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Palm_Oil.public.md) 
+
+### #is_/same_as :: [Palm_Oil.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Palm_Oil.internal.md) 
+
+### #is_/same_as :: [Palm_Oil.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Palm_Oil.protect.md) 
+
+### #is_/same_as :: [Palm_Oil.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Palm_Oil.private.md) 
+
+### #is_/same_as :: [Palm_Oil.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Palm_Oil.personal.md) 
+
+### #is_/same_as :: [Palm_Oil.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Palm_Oil.secret.md)
+

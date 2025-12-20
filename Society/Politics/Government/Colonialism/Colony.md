@@ -52,3 +52,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colony) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Colony](/_Standards/Society/Politics/Government/Colonialism/Colony.md) 
+
+### #is_/same_as :: [Colony.public](/_public/Society/Politics/Government/Colonialism/Colony.public.md) 
+
+### #is_/same_as :: [Colony.internal](/_internal/Society/Politics/Government/Colonialism/Colony.internal.md) 
+
+### #is_/same_as :: [Colony.protect](/_protect/Society/Politics/Government/Colonialism/Colony.protect.md) 
+
+### #is_/same_as :: [Colony.private](/_private/Society/Politics/Government/Colonialism/Colony.private.md) 
+
+### #is_/same_as :: [Colony.personal](/_personal/Society/Politics/Government/Colonialism/Colony.personal.md) 
+
+### #is_/same_as :: [Colony.secret](/_secret/Society/Politics/Government/Colonialism/Colony.secret.md)
+

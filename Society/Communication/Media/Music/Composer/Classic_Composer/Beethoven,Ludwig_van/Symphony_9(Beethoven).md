@@ -83,3 +83,22 @@ musical_quotation_or_excerpt: '{\set Staff.instrumentName=#"Vc."\set Staff.midiI
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Symphony_9(Beethoven)](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).md) 
+
+### #is_/same_as :: [Symphony_9(Beethoven).public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).public.md) 
+
+### #is_/same_as :: [Symphony_9(Beethoven).internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).internal.md) 
+
+### #is_/same_as :: [Symphony_9(Beethoven).protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).protect.md) 
+
+### #is_/same_as :: [Symphony_9(Beethoven).private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).private.md) 
+
+### #is_/same_as :: [Symphony_9(Beethoven).personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).personal.md) 
+
+### #is_/same_as :: [Symphony_9(Beethoven).secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).secret.md)
+

@@ -64,3 +64,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RobotMintCanb.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Automation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Automation](/_Standards/Society/Economics/Industry/Automation.md) 
+
+### #is_/same_as :: [Automation.public](/_public/Society/Economics/Industry/Automation.public.md) 
+
+### #is_/same_as :: [Automation.internal](/_internal/Society/Economics/Industry/Automation.internal.md) 
+
+### #is_/same_as :: [Automation.protect](/_protect/Society/Economics/Industry/Automation.protect.md) 
+
+### #is_/same_as :: [Automation.private](/_private/Society/Economics/Industry/Automation.private.md) 
+
+### #is_/same_as :: [Automation.personal](/_personal/Society/Economics/Industry/Automation.personal.md) 
+
+### #is_/same_as :: [Automation.secret](/_secret/Society/Economics/Industry/Automation.secret.md)
+

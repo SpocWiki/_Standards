@@ -126,3 +126,22 @@ Commons_category: Fatimid Caliphate
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fatimid%20Caliphate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fatimid_Caliphate](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.md) 
+
+### #is_/same_as :: [Fatimid_Caliphate.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.public.md) 
+
+### #is_/same_as :: [Fatimid_Caliphate.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.internal.md) 
+
+### #is_/same_as :: [Fatimid_Caliphate.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.protect.md) 
+
+### #is_/same_as :: [Fatimid_Caliphate.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.private.md) 
+
+### #is_/same_as :: [Fatimid_Caliphate.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.personal.md) 
+
+### #is_/same_as :: [Fatimid_Caliphate.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.secret.md)
+

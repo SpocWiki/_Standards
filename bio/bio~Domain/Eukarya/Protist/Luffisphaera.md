@@ -47,7 +47,7 @@ Vørs, N. 1993. Marine heterotrophic amebas, flagellates and Heliozoa
 from Belize (Central America) and Tenerife (Canary Islands), with
 descriptions of new species, Liffisphaera bulbochaete n. sp., L.
 longihastis n. sp., L. turriformis n. sp., and Paulinella intermedia n.
-sp. Journal of Eukaryotic Microbiology 40(3):272-287.
+sp. Journal of Eukaryotic Microbiology 40(3):272-287.
 
 
 ## Confidential Links & Embeds: 

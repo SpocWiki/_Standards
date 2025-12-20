@@ -23,3 +23,22 @@ Commons_category: Dry season
 > [Wikipedia](https://en.wikipedia.org/wiki/Dry%20season) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dry_Season](/_Standards/Earth/Climate/Season/Dry_Season.md) 
+
+### #is_/same_as :: [Dry_Season.public](/_public/Earth/Climate/Season/Dry_Season.public.md) 
+
+### #is_/same_as :: [Dry_Season.internal](/_internal/Earth/Climate/Season/Dry_Season.internal.md) 
+
+### #is_/same_as :: [Dry_Season.protect](/_protect/Earth/Climate/Season/Dry_Season.protect.md) 
+
+### #is_/same_as :: [Dry_Season.private](/_private/Earth/Climate/Season/Dry_Season.private.md) 
+
+### #is_/same_as :: [Dry_Season.personal](/_personal/Earth/Climate/Season/Dry_Season.personal.md) 
+
+### #is_/same_as :: [Dry_Season.secret](/_secret/Earth/Climate/Season/Dry_Season.secret.md)
+

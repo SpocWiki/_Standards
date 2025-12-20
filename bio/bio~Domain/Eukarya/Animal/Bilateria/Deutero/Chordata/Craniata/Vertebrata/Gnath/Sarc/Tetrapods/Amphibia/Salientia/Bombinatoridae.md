@@ -131,7 +131,7 @@ for general list of references
   Scientific Name ::  Bombina orientalis
   View              ventral
   Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
-  -------------------------------------------------------------------------
+  -------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

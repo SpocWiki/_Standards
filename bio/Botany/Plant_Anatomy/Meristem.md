@@ -47,3 +47,22 @@ Commons_gallery: Méristème
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meristem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meristem](/_Standards/bio/Botany/Plant_Anatomy/Meristem.md) 
+
+### #is_/same_as :: [Meristem.public](/_public/bio/Botany/Plant_Anatomy/Meristem.public.md) 
+
+### #is_/same_as :: [Meristem.internal](/_internal/bio/Botany/Plant_Anatomy/Meristem.internal.md) 
+
+### #is_/same_as :: [Meristem.protect](/_protect/bio/Botany/Plant_Anatomy/Meristem.protect.md) 
+
+### #is_/same_as :: [Meristem.private](/_private/bio/Botany/Plant_Anatomy/Meristem.private.md) 
+
+### #is_/same_as :: [Meristem.personal](/_personal/bio/Botany/Plant_Anatomy/Meristem.personal.md) 
+
+### #is_/same_as :: [Meristem.secret](/_secret/bio/Botany/Plant_Anatomy/Meristem.secret.md)
+

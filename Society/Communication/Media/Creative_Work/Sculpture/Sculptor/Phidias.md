@@ -36,3 +36,22 @@ has_id_wikidata: Q177302
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phidias) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phidias](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.md) 
+
+### #is_/same_as :: [Phidias.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.public.md) 
+
+### #is_/same_as :: [Phidias.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.internal.md) 
+
+### #is_/same_as :: [Phidias.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.protect.md) 
+
+### #is_/same_as :: [Phidias.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.private.md) 
+
+### #is_/same_as :: [Phidias.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.personal.md) 
+
+### #is_/same_as :: [Phidias.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.secret.md)
+

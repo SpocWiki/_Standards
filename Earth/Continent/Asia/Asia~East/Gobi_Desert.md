@@ -20,3 +20,22 @@ has_id_wikidata: Q42070
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gobi%20Desert) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gobi_Desert](/_Standards/Earth/Continent/Asia/Asia~East/Gobi_Desert.md) 
+
+### #is_/same_as :: [Gobi_Desert.public](/_public/Earth/Continent/Asia/Asia~East/Gobi_Desert.public.md) 
+
+### #is_/same_as :: [Gobi_Desert.internal](/_internal/Earth/Continent/Asia/Asia~East/Gobi_Desert.internal.md) 
+
+### #is_/same_as :: [Gobi_Desert.protect](/_protect/Earth/Continent/Asia/Asia~East/Gobi_Desert.protect.md) 
+
+### #is_/same_as :: [Gobi_Desert.private](/_private/Earth/Continent/Asia/Asia~East/Gobi_Desert.private.md) 
+
+### #is_/same_as :: [Gobi_Desert.personal](/_personal/Earth/Continent/Asia/Asia~East/Gobi_Desert.personal.md) 
+
+### #is_/same_as :: [Gobi_Desert.secret](/_secret/Earth/Continent/Asia/Asia~East/Gobi_Desert.secret.md)
+

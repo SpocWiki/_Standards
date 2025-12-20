@@ -126,17 +126,17 @@ UNII: 0S6855V29M
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protactinium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Protactinium.md) 
+### #is_/same_as :: [Protactinium](/_Standards/Chemistry/Chemical_Element/Actinide/Protactinium.md) 
 
-### #is_/same_as :: [Protactinium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Protactinium.public.md) 
+### #is_/same_as :: [Protactinium.public](/_public/Chemistry/Chemical_Element/Actinide/Protactinium.public.md) 
 
-### #is_/same_as :: [Protactinium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Protactinium.internal.md) 
+### #is_/same_as :: [Protactinium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Protactinium.internal.md) 
 
-### #is_/same_as :: [Protactinium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Protactinium.protect.md) 
+### #is_/same_as :: [Protactinium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Protactinium.protect.md) 
 
-### #is_/same_as :: [Protactinium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Protactinium.private.md) 
+### #is_/same_as :: [Protactinium.private](/_private/Chemistry/Chemical_Element/Actinide/Protactinium.private.md) 
 
-### #is_/same_as :: [Protactinium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Protactinium.personal.md) 
+### #is_/same_as :: [Protactinium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Protactinium.personal.md) 
 
-### #is_/same_as :: [Protactinium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Protactinium.secret.md)
+### #is_/same_as :: [Protactinium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Protactinium.secret.md)
 

@@ -49,17 +49,17 @@ time_of_discovery_or_invention: 1911-12-14
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [South_Pole](/_Standards/Earth/Geography/South_Pole.md) 
+### #is_/same_as :: [South_Pole](/_Standards/Earth/Geography/Cartography/South_Pole.md) 
 
-### #is_/same_as :: [South_Pole.public](/_public/Earth/Geography/South_Pole.public.md) 
+### #is_/same_as :: [South_Pole.public](/_public/Earth/Geography/Cartography/South_Pole.public.md) 
 
-### #is_/same_as :: [South_Pole.internal](/_internal/Earth/Geography/South_Pole.internal.md) 
+### #is_/same_as :: [South_Pole.internal](/_internal/Earth/Geography/Cartography/South_Pole.internal.md) 
 
-### #is_/same_as :: [South_Pole.protect](/_protect/Earth/Geography/South_Pole.protect.md) 
+### #is_/same_as :: [South_Pole.protect](/_protect/Earth/Geography/Cartography/South_Pole.protect.md) 
 
-### #is_/same_as :: [South_Pole.private](/_private/Earth/Geography/South_Pole.private.md) 
+### #is_/same_as :: [South_Pole.private](/_private/Earth/Geography/Cartography/South_Pole.private.md) 
 
-### #is_/same_as :: [South_Pole.personal](/_personal/Earth/Geography/South_Pole.personal.md) 
+### #is_/same_as :: [South_Pole.personal](/_personal/Earth/Geography/Cartography/South_Pole.personal.md) 
 
-### #is_/same_as :: [South_Pole.secret](/_secret/Earth/Geography/South_Pole.secret.md)
+### #is_/same_as :: [South_Pole.secret](/_secret/Earth/Geography/Cartography/South_Pole.secret.md)
 

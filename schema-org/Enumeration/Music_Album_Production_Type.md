@@ -37,17 +37,17 @@ Classification of the album by its type of content: soundtrack, live album, stud
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Album_Production_Type](Music_Album_Production_Type.md) 
+### #is_/same_as :: [Music_Album_Production_Type](/_Standards/schema-org/Enumeration/Music_Album_Production_Type.md) 
 
-### #is_/same_as :: [music_album_production_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.public.md) 
+### #is_/same_as :: [Music_Album_Production_Type.public](/_public/schema-org/Enumeration/Music_Album_Production_Type.public.md) 
 
-### #is_/same_as :: [music_album_production_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.internal.md) 
+### #is_/same_as :: [Music_Album_Production_Type.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type.internal.md) 
 
-### #is_/same_as :: [music_album_production_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.protect.md) 
+### #is_/same_as :: [Music_Album_Production_Type.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type.protect.md) 
 
-### #is_/same_as :: [music_album_production_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.private.md) 
+### #is_/same_as :: [Music_Album_Production_Type.private](/_private/schema-org/Enumeration/Music_Album_Production_Type.private.md) 
 
-### #is_/same_as :: [music_album_production_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.personal.md) 
+### #is_/same_as :: [Music_Album_Production_Type.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type.personal.md) 
 
-### #is_/same_as :: [music_album_production_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.secret.md)
+### #is_/same_as :: [Music_Album_Production_Type.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type.secret.md)
 

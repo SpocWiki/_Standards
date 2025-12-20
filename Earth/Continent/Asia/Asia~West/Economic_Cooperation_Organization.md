@@ -81,3 +81,22 @@ official_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Economic%20Cooperation%20Organization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Economic_Cooperation_Organization](/_Standards/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.md) 
+
+### #is_/same_as :: [Economic_Cooperation_Organization.public](/_public/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.public.md) 
+
+### #is_/same_as :: [Economic_Cooperation_Organization.internal](/_internal/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.internal.md) 
+
+### #is_/same_as :: [Economic_Cooperation_Organization.protect](/_protect/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.protect.md) 
+
+### #is_/same_as :: [Economic_Cooperation_Organization.private](/_private/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.private.md) 
+
+### #is_/same_as :: [Economic_Cooperation_Organization.personal](/_personal/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.personal.md) 
+
+### #is_/same_as :: [Economic_Cooperation_Organization.secret](/_secret/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.secret.md)
+

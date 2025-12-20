@@ -18,3 +18,22 @@ has_id_wikidata: Q245418
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Foxtrot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Foxtrot](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.md) 
+
+### #is_/same_as :: [Foxtrot.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.public.md) 
+
+### #is_/same_as :: [Foxtrot.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.internal.md) 
+
+### #is_/same_as :: [Foxtrot.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.protect.md) 
+
+### #is_/same_as :: [Foxtrot.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.private.md) 
+
+### #is_/same_as :: [Foxtrot.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.personal.md) 
+
+### #is_/same_as :: [Foxtrot.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.secret.md)
+

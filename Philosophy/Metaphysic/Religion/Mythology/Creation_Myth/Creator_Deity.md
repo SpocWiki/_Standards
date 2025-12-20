@@ -37,3 +37,22 @@ female_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Creator%20deity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Creator_Deity](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.md) 
+
+### #is_/same_as :: [Creator_Deity.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.public.md) 
+
+### #is_/same_as :: [Creator_Deity.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.internal.md) 
+
+### #is_/same_as :: [Creator_Deity.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.protect.md) 
+
+### #is_/same_as :: [Creator_Deity.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.private.md) 
+
+### #is_/same_as :: [Creator_Deity.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.personal.md) 
+
+### #is_/same_as :: [Creator_Deity.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.secret.md)
+

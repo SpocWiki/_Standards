@@ -44,3 +44,22 @@ Commons_category: Prehistoric art
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prehistoric_Art](/_Standards/Society/Communication/Art/Art_History/Prehistoric_Art.md) 
+
+### #is_/same_as :: [Prehistoric_Art.public](/_public/Society/Communication/Art/Art_History/Prehistoric_Art.public.md) 
+
+### #is_/same_as :: [Prehistoric_Art.internal](/_internal/Society/Communication/Art/Art_History/Prehistoric_Art.internal.md) 
+
+### #is_/same_as :: [Prehistoric_Art.protect](/_protect/Society/Communication/Art/Art_History/Prehistoric_Art.protect.md) 
+
+### #is_/same_as :: [Prehistoric_Art.private](/_private/Society/Communication/Art/Art_History/Prehistoric_Art.private.md) 
+
+### #is_/same_as :: [Prehistoric_Art.personal](/_personal/Society/Communication/Art/Art_History/Prehistoric_Art.personal.md) 
+
+### #is_/same_as :: [Prehistoric_Art.secret](/_secret/Society/Communication/Art/Art_History/Prehistoric_Art.secret.md)
+

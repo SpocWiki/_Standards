@@ -58,3 +58,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inertial%20frame%20of%20reference) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Inertial_Reference_Frame](/_Standards/Mathematics/Geometry/Coordinate_System/Inertial_Reference_Frame.md) 
+
+### #is_/same_as :: [Inertial_Reference_Frame.public](/_public/Mathematics/Geometry/Coordinate_System/Inertial_Reference_Frame.public.md) 
+
+### #is_/same_as :: [Inertial_Reference_Frame.internal](/_internal/Mathematics/Geometry/Coordinate_System/Inertial_Reference_Frame.internal.md) 
+
+### #is_/same_as :: [Inertial_Reference_Frame.protect](/_protect/Mathematics/Geometry/Coordinate_System/Inertial_Reference_Frame.protect.md) 
+
+### #is_/same_as :: [Inertial_Reference_Frame.private](/_private/Mathematics/Geometry/Coordinate_System/Inertial_Reference_Frame.private.md) 
+
+### #is_/same_as :: [Inertial_Reference_Frame.personal](/_personal/Mathematics/Geometry/Coordinate_System/Inertial_Reference_Frame.personal.md) 
+
+### #is_/same_as :: [Inertial_Reference_Frame.secret](/_secret/Mathematics/Geometry/Coordinate_System/Inertial_Reference_Frame.secret.md)
+

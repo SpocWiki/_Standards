@@ -44,3 +44,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lintel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lintel](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.md) 
+
+### #is_/same_as :: [Lintel.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.public.md) 
+
+### #is_/same_as :: [Lintel.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.internal.md) 
+
+### #is_/same_as :: [Lintel.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.protect.md) 
+
+### #is_/same_as :: [Lintel.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.private.md) 
+
+### #is_/same_as :: [Lintel.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.personal.md) 
+
+### #is_/same_as :: [Lintel.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.secret.md)
+

@@ -88,3 +88,22 @@ Mozilla_Developer_Network_article:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/HTTP) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [HTTP](/_Standards/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.md) 
+
+### #is_/same_as :: [HTTP.public](/_public/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.public.md) 
+
+### #is_/same_as :: [HTTP.internal](/_internal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.internal.md) 
+
+### #is_/same_as :: [HTTP.protect](/_protect/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.protect.md) 
+
+### #is_/same_as :: [HTTP.private](/_private/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.private.md) 
+
+### #is_/same_as :: [HTTP.personal](/_personal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.personal.md) 
+
+### #is_/same_as :: [HTTP.secret](/_secret/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.secret.md)
+

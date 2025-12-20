@@ -39,17 +39,17 @@ A jewelry store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jewelry_Store](Jewelry_Store.md) 
+### #is_/same_as :: [Jewelry_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.md) 
 
-### #is_/same_as :: [Jewelry_Store.public](/_public/Society/Organization/Local_Business/Store/Jewelry_Store.public.md) 
+### #is_/same_as :: [Jewelry_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.public.md) 
 
-### #is_/same_as :: [Jewelry_Store.internal](/_internal/Society/Organization/Local_Business/Store/Jewelry_Store.internal.md) 
+### #is_/same_as :: [Jewelry_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.internal.md) 
 
-### #is_/same_as :: [Jewelry_Store.protect](/_protect/Society/Organization/Local_Business/Store/Jewelry_Store.protect.md) 
+### #is_/same_as :: [Jewelry_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.protect.md) 
 
-### #is_/same_as :: [Jewelry_Store.private](/_private/Society/Organization/Local_Business/Store/Jewelry_Store.private.md) 
+### #is_/same_as :: [Jewelry_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.private.md) 
 
-### #is_/same_as :: [Jewelry_Store.personal](/_personal/Society/Organization/Local_Business/Store/Jewelry_Store.personal.md) 
+### #is_/same_as :: [Jewelry_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.personal.md) 
 
-### #is_/same_as :: [Jewelry_Store.secret](/_secret/Society/Organization/Local_Business/Store/Jewelry_Store.secret.md)
+### #is_/same_as :: [Jewelry_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Jewelry_Store.secret.md)
 

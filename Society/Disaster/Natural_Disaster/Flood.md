@@ -125,3 +125,22 @@ type: private_note
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Flood](/_Standards/Society/Disaster/Natural_Disaster/Flood.md) 
+
+### #is_/same_as :: [Flood.public](/_public/Society/Disaster/Natural_Disaster/Flood.public.md) 
+
+### #is_/same_as :: [Flood.internal](/_internal/Society/Disaster/Natural_Disaster/Flood.internal.md) 
+
+### #is_/same_as :: [Flood.protect](/_protect/Society/Disaster/Natural_Disaster/Flood.protect.md) 
+
+### #is_/same_as :: [Flood.private](/_private/Society/Disaster/Natural_Disaster/Flood.private.md) 
+
+### #is_/same_as :: [Flood.personal](/_personal/Society/Disaster/Natural_Disaster/Flood.personal.md) 
+
+### #is_/same_as :: [Flood.secret](/_secret/Society/Disaster/Natural_Disaster/Flood.secret.md)
+

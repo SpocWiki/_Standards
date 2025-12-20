@@ -40,17 +40,17 @@ The male gender.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Male](Male.md) 
+### #is_/same_as :: [Male](/_Standards/schema-org/Enumeration/Gender_Type/Male.md) 
 
-### #is_/same_as :: [male.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.public.md) 
+### #is_/same_as :: [Male.public](/_public/schema-org/Enumeration/Gender_Type/Male.public.md) 
 
-### #is_/same_as :: [male.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.internal.md) 
+### #is_/same_as :: [Male.internal](/_internal/schema-org/Enumeration/Gender_Type/Male.internal.md) 
 
-### #is_/same_as :: [male.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.protect.md) 
+### #is_/same_as :: [Male.protect](/_protect/schema-org/Enumeration/Gender_Type/Male.protect.md) 
 
-### #is_/same_as :: [male.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.private.md) 
+### #is_/same_as :: [Male.private](/_private/schema-org/Enumeration/Gender_Type/Male.private.md) 
 
-### #is_/same_as :: [male.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.personal.md) 
+### #is_/same_as :: [Male.personal](/_personal/schema-org/Enumeration/Gender_Type/Male.personal.md) 
 
-### #is_/same_as :: [male.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.secret.md)
+### #is_/same_as :: [Male.secret](/_secret/schema-org/Enumeration/Gender_Type/Male.secret.md)
 

@@ -55,3 +55,21 @@ UNSPSC_Code: "50191505"
 > Some soups are found in recognisably similar forms in the cuisines of many countries and regions – several from Asia have become familiar in the west and chicken soups and legume soups are known round the world; others remain almost entirely exclusive to their region of origin.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soup)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soup](/_Standards/Society/Economics/Home_Economics/Meal/Soup.md) 
+
+### #is_/same_as :: [Soup.public](/_public/Society/Economics/Home_Economics/Meal/Soup.public.md) 
+
+### #is_/same_as :: [Soup.internal](/_internal/Society/Economics/Home_Economics/Meal/Soup.internal.md) 
+
+### #is_/same_as :: [Soup.protect](/_protect/Society/Economics/Home_Economics/Meal/Soup.protect.md) 
+
+### #is_/same_as :: [Soup.private](/_private/Society/Economics/Home_Economics/Meal/Soup.private.md) 
+
+### #is_/same_as :: [Soup.personal](/_personal/Society/Economics/Home_Economics/Meal/Soup.personal.md) 
+
+### #is_/same_as :: [Soup.secret](/_secret/Society/Economics/Home_Economics/Meal/Soup.secret.md)
+

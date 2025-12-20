@@ -28,3 +28,22 @@ UMLS_CUI: C1229168
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ericoideae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ericoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae.md) 
+
+### #is_/same_as :: [Ericoideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae.public.md) 
+
+### #is_/same_as :: [Ericoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae.internal.md) 
+
+### #is_/same_as :: [Ericoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae.protect.md) 
+
+### #is_/same_as :: [Ericoideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae.private.md) 
+
+### #is_/same_as :: [Ericoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae.personal.md) 
+
+### #is_/same_as :: [Ericoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae.secret.md)
+

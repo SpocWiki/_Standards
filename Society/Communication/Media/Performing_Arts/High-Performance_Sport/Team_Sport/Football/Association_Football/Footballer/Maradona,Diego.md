@@ -109,3 +109,22 @@ date_of_death: 2020-11-25T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diego%20Maradona) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maradona,Diego](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.md) 
+
+### #is_/same_as :: [Maradona,Diego.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.public.md) 
+
+### #is_/same_as :: [Maradona,Diego.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.internal.md) 
+
+### #is_/same_as :: [Maradona,Diego.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.protect.md) 
+
+### #is_/same_as :: [Maradona,Diego.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.private.md) 
+
+### #is_/same_as :: [Maradona,Diego.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.personal.md) 
+
+### #is_/same_as :: [Maradona,Diego.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.secret.md)
+

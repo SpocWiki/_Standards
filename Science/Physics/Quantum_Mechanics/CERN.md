@@ -150,3 +150,22 @@ native_label: Organisation européenne pour la recherche nucléaire
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/CERN) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CERN](/_Standards/Science/Physics/Quantum_Mechanics/CERN.md) 
+
+### #is_/same_as :: [CERN.public](/_public/Science/Physics/Quantum_Mechanics/CERN.public.md) 
+
+### #is_/same_as :: [CERN.internal](/_internal/Science/Physics/Quantum_Mechanics/CERN.internal.md) 
+
+### #is_/same_as :: [CERN.protect](/_protect/Science/Physics/Quantum_Mechanics/CERN.protect.md) 
+
+### #is_/same_as :: [CERN.private](/_private/Science/Physics/Quantum_Mechanics/CERN.private.md) 
+
+### #is_/same_as :: [CERN.personal](/_personal/Science/Physics/Quantum_Mechanics/CERN.personal.md) 
+
+### #is_/same_as :: [CERN.secret](/_secret/Science/Physics/Quantum_Mechanics/CERN.secret.md)
+

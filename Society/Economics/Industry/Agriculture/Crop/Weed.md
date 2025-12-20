@@ -38,3 +38,22 @@ Dewey_Decimal_Classification: "632.5"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weed) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weed](/_Standards/Society/Economics/Industry/Agriculture/Crop/Weed.md) 
+
+### #is_/same_as :: [Weed.public](/_public/Society/Economics/Industry/Agriculture/Crop/Weed.public.md) 
+
+### #is_/same_as :: [Weed.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Weed.internal.md) 
+
+### #is_/same_as :: [Weed.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Weed.protect.md) 
+
+### #is_/same_as :: [Weed.private](/_private/Society/Economics/Industry/Agriculture/Crop/Weed.private.md) 
+
+### #is_/same_as :: [Weed.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Weed.personal.md) 
+
+### #is_/same_as :: [Weed.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Weed.secret.md)
+

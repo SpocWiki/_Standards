@@ -48,3 +48,22 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/West%20Fra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/West%20Francia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0843-West_Francia+0987](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.md) 
+
+### #is_/same_as :: [0843-West_Francia+0987.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.public.md) 
+
+### #is_/same_as :: [0843-West_Francia+0987.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.internal.md) 
+
+### #is_/same_as :: [0843-West_Francia+0987.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.protect.md) 
+
+### #is_/same_as :: [0843-West_Francia+0987.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.private.md) 
+
+### #is_/same_as :: [0843-West_Francia+0987.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.personal.md) 
+
+### #is_/same_as :: [0843-West_Francia+0987.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.secret.md)
+

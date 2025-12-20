@@ -58,3 +58,22 @@ name_in_kana: でんしとしょかん
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Digital%20library) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Digital_Library](/_Standards/Technology/IT/Data/Data_Storage/Database/Digital_Library.md) 
+
+### #is_/same_as :: [Digital_Library.public](/_public/Technology/IT/Data/Data_Storage/Database/Digital_Library.public.md) 
+
+### #is_/same_as :: [Digital_Library.internal](/_internal/Technology/IT/Data/Data_Storage/Database/Digital_Library.internal.md) 
+
+### #is_/same_as :: [Digital_Library.protect](/_protect/Technology/IT/Data/Data_Storage/Database/Digital_Library.protect.md) 
+
+### #is_/same_as :: [Digital_Library.private](/_private/Technology/IT/Data/Data_Storage/Database/Digital_Library.private.md) 
+
+### #is_/same_as :: [Digital_Library.personal](/_personal/Technology/IT/Data/Data_Storage/Database/Digital_Library.personal.md) 
+
+### #is_/same_as :: [Digital_Library.secret](/_secret/Technology/IT/Data/Data_Storage/Database/Digital_Library.secret.md)
+

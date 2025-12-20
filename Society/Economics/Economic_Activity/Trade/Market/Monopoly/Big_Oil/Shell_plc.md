@@ -201,3 +201,22 @@ official_name: Shell plc
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shell%20plc) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shell_plc](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.md) 
+
+### #is_/same_as :: [Shell_plc.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.public.md) 
+
+### #is_/same_as :: [Shell_plc.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.internal.md) 
+
+### #is_/same_as :: [Shell_plc.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.protect.md) 
+
+### #is_/same_as :: [Shell_plc.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.private.md) 
+
+### #is_/same_as :: [Shell_plc.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.personal.md) 
+
+### #is_/same_as :: [Shell_plc.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.secret.md)
+

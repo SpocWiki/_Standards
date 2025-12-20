@@ -81,3 +81,22 @@ Commons_category: Magnetic fields
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20field) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magnetic_Field](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.md) 
+
+### #is_/same_as :: [Magnetic_Field.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.public.md) 
+
+### #is_/same_as :: [Magnetic_Field.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.internal.md) 
+
+### #is_/same_as :: [Magnetic_Field.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.protect.md) 
+
+### #is_/same_as :: [Magnetic_Field.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.private.md) 
+
+### #is_/same_as :: [Magnetic_Field.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.personal.md) 
+
+### #is_/same_as :: [Magnetic_Field.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Field.secret.md)
+

@@ -187,17 +187,17 @@ Huizhou: czh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-zh-cmn](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.md) 
+### #is_/same_as :: [Lang-zh-cmn](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.md) 
 
-### #is_/same_as :: [Lang-zh-cmn.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.public.md) 
+### #is_/same_as :: [Lang-zh-cmn.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.public.md) 
 
-### #is_/same_as :: [Lang-zh-cmn.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.internal.md) 
+### #is_/same_as :: [Lang-zh-cmn.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.internal.md) 
 
-### #is_/same_as :: [Lang-zh-cmn.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.protect.md) 
+### #is_/same_as :: [Lang-zh-cmn.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.protect.md) 
 
-### #is_/same_as :: [Lang-zh-cmn.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.private.md) 
+### #is_/same_as :: [Lang-zh-cmn.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.private.md) 
 
-### #is_/same_as :: [Lang-zh-cmn.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.personal.md) 
+### #is_/same_as :: [Lang-zh-cmn.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.personal.md) 
 
-### #is_/same_as :: [Lang-zh-cmn.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.secret.md)
+### #is_/same_as :: [Lang-zh-cmn.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.secret.md)
 

@@ -138,3 +138,22 @@ Plex_person_key: 5d7768255af944001f1f63c8
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jack%20Nicholson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nicholson,Jack](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.md) 
+
+### #is_/same_as :: [Nicholson,Jack.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.public.md) 
+
+### #is_/same_as :: [Nicholson,Jack.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.internal.md) 
+
+### #is_/same_as :: [Nicholson,Jack.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.protect.md) 
+
+### #is_/same_as :: [Nicholson,Jack.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.private.md) 
+
+### #is_/same_as :: [Nicholson,Jack.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.personal.md) 
+
+### #is_/same_as :: [Nicholson,Jack.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.secret.md)
+

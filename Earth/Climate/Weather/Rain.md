@@ -75,17 +75,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Rain%202.gif
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rain](/_Standards/Earth/Atmosphere,Earth/Climate/Weather/Rain.md) 
+### #is_/same_as :: [Rain](/_Standards/Earth/Climate/Weather/Rain.md) 
 
-### #is_/same_as :: [Rain.public](/_public/Earth/Atmosphere,Earth/Climate/Weather/Rain.public.md) 
+### #is_/same_as :: [Rain.public](/_public/Earth/Climate/Weather/Rain.public.md) 
 
-### #is_/same_as :: [Rain.internal](/_internal/Earth/Atmosphere,Earth/Climate/Weather/Rain.internal.md) 
+### #is_/same_as :: [Rain.internal](/_internal/Earth/Climate/Weather/Rain.internal.md) 
 
-### #is_/same_as :: [Rain.protect](/_protect/Earth/Atmosphere,Earth/Climate/Weather/Rain.protect.md) 
+### #is_/same_as :: [Rain.protect](/_protect/Earth/Climate/Weather/Rain.protect.md) 
 
-### #is_/same_as :: [Rain.private](/_private/Earth/Atmosphere,Earth/Climate/Weather/Rain.private.md) 
+### #is_/same_as :: [Rain.private](/_private/Earth/Climate/Weather/Rain.private.md) 
 
-### #is_/same_as :: [Rain.personal](/_personal/Earth/Atmosphere,Earth/Climate/Weather/Rain.personal.md) 
+### #is_/same_as :: [Rain.personal](/_personal/Earth/Climate/Weather/Rain.personal.md) 
 
-### #is_/same_as :: [Rain.secret](/_secret/Earth/Atmosphere,Earth/Climate/Weather/Rain.secret.md)
+### #is_/same_as :: [Rain.secret](/_secret/Earth/Climate/Weather/Rain.secret.md)
 

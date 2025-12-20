@@ -210,3 +210,22 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Benjamin%20Franklin)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Franklin,Benjamin](/_Standards/Earth/Continent/America~North/Franklin,Benjamin.md) 
+
+### #is_/same_as :: [Franklin,Benjamin.public](/_public/Earth/Continent/America~North/Franklin,Benjamin.public.md) 
+
+### #is_/same_as :: [Franklin,Benjamin.internal](/_internal/Earth/Continent/America~North/Franklin,Benjamin.internal.md) 
+
+### #is_/same_as :: [Franklin,Benjamin.protect](/_protect/Earth/Continent/America~North/Franklin,Benjamin.protect.md) 
+
+### #is_/same_as :: [Franklin,Benjamin.private](/_private/Earth/Continent/America~North/Franklin,Benjamin.private.md) 
+
+### #is_/same_as :: [Franklin,Benjamin.personal](/_personal/Earth/Continent/America~North/Franklin,Benjamin.personal.md) 
+
+### #is_/same_as :: [Franklin,Benjamin.secret](/_secret/Earth/Continent/America~North/Franklin,Benjamin.secret.md)
+

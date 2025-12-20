@@ -68,3 +68,22 @@ NBN_System_Key: NHMSYS0000458614
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eucalyptus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eucalyptus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Eucalyptus.md) 
+
+### #is_/same_as :: [Eucalyptus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Eucalyptus.public.md) 
+
+### #is_/same_as :: [Eucalyptus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Eucalyptus.internal.md) 
+
+### #is_/same_as :: [Eucalyptus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Eucalyptus.protect.md) 
+
+### #is_/same_as :: [Eucalyptus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Eucalyptus.private.md) 
+
+### #is_/same_as :: [Eucalyptus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Eucalyptus.personal.md) 
+
+### #is_/same_as :: [Eucalyptus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Eucalyptus.secret.md)
+

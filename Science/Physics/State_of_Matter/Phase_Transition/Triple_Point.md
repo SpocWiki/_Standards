@@ -68,3 +68,22 @@ The (partial) Pressure of the Gas-Phase is then fully determined by this Tempera
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triple%20point) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Triple_Point](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Triple_Point.md) 
+
+### #is_/same_as :: [Triple_Point.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Triple_Point.public.md) 
+
+### #is_/same_as :: [Triple_Point.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Triple_Point.internal.md) 
+
+### #is_/same_as :: [Triple_Point.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Triple_Point.protect.md) 
+
+### #is_/same_as :: [Triple_Point.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Triple_Point.private.md) 
+
+### #is_/same_as :: [Triple_Point.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Triple_Point.personal.md) 
+
+### #is_/same_as :: [Triple_Point.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Triple_Point.secret.md)
+

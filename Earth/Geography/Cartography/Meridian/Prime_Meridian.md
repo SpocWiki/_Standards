@@ -48,3 +48,22 @@ Commons_category: Prime meridian
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prime%20meridian) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prime_Meridian](/_Standards/Earth/Geography/Cartography/Meridian/Prime_Meridian.md) 
+
+### #is_/same_as :: [Prime_Meridian.public](/_public/Earth/Geography/Cartography/Meridian/Prime_Meridian.public.md) 
+
+### #is_/same_as :: [Prime_Meridian.internal](/_internal/Earth/Geography/Cartography/Meridian/Prime_Meridian.internal.md) 
+
+### #is_/same_as :: [Prime_Meridian.protect](/_protect/Earth/Geography/Cartography/Meridian/Prime_Meridian.protect.md) 
+
+### #is_/same_as :: [Prime_Meridian.private](/_private/Earth/Geography/Cartography/Meridian/Prime_Meridian.private.md) 
+
+### #is_/same_as :: [Prime_Meridian.personal](/_personal/Earth/Geography/Cartography/Meridian/Prime_Meridian.personal.md) 
+
+### #is_/same_as :: [Prime_Meridian.secret](/_secret/Earth/Geography/Cartography/Meridian/Prime_Meridian.secret.md)
+

@@ -139,17 +139,17 @@ Glottolog_code: viet1252
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-vi](/_Standards/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.md) 
+### #is_/same_as :: [Lang-vie](/_Standards/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-vie.md) 
 
-### #is_/same_as :: [Lang-vi.public](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.public.md) 
+### #is_/same_as :: [Lang-vie.public](/_public/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-vie.public.md) 
 
-### #is_/same_as :: [Lang-vi.internal](/_internal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.internal.md) 
+### #is_/same_as :: [Lang-vie.internal](/_internal/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-vie.internal.md) 
 
-### #is_/same_as :: [Lang-vi.protect](/_protect/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.protect.md) 
+### #is_/same_as :: [Lang-vie.protect](/_protect/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-vie.protect.md) 
 
-### #is_/same_as :: [Lang-vi.private](/_private/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.private.md) 
+### #is_/same_as :: [Lang-vie.private](/_private/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-vie.private.md) 
 
-### #is_/same_as :: [Lang-vi.personal](/_personal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.personal.md) 
+### #is_/same_as :: [Lang-vie.personal](/_personal/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-vie.personal.md) 
 
-### #is_/same_as :: [Lang-vi.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.secret.md)
+### #is_/same_as :: [Lang-vie.secret](/_secret/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-vie.secret.md)
 

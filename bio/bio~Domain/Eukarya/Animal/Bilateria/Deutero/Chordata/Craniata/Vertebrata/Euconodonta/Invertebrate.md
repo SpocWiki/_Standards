@@ -45,3 +45,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/BESPOZVONOCHNIE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Invertebrate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Invertebrate](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.md) 
+
+### #is_/same_as :: [Invertebrate.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.public.md) 
+
+### #is_/same_as :: [Invertebrate.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.internal.md) 
+
+### #is_/same_as :: [Invertebrate.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.protect.md) 
+
+### #is_/same_as :: [Invertebrate.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.private.md) 
+
+### #is_/same_as :: [Invertebrate.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.personal.md) 
+
+### #is_/same_as :: [Invertebrate.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.secret.md)
+

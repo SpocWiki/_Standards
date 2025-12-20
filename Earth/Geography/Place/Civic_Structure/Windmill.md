@@ -59,3 +59,22 @@ Dewey_Decimal_Classification: "621.453"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Windmill) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Windmill](/_Standards/Earth/Geography/Place/Civic_Structure/Windmill.md) 
+
+### #is_/same_as :: [Windmill.public](/_public/Earth/Geography/Place/Civic_Structure/Windmill.public.md) 
+
+### #is_/same_as :: [Windmill.internal](/_internal/Earth/Geography/Place/Civic_Structure/Windmill.internal.md) 
+
+### #is_/same_as :: [Windmill.protect](/_protect/Earth/Geography/Place/Civic_Structure/Windmill.protect.md) 
+
+### #is_/same_as :: [Windmill.private](/_private/Earth/Geography/Place/Civic_Structure/Windmill.private.md) 
+
+### #is_/same_as :: [Windmill.personal](/_personal/Earth/Geography/Place/Civic_Structure/Windmill.personal.md) 
+
+### #is_/same_as :: [Windmill.secret](/_secret/Earth/Geography/Place/Civic_Structure/Windmill.secret.md)
+

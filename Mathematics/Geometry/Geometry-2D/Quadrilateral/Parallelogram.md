@@ -51,3 +51,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Parallelogram%20simple
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parallelogram) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parallelogram](/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.md) 
+
+### #is_/same_as :: [Parallelogram.public](/_public/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.public.md) 
+
+### #is_/same_as :: [Parallelogram.internal](/_internal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.internal.md) 
+
+### #is_/same_as :: [Parallelogram.protect](/_protect/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.protect.md) 
+
+### #is_/same_as :: [Parallelogram.private](/_private/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.private.md) 
+
+### #is_/same_as :: [Parallelogram.personal](/_personal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.personal.md) 
+
+### #is_/same_as :: [Parallelogram.secret](/_secret/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.secret.md)
+

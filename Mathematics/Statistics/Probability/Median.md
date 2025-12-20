@@ -41,3 +41,21 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Median) 
 
 **
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Median](/_Standards/Mathematics/Statistics/Probability/Median.md) 
+
+### #is_/same_as :: [Median.public](/_public/Mathematics/Statistics/Probability/Median.public.md) 
+
+### #is_/same_as :: [Median.internal](/_internal/Mathematics/Statistics/Probability/Median.internal.md) 
+
+### #is_/same_as :: [Median.protect](/_protect/Mathematics/Statistics/Probability/Median.protect.md) 
+
+### #is_/same_as :: [Median.private](/_private/Mathematics/Statistics/Probability/Median.private.md) 
+
+### #is_/same_as :: [Median.personal](/_personal/Mathematics/Statistics/Probability/Median.personal.md) 
+
+### #is_/same_as :: [Median.secret](/_secret/Mathematics/Statistics/Probability/Median.secret.md)
+

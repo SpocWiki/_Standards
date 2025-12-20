@@ -29,3 +29,22 @@ has_id_wikidata: Q92739
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20McCarthy%20(computer%20scientist))
 
 ![John McCarthy (computer scientist) - Wikipedia](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [McCarthy,John](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.md) 
+
+### #is_/same_as :: [McCarthy,John.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.public.md) 
+
+### #is_/same_as :: [McCarthy,John.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.internal.md) 
+
+### #is_/same_as :: [McCarthy,John.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.protect.md) 
+
+### #is_/same_as :: [McCarthy,John.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.private.md) 
+
+### #is_/same_as :: [McCarthy,John.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.personal.md) 
+
+### #is_/same_as :: [McCarthy,John.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.secret.md)
+

@@ -123,17 +123,17 @@ visitors_per_year:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mount_Everest](/_Standards/Earth/Continent/Asia/Asia~Central/Mount_Everest.md) 
+### #is_/same_as :: [Mount_Everest](/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.md) 
 
-### #is_/same_as :: [Mount_Everest.public](/_public/Earth/Continent/Asia/Asia~Central/Mount_Everest.public.md) 
+### #is_/same_as :: [Mount_Everest.public](/_public/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.public.md) 
 
-### #is_/same_as :: [Mount_Everest.internal](/_internal/Earth/Continent/Asia/Asia~Central/Mount_Everest.internal.md) 
+### #is_/same_as :: [Mount_Everest.internal](/_internal/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.internal.md) 
 
-### #is_/same_as :: [Mount_Everest.protect](/_protect/Earth/Continent/Asia/Asia~Central/Mount_Everest.protect.md) 
+### #is_/same_as :: [Mount_Everest.protect](/_protect/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.protect.md) 
 
-### #is_/same_as :: [Mount_Everest.private](/_private/Earth/Continent/Asia/Asia~Central/Mount_Everest.private.md) 
+### #is_/same_as :: [Mount_Everest.private](/_private/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.private.md) 
 
-### #is_/same_as :: [Mount_Everest.personal](/_personal/Earth/Continent/Asia/Asia~Central/Mount_Everest.personal.md) 
+### #is_/same_as :: [Mount_Everest.personal](/_personal/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.personal.md) 
 
-### #is_/same_as :: [Mount_Everest.secret](/_secret/Earth/Continent/Asia/Asia~Central/Mount_Everest.secret.md)
+### #is_/same_as :: [Mount_Everest.secret](/_secret/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.secret.md)
 

@@ -70,3 +70,22 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Darryl%20Zanu
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Darryl%20F.%20Zanuck) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zanuck,Darryl_F](/_Standards/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.md) 
+
+### #is_/same_as :: [Zanuck,Darryl_F.public](/_public/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.public.md) 
+
+### #is_/same_as :: [Zanuck,Darryl_F.internal](/_internal/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.internal.md) 
+
+### #is_/same_as :: [Zanuck,Darryl_F.protect](/_protect/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.protect.md) 
+
+### #is_/same_as :: [Zanuck,Darryl_F.private](/_private/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.private.md) 
+
+### #is_/same_as :: [Zanuck,Darryl_F.personal](/_personal/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.personal.md) 
+
+### #is_/same_as :: [Zanuck,Darryl_F.secret](/_secret/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.secret.md)
+

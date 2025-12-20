@@ -40,3 +40,22 @@ MeSH_tree_code: D01.248.497.158
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anion](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.md) 
+
+### #is_/same_as :: [Anion.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.public.md) 
+
+### #is_/same_as :: [Anion.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.internal.md) 
+
+### #is_/same_as :: [Anion.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.protect.md) 
+
+### #is_/same_as :: [Anion.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.private.md) 
+
+### #is_/same_as :: [Anion.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.personal.md) 
+
+### #is_/same_as :: [Anion.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.secret.md)
+

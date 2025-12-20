@@ -29,3 +29,22 @@ has_id_wikidata: Q154755
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ada%20(programming%20language))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Ada](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.md) 
+
+### #is_/same_as :: [Prog~Ada.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.public.md) 
+
+### #is_/same_as :: [Prog~Ada.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.internal.md) 
+
+### #is_/same_as :: [Prog~Ada.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.protect.md) 
+
+### #is_/same_as :: [Prog~Ada.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.private.md) 
+
+### #is_/same_as :: [Prog~Ada.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.personal.md) 
+
+### #is_/same_as :: [Prog~Ada.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.secret.md)
+

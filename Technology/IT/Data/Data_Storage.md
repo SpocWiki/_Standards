@@ -56,3 +56,22 @@ Unicode_range: U+1F4BD-1F4C0,U+1F4FC
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20storage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Data_Storage](/_Standards/Technology/IT/Data/Data_Storage.md) 
+
+### #is_/same_as :: [Data_Storage.public](/_public/Technology/IT/Data/Data_Storage.public.md) 
+
+### #is_/same_as :: [Data_Storage.internal](/_internal/Technology/IT/Data/Data_Storage.internal.md) 
+
+### #is_/same_as :: [Data_Storage.protect](/_protect/Technology/IT/Data/Data_Storage.protect.md) 
+
+### #is_/same_as :: [Data_Storage.private](/_private/Technology/IT/Data/Data_Storage.private.md) 
+
+### #is_/same_as :: [Data_Storage.personal](/_personal/Technology/IT/Data/Data_Storage.personal.md) 
+
+### #is_/same_as :: [Data_Storage.secret](/_secret/Technology/IT/Data/Data_Storage.secret.md)
+

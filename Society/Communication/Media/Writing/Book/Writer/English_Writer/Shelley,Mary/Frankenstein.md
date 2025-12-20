@@ -151,3 +151,22 @@ work_available_at_URL: https://standardebooks.org/ebooks/mary-shelley/frankenste
 > [Wikipedia](https://en.wikipedia.org/wiki/Frankenstein) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frankenstein](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein.md) 
+
+### #is_/same_as :: [Frankenstein.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein.public.md) 
+
+### #is_/same_as :: [Frankenstein.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein.internal.md) 
+
+### #is_/same_as :: [Frankenstein.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein.protect.md) 
+
+### #is_/same_as :: [Frankenstein.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein.private.md) 
+
+### #is_/same_as :: [Frankenstein.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein.personal.md) 
+
+### #is_/same_as :: [Frankenstein.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein.secret.md)
+

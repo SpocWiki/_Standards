@@ -135,3 +135,22 @@ Library_of_Congress_Classification_works_and_editions_: AN151.W31 P85
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Washington%20Post) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Washington_Post](/_Standards/Society/Communication/Media/Journalism/Newspaper/Washington_Post.md) 
+
+### #is_/same_as :: [Washington_Post.public](/_public/Society/Communication/Media/Journalism/Newspaper/Washington_Post.public.md) 
+
+### #is_/same_as :: [Washington_Post.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Washington_Post.internal.md) 
+
+### #is_/same_as :: [Washington_Post.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Washington_Post.protect.md) 
+
+### #is_/same_as :: [Washington_Post.private](/_private/Society/Communication/Media/Journalism/Newspaper/Washington_Post.private.md) 
+
+### #is_/same_as :: [Washington_Post.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Washington_Post.personal.md) 
+
+### #is_/same_as :: [Washington_Post.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Washington_Post.secret.md)
+

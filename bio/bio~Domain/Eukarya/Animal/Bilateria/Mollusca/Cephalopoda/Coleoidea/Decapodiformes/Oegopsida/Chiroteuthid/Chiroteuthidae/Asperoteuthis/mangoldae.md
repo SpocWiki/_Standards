@@ -183,7 +183,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
   Collection         NMNH 729752
   Type               Holotype
   Copyright ::          © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
-  --------------------------------------------------------------------------
+  --------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

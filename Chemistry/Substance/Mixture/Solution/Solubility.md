@@ -50,3 +50,22 @@ Commons_category: Solubility
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solubility) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solubility](/_Standards/Chemistry/Substance/Mixture/Solution/Solubility.md) 
+
+### #is_/same_as :: [Solubility.public](/_public/Chemistry/Substance/Mixture/Solution/Solubility.public.md) 
+
+### #is_/same_as :: [Solubility.internal](/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal.md) 
+
+### #is_/same_as :: [Solubility.protect](/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect.md) 
+
+### #is_/same_as :: [Solubility.private](/_private/Chemistry/Substance/Mixture/Solution/Solubility.private.md) 
+
+### #is_/same_as :: [Solubility.personal](/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal.md) 
+
+### #is_/same_as :: [Solubility.secret](/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret.md)
+

@@ -42,3 +42,22 @@ unit_symbol: ‱
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Basis%20point) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Basis_Point](/_Standards/Dimension/Dim~Number/Basis_Point.md) 
+
+### #is_/same_as :: [Basis_Point.public](/_public/Dimension/Dim~Number/Basis_Point.public.md) 
+
+### #is_/same_as :: [Basis_Point.internal](/_internal/Dimension/Dim~Number/Basis_Point.internal.md) 
+
+### #is_/same_as :: [Basis_Point.protect](/_protect/Dimension/Dim~Number/Basis_Point.protect.md) 
+
+### #is_/same_as :: [Basis_Point.private](/_private/Dimension/Dim~Number/Basis_Point.private.md) 
+
+### #is_/same_as :: [Basis_Point.personal](/_personal/Dimension/Dim~Number/Basis_Point.personal.md) 
+
+### #is_/same_as :: [Basis_Point.secret](/_secret/Dimension/Dim~Number/Basis_Point.secret.md)
+

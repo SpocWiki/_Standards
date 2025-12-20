@@ -135,17 +135,17 @@ Europeana_entity: agent/base/146827
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Verdi,Giuseppe](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composers/Verdi,Giuseppe.md) 
+### #is_/same_as :: [Verdi,Giuseppe](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.md) 
 
-### #is_/same_as :: [Verdi,Giuseppe.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composers/Verdi,Giuseppe.public.md) 
+### #is_/same_as :: [Verdi,Giuseppe.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.public.md) 
 
-### #is_/same_as :: [Verdi,Giuseppe.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composers/Verdi,Giuseppe.internal.md) 
+### #is_/same_as :: [Verdi,Giuseppe.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.internal.md) 
 
-### #is_/same_as :: [Verdi,Giuseppe.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composers/Verdi,Giuseppe.protect.md) 
+### #is_/same_as :: [Verdi,Giuseppe.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.protect.md) 
 
-### #is_/same_as :: [Verdi,Giuseppe.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composers/Verdi,Giuseppe.private.md) 
+### #is_/same_as :: [Verdi,Giuseppe.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.private.md) 
 
-### #is_/same_as :: [Verdi,Giuseppe.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composers/Verdi,Giuseppe.personal.md) 
+### #is_/same_as :: [Verdi,Giuseppe.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.personal.md) 
 
-### #is_/same_as :: [Verdi,Giuseppe.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composers/Verdi,Giuseppe.secret.md)
+### #is_/same_as :: [Verdi,Giuseppe.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe.secret.md)
 

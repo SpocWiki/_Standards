@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Arthur,Chester_A
 - 
@@ -38,4 +38,23 @@ has_id_wikidata: Q35498
 
 ## Offices 
 -   [has_role :: [[../US~President]] ] [created:: 1881-09-19]  [cancelled:: 1885-03-04]  
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arthur,Chester_A](/_Standards/Earth/Continent/America~North/US~President/Arthur,Chester_A.md) 
+
+### #is_/same_as :: [Arthur,Chester_A.public](/_public/Earth/Continent/America~North/US~President/Arthur,Chester_A.public.md) 
+
+### #is_/same_as :: [Arthur,Chester_A.internal](/_internal/Earth/Continent/America~North/US~President/Arthur,Chester_A.internal.md) 
+
+### #is_/same_as :: [Arthur,Chester_A.protect](/_protect/Earth/Continent/America~North/US~President/Arthur,Chester_A.protect.md) 
+
+### #is_/same_as :: [Arthur,Chester_A.private](/_private/Earth/Continent/America~North/US~President/Arthur,Chester_A.private.md) 
+
+### #is_/same_as :: [Arthur,Chester_A.personal](/_personal/Earth/Continent/America~North/US~President/Arthur,Chester_A.personal.md) 
+
+### #is_/same_as :: [Arthur,Chester_A.secret](/_secret/Earth/Continent/America~North/US~President/Arthur,Chester_A.secret.md)
 

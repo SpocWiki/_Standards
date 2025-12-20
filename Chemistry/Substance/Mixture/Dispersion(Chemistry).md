@@ -31,3 +31,22 @@ has_part_s_: "[[_Standards/WikiData/WD~dispersed_phase,12101200]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dispersion%20(chemistry)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dispersion(Chemistry)](/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry).md) 
+
+### #is_/same_as :: [Dispersion(Chemistry).public](/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry).public.md) 
+
+### #is_/same_as :: [Dispersion(Chemistry).internal](/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry).internal.md) 
+
+### #is_/same_as :: [Dispersion(Chemistry).protect](/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry).protect.md) 
+
+### #is_/same_as :: [Dispersion(Chemistry).private](/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry).private.md) 
+
+### #is_/same_as :: [Dispersion(Chemistry).personal](/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry).personal.md) 
+
+### #is_/same_as :: [Dispersion(Chemistry).secret](/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry).secret.md)
+

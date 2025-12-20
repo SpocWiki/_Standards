@@ -73,3 +73,22 @@ Krugosvet_article_archived_: istoriya/VESTGOTI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Visigoths) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Visigoth](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.md) 
+
+### #is_/same_as :: [Visigoth.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.public.md) 
+
+### #is_/same_as :: [Visigoth.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.internal.md) 
+
+### #is_/same_as :: [Visigoth.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.protect.md) 
+
+### #is_/same_as :: [Visigoth.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.private.md) 
+
+### #is_/same_as :: [Visigoth.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.personal.md) 
+
+### #is_/same_as :: [Visigoth.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.secret.md)
+

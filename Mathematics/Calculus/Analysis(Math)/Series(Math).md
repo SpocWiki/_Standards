@@ -80,3 +80,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Series(Math)](/_Standards/Mathematics/Calculus/Analysis(Math)/Series(Math).md) 
+
+### #is_/same_as :: [Series(Math).public](/_public/Mathematics/Calculus/Analysis(Math)/Series(Math).public.md) 
+
+### #is_/same_as :: [Series(Math).internal](/_internal/Mathematics/Calculus/Analysis(Math)/Series(Math).internal.md) 
+
+### #is_/same_as :: [Series(Math).protect](/_protect/Mathematics/Calculus/Analysis(Math)/Series(Math).protect.md) 
+
+### #is_/same_as :: [Series(Math).private](/_private/Mathematics/Calculus/Analysis(Math)/Series(Math).private.md) 
+
+### #is_/same_as :: [Series(Math).personal](/_personal/Mathematics/Calculus/Analysis(Math)/Series(Math).personal.md) 
+
+### #is_/same_as :: [Series(Math).secret](/_secret/Mathematics/Calculus/Analysis(Math)/Series(Math).secret.md)
+

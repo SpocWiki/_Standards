@@ -34,3 +34,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Asia%20(band))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Asia(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Asia(Band).md) 
+
+### #is_/same_as :: [Asia(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Asia(Band).public.md) 
+
+### #is_/same_as :: [Asia(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Asia(Band).internal.md) 
+
+### #is_/same_as :: [Asia(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Asia(Band).protect.md) 
+
+### #is_/same_as :: [Asia(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Asia(Band).private.md) 
+
+### #is_/same_as :: [Asia(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Asia(Band).personal.md) 
+
+### #is_/same_as :: [Asia(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Asia(Band).secret.md)
+

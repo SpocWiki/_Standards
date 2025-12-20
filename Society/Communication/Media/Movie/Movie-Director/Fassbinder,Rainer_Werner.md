@@ -158,3 +158,22 @@ ISNI: "0000000122810969"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rainer%20Werner%20Fassbinder) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fassbinder,Rainer_Werner](/_Standards/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.md) 
+
+### #is_/same_as :: [Fassbinder,Rainer_Werner.public](/_public/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.public.md) 
+
+### #is_/same_as :: [Fassbinder,Rainer_Werner.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.internal.md) 
+
+### #is_/same_as :: [Fassbinder,Rainer_Werner.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.protect.md) 
+
+### #is_/same_as :: [Fassbinder,Rainer_Werner.private](/_private/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.private.md) 
+
+### #is_/same_as :: [Fassbinder,Rainer_Werner.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.personal.md) 
+
+### #is_/same_as :: [Fassbinder,Rainer_Werner.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.secret.md)
+

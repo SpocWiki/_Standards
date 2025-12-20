@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - McIlroy~Doug
 - "Doug McIlroy"
@@ -21,4 +21,23 @@ aliases:
 > and software product line engineering.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Douglas%20McIlroy)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [McIlroy,Doug](/_Standards/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.md) 
+
+### #is_/same_as :: [McIlroy,Doug.public](/_public/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.public.md) 
+
+### #is_/same_as :: [McIlroy,Doug.internal](/_internal/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.internal.md) 
+
+### #is_/same_as :: [McIlroy,Doug.protect](/_protect/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.protect.md) 
+
+### #is_/same_as :: [McIlroy,Doug.private](/_private/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.private.md) 
+
+### #is_/same_as :: [McIlroy,Doug.personal](/_personal/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.personal.md) 
+
+### #is_/same_as :: [McIlroy,Doug.secret](/_secret/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.secret.md)
 

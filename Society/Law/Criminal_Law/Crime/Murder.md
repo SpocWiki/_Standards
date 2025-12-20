@@ -78,3 +78,22 @@ Provenio_UUID: 7b9a41da-c777-474e-adff-51a62113d158
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Murder) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Murder](/_Standards/Society/Law/Criminal_Law/Crime/Murder.md) 
+
+### #is_/same_as :: [Murder.public](/_public/Society/Law/Criminal_Law/Crime/Murder.public.md) 
+
+### #is_/same_as :: [Murder.internal](/_internal/Society/Law/Criminal_Law/Crime/Murder.internal.md) 
+
+### #is_/same_as :: [Murder.protect](/_protect/Society/Law/Criminal_Law/Crime/Murder.protect.md) 
+
+### #is_/same_as :: [Murder.private](/_private/Society/Law/Criminal_Law/Crime/Murder.private.md) 
+
+### #is_/same_as :: [Murder.personal](/_personal/Society/Law/Criminal_Law/Crime/Murder.personal.md) 
+
+### #is_/same_as :: [Murder.secret](/_secret/Society/Law/Criminal_Law/Crime/Murder.secret.md)
+

@@ -59,3 +59,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diffusion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diffusion](/_Standards/Chemistry/Substance/Mixture/Diffusion.md) 
+
+### #is_/same_as :: [Diffusion.public](/_public/Chemistry/Substance/Mixture/Diffusion.public.md) 
+
+### #is_/same_as :: [Diffusion.internal](/_internal/Chemistry/Substance/Mixture/Diffusion.internal.md) 
+
+### #is_/same_as :: [Diffusion.protect](/_protect/Chemistry/Substance/Mixture/Diffusion.protect.md) 
+
+### #is_/same_as :: [Diffusion.private](/_private/Chemistry/Substance/Mixture/Diffusion.private.md) 
+
+### #is_/same_as :: [Diffusion.personal](/_personal/Chemistry/Substance/Mixture/Diffusion.personal.md) 
+
+### #is_/same_as :: [Diffusion.secret](/_secret/Chemistry/Substance/Mixture/Diffusion.secret.md)
+

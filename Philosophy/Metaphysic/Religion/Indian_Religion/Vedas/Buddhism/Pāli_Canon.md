@@ -79,3 +79,22 @@ Commons_category: Pali Canon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pali%20Canon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pāli_Canon](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Pāli_Canon.md) 
+
+### #is_/same_as :: [Pāli_Canon.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Pāli_Canon.public.md) 
+
+### #is_/same_as :: [Pāli_Canon.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Pāli_Canon.internal.md) 
+
+### #is_/same_as :: [Pāli_Canon.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Pāli_Canon.protect.md) 
+
+### #is_/same_as :: [Pāli_Canon.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Pāli_Canon.private.md) 
+
+### #is_/same_as :: [Pāli_Canon.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Pāli_Canon.personal.md) 
+
+### #is_/same_as :: [Pāli_Canon.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Pāli_Canon.secret.md)
+

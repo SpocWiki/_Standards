@@ -70,7 +70,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Specimen Condition   Live Specimen
   Life Cycle Stage ::     Egg case
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
-  ---------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

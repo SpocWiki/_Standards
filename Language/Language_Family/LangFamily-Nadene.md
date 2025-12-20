@@ -35,3 +35,22 @@ IETF_language_tag: xnd
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Na-Dene%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LangFamily-Nadene](/_Standards/Language/Language_Family/LangFamily-Nadene.md) 
+
+### #is_/same_as :: [LangFamily-Nadene.public](/_public/Language/Language_Family/LangFamily-Nadene.public.md) 
+
+### #is_/same_as :: [LangFamily-Nadene.internal](/_internal/Language/Language_Family/LangFamily-Nadene.internal.md) 
+
+### #is_/same_as :: [LangFamily-Nadene.protect](/_protect/Language/Language_Family/LangFamily-Nadene.protect.md) 
+
+### #is_/same_as :: [LangFamily-Nadene.private](/_private/Language/Language_Family/LangFamily-Nadene.private.md) 
+
+### #is_/same_as :: [LangFamily-Nadene.personal](/_personal/Language/Language_Family/LangFamily-Nadene.personal.md) 
+
+### #is_/same_as :: [LangFamily-Nadene.secret](/_secret/Language/Language_Family/LangFamily-Nadene.secret.md)
+

@@ -85,3 +85,22 @@ Unicode_character: 🪂
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parachute) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parachute](/_Standards/Technology/Aviation/Parachute.md) 
+
+### #is_/same_as :: [Parachute.public](/_public/Technology/Aviation/Parachute.public.md) 
+
+### #is_/same_as :: [Parachute.internal](/_internal/Technology/Aviation/Parachute.internal.md) 
+
+### #is_/same_as :: [Parachute.protect](/_protect/Technology/Aviation/Parachute.protect.md) 
+
+### #is_/same_as :: [Parachute.private](/_private/Technology/Aviation/Parachute.private.md) 
+
+### #is_/same_as :: [Parachute.personal](/_personal/Technology/Aviation/Parachute.personal.md) 
+
+### #is_/same_as :: [Parachute.secret](/_secret/Technology/Aviation/Parachute.secret.md)
+

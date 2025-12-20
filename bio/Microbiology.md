@@ -73,3 +73,22 @@ OpenStreetMap_tag: healthcare:speciality=microbiology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Microbiology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Microbiology](/_Standards/bio/Microbiology.md) 
+
+### #is_/same_as :: [Microbiology.public](/_public/bio/Microbiology.public.md) 
+
+### #is_/same_as :: [Microbiology.internal](/_internal/bio/Microbiology.internal.md) 
+
+### #is_/same_as :: [Microbiology.protect](/_protect/bio/Microbiology.protect.md) 
+
+### #is_/same_as :: [Microbiology.private](/_private/bio/Microbiology.private.md) 
+
+### #is_/same_as :: [Microbiology.personal](/_personal/bio/Microbiology.personal.md) 
+
+### #is_/same_as :: [Microbiology.secret](/_secret/bio/Microbiology.secret.md)
+

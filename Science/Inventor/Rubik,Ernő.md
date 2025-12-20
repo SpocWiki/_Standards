@@ -37,3 +37,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ern%C5%91%20Rubik) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rubik,Ernő](/_Standards/Science/Inventor/Rubik,Ernő.md) 
+
+### #is_/same_as :: [Rubik,Ernő.public](/_public/Science/Inventor/Rubik,Ernő.public.md) 
+
+### #is_/same_as :: [Rubik,Ernő.internal](/_internal/Science/Inventor/Rubik,Ernő.internal.md) 
+
+### #is_/same_as :: [Rubik,Ernő.protect](/_protect/Science/Inventor/Rubik,Ernő.protect.md) 
+
+### #is_/same_as :: [Rubik,Ernő.private](/_private/Science/Inventor/Rubik,Ernő.private.md) 
+
+### #is_/same_as :: [Rubik,Ernő.personal](/_personal/Science/Inventor/Rubik,Ernő.personal.md) 
+
+### #is_/same_as :: [Rubik,Ernő.secret](/_secret/Science/Inventor/Rubik,Ernő.secret.md)
+

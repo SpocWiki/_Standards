@@ -41,3 +41,22 @@ Commons_category: Guiana Highlands
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guiana%20Shield) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guiana_Highlands](/_Standards/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.md) 
+
+### #is_/same_as :: [Guiana_Highlands.public](/_public/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.public.md) 
+
+### #is_/same_as :: [Guiana_Highlands.internal](/_internal/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.internal.md) 
+
+### #is_/same_as :: [Guiana_Highlands.protect](/_protect/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.protect.md) 
+
+### #is_/same_as :: [Guiana_Highlands.private](/_private/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.private.md) 
+
+### #is_/same_as :: [Guiana_Highlands.personal](/_personal/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.personal.md) 
+
+### #is_/same_as :: [Guiana_Highlands.secret](/_secret/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.secret.md)
+

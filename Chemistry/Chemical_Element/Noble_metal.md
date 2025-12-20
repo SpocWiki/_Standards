@@ -29,3 +29,21 @@ Biology_Online_Biology_Dictionary_entry: noble-element
 > Many of the noble metals are used in alloys for jewelry or coinage. In dentistry, silver is not always considered a noble metal because it is subject to corrosion when present in the mouth. All the metals are important heterogeneous catalysts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Noble%20metal)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Noble_metal](/_Standards/Chemistry/Chemical_Element/Noble_metal.md) 
+
+### #is_/same_as :: [Noble_metal.public](/_public/Chemistry/Chemical_Element/Noble_metal.public.md) 
+
+### #is_/same_as :: [Noble_metal.internal](/_internal/Chemistry/Chemical_Element/Noble_metal.internal.md) 
+
+### #is_/same_as :: [Noble_metal.protect](/_protect/Chemistry/Chemical_Element/Noble_metal.protect.md) 
+
+### #is_/same_as :: [Noble_metal.private](/_private/Chemistry/Chemical_Element/Noble_metal.private.md) 
+
+### #is_/same_as :: [Noble_metal.personal](/_personal/Chemistry/Chemical_Element/Noble_metal.personal.md) 
+
+### #is_/same_as :: [Noble_metal.secret](/_secret/Chemistry/Chemical_Element/Noble_metal.secret.md)
+

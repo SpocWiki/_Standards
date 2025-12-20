@@ -57,3 +57,22 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Solstic
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solstice) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solstice](/_Standards/ISO/Calendar/Solstice.md) 
+
+### #is_/same_as :: [Solstice.public](/_public/ISO/Calendar/Solstice.public.md) 
+
+### #is_/same_as :: [Solstice.internal](/_internal/ISO/Calendar/Solstice.internal.md) 
+
+### #is_/same_as :: [Solstice.protect](/_protect/ISO/Calendar/Solstice.protect.md) 
+
+### #is_/same_as :: [Solstice.private](/_private/ISO/Calendar/Solstice.private.md) 
+
+### #is_/same_as :: [Solstice.personal](/_personal/ISO/Calendar/Solstice.personal.md) 
+
+### #is_/same_as :: [Solstice.secret](/_secret/ISO/Calendar/Solstice.secret.md)
+

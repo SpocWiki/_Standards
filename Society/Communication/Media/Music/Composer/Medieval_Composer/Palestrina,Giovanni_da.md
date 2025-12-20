@@ -33,17 +33,17 @@ has_id_wikidata: Q179277
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palestrina,Giovanni_da](/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composers/Palestrina,Giovanni_da.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da](/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.md) 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.public](/_public/Society/Communication/Media/Music/Composer/Medieval_Composers/Palestrina,Giovanni_da.public.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.public](/_public/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.public.md) 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.internal](/_internal/Society/Communication/Media/Music/Composer/Medieval_Composers/Palestrina,Giovanni_da.internal.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.internal](/_internal/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.internal.md) 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.protect](/_protect/Society/Communication/Media/Music/Composer/Medieval_Composers/Palestrina,Giovanni_da.protect.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.protect](/_protect/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.protect.md) 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.private](/_private/Society/Communication/Media/Music/Composer/Medieval_Composers/Palestrina,Giovanni_da.private.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.private](/_private/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.private.md) 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.personal](/_personal/Society/Communication/Media/Music/Composer/Medieval_Composers/Palestrina,Giovanni_da.personal.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.personal](/_personal/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.personal.md) 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.secret](/_secret/Society/Communication/Media/Music/Composer/Medieval_Composers/Palestrina,Giovanni_da.secret.md)
+### #is_/same_as :: [Palestrina,Giovanni_da.secret](/_secret/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.secret.md)
 

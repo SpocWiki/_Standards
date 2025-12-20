@@ -41,17 +41,17 @@ A vet's office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Veterinary_Care](Veterinary_Care.md) 
+### #is_/same_as :: [Veterinary_Care](/_Standards/Society/Agent/Community/Organization/Medical_Organization/Veterinary_Care.md) 
 
-### #is_/same_as :: [Veterinary_Care.public](/_public/Society/Organization/Medical_Organization/Veterinary_Care.public.md) 
+### #is_/same_as :: [Veterinary_Care.public](/_public/Society/Agent/Community/Organization/Medical_Organization/Veterinary_Care.public.md) 
 
-### #is_/same_as :: [Veterinary_Care.internal](/_internal/Society/Organization/Medical_Organization/Veterinary_Care.internal.md) 
+### #is_/same_as :: [Veterinary_Care.internal](/_internal/Society/Agent/Community/Organization/Medical_Organization/Veterinary_Care.internal.md) 
 
-### #is_/same_as :: [Veterinary_Care.protect](/_protect/Society/Organization/Medical_Organization/Veterinary_Care.protect.md) 
+### #is_/same_as :: [Veterinary_Care.protect](/_protect/Society/Agent/Community/Organization/Medical_Organization/Veterinary_Care.protect.md) 
 
-### #is_/same_as :: [Veterinary_Care.private](/_private/Society/Organization/Medical_Organization/Veterinary_Care.private.md) 
+### #is_/same_as :: [Veterinary_Care.private](/_private/Society/Agent/Community/Organization/Medical_Organization/Veterinary_Care.private.md) 
 
-### #is_/same_as :: [Veterinary_Care.personal](/_personal/Society/Organization/Medical_Organization/Veterinary_Care.personal.md) 
+### #is_/same_as :: [Veterinary_Care.personal](/_personal/Society/Agent/Community/Organization/Medical_Organization/Veterinary_Care.personal.md) 
 
-### #is_/same_as :: [Veterinary_Care.secret](/_secret/Society/Organization/Medical_Organization/Veterinary_Care.secret.md)
+### #is_/same_as :: [Veterinary_Care.secret](/_secret/Society/Agent/Community/Organization/Medical_Organization/Veterinary_Care.secret.md)
 

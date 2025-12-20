@@ -68,3 +68,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Charo
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Charon](/_Standards/Astronomy/Solar_System/Pluto/Charon.md) 
+
+### #is_/same_as :: [Charon.public](/_public/Astronomy/Solar_System/Pluto/Charon.public.md) 
+
+### #is_/same_as :: [Charon.internal](/_internal/Astronomy/Solar_System/Pluto/Charon.internal.md) 
+
+### #is_/same_as :: [Charon.protect](/_protect/Astronomy/Solar_System/Pluto/Charon.protect.md) 
+
+### #is_/same_as :: [Charon.private](/_private/Astronomy/Solar_System/Pluto/Charon.private.md) 
+
+### #is_/same_as :: [Charon.personal](/_personal/Astronomy/Solar_System/Pluto/Charon.personal.md) 
+
+### #is_/same_as :: [Charon.secret](/_secret/Astronomy/Solar_System/Pluto/Charon.secret.md)
+

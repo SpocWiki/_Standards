@@ -29,3 +29,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shanghai%20Cooperation%20Organisation)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shanghai_Cooperation_Organisation](/_Standards/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.md) 
+
+### #is_/same_as :: [Shanghai_Cooperation_Organisation.public](/_public/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.public.md) 
+
+### #is_/same_as :: [Shanghai_Cooperation_Organisation.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.internal.md) 
+
+### #is_/same_as :: [Shanghai_Cooperation_Organisation.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.protect.md) 
+
+### #is_/same_as :: [Shanghai_Cooperation_Organisation.private](/_private/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.private.md) 
+
+### #is_/same_as :: [Shanghai_Cooperation_Organisation.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.personal.md) 
+
+### #is_/same_as :: [Shanghai_Cooperation_Organisation.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.secret.md)
+

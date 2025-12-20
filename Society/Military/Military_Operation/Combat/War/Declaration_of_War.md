@@ -31,3 +31,21 @@ Commons_category: Declarations of war
 > Declarations of war have been exceedingly rare since the end of World War II. Scholars have debated the causes of the decline, with some arguing that states are trying to evade the restrictions of international humanitarian law (which governs conduct in war) while others argue that war declarations have come to be perceived as markers of aggression and maximalist aims.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Declaration%20of%20war) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Declaration_of_War](/_Standards/Society/Military/Military_Operation/Combat/War/Declaration_of_War.md) 
+
+### #is_/same_as :: [Declaration_of_War.public](/_public/Society/Military/Military_Operation/Combat/War/Declaration_of_War.public.md) 
+
+### #is_/same_as :: [Declaration_of_War.internal](/_internal/Society/Military/Military_Operation/Combat/War/Declaration_of_War.internal.md) 
+
+### #is_/same_as :: [Declaration_of_War.protect](/_protect/Society/Military/Military_Operation/Combat/War/Declaration_of_War.protect.md) 
+
+### #is_/same_as :: [Declaration_of_War.private](/_private/Society/Military/Military_Operation/Combat/War/Declaration_of_War.private.md) 
+
+### #is_/same_as :: [Declaration_of_War.personal](/_personal/Society/Military/Military_Operation/Combat/War/Declaration_of_War.personal.md) 
+
+### #is_/same_as :: [Declaration_of_War.secret](/_secret/Society/Military/Military_Operation/Combat/War/Declaration_of_War.secret.md)
+

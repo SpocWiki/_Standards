@@ -73,3 +73,22 @@ subreddit: publishing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Publishing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Publishing](/_Standards/Society/Communication/Media/Publishing.md) 
+
+### #is_/same_as :: [Publishing.public](/_public/Society/Communication/Media/Publishing.public.md) 
+
+### #is_/same_as :: [Publishing.internal](/_internal/Society/Communication/Media/Publishing.internal.md) 
+
+### #is_/same_as :: [Publishing.protect](/_protect/Society/Communication/Media/Publishing.protect.md) 
+
+### #is_/same_as :: [Publishing.private](/_private/Society/Communication/Media/Publishing.private.md) 
+
+### #is_/same_as :: [Publishing.personal](/_personal/Society/Communication/Media/Publishing.personal.md) 
+
+### #is_/same_as :: [Publishing.secret](/_secret/Society/Communication/Media/Publishing.secret.md)
+

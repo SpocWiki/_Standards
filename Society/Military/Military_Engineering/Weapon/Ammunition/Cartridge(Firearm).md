@@ -81,8 +81,6 @@ Commons_category: Ammunition cartridges
 > [Wikipedia](https://en.wikipedia.org/wiki/Cartridge%20(firearms)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cartridge(Firearm)](/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition/Cartridge(Firearm).md) 

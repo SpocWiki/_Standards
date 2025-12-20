@@ -95,3 +95,22 @@ To remove them, go into this List and delete them in there.
 ### iPhone-Contacts 
 When you link contacts on an iPhone, they are not permanently merged. Instead, they are simply displayed as a single unified contact. The linked contacts still exist as separate entities in the background, and you can unlink them at any time.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [iPhone](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.md) 
+
+### #is_/same_as :: [iPhone.public](/_public/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.public.md) 
+
+### #is_/same_as :: [iPhone.internal](/_internal/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.internal.md) 
+
+### #is_/same_as :: [iPhone.protect](/_protect/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.protect.md) 
+
+### #is_/same_as :: [iPhone.private](/_private/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.private.md) 
+
+### #is_/same_as :: [iPhone.personal](/_personal/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.personal.md) 
+
+### #is_/same_as :: [iPhone.secret](/_secret/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.secret.md)
+

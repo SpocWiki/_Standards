@@ -75,3 +75,22 @@ ISNI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sun%20Tzu) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sun_Tzu](/_Standards/Society/Military/Sun_Tzu.md) 
+
+### #is_/same_as :: [Sun_Tzu.public](/_public/Society/Military/Sun_Tzu.public.md) 
+
+### #is_/same_as :: [Sun_Tzu.internal](/_internal/Society/Military/Sun_Tzu.internal.md) 
+
+### #is_/same_as :: [Sun_Tzu.protect](/_protect/Society/Military/Sun_Tzu.protect.md) 
+
+### #is_/same_as :: [Sun_Tzu.private](/_private/Society/Military/Sun_Tzu.private.md) 
+
+### #is_/same_as :: [Sun_Tzu.personal](/_personal/Society/Military/Sun_Tzu.personal.md) 
+
+### #is_/same_as :: [Sun_Tzu.secret](/_secret/Society/Military/Sun_Tzu.secret.md)
+

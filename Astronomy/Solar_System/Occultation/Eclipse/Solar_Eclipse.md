@@ -63,3 +63,22 @@ Wolfram_Language_entity_type: SolarEclipse
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20eclipse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solar_Eclipse](/_Standards/Astronomy/Solar_System/Occultation/Eclipse/Solar_Eclipse.md) 
+
+### #is_/same_as :: [Solar_Eclipse.public](/_public/Astronomy/Solar_System/Occultation/Eclipse/Solar_Eclipse.public.md) 
+
+### #is_/same_as :: [Solar_Eclipse.internal](/_internal/Astronomy/Solar_System/Occultation/Eclipse/Solar_Eclipse.internal.md) 
+
+### #is_/same_as :: [Solar_Eclipse.protect](/_protect/Astronomy/Solar_System/Occultation/Eclipse/Solar_Eclipse.protect.md) 
+
+### #is_/same_as :: [Solar_Eclipse.private](/_private/Astronomy/Solar_System/Occultation/Eclipse/Solar_Eclipse.private.md) 
+
+### #is_/same_as :: [Solar_Eclipse.personal](/_personal/Astronomy/Solar_System/Occultation/Eclipse/Solar_Eclipse.personal.md) 
+
+### #is_/same_as :: [Solar_Eclipse.secret](/_secret/Astronomy/Solar_System/Occultation/Eclipse/Solar_Eclipse.secret.md)
+

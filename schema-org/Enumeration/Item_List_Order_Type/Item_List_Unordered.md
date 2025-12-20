@@ -40,17 +40,17 @@ An ItemList ordered with no explicit order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_List_Unordered](Item_List_Unordered.md) 
+### #is_/same_as :: [Item_List_Unordered](/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.md) 
 
-### #is_/same_as :: [item_list_unordered.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.public.md) 
+### #is_/same_as :: [Item_List_Unordered.public](/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.public.md) 
 
-### #is_/same_as :: [item_list_unordered.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.internal.md) 
+### #is_/same_as :: [Item_List_Unordered.internal](/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.internal.md) 
 
-### #is_/same_as :: [item_list_unordered.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.protect.md) 
+### #is_/same_as :: [Item_List_Unordered.protect](/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.protect.md) 
 
-### #is_/same_as :: [item_list_unordered.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.private.md) 
+### #is_/same_as :: [Item_List_Unordered.private](/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.private.md) 
 
-### #is_/same_as :: [item_list_unordered.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.personal.md) 
+### #is_/same_as :: [Item_List_Unordered.personal](/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.personal.md) 
 
-### #is_/same_as :: [item_list_unordered.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.secret.md)
+### #is_/same_as :: [Item_List_Unordered.secret](/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Unordered.secret.md)
 

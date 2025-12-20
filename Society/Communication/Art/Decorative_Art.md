@@ -48,3 +48,22 @@ Commons_category: Decorative arts
 > [Wikipedia](https://en.wikipedia.org/wiki/Decorative%20arts) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Decorative_Art](/_Standards/Society/Communication/Art/Decorative_Art.md) 
+
+### #is_/same_as :: [Decorative_Art.public](/_public/Society/Communication/Art/Decorative_Art.public.md) 
+
+### #is_/same_as :: [Decorative_Art.internal](/_internal/Society/Communication/Art/Decorative_Art.internal.md) 
+
+### #is_/same_as :: [Decorative_Art.protect](/_protect/Society/Communication/Art/Decorative_Art.protect.md) 
+
+### #is_/same_as :: [Decorative_Art.private](/_private/Society/Communication/Art/Decorative_Art.private.md) 
+
+### #is_/same_as :: [Decorative_Art.personal](/_personal/Society/Communication/Art/Decorative_Art.personal.md) 
+
+### #is_/same_as :: [Decorative_Art.secret](/_secret/Society/Communication/Art/Decorative_Art.secret.md)
+

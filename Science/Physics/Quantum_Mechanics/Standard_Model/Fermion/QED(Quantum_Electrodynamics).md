@@ -85,3 +85,22 @@ Thus, **QED simultaneously describes**:
     
 Neutral fermions (like neutrinos) are **not** described by QED, as they lack electric charge.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [QED(Quantum_Electrodynamics)](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).md) 
+
+### #is_/same_as :: [QED(Quantum_Electrodynamics).public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).public.md) 
+
+### #is_/same_as :: [QED(Quantum_Electrodynamics).internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).internal.md) 
+
+### #is_/same_as :: [QED(Quantum_Electrodynamics).protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).protect.md) 
+
+### #is_/same_as :: [QED(Quantum_Electrodynamics).private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).private.md) 
+
+### #is_/same_as :: [QED(Quantum_Electrodynamics).personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).personal.md) 
+
+### #is_/same_as :: [QED(Quantum_Electrodynamics).secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).secret.md)
+

@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to therapeutic or cosmetic re
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plastic_Surgery](Plastic_Surgery.md) 
+### #is_/same_as :: [Plastic_Surgery](/_Standards/bio/Medicine/Medical_Business/Plastic_Surgery.md) 
 
-### #is_/same_as :: [Plastic_Surgery.public](/_public/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.public.md) 
+### #is_/same_as :: [Plastic_Surgery.public](/_public/bio/Medicine/Medical_Business/Plastic_Surgery.public.md) 
 
-### #is_/same_as :: [Plastic_Surgery.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.internal.md) 
+### #is_/same_as :: [Plastic_Surgery.internal](/_internal/bio/Medicine/Medical_Business/Plastic_Surgery.internal.md) 
 
-### #is_/same_as :: [Plastic_Surgery.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.protect.md) 
+### #is_/same_as :: [Plastic_Surgery.protect](/_protect/bio/Medicine/Medical_Business/Plastic_Surgery.protect.md) 
 
-### #is_/same_as :: [Plastic_Surgery.private](/_private/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.private.md) 
+### #is_/same_as :: [Plastic_Surgery.private](/_private/bio/Medicine/Medical_Business/Plastic_Surgery.private.md) 
 
-### #is_/same_as :: [Plastic_Surgery.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.personal.md) 
+### #is_/same_as :: [Plastic_Surgery.personal](/_personal/bio/Medicine/Medical_Business/Plastic_Surgery.personal.md) 
 
-### #is_/same_as :: [Plastic_Surgery.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.secret.md)
+### #is_/same_as :: [Plastic_Surgery.secret](/_secret/bio/Medicine/Medical_Business/Plastic_Surgery.secret.md)
 

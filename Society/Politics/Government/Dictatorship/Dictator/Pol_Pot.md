@@ -129,3 +129,22 @@ Krugosvet_article_archived_: istoriya/POL_POT.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pol%20Pot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pol_Pot](/_Standards/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.md) 
+
+### #is_/same_as :: [Pol_Pot.public](/_public/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.public.md) 
+
+### #is_/same_as :: [Pol_Pot.internal](/_internal/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.internal.md) 
+
+### #is_/same_as :: [Pol_Pot.protect](/_protect/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.protect.md) 
+
+### #is_/same_as :: [Pol_Pot.private](/_private/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.private.md) 
+
+### #is_/same_as :: [Pol_Pot.personal](/_personal/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.personal.md) 
+
+### #is_/same_as :: [Pol_Pot.secret](/_secret/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.secret.md)
+

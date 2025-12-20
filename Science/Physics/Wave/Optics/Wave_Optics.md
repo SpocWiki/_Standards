@@ -17,3 +17,22 @@ Commons_category: Wave mechanics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Physical%20optics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wave_Optics](/_Standards/Science/Physics/Wave/Optics/Wave_Optics.md) 
+
+### #is_/same_as :: [Wave_Optics.public](/_public/Science/Physics/Wave/Optics/Wave_Optics.public.md) 
+
+### #is_/same_as :: [Wave_Optics.internal](/_internal/Science/Physics/Wave/Optics/Wave_Optics.internal.md) 
+
+### #is_/same_as :: [Wave_Optics.protect](/_protect/Science/Physics/Wave/Optics/Wave_Optics.protect.md) 
+
+### #is_/same_as :: [Wave_Optics.private](/_private/Science/Physics/Wave/Optics/Wave_Optics.private.md) 
+
+### #is_/same_as :: [Wave_Optics.personal](/_personal/Science/Physics/Wave/Optics/Wave_Optics.personal.md) 
+
+### #is_/same_as :: [Wave_Optics.secret](/_secret/Science/Physics/Wave/Optics/Wave_Optics.secret.md)
+

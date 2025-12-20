@@ -72,3 +72,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schal
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Speed%20of%20sound) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Speed_of_Sound](/_Standards/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.md) 
+
+### #is_/same_as :: [Speed_of_Sound.public](/_public/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.public.md) 
+
+### #is_/same_as :: [Speed_of_Sound.internal](/_internal/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.internal.md) 
+
+### #is_/same_as :: [Speed_of_Sound.protect](/_protect/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.protect.md) 
+
+### #is_/same_as :: [Speed_of_Sound.private](/_private/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.private.md) 
+
+### #is_/same_as :: [Speed_of_Sound.personal](/_personal/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.personal.md) 
+
+### #is_/same_as :: [Speed_of_Sound.secret](/_secret/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.secret.md)
+

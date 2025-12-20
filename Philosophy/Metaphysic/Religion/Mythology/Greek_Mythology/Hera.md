@@ -92,3 +92,22 @@ native_label: Ἥρα
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hera) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hera](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hera.md) 
+
+### #is_/same_as :: [Hera.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hera.public.md) 
+
+### #is_/same_as :: [Hera.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hera.internal.md) 
+
+### #is_/same_as :: [Hera.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hera.protect.md) 
+
+### #is_/same_as :: [Hera.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hera.private.md) 
+
+### #is_/same_as :: [Hera.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hera.personal.md) 
+
+### #is_/same_as :: [Hera.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hera.secret.md)
+

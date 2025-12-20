@@ -76,3 +76,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SLOVAR.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictionary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dictionary](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Dictionary.md) 
+
+### #is_/same_as :: [Dictionary.public](/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Dictionary.public.md) 
+
+### #is_/same_as :: [Dictionary.internal](/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Dictionary.internal.md) 
+
+### #is_/same_as :: [Dictionary.protect](/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Dictionary.protect.md) 
+
+### #is_/same_as :: [Dictionary.private](/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Dictionary.private.md) 
+
+### #is_/same_as :: [Dictionary.personal](/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Dictionary.personal.md) 
+
+### #is_/same_as :: [Dictionary.secret](/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Dictionary.secret.md)
+

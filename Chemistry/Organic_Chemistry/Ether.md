@@ -59,3 +59,22 @@ Gujarati_Vishwakosh_entry: ઈથર-રસાયણ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ether) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ether](/_Standards/Chemistry/Organic_Chemistry/Ether.md) 
+
+### #is_/same_as :: [Ether.public](/_public/Chemistry/Organic_Chemistry/Ether.public.md) 
+
+### #is_/same_as :: [Ether.internal](/_internal/Chemistry/Organic_Chemistry/Ether.internal.md) 
+
+### #is_/same_as :: [Ether.protect](/_protect/Chemistry/Organic_Chemistry/Ether.protect.md) 
+
+### #is_/same_as :: [Ether.private](/_private/Chemistry/Organic_Chemistry/Ether.private.md) 
+
+### #is_/same_as :: [Ether.personal](/_personal/Chemistry/Organic_Chemistry/Ether.personal.md) 
+
+### #is_/same_as :: [Ether.secret](/_secret/Chemistry/Organic_Chemistry/Ether.secret.md)
+

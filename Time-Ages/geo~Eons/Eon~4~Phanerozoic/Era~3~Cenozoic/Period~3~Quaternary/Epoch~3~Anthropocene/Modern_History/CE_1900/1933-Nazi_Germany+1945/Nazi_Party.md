@@ -162,3 +162,22 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/NSDAP-Logo.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nazi%20Party) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nazi_Party](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazi_Party.md) 
+
+### #is_/same_as :: [Nazi_Party.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazi_Party.public.md) 
+
+### #is_/same_as :: [Nazi_Party.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazi_Party.internal.md) 
+
+### #is_/same_as :: [Nazi_Party.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazi_Party.protect.md) 
+
+### #is_/same_as :: [Nazi_Party.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazi_Party.private.md) 
+
+### #is_/same_as :: [Nazi_Party.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazi_Party.personal.md) 
+
+### #is_/same_as :: [Nazi_Party.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazi_Party.secret.md)
+

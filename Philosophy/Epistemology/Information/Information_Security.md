@@ -80,3 +80,22 @@ GitHub_topic: infosec
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Information%20security) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Information_Security](/_Standards/Philosophy/Epistemology/Information/Information_Security.md) 
+
+### #is_/same_as :: [Information_Security.public](/_public/Philosophy/Epistemology/Information/Information_Security.public.md) 
+
+### #is_/same_as :: [Information_Security.internal](/_internal/Philosophy/Epistemology/Information/Information_Security.internal.md) 
+
+### #is_/same_as :: [Information_Security.protect](/_protect/Philosophy/Epistemology/Information/Information_Security.protect.md) 
+
+### #is_/same_as :: [Information_Security.private](/_private/Philosophy/Epistemology/Information/Information_Security.private.md) 
+
+### #is_/same_as :: [Information_Security.personal](/_personal/Philosophy/Epistemology/Information/Information_Security.personal.md) 
+
+### #is_/same_as :: [Information_Security.secret](/_secret/Philosophy/Epistemology/Information/Information_Security.secret.md)
+

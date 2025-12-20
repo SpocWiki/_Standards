@@ -57,3 +57,22 @@ Commons_category: Religious architecture
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sacral%20architecture)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sacral_Architecture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.md) 
+
+### #is_/same_as :: [Sacral_Architecture.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.public.md) 
+
+### #is_/same_as :: [Sacral_Architecture.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.internal.md) 
+
+### #is_/same_as :: [Sacral_Architecture.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.protect.md) 
+
+### #is_/same_as :: [Sacral_Architecture.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.private.md) 
+
+### #is_/same_as :: [Sacral_Architecture.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.personal.md) 
+
+### #is_/same_as :: [Sacral_Architecture.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.secret.md)
+

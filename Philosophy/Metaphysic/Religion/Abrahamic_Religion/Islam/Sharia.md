@@ -78,3 +78,22 @@ name_in_native_language: شَرِيعَةٌ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sharia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sharia](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sharia.md) 
+
+### #is_/same_as :: [Sharia.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sharia.public.md) 
+
+### #is_/same_as :: [Sharia.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sharia.internal.md) 
+
+### #is_/same_as :: [Sharia.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sharia.protect.md) 
+
+### #is_/same_as :: [Sharia.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sharia.private.md) 
+
+### #is_/same_as :: [Sharia.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sharia.personal.md) 
+
+### #is_/same_as :: [Sharia.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sharia.secret.md)
+

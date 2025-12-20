@@ -92,3 +92,22 @@ subreddit: playingcards
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Playing%20card) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Playing_Card](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.md) 
+
+### #is_/same_as :: [Playing_Card.public](/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.public.md) 
+
+### #is_/same_as :: [Playing_Card.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.internal.md) 
+
+### #is_/same_as :: [Playing_Card.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.protect.md) 
+
+### #is_/same_as :: [Playing_Card.private](/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.private.md) 
+
+### #is_/same_as :: [Playing_Card.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.personal.md) 
+
+### #is_/same_as :: [Playing_Card.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.secret.md)
+

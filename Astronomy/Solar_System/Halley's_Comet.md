@@ -129,3 +129,22 @@ orbit_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Halley%27s%20C
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Halley's%20Comet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Halley's_Comet](/_Standards/Astronomy/Solar_System/Halley's_Comet.md) 
+
+### #is_/same_as :: [Halley's_Comet.public](/_public/Astronomy/Solar_System/Halley's_Comet.public.md) 
+
+### #is_/same_as :: [Halley's_Comet.internal](/_internal/Astronomy/Solar_System/Halley's_Comet.internal.md) 
+
+### #is_/same_as :: [Halley's_Comet.protect](/_protect/Astronomy/Solar_System/Halley's_Comet.protect.md) 
+
+### #is_/same_as :: [Halley's_Comet.private](/_private/Astronomy/Solar_System/Halley's_Comet.private.md) 
+
+### #is_/same_as :: [Halley's_Comet.personal](/_personal/Astronomy/Solar_System/Halley's_Comet.personal.md) 
+
+### #is_/same_as :: [Halley's_Comet.secret](/_secret/Astronomy/Solar_System/Halley's_Comet.secret.md)
+

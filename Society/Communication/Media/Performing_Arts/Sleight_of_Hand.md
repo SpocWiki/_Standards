@@ -42,3 +42,22 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sleight%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sleight%20of%20hand) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sleight_of_Hand](/_Standards/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.md) 
+
+### #is_/same_as :: [Sleight_of_Hand.public](/_public/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.public.md) 
+
+### #is_/same_as :: [Sleight_of_Hand.internal](/_internal/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.internal.md) 
+
+### #is_/same_as :: [Sleight_of_Hand.protect](/_protect/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.protect.md) 
+
+### #is_/same_as :: [Sleight_of_Hand.private](/_private/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.private.md) 
+
+### #is_/same_as :: [Sleight_of_Hand.personal](/_personal/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.personal.md) 
+
+### #is_/same_as :: [Sleight_of_Hand.secret](/_secret/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.secret.md)
+

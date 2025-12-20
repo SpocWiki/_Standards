@@ -39,17 +39,17 @@ An aggregate rating of an Organization related to its role as an employer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [employer_aggregate_rating](/_Standards/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.md) 
+### #is_/same_as :: [Employer_Aggregate_Rating](/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.md) 
 
-### #is_/same_as :: [employer_aggregate_rating.public](/_public/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.public.md) 
+### #is_/same_as :: [Employer_Aggregate_Rating.public](/_public/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.public.md) 
 
-### #is_/same_as :: [employer_aggregate_rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.internal.md) 
+### #is_/same_as :: [Employer_Aggregate_Rating.internal](/_internal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.internal.md) 
 
-### #is_/same_as :: [employer_aggregate_rating.protect](/_protect/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.protect.md) 
+### #is_/same_as :: [Employer_Aggregate_Rating.protect](/_protect/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.protect.md) 
 
-### #is_/same_as :: [employer_aggregate_rating.private](/_private/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.private.md) 
+### #is_/same_as :: [Employer_Aggregate_Rating.private](/_private/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.private.md) 
 
-### #is_/same_as :: [employer_aggregate_rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.personal.md) 
+### #is_/same_as :: [Employer_Aggregate_Rating.personal](/_personal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.personal.md) 
 
-### #is_/same_as :: [employer_aggregate_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.secret.md)
+### #is_/same_as :: [Employer_Aggregate_Rating.secret](/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.secret.md)
 

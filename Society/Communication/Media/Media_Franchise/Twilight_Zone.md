@@ -100,3 +100,22 @@ IMDb_keyword: reference-to-the-twilight-zone
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Twilight%20Zone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Twilight_Zone](/_Standards/Society/Communication/Media/Media_Franchise/Twilight_Zone.md) 
+
+### #is_/same_as :: [Twilight_Zone.public](/_public/Society/Communication/Media/Media_Franchise/Twilight_Zone.public.md) 
+
+### #is_/same_as :: [Twilight_Zone.internal](/_internal/Society/Communication/Media/Media_Franchise/Twilight_Zone.internal.md) 
+
+### #is_/same_as :: [Twilight_Zone.protect](/_protect/Society/Communication/Media/Media_Franchise/Twilight_Zone.protect.md) 
+
+### #is_/same_as :: [Twilight_Zone.private](/_private/Society/Communication/Media/Media_Franchise/Twilight_Zone.private.md) 
+
+### #is_/same_as :: [Twilight_Zone.personal](/_personal/Society/Communication/Media/Media_Franchise/Twilight_Zone.personal.md) 
+
+### #is_/same_as :: [Twilight_Zone.secret](/_secret/Society/Communication/Media/Media_Franchise/Twilight_Zone.secret.md)
+

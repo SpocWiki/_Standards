@@ -217,3 +217,22 @@ ISNI: "0000000121347589"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Woody%20Allen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Allen,Woody](/_Standards/Society/Communication/Media/Movie/Movie-Director/Allen,Woody.md) 
+
+### #is_/same_as :: [Allen,Woody.public](/_public/Society/Communication/Media/Movie/Movie-Director/Allen,Woody.public.md) 
+
+### #is_/same_as :: [Allen,Woody.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Allen,Woody.internal.md) 
+
+### #is_/same_as :: [Allen,Woody.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Allen,Woody.protect.md) 
+
+### #is_/same_as :: [Allen,Woody.private](/_private/Society/Communication/Media/Movie/Movie-Director/Allen,Woody.private.md) 
+
+### #is_/same_as :: [Allen,Woody.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Allen,Woody.personal.md) 
+
+### #is_/same_as :: [Allen,Woody.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Allen,Woody.secret.md)
+

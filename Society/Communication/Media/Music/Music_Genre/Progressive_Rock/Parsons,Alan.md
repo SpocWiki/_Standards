@@ -28,3 +28,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alan%20Parsons) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parsons,Alan](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.md) 
+
+### #is_/same_as :: [Parsons,Alan.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.public.md) 
+
+### #is_/same_as :: [Parsons,Alan.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.internal.md) 
+
+### #is_/same_as :: [Parsons,Alan.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.protect.md) 
+
+### #is_/same_as :: [Parsons,Alan.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.private.md) 
+
+### #is_/same_as :: [Parsons,Alan.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.personal.md) 
+
+### #is_/same_as :: [Parsons,Alan.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.secret.md)
+

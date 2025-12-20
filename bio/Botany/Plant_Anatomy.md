@@ -142,3 +142,22 @@ Swedish_Royal_Theater_Archive: Person/1043
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20anatomy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant_Anatomy](/_Standards/bio/Botany/Plant_Anatomy.md) 
+
+### #is_/same_as :: [Plant_Anatomy.public](/_public/bio/Botany/Plant_Anatomy.public.md) 
+
+### #is_/same_as :: [Plant_Anatomy.internal](/_internal/bio/Botany/Plant_Anatomy.internal.md) 
+
+### #is_/same_as :: [Plant_Anatomy.protect](/_protect/bio/Botany/Plant_Anatomy.protect.md) 
+
+### #is_/same_as :: [Plant_Anatomy.private](/_private/bio/Botany/Plant_Anatomy.private.md) 
+
+### #is_/same_as :: [Plant_Anatomy.personal](/_personal/bio/Botany/Plant_Anatomy.personal.md) 
+
+### #is_/same_as :: [Plant_Anatomy.secret](/_secret/bio/Botany/Plant_Anatomy.secret.md)
+

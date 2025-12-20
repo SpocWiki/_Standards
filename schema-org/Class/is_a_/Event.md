@@ -101,19 +101,20 @@ An event happening at a certain time and location, such as a concert, lecture, o
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Event%20(philosophy)) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [event](/_Standards/schema-org/Class/is_a_/event.md) 
+### #is_/same_as :: [Event](/_Standards/schema-org/Class/is_a_/Event.md) 
 
-### #is_/same_as :: [event.public](/_public/schema-org/Class/is_a_/event.public.md) 
+### #is_/same_as :: [Event.public](/_public/schema-org/Class/is_a_/Event.public.md) 
 
-### #is_/same_as :: [event.internal](/_internal/schema-org/Class/is_a_/event.internal.md) 
+### #is_/same_as :: [Event.internal](/_internal/schema-org/Class/is_a_/Event.internal.md) 
 
-### #is_/same_as :: [event.protect](/_protect/schema-org/Class/is_a_/event.protect.md) 
+### #is_/same_as :: [Event.protect](/_protect/schema-org/Class/is_a_/Event.protect.md) 
 
-### #is_/same_as :: [event.private](/_private/schema-org/Class/is_a_/event.private.md) 
+### #is_/same_as :: [Event.private](/_private/schema-org/Class/is_a_/Event.private.md) 
 
-### #is_/same_as :: [event.personal](/_personal/schema-org/Class/is_a_/event.personal.md) 
+### #is_/same_as :: [Event.personal](/_personal/schema-org/Class/is_a_/Event.personal.md) 
 
-### #is_/same_as :: [event.secret](/_secret/schema-org/Class/is_a_/event.secret.md)
+### #is_/same_as :: [Event.secret](/_secret/schema-org/Class/is_a_/Event.secret.md)
 

@@ -15,3 +15,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Historical%20fiction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Historical_Fiction](/_Standards/Society/Communication/Genre/Fiction/Historical_Fiction.md) 
+
+### #is_/same_as :: [Historical_Fiction.public](/_public/Society/Communication/Genre/Fiction/Historical_Fiction.public.md) 
+
+### #is_/same_as :: [Historical_Fiction.internal](/_internal/Society/Communication/Genre/Fiction/Historical_Fiction.internal.md) 
+
+### #is_/same_as :: [Historical_Fiction.protect](/_protect/Society/Communication/Genre/Fiction/Historical_Fiction.protect.md) 
+
+### #is_/same_as :: [Historical_Fiction.private](/_private/Society/Communication/Genre/Fiction/Historical_Fiction.private.md) 
+
+### #is_/same_as :: [Historical_Fiction.personal](/_personal/Society/Communication/Genre/Fiction/Historical_Fiction.personal.md) 
+
+### #is_/same_as :: [Historical_Fiction.secret](/_secret/Society/Communication/Genre/Fiction/Historical_Fiction.secret.md)
+

@@ -21,17 +21,17 @@ has_id_wikidata: Q843941
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Air_defense](/_Standards/Society/Military/War/Air_defense.md) 
+### #is_/same_as :: [Air_defense](/_Standards/Society/Military/Military_Operation/Combat/War/Air_defense.md) 
 
-### #is_/same_as :: [Air_defense.public](/_public/Society/Military/War/Air_defense.public.md) 
+### #is_/same_as :: [Air_defense.public](/_public/Society/Military/Military_Operation/Combat/War/Air_defense.public.md) 
 
-### #is_/same_as :: [Air_defense.internal](/_internal/Society/Military/War/Air_defense.internal.md) 
+### #is_/same_as :: [Air_defense.internal](/_internal/Society/Military/Military_Operation/Combat/War/Air_defense.internal.md) 
 
-### #is_/same_as :: [Air_defense.protect](/_protect/Society/Military/War/Air_defense.protect.md) 
+### #is_/same_as :: [Air_defense.protect](/_protect/Society/Military/Military_Operation/Combat/War/Air_defense.protect.md) 
 
-### #is_/same_as :: [Air_defense.private](/_private/Society/Military/War/Air_defense.private.md) 
+### #is_/same_as :: [Air_defense.private](/_private/Society/Military/Military_Operation/Combat/War/Air_defense.private.md) 
 
-### #is_/same_as :: [Air_defense.personal](/_personal/Society/Military/War/Air_defense.personal.md) 
+### #is_/same_as :: [Air_defense.personal](/_personal/Society/Military/Military_Operation/Combat/War/Air_defense.personal.md) 
 
-### #is_/same_as :: [Air_defense.secret](/_secret/Society/Military/War/Air_defense.secret.md)
+### #is_/same_as :: [Air_defense.secret](/_secret/Society/Military/Military_Operation/Combat/War/Air_defense.secret.md)
 

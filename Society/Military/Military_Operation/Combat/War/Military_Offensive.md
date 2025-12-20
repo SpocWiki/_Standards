@@ -49,3 +49,22 @@ has_id_wikidata: Q2001676
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Offensive%20(military)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Offensive](/_Standards/Society/Military/Military_Operation/Combat/War/Military_Offensive.md) 
+
+### #is_/same_as :: [Military_Offensive.public](/_public/Society/Military/Military_Operation/Combat/War/Military_Offensive.public.md) 
+
+### #is_/same_as :: [Military_Offensive.internal](/_internal/Society/Military/Military_Operation/Combat/War/Military_Offensive.internal.md) 
+
+### #is_/same_as :: [Military_Offensive.protect](/_protect/Society/Military/Military_Operation/Combat/War/Military_Offensive.protect.md) 
+
+### #is_/same_as :: [Military_Offensive.private](/_private/Society/Military/Military_Operation/Combat/War/Military_Offensive.private.md) 
+
+### #is_/same_as :: [Military_Offensive.personal](/_personal/Society/Military/Military_Operation/Combat/War/Military_Offensive.personal.md) 
+
+### #is_/same_as :: [Military_Offensive.secret](/_secret/Society/Military/Military_Operation/Combat/War/Military_Offensive.secret.md)
+

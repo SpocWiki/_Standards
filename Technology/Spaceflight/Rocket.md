@@ -30,3 +30,22 @@ has_id_wikidata: Q41291
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rocket) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rocket](/_Standards/Technology/Spaceflight/Rocket.md) 
+
+### #is_/same_as :: [Rocket.public](/_public/Technology/Spaceflight/Rocket.public.md) 
+
+### #is_/same_as :: [Rocket.internal](/_internal/Technology/Spaceflight/Rocket.internal.md) 
+
+### #is_/same_as :: [Rocket.protect](/_protect/Technology/Spaceflight/Rocket.protect.md) 
+
+### #is_/same_as :: [Rocket.private](/_private/Technology/Spaceflight/Rocket.private.md) 
+
+### #is_/same_as :: [Rocket.personal](/_personal/Technology/Spaceflight/Rocket.personal.md) 
+
+### #is_/same_as :: [Rocket.secret](/_secret/Technology/Spaceflight/Rocket.secret.md)
+

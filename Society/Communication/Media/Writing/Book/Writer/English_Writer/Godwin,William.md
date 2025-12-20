@@ -48,17 +48,17 @@ has_id_wikidata: Q188569
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Godwin,William](/_Standards/Society/Communication/Media/Writing/Book/Author/Godwin,William.md) 
+### #is_/same_as :: [Godwin,William](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.md) 
 
-### #is_/same_as :: [Godwin,William.public](/_public/Society/Communication/Media/Writing/Book/Author/Godwin,William.public.md) 
+### #is_/same_as :: [Godwin,William.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.public.md) 
 
-### #is_/same_as :: [Godwin,William.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Godwin,William.internal.md) 
+### #is_/same_as :: [Godwin,William.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.internal.md) 
 
-### #is_/same_as :: [Godwin,William.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Godwin,William.protect.md) 
+### #is_/same_as :: [Godwin,William.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.protect.md) 
 
-### #is_/same_as :: [Godwin,William.private](/_private/Society/Communication/Media/Writing/Book/Author/Godwin,William.private.md) 
+### #is_/same_as :: [Godwin,William.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.private.md) 
 
-### #is_/same_as :: [Godwin,William.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Godwin,William.personal.md) 
+### #is_/same_as :: [Godwin,William.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.personal.md) 
 
-### #is_/same_as :: [Godwin,William.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Godwin,William.secret.md)
+### #is_/same_as :: [Godwin,William.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.secret.md)
 

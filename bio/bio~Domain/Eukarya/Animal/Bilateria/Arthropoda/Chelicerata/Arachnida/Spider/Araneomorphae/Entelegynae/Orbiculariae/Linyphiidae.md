@@ -61,7 +61,7 @@ characters (Spider). Bulletin of the British Arachnological Society
 
 Penney D. and P. A. Selden. 2002. The oldest linyphiid spider, in Lower
 Cretaceous Lebanese amber (Spider, Linyphiidae, Linyphiinae). Journal
-of Arachnology 30 (3):487-493.
+of Arachnology 30 (3):487-493.
 
 
 ## Confidential Links & Embeds: 

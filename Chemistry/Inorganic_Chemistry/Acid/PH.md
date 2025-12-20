@@ -45,3 +45,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/PH) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [PH](/_Standards/Chemistry/Inorganic_Chemistry/Acid/PH.md) 
+
+### #is_/same_as :: [PH.public](/_public/Chemistry/Inorganic_Chemistry/Acid/PH.public.md) 
+
+### #is_/same_as :: [PH.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/PH.internal.md) 
+
+### #is_/same_as :: [PH.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/PH.protect.md) 
+
+### #is_/same_as :: [PH.private](/_private/Chemistry/Inorganic_Chemistry/Acid/PH.private.md) 
+
+### #is_/same_as :: [PH.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/PH.personal.md) 
+
+### #is_/same_as :: [PH.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/PH.secret.md)
+

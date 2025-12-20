@@ -59,3 +59,22 @@ motto_text: Museums have no borders, they have a network
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Council%20of%20Museums) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ICOM(International_Council_of_Museums)](/_Standards/Society/Agent/Community/Organization/International_Organization/ICOM(International_Council_of_Museums).md) 
+
+### #is_/same_as :: [ICOM(International_Council_of_Museums).public](/_public/Society/Agent/Community/Organization/International_Organization/ICOM(International_Council_of_Museums).public.md) 
+
+### #is_/same_as :: [ICOM(International_Council_of_Museums).internal](/_internal/Society/Agent/Community/Organization/International_Organization/ICOM(International_Council_of_Museums).internal.md) 
+
+### #is_/same_as :: [ICOM(International_Council_of_Museums).protect](/_protect/Society/Agent/Community/Organization/International_Organization/ICOM(International_Council_of_Museums).protect.md) 
+
+### #is_/same_as :: [ICOM(International_Council_of_Museums).private](/_private/Society/Agent/Community/Organization/International_Organization/ICOM(International_Council_of_Museums).private.md) 
+
+### #is_/same_as :: [ICOM(International_Council_of_Museums).personal](/_personal/Society/Agent/Community/Organization/International_Organization/ICOM(International_Council_of_Museums).personal.md) 
+
+### #is_/same_as :: [ICOM(International_Council_of_Museums).secret](/_secret/Society/Agent/Community/Organization/International_Organization/ICOM(International_Council_of_Museums).secret.md)
+

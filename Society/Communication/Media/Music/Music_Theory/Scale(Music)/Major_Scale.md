@@ -44,3 +44,22 @@ described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Major%20scale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Major_Scale](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.md) 
+
+### #is_/same_as :: [Major_Scale.public](/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.public.md) 
+
+### #is_/same_as :: [Major_Scale.internal](/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.internal.md) 
+
+### #is_/same_as :: [Major_Scale.protect](/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.protect.md) 
+
+### #is_/same_as :: [Major_Scale.private](/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.private.md) 
+
+### #is_/same_as :: [Major_Scale.personal](/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.personal.md) 
+
+### #is_/same_as :: [Major_Scale.secret](/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.secret.md)
+

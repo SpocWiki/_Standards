@@ -59,3 +59,22 @@ Commons_category: Estates of the realm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Estates%20of%20the%20realm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Estates_of_the_Realm](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.md) 
+
+### #is_/same_as :: [Estates_of_the_Realm.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.public.md) 
+
+### #is_/same_as :: [Estates_of_the_Realm.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.internal.md) 
+
+### #is_/same_as :: [Estates_of_the_Realm.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.protect.md) 
+
+### #is_/same_as :: [Estates_of_the_Realm.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.private.md) 
+
+### #is_/same_as :: [Estates_of_the_Realm.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.personal.md) 
+
+### #is_/same_as :: [Estates_of_the_Realm.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.secret.md)
+

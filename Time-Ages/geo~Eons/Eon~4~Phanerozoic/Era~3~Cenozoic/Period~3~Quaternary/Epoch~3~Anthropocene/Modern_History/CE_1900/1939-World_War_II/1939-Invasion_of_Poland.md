@@ -67,3 +67,22 @@ start_time: 1939-09-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Invasion%20of%20Poland) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1939-Invasion_of_Poland](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.md) 
+
+### #is_/same_as :: [1939-Invasion_of_Poland.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.public.md) 
+
+### #is_/same_as :: [1939-Invasion_of_Poland.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.internal.md) 
+
+### #is_/same_as :: [1939-Invasion_of_Poland.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.protect.md) 
+
+### #is_/same_as :: [1939-Invasion_of_Poland.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.private.md) 
+
+### #is_/same_as :: [1939-Invasion_of_Poland.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.personal.md) 
+
+### #is_/same_as :: [1939-Invasion_of_Poland.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.secret.md)
+

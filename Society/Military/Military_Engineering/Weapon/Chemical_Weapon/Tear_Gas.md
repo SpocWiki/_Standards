@@ -71,3 +71,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tear%20gas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tear_Gas](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.md) 
+
+### #is_/same_as :: [Tear_Gas.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.public.md) 
+
+### #is_/same_as :: [Tear_Gas.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.internal.md) 
+
+### #is_/same_as :: [Tear_Gas.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.protect.md) 
+
+### #is_/same_as :: [Tear_Gas.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.private.md) 
+
+### #is_/same_as :: [Tear_Gas.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.personal.md) 
+
+### #is_/same_as :: [Tear_Gas.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.secret.md)
+

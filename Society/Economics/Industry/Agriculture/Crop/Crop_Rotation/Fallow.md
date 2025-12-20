@@ -26,3 +26,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fallow) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fallow](/_Standards/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.md) 
+
+### #is_/same_as :: [Fallow.public](/_public/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.public.md) 
+
+### #is_/same_as :: [Fallow.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.internal.md) 
+
+### #is_/same_as :: [Fallow.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.protect.md) 
+
+### #is_/same_as :: [Fallow.private](/_private/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.private.md) 
+
+### #is_/same_as :: [Fallow.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.personal.md) 
+
+### #is_/same_as :: [Fallow.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.secret.md)
+

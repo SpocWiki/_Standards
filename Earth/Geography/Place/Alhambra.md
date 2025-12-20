@@ -29,3 +29,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alhambra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alhambra](/_Standards/Earth/Geography/Place/Alhambra.md) 
+
+### #is_/same_as :: [Alhambra.public](/_public/Earth/Geography/Place/Alhambra.public.md) 
+
+### #is_/same_as :: [Alhambra.internal](/_internal/Earth/Geography/Place/Alhambra.internal.md) 
+
+### #is_/same_as :: [Alhambra.protect](/_protect/Earth/Geography/Place/Alhambra.protect.md) 
+
+### #is_/same_as :: [Alhambra.private](/_private/Earth/Geography/Place/Alhambra.private.md) 
+
+### #is_/same_as :: [Alhambra.personal](/_personal/Earth/Geography/Place/Alhambra.personal.md) 
+
+### #is_/same_as :: [Alhambra.secret](/_secret/Earth/Geography/Place/Alhambra.secret.md)
+

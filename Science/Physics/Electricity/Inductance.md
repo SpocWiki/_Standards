@@ -45,3 +45,22 @@ has_id_wikidata: Q177897
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inductance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Inductance](/_Standards/Science/Physics/Electricity/Inductance.md) 
+
+### #is_/same_as :: [Inductance.public](/_public/Science/Physics/Electricity/Inductance.public.md) 
+
+### #is_/same_as :: [Inductance.internal](/_internal/Science/Physics/Electricity/Inductance.internal.md) 
+
+### #is_/same_as :: [Inductance.protect](/_protect/Science/Physics/Electricity/Inductance.protect.md) 
+
+### #is_/same_as :: [Inductance.private](/_private/Science/Physics/Electricity/Inductance.private.md) 
+
+### #is_/same_as :: [Inductance.personal](/_personal/Science/Physics/Electricity/Inductance.personal.md) 
+
+### #is_/same_as :: [Inductance.secret](/_secret/Science/Physics/Electricity/Inductance.secret.md)
+

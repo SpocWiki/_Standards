@@ -51,3 +51,22 @@ Commons_category: Vedanta
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vedanta](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.md) 
+
+### #is_/same_as :: [Vedanta.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.public.md) 
+
+### #is_/same_as :: [Vedanta.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.internal.md) 
+
+### #is_/same_as :: [Vedanta.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.protect.md) 
+
+### #is_/same_as :: [Vedanta.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.private.md) 
+
+### #is_/same_as :: [Vedanta.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.personal.md) 
+
+### #is_/same_as :: [Vedanta.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.secret.md)
+

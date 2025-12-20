@@ -46,3 +46,22 @@ Dewey_Decimal_Classification: "004.0151"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theoretical%20computer%20science) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theoretical_Computer_Science](/_Standards/Technology/IT/Computer_Science/Theoretical_Computer_Science.md) 
+
+### #is_/same_as :: [Theoretical_Computer_Science.public](/_public/Technology/IT/Computer_Science/Theoretical_Computer_Science.public.md) 
+
+### #is_/same_as :: [Theoretical_Computer_Science.internal](/_internal/Technology/IT/Computer_Science/Theoretical_Computer_Science.internal.md) 
+
+### #is_/same_as :: [Theoretical_Computer_Science.protect](/_protect/Technology/IT/Computer_Science/Theoretical_Computer_Science.protect.md) 
+
+### #is_/same_as :: [Theoretical_Computer_Science.private](/_private/Technology/IT/Computer_Science/Theoretical_Computer_Science.private.md) 
+
+### #is_/same_as :: [Theoretical_Computer_Science.personal](/_personal/Technology/IT/Computer_Science/Theoretical_Computer_Science.personal.md) 
+
+### #is_/same_as :: [Theoretical_Computer_Science.secret](/_secret/Technology/IT/Computer_Science/Theoretical_Computer_Science.secret.md)
+

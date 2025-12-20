@@ -59,17 +59,17 @@ creates a Link, but that is unrestricted
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taxon](Taxon.md) 
+### #is_/same_as :: [Taxon](/_Standards/bio/Taxon_Rank/Taxon.md) 
 
-### #is_/same_as :: [taxon.public](/_public/schema-org/Class/is_a_/taxon.public.md) 
+### #is_/same_as :: [Taxon.public](/_public/bio/Taxon_Rank/Taxon.public.md) 
 
-### #is_/same_as :: [taxon.internal](/_internal/schema-org/Class/is_a_/taxon.internal.md) 
+### #is_/same_as :: [Taxon.internal](/_internal/bio/Taxon_Rank/Taxon.internal.md) 
 
-### #is_/same_as :: [taxon.protect](/_protect/schema-org/Class/is_a_/taxon.protect.md) 
+### #is_/same_as :: [Taxon.protect](/_protect/bio/Taxon_Rank/Taxon.protect.md) 
 
-### #is_/same_as :: [taxon.private](/_private/schema-org/Class/is_a_/taxon.private.md) 
+### #is_/same_as :: [Taxon.private](/_private/bio/Taxon_Rank/Taxon.private.md) 
 
-### #is_/same_as :: [taxon.personal](/_personal/schema-org/Class/is_a_/taxon.personal.md) 
+### #is_/same_as :: [Taxon.personal](/_personal/bio/Taxon_Rank/Taxon.personal.md) 
 
-### #is_/same_as :: [taxon.secret](/_secret/schema-org/Class/is_a_/taxon.secret.md)
+### #is_/same_as :: [Taxon.secret](/_secret/bio/Taxon_Rank/Taxon.secret.md)
 

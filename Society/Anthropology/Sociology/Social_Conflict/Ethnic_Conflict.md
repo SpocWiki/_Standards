@@ -22,3 +22,21 @@ instance_of: "[[_Standards/WikiData/WD~type_of_conflict,125092269]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethnic%20conflict) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ethnic_Conflict](/_Standards/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.md) 
+
+### #is_/same_as :: [Ethnic_Conflict.public](/_public/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.public.md) 
+
+### #is_/same_as :: [Ethnic_Conflict.internal](/_internal/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.internal.md) 
+
+### #is_/same_as :: [Ethnic_Conflict.protect](/_protect/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.protect.md) 
+
+### #is_/same_as :: [Ethnic_Conflict.private](/_private/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.private.md) 
+
+### #is_/same_as :: [Ethnic_Conflict.personal](/_personal/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.personal.md) 
+
+### #is_/same_as :: [Ethnic_Conflict.secret](/_secret/Society/Anthropology/Sociology/Social_Conflict/Ethnic_Conflict.secret.md)
+

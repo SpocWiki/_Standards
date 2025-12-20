@@ -39,17 +39,17 @@ Enumerates common types of measurement for wearables products.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Measurement_Type_Enumeration](Wearable_Measurement_Type_Enumeration.md) 
+### #is_/same_as :: [Wearable_Measurement_Type_Enumeration](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration.md) 
 
-### #is_/same_as :: [wearable_measurement_type_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.public.md) 
+### #is_/same_as :: [Wearable_Measurement_Type_Enumeration.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration.public.md) 
 
-### #is_/same_as :: [wearable_measurement_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.internal.md) 
+### #is_/same_as :: [Wearable_Measurement_Type_Enumeration.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration.internal.md) 
 
-### #is_/same_as :: [wearable_measurement_type_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.protect.md) 
+### #is_/same_as :: [Wearable_Measurement_Type_Enumeration.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration.protect.md) 
 
-### #is_/same_as :: [wearable_measurement_type_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.private.md) 
+### #is_/same_as :: [Wearable_Measurement_Type_Enumeration.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration.private.md) 
 
-### #is_/same_as :: [wearable_measurement_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.personal.md) 
+### #is_/same_as :: [Wearable_Measurement_Type_Enumeration.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration.personal.md) 
 
-### #is_/same_as :: [wearable_measurement_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.secret.md)
+### #is_/same_as :: [Wearable_Measurement_Type_Enumeration.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration.secret.md)
 

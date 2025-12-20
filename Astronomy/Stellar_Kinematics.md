@@ -33,3 +33,22 @@ subclass_of: "[[_Standards/WikiData/WD~kinematics,11476]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20kinematics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stellar_Kinematics](/_Standards/Astronomy/Stellar_Kinematics.md) 
+
+### #is_/same_as :: [Stellar_Kinematics.public](/_public/Astronomy/Stellar_Kinematics.public.md) 
+
+### #is_/same_as :: [Stellar_Kinematics.internal](/_internal/Astronomy/Stellar_Kinematics.internal.md) 
+
+### #is_/same_as :: [Stellar_Kinematics.protect](/_protect/Astronomy/Stellar_Kinematics.protect.md) 
+
+### #is_/same_as :: [Stellar_Kinematics.private](/_private/Astronomy/Stellar_Kinematics.private.md) 
+
+### #is_/same_as :: [Stellar_Kinematics.personal](/_personal/Astronomy/Stellar_Kinematics.personal.md) 
+
+### #is_/same_as :: [Stellar_Kinematics.secret](/_secret/Astronomy/Stellar_Kinematics.secret.md)
+

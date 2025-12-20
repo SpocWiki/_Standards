@@ -41,17 +41,17 @@ The act of transferring money from one place to another place. This may occur el
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [money_transfer](/_Standards/schema-org/Class/is_a_/action/transfer_action/money_transfer.md) 
+### #is_/same_as :: [Money_Transfer](/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.md) 
 
-### #is_/same_as :: [money_transfer.public](/_public/schema-org/Class/is_a_/action/transfer_action/money_transfer.public.md) 
+### #is_/same_as :: [Money_Transfer.public](/_public/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.public.md) 
 
-### #is_/same_as :: [money_transfer.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/money_transfer.internal.md) 
+### #is_/same_as :: [Money_Transfer.internal](/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.internal.md) 
 
-### #is_/same_as :: [money_transfer.protect](/_protect/schema-org/Class/is_a_/action/transfer_action/money_transfer.protect.md) 
+### #is_/same_as :: [Money_Transfer.protect](/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.protect.md) 
 
-### #is_/same_as :: [money_transfer.private](/_private/schema-org/Class/is_a_/action/transfer_action/money_transfer.private.md) 
+### #is_/same_as :: [Money_Transfer.private](/_private/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.private.md) 
 
-### #is_/same_as :: [money_transfer.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/money_transfer.personal.md) 
+### #is_/same_as :: [Money_Transfer.personal](/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.personal.md) 
 
-### #is_/same_as :: [money_transfer.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/money_transfer.secret.md)
+### #is_/same_as :: [Money_Transfer.secret](/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.secret.md)
 

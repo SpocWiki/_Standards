@@ -101,7 +101,7 @@ Soil. Archiv für Protistenkunde 116:254-269.
   Comments             Phase contrast micrograph of living cells
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 Flemming Ekelund
-  --------------------
+  --------------------
 
 
 ## Confidential Links & Embeds: 

@@ -43,3 +43,22 @@ Commons_category: Extremophiles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Extremophile) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Extremophile](/_Standards/bio/bio~Domain/Archaea/Extremophile.md) 
+
+### #is_/same_as :: [Extremophile.public](/_public/bio/bio~Domain/Archaea/Extremophile.public.md) 
+
+### #is_/same_as :: [Extremophile.internal](/_internal/bio/bio~Domain/Archaea/Extremophile.internal.md) 
+
+### #is_/same_as :: [Extremophile.protect](/_protect/bio/bio~Domain/Archaea/Extremophile.protect.md) 
+
+### #is_/same_as :: [Extremophile.private](/_private/bio/bio~Domain/Archaea/Extremophile.private.md) 
+
+### #is_/same_as :: [Extremophile.personal](/_personal/bio/bio~Domain/Archaea/Extremophile.personal.md) 
+
+### #is_/same_as :: [Extremophile.secret](/_secret/bio/bio~Domain/Archaea/Extremophile.secret.md)
+

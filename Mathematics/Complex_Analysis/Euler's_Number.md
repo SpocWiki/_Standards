@@ -69,3 +69,22 @@ Krugosvet_article: matematika/chislo-e
 >  
 > [Wikipedia](https://en.wikipedia.org/wiki/E%20(mathematical%20constant)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euler's_Number](/_Standards/Mathematics/Complex_Analysis/Euler's_Number.md) 
+
+### #is_/same_as :: [Euler's_Number.public](/_public/Mathematics/Complex_Analysis/Euler's_Number.public.md) 
+
+### #is_/same_as :: [Euler's_Number.internal](/_internal/Mathematics/Complex_Analysis/Euler's_Number.internal.md) 
+
+### #is_/same_as :: [Euler's_Number.protect](/_protect/Mathematics/Complex_Analysis/Euler's_Number.protect.md) 
+
+### #is_/same_as :: [Euler's_Number.private](/_private/Mathematics/Complex_Analysis/Euler's_Number.private.md) 
+
+### #is_/same_as :: [Euler's_Number.personal](/_personal/Mathematics/Complex_Analysis/Euler's_Number.personal.md) 
+
+### #is_/same_as :: [Euler's_Number.secret](/_secret/Mathematics/Complex_Analysis/Euler's_Number.secret.md)
+

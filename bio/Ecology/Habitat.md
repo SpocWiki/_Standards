@@ -52,3 +52,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Habitat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Habitat](/_Standards/bio/Ecology/Habitat.md) 
+
+### #is_/same_as :: [Habitat.public](/_public/bio/Ecology/Habitat.public.md) 
+
+### #is_/same_as :: [Habitat.internal](/_internal/bio/Ecology/Habitat.internal.md) 
+
+### #is_/same_as :: [Habitat.protect](/_protect/bio/Ecology/Habitat.protect.md) 
+
+### #is_/same_as :: [Habitat.private](/_private/bio/Ecology/Habitat.private.md) 
+
+### #is_/same_as :: [Habitat.personal](/_personal/bio/Ecology/Habitat.personal.md) 
+
+### #is_/same_as :: [Habitat.secret](/_secret/bio/Ecology/Habitat.secret.md)
+

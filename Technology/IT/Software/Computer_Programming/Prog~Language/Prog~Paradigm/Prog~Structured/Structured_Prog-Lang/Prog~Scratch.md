@@ -42,3 +42,22 @@ Scratch uses 2 Notches to compose Blocks.
 - other Expressions have a rounded [[../../../../../../Knowledge/Math/Geometry/2D-Geometry/Squircle|Squircle]] 
 - 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Scratch](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.md) 
+
+### #is_/same_as :: [Prog~Scratch.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.public.md) 
+
+### #is_/same_as :: [Prog~Scratch.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.internal.md) 
+
+### #is_/same_as :: [Prog~Scratch.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.protect.md) 
+
+### #is_/same_as :: [Prog~Scratch.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.private.md) 
+
+### #is_/same_as :: [Prog~Scratch.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.personal.md) 
+
+### #is_/same_as :: [Prog~Scratch.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.secret.md)
+

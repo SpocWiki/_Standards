@@ -27,3 +27,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Knox) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Knox,Ronald](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald.md) 
+
+### #is_/same_as :: [Knox,Ronald.public](/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald.public.md) 
+
+### #is_/same_as :: [Knox,Ronald.internal](/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald.internal.md) 
+
+### #is_/same_as :: [Knox,Ronald.protect](/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald.protect.md) 
+
+### #is_/same_as :: [Knox,Ronald.private](/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald.private.md) 
+
+### #is_/same_as :: [Knox,Ronald.personal](/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald.personal.md) 
+
+### #is_/same_as :: [Knox,Ronald.secret](/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald.secret.md)
+

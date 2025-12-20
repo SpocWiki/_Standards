@@ -82,3 +82,22 @@ Archive_of_Our_Own_tag: Women's Hockey RPF
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hockey) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hockey](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.md) 
+
+### #is_/same_as :: [Hockey.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.public.md) 
+
+### #is_/same_as :: [Hockey.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.internal.md) 
+
+### #is_/same_as :: [Hockey.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.protect.md) 
+
+### #is_/same_as :: [Hockey.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.private.md) 
+
+### #is_/same_as :: [Hockey.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.personal.md) 
+
+### #is_/same_as :: [Hockey.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.secret.md)
+

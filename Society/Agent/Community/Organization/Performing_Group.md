@@ -41,17 +41,17 @@ A performance group, such as a band, an orchestra, or a circus.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Performing_Group](Performing_Group.md) 
+### #is_/same_as :: [Performing_Group](/_Standards/Society/Agent/Community/Organization/Performing_Group.md) 
 
-### #is_/same_as :: [Performing_Group.public](/_public/Society/Organization/Performing_Group.public.md) 
+### #is_/same_as :: [Performing_Group.public](/_public/Society/Agent/Community/Organization/Performing_Group.public.md) 
 
-### #is_/same_as :: [Performing_Group.internal](/_internal/Society/Organization/Performing_Group.internal.md) 
+### #is_/same_as :: [Performing_Group.internal](/_internal/Society/Agent/Community/Organization/Performing_Group.internal.md) 
 
-### #is_/same_as :: [Performing_Group.protect](/_protect/Society/Organization/Performing_Group.protect.md) 
+### #is_/same_as :: [Performing_Group.protect](/_protect/Society/Agent/Community/Organization/Performing_Group.protect.md) 
 
-### #is_/same_as :: [Performing_Group.private](/_private/Society/Organization/Performing_Group.private.md) 
+### #is_/same_as :: [Performing_Group.private](/_private/Society/Agent/Community/Organization/Performing_Group.private.md) 
 
-### #is_/same_as :: [Performing_Group.personal](/_personal/Society/Organization/Performing_Group.personal.md) 
+### #is_/same_as :: [Performing_Group.personal](/_personal/Society/Agent/Community/Organization/Performing_Group.personal.md) 
 
-### #is_/same_as :: [Performing_Group.secret](/_secret/Society/Organization/Performing_Group.secret.md)
+### #is_/same_as :: [Performing_Group.secret](/_secret/Society/Agent/Community/Organization/Performing_Group.secret.md)
 

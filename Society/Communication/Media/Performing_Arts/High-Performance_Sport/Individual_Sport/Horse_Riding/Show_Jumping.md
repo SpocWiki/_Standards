@@ -26,3 +26,22 @@ Commons_category: Show jumping
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Show%20jumping) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Show_Jumping](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Show_Jumping.md) 
+
+### #is_/same_as :: [Show_Jumping.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Show_Jumping.public.md) 
+
+### #is_/same_as :: [Show_Jumping.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Show_Jumping.internal.md) 
+
+### #is_/same_as :: [Show_Jumping.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Show_Jumping.protect.md) 
+
+### #is_/same_as :: [Show_Jumping.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Show_Jumping.private.md) 
+
+### #is_/same_as :: [Show_Jumping.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Show_Jumping.personal.md) 
+
+### #is_/same_as :: [Show_Jumping.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Show_Jumping.secret.md)
+

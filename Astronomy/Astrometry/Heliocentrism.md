@@ -38,3 +38,22 @@ Commons_category: Heliocentric model
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heliocentrism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heliocentrism](/_Standards/Astronomy/Astrometry/Heliocentrism.md) 
+
+### #is_/same_as :: [Heliocentrism.public](/_public/Astronomy/Astrometry/Heliocentrism.public.md) 
+
+### #is_/same_as :: [Heliocentrism.internal](/_internal/Astronomy/Astrometry/Heliocentrism.internal.md) 
+
+### #is_/same_as :: [Heliocentrism.protect](/_protect/Astronomy/Astrometry/Heliocentrism.protect.md) 
+
+### #is_/same_as :: [Heliocentrism.private](/_private/Astronomy/Astrometry/Heliocentrism.private.md) 
+
+### #is_/same_as :: [Heliocentrism.personal](/_personal/Astronomy/Astrometry/Heliocentrism.personal.md) 
+
+### #is_/same_as :: [Heliocentrism.secret](/_secret/Astronomy/Astrometry/Heliocentrism.secret.md)
+

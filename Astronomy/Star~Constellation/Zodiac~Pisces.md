@@ -51,6 +51,7 @@ short_name: Psc
 
 #is_/same_as :: [[../../WikiData/WD~Pisces,8679|WD~Pisces,8679]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Pisces](/_Standards/Astronomy/Star~Constellation/Zodiac~Pisces.md) 

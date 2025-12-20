@@ -20,17 +20,17 @@ _Mass-sol: 0.8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star-Class~K](/_Standards/Astronomy/Star~Class/Star-Class~K.md) 
+### #is_/same_as :: [Star-Class~K](/_Standards/Astronomy/Star/Star~Class/Star-Class~K.md) 
 
-### #is_/same_as :: [Star-Class~K.public](/_public/Astronomy/Star~Class/Star-Class~K.public.md) 
+### #is_/same_as :: [Star-Class~K.public](/_public/Astronomy/Star/Star~Class/Star-Class~K.public.md) 
 
-### #is_/same_as :: [Star-Class~K.internal](/_internal/Astronomy/Star~Class/Star-Class~K.internal.md) 
+### #is_/same_as :: [Star-Class~K.internal](/_internal/Astronomy/Star/Star~Class/Star-Class~K.internal.md) 
 
-### #is_/same_as :: [Star-Class~K.protect](/_protect/Astronomy/Star~Class/Star-Class~K.protect.md) 
+### #is_/same_as :: [Star-Class~K.protect](/_protect/Astronomy/Star/Star~Class/Star-Class~K.protect.md) 
 
-### #is_/same_as :: [Star-Class~K.private](/_private/Astronomy/Star~Class/Star-Class~K.private.md) 
+### #is_/same_as :: [Star-Class~K.private](/_private/Astronomy/Star/Star~Class/Star-Class~K.private.md) 
 
-### #is_/same_as :: [Star-Class~K.personal](/_personal/Astronomy/Star~Class/Star-Class~K.personal.md) 
+### #is_/same_as :: [Star-Class~K.personal](/_personal/Astronomy/Star/Star~Class/Star-Class~K.personal.md) 
 
-### #is_/same_as :: [Star-Class~K.secret](/_secret/Astronomy/Star~Class/Star-Class~K.secret.md)
+### #is_/same_as :: [Star-Class~K.secret](/_secret/Astronomy/Star/Star~Class/Star-Class~K.secret.md)
 

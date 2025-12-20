@@ -95,3 +95,22 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emile%20Berliner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Berliner,Emile](/_Standards/Science/Inventor/Berliner,Emile.md) 
+
+### #is_/same_as :: [Berliner,Emile.public](/_public/Science/Inventor/Berliner,Emile.public.md) 
+
+### #is_/same_as :: [Berliner,Emile.internal](/_internal/Science/Inventor/Berliner,Emile.internal.md) 
+
+### #is_/same_as :: [Berliner,Emile.protect](/_protect/Science/Inventor/Berliner,Emile.protect.md) 
+
+### #is_/same_as :: [Berliner,Emile.private](/_private/Science/Inventor/Berliner,Emile.private.md) 
+
+### #is_/same_as :: [Berliner,Emile.personal](/_personal/Science/Inventor/Berliner,Emile.personal.md) 
+
+### #is_/same_as :: [Berliner,Emile.secret](/_secret/Science/Inventor/Berliner,Emile.secret.md)
+

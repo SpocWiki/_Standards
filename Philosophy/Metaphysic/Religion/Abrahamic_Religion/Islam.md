@@ -237,3 +237,22 @@ Gujarati_Vishwakosh_entry: ઇસ્લામ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Islam) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.md) 
+
+### #is_/same_as :: [Islam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.public.md) 
+
+### #is_/same_as :: [Islam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.internal.md) 
+
+### #is_/same_as :: [Islam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.protect.md) 
+
+### #is_/same_as :: [Islam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.private.md) 
+
+### #is_/same_as :: [Islam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.personal.md) 
+
+### #is_/same_as :: [Islam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam.secret.md)
+

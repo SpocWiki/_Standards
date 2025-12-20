@@ -19,17 +19,17 @@ Hence, three different training algorithms have been suggested, called Rule I, R
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Memistor](/_Standards/Technology/Electronics/Electronic_Component/Memistor.md) 
+### #is_/same_as :: [Memistor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.md) 
 
-### #is_/same_as :: [Memistor.public](/_public/Technology/Electronics/Electronic_Component/Memistor.public.md) 
+### #is_/same_as :: [Memistor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.public.md) 
 
-### #is_/same_as :: [Memistor.internal](/_internal/Technology/Electronics/Electronic_Component/Memistor.internal.md) 
+### #is_/same_as :: [Memistor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.internal.md) 
 
-### #is_/same_as :: [Memistor.protect](/_protect/Technology/Electronics/Electronic_Component/Memistor.protect.md) 
+### #is_/same_as :: [Memistor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.protect.md) 
 
-### #is_/same_as :: [Memistor.private](/_private/Technology/Electronics/Electronic_Component/Memistor.private.md) 
+### #is_/same_as :: [Memistor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.private.md) 
 
-### #is_/same_as :: [Memistor.personal](/_personal/Technology/Electronics/Electronic_Component/Memistor.personal.md) 
+### #is_/same_as :: [Memistor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.personal.md) 
 
-### #is_/same_as :: [Memistor.secret](/_secret/Technology/Electronics/Electronic_Component/Memistor.secret.md)
+### #is_/same_as :: [Memistor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memistor.secret.md)
 

@@ -48,17 +48,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quinn,Anthony](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.md) 
+### #is_/same_as :: [Quinn,Anthony](/_Standards/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.md) 
 
-### #is_/same_as :: [Quinn,Anthony.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.public.md) 
+### #is_/same_as :: [Quinn,Anthony.public](/_public/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.public.md) 
 
-### #is_/same_as :: [Quinn,Anthony.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.internal.md) 
+### #is_/same_as :: [Quinn,Anthony.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.internal.md) 
 
-### #is_/same_as :: [Quinn,Anthony.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.protect.md) 
+### #is_/same_as :: [Quinn,Anthony.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.protect.md) 
 
-### #is_/same_as :: [Quinn,Anthony.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.private.md) 
+### #is_/same_as :: [Quinn,Anthony.private](/_private/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.private.md) 
 
-### #is_/same_as :: [Quinn,Anthony.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.personal.md) 
+### #is_/same_as :: [Quinn,Anthony.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.personal.md) 
 
-### #is_/same_as :: [Quinn,Anthony.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.secret.md)
+### #is_/same_as :: [Quinn,Anthony.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.secret.md)
 

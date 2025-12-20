@@ -40,17 +40,17 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Holidays](Public_Holidays.md) 
+### #is_/same_as :: [Public_Holidays](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.md) 
 
-### #is_/same_as :: [public_holidays.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.public.md) 
+### #is_/same_as :: [Public_Holidays.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.public.md) 
 
-### #is_/same_as :: [public_holidays.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.internal.md) 
+### #is_/same_as :: [Public_Holidays.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.internal.md) 
 
-### #is_/same_as :: [public_holidays.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.protect.md) 
+### #is_/same_as :: [Public_Holidays.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.protect.md) 
 
-### #is_/same_as :: [public_holidays.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.private.md) 
+### #is_/same_as :: [Public_Holidays.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.private.md) 
 
-### #is_/same_as :: [public_holidays.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.personal.md) 
+### #is_/same_as :: [Public_Holidays.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.personal.md) 
 
-### #is_/same_as :: [public_holidays.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.secret.md)
+### #is_/same_as :: [Public_Holidays.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.secret.md)
 

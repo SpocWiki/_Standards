@@ -78,3 +78,22 @@ time_of_discovery_or_invention: 1789-08-28T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Enceladus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Enceladus](/_Standards/Astronomy/Solar_System/Saturn/Enceladus.md) 
+
+### #is_/same_as :: [Enceladus.public](/_public/Astronomy/Solar_System/Saturn/Enceladus.public.md) 
+
+### #is_/same_as :: [Enceladus.internal](/_internal/Astronomy/Solar_System/Saturn/Enceladus.internal.md) 
+
+### #is_/same_as :: [Enceladus.protect](/_protect/Astronomy/Solar_System/Saturn/Enceladus.protect.md) 
+
+### #is_/same_as :: [Enceladus.private](/_private/Astronomy/Solar_System/Saturn/Enceladus.private.md) 
+
+### #is_/same_as :: [Enceladus.personal](/_personal/Astronomy/Solar_System/Saturn/Enceladus.personal.md) 
+
+### #is_/same_as :: [Enceladus.secret](/_secret/Astronomy/Solar_System/Saturn/Enceladus.secret.md)
+

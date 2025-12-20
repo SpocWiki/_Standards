@@ -106,3 +106,22 @@ IPTC_NewsCode: mediatopic/20000110
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Judge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Judge](/_Standards/Society/Law/Judiciary/Court/Judge.md) 
+
+### #is_/same_as :: [Judge.public](/_public/Society/Law/Judiciary/Court/Judge.public.md) 
+
+### #is_/same_as :: [Judge.internal](/_internal/Society/Law/Judiciary/Court/Judge.internal.md) 
+
+### #is_/same_as :: [Judge.protect](/_protect/Society/Law/Judiciary/Court/Judge.protect.md) 
+
+### #is_/same_as :: [Judge.private](/_private/Society/Law/Judiciary/Court/Judge.private.md) 
+
+### #is_/same_as :: [Judge.personal](/_personal/Society/Law/Judiciary/Court/Judge.personal.md) 
+
+### #is_/same_as :: [Judge.secret](/_secret/Society/Law/Judiciary/Court/Judge.secret.md)
+

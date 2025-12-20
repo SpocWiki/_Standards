@@ -157,3 +157,22 @@ Europeana_entity: agent/base/147024
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Hooke) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hooke,Robert](/_Standards/Science/Polymath/Hooke,Robert.md) 
+
+### #is_/same_as :: [Hooke,Robert.public](/_public/Science/Polymath/Hooke,Robert.public.md) 
+
+### #is_/same_as :: [Hooke,Robert.internal](/_internal/Science/Polymath/Hooke,Robert.internal.md) 
+
+### #is_/same_as :: [Hooke,Robert.protect](/_protect/Science/Polymath/Hooke,Robert.protect.md) 
+
+### #is_/same_as :: [Hooke,Robert.private](/_private/Science/Polymath/Hooke,Robert.private.md) 
+
+### #is_/same_as :: [Hooke,Robert.personal](/_personal/Science/Polymath/Hooke,Robert.personal.md) 
+
+### #is_/same_as :: [Hooke,Robert.secret](/_secret/Science/Polymath/Hooke,Robert.secret.md)
+

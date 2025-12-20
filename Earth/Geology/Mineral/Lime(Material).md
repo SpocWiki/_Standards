@@ -18,3 +18,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lime%20(material)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lime(Material)](/_Standards/Earth/Geology/Mineral/Lime(Material).md) 
+
+### #is_/same_as :: [Lime(Material).public](/_public/Earth/Geology/Mineral/Lime(Material).public.md) 
+
+### #is_/same_as :: [Lime(Material).internal](/_internal/Earth/Geology/Mineral/Lime(Material).internal.md) 
+
+### #is_/same_as :: [Lime(Material).protect](/_protect/Earth/Geology/Mineral/Lime(Material).protect.md) 
+
+### #is_/same_as :: [Lime(Material).private](/_private/Earth/Geology/Mineral/Lime(Material).private.md) 
+
+### #is_/same_as :: [Lime(Material).personal](/_personal/Earth/Geology/Mineral/Lime(Material).personal.md) 
+
+### #is_/same_as :: [Lime(Material).secret](/_secret/Earth/Geology/Mineral/Lime(Material).secret.md)
+

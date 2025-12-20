@@ -60,17 +60,17 @@ UMLS_CUI: C0019932
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hormone](Hormone.md) 
+### #is_/same_as :: [Hormone](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone.md) 
 
-### #is_/same_as :: [Hormone.public](/_public/Chemistry/organic/Biochemistry/Hormone.public.md) 
+### #is_/same_as :: [Hormone.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone.public.md) 
 
-### #is_/same_as :: [Hormone.internal](/_internal/Chemistry/organic/Biochemistry/Hormone.internal.md) 
+### #is_/same_as :: [Hormone.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone.internal.md) 
 
-### #is_/same_as :: [Hormone.protect](/_protect/Chemistry/organic/Biochemistry/Hormone.protect.md) 
+### #is_/same_as :: [Hormone.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone.protect.md) 
 
-### #is_/same_as :: [Hormone.private](/_private/Chemistry/organic/Biochemistry/Hormone.private.md) 
+### #is_/same_as :: [Hormone.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone.private.md) 
 
-### #is_/same_as :: [Hormone.personal](/_personal/Chemistry/organic/Biochemistry/Hormone.personal.md) 
+### #is_/same_as :: [Hormone.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone.personal.md) 
 
-### #is_/same_as :: [Hormone.secret](/_secret/Chemistry/organic/Biochemistry/Hormone.secret.md)
+### #is_/same_as :: [Hormone.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone.secret.md)
 

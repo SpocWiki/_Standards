@@ -43,3 +43,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Moravec's%20paradox) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moravec's_paradox](/_Standards/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.md) 
+
+### #is_/same_as :: [Moravec's_paradox.public](/_public/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.public.md) 
+
+### #is_/same_as :: [Moravec's_paradox.internal](/_internal/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.internal.md) 
+
+### #is_/same_as :: [Moravec's_paradox.protect](/_protect/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.protect.md) 
+
+### #is_/same_as :: [Moravec's_paradox.private](/_private/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.private.md) 
+
+### #is_/same_as :: [Moravec's_paradox.personal](/_personal/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.personal.md) 
+
+### #is_/same_as :: [Moravec's_paradox.secret](/_secret/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.secret.md)
+

@@ -40,3 +40,22 @@ Gujarati_Vishwakosh_entry: પૂર્વગ્રહ-prejudice
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prejudice) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prejudice](/_Standards/bio/Psychology/Affect/Prejudice.md) 
+
+### #is_/same_as :: [Prejudice.public](/_public/bio/Psychology/Affect/Prejudice.public.md) 
+
+### #is_/same_as :: [Prejudice.internal](/_internal/bio/Psychology/Affect/Prejudice.internal.md) 
+
+### #is_/same_as :: [Prejudice.protect](/_protect/bio/Psychology/Affect/Prejudice.protect.md) 
+
+### #is_/same_as :: [Prejudice.private](/_private/bio/Psychology/Affect/Prejudice.private.md) 
+
+### #is_/same_as :: [Prejudice.personal](/_personal/bio/Psychology/Affect/Prejudice.personal.md) 
+
+### #is_/same_as :: [Prejudice.secret](/_secret/bio/Psychology/Affect/Prejudice.secret.md)
+

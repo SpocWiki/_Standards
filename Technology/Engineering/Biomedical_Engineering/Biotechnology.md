@@ -64,36 +64,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biotechnology](Biotechnology.md) 
+### #is_/same_as :: [Biotechnology](/_Standards/Technology/Engineering/Biomedical_Engineering/Biotechnology.md) 
 
-### #is_/same_as :: [Biotechnology.public](/_public/Technology/Biotechnology.public.md) 
+### #is_/same_as :: [Biotechnology.public](/_public/Technology/Engineering/Biomedical_Engineering/Biotechnology.public.md) 
 
-### #is_/same_as :: [Biotechnology.internal](/_internal/Technology/Biotechnology.internal.md) 
+### #is_/same_as :: [Biotechnology.internal](/_internal/Technology/Engineering/Biomedical_Engineering/Biotechnology.internal.md) 
 
-### #is_/same_as :: [Biotechnology.protect](/_protect/Technology/Biotechnology.protect.md) 
+### #is_/same_as :: [Biotechnology.protect](/_protect/Technology/Engineering/Biomedical_Engineering/Biotechnology.protect.md) 
 
-### #is_/same_as :: [Biotechnology.private](/_private/Technology/Biotechnology.private.md) 
+### #is_/same_as :: [Biotechnology.private](/_private/Technology/Engineering/Biomedical_Engineering/Biotechnology.private.md) 
 
-### #is_/same_as :: [Biotechnology.personal](/_personal/Technology/Biotechnology.personal.md) 
+### #is_/same_as :: [Biotechnology.personal](/_personal/Technology/Engineering/Biomedical_Engineering/Biotechnology.personal.md) 
 
-### #is_/same_as :: [Biotechnology.secret](/_secret/Technology/Biotechnology.secret.md)
+### #is_/same_as :: [Biotechnology.secret](/_secret/Technology/Engineering/Biomedical_Engineering/Biotechnology.secret.md)
 
-
-# [[Biotechnology]] 
-
-#is_/part_of :: [[Biotechnology]] 
-
-![[Biotechnology.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Biotechnology.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

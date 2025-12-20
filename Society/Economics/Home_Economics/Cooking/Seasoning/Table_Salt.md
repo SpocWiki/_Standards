@@ -137,17 +137,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/POVARENNAYA_SOL.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salt(Chemistry)](../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry).md) 
+### #is_/same_as :: [Table_Salt](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt.md) 
 
-### #is_/same_as :: [Salt.public](/_public/Chemistry/inOrganic/Salt.public.md) 
+### #is_/same_as :: [Table_Salt.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt.public.md) 
 
-### #is_/same_as :: [Salt.internal](/_internal/Chemistry/inOrganic/Salt.internal.md) 
+### #is_/same_as :: [Table_Salt.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt.internal.md) 
 
-### #is_/same_as :: [Salt.protect](/_protect/Chemistry/inOrganic/Salt.protect.md) 
+### #is_/same_as :: [Table_Salt.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt.protect.md) 
 
-### #is_/same_as :: [Salt.private](/_private/Chemistry/inOrganic/Salt.private.md) 
+### #is_/same_as :: [Table_Salt.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt.private.md) 
 
-### #is_/same_as :: [Salt.personal](/_personal/Chemistry/inOrganic/Salt.personal.md) 
+### #is_/same_as :: [Table_Salt.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt.personal.md) 
 
-### #is_/same_as :: [Salt.secret](/_secret/Chemistry/inOrganic/Salt.secret.md)
+### #is_/same_as :: [Table_Salt.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt.secret.md)
 

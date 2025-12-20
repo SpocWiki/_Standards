@@ -66,3 +66,22 @@ Commons_category: Stellar evolution
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stellar_Evolution](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution.md) 
+
+### #is_/same_as :: [Stellar_Evolution.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public.md) 
+
+### #is_/same_as :: [Stellar_Evolution.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal.md) 
+
+### #is_/same_as :: [Stellar_Evolution.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect.md) 
+
+### #is_/same_as :: [Stellar_Evolution.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private.md) 
+
+### #is_/same_as :: [Stellar_Evolution.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal.md) 
+
+### #is_/same_as :: [Stellar_Evolution.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret.md)
+

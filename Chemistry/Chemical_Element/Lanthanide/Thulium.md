@@ -87,17 +87,17 @@ UNII: 8RKC5ATI4P
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thulium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.md) 
+### #is_/same_as :: [Thulium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Thulium.md) 
 
-### #is_/same_as :: [Thulium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.public.md) 
+### #is_/same_as :: [Thulium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Thulium.public.md) 
 
-### #is_/same_as :: [Thulium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.internal.md) 
+### #is_/same_as :: [Thulium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Thulium.internal.md) 
 
-### #is_/same_as :: [Thulium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.protect.md) 
+### #is_/same_as :: [Thulium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Thulium.protect.md) 
 
-### #is_/same_as :: [Thulium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.private.md) 
+### #is_/same_as :: [Thulium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Thulium.private.md) 
 
-### #is_/same_as :: [Thulium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.personal.md) 
+### #is_/same_as :: [Thulium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Thulium.personal.md) 
 
-### #is_/same_as :: [Thulium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.secret.md)
+### #is_/same_as :: [Thulium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Thulium.secret.md)
 

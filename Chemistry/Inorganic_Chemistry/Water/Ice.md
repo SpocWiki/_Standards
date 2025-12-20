@@ -93,3 +93,22 @@ Unicode_character: 🧊
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ice](/_Standards/Chemistry/Inorganic_Chemistry/Water/Ice.md) 
+
+### #is_/same_as :: [Ice.public](/_public/Chemistry/Inorganic_Chemistry/Water/Ice.public.md) 
+
+### #is_/same_as :: [Ice.internal](/_internal/Chemistry/Inorganic_Chemistry/Water/Ice.internal.md) 
+
+### #is_/same_as :: [Ice.protect](/_protect/Chemistry/Inorganic_Chemistry/Water/Ice.protect.md) 
+
+### #is_/same_as :: [Ice.private](/_private/Chemistry/Inorganic_Chemistry/Water/Ice.private.md) 
+
+### #is_/same_as :: [Ice.personal](/_personal/Chemistry/Inorganic_Chemistry/Water/Ice.personal.md) 
+
+### #is_/same_as :: [Ice.secret](/_secret/Chemistry/Inorganic_Chemistry/Water/Ice.secret.md)
+

@@ -24,3 +24,22 @@ has_id_wikidata: Q170472
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Origen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Origen](/_Standards/Philosophy/Metaphysic/Religion/Theologian/Origen.md) 
+
+### #is_/same_as :: [Origen.public](/_public/Philosophy/Metaphysic/Religion/Theologian/Origen.public.md) 
+
+### #is_/same_as :: [Origen.internal](/_internal/Philosophy/Metaphysic/Religion/Theologian/Origen.internal.md) 
+
+### #is_/same_as :: [Origen.protect](/_protect/Philosophy/Metaphysic/Religion/Theologian/Origen.protect.md) 
+
+### #is_/same_as :: [Origen.private](/_private/Philosophy/Metaphysic/Religion/Theologian/Origen.private.md) 
+
+### #is_/same_as :: [Origen.personal](/_personal/Philosophy/Metaphysic/Religion/Theologian/Origen.personal.md) 
+
+### #is_/same_as :: [Origen.secret](/_secret/Philosophy/Metaphysic/Religion/Theologian/Origen.secret.md)
+

@@ -37,3 +37,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhumsiki%20Peak.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Volcanic%20plug) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Volcanic_Plug](/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug.md) 
+
+### #is_/same_as :: [Volcanic_Plug.public](/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public.md) 
+
+### #is_/same_as :: [Volcanic_Plug.internal](/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal.md) 
+
+### #is_/same_as :: [Volcanic_Plug.protect](/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect.md) 
+
+### #is_/same_as :: [Volcanic_Plug.private](/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private.md) 
+
+### #is_/same_as :: [Volcanic_Plug.personal](/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal.md) 
+
+### #is_/same_as :: [Volcanic_Plug.secret](/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret.md)
+

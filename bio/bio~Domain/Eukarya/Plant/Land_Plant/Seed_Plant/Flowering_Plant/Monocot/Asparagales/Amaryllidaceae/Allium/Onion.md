@@ -28,3 +28,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Onion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Onion](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Onion.md) 
+
+### #is_/same_as :: [Onion.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Onion.public.md) 
+
+### #is_/same_as :: [Onion.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Onion.internal.md) 
+
+### #is_/same_as :: [Onion.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Onion.protect.md) 
+
+### #is_/same_as :: [Onion.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Onion.private.md) 
+
+### #is_/same_as :: [Onion.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Onion.personal.md) 
+
+### #is_/same_as :: [Onion.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Onion.secret.md)
+

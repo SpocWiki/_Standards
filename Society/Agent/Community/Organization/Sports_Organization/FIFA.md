@@ -31,3 +31,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/FIFA) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [FIFA](/_Standards/Society/Agent/Community/Organization/Sports_Organization/FIFA.md) 
+
+### #is_/same_as :: [FIFA.public](/_public/Society/Agent/Community/Organization/Sports_Organization/FIFA.public.md) 
+
+### #is_/same_as :: [FIFA.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/FIFA.internal.md) 
+
+### #is_/same_as :: [FIFA.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/FIFA.protect.md) 
+
+### #is_/same_as :: [FIFA.private](/_private/Society/Agent/Community/Organization/Sports_Organization/FIFA.private.md) 
+
+### #is_/same_as :: [FIFA.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/FIFA.personal.md) 
+
+### #is_/same_as :: [FIFA.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/FIFA.secret.md)
+

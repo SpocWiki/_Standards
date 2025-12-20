@@ -55,3 +55,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/IKEA%20Anderlecht%20se
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Warehouse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Warehouse](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Warehouse.md) 
+
+### #is_/same_as :: [Warehouse.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Warehouse.public.md) 
+
+### #is_/same_as :: [Warehouse.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Warehouse.internal.md) 
+
+### #is_/same_as :: [Warehouse.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Warehouse.protect.md) 
+
+### #is_/same_as :: [Warehouse.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Warehouse.private.md) 
+
+### #is_/same_as :: [Warehouse.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Warehouse.personal.md) 
+
+### #is_/same_as :: [Warehouse.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Warehouse.secret.md)
+

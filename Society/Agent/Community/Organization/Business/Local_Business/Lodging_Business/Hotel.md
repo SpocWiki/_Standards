@@ -63,20 +63,19 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 > [Wikipedia](https://en.wikipedia.org/wiki/Hotel) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hotel](Hotel.md) 
+### #is_/same_as :: [Hotel](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.md) 
 
-### #is_/same_as :: [Hotel.public](/_public/Society/Organization/Local_Business/Lodging_Business/Hotel.public.md) 
+### #is_/same_as :: [Hotel.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.public.md) 
 
-### #is_/same_as :: [Hotel.internal](/_internal/Society/Organization/Local_Business/Lodging_Business/Hotel.internal.md) 
+### #is_/same_as :: [Hotel.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.internal.md) 
 
-### #is_/same_as :: [Hotel.protect](/_protect/Society/Organization/Local_Business/Lodging_Business/Hotel.protect.md) 
+### #is_/same_as :: [Hotel.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.protect.md) 
 
-### #is_/same_as :: [Hotel.private](/_private/Society/Organization/Local_Business/Lodging_Business/Hotel.private.md) 
+### #is_/same_as :: [Hotel.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.private.md) 
 
-### #is_/same_as :: [Hotel.personal](/_personal/Society/Organization/Local_Business/Lodging_Business/Hotel.personal.md) 
+### #is_/same_as :: [Hotel.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.personal.md) 
 
-### #is_/same_as :: [Hotel.secret](/_secret/Society/Organization/Local_Business/Lodging_Business/Hotel.secret.md)
+### #is_/same_as :: [Hotel.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.secret.md)
 

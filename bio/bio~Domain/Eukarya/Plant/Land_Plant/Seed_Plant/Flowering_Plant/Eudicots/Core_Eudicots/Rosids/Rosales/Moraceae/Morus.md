@@ -61,3 +61,22 @@ NBN_System_Key: NHMSYS0000460782
 > [Wikipedia](https://en.wikipedia.org/wiki/Morus%20(plant)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Morus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Moraceae/Morus.md) 
+
+### #is_/same_as :: [Morus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Moraceae/Morus.public.md) 
+
+### #is_/same_as :: [Morus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Moraceae/Morus.internal.md) 
+
+### #is_/same_as :: [Morus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Moraceae/Morus.protect.md) 
+
+### #is_/same_as :: [Morus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Moraceae/Morus.private.md) 
+
+### #is_/same_as :: [Morus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Moraceae/Morus.personal.md) 
+
+### #is_/same_as :: [Morus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Moraceae/Morus.secret.md)
+

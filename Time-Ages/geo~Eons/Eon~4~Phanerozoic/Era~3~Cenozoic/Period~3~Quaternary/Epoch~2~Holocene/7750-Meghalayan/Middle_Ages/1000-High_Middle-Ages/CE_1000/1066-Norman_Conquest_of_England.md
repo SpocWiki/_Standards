@@ -61,3 +61,22 @@ Commons_category: Norman Conquest of England
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Norman%20Conquest) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1066-Norman_Conquest_of_England](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1066-Norman_Conquest_of_England.md) 
+
+### #is_/same_as :: [1066-Norman_Conquest_of_England.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1066-Norman_Conquest_of_England.public.md) 
+
+### #is_/same_as :: [1066-Norman_Conquest_of_England.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1066-Norman_Conquest_of_England.internal.md) 
+
+### #is_/same_as :: [1066-Norman_Conquest_of_England.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1066-Norman_Conquest_of_England.protect.md) 
+
+### #is_/same_as :: [1066-Norman_Conquest_of_England.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1066-Norman_Conquest_of_England.private.md) 
+
+### #is_/same_as :: [1066-Norman_Conquest_of_England.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1066-Norman_Conquest_of_England.personal.md) 
+
+### #is_/same_as :: [1066-Norman_Conquest_of_England.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1066-Norman_Conquest_of_England.secret.md)
+

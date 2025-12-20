@@ -209,6 +209,8 @@ Wikidata properties: [connects with (P2789)](https://www.wikidata.org/wiki/Pro
 Example: A book is part of the set of all books, but that doesn't mean it is part of a "book". We use [instance of (P31)](https://www.wikidata.org/wiki/Property:P31 "Property:P31") instead.
 
 Wikidata property: [subclass of (P279)](https://www.wikidata.org/wiki/Property:P279 "Property:P279"), [instance of (P31)](https://www.wikidata.org/wiki/Property:P31 "Property:P31")
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [is_part_of](/_Standards/schema-org/Composite/is_part_of.md) 

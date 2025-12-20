@@ -32,3 +32,22 @@ has_id_wikidata: Q177463
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charcoal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Charcoal](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.md) 
+
+### #is_/same_as :: [Charcoal.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.public.md) 
+
+### #is_/same_as :: [Charcoal.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.internal.md) 
+
+### #is_/same_as :: [Charcoal.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.protect.md) 
+
+### #is_/same_as :: [Charcoal.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.private.md) 
+
+### #is_/same_as :: [Charcoal.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.personal.md) 
+
+### #is_/same_as :: [Charcoal.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.secret.md)
+

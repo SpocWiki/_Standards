@@ -16,3 +16,21 @@
 > Bob Fabry, University of Chicago, was responsible for COMIT II on Compatible Time Sharing System.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/COMIT)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~COMIT](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.md) 
+
+### #is_/same_as :: [Prog~COMIT.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.public.md) 
+
+### #is_/same_as :: [Prog~COMIT.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.internal.md) 
+
+### #is_/same_as :: [Prog~COMIT.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.protect.md) 
+
+### #is_/same_as :: [Prog~COMIT.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.private.md) 
+
+### #is_/same_as :: [Prog~COMIT.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.personal.md) 
+
+### #is_/same_as :: [Prog~COMIT.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~COMIT.secret.md)
+

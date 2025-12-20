@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Dartmouth College"
 ---
@@ -79,4 +79,23 @@ aliases:
 > 51 Olympic medalists.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dartmouth%20College)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dartmouth_College](/_Standards/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.md) 
+
+### #is_/same_as :: [Dartmouth_College.public](/_public/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.public.md) 
+
+### #is_/same_as :: [Dartmouth_College.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.internal.md) 
+
+### #is_/same_as :: [Dartmouth_College.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.protect.md) 
+
+### #is_/same_as :: [Dartmouth_College.private](/_private/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.private.md) 
+
+### #is_/same_as :: [Dartmouth_College.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.personal.md) 
+
+### #is_/same_as :: [Dartmouth_College.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Dartmouth_College.secret.md)
 

@@ -75,6 +75,7 @@ official_name: Triangulum Australe
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triangulum%20Australe) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Triangulum_Australis](/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.md) 

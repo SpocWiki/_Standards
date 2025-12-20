@@ -53,3 +53,22 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/EKSPRESSIONIZM
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Expressionism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Expressionism](/_Standards/Society/Communication/Art/Art_History/Expressionism.md) 
+
+### #is_/same_as :: [Expressionism.public](/_public/Society/Communication/Art/Art_History/Expressionism.public.md) 
+
+### #is_/same_as :: [Expressionism.internal](/_internal/Society/Communication/Art/Art_History/Expressionism.internal.md) 
+
+### #is_/same_as :: [Expressionism.protect](/_protect/Society/Communication/Art/Art_History/Expressionism.protect.md) 
+
+### #is_/same_as :: [Expressionism.private](/_private/Society/Communication/Art/Art_History/Expressionism.private.md) 
+
+### #is_/same_as :: [Expressionism.personal](/_personal/Society/Communication/Art/Art_History/Expressionism.personal.md) 
+
+### #is_/same_as :: [Expressionism.secret](/_secret/Society/Communication/Art/Art_History/Expressionism.secret.md)
+

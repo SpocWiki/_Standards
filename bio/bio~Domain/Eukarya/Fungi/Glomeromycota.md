@@ -530,7 +530,6 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
   ---------------------------------------------------------------------------------
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glomeromycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.md) 

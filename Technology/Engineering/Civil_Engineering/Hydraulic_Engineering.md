@@ -53,3 +53,22 @@ Commons_category: Hydraulic engineering
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydraulic%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydraulic_Engineering](/_Standards/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering.md) 
+
+### #is_/same_as :: [Hydraulic_Engineering.public](/_public/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering.public.md) 
+
+### #is_/same_as :: [Hydraulic_Engineering.internal](/_internal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering.internal.md) 
+
+### #is_/same_as :: [Hydraulic_Engineering.protect](/_protect/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering.protect.md) 
+
+### #is_/same_as :: [Hydraulic_Engineering.private](/_private/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering.private.md) 
+
+### #is_/same_as :: [Hydraulic_Engineering.personal](/_personal/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering.personal.md) 
+
+### #is_/same_as :: [Hydraulic_Engineering.secret](/_secret/Technology/Engineering/Civil_Engineering/Hydraulic_Engineering.secret.md)
+

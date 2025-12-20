@@ -44,3 +44,22 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Crom
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Crompton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crompton,Samuel](/_Standards/Science/Inventor/Crompton,Samuel.md) 
+
+### #is_/same_as :: [Crompton,Samuel.public](/_public/Science/Inventor/Crompton,Samuel.public.md) 
+
+### #is_/same_as :: [Crompton,Samuel.internal](/_internal/Science/Inventor/Crompton,Samuel.internal.md) 
+
+### #is_/same_as :: [Crompton,Samuel.protect](/_protect/Science/Inventor/Crompton,Samuel.protect.md) 
+
+### #is_/same_as :: [Crompton,Samuel.private](/_private/Science/Inventor/Crompton,Samuel.private.md) 
+
+### #is_/same_as :: [Crompton,Samuel.personal](/_personal/Science/Inventor/Crompton,Samuel.personal.md) 
+
+### #is_/same_as :: [Crompton,Samuel.secret](/_secret/Science/Inventor/Crompton,Samuel.secret.md)
+

@@ -60,3 +60,22 @@ Commons_category: Transition metals
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transition%20metal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Transition_Metal](/_Standards/Chemistry/Chemical_Element/Transition_Metal.md) 
+
+### #is_/same_as :: [Transition_Metal.public](/_public/Chemistry/Chemical_Element/Transition_Metal.public.md) 
+
+### #is_/same_as :: [Transition_Metal.internal](/_internal/Chemistry/Chemical_Element/Transition_Metal.internal.md) 
+
+### #is_/same_as :: [Transition_Metal.protect](/_protect/Chemistry/Chemical_Element/Transition_Metal.protect.md) 
+
+### #is_/same_as :: [Transition_Metal.private](/_private/Chemistry/Chemical_Element/Transition_Metal.private.md) 
+
+### #is_/same_as :: [Transition_Metal.personal](/_personal/Chemistry/Chemical_Element/Transition_Metal.personal.md) 
+
+### #is_/same_as :: [Transition_Metal.secret](/_secret/Chemistry/Chemical_Element/Transition_Metal.secret.md)
+

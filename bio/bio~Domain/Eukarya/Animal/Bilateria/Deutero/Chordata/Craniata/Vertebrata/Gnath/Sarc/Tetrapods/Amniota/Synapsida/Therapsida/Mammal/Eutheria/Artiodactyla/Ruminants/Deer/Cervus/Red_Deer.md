@@ -83,3 +83,22 @@ EPPO_Code: CERVEL
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Red%20deer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Red_Deer](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus/Red_Deer.md) 
+
+### #is_/same_as :: [Red_Deer.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus/Red_Deer.public.md) 
+
+### #is_/same_as :: [Red_Deer.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus/Red_Deer.internal.md) 
+
+### #is_/same_as :: [Red_Deer.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus/Red_Deer.protect.md) 
+
+### #is_/same_as :: [Red_Deer.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus/Red_Deer.private.md) 
+
+### #is_/same_as :: [Red_Deer.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus/Red_Deer.personal.md) 
+
+### #is_/same_as :: [Red_Deer.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus/Red_Deer.secret.md)
+

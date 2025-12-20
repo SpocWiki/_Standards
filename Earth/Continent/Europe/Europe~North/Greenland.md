@@ -216,6 +216,7 @@ Capital :: [[Godthab]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greenland) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greenland](/_Standards/Earth/Continent/Europe/Europe~North/Greenland.md) 

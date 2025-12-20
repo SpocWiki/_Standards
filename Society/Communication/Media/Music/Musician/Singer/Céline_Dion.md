@@ -54,3 +54,22 @@ has_id_wikidata: Q5105
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Celine%20Dion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Céline_Dion](/_Standards/Society/Communication/Media/Music/Musician/Singer/Céline_Dion.md) 
+
+### #is_/same_as :: [Céline_Dion.public](/_public/Society/Communication/Media/Music/Musician/Singer/Céline_Dion.public.md) 
+
+### #is_/same_as :: [Céline_Dion.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Céline_Dion.internal.md) 
+
+### #is_/same_as :: [Céline_Dion.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Céline_Dion.protect.md) 
+
+### #is_/same_as :: [Céline_Dion.private](/_private/Society/Communication/Media/Music/Musician/Singer/Céline_Dion.private.md) 
+
+### #is_/same_as :: [Céline_Dion.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Céline_Dion.personal.md) 
+
+### #is_/same_as :: [Céline_Dion.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Céline_Dion.secret.md)
+

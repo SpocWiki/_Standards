@@ -49,3 +49,22 @@ OpenStreetMap_tag_or_key: Tag:man_made=crane
 > [Wikipedia](https://en.wikipedia.org/wiki/Crane%20(machine)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crane(Machine)](/_Standards/Technology/Tool/Mechanical_Tool/Crane(Machine).md) 
+
+### #is_/same_as :: [Crane(Machine).public](/_public/Technology/Tool/Mechanical_Tool/Crane(Machine).public.md) 
+
+### #is_/same_as :: [Crane(Machine).internal](/_internal/Technology/Tool/Mechanical_Tool/Crane(Machine).internal.md) 
+
+### #is_/same_as :: [Crane(Machine).protect](/_protect/Technology/Tool/Mechanical_Tool/Crane(Machine).protect.md) 
+
+### #is_/same_as :: [Crane(Machine).private](/_private/Technology/Tool/Mechanical_Tool/Crane(Machine).private.md) 
+
+### #is_/same_as :: [Crane(Machine).personal](/_personal/Technology/Tool/Mechanical_Tool/Crane(Machine).personal.md) 
+
+### #is_/same_as :: [Crane(Machine).secret](/_secret/Technology/Tool/Mechanical_Tool/Crane(Machine).secret.md)
+

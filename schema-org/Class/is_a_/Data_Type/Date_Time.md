@@ -47,17 +47,17 @@ Strictly speaking, even this is not universal, because that requires the Locatio
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [date_time](/_Standards/schema-org/Class/is_a_/data_type/date_time.md) 
+### #is_/same_as :: [Date_Time](/_Standards/schema-org/Class/is_a_/Data_Type/Date_Time.md) 
 
-### #is_/same_as :: [date_time.public](/_public/schema-org/Class/is_a_/data_type/date_time.public.md) 
+### #is_/same_as :: [Date_Time.public](/_public/schema-org/Class/is_a_/Data_Type/Date_Time.public.md) 
 
-### #is_/same_as :: [date_time.internal](/_internal/schema-org/Class/is_a_/data_type/date_time.internal.md) 
+### #is_/same_as :: [Date_Time.internal](/_internal/schema-org/Class/is_a_/Data_Type/Date_Time.internal.md) 
 
-### #is_/same_as :: [date_time.protect](/_protect/schema-org/Class/is_a_/data_type/date_time.protect.md) 
+### #is_/same_as :: [Date_Time.protect](/_protect/schema-org/Class/is_a_/Data_Type/Date_Time.protect.md) 
 
-### #is_/same_as :: [date_time.private](/_private/schema-org/Class/is_a_/data_type/date_time.private.md) 
+### #is_/same_as :: [Date_Time.private](/_private/schema-org/Class/is_a_/Data_Type/Date_Time.private.md) 
 
-### #is_/same_as :: [date_time.personal](/_personal/schema-org/Class/is_a_/data_type/date_time.personal.md) 
+### #is_/same_as :: [Date_Time.personal](/_personal/schema-org/Class/is_a_/Data_Type/Date_Time.personal.md) 
 
-### #is_/same_as :: [date_time.secret](/_secret/schema-org/Class/is_a_/data_type/date_time.secret.md)
+### #is_/same_as :: [Date_Time.secret](/_secret/schema-org/Class/is_a_/Data_Type/Date_Time.secret.md)
 

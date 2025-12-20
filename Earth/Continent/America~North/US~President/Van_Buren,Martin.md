@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Buren,Martin_van
 - 
@@ -115,4 +115,23 @@ type: private_note
 > He died of asthma at his home in Kinderhook in 1862, aged 79.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Van%20Buren)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Van_Buren,Martin](/_Standards/Earth/Continent/America~North/US~President/Van_Buren,Martin.md) 
+
+### #is_/same_as :: [Van_Buren,Martin.public](/_public/Earth/Continent/America~North/US~President/Van_Buren,Martin.public.md) 
+
+### #is_/same_as :: [Van_Buren,Martin.internal](/_internal/Earth/Continent/America~North/US~President/Van_Buren,Martin.internal.md) 
+
+### #is_/same_as :: [Van_Buren,Martin.protect](/_protect/Earth/Continent/America~North/US~President/Van_Buren,Martin.protect.md) 
+
+### #is_/same_as :: [Van_Buren,Martin.private](/_private/Earth/Continent/America~North/US~President/Van_Buren,Martin.private.md) 
+
+### #is_/same_as :: [Van_Buren,Martin.personal](/_personal/Earth/Continent/America~North/US~President/Van_Buren,Martin.personal.md) 
+
+### #is_/same_as :: [Van_Buren,Martin.secret](/_secret/Earth/Continent/America~North/US~President/Van_Buren,Martin.secret.md)
 

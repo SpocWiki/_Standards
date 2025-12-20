@@ -95,3 +95,22 @@ name_in_kana: フォートラン
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fortran](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Fortran.md) 
+
+### #is_/same_as :: [Fortran.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Fortran.public.md) 
+
+### #is_/same_as :: [Fortran.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Fortran.internal.md) 
+
+### #is_/same_as :: [Fortran.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Fortran.protect.md) 
+
+### #is_/same_as :: [Fortran.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Fortran.private.md) 
+
+### #is_/same_as :: [Fortran.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Fortran.personal.md) 
+
+### #is_/same_as :: [Fortran.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Fortran.secret.md)
+

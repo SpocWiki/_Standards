@@ -62,22 +62,22 @@ Lower Cretaceous of Brazil. Palaeontology 44:489-495.
   Specimen Condition   Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
-  ----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Notostigmophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.md) 
+### #is_/same_as :: [Notostigmophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Notostigmophora.md) 
 
-### #is_/same_as :: [Notostigmophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.public.md) 
+### #is_/same_as :: [Notostigmophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Notostigmophora.public.md) 
 
-### #is_/same_as :: [Notostigmophora.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.internal.md) 
+### #is_/same_as :: [Notostigmophora.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Notostigmophora.internal.md) 
 
-### #is_/same_as :: [Notostigmophora.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.protect.md) 
+### #is_/same_as :: [Notostigmophora.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Notostigmophora.protect.md) 
 
-### #is_/same_as :: [Notostigmophora.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.private.md) 
+### #is_/same_as :: [Notostigmophora.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Notostigmophora.private.md) 
 
-### #is_/same_as :: [Notostigmophora.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.personal.md) 
+### #is_/same_as :: [Notostigmophora.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Notostigmophora.personal.md) 
 
-### #is_/same_as :: [Notostigmophora.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.secret.md)
+### #is_/same_as :: [Notostigmophora.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede/Notostigmophora.secret.md)
 

@@ -42,3 +42,22 @@ OpenStreetMap_tag: amenity=shelter
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shelter) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shelter](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter.md) 
+
+### #is_/same_as :: [Shelter.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter.public.md) 
+
+### #is_/same_as :: [Shelter.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter.internal.md) 
+
+### #is_/same_as :: [Shelter.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter.protect.md) 
+
+### #is_/same_as :: [Shelter.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter.private.md) 
+
+### #is_/same_as :: [Shelter.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter.personal.md) 
+
+### #is_/same_as :: [Shelter.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter.secret.md)
+

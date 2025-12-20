@@ -35,17 +35,17 @@ P8189: "987007282577305171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Battleship](/_Standards/Society/Military/Navy/Battleship.md) 
+### #is_/same_as :: [Battleship](/_Standards/Society/Military/Military_Organization/Navy/Battleship.md) 
 
-### #is_/same_as :: [Battleship.public](/_public/Society/Military/Navy/Battleship.public.md) 
+### #is_/same_as :: [Battleship.public](/_public/Society/Military/Military_Organization/Navy/Battleship.public.md) 
 
-### #is_/same_as :: [Battleship.internal](/_internal/Society/Military/Navy/Battleship.internal.md) 
+### #is_/same_as :: [Battleship.internal](/_internal/Society/Military/Military_Organization/Navy/Battleship.internal.md) 
 
-### #is_/same_as :: [Battleship.protect](/_protect/Society/Military/Navy/Battleship.protect.md) 
+### #is_/same_as :: [Battleship.protect](/_protect/Society/Military/Military_Organization/Navy/Battleship.protect.md) 
 
-### #is_/same_as :: [Battleship.private](/_private/Society/Military/Navy/Battleship.private.md) 
+### #is_/same_as :: [Battleship.private](/_private/Society/Military/Military_Organization/Navy/Battleship.private.md) 
 
-### #is_/same_as :: [Battleship.personal](/_personal/Society/Military/Navy/Battleship.personal.md) 
+### #is_/same_as :: [Battleship.personal](/_personal/Society/Military/Military_Organization/Navy/Battleship.personal.md) 
 
-### #is_/same_as :: [Battleship.secret](/_secret/Society/Military/Navy/Battleship.secret.md)
+### #is_/same_as :: [Battleship.secret](/_secret/Society/Military/Military_Organization/Navy/Battleship.secret.md)
 

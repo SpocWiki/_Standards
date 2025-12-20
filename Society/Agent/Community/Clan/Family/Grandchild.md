@@ -95,3 +95,22 @@ kinship_equivalent_in_SPARQL_at_Wikidata: ?person wdt:P40/wdt:P40 ?relative
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Family) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grandchild](/_Standards/Society/Agent/Community/Clan/Family/Grandchild.md) 
+
+### #is_/same_as :: [Grandchild.public](/_public/Society/Agent/Community/Clan/Family/Grandchild.public.md) 
+
+### #is_/same_as :: [Grandchild.internal](/_internal/Society/Agent/Community/Clan/Family/Grandchild.internal.md) 
+
+### #is_/same_as :: [Grandchild.protect](/_protect/Society/Agent/Community/Clan/Family/Grandchild.protect.md) 
+
+### #is_/same_as :: [Grandchild.private](/_private/Society/Agent/Community/Clan/Family/Grandchild.private.md) 
+
+### #is_/same_as :: [Grandchild.personal](/_personal/Society/Agent/Community/Clan/Family/Grandchild.personal.md) 
+
+### #is_/same_as :: [Grandchild.secret](/_secret/Society/Agent/Community/Clan/Family/Grandchild.secret.md)
+

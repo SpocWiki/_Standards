@@ -40,17 +40,17 @@ An entry point, within some Web-based protocol.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [entry_point](/_Standards/schema-org/Class/is_a_/Intangible/entry_point.md) 
+### #is_/same_as :: [Entry_Point](/_Standards/schema-org/Class/is_a_/Intangible/Entry_Point.md) 
 
-### #is_/same_as :: [entry_point.public](/_public/schema-org/Class/is_a_/Intangible/entry_point.public.md) 
+### #is_/same_as :: [Entry_Point.public](/_public/schema-org/Class/is_a_/Intangible/Entry_Point.public.md) 
 
-### #is_/same_as :: [entry_point.internal](/_internal/schema-org/Class/is_a_/Intangible/entry_point.internal.md) 
+### #is_/same_as :: [Entry_Point.internal](/_internal/schema-org/Class/is_a_/Intangible/Entry_Point.internal.md) 
 
-### #is_/same_as :: [entry_point.protect](/_protect/schema-org/Class/is_a_/Intangible/entry_point.protect.md) 
+### #is_/same_as :: [Entry_Point.protect](/_protect/schema-org/Class/is_a_/Intangible/Entry_Point.protect.md) 
 
-### #is_/same_as :: [entry_point.private](/_private/schema-org/Class/is_a_/Intangible/entry_point.private.md) 
+### #is_/same_as :: [Entry_Point.private](/_private/schema-org/Class/is_a_/Intangible/Entry_Point.private.md) 
 
-### #is_/same_as :: [entry_point.personal](/_personal/schema-org/Class/is_a_/Intangible/entry_point.personal.md) 
+### #is_/same_as :: [Entry_Point.personal](/_personal/schema-org/Class/is_a_/Intangible/Entry_Point.personal.md) 
 
-### #is_/same_as :: [entry_point.secret](/_secret/schema-org/Class/is_a_/Intangible/entry_point.secret.md)
+### #is_/same_as :: [Entry_Point.secret](/_secret/schema-org/Class/is_a_/Intangible/Entry_Point.secret.md)
 

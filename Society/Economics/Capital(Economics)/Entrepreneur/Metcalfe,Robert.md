@@ -97,3 +97,22 @@ name_in_native_language: Bob Metcalfe
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Metcalfe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metcalfe,Robert](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Metcalfe,Robert.md) 
+
+### #is_/same_as :: [Metcalfe,Robert.public](/_public/Society/Economics/Capital(Economics)/Entrepreneur/Metcalfe,Robert.public.md) 
+
+### #is_/same_as :: [Metcalfe,Robert.internal](/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Metcalfe,Robert.internal.md) 
+
+### #is_/same_as :: [Metcalfe,Robert.protect](/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Metcalfe,Robert.protect.md) 
+
+### #is_/same_as :: [Metcalfe,Robert.private](/_private/Society/Economics/Capital(Economics)/Entrepreneur/Metcalfe,Robert.private.md) 
+
+### #is_/same_as :: [Metcalfe,Robert.personal](/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Metcalfe,Robert.personal.md) 
+
+### #is_/same_as :: [Metcalfe,Robert.secret](/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Metcalfe,Robert.secret.md)
+

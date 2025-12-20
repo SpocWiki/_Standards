@@ -34,3 +34,22 @@ instance_of: "[[_Standards/WikiData/WD~type_of_war,124867660]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Total%20war) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Total_War](/_Standards/Society/Military/Military_Operation/Combat/War/Total_War.md) 
+
+### #is_/same_as :: [Total_War.public](/_public/Society/Military/Military_Operation/Combat/War/Total_War.public.md) 
+
+### #is_/same_as :: [Total_War.internal](/_internal/Society/Military/Military_Operation/Combat/War/Total_War.internal.md) 
+
+### #is_/same_as :: [Total_War.protect](/_protect/Society/Military/Military_Operation/Combat/War/Total_War.protect.md) 
+
+### #is_/same_as :: [Total_War.private](/_private/Society/Military/Military_Operation/Combat/War/Total_War.private.md) 
+
+### #is_/same_as :: [Total_War.personal](/_personal/Society/Military/Military_Operation/Combat/War/Total_War.personal.md) 
+
+### #is_/same_as :: [Total_War.secret](/_secret/Society/Military/Military_Operation/Combat/War/Total_War.secret.md)
+

@@ -52,3 +52,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Repeterhagelgev%C3%A4r
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shotgun) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shotgun](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.md) 
+
+### #is_/same_as :: [Shotgun.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.public.md) 
+
+### #is_/same_as :: [Shotgun.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.internal.md) 
+
+### #is_/same_as :: [Shotgun.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.protect.md) 
+
+### #is_/same_as :: [Shotgun.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.private.md) 
+
+### #is_/same_as :: [Shotgun.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.personal.md) 
+
+### #is_/same_as :: [Shotgun.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.secret.md)
+

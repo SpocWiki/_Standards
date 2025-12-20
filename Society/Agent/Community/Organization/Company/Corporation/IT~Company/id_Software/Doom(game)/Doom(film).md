@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doom(film)](Doom(film).md) 
+### #is_/same_as :: [Doom(film)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game)/Doom(film).md) 
 
-### #is_/same_as :: [Doom(film).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game)/Doom(film).public.md) 
+### #is_/same_as :: [Doom(film).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game)/Doom(film).public.md) 
 
-### #is_/same_as :: [Doom(film).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game)/Doom(film).internal.md) 
+### #is_/same_as :: [Doom(film).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game)/Doom(film).internal.md) 
 
-### #is_/same_as :: [Doom(film).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game)/Doom(film).protect.md) 
+### #is_/same_as :: [Doom(film).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game)/Doom(film).protect.md) 
 
-### #is_/same_as :: [Doom(film).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game)/Doom(film).private.md) 
+### #is_/same_as :: [Doom(film).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game)/Doom(film).private.md) 
 
-### #is_/same_as :: [Doom(film).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game)/Doom(film).personal.md) 
+### #is_/same_as :: [Doom(film).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game)/Doom(film).personal.md) 
 
-### #is_/same_as :: [Doom(film).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game)/Doom(film).secret.md)
+### #is_/same_as :: [Doom(film).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game)/Doom(film).secret.md)
 

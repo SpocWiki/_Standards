@@ -40,17 +40,17 @@ A designation by the US FDA signifying that animal reproduction studies have fai
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [fd_acategory_b](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.md) 
+### #is_/same_as :: [Fda_Category_B](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.md) 
 
-### #is_/same_as :: [fd_acategory_b.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.public.md) 
+### #is_/same_as :: [Fda_Category_B.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.public.md) 
 
-### #is_/same_as :: [fd_acategory_b.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.internal.md) 
+### #is_/same_as :: [Fda_Category_B.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.internal.md) 
 
-### #is_/same_as :: [fd_acategory_b.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.protect.md) 
+### #is_/same_as :: [Fda_Category_B.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.protect.md) 
 
-### #is_/same_as :: [fd_acategory_b.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.private.md) 
+### #is_/same_as :: [Fda_Category_B.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.private.md) 
 
-### #is_/same_as :: [fd_acategory_b.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.personal.md) 
+### #is_/same_as :: [Fda_Category_B.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.personal.md) 
 
-### #is_/same_as :: [fd_acategory_b.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.secret.md)
+### #is_/same_as :: [Fda_Category_B.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_B.secret.md)
 

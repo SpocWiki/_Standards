@@ -117,3 +117,22 @@ Baidu_Tieba_name: 舒马赫
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Schumacher) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schumacher,Michael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.md) 
+
+### #is_/same_as :: [Schumacher,Michael.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.public.md) 
+
+### #is_/same_as :: [Schumacher,Michael.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.internal.md) 
+
+### #is_/same_as :: [Schumacher,Michael.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.protect.md) 
+
+### #is_/same_as :: [Schumacher,Michael.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.private.md) 
+
+### #is_/same_as :: [Schumacher,Michael.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.personal.md) 
+
+### #is_/same_as :: [Schumacher,Michael.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.secret.md)
+

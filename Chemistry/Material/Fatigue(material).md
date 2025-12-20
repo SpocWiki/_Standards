@@ -37,3 +37,22 @@ Library_of_Congress_Classification: TA418.38
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fatigue%20(material)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fatigue(material)](/_Standards/Chemistry/Material/Fatigue(material).md) 
+
+### #is_/same_as :: [Fatigue(material).public](/_public/Chemistry/Material/Fatigue(material).public.md) 
+
+### #is_/same_as :: [Fatigue(material).internal](/_internal/Chemistry/Material/Fatigue(material).internal.md) 
+
+### #is_/same_as :: [Fatigue(material).protect](/_protect/Chemistry/Material/Fatigue(material).protect.md) 
+
+### #is_/same_as :: [Fatigue(material).private](/_private/Chemistry/Material/Fatigue(material).private.md) 
+
+### #is_/same_as :: [Fatigue(material).personal](/_personal/Chemistry/Material/Fatigue(material).personal.md) 
+
+### #is_/same_as :: [Fatigue(material).secret](/_secret/Chemistry/Material/Fatigue(material).secret.md)
+

@@ -41,3 +41,22 @@ has_id_wikidata: Q186393
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Counterpoint) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Counterpoint](/_Standards/Society/Communication/Media/Music/Music_Genre/Counterpoint.md) 
+
+### #is_/same_as :: [Counterpoint.public](/_public/Society/Communication/Media/Music/Music_Genre/Counterpoint.public.md) 
+
+### #is_/same_as :: [Counterpoint.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Counterpoint.internal.md) 
+
+### #is_/same_as :: [Counterpoint.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Counterpoint.protect.md) 
+
+### #is_/same_as :: [Counterpoint.private](/_private/Society/Communication/Media/Music/Music_Genre/Counterpoint.private.md) 
+
+### #is_/same_as :: [Counterpoint.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Counterpoint.personal.md) 
+
+### #is_/same_as :: [Counterpoint.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Counterpoint.secret.md)
+

@@ -21,3 +21,22 @@ has_id_wikidata: Q42918
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mutation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mutation](/_Standards/bio/Evolution/Mutation.md) 
+
+### #is_/same_as :: [Mutation.public](/_public/bio/Evolution/Mutation.public.md) 
+
+### #is_/same_as :: [Mutation.internal](/_internal/bio/Evolution/Mutation.internal.md) 
+
+### #is_/same_as :: [Mutation.protect](/_protect/bio/Evolution/Mutation.protect.md) 
+
+### #is_/same_as :: [Mutation.private](/_private/bio/Evolution/Mutation.private.md) 
+
+### #is_/same_as :: [Mutation.personal](/_personal/bio/Evolution/Mutation.personal.md) 
+
+### #is_/same_as :: [Mutation.secret](/_secret/bio/Evolution/Mutation.secret.md)
+

@@ -50,17 +50,17 @@ EAGLE_id: objtyp/lod/380
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Basement](Basement.md) 
+### #is_/same_as :: [Basement](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Basement.md) 
 
-### #is_/same_as :: [Basement.public](/_public/Technology/Construction/Building/Basement.public.md) 
+### #is_/same_as :: [Basement.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Basement.public.md) 
 
-### #is_/same_as :: [Basement.internal](/_internal/Technology/Construction/Building/Basement.internal.md) 
+### #is_/same_as :: [Basement.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Basement.internal.md) 
 
-### #is_/same_as :: [Basement.protect](/_protect/Technology/Construction/Building/Basement.protect.md) 
+### #is_/same_as :: [Basement.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Basement.protect.md) 
 
-### #is_/same_as :: [Basement.private](/_private/Technology/Construction/Building/Basement.private.md) 
+### #is_/same_as :: [Basement.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Basement.private.md) 
 
-### #is_/same_as :: [Basement.personal](/_personal/Technology/Construction/Building/Basement.personal.md) 
+### #is_/same_as :: [Basement.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Basement.personal.md) 
 
-### #is_/same_as :: [Basement.secret](/_secret/Technology/Construction/Building/Basement.secret.md)
+### #is_/same_as :: [Basement.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Basement.secret.md)
 

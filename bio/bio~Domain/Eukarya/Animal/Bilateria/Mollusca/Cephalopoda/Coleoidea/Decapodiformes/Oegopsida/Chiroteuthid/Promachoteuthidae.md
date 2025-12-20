@@ -166,7 +166,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
   Sex ::              Female
   Life Cycle Stage ::   Immature
   Size               52 mm ML
-  --------------------------------------------------------------
+  --------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

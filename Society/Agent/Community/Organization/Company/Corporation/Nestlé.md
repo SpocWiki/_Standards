@@ -147,3 +147,21 @@ motto_text: Good food, Good life
 > Nestlé has faced longstanding criticism over its business practices. The company's promotion of infant formula in developing countries sparked a boycott in the 1970s for discouraging breastfeeding. It has also been accused of benefiting from child labor, forced labor, and deforestation in West African cocoa production, fined for price-fixing cartels and criticized for its water extraction practices.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nestl%C3%A9)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nestlé](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Nestlé.md) 
+
+### #is_/same_as :: [Nestlé.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Nestlé.public.md) 
+
+### #is_/same_as :: [Nestlé.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Nestlé.internal.md) 
+
+### #is_/same_as :: [Nestlé.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Nestlé.protect.md) 
+
+### #is_/same_as :: [Nestlé.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Nestlé.private.md) 
+
+### #is_/same_as :: [Nestlé.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Nestlé.personal.md) 
+
+### #is_/same_as :: [Nestlé.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Nestlé.secret.md)
+

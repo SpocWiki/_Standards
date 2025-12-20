@@ -57,3 +57,22 @@ The supermassive black hole at the center of the Milky Way Galaxy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sagittarius%20A) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sagittarius_A](/_Standards/Astronomy/Black_Hole/Sagittarius_A.md) 
+
+### #is_/same_as :: [Sagittarius_A.public](/_public/Astronomy/Black_Hole/Sagittarius_A.public.md) 
+
+### #is_/same_as :: [Sagittarius_A.internal](/_internal/Astronomy/Black_Hole/Sagittarius_A.internal.md) 
+
+### #is_/same_as :: [Sagittarius_A.protect](/_protect/Astronomy/Black_Hole/Sagittarius_A.protect.md) 
+
+### #is_/same_as :: [Sagittarius_A.private](/_private/Astronomy/Black_Hole/Sagittarius_A.private.md) 
+
+### #is_/same_as :: [Sagittarius_A.personal](/_personal/Astronomy/Black_Hole/Sagittarius_A.personal.md) 
+
+### #is_/same_as :: [Sagittarius_A.secret](/_secret/Astronomy/Black_Hole/Sagittarius_A.secret.md)
+

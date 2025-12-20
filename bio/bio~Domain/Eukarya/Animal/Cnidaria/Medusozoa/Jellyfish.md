@@ -55,3 +55,22 @@ subreddit: Hammyfish
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jellyfish) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jellyfish](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.md) 
+
+### #is_/same_as :: [Jellyfish.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.public.md) 
+
+### #is_/same_as :: [Jellyfish.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.internal.md) 
+
+### #is_/same_as :: [Jellyfish.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.protect.md) 
+
+### #is_/same_as :: [Jellyfish.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.private.md) 
+
+### #is_/same_as :: [Jellyfish.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.personal.md) 
+
+### #is_/same_as :: [Jellyfish.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.secret.md)
+

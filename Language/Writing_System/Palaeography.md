@@ -65,3 +65,22 @@ Commons_category: Palaeography
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palaeography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Palaeography](/_Standards/Language/Writing_System/Palaeography.md) 
+
+### #is_/same_as :: [Palaeography.public](/_public/Language/Writing_System/Palaeography.public.md) 
+
+### #is_/same_as :: [Palaeography.internal](/_internal/Language/Writing_System/Palaeography.internal.md) 
+
+### #is_/same_as :: [Palaeography.protect](/_protect/Language/Writing_System/Palaeography.protect.md) 
+
+### #is_/same_as :: [Palaeography.private](/_private/Language/Writing_System/Palaeography.private.md) 
+
+### #is_/same_as :: [Palaeography.personal](/_personal/Language/Writing_System/Palaeography.personal.md) 
+
+### #is_/same_as :: [Palaeography.secret](/_secret/Language/Writing_System/Palaeography.secret.md)
+

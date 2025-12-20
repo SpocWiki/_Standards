@@ -37,3 +37,22 @@ female_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Media%20proprietor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Media_Proprietor](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Proprietor.md) 
+
+### #is_/same_as :: [Media_Proprietor.public](/_public/Society/Economics/Capital(Economics)/Investor/Media_Proprietor.public.md) 
+
+### #is_/same_as :: [Media_Proprietor.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Media_Proprietor.internal.md) 
+
+### #is_/same_as :: [Media_Proprietor.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Media_Proprietor.protect.md) 
+
+### #is_/same_as :: [Media_Proprietor.private](/_private/Society/Economics/Capital(Economics)/Investor/Media_Proprietor.private.md) 
+
+### #is_/same_as :: [Media_Proprietor.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Media_Proprietor.personal.md) 
+
+### #is_/same_as :: [Media_Proprietor.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Media_Proprietor.secret.md)
+

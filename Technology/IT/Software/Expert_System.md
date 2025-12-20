@@ -47,3 +47,22 @@ MeSH_tree_code: L01.224.050.375.190
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Expert%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Expert_System](/_Standards/Technology/IT/Software/Expert_System.md) 
+
+### #is_/same_as :: [Expert_System.public](/_public/Technology/IT/Software/Expert_System.public.md) 
+
+### #is_/same_as :: [Expert_System.internal](/_internal/Technology/IT/Software/Expert_System.internal.md) 
+
+### #is_/same_as :: [Expert_System.protect](/_protect/Technology/IT/Software/Expert_System.protect.md) 
+
+### #is_/same_as :: [Expert_System.private](/_private/Technology/IT/Software/Expert_System.private.md) 
+
+### #is_/same_as :: [Expert_System.personal](/_personal/Technology/IT/Software/Expert_System.personal.md) 
+
+### #is_/same_as :: [Expert_System.secret](/_secret/Technology/IT/Software/Expert_System.secret.md)
+

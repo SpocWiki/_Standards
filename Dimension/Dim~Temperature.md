@@ -24,6 +24,7 @@ The Distribution depends on the Elements' Character:
 
 #see [[../Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body|Black_Body]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dim~Temperature](/_Standards/Dimension/Dim~Temperature.md) 

@@ -34,3 +34,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Temple) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Temple](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.md) 
+
+### #is_/same_as :: [Temple.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.public.md) 
+
+### #is_/same_as :: [Temple.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.internal.md) 
+
+### #is_/same_as :: [Temple.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.protect.md) 
+
+### #is_/same_as :: [Temple.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.private.md) 
+
+### #is_/same_as :: [Temple.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.personal.md) 
+
+### #is_/same_as :: [Temple.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.secret.md)
+

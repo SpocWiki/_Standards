@@ -174,3 +174,22 @@ Stadtwiki_Dresden_article: Dmitri_Schostakowitsch
 > Shostakovich's reputation has continued to grow after his death. Scholarly interest has increased significantly since the late 20th century, including considerable debate about the relationship between his music and his attitudes toward the Soviet government.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dmitri%20Shostakovich) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shostakovich,Dmitri](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.md) 
+
+### #is_/same_as :: [Shostakovich,Dmitri.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.public.md) 
+
+### #is_/same_as :: [Shostakovich,Dmitri.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.internal.md) 
+
+### #is_/same_as :: [Shostakovich,Dmitri.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.protect.md) 
+
+### #is_/same_as :: [Shostakovich,Dmitri.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.private.md) 
+
+### #is_/same_as :: [Shostakovich,Dmitri.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.personal.md) 
+
+### #is_/same_as :: [Shostakovich,Dmitri.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.secret.md)
+

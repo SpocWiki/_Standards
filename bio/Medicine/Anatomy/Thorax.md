@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thorax) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thorax](/_Standards/bio/Medicine/Anatomy/Thorax.md) 
+
+### #is_/same_as :: [Thorax.public](/_public/bio/Medicine/Anatomy/Thorax.public.md) 
+
+### #is_/same_as :: [Thorax.internal](/_internal/bio/Medicine/Anatomy/Thorax.internal.md) 
+
+### #is_/same_as :: [Thorax.protect](/_protect/bio/Medicine/Anatomy/Thorax.protect.md) 
+
+### #is_/same_as :: [Thorax.private](/_private/bio/Medicine/Anatomy/Thorax.private.md) 
+
+### #is_/same_as :: [Thorax.personal](/_personal/bio/Medicine/Anatomy/Thorax.personal.md) 
+
+### #is_/same_as :: [Thorax.secret](/_secret/bio/Medicine/Anatomy/Thorax.secret.md)
+

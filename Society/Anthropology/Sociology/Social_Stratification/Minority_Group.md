@@ -39,3 +39,22 @@ MeSH_tree_code: I01.880.853.300
 > The term "minority group" often occurs within the discourse of civil rights and collective rights, as members of minority groups are prone to differential treatment in the countries and societies in which they live. Minority group members often face discrimination in multiple areas of social life, including housing, employment, healthcare, and education, among others. While discrimination may be committed by individuals, it may also occur through structural inequalities, in which rights and opportunities are not equally accessible to all. Those in favour of minority rights often pursue laws designed to protect minority groups from discrimination and afford members of the minority group equal social status and legal protections as held by members of the dominant group.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minority%20group) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Minority_Group](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.md) 
+
+### #is_/same_as :: [Minority_Group.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.public.md) 
+
+### #is_/same_as :: [Minority_Group.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.internal.md) 
+
+### #is_/same_as :: [Minority_Group.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.protect.md) 
+
+### #is_/same_as :: [Minority_Group.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.private.md) 
+
+### #is_/same_as :: [Minority_Group.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.personal.md) 
+
+### #is_/same_as :: [Minority_Group.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.secret.md)
+

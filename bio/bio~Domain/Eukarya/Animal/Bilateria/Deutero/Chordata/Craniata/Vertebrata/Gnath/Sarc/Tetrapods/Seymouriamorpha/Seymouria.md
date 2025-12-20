@@ -159,7 +159,7 @@ of the Museum of Comparative Zoology 85: 325-409.
   Reference         Modified from Laurin M. 1996. A redescription of the cranial anatomy of Seymouria baylorensis, the best known seymouriamorph (Vertebrata: Seymouriamorpha). PaleoBios 17:1-16.
   View              dorsal, palatal, left palatal, occipital
   Copyright ::         © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

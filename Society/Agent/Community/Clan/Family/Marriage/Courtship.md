@@ -52,3 +52,22 @@ IPTC_NewsCode: mediatopic/20000782
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Courtship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Courtship](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Courtship.md) 
+
+### #is_/same_as :: [Courtship.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Courtship.public.md) 
+
+### #is_/same_as :: [Courtship.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Courtship.internal.md) 
+
+### #is_/same_as :: [Courtship.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Courtship.protect.md) 
+
+### #is_/same_as :: [Courtship.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Courtship.private.md) 
+
+### #is_/same_as :: [Courtship.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Courtship.personal.md) 
+
+### #is_/same_as :: [Courtship.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Courtship.secret.md)
+

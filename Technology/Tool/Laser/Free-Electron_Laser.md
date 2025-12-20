@@ -36,3 +36,22 @@ Commons_category: Free-electron lasers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Free-electron%20laser) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Free-Electron_Laser](/_Standards/Technology/Tool/Laser/Free-Electron_Laser.md) 
+
+### #is_/same_as :: [Free-Electron_Laser.public](/_public/Technology/Tool/Laser/Free-Electron_Laser.public.md) 
+
+### #is_/same_as :: [Free-Electron_Laser.internal](/_internal/Technology/Tool/Laser/Free-Electron_Laser.internal.md) 
+
+### #is_/same_as :: [Free-Electron_Laser.protect](/_protect/Technology/Tool/Laser/Free-Electron_Laser.protect.md) 
+
+### #is_/same_as :: [Free-Electron_Laser.private](/_private/Technology/Tool/Laser/Free-Electron_Laser.private.md) 
+
+### #is_/same_as :: [Free-Electron_Laser.personal](/_personal/Technology/Tool/Laser/Free-Electron_Laser.personal.md) 
+
+### #is_/same_as :: [Free-Electron_Laser.secret](/_secret/Technology/Tool/Laser/Free-Electron_Laser.secret.md)
+

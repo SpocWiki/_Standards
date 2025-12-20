@@ -46,3 +46,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GIDROE
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydroelectricity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydroelectricity](/_Standards/Technology/Energy-Technology/Hydroelectricity.md) 
+
+### #is_/same_as :: [Hydroelectricity.public](/_public/Technology/Energy-Technology/Hydroelectricity.public.md) 
+
+### #is_/same_as :: [Hydroelectricity.internal](/_internal/Technology/Energy-Technology/Hydroelectricity.internal.md) 
+
+### #is_/same_as :: [Hydroelectricity.protect](/_protect/Technology/Energy-Technology/Hydroelectricity.protect.md) 
+
+### #is_/same_as :: [Hydroelectricity.private](/_private/Technology/Energy-Technology/Hydroelectricity.private.md) 
+
+### #is_/same_as :: [Hydroelectricity.personal](/_personal/Technology/Energy-Technology/Hydroelectricity.personal.md) 
+
+### #is_/same_as :: [Hydroelectricity.secret](/_secret/Technology/Energy-Technology/Hydroelectricity.secret.md)
+

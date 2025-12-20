@@ -22,3 +22,22 @@ Commons_category: History of geography
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20geography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Geography](/_Standards/Earth/Geography/History_of_Geography.md) 
+
+### #is_/same_as :: [History_of_Geography.public](/_public/Earth/Geography/History_of_Geography.public.md) 
+
+### #is_/same_as :: [History_of_Geography.internal](/_internal/Earth/Geography/History_of_Geography.internal.md) 
+
+### #is_/same_as :: [History_of_Geography.protect](/_protect/Earth/Geography/History_of_Geography.protect.md) 
+
+### #is_/same_as :: [History_of_Geography.private](/_private/Earth/Geography/History_of_Geography.private.md) 
+
+### #is_/same_as :: [History_of_Geography.personal](/_personal/Earth/Geography/History_of_Geography.personal.md) 
+
+### #is_/same_as :: [History_of_Geography.secret](/_secret/Earth/Geography/History_of_Geography.secret.md)
+

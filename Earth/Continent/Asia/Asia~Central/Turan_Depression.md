@@ -25,3 +25,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/NizinaTuranska2001grud
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turan%20Depression) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turan_Depression](/_Standards/Earth/Continent/Asia/Asia~Central/Turan_Depression.md) 
+
+### #is_/same_as :: [Turan_Depression.public](/_public/Earth/Continent/Asia/Asia~Central/Turan_Depression.public.md) 
+
+### #is_/same_as :: [Turan_Depression.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turan_Depression.internal.md) 
+
+### #is_/same_as :: [Turan_Depression.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turan_Depression.protect.md) 
+
+### #is_/same_as :: [Turan_Depression.private](/_private/Earth/Continent/Asia/Asia~Central/Turan_Depression.private.md) 
+
+### #is_/same_as :: [Turan_Depression.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turan_Depression.personal.md) 
+
+### #is_/same_as :: [Turan_Depression.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turan_Depression.secret.md)
+

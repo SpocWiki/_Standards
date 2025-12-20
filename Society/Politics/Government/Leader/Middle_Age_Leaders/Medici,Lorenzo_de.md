@@ -121,3 +121,22 @@ Regensburg_Classification: IU 4640
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lorenzo%20de'%20Medici) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medici,Lorenzo_de](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.md) 
+
+### #is_/same_as :: [Medici,Lorenzo_de.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.public.md) 
+
+### #is_/same_as :: [Medici,Lorenzo_de.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.internal.md) 
+
+### #is_/same_as :: [Medici,Lorenzo_de.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.protect.md) 
+
+### #is_/same_as :: [Medici,Lorenzo_de.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.private.md) 
+
+### #is_/same_as :: [Medici,Lorenzo_de.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.personal.md) 
+
+### #is_/same_as :: [Medici,Lorenzo_de.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.secret.md)
+

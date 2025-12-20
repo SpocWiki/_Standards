@@ -37,3 +37,22 @@ Commons_category: General topology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20topology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [General_Topology](/_Standards/Mathematics/Topology/General_Topology.md) 
+
+### #is_/same_as :: [General_Topology.public](/_public/Mathematics/Topology/General_Topology.public.md) 
+
+### #is_/same_as :: [General_Topology.internal](/_internal/Mathematics/Topology/General_Topology.internal.md) 
+
+### #is_/same_as :: [General_Topology.protect](/_protect/Mathematics/Topology/General_Topology.protect.md) 
+
+### #is_/same_as :: [General_Topology.private](/_private/Mathematics/Topology/General_Topology.private.md) 
+
+### #is_/same_as :: [General_Topology.personal](/_personal/Mathematics/Topology/General_Topology.personal.md) 
+
+### #is_/same_as :: [General_Topology.secret](/_secret/Mathematics/Topology/General_Topology.secret.md)
+

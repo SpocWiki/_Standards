@@ -9,3 +9,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arecales) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arecales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales.md) 
+
+### #is_/same_as :: [Arecales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales.public.md) 
+
+### #is_/same_as :: [Arecales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales.internal.md) 
+
+### #is_/same_as :: [Arecales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales.protect.md) 
+
+### #is_/same_as :: [Arecales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales.private.md) 
+
+### #is_/same_as :: [Arecales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales.personal.md) 
+
+### #is_/same_as :: [Arecales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales.secret.md)
+

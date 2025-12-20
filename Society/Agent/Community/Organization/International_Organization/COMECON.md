@@ -42,3 +42,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/WiezowiecRWPGwMoskwie.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Comecon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [COMECON](/_Standards/Society/Agent/Community/Organization/International_Organization/COMECON.md) 
+
+### #is_/same_as :: [COMECON.public](/_public/Society/Agent/Community/Organization/International_Organization/COMECON.public.md) 
+
+### #is_/same_as :: [COMECON.internal](/_internal/Society/Agent/Community/Organization/International_Organization/COMECON.internal.md) 
+
+### #is_/same_as :: [COMECON.protect](/_protect/Society/Agent/Community/Organization/International_Organization/COMECON.protect.md) 
+
+### #is_/same_as :: [COMECON.private](/_private/Society/Agent/Community/Organization/International_Organization/COMECON.private.md) 
+
+### #is_/same_as :: [COMECON.personal](/_personal/Society/Agent/Community/Organization/International_Organization/COMECON.personal.md) 
+
+### #is_/same_as :: [COMECON.secret](/_secret/Society/Agent/Community/Organization/International_Organization/COMECON.secret.md)
+

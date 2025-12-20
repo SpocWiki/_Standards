@@ -36,3 +36,22 @@ Wolfram_Language_entity_type: ParticleAccelerator
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Particle%20accelerator) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Particle_Accelerator](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.md) 
+
+### #is_/same_as :: [Particle_Accelerator.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.public.md) 
+
+### #is_/same_as :: [Particle_Accelerator.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.internal.md) 
+
+### #is_/same_as :: [Particle_Accelerator.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.protect.md) 
+
+### #is_/same_as :: [Particle_Accelerator.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.private.md) 
+
+### #is_/same_as :: [Particle_Accelerator.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.personal.md) 
+
+### #is_/same_as :: [Particle_Accelerator.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.secret.md)
+

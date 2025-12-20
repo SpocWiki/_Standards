@@ -39,17 +39,17 @@ A house painting service.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [House_Painter](House_Painter.md) 
+### #is_/same_as :: [House_Painter](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.md) 
 
-### #is_/same_as :: [House_Painter.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.public.md) 
+### #is_/same_as :: [House_Painter.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.public.md) 
 
-### #is_/same_as :: [House_Painter.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.internal.md) 
+### #is_/same_as :: [House_Painter.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.internal.md) 
 
-### #is_/same_as :: [House_Painter.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.protect.md) 
+### #is_/same_as :: [House_Painter.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.protect.md) 
 
-### #is_/same_as :: [House_Painter.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.private.md) 
+### #is_/same_as :: [House_Painter.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.private.md) 
 
-### #is_/same_as :: [House_Painter.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.personal.md) 
+### #is_/same_as :: [House_Painter.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.personal.md) 
 
-### #is_/same_as :: [House_Painter.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.secret.md)
+### #is_/same_as :: [House_Painter.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.secret.md)
 

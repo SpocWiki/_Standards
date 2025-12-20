@@ -16,3 +16,22 @@ async fn get_ip() -> Result<()> {
 
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [crates~reqwest](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~reqwest.md) 
+
+### #is_/same_as :: [crates~reqwest.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~reqwest.public.md) 
+
+### #is_/same_as :: [crates~reqwest.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~reqwest.internal.md) 
+
+### #is_/same_as :: [crates~reqwest.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~reqwest.protect.md) 
+
+### #is_/same_as :: [crates~reqwest.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~reqwest.private.md) 
+
+### #is_/same_as :: [crates~reqwest.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~reqwest.personal.md) 
+
+### #is_/same_as :: [crates~reqwest.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~reqwest.secret.md)
+

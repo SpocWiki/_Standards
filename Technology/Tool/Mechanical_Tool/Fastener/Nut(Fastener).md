@@ -20,3 +20,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Nut%20(hardware)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nut(Fastener)](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).md) 
+
+### #is_/same_as :: [Nut(Fastener).public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).public.md) 
+
+### #is_/same_as :: [Nut(Fastener).internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).internal.md) 
+
+### #is_/same_as :: [Nut(Fastener).protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).protect.md) 
+
+### #is_/same_as :: [Nut(Fastener).private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).private.md) 
+
+### #is_/same_as :: [Nut(Fastener).personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).personal.md) 
+
+### #is_/same_as :: [Nut(Fastener).secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).secret.md)
+

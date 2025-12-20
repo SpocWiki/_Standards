@@ -125,3 +125,22 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Young%
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Young%20(scientist)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Young,Thomas(Scientist)](/_Standards/Science/Polymath/Young,Thomas(Scientist).md) 
+
+### #is_/same_as :: [Young,Thomas(Scientist).public](/_public/Science/Polymath/Young,Thomas(Scientist).public.md) 
+
+### #is_/same_as :: [Young,Thomas(Scientist).internal](/_internal/Science/Polymath/Young,Thomas(Scientist).internal.md) 
+
+### #is_/same_as :: [Young,Thomas(Scientist).protect](/_protect/Science/Polymath/Young,Thomas(Scientist).protect.md) 
+
+### #is_/same_as :: [Young,Thomas(Scientist).private](/_private/Science/Polymath/Young,Thomas(Scientist).private.md) 
+
+### #is_/same_as :: [Young,Thomas(Scientist).personal](/_personal/Science/Polymath/Young,Thomas(Scientist).personal.md) 
+
+### #is_/same_as :: [Young,Thomas(Scientist).secret](/_secret/Science/Polymath/Young,Thomas(Scientist).secret.md)
+

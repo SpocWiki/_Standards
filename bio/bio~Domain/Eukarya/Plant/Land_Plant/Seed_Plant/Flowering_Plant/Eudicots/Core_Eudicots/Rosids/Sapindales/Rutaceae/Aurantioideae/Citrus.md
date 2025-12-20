@@ -60,17 +60,17 @@ U_S_National_Archives_Identifier: 10645807
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Citrus](/_Standards/bio/Botany/Fruit/Citrus.md) 
+### #is_/same_as :: [Citrus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.md) 
 
-### #is_/same_as :: [Citrus.public](/_public/bio/Botany/Fruit/Citrus.public.md) 
+### #is_/same_as :: [Citrus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.public.md) 
 
-### #is_/same_as :: [Citrus.internal](/_internal/bio/Botany/Fruit/Citrus.internal.md) 
+### #is_/same_as :: [Citrus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.internal.md) 
 
-### #is_/same_as :: [Citrus.protect](/_protect/bio/Botany/Fruit/Citrus.protect.md) 
+### #is_/same_as :: [Citrus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.protect.md) 
 
-### #is_/same_as :: [Citrus.private](/_private/bio/Botany/Fruit/Citrus.private.md) 
+### #is_/same_as :: [Citrus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.private.md) 
 
-### #is_/same_as :: [Citrus.personal](/_personal/bio/Botany/Fruit/Citrus.personal.md) 
+### #is_/same_as :: [Citrus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.personal.md) 
 
-### #is_/same_as :: [Citrus.secret](/_secret/bio/Botany/Fruit/Citrus.secret.md)
+### #is_/same_as :: [Citrus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus.secret.md)
 

@@ -66,3 +66,21 @@ taxon_common_name: Domesticated Guinea Pig
 > Biological experimentation on domestic guinea pigs has been carried out since the 17th century. The animals were used so frequently as model organisms in the 19th and 20th centuries that the epithet guinea pig came into use to describe a human test subject. Since that time, they have mainly been replaced by other rodents, such as mice and rats. However, they are still used in research, primarily as models to study such human medical conditions as juvenile diabetes, tuberculosis, scurvy (like humans, they require dietary intake of vitamin C), and pregnancy complications.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guinea%20pig)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guinea-pig](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Guinea-pig.md) 
+
+### #is_/same_as :: [Guinea-pig.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Guinea-pig.public.md) 
+
+### #is_/same_as :: [Guinea-pig.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Guinea-pig.internal.md) 
+
+### #is_/same_as :: [Guinea-pig.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Guinea-pig.protect.md) 
+
+### #is_/same_as :: [Guinea-pig.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Guinea-pig.private.md) 
+
+### #is_/same_as :: [Guinea-pig.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Guinea-pig.personal.md) 
+
+### #is_/same_as :: [Guinea-pig.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Caviomorpha/Guinea-pig.secret.md)
+

@@ -24,3 +24,22 @@ has_id_wikidata: Q49773
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20movement) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Movement](/_Standards/Society/Social_Relation/Group_Dynamics/Social_Movement.md) 
+
+### #is_/same_as :: [Social_Movement.public](/_public/Society/Social_Relation/Group_Dynamics/Social_Movement.public.md) 
+
+### #is_/same_as :: [Social_Movement.internal](/_internal/Society/Social_Relation/Group_Dynamics/Social_Movement.internal.md) 
+
+### #is_/same_as :: [Social_Movement.protect](/_protect/Society/Social_Relation/Group_Dynamics/Social_Movement.protect.md) 
+
+### #is_/same_as :: [Social_Movement.private](/_private/Society/Social_Relation/Group_Dynamics/Social_Movement.private.md) 
+
+### #is_/same_as :: [Social_Movement.personal](/_personal/Society/Social_Relation/Group_Dynamics/Social_Movement.personal.md) 
+
+### #is_/same_as :: [Social_Movement.secret](/_secret/Society/Social_Relation/Group_Dynamics/Social_Movement.secret.md)
+

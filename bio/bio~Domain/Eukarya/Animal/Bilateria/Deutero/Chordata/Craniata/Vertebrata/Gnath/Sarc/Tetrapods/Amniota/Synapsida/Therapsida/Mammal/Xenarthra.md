@@ -45,3 +45,22 @@ taxon_name: Xenarthra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Xenarthra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Xenarthra](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra.md) 
+
+### #is_/same_as :: [Xenarthra.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra.public.md) 
+
+### #is_/same_as :: [Xenarthra.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra.internal.md) 
+
+### #is_/same_as :: [Xenarthra.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra.protect.md) 
+
+### #is_/same_as :: [Xenarthra.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra.private.md) 
+
+### #is_/same_as :: [Xenarthra.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra.personal.md) 
+
+### #is_/same_as :: [Xenarthra.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Xenarthra.secret.md)
+

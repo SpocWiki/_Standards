@@ -67,3 +67,22 @@ OpenStreetMap_tag: highway=steps
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stairs) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stairs](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.md) 
+
+### #is_/same_as :: [Stairs.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.public.md) 
+
+### #is_/same_as :: [Stairs.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.internal.md) 
+
+### #is_/same_as :: [Stairs.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.protect.md) 
+
+### #is_/same_as :: [Stairs.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.private.md) 
+
+### #is_/same_as :: [Stairs.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.personal.md) 
+
+### #is_/same_as :: [Stairs.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.secret.md)
+

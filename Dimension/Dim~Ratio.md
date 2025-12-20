@@ -39,3 +39,22 @@ Commons_category: Ratios
 > [Wikipedia](https://en.wikipedia.org/wiki/Ratio) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dim~Ratio](/_Standards/Dimension/Dim~Ratio.md) 
+
+### #is_/same_as :: [Dim~Ratio.public](/_public/Dimension/Dim~Ratio.public.md) 
+
+### #is_/same_as :: [Dim~Ratio.internal](/_internal/Dimension/Dim~Ratio.internal.md) 
+
+### #is_/same_as :: [Dim~Ratio.protect](/_protect/Dimension/Dim~Ratio.protect.md) 
+
+### #is_/same_as :: [Dim~Ratio.private](/_private/Dimension/Dim~Ratio.private.md) 
+
+### #is_/same_as :: [Dim~Ratio.personal](/_personal/Dimension/Dim~Ratio.personal.md) 
+
+### #is_/same_as :: [Dim~Ratio.secret](/_secret/Dimension/Dim~Ratio.secret.md)
+

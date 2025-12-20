@@ -64,3 +64,22 @@ inception: 1931-04-14T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20Spanish%20Republic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1931-Second_Spanish_Republic+1939](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.md) 
+
+### #is_/same_as :: [1931-Second_Spanish_Republic+1939.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.public.md) 
+
+### #is_/same_as :: [1931-Second_Spanish_Republic+1939.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.internal.md) 
+
+### #is_/same_as :: [1931-Second_Spanish_Republic+1939.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.protect.md) 
+
+### #is_/same_as :: [1931-Second_Spanish_Republic+1939.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.private.md) 
+
+### #is_/same_as :: [1931-Second_Spanish_Republic+1939.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.personal.md) 
+
+### #is_/same_as :: [1931-Second_Spanish_Republic+1939.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.secret.md)
+

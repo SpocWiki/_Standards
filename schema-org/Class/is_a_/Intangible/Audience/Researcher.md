@@ -39,17 +39,17 @@ Researchers.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [researcher](/_Standards/schema-org/Class/is_a_/Intangible/audience/researcher.md) 
+### #is_/same_as :: [Researcher](/_Standards/schema-org/Class/is_a_/Intangible/Audience/Researcher.md) 
 
-### #is_/same_as :: [researcher.public](/_public/schema-org/Class/is_a_/Intangible/audience/researcher.public.md) 
+### #is_/same_as :: [Researcher.public](/_public/schema-org/Class/is_a_/Intangible/Audience/Researcher.public.md) 
 
-### #is_/same_as :: [researcher.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/researcher.internal.md) 
+### #is_/same_as :: [Researcher.internal](/_internal/schema-org/Class/is_a_/Intangible/Audience/Researcher.internal.md) 
 
-### #is_/same_as :: [researcher.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/researcher.protect.md) 
+### #is_/same_as :: [Researcher.protect](/_protect/schema-org/Class/is_a_/Intangible/Audience/Researcher.protect.md) 
 
-### #is_/same_as :: [researcher.private](/_private/schema-org/Class/is_a_/Intangible/audience/researcher.private.md) 
+### #is_/same_as :: [Researcher.private](/_private/schema-org/Class/is_a_/Intangible/Audience/Researcher.private.md) 
 
-### #is_/same_as :: [researcher.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/researcher.personal.md) 
+### #is_/same_as :: [Researcher.personal](/_personal/schema-org/Class/is_a_/Intangible/Audience/Researcher.personal.md) 
 
-### #is_/same_as :: [researcher.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/researcher.secret.md)
+### #is_/same_as :: [Researcher.secret](/_secret/schema-org/Class/is_a_/Intangible/Audience/Researcher.secret.md)
 

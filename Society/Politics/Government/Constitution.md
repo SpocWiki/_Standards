@@ -26,3 +26,22 @@ has_id_wikidata: Q7755
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Constitution](/_Standards/Society/Politics/Government/Constitution.md) 
+
+### #is_/same_as :: [Constitution.public](/_public/Society/Politics/Government/Constitution.public.md) 
+
+### #is_/same_as :: [Constitution.internal](/_internal/Society/Politics/Government/Constitution.internal.md) 
+
+### #is_/same_as :: [Constitution.protect](/_protect/Society/Politics/Government/Constitution.protect.md) 
+
+### #is_/same_as :: [Constitution.private](/_private/Society/Politics/Government/Constitution.private.md) 
+
+### #is_/same_as :: [Constitution.personal](/_personal/Society/Politics/Government/Constitution.personal.md) 
+
+### #is_/same_as :: [Constitution.secret](/_secret/Society/Politics/Government/Constitution.secret.md)
+

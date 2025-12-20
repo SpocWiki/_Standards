@@ -42,17 +42,17 @@ Specifies that product returns must be made at a kiosk.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_at_Kiosk](Return_at_Kiosk.md) 
+### #is_/same_as :: [Return_at_Kiosk](/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.md) 
 
-### #is_/same_as :: [return_at_kiosk.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.public.md) 
+### #is_/same_as :: [Return_at_Kiosk.public](/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.public.md) 
 
-### #is_/same_as :: [return_at_kiosk.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.internal.md) 
+### #is_/same_as :: [Return_at_Kiosk.internal](/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.internal.md) 
 
-### #is_/same_as :: [return_at_kiosk.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.protect.md) 
+### #is_/same_as :: [Return_at_Kiosk.protect](/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.protect.md) 
 
-### #is_/same_as :: [return_at_kiosk.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.private.md) 
+### #is_/same_as :: [Return_at_Kiosk.private](/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.private.md) 
 
-### #is_/same_as :: [return_at_kiosk.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.personal.md) 
+### #is_/same_as :: [Return_at_Kiosk.personal](/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.personal.md) 
 
-### #is_/same_as :: [return_at_kiosk.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.secret.md)
+### #is_/same_as :: [Return_at_Kiosk.secret](/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.secret.md)
 

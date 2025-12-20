@@ -99,3 +99,22 @@ ISNI: "0000000121429592"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gerard%20't%20Hooft) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hooft,Gerard_'t](/_Standards/Science/Physics/Physicist/Hooft,Gerard_'t.md) 
+
+### #is_/same_as :: [Hooft,Gerard_'t.public](/_public/Science/Physics/Physicist/Hooft,Gerard_'t.public.md) 
+
+### #is_/same_as :: [Hooft,Gerard_'t.internal](/_internal/Science/Physics/Physicist/Hooft,Gerard_'t.internal.md) 
+
+### #is_/same_as :: [Hooft,Gerard_'t.protect](/_protect/Science/Physics/Physicist/Hooft,Gerard_'t.protect.md) 
+
+### #is_/same_as :: [Hooft,Gerard_'t.private](/_private/Science/Physics/Physicist/Hooft,Gerard_'t.private.md) 
+
+### #is_/same_as :: [Hooft,Gerard_'t.personal](/_personal/Science/Physics/Physicist/Hooft,Gerard_'t.personal.md) 
+
+### #is_/same_as :: [Hooft,Gerard_'t.secret](/_secret/Science/Physics/Physicist/Hooft,Gerard_'t.secret.md)
+

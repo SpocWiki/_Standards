@@ -23,17 +23,17 @@ Diese Bücher gelten als Klassiker der norwegischen Kinderliteratur und sind auc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Langerudkinder](/_Standards/Society/Communication/Media/Writing/Book/Author/Hamsun,Marie/Langerudkinder.md) 
+### #is_/same_as :: [Langerudkinder](/_Standards/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie/Langerudkinder.md) 
 
-### #is_/same_as :: [Langerudkinder.public](/_public/Society/Communication/Media/Writing/Book/Author/Hamsun,Marie/Langerudkinder.public.md) 
+### #is_/same_as :: [Langerudkinder.public](/_public/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie/Langerudkinder.public.md) 
 
-### #is_/same_as :: [Langerudkinder.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Hamsun,Marie/Langerudkinder.internal.md) 
+### #is_/same_as :: [Langerudkinder.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie/Langerudkinder.internal.md) 
 
-### #is_/same_as :: [Langerudkinder.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Hamsun,Marie/Langerudkinder.protect.md) 
+### #is_/same_as :: [Langerudkinder.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie/Langerudkinder.protect.md) 
 
-### #is_/same_as :: [Langerudkinder.private](/_private/Society/Communication/Media/Writing/Book/Author/Hamsun,Marie/Langerudkinder.private.md) 
+### #is_/same_as :: [Langerudkinder.private](/_private/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie/Langerudkinder.private.md) 
 
-### #is_/same_as :: [Langerudkinder.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Hamsun,Marie/Langerudkinder.personal.md) 
+### #is_/same_as :: [Langerudkinder.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie/Langerudkinder.personal.md) 
 
-### #is_/same_as :: [Langerudkinder.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Hamsun,Marie/Langerudkinder.secret.md)
+### #is_/same_as :: [Langerudkinder.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Hamsun,Marie/Langerudkinder.secret.md)
 

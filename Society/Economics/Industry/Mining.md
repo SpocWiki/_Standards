@@ -90,3 +90,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GORNOE
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mining) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mining](/_Standards/Society/Economics/Industry/Mining.md) 
+
+### #is_/same_as :: [Mining.public](/_public/Society/Economics/Industry/Mining.public.md) 
+
+### #is_/same_as :: [Mining.internal](/_internal/Society/Economics/Industry/Mining.internal.md) 
+
+### #is_/same_as :: [Mining.protect](/_protect/Society/Economics/Industry/Mining.protect.md) 
+
+### #is_/same_as :: [Mining.private](/_private/Society/Economics/Industry/Mining.private.md) 
+
+### #is_/same_as :: [Mining.personal](/_personal/Society/Economics/Industry/Mining.personal.md) 
+
+### #is_/same_as :: [Mining.secret](/_secret/Society/Economics/Industry/Mining.secret.md)
+

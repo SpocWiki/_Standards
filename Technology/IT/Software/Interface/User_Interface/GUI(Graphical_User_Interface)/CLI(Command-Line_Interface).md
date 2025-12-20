@@ -26,3 +26,22 @@
 > Alternatives to a CLI include a GUI (including the desktop metaphor such as Windows), text-based menuing (including DOS Shell and IBM AIX SMIT), and keyboard shortcuts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Command-line%20interface)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CLI(Command-Line_Interface)](/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).md) 
+
+### #is_/same_as :: [CLI(Command-Line_Interface).public](/_public/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).public.md) 
+
+### #is_/same_as :: [CLI(Command-Line_Interface).internal](/_internal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).internal.md) 
+
+### #is_/same_as :: [CLI(Command-Line_Interface).protect](/_protect/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).protect.md) 
+
+### #is_/same_as :: [CLI(Command-Line_Interface).private](/_private/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).private.md) 
+
+### #is_/same_as :: [CLI(Command-Line_Interface).personal](/_personal/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).personal.md) 
+
+### #is_/same_as :: [CLI(Command-Line_Interface).secret](/_secret/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).secret.md)
+

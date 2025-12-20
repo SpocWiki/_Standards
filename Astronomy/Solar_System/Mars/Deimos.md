@@ -38,3 +38,22 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Deimos"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deimos%20(deity)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Deimos](/_Standards/Astronomy/Solar_System/Mars/Deimos.md) 
+
+### #is_/same_as :: [Deimos.public](/_public/Astronomy/Solar_System/Mars/Deimos.public.md) 
+
+### #is_/same_as :: [Deimos.internal](/_internal/Astronomy/Solar_System/Mars/Deimos.internal.md) 
+
+### #is_/same_as :: [Deimos.protect](/_protect/Astronomy/Solar_System/Mars/Deimos.protect.md) 
+
+### #is_/same_as :: [Deimos.private](/_private/Astronomy/Solar_System/Mars/Deimos.private.md) 
+
+### #is_/same_as :: [Deimos.personal](/_personal/Astronomy/Solar_System/Mars/Deimos.personal.md) 
+
+### #is_/same_as :: [Deimos.secret](/_secret/Astronomy/Solar_System/Mars/Deimos.secret.md)
+

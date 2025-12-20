@@ -39,17 +39,17 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deposit_Account](Deposit_Account.md) 
+### #is_/same_as :: [Deposit_Account](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.md) 
 
-### #is_/same_as :: [deposit_account.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.public.md) 
+### #is_/same_as :: [Deposit_Account.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.public.md) 
 
-### #is_/same_as :: [deposit_account.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.internal.md) 
+### #is_/same_as :: [Deposit_Account.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.internal.md) 
 
-### #is_/same_as :: [deposit_account.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.protect.md) 
+### #is_/same_as :: [Deposit_Account.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.protect.md) 
 
-### #is_/same_as :: [deposit_account.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.private.md) 
+### #is_/same_as :: [Deposit_Account.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.private.md) 
 
-### #is_/same_as :: [deposit_account.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.personal.md) 
+### #is_/same_as :: [Deposit_Account.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.personal.md) 
 
-### #is_/same_as :: [deposit_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.secret.md)
+### #is_/same_as :: [Deposit_Account.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account/Deposit_Account.secret.md)
 

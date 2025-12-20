@@ -86,3 +86,21 @@ native_label: British East India Company
 > The company subsequently experienced recurring problems with its finances, despite frequent government intervention. The company was dissolved in 1874 under the terms of the East India Stock Dividend Redemption Act enacted one year earlier, as the Government of India Act had by then rendered it vestigial, powerless, and obsolete. The official government machinery of the British Empire had assumed its governmental functions and absorbed its armies.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/East%20India%20Company)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [East_India_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/East_India_Company.md) 
+
+### #is_/same_as :: [East_India_Company.public](/_public/Society/Agent/Community/Organization/Company/Corporation/East_India_Company.public.md) 
+
+### #is_/same_as :: [East_India_Company.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/East_India_Company.internal.md) 
+
+### #is_/same_as :: [East_India_Company.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/East_India_Company.protect.md) 
+
+### #is_/same_as :: [East_India_Company.private](/_private/Society/Agent/Community/Organization/Company/Corporation/East_India_Company.private.md) 
+
+### #is_/same_as :: [East_India_Company.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/East_India_Company.personal.md) 
+
+### #is_/same_as :: [East_India_Company.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/East_India_Company.secret.md)
+

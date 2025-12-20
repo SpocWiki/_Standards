@@ -56,3 +56,22 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yom%20Kippur) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yom_Kippur](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.md) 
+
+### #is_/same_as :: [Yom_Kippur.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.public.md) 
+
+### #is_/same_as :: [Yom_Kippur.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.internal.md) 
+
+### #is_/same_as :: [Yom_Kippur.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.protect.md) 
+
+### #is_/same_as :: [Yom_Kippur.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.private.md) 
+
+### #is_/same_as :: [Yom_Kippur.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.personal.md) 
+
+### #is_/same_as :: [Yom_Kippur.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.secret.md)
+

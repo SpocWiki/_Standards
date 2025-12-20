@@ -78,3 +78,22 @@ U_S_National_Archives_Identifier: "10642012"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Property) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Property(Law)](/_Standards/Society/Law/Civil_Law/Property(Law).md) 
+
+### #is_/same_as :: [Property(Law).public](/_public/Society/Law/Civil_Law/Property(Law).public.md) 
+
+### #is_/same_as :: [Property(Law).internal](/_internal/Society/Law/Civil_Law/Property(Law).internal.md) 
+
+### #is_/same_as :: [Property(Law).protect](/_protect/Society/Law/Civil_Law/Property(Law).protect.md) 
+
+### #is_/same_as :: [Property(Law).private](/_private/Society/Law/Civil_Law/Property(Law).private.md) 
+
+### #is_/same_as :: [Property(Law).personal](/_personal/Society/Law/Civil_Law/Property(Law).personal.md) 
+
+### #is_/same_as :: [Property(Law).secret](/_secret/Society/Law/Civil_Law/Property(Law).secret.md)
+

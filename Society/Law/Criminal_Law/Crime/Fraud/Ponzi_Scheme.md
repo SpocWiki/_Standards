@@ -50,3 +50,22 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Ponz
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ponzi%20scheme) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ponzi_Scheme](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.md) 
+
+### #is_/same_as :: [Ponzi_Scheme.public](/_public/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.public.md) 
+
+### #is_/same_as :: [Ponzi_Scheme.internal](/_internal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.internal.md) 
+
+### #is_/same_as :: [Ponzi_Scheme.protect](/_protect/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.protect.md) 
+
+### #is_/same_as :: [Ponzi_Scheme.private](/_private/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.private.md) 
+
+### #is_/same_as :: [Ponzi_Scheme.personal](/_personal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.personal.md) 
+
+### #is_/same_as :: [Ponzi_Scheme.secret](/_secret/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.secret.md)
+

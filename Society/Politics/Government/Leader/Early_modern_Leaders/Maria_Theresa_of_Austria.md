@@ -65,3 +65,22 @@ has_id_wikidata: Q131706
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maria_Theresa_of_Austria](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.md) 
+
+### #is_/same_as :: [Maria_Theresa_of_Austria.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.public.md) 
+
+### #is_/same_as :: [Maria_Theresa_of_Austria.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.internal.md) 
+
+### #is_/same_as :: [Maria_Theresa_of_Austria.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.protect.md) 
+
+### #is_/same_as :: [Maria_Theresa_of_Austria.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.private.md) 
+
+### #is_/same_as :: [Maria_Theresa_of_Austria.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.personal.md) 
+
+### #is_/same_as :: [Maria_Theresa_of_Austria.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.secret.md)
+

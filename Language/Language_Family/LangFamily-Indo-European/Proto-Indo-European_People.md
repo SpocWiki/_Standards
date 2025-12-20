@@ -30,3 +30,22 @@ language_used: "[[_Standards/WikiData/WD~Proto_Indo_European,37178]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Proto-Indo-Europeans) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Proto-Indo-European_People](/_Standards/Language/Language_Family/LangFamily-Indo-European/Proto-Indo-European_People.md) 
+
+### #is_/same_as :: [Proto-Indo-European_People.public](/_public/Language/Language_Family/LangFamily-Indo-European/Proto-Indo-European_People.public.md) 
+
+### #is_/same_as :: [Proto-Indo-European_People.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/Proto-Indo-European_People.internal.md) 
+
+### #is_/same_as :: [Proto-Indo-European_People.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/Proto-Indo-European_People.protect.md) 
+
+### #is_/same_as :: [Proto-Indo-European_People.private](/_private/Language/Language_Family/LangFamily-Indo-European/Proto-Indo-European_People.private.md) 
+
+### #is_/same_as :: [Proto-Indo-European_People.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/Proto-Indo-European_People.personal.md) 
+
+### #is_/same_as :: [Proto-Indo-European_People.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/Proto-Indo-European_People.secret.md)
+

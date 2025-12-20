@@ -146,3 +146,22 @@ ISNI: "0000000110406491"
 > In 1908, Onnes became the first to make liquid helium; this led directly to his 1911 discovery of superconductivity.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Diderik%20van%20der%20Waals)  
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [van_der_Waals,Johannes_Diderik](/_Standards/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.md) 
+
+### #is_/same_as :: [van_der_Waals,Johannes_Diderik.public](/_public/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.public.md) 
+
+### #is_/same_as :: [van_der_Waals,Johannes_Diderik.internal](/_internal/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.internal.md) 
+
+### #is_/same_as :: [van_der_Waals,Johannes_Diderik.protect](/_protect/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.protect.md) 
+
+### #is_/same_as :: [van_der_Waals,Johannes_Diderik.private](/_private/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.private.md) 
+
+### #is_/same_as :: [van_der_Waals,Johannes_Diderik.personal](/_personal/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.personal.md) 
+
+### #is_/same_as :: [van_der_Waals,Johannes_Diderik.secret](/_secret/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.secret.md)
+

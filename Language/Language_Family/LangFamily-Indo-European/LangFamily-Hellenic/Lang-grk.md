@@ -186,17 +186,17 @@ writing_system: "[[_Standards/WikiData/WD~Greek_alphabet,8216]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-gr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.md) 
+### #is_/same_as :: [Lang-grk](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.md) 
 
-### #is_/same_as :: [Lang-gr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.public.md) 
+### #is_/same_as :: [Lang-grk.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.public.md) 
 
-### #is_/same_as :: [Lang-gr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.internal.md) 
+### #is_/same_as :: [Lang-grk.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.internal.md) 
 
-### #is_/same_as :: [Lang-gr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.protect.md) 
+### #is_/same_as :: [Lang-grk.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.protect.md) 
 
-### #is_/same_as :: [Lang-gr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.private.md) 
+### #is_/same_as :: [Lang-grk.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.private.md) 
 
-### #is_/same_as :: [Lang-gr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.personal.md) 
+### #is_/same_as :: [Lang-grk.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.personal.md) 
 
-### #is_/same_as :: [Lang-gr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.secret.md)
+### #is_/same_as :: [Lang-grk.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-grk.secret.md)
 

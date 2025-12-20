@@ -36,3 +36,22 @@ start_time: 1908-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rutherford%20scattering%20experiments) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geiger–Marsden_Experiment](/_Standards/Science/Physics/Atom/Geiger–Marsden_Experiment.md) 
+
+### #is_/same_as :: [Geiger–Marsden_Experiment.public](/_public/Science/Physics/Atom/Geiger–Marsden_Experiment.public.md) 
+
+### #is_/same_as :: [Geiger–Marsden_Experiment.internal](/_internal/Science/Physics/Atom/Geiger–Marsden_Experiment.internal.md) 
+
+### #is_/same_as :: [Geiger–Marsden_Experiment.protect](/_protect/Science/Physics/Atom/Geiger–Marsden_Experiment.protect.md) 
+
+### #is_/same_as :: [Geiger–Marsden_Experiment.private](/_private/Science/Physics/Atom/Geiger–Marsden_Experiment.private.md) 
+
+### #is_/same_as :: [Geiger–Marsden_Experiment.personal](/_personal/Science/Physics/Atom/Geiger–Marsden_Experiment.personal.md) 
+
+### #is_/same_as :: [Geiger–Marsden_Experiment.secret](/_secret/Science/Physics/Atom/Geiger–Marsden_Experiment.secret.md)
+

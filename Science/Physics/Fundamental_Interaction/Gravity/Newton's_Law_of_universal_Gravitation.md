@@ -29,3 +29,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Newton's%20law%20of%20universal%20gravitation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Newton's_Law_of_universal_Gravitation](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.md) 
+
+### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.public.md) 
+
+### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.internal.md) 
+
+### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.protect.md) 
+
+### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.private.md) 
+
+### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.personal.md) 
+
+### #is_/same_as :: [Newton's_Law_of_universal_Gravitation.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.secret.md)
+

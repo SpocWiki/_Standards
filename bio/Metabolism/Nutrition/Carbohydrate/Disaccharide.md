@@ -26,7 +26,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disaccharide](Disaccharide.md) 
+### #is_/same_as :: [Disaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.md) 
 
 ### #is_/same_as :: [Disaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.public.md) 
 

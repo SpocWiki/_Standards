@@ -188,6 +188,8 @@ Differences among [has part(s) (P527)](https://www.wikidata.org/wiki/Property:
 |<X> [_**has part(s) of the class**_](https://www.wikidata.org/wiki/Property:P2670 "Property:P2670") <Y>|instance|class|the specific item X include some instance of class Y among its parts or components|<[University of Cambridge](https://www.wikidata.org/wiki/Q35794 "Q35794")> _**has part(s) of the class**_ <[college of the University of Cambridge](https://www.wikidata.org/wiki/Q1055028 "Q1055028")>|the <University of Cambridge> has colleges as parts|- _**has part(s)**_ not used because <University of Cambridge> does not have the class <college of the University of Cambridge> as a part, but instead has colleges as parts|
 |<[Solar System](https://www.wikidata.org/wiki/Q544 "Q544")> _**has part(s) of the class**_ <[inner planet of the Solar System](https://www.wikidata.org/wiki/Q3504248 "Q3504248")>|our <Solar System> has one or more <inner planets> in its parts|- _**has part(s)**_ not used because <Solar System> does not have the class of <inner planets> as a part, but instead has planets as parts|
 |<[Albert Einstein](https://www.wikidata.org/wiki/Q544 "Q544")> _**has part(s) of the class**_ <[human brain](https://www.wikidata.org/wiki/Q492038 "Q492038")>|<Albert Einstein> had a <human brain> as a part|- _**has part(s)**_ not used because <human brain> is a class, not an instance, even if he had just one.|
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [is_sub_class_of](/_Standards/schema-org/Class/is_sub_class_of.md) 

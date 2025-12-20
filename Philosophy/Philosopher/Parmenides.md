@@ -75,3 +75,22 @@ date_of_birth: -0514-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parmenides) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parmenides](/_Standards/Philosophy/Philosopher/Parmenides.md) 
+
+### #is_/same_as :: [Parmenides.public](/_public/Philosophy/Philosopher/Parmenides.public.md) 
+
+### #is_/same_as :: [Parmenides.internal](/_internal/Philosophy/Philosopher/Parmenides.internal.md) 
+
+### #is_/same_as :: [Parmenides.protect](/_protect/Philosophy/Philosopher/Parmenides.protect.md) 
+
+### #is_/same_as :: [Parmenides.private](/_private/Philosophy/Philosopher/Parmenides.private.md) 
+
+### #is_/same_as :: [Parmenides.personal](/_personal/Philosophy/Philosopher/Parmenides.personal.md) 
+
+### #is_/same_as :: [Parmenides.secret](/_secret/Philosophy/Philosopher/Parmenides.secret.md)
+

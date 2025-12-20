@@ -42,17 +42,17 @@ Indicates the usage of the vehicle as a rental car.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rental_Vehicle_Usage](Rental_Vehicle_Usage.md) 
+### #is_/same_as :: [Rental_Vehicle_Usage](/_Standards/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.md) 
 
-### #is_/same_as :: [rental_vehicle_usage.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.public.md) 
+### #is_/same_as :: [Rental_Vehicle_Usage.public](/_public/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.public.md) 
 
-### #is_/same_as :: [rental_vehicle_usage.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.internal.md) 
+### #is_/same_as :: [Rental_Vehicle_Usage.internal](/_internal/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.internal.md) 
 
-### #is_/same_as :: [rental_vehicle_usage.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.protect.md) 
+### #is_/same_as :: [Rental_Vehicle_Usage.protect](/_protect/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.protect.md) 
 
-### #is_/same_as :: [rental_vehicle_usage.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.private.md) 
+### #is_/same_as :: [Rental_Vehicle_Usage.private](/_private/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.private.md) 
 
-### #is_/same_as :: [rental_vehicle_usage.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.personal.md) 
+### #is_/same_as :: [Rental_Vehicle_Usage.personal](/_personal/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.personal.md) 
 
-### #is_/same_as :: [rental_vehicle_usage.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.secret.md)
+### #is_/same_as :: [Rental_Vehicle_Usage.secret](/_secret/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.secret.md)
 

@@ -30,3 +30,21 @@ Baidu_Tieba_name: 电钢琴
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20piano) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electric_Piano](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.md) 
+
+### #is_/same_as :: [Electric_Piano.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.public.md) 
+
+### #is_/same_as :: [Electric_Piano.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.internal.md) 
+
+### #is_/same_as :: [Electric_Piano.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.protect.md) 
+
+### #is_/same_as :: [Electric_Piano.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.private.md) 
+
+### #is_/same_as :: [Electric_Piano.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.personal.md) 
+
+### #is_/same_as :: [Electric_Piano.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.secret.md)
+

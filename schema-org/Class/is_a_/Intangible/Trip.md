@@ -41,17 +41,17 @@ A trip or journey. An itinerary of visits to one or more places.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [trip](/_Standards/schema-org/Class/is_a_/Intangible/trip.md) 
+### #is_/same_as :: [Trip](/_Standards/schema-org/Class/is_a_/Intangible/Trip.md) 
 
-### #is_/same_as :: [trip.public](/_public/schema-org/Class/is_a_/Intangible/trip.public.md) 
+### #is_/same_as :: [Trip.public](/_public/schema-org/Class/is_a_/Intangible/Trip.public.md) 
 
-### #is_/same_as :: [trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip.internal.md) 
+### #is_/same_as :: [Trip.internal](/_internal/schema-org/Class/is_a_/Intangible/Trip.internal.md) 
 
-### #is_/same_as :: [trip.protect](/_protect/schema-org/Class/is_a_/Intangible/trip.protect.md) 
+### #is_/same_as :: [Trip.protect](/_protect/schema-org/Class/is_a_/Intangible/Trip.protect.md) 
 
-### #is_/same_as :: [trip.private](/_private/schema-org/Class/is_a_/Intangible/trip.private.md) 
+### #is_/same_as :: [Trip.private](/_private/schema-org/Class/is_a_/Intangible/Trip.private.md) 
 
-### #is_/same_as :: [trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip.personal.md) 
+### #is_/same_as :: [Trip.personal](/_personal/schema-org/Class/is_a_/Intangible/Trip.personal.md) 
 
-### #is_/same_as :: [trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip.secret.md)
+### #is_/same_as :: [Trip.secret](/_secret/schema-org/Class/is_a_/Intangible/Trip.secret.md)
 

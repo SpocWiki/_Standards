@@ -187,3 +187,22 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Polanski%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20Polanski) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polanski,Roman](/_Standards/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.md) 
+
+### #is_/same_as :: [Polanski,Roman.public](/_public/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.public.md) 
+
+### #is_/same_as :: [Polanski,Roman.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.internal.md) 
+
+### #is_/same_as :: [Polanski,Roman.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.protect.md) 
+
+### #is_/same_as :: [Polanski,Roman.private](/_private/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.private.md) 
+
+### #is_/same_as :: [Polanski,Roman.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.personal.md) 
+
+### #is_/same_as :: [Polanski,Roman.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.secret.md)
+

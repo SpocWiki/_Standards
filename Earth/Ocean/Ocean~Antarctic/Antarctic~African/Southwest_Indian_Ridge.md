@@ -35,3 +35,22 @@ Commons_category: Southwest Indian Ridge
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Southwest%20Indian%20Ridge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Southwest_Indian_Ridge](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.md) 
+
+### #is_/same_as :: [Southwest_Indian_Ridge.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.public.md) 
+
+### #is_/same_as :: [Southwest_Indian_Ridge.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.internal.md) 
+
+### #is_/same_as :: [Southwest_Indian_Ridge.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.protect.md) 
+
+### #is_/same_as :: [Southwest_Indian_Ridge.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.private.md) 
+
+### #is_/same_as :: [Southwest_Indian_Ridge.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.personal.md) 
+
+### #is_/same_as :: [Southwest_Indian_Ridge.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.secret.md)
+

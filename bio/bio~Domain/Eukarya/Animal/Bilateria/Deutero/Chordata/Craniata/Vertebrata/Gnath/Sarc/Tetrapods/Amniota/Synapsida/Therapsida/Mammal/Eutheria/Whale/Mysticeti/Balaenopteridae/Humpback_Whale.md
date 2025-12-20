@@ -18,3 +18,22 @@ has_id_wikidata: Q132905
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Humpback%20whale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Humpback_Whale](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae/Humpback_Whale.md) 
+
+### #is_/same_as :: [Humpback_Whale.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae/Humpback_Whale.public.md) 
+
+### #is_/same_as :: [Humpback_Whale.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae/Humpback_Whale.internal.md) 
+
+### #is_/same_as :: [Humpback_Whale.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae/Humpback_Whale.protect.md) 
+
+### #is_/same_as :: [Humpback_Whale.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae/Humpback_Whale.private.md) 
+
+### #is_/same_as :: [Humpback_Whale.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae/Humpback_Whale.personal.md) 
+
+### #is_/same_as :: [Humpback_Whale.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae/Humpback_Whale.secret.md)
+

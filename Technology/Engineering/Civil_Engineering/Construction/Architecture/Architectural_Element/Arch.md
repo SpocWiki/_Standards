@@ -59,17 +59,17 @@ P8189: "987007294837205171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arch](Arch.md) 
+### #is_/same_as :: [Arch](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.md) 
 
-### #is_/same_as :: [Arch.public](/_public/Technology/Construction/Arch.public.md) 
+### #is_/same_as :: [Arch.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.public.md) 
 
-### #is_/same_as :: [Arch.internal](/_internal/Technology/Construction/Arch.internal.md) 
+### #is_/same_as :: [Arch.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.internal.md) 
 
-### #is_/same_as :: [Arch.protect](/_protect/Technology/Construction/Arch.protect.md) 
+### #is_/same_as :: [Arch.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.protect.md) 
 
-### #is_/same_as :: [Arch.private](/_private/Technology/Construction/Arch.private.md) 
+### #is_/same_as :: [Arch.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.private.md) 
 
-### #is_/same_as :: [Arch.personal](/_personal/Technology/Construction/Arch.personal.md) 
+### #is_/same_as :: [Arch.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.personal.md) 
 
-### #is_/same_as :: [Arch.secret](/_secret/Technology/Construction/Arch.secret.md)
+### #is_/same_as :: [Arch.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.secret.md)
 

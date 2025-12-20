@@ -63,3 +63,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Thriller%20(album)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thriller(1982)](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).md) 
+
+### #is_/same_as :: [Thriller(1982).public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).public.md) 
+
+### #is_/same_as :: [Thriller(1982).internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).internal.md) 
+
+### #is_/same_as :: [Thriller(1982).protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).protect.md) 
+
+### #is_/same_as :: [Thriller(1982).private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).private.md) 
+
+### #is_/same_as :: [Thriller(1982).personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).personal.md) 
+
+### #is_/same_as :: [Thriller(1982).secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).secret.md)
+

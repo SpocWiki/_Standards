@@ -86,8 +86,6 @@ P8189: "987007284876105171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Cartography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cartography](/_Standards/Earth/Geography/Cartography.md) 

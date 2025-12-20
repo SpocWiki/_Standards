@@ -139,3 +139,22 @@ P8189: "987007376444405171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chevron%20Corporation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chevron_Corporation](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.md) 
+
+### #is_/same_as :: [Chevron_Corporation.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.public.md) 
+
+### #is_/same_as :: [Chevron_Corporation.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.internal.md) 
+
+### #is_/same_as :: [Chevron_Corporation.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.protect.md) 
+
+### #is_/same_as :: [Chevron_Corporation.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.private.md) 
+
+### #is_/same_as :: [Chevron_Corporation.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.personal.md) 
+
+### #is_/same_as :: [Chevron_Corporation.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.secret.md)
+

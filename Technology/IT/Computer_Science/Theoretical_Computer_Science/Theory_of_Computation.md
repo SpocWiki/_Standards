@@ -38,3 +38,22 @@ Commons_category: Theory of computation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theory%20of%20computation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theory_of_Computation](/_Standards/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.md) 
+
+### #is_/same_as :: [Theory_of_Computation.public](/_public/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.public.md) 
+
+### #is_/same_as :: [Theory_of_Computation.internal](/_internal/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.internal.md) 
+
+### #is_/same_as :: [Theory_of_Computation.protect](/_protect/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.protect.md) 
+
+### #is_/same_as :: [Theory_of_Computation.private](/_private/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.private.md) 
+
+### #is_/same_as :: [Theory_of_Computation.personal](/_personal/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.personal.md) 
+
+### #is_/same_as :: [Theory_of_Computation.secret](/_secret/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.secret.md)
+

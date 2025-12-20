@@ -112,3 +112,22 @@ IMDb_keyword: european-colonization-of-the-americas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20colonization%20of%20the%20Americas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [European_colonization_of_the_Americas](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/European_colonization_of_the_Americas.md) 
+
+### #is_/same_as :: [European_colonization_of_the_Americas.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/European_colonization_of_the_Americas.public.md) 
+
+### #is_/same_as :: [European_colonization_of_the_Americas.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/European_colonization_of_the_Americas.internal.md) 
+
+### #is_/same_as :: [European_colonization_of_the_Americas.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/European_colonization_of_the_Americas.protect.md) 
+
+### #is_/same_as :: [European_colonization_of_the_Americas.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/European_colonization_of_the_Americas.private.md) 
+
+### #is_/same_as :: [European_colonization_of_the_Americas.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/European_colonization_of_the_Americas.personal.md) 
+
+### #is_/same_as :: [European_colonization_of_the_Americas.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/European_colonization_of_the_Americas.secret.md)
+

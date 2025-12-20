@@ -40,17 +40,17 @@ Game server status: Online. Server is available.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Online](Online.md) 
+### #is_/same_as :: [Online](/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.md) 
 
-### #is_/same_as :: [online.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online.public.md) 
+### #is_/same_as :: [Online.public](/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.public.md) 
 
-### #is_/same_as :: [online.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online.internal.md) 
+### #is_/same_as :: [Online.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.internal.md) 
 
-### #is_/same_as :: [online.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online.protect.md) 
+### #is_/same_as :: [Online.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.protect.md) 
 
-### #is_/same_as :: [online.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online.private.md) 
+### #is_/same_as :: [Online.private](/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.private.md) 
 
-### #is_/same_as :: [online.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online.personal.md) 
+### #is_/same_as :: [Online.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.personal.md) 
 
-### #is_/same_as :: [online.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online.secret.md)
+### #is_/same_as :: [Online.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online.secret.md)
 

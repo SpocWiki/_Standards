@@ -56,3 +56,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Inter
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Interval(music)](/_Standards/Society/Communication/Media/Music/Music_Theory/Interval(music).md) 
+
+### #is_/same_as :: [Interval(music).public](/_public/Society/Communication/Media/Music/Music_Theory/Interval(music).public.md) 
+
+### #is_/same_as :: [Interval(music).internal](/_internal/Society/Communication/Media/Music/Music_Theory/Interval(music).internal.md) 
+
+### #is_/same_as :: [Interval(music).protect](/_protect/Society/Communication/Media/Music/Music_Theory/Interval(music).protect.md) 
+
+### #is_/same_as :: [Interval(music).private](/_private/Society/Communication/Media/Music/Music_Theory/Interval(music).private.md) 
+
+### #is_/same_as :: [Interval(music).personal](/_personal/Society/Communication/Media/Music/Music_Theory/Interval(music).personal.md) 
+
+### #is_/same_as :: [Interval(music).secret](/_secret/Society/Communication/Media/Music/Music_Theory/Interval(music).secret.md)
+

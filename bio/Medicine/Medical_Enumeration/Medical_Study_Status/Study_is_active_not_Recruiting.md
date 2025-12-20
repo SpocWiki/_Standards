@@ -40,17 +40,17 @@ Active, but not recruiting new participants.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [active_not_recruiting](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.md) 
+### #is_/same_as :: [Study_is_active_not_Recruiting](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.md) 
 
-### #is_/same_as :: [active_not_recruiting.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.public.md) 
+### #is_/same_as :: [Study_is_active_not_Recruiting.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.public.md) 
 
-### #is_/same_as :: [active_not_recruiting.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.internal.md) 
+### #is_/same_as :: [Study_is_active_not_Recruiting.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.internal.md) 
 
-### #is_/same_as :: [active_not_recruiting.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.protect.md) 
+### #is_/same_as :: [Study_is_active_not_Recruiting.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.protect.md) 
 
-### #is_/same_as :: [active_not_recruiting.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.private.md) 
+### #is_/same_as :: [Study_is_active_not_Recruiting.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.private.md) 
 
-### #is_/same_as :: [active_not_recruiting.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.personal.md) 
+### #is_/same_as :: [Study_is_active_not_Recruiting.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.personal.md) 
 
-### #is_/same_as :: [active_not_recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.secret.md)
+### #is_/same_as :: [Study_is_active_not_Recruiting.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.secret.md)
 

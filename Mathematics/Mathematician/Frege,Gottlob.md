@@ -105,3 +105,22 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frege,Gottlob](/_Standards/Mathematics/Mathematician/Frege,Gottlob.md) 
+
+### #is_/same_as :: [Frege,Gottlob.public](/_public/Mathematics/Mathematician/Frege,Gottlob.public.md) 
+
+### #is_/same_as :: [Frege,Gottlob.internal](/_internal/Mathematics/Mathematician/Frege,Gottlob.internal.md) 
+
+### #is_/same_as :: [Frege,Gottlob.protect](/_protect/Mathematics/Mathematician/Frege,Gottlob.protect.md) 
+
+### #is_/same_as :: [Frege,Gottlob.private](/_private/Mathematics/Mathematician/Frege,Gottlob.private.md) 
+
+### #is_/same_as :: [Frege,Gottlob.personal](/_personal/Mathematics/Mathematician/Frege,Gottlob.personal.md) 
+
+### #is_/same_as :: [Frege,Gottlob.secret](/_secret/Mathematics/Mathematician/Frege,Gottlob.secret.md)
+

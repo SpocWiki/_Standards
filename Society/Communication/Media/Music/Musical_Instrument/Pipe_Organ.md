@@ -73,3 +73,22 @@ Commons_category: Pipe organs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pipe%20organ) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pipe_Organ](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.md) 
+
+### #is_/same_as :: [Pipe_Organ.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.public.md) 
+
+### #is_/same_as :: [Pipe_Organ.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.internal.md) 
+
+### #is_/same_as :: [Pipe_Organ.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.protect.md) 
+
+### #is_/same_as :: [Pipe_Organ.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.private.md) 
+
+### #is_/same_as :: [Pipe_Organ.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.personal.md) 
+
+### #is_/same_as :: [Pipe_Organ.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.secret.md)
+

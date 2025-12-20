@@ -51,3 +51,22 @@ NBN_System_Key: NHMSYS0000463375
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Secale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Secale](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale.md) 
+
+### #is_/same_as :: [Secale.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale.public.md) 
+
+### #is_/same_as :: [Secale.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale.internal.md) 
+
+### #is_/same_as :: [Secale.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale.protect.md) 
+
+### #is_/same_as :: [Secale.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale.private.md) 
+
+### #is_/same_as :: [Secale.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale.personal.md) 
+
+### #is_/same_as :: [Secale.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale.secret.md)
+

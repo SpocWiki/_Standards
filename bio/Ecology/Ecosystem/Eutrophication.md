@@ -46,3 +46,22 @@ MeSH_tree_code: G16.500.285
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eutrophication) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eutrophication](/_Standards/bio/Ecology/Ecosystem/Eutrophication.md) 
+
+### #is_/same_as :: [Eutrophication.public](/_public/bio/Ecology/Ecosystem/Eutrophication.public.md) 
+
+### #is_/same_as :: [Eutrophication.internal](/_internal/bio/Ecology/Ecosystem/Eutrophication.internal.md) 
+
+### #is_/same_as :: [Eutrophication.protect](/_protect/bio/Ecology/Ecosystem/Eutrophication.protect.md) 
+
+### #is_/same_as :: [Eutrophication.private](/_private/bio/Ecology/Ecosystem/Eutrophication.private.md) 
+
+### #is_/same_as :: [Eutrophication.personal](/_personal/bio/Ecology/Ecosystem/Eutrophication.personal.md) 
+
+### #is_/same_as :: [Eutrophication.secret](/_secret/bio/Ecology/Ecosystem/Eutrophication.secret.md)
+

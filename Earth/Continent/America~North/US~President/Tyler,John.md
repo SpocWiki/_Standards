@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Tyler,John
 - "John Tyler"
@@ -34,4 +34,23 @@ type: private_note
 [is_member_of :: [[Whig Party]] ] 
    
 -  [has_role :: [[../US~President]] ] [created:: 1841-04-04]  [cancelled:: 1845-03-04]  
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tyler,John](/_Standards/Earth/Continent/America~North/US~President/Tyler,John.md) 
+
+### #is_/same_as :: [Tyler,John.public](/_public/Earth/Continent/America~North/US~President/Tyler,John.public.md) 
+
+### #is_/same_as :: [Tyler,John.internal](/_internal/Earth/Continent/America~North/US~President/Tyler,John.internal.md) 
+
+### #is_/same_as :: [Tyler,John.protect](/_protect/Earth/Continent/America~North/US~President/Tyler,John.protect.md) 
+
+### #is_/same_as :: [Tyler,John.private](/_private/Earth/Continent/America~North/US~President/Tyler,John.private.md) 
+
+### #is_/same_as :: [Tyler,John.personal](/_personal/Earth/Continent/America~North/US~President/Tyler,John.personal.md) 
+
+### #is_/same_as :: [Tyler,John.secret](/_secret/Earth/Continent/America~North/US~President/Tyler,John.secret.md)
 

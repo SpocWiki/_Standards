@@ -52,3 +52,22 @@ Library_of_Congress_Classification: QC790.95-QC791.8
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20fusion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nuclear_Fusion](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.md) 
+
+### #is_/same_as :: [Nuclear_Fusion.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.public.md) 
+
+### #is_/same_as :: [Nuclear_Fusion.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.internal.md) 
+
+### #is_/same_as :: [Nuclear_Fusion.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.protect.md) 
+
+### #is_/same_as :: [Nuclear_Fusion.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.private.md) 
+
+### #is_/same_as :: [Nuclear_Fusion.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.personal.md) 
+
+### #is_/same_as :: [Nuclear_Fusion.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.secret.md)
+

@@ -86,3 +86,22 @@ markerFile: [[Laptev_Sea]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laptev%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Laptev_Sea](/_Standards/Earth/Ocean/Ocean~Arctic/Laptev_Sea.md) 
+
+### #is_/same_as :: [Laptev_Sea.public](/_public/Earth/Ocean/Ocean~Arctic/Laptev_Sea.public.md) 
+
+### #is_/same_as :: [Laptev_Sea.internal](/_internal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.internal.md) 
+
+### #is_/same_as :: [Laptev_Sea.protect](/_protect/Earth/Ocean/Ocean~Arctic/Laptev_Sea.protect.md) 
+
+### #is_/same_as :: [Laptev_Sea.private](/_private/Earth/Ocean/Ocean~Arctic/Laptev_Sea.private.md) 
+
+### #is_/same_as :: [Laptev_Sea.personal](/_personal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.personal.md) 
+
+### #is_/same_as :: [Laptev_Sea.secret](/_secret/Earth/Ocean/Ocean~Arctic/Laptev_Sea.secret.md)
+

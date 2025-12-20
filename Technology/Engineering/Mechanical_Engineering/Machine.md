@@ -80,17 +80,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/MASHIN
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Machine](/_Standards/Technology/Mechanical_Engineering/Machine.md) 
+### #is_/same_as :: [Machine](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine.md) 
 
-### #is_/same_as :: [Machine.public](/_public/Technology/Mechanical_Engineering/Machine.public.md) 
+### #is_/same_as :: [Machine.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine.public.md) 
 
-### #is_/same_as :: [Machine.internal](/_internal/Technology/Mechanical_Engineering/Machine.internal.md) 
+### #is_/same_as :: [Machine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine.internal.md) 
 
-### #is_/same_as :: [Machine.protect](/_protect/Technology/Mechanical_Engineering/Machine.protect.md) 
+### #is_/same_as :: [Machine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine.protect.md) 
 
-### #is_/same_as :: [Machine.private](/_private/Technology/Mechanical_Engineering/Machine.private.md) 
+### #is_/same_as :: [Machine.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine.private.md) 
 
-### #is_/same_as :: [Machine.personal](/_personal/Technology/Mechanical_Engineering/Machine.personal.md) 
+### #is_/same_as :: [Machine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine.personal.md) 
 
-### #is_/same_as :: [Machine.secret](/_secret/Technology/Mechanical_Engineering/Machine.secret.md)
+### #is_/same_as :: [Machine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine.secret.md)
 

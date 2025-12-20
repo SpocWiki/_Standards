@@ -129,3 +129,22 @@ Commons_category: Mayors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mayor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mayor](/_Standards/Society/Civil_Society/Mayor.md) 
+
+### #is_/same_as :: [Mayor.public](/_public/Society/Civil_Society/Mayor.public.md) 
+
+### #is_/same_as :: [Mayor.internal](/_internal/Society/Civil_Society/Mayor.internal.md) 
+
+### #is_/same_as :: [Mayor.protect](/_protect/Society/Civil_Society/Mayor.protect.md) 
+
+### #is_/same_as :: [Mayor.private](/_private/Society/Civil_Society/Mayor.private.md) 
+
+### #is_/same_as :: [Mayor.personal](/_personal/Society/Civil_Society/Mayor.personal.md) 
+
+### #is_/same_as :: [Mayor.secret](/_secret/Society/Civil_Society/Mayor.secret.md)
+

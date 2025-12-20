@@ -47,3 +47,22 @@ Commons_category: Nations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nation](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation.md) 
+
+### #is_/same_as :: [Nation.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation.public.md) 
+
+### #is_/same_as :: [Nation.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation.internal.md) 
+
+### #is_/same_as :: [Nation.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation.protect.md) 
+
+### #is_/same_as :: [Nation.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation.private.md) 
+
+### #is_/same_as :: [Nation.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation.personal.md) 
+
+### #is_/same_as :: [Nation.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation.secret.md)
+

@@ -20,17 +20,17 @@ the RIC is aligned with the EU [[Recycling_codes]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [RIC](RIC.md) 
+### #is_/same_as :: [RIC](/_Standards/Chemistry/Organic_Chemistry/RIC.md) 
 
-### #is_/same_as :: [RIC.public](/_public/Chemistry/organic/RIC.public.md) 
+### #is_/same_as :: [RIC.public](/_public/Chemistry/Organic_Chemistry/RIC.public.md) 
 
-### #is_/same_as :: [RIC.internal](/_internal/Chemistry/organic/RIC.internal.md) 
+### #is_/same_as :: [RIC.internal](/_internal/Chemistry/Organic_Chemistry/RIC.internal.md) 
 
-### #is_/same_as :: [RIC.protect](/_protect/Chemistry/organic/RIC.protect.md) 
+### #is_/same_as :: [RIC.protect](/_protect/Chemistry/Organic_Chemistry/RIC.protect.md) 
 
-### #is_/same_as :: [RIC.private](/_private/Chemistry/organic/RIC.private.md) 
+### #is_/same_as :: [RIC.private](/_private/Chemistry/Organic_Chemistry/RIC.private.md) 
 
-### #is_/same_as :: [RIC.personal](/_personal/Chemistry/organic/RIC.personal.md) 
+### #is_/same_as :: [RIC.personal](/_personal/Chemistry/Organic_Chemistry/RIC.personal.md) 
 
-### #is_/same_as :: [RIC.secret](/_secret/Chemistry/organic/RIC.secret.md)
+### #is_/same_as :: [RIC.secret](/_secret/Chemistry/Organic_Chemistry/RIC.secret.md)
 

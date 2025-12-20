@@ -50,3 +50,22 @@ IEV_number: 121-11-30
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic%20induction) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electromagnetic_Induction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.md) 
+
+### #is_/same_as :: [Electromagnetic_Induction.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.public.md) 
+
+### #is_/same_as :: [Electromagnetic_Induction.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.internal.md) 
+
+### #is_/same_as :: [Electromagnetic_Induction.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.protect.md) 
+
+### #is_/same_as :: [Electromagnetic_Induction.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.private.md) 
+
+### #is_/same_as :: [Electromagnetic_Induction.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.personal.md) 
+
+### #is_/same_as :: [Electromagnetic_Induction.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.secret.md)
+

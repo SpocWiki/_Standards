@@ -39,17 +39,17 @@ The price asked for a given offer by the respective organization or person.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [unit_price_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification.md) 
+### #is_/same_as :: [Unit_Price_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.md) 
 
-### #is_/same_as :: [unit_price_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification.public.md) 
+### #is_/same_as :: [Unit_Price_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.public.md) 
 
-### #is_/same_as :: [unit_price_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification.internal.md) 
+### #is_/same_as :: [Unit_Price_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.internal.md) 
 
-### #is_/same_as :: [unit_price_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification.protect.md) 
+### #is_/same_as :: [Unit_Price_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.protect.md) 
 
-### #is_/same_as :: [unit_price_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification.private.md) 
+### #is_/same_as :: [Unit_Price_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.private.md) 
 
-### #is_/same_as :: [unit_price_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification.personal.md) 
+### #is_/same_as :: [Unit_Price_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.personal.md) 
 
-### #is_/same_as :: [unit_price_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification.secret.md)
+### #is_/same_as :: [Unit_Price_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.secret.md)
 

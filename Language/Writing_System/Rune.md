@@ -74,3 +74,22 @@ native_label: ᚱᚢᚾᛟ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Runes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rune](/_Standards/Language/Writing_System/Rune.md) 
+
+### #is_/same_as :: [Rune.public](/_public/Language/Writing_System/Rune.public.md) 
+
+### #is_/same_as :: [Rune.internal](/_internal/Language/Writing_System/Rune.internal.md) 
+
+### #is_/same_as :: [Rune.protect](/_protect/Language/Writing_System/Rune.protect.md) 
+
+### #is_/same_as :: [Rune.private](/_private/Language/Writing_System/Rune.private.md) 
+
+### #is_/same_as :: [Rune.personal](/_personal/Language/Writing_System/Rune.personal.md) 
+
+### #is_/same_as :: [Rune.secret](/_secret/Language/Writing_System/Rune.secret.md)
+

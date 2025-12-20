@@ -24,3 +24,22 @@ country: "[[_Standards/WikiData/WD~Italy,38]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transavantgarde) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Transavantgarde](/_Standards/Society/Communication/Art/Art_History/Transavantgarde.md) 
+
+### #is_/same_as :: [Transavantgarde.public](/_public/Society/Communication/Art/Art_History/Transavantgarde.public.md) 
+
+### #is_/same_as :: [Transavantgarde.internal](/_internal/Society/Communication/Art/Art_History/Transavantgarde.internal.md) 
+
+### #is_/same_as :: [Transavantgarde.protect](/_protect/Society/Communication/Art/Art_History/Transavantgarde.protect.md) 
+
+### #is_/same_as :: [Transavantgarde.private](/_private/Society/Communication/Art/Art_History/Transavantgarde.private.md) 
+
+### #is_/same_as :: [Transavantgarde.personal](/_personal/Society/Communication/Art/Art_History/Transavantgarde.personal.md) 
+
+### #is_/same_as :: [Transavantgarde.secret](/_secret/Society/Communication/Art/Art_History/Transavantgarde.secret.md)
+

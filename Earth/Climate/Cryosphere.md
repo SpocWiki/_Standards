@@ -24,3 +24,22 @@ has_id_wikidata: Q493109
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cryosphere) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cryosphere](/_Standards/Earth/Climate/Cryosphere.md) 
+
+### #is_/same_as :: [Cryosphere.public](/_public/Earth/Climate/Cryosphere.public.md) 
+
+### #is_/same_as :: [Cryosphere.internal](/_internal/Earth/Climate/Cryosphere.internal.md) 
+
+### #is_/same_as :: [Cryosphere.protect](/_protect/Earth/Climate/Cryosphere.protect.md) 
+
+### #is_/same_as :: [Cryosphere.private](/_private/Earth/Climate/Cryosphere.private.md) 
+
+### #is_/same_as :: [Cryosphere.personal](/_personal/Earth/Climate/Cryosphere.personal.md) 
+
+### #is_/same_as :: [Cryosphere.secret](/_secret/Earth/Climate/Cryosphere.secret.md)
+

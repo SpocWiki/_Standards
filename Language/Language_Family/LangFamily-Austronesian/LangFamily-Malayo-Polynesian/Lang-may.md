@@ -106,3 +106,22 @@ GitHub_topic: bahasa-melayu
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malayic%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-may](/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-may.md) 
+
+### #is_/same_as :: [Lang-may.public](/_public/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-may.public.md) 
+
+### #is_/same_as :: [Lang-may.internal](/_internal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-may.internal.md) 
+
+### #is_/same_as :: [Lang-may.protect](/_protect/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-may.protect.md) 
+
+### #is_/same_as :: [Lang-may.private](/_private/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-may.private.md) 
+
+### #is_/same_as :: [Lang-may.personal](/_personal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-may.personal.md) 
+
+### #is_/same_as :: [Lang-may.secret](/_secret/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-may.secret.md)
+

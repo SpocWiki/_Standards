@@ -65,3 +65,22 @@ Commons_category: Nobility
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nobility) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nobility](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.md) 
+
+### #is_/same_as :: [Nobility.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.public.md) 
+
+### #is_/same_as :: [Nobility.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.internal.md) 
+
+### #is_/same_as :: [Nobility.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.protect.md) 
+
+### #is_/same_as :: [Nobility.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.private.md) 
+
+### #is_/same_as :: [Nobility.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.personal.md) 
+
+### #is_/same_as :: [Nobility.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.secret.md)
+

@@ -73,3 +73,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rhyth
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhythm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rhythm](/_Standards/Society/Communication/Media/Music/Rhythm.md) 
+
+### #is_/same_as :: [Rhythm.public](/_public/Society/Communication/Media/Music/Rhythm.public.md) 
+
+### #is_/same_as :: [Rhythm.internal](/_internal/Society/Communication/Media/Music/Rhythm.internal.md) 
+
+### #is_/same_as :: [Rhythm.protect](/_protect/Society/Communication/Media/Music/Rhythm.protect.md) 
+
+### #is_/same_as :: [Rhythm.private](/_private/Society/Communication/Media/Music/Rhythm.private.md) 
+
+### #is_/same_as :: [Rhythm.personal](/_personal/Society/Communication/Media/Music/Rhythm.personal.md) 
+
+### #is_/same_as :: [Rhythm.secret](/_secret/Society/Communication/Media/Music/Rhythm.secret.md)
+

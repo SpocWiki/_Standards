@@ -62,3 +62,21 @@ Commons_category: Hydroxide ion
 > Many inorganic substances which bear the word hydroxide in their names are not ionic compounds of the hydroxide ion, but covalent compounds which contain hydroxy groups.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydroxide)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydroxide_Ion](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.md) 
+
+### #is_/same_as :: [Hydroxide_Ion.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.public.md) 
+
+### #is_/same_as :: [Hydroxide_Ion.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.internal.md) 
+
+### #is_/same_as :: [Hydroxide_Ion.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.protect.md) 
+
+### #is_/same_as :: [Hydroxide_Ion.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.private.md) 
+
+### #is_/same_as :: [Hydroxide_Ion.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.personal.md) 
+
+### #is_/same_as :: [Hydroxide_Ion.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.secret.md)
+

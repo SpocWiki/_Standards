@@ -38,3 +38,22 @@ P8189: "987007285613905171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Choreography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Choreography](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Choreography.md) 
+
+### #is_/same_as :: [Choreography.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Choreography.public.md) 
+
+### #is_/same_as :: [Choreography.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Choreography.internal.md) 
+
+### #is_/same_as :: [Choreography.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Choreography.protect.md) 
+
+### #is_/same_as :: [Choreography.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Choreography.private.md) 
+
+### #is_/same_as :: [Choreography.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Choreography.personal.md) 
+
+### #is_/same_as :: [Choreography.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Choreography.secret.md)
+

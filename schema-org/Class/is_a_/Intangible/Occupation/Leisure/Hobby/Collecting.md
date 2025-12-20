@@ -32,3 +32,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Collecting) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Collecting](/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.md) 
+
+### #is_/same_as :: [Collecting.public](/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public.md) 
+
+### #is_/same_as :: [Collecting.internal](/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal.md) 
+
+### #is_/same_as :: [Collecting.protect](/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.protect.md) 
+
+### #is_/same_as :: [Collecting.private](/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.private.md) 
+
+### #is_/same_as :: [Collecting.personal](/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.personal.md) 
+
+### #is_/same_as :: [Collecting.secret](/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret.md)
+

@@ -211,3 +211,22 @@ work_available_at_URL: https://www.projekt-gutenberg.org/shakespr/hamlet-s/hamle
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hamlet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hamlet](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.md) 
+
+### #is_/same_as :: [Hamlet.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.public.md) 
+
+### #is_/same_as :: [Hamlet.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.internal.md) 
+
+### #is_/same_as :: [Hamlet.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.protect.md) 
+
+### #is_/same_as :: [Hamlet.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.private.md) 
+
+### #is_/same_as :: [Hamlet.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.personal.md) 
+
+### #is_/same_as :: [Hamlet.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.secret.md)
+

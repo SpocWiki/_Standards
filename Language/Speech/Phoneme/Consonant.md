@@ -32,17 +32,17 @@ subclass_of: "[[_Standards/WikiData/WD~phone,202064]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Consonant](Consonant.md) 
+### #is_/same_as :: [Consonant](/_Standards/Language/Speech/Phoneme/Consonant.md) 
 
-### #is_/same_as :: [Consonant.public](/_public/Language/Word/Phoneme/Consonant.public.md) 
+### #is_/same_as :: [Consonant.public](/_public/Language/Speech/Phoneme/Consonant.public.md) 
 
-### #is_/same_as :: [Consonant.internal](/_internal/Language/Word/Phoneme/Consonant.internal.md) 
+### #is_/same_as :: [Consonant.internal](/_internal/Language/Speech/Phoneme/Consonant.internal.md) 
 
-### #is_/same_as :: [Consonant.protect](/_protect/Language/Word/Phoneme/Consonant.protect.md) 
+### #is_/same_as :: [Consonant.protect](/_protect/Language/Speech/Phoneme/Consonant.protect.md) 
 
-### #is_/same_as :: [Consonant.private](/_private/Language/Word/Phoneme/Consonant.private.md) 
+### #is_/same_as :: [Consonant.private](/_private/Language/Speech/Phoneme/Consonant.private.md) 
 
-### #is_/same_as :: [Consonant.personal](/_personal/Language/Word/Phoneme/Consonant.personal.md) 
+### #is_/same_as :: [Consonant.personal](/_personal/Language/Speech/Phoneme/Consonant.personal.md) 
 
-### #is_/same_as :: [Consonant.secret](/_secret/Language/Word/Phoneme/Consonant.secret.md)
+### #is_/same_as :: [Consonant.secret](/_secret/Language/Speech/Phoneme/Consonant.secret.md)
 

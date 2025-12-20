@@ -194,29 +194,17 @@ Colloquially, Business is anything that keeps you occupied / busy.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business](/_Standards/Society/Economics/Business.md) 
+### #is_/same_as :: [Business](/_Standards/Society/Agent/Community/Organization/Business.md) 
 
-### #is_/same_as :: [Business.public](/_public/Society/Economics/Business.public.md) 
+### #is_/same_as :: [Business.public](/_public/Society/Agent/Community/Organization/Business.public.md) 
 
-### #is_/same_as :: [Business.internal](/_internal/Society/Economics/Business.internal.md) 
+### #is_/same_as :: [Business.internal](/_internal/Society/Agent/Community/Organization/Business.internal.md) 
 
-### #is_/same_as :: [Business.protect](/_protect/Society/Economics/Business.protect.md) 
+### #is_/same_as :: [Business.protect](/_protect/Society/Agent/Community/Organization/Business.protect.md) 
 
-### #is_/same_as :: [Business.private](/_private/Society/Economics/Business.private.md) 
+### #is_/same_as :: [Business.private](/_private/Society/Agent/Community/Organization/Business.private.md) 
 
-### #is_/same_as :: [Business.personal](/_personal/Society/Economics/Business.personal.md) 
+### #is_/same_as :: [Business.personal](/_personal/Society/Agent/Community/Organization/Business.personal.md) 
 
-### #is_/same_as :: [Business.secret](/_secret/Society/Economics/Business.secret.md)
+### #is_/same_as :: [Business.secret](/_secret/Society/Agent/Community/Organization/Business.secret.md)
 
- 
-
-## Embedded Graph 
-
-![[Business.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

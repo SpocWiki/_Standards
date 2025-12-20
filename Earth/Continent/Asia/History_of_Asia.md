@@ -38,3 +38,22 @@ Commons_category: History of Asia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Asia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Asia](/_Standards/Earth/Continent/Asia/History_of_Asia.md) 
+
+### #is_/same_as :: [History_of_Asia.public](/_public/Earth/Continent/Asia/History_of_Asia.public.md) 
+
+### #is_/same_as :: [History_of_Asia.internal](/_internal/Earth/Continent/Asia/History_of_Asia.internal.md) 
+
+### #is_/same_as :: [History_of_Asia.protect](/_protect/Earth/Continent/Asia/History_of_Asia.protect.md) 
+
+### #is_/same_as :: [History_of_Asia.private](/_private/Earth/Continent/Asia/History_of_Asia.private.md) 
+
+### #is_/same_as :: [History_of_Asia.personal](/_personal/Earth/Continent/Asia/History_of_Asia.personal.md) 
+
+### #is_/same_as :: [History_of_Asia.secret](/_secret/Earth/Continent/Asia/History_of_Asia.secret.md)
+

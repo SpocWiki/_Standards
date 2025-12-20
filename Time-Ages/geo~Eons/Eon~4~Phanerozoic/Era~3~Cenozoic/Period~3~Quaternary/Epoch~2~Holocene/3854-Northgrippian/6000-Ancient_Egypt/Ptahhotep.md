@@ -33,3 +33,22 @@ date_of_birth: -2450-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ptahhotep) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ptahhotep](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.md) 
+
+### #is_/same_as :: [Ptahhotep.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.public.md) 
+
+### #is_/same_as :: [Ptahhotep.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.internal.md) 
+
+### #is_/same_as :: [Ptahhotep.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.protect.md) 
+
+### #is_/same_as :: [Ptahhotep.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.private.md) 
+
+### #is_/same_as :: [Ptahhotep.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.personal.md) 
+
+### #is_/same_as :: [Ptahhotep.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.secret.md)
+

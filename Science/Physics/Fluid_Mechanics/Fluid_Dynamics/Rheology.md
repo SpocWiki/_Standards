@@ -62,3 +62,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rheology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rheology](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.md) 
+
+### #is_/same_as :: [Rheology.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.public.md) 
+
+### #is_/same_as :: [Rheology.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.internal.md) 
+
+### #is_/same_as :: [Rheology.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.protect.md) 
+
+### #is_/same_as :: [Rheology.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.private.md) 
+
+### #is_/same_as :: [Rheology.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.personal.md) 
+
+### #is_/same_as :: [Rheology.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.secret.md)
+

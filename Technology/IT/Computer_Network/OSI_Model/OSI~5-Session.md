@@ -27,3 +27,22 @@ official_website: https://www.iso.org/ics/35.100.50/x/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Session%20layer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OSI~5-Session](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.md) 
+
+### #is_/same_as :: [OSI~5-Session.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.public.md) 
+
+### #is_/same_as :: [OSI~5-Session.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.internal.md) 
+
+### #is_/same_as :: [OSI~5-Session.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.protect.md) 
+
+### #is_/same_as :: [OSI~5-Session.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.private.md) 
+
+### #is_/same_as :: [OSI~5-Session.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.personal.md) 
+
+### #is_/same_as :: [OSI~5-Session.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.secret.md)
+

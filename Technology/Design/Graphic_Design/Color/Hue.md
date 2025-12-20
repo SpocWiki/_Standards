@@ -33,3 +33,22 @@ IEV_number: 845-22-067
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hue) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hue](/_Standards/Technology/Design/Graphic_Design/Color/Hue.md) 
+
+### #is_/same_as :: [Hue.public](/_public/Technology/Design/Graphic_Design/Color/Hue.public.md) 
+
+### #is_/same_as :: [Hue.internal](/_internal/Technology/Design/Graphic_Design/Color/Hue.internal.md) 
+
+### #is_/same_as :: [Hue.protect](/_protect/Technology/Design/Graphic_Design/Color/Hue.protect.md) 
+
+### #is_/same_as :: [Hue.private](/_private/Technology/Design/Graphic_Design/Color/Hue.private.md) 
+
+### #is_/same_as :: [Hue.personal](/_personal/Technology/Design/Graphic_Design/Color/Hue.personal.md) 
+
+### #is_/same_as :: [Hue.secret](/_secret/Technology/Design/Graphic_Design/Color/Hue.secret.md)
+

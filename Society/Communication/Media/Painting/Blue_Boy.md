@@ -12,3 +12,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Blue%20Boy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blue_Boy](/_Standards/Society/Communication/Media/Painting/Blue_Boy.md) 
+
+### #is_/same_as :: [Blue_Boy.public](/_public/Society/Communication/Media/Painting/Blue_Boy.public.md) 
+
+### #is_/same_as :: [Blue_Boy.internal](/_internal/Society/Communication/Media/Painting/Blue_Boy.internal.md) 
+
+### #is_/same_as :: [Blue_Boy.protect](/_protect/Society/Communication/Media/Painting/Blue_Boy.protect.md) 
+
+### #is_/same_as :: [Blue_Boy.private](/_private/Society/Communication/Media/Painting/Blue_Boy.private.md) 
+
+### #is_/same_as :: [Blue_Boy.personal](/_personal/Society/Communication/Media/Painting/Blue_Boy.personal.md) 
+
+### #is_/same_as :: [Blue_Boy.secret](/_secret/Society/Communication/Media/Painting/Blue_Boy.secret.md)
+

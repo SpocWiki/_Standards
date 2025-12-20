@@ -39,17 +39,17 @@ A high school.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [High_School](High_School.md) 
+### #is_/same_as :: [High_School](/_Standards/Society/Agent/Community/Organization/Educational_Organization/High_School.md) 
 
-### #is_/same_as :: [High_School.public](/_public/Society/Organization/Educational_Organization/High_School.public.md) 
+### #is_/same_as :: [High_School.public](/_public/Society/Agent/Community/Organization/Educational_Organization/High_School.public.md) 
 
-### #is_/same_as :: [High_School.internal](/_internal/Society/Organization/Educational_Organization/High_School.internal.md) 
+### #is_/same_as :: [High_School.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/High_School.internal.md) 
 
-### #is_/same_as :: [High_School.protect](/_protect/Society/Organization/Educational_Organization/High_School.protect.md) 
+### #is_/same_as :: [High_School.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/High_School.protect.md) 
 
-### #is_/same_as :: [High_School.private](/_private/Society/Organization/Educational_Organization/High_School.private.md) 
+### #is_/same_as :: [High_School.private](/_private/Society/Agent/Community/Organization/Educational_Organization/High_School.private.md) 
 
-### #is_/same_as :: [High_School.personal](/_personal/Society/Organization/Educational_Organization/High_School.personal.md) 
+### #is_/same_as :: [High_School.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/High_School.personal.md) 
 
-### #is_/same_as :: [High_School.secret](/_secret/Society/Organization/Educational_Organization/High_School.secret.md)
+### #is_/same_as :: [High_School.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/High_School.secret.md)
 

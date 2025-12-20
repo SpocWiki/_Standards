@@ -25,3 +25,22 @@ Commons_category: Neo-expressionism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neo-expressionism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Neo-Expressionism](/_Standards/Society/Communication/Art/History_of_Art/Neo-Expressionism.md) 
+
+### #is_/same_as :: [Neo-Expressionism.public](/_public/Society/Communication/Art/History_of_Art/Neo-Expressionism.public.md) 
+
+### #is_/same_as :: [Neo-Expressionism.internal](/_internal/Society/Communication/Art/History_of_Art/Neo-Expressionism.internal.md) 
+
+### #is_/same_as :: [Neo-Expressionism.protect](/_protect/Society/Communication/Art/History_of_Art/Neo-Expressionism.protect.md) 
+
+### #is_/same_as :: [Neo-Expressionism.private](/_private/Society/Communication/Art/History_of_Art/Neo-Expressionism.private.md) 
+
+### #is_/same_as :: [Neo-Expressionism.personal](/_personal/Society/Communication/Art/History_of_Art/Neo-Expressionism.personal.md) 
+
+### #is_/same_as :: [Neo-Expressionism.secret](/_secret/Society/Communication/Art/History_of_Art/Neo-Expressionism.secret.md)
+

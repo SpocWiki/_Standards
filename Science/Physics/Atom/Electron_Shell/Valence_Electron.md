@@ -34,3 +34,22 @@ Commons_category: Electrons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Valence%20electron) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Valence_Electron](/_Standards/Science/Physics/Atom/Electron_Shell/Valence_Electron.md) 
+
+### #is_/same_as :: [Valence_Electron.public](/_public/Science/Physics/Atom/Electron_Shell/Valence_Electron.public.md) 
+
+### #is_/same_as :: [Valence_Electron.internal](/_internal/Science/Physics/Atom/Electron_Shell/Valence_Electron.internal.md) 
+
+### #is_/same_as :: [Valence_Electron.protect](/_protect/Science/Physics/Atom/Electron_Shell/Valence_Electron.protect.md) 
+
+### #is_/same_as :: [Valence_Electron.private](/_private/Science/Physics/Atom/Electron_Shell/Valence_Electron.private.md) 
+
+### #is_/same_as :: [Valence_Electron.personal](/_personal/Science/Physics/Atom/Electron_Shell/Valence_Electron.personal.md) 
+
+### #is_/same_as :: [Valence_Electron.secret](/_secret/Science/Physics/Atom/Electron_Shell/Valence_Electron.secret.md)
+

@@ -27,3 +27,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Speedcoding)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [SpeedCode](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/SpeedCode.md) 
+
+### #is_/same_as :: [SpeedCode.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/SpeedCode.public.md) 
+
+### #is_/same_as :: [SpeedCode.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/SpeedCode.internal.md) 
+
+### #is_/same_as :: [SpeedCode.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/SpeedCode.protect.md) 
+
+### #is_/same_as :: [SpeedCode.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/SpeedCode.private.md) 
+
+### #is_/same_as :: [SpeedCode.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/SpeedCode.personal.md) 
+
+### #is_/same_as :: [SpeedCode.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/SpeedCode.secret.md)
+

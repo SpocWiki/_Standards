@@ -123,3 +123,22 @@ Regensburg_Classification: SF 2740
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Fourier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fourier,Joseph](/_Standards/Mathematics/Mathematician/Fourier,Joseph.md) 
+
+### #is_/same_as :: [Fourier,Joseph.public](/_public/Mathematics/Mathematician/Fourier,Joseph.public.md) 
+
+### #is_/same_as :: [Fourier,Joseph.internal](/_internal/Mathematics/Mathematician/Fourier,Joseph.internal.md) 
+
+### #is_/same_as :: [Fourier,Joseph.protect](/_protect/Mathematics/Mathematician/Fourier,Joseph.protect.md) 
+
+### #is_/same_as :: [Fourier,Joseph.private](/_private/Mathematics/Mathematician/Fourier,Joseph.private.md) 
+
+### #is_/same_as :: [Fourier,Joseph.personal](/_personal/Mathematics/Mathematician/Fourier,Joseph.personal.md) 
+
+### #is_/same_as :: [Fourier,Joseph.secret](/_secret/Mathematics/Mathematician/Fourier,Joseph.secret.md)
+

@@ -138,31 +138,20 @@ Relations are equivalent to directed [[Graph(Math)]].
 
 ![[Function(Math).svg]] 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Function(mathematics)](/_Standards/Mathematics/Function(mathematics).md) 
+### #is_/same_as :: [Function(Math)](/_Standards/Mathematics/Function(Math).md) 
 
-### #is_/same_as :: [Function(mathematics).public](/_public/Mathematics/Function(mathematics).public.md) 
+### #is_/same_as :: [Function(Math).public](/_public/Mathematics/Function(Math).public.md) 
 
-### #is_/same_as :: [Function(mathematics).internal](/_internal/Mathematics/Function(mathematics).internal.md) 
+### #is_/same_as :: [Function(Math).internal](/_internal/Mathematics/Function(Math).internal.md) 
 
-### #is_/same_as :: [Function(mathematics).protect](/_protect/Mathematics/Function(mathematics).protect.md) 
+### #is_/same_as :: [Function(Math).protect](/_protect/Mathematics/Function(Math).protect.md) 
 
-### #is_/same_as :: [Function(mathematics).private](/_private/Mathematics/Function(mathematics).private.md) 
+### #is_/same_as :: [Function(Math).private](/_private/Mathematics/Function(Math).private.md) 
 
-### #is_/same_as :: [Function(mathematics).personal](/_personal/Mathematics/Function(mathematics).personal.md) 
+### #is_/same_as :: [Function(Math).personal](/_personal/Mathematics/Function(Math).personal.md) 
 
-### #is_/same_as :: [Function(mathematics).secret](/_secret/Mathematics/Function(mathematics).secret.md)
+### #is_/same_as :: [Function(Math).secret](/_secret/Mathematics/Function(Math).secret.md)
 
-
-
-## Embedded Graph 
-
-![[Function(Math).svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

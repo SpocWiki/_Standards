@@ -35,3 +35,22 @@ Commons_category: Organosulfur compounds
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organosulfur%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Organosulfur_Compound](/_Standards/Chemistry/Organosulfur_Compound.md) 
+
+### #is_/same_as :: [Organosulfur_Compound.public](/_public/Chemistry/Organosulfur_Compound.public.md) 
+
+### #is_/same_as :: [Organosulfur_Compound.internal](/_internal/Chemistry/Organosulfur_Compound.internal.md) 
+
+### #is_/same_as :: [Organosulfur_Compound.protect](/_protect/Chemistry/Organosulfur_Compound.protect.md) 
+
+### #is_/same_as :: [Organosulfur_Compound.private](/_private/Chemistry/Organosulfur_Compound.private.md) 
+
+### #is_/same_as :: [Organosulfur_Compound.personal](/_personal/Chemistry/Organosulfur_Compound.personal.md) 
+
+### #is_/same_as :: [Organosulfur_Compound.secret](/_secret/Chemistry/Organosulfur_Compound.secret.md)
+

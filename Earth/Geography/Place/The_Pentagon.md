@@ -105,3 +105,22 @@ coordinate_location: Point(-77.055 38.870833333)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [The_Pentagon](/_Standards/Earth/Geography/Place/The_Pentagon.md) 
+
+### #is_/same_as :: [The_Pentagon.public](/_public/Earth/Geography/Place/The_Pentagon.public.md) 
+
+### #is_/same_as :: [The_Pentagon.internal](/_internal/Earth/Geography/Place/The_Pentagon.internal.md) 
+
+### #is_/same_as :: [The_Pentagon.protect](/_protect/Earth/Geography/Place/The_Pentagon.protect.md) 
+
+### #is_/same_as :: [The_Pentagon.private](/_private/Earth/Geography/Place/The_Pentagon.private.md) 
+
+### #is_/same_as :: [The_Pentagon.personal](/_personal/Earth/Geography/Place/The_Pentagon.personal.md) 
+
+### #is_/same_as :: [The_Pentagon.secret](/_secret/Earth/Geography/Place/The_Pentagon.secret.md)
+

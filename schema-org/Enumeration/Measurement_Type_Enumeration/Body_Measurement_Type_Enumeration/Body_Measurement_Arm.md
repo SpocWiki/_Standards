@@ -42,17 +42,17 @@ Arm length (measured between arms/shoulder line intersection and the prominent w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Arm](Body_Measurement_Arm.md) 
+### #is_/same_as :: [Body_Measurement_Arm](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.md) 
 
-### #is_/same_as :: [body_measurement_arm.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.public.md) 
+### #is_/same_as :: [Body_Measurement_Arm.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.public.md) 
 
-### #is_/same_as :: [body_measurement_arm.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.internal.md) 
+### #is_/same_as :: [Body_Measurement_Arm.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.internal.md) 
 
-### #is_/same_as :: [body_measurement_arm.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.protect.md) 
+### #is_/same_as :: [Body_Measurement_Arm.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.protect.md) 
 
-### #is_/same_as :: [body_measurement_arm.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.private.md) 
+### #is_/same_as :: [Body_Measurement_Arm.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.private.md) 
 
-### #is_/same_as :: [body_measurement_arm.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.personal.md) 
+### #is_/same_as :: [Body_Measurement_Arm.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.personal.md) 
 
-### #is_/same_as :: [body_measurement_arm.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.secret.md)
+### #is_/same_as :: [Body_Measurement_Arm.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Arm.secret.md)
 

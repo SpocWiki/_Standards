@@ -57,3 +57,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrocardiography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrocardiography](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Electrocardiography.md) 
+
+### #is_/same_as :: [Electrocardiography.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Electrocardiography.public.md) 
+
+### #is_/same_as :: [Electrocardiography.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Electrocardiography.internal.md) 
+
+### #is_/same_as :: [Electrocardiography.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Electrocardiography.protect.md) 
+
+### #is_/same_as :: [Electrocardiography.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Electrocardiography.private.md) 
+
+### #is_/same_as :: [Electrocardiography.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Electrocardiography.personal.md) 
+
+### #is_/same_as :: [Electrocardiography.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Electrocardiography.secret.md)
+

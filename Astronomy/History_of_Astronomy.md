@@ -39,3 +39,22 @@ Commons_category: History of astronomy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20astronomy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Astronomy](/_Standards/Astronomy/History_of_Astronomy.md) 
+
+### #is_/same_as :: [History_of_Astronomy.public](/_public/Astronomy/History_of_Astronomy.public.md) 
+
+### #is_/same_as :: [History_of_Astronomy.internal](/_internal/Astronomy/History_of_Astronomy.internal.md) 
+
+### #is_/same_as :: [History_of_Astronomy.protect](/_protect/Astronomy/History_of_Astronomy.protect.md) 
+
+### #is_/same_as :: [History_of_Astronomy.private](/_private/Astronomy/History_of_Astronomy.private.md) 
+
+### #is_/same_as :: [History_of_Astronomy.personal](/_personal/Astronomy/History_of_Astronomy.personal.md) 
+
+### #is_/same_as :: [History_of_Astronomy.secret](/_secret/Astronomy/History_of_Astronomy.secret.md)
+

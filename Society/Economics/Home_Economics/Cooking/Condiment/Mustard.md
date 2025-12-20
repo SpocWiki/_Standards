@@ -61,17 +61,17 @@ USDA_NDB_number: 02046
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mustard](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Mustard.md) 
+### #is_/same_as :: [Mustard](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.md) 
 
-### #is_/same_as :: [Mustard.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Mustard.public.md) 
+### #is_/same_as :: [Mustard.public](/_public/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.public.md) 
 
-### #is_/same_as :: [Mustard.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Mustard.internal.md) 
+### #is_/same_as :: [Mustard.internal](/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.internal.md) 
 
-### #is_/same_as :: [Mustard.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Mustard.protect.md) 
+### #is_/same_as :: [Mustard.protect](/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.protect.md) 
 
-### #is_/same_as :: [Mustard.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Mustard.private.md) 
+### #is_/same_as :: [Mustard.private](/_private/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.private.md) 
 
-### #is_/same_as :: [Mustard.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Mustard.personal.md) 
+### #is_/same_as :: [Mustard.personal](/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.personal.md) 
 
-### #is_/same_as :: [Mustard.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Mustard.secret.md)
+### #is_/same_as :: [Mustard.secret](/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Mustard.secret.md)
 

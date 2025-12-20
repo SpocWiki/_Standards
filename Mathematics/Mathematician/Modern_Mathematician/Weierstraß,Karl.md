@@ -169,3 +169,22 @@ Libris_URI: 86lnqm4s2tjwvh0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Weierstrass) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weierstraß,Karl](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.md) 
+
+### #is_/same_as :: [Weierstraß,Karl.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.public.md) 
+
+### #is_/same_as :: [Weierstraß,Karl.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.internal.md) 
+
+### #is_/same_as :: [Weierstraß,Karl.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.protect.md) 
+
+### #is_/same_as :: [Weierstraß,Karl.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.private.md) 
+
+### #is_/same_as :: [Weierstraß,Karl.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.personal.md) 
+
+### #is_/same_as :: [Weierstraß,Karl.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.secret.md)
+

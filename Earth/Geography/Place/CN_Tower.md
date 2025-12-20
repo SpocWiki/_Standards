@@ -86,3 +86,22 @@ X_Twitter_username: TourCNTower
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/CN%20Tower) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CN_Tower](/_Standards/Earth/Geography/Place/CN_Tower.md) 
+
+### #is_/same_as :: [CN_Tower.public](/_public/Earth/Geography/Place/CN_Tower.public.md) 
+
+### #is_/same_as :: [CN_Tower.internal](/_internal/Earth/Geography/Place/CN_Tower.internal.md) 
+
+### #is_/same_as :: [CN_Tower.protect](/_protect/Earth/Geography/Place/CN_Tower.protect.md) 
+
+### #is_/same_as :: [CN_Tower.private](/_private/Earth/Geography/Place/CN_Tower.private.md) 
+
+### #is_/same_as :: [CN_Tower.personal](/_personal/Earth/Geography/Place/CN_Tower.personal.md) 
+
+### #is_/same_as :: [CN_Tower.secret](/_secret/Earth/Geography/Place/CN_Tower.secret.md)
+

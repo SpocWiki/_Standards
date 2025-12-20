@@ -36,17 +36,17 @@ Commons_category: Direct current
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Direct_Current](/_Standards/Science/Physics/Electricity/Electric_Current/Direct_Current.md) 
+### #is_/same_as :: [Direct_Current](/_Standards/Science/Physics/Electricity/Current,electric/Direct_Current.md) 
 
-### #is_/same_as :: [Direct_Current.public](/_public/Science/Physics/Electricity/Electric_Current/Direct_Current.public.md) 
+### #is_/same_as :: [Direct_Current.public](/_public/Science/Physics/Electricity/Current,electric/Direct_Current.public.md) 
 
-### #is_/same_as :: [Direct_Current.internal](/_internal/Science/Physics/Electricity/Electric_Current/Direct_Current.internal.md) 
+### #is_/same_as :: [Direct_Current.internal](/_internal/Science/Physics/Electricity/Current,electric/Direct_Current.internal.md) 
 
-### #is_/same_as :: [Direct_Current.protect](/_protect/Science/Physics/Electricity/Electric_Current/Direct_Current.protect.md) 
+### #is_/same_as :: [Direct_Current.protect](/_protect/Science/Physics/Electricity/Current,electric/Direct_Current.protect.md) 
 
-### #is_/same_as :: [Direct_Current.private](/_private/Science/Physics/Electricity/Electric_Current/Direct_Current.private.md) 
+### #is_/same_as :: [Direct_Current.private](/_private/Science/Physics/Electricity/Current,electric/Direct_Current.private.md) 
 
-### #is_/same_as :: [Direct_Current.personal](/_personal/Science/Physics/Electricity/Electric_Current/Direct_Current.personal.md) 
+### #is_/same_as :: [Direct_Current.personal](/_personal/Science/Physics/Electricity/Current,electric/Direct_Current.personal.md) 
 
-### #is_/same_as :: [Direct_Current.secret](/_secret/Science/Physics/Electricity/Electric_Current/Direct_Current.secret.md)
+### #is_/same_as :: [Direct_Current.secret](/_secret/Science/Physics/Electricity/Current,electric/Direct_Current.secret.md)
 

@@ -50,7 +50,7 @@ Containing group: [Cephalophinae](../Cephalophinae.md)
   Life Cycle Stage ::     Immature
   View                 Lateral
   Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
-  -------------------------------------------------------------------------
+  -------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

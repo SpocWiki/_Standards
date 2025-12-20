@@ -58,3 +58,22 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/wifi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wi-Fi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wi-Fi](/_Standards/Technology/IT/Computer_Network/Wi-Fi.md) 
+
+### #is_/same_as :: [Wi-Fi.public](/_public/Technology/IT/Computer_Network/Wi-Fi.public.md) 
+
+### #is_/same_as :: [Wi-Fi.internal](/_internal/Technology/IT/Computer_Network/Wi-Fi.internal.md) 
+
+### #is_/same_as :: [Wi-Fi.protect](/_protect/Technology/IT/Computer_Network/Wi-Fi.protect.md) 
+
+### #is_/same_as :: [Wi-Fi.private](/_private/Technology/IT/Computer_Network/Wi-Fi.private.md) 
+
+### #is_/same_as :: [Wi-Fi.personal](/_personal/Technology/IT/Computer_Network/Wi-Fi.personal.md) 
+
+### #is_/same_as :: [Wi-Fi.secret](/_secret/Technology/IT/Computer_Network/Wi-Fi.secret.md)
+

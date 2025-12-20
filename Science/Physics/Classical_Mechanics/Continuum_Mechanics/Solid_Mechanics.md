@@ -51,3 +51,22 @@ Commons_category: Solid mechanics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solid%20mechanics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solid_Mechanics](/_Standards/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.md) 
+
+### #is_/same_as :: [Solid_Mechanics.public](/_public/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.public.md) 
+
+### #is_/same_as :: [Solid_Mechanics.internal](/_internal/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.internal.md) 
+
+### #is_/same_as :: [Solid_Mechanics.protect](/_protect/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.protect.md) 
+
+### #is_/same_as :: [Solid_Mechanics.private](/_private/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.private.md) 
+
+### #is_/same_as :: [Solid_Mechanics.personal](/_personal/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.personal.md) 
+
+### #is_/same_as :: [Solid_Mechanics.secret](/_secret/Science/Physics/Classical_Mechanics/Continuum_Mechanics/Solid_Mechanics.secret.md)
+

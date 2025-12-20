@@ -112,3 +112,22 @@ ISNI: "0000000121197891"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20D.%20Rockefeller) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rockefeller,John_D.](/_Standards/Society/Economics/Industry/Industrialist/Rockefeller,John_D..md) 
+
+### #is_/same_as :: [Rockefeller,John_D..public](/_public/Society/Economics/Industry/Industrialist/Rockefeller,John_D..public.md) 
+
+### #is_/same_as :: [Rockefeller,John_D..internal](/_internal/Society/Economics/Industry/Industrialist/Rockefeller,John_D..internal.md) 
+
+### #is_/same_as :: [Rockefeller,John_D..protect](/_protect/Society/Economics/Industry/Industrialist/Rockefeller,John_D..protect.md) 
+
+### #is_/same_as :: [Rockefeller,John_D..private](/_private/Society/Economics/Industry/Industrialist/Rockefeller,John_D..private.md) 
+
+### #is_/same_as :: [Rockefeller,John_D..personal](/_personal/Society/Economics/Industry/Industrialist/Rockefeller,John_D..personal.md) 
+
+### #is_/same_as :: [Rockefeller,John_D..secret](/_secret/Society/Economics/Industry/Industrialist/Rockefeller,John_D..secret.md)
+

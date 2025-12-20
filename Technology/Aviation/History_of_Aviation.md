@@ -44,3 +44,22 @@ Commons_category: History of aviation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20aviation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Aviation](/_Standards/Technology/Aviation/History_of_Aviation.md) 
+
+### #is_/same_as :: [History_of_Aviation.public](/_public/Technology/Aviation/History_of_Aviation.public.md) 
+
+### #is_/same_as :: [History_of_Aviation.internal](/_internal/Technology/Aviation/History_of_Aviation.internal.md) 
+
+### #is_/same_as :: [History_of_Aviation.protect](/_protect/Technology/Aviation/History_of_Aviation.protect.md) 
+
+### #is_/same_as :: [History_of_Aviation.private](/_private/Technology/Aviation/History_of_Aviation.private.md) 
+
+### #is_/same_as :: [History_of_Aviation.personal](/_personal/Technology/Aviation/History_of_Aviation.personal.md) 
+
+### #is_/same_as :: [History_of_Aviation.secret](/_secret/Technology/Aviation/History_of_Aviation.secret.md)
+

@@ -91,7 +91,7 @@ Sud-ouest Pacifique (cephalopodes). Cah. O.R.S.T.O.M., ser. Oceanogr.,
   Sex ::             Female
   Size              19 mm ML
   Type              syntype
-  ------------------------------------------------------
+  ------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

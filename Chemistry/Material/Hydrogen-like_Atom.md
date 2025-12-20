@@ -39,3 +39,22 @@ subclass_of: "[[_Standards/WikiData/WD~atom,9121]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen-like%20atom) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydrogen-like_Atom](/_Standards/Chemistry/Material/Hydrogen-like_Atom.md) 
+
+### #is_/same_as :: [Hydrogen-like_Atom.public](/_public/Chemistry/Material/Hydrogen-like_Atom.public.md) 
+
+### #is_/same_as :: [Hydrogen-like_Atom.internal](/_internal/Chemistry/Material/Hydrogen-like_Atom.internal.md) 
+
+### #is_/same_as :: [Hydrogen-like_Atom.protect](/_protect/Chemistry/Material/Hydrogen-like_Atom.protect.md) 
+
+### #is_/same_as :: [Hydrogen-like_Atom.private](/_private/Chemistry/Material/Hydrogen-like_Atom.private.md) 
+
+### #is_/same_as :: [Hydrogen-like_Atom.personal](/_personal/Chemistry/Material/Hydrogen-like_Atom.personal.md) 
+
+### #is_/same_as :: [Hydrogen-like_Atom.secret](/_secret/Chemistry/Material/Hydrogen-like_Atom.secret.md)
+

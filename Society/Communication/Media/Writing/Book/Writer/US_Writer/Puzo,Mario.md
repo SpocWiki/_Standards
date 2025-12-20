@@ -76,3 +76,22 @@ date_of_birth: 1920-10-15T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mario%20Puzo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Puzo,Mario](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.md) 
+
+### #is_/same_as :: [Puzo,Mario.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.public.md) 
+
+### #is_/same_as :: [Puzo,Mario.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.internal.md) 
+
+### #is_/same_as :: [Puzo,Mario.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.protect.md) 
+
+### #is_/same_as :: [Puzo,Mario.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.private.md) 
+
+### #is_/same_as :: [Puzo,Mario.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.personal.md) 
+
+### #is_/same_as :: [Puzo,Mario.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.secret.md)
+

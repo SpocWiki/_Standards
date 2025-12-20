@@ -56,17 +56,17 @@ population, and does not imply that the population consists of people. For examp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [statistical_population](/_Standards/schema-org/Class/is_a_/Intangible/statistical_population.md) 
+### #is_/same_as :: [Statistical_Population](/_Standards/schema-org/Class/is_a_/Intangible/Statistical_Population.md) 
 
-### #is_/same_as :: [statistical_population.public](/_public/schema-org/Class/is_a_/Intangible/statistical_population.public.md) 
+### #is_/same_as :: [Statistical_Population.public](/_public/schema-org/Class/is_a_/Intangible/Statistical_Population.public.md) 
 
-### #is_/same_as :: [statistical_population.internal](/_internal/schema-org/Class/is_a_/Intangible/statistical_population.internal.md) 
+### #is_/same_as :: [Statistical_Population.internal](/_internal/schema-org/Class/is_a_/Intangible/Statistical_Population.internal.md) 
 
-### #is_/same_as :: [statistical_population.protect](/_protect/schema-org/Class/is_a_/Intangible/statistical_population.protect.md) 
+### #is_/same_as :: [Statistical_Population.protect](/_protect/schema-org/Class/is_a_/Intangible/Statistical_Population.protect.md) 
 
-### #is_/same_as :: [statistical_population.private](/_private/schema-org/Class/is_a_/Intangible/statistical_population.private.md) 
+### #is_/same_as :: [Statistical_Population.private](/_private/schema-org/Class/is_a_/Intangible/Statistical_Population.private.md) 
 
-### #is_/same_as :: [statistical_population.personal](/_personal/schema-org/Class/is_a_/Intangible/statistical_population.personal.md) 
+### #is_/same_as :: [Statistical_Population.personal](/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal.md) 
 
-### #is_/same_as :: [statistical_population.secret](/_secret/schema-org/Class/is_a_/Intangible/statistical_population.secret.md)
+### #is_/same_as :: [Statistical_Population.secret](/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret.md)
 

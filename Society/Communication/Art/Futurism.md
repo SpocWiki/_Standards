@@ -57,3 +57,22 @@ inception: 1909-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Futurism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Futurism](/_Standards/Society/Communication/Art/Futurism.md) 
+
+### #is_/same_as :: [Futurism.public](/_public/Society/Communication/Art/Futurism.public.md) 
+
+### #is_/same_as :: [Futurism.internal](/_internal/Society/Communication/Art/Futurism.internal.md) 
+
+### #is_/same_as :: [Futurism.protect](/_protect/Society/Communication/Art/Futurism.protect.md) 
+
+### #is_/same_as :: [Futurism.private](/_private/Society/Communication/Art/Futurism.private.md) 
+
+### #is_/same_as :: [Futurism.personal](/_personal/Society/Communication/Art/Futurism.personal.md) 
+
+### #is_/same_as :: [Futurism.secret](/_secret/Society/Communication/Art/Futurism.secret.md)
+

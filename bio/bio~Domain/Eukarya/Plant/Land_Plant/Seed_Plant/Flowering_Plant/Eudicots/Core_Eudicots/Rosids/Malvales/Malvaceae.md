@@ -106,3 +106,22 @@ NBN_System_Key: NBNSYS0000160378
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malvaceae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Malvaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae.md) 
+
+### #is_/same_as :: [Malvaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae.public.md) 
+
+### #is_/same_as :: [Malvaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae.internal.md) 
+
+### #is_/same_as :: [Malvaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae.protect.md) 
+
+### #is_/same_as :: [Malvaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae.private.md) 
+
+### #is_/same_as :: [Malvaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae.personal.md) 
+
+### #is_/same_as :: [Malvaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae.secret.md)
+

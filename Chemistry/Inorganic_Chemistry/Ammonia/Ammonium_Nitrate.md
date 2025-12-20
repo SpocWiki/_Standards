@@ -89,17 +89,17 @@ chemical_formula:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ammonium_Nitrate](Ammonium_Nitrate.md) 
+### #is_/same_as :: [Ammonium_Nitrate](/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.md) 
 
-### #is_/same_as :: [Ammonium_Nitrate.public](/_public/Chemistry/inOrganic/Ammonia/Ammonium_Nitrate.public.md) 
+### #is_/same_as :: [Ammonium_Nitrate.public](/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.public.md) 
 
-### #is_/same_as :: [Ammonium_Nitrate.internal](/_internal/Chemistry/inOrganic/Ammonia/Ammonium_Nitrate.internal.md) 
+### #is_/same_as :: [Ammonium_Nitrate.internal](/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.internal.md) 
 
-### #is_/same_as :: [Ammonium_Nitrate.protect](/_protect/Chemistry/inOrganic/Ammonia/Ammonium_Nitrate.protect.md) 
+### #is_/same_as :: [Ammonium_Nitrate.protect](/_protect/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.protect.md) 
 
-### #is_/same_as :: [Ammonium_Nitrate.private](/_private/Chemistry/inOrganic/Ammonia/Ammonium_Nitrate.private.md) 
+### #is_/same_as :: [Ammonium_Nitrate.private](/_private/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.private.md) 
 
-### #is_/same_as :: [Ammonium_Nitrate.personal](/_personal/Chemistry/inOrganic/Ammonia/Ammonium_Nitrate.personal.md) 
+### #is_/same_as :: [Ammonium_Nitrate.personal](/_personal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.personal.md) 
 
-### #is_/same_as :: [Ammonium_Nitrate.secret](/_secret/Chemistry/inOrganic/Ammonia/Ammonium_Nitrate.secret.md)
+### #is_/same_as :: [Ammonium_Nitrate.secret](/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.secret.md)
 

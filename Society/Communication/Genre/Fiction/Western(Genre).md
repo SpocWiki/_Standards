@@ -25,3 +25,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20(genre)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Western(Genre)](/_Standards/Society/Communication/Genre/Fiction/Western(Genre).md) 
+
+### #is_/same_as :: [Western(Genre).public](/_public/Society/Communication/Genre/Fiction/Western(Genre).public.md) 
+
+### #is_/same_as :: [Western(Genre).internal](/_internal/Society/Communication/Genre/Fiction/Western(Genre).internal.md) 
+
+### #is_/same_as :: [Western(Genre).protect](/_protect/Society/Communication/Genre/Fiction/Western(Genre).protect.md) 
+
+### #is_/same_as :: [Western(Genre).private](/_private/Society/Communication/Genre/Fiction/Western(Genre).private.md) 
+
+### #is_/same_as :: [Western(Genre).personal](/_personal/Society/Communication/Genre/Fiction/Western(Genre).personal.md) 
+
+### #is_/same_as :: [Western(Genre).secret](/_secret/Society/Communication/Genre/Fiction/Western(Genre).secret.md)
+

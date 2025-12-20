@@ -67,3 +67,22 @@ Krugosvet_article: nauka_i_tehnika/matematika/ZOLOTOE_SECHENIE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Golden%20ratio) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Golden_Ratio](/_Standards/Mathematics/Number/Constant/Golden_Ratio.md) 
+
+### #is_/same_as :: [Golden_Ratio.public](/_public/Mathematics/Number/Constant/Golden_Ratio.public.md) 
+
+### #is_/same_as :: [Golden_Ratio.internal](/_internal/Mathematics/Number/Constant/Golden_Ratio.internal.md) 
+
+### #is_/same_as :: [Golden_Ratio.protect](/_protect/Mathematics/Number/Constant/Golden_Ratio.protect.md) 
+
+### #is_/same_as :: [Golden_Ratio.private](/_private/Mathematics/Number/Constant/Golden_Ratio.private.md) 
+
+### #is_/same_as :: [Golden_Ratio.personal](/_personal/Mathematics/Number/Constant/Golden_Ratio.personal.md) 
+
+### #is_/same_as :: [Golden_Ratio.secret](/_secret/Mathematics/Number/Constant/Golden_Ratio.secret.md)
+

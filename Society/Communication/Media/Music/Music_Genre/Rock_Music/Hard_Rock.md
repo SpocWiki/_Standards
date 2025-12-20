@@ -34,3 +34,22 @@ native_label: Hard rock
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hard%20rock) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hard_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.md) 
+
+### #is_/same_as :: [Hard_Rock.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.public.md) 
+
+### #is_/same_as :: [Hard_Rock.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.internal.md) 
+
+### #is_/same_as :: [Hard_Rock.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.protect.md) 
+
+### #is_/same_as :: [Hard_Rock.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.private.md) 
+
+### #is_/same_as :: [Hard_Rock.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.personal.md) 
+
+### #is_/same_as :: [Hard_Rock.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.secret.md)
+

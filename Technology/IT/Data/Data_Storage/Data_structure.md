@@ -23,3 +23,22 @@ especially in Databases where Indices and BTrees are used.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20structure) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Data_structure](/_Standards/Technology/IT/Data/Data_Storage/Data_structure.md) 
+
+### #is_/same_as :: [Data_structure.public](/_public/Technology/IT/Data/Data_Storage/Data_structure.public.md) 
+
+### #is_/same_as :: [Data_structure.internal](/_internal/Technology/IT/Data/Data_Storage/Data_structure.internal.md) 
+
+### #is_/same_as :: [Data_structure.protect](/_protect/Technology/IT/Data/Data_Storage/Data_structure.protect.md) 
+
+### #is_/same_as :: [Data_structure.private](/_private/Technology/IT/Data/Data_Storage/Data_structure.private.md) 
+
+### #is_/same_as :: [Data_structure.personal](/_personal/Technology/IT/Data/Data_Storage/Data_structure.personal.md) 
+
+### #is_/same_as :: [Data_structure.secret](/_secret/Technology/IT/Data/Data_Storage/Data_structure.secret.md)
+

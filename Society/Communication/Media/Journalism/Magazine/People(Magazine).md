@@ -94,3 +94,22 @@ Reddit_username: peoplemagazine
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [People(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/People(Magazine).md) 
+
+### #is_/same_as :: [People(Magazine).public](/_public/Society/Communication/Media/Journalism/Magazine/People(Magazine).public.md) 
+
+### #is_/same_as :: [People(Magazine).internal](/_internal/Society/Communication/Media/Journalism/Magazine/People(Magazine).internal.md) 
+
+### #is_/same_as :: [People(Magazine).protect](/_protect/Society/Communication/Media/Journalism/Magazine/People(Magazine).protect.md) 
+
+### #is_/same_as :: [People(Magazine).private](/_private/Society/Communication/Media/Journalism/Magazine/People(Magazine).private.md) 
+
+### #is_/same_as :: [People(Magazine).personal](/_personal/Society/Communication/Media/Journalism/Magazine/People(Magazine).personal.md) 
+
+### #is_/same_as :: [People(Magazine).secret](/_secret/Society/Communication/Media/Journalism/Magazine/People(Magazine).secret.md)
+

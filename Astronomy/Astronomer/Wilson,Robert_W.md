@@ -69,3 +69,22 @@ date_of_birth: 1936-01-10T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Woodrow%20Wilson) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wilson,Robert_W](/_Standards/Astronomy/Astronomer/Wilson,Robert_W.md) 
+
+### #is_/same_as :: [Wilson,Robert_W.public](/_public/Astronomy/Astronomer/Wilson,Robert_W.public.md) 
+
+### #is_/same_as :: [Wilson,Robert_W.internal](/_internal/Astronomy/Astronomer/Wilson,Robert_W.internal.md) 
+
+### #is_/same_as :: [Wilson,Robert_W.protect](/_protect/Astronomy/Astronomer/Wilson,Robert_W.protect.md) 
+
+### #is_/same_as :: [Wilson,Robert_W.private](/_private/Astronomy/Astronomer/Wilson,Robert_W.private.md) 
+
+### #is_/same_as :: [Wilson,Robert_W.personal](/_personal/Astronomy/Astronomer/Wilson,Robert_W.personal.md) 
+
+### #is_/same_as :: [Wilson,Robert_W.secret](/_secret/Astronomy/Astronomer/Wilson,Robert_W.secret.md)
+

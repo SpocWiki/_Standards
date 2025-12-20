@@ -57,3 +57,22 @@ OpenStreetMap_tag_or_key:
 > [Wikipedia](https://en.wikipedia.org/wiki/Statue) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Statue](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue.md) 
+
+### #is_/same_as :: [Statue.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue.public.md) 
+
+### #is_/same_as :: [Statue.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue.internal.md) 
+
+### #is_/same_as :: [Statue.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue.protect.md) 
+
+### #is_/same_as :: [Statue.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue.private.md) 
+
+### #is_/same_as :: [Statue.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue.personal.md) 
+
+### #is_/same_as :: [Statue.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue.secret.md)
+

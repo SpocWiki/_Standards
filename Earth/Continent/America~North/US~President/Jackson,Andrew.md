@@ -56,3 +56,22 @@ type: private_note
 > Contemporary opinions about Jackson are often polarized. Supporters characterize him as a defender of democracy and the U.S. Constitution, while critics point to his reputation as a demagogue who ignored the law when it suited him. Scholarly rankings of U.S. presidents historically rated Jackson's presidency as above average. Since the late 20th century, his reputation declined, and in the 21st century his placement in rankings of presidents fell.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Andrew%20Jackson) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jackson,Andrew](/_Standards/Earth/Continent/America~North/US~President/Jackson,Andrew.md) 
+
+### #is_/same_as :: [Jackson,Andrew.public](/_public/Earth/Continent/America~North/US~President/Jackson,Andrew.public.md) 
+
+### #is_/same_as :: [Jackson,Andrew.internal](/_internal/Earth/Continent/America~North/US~President/Jackson,Andrew.internal.md) 
+
+### #is_/same_as :: [Jackson,Andrew.protect](/_protect/Earth/Continent/America~North/US~President/Jackson,Andrew.protect.md) 
+
+### #is_/same_as :: [Jackson,Andrew.private](/_private/Earth/Continent/America~North/US~President/Jackson,Andrew.private.md) 
+
+### #is_/same_as :: [Jackson,Andrew.personal](/_personal/Earth/Continent/America~North/US~President/Jackson,Andrew.personal.md) 
+
+### #is_/same_as :: [Jackson,Andrew.secret](/_secret/Earth/Continent/America~North/US~President/Jackson,Andrew.secret.md)
+

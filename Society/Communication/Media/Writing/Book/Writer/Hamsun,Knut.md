@@ -146,17 +146,17 @@ work_period_start_: 1877-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamsun,Knut](/_Standards/Society/Communication/Media/Writing/Book/Author/Hamsun,Knut.md) 
+### #is_/same_as :: [Hamsun,Knut](/_Standards/Society/Communication/Media/Writing/Book/Writer/Hamsun,Knut.md) 
 
-### #is_/same_as :: [Hamsun,Knut.public](/_public/Society/Communication/Media/Writing/Book/Author/Hamsun,Knut.public.md) 
+### #is_/same_as :: [Hamsun,Knut.public](/_public/Society/Communication/Media/Writing/Book/Writer/Hamsun,Knut.public.md) 
 
-### #is_/same_as :: [Hamsun,Knut.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Hamsun,Knut.internal.md) 
+### #is_/same_as :: [Hamsun,Knut.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Hamsun,Knut.internal.md) 
 
-### #is_/same_as :: [Hamsun,Knut.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Hamsun,Knut.protect.md) 
+### #is_/same_as :: [Hamsun,Knut.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Hamsun,Knut.protect.md) 
 
-### #is_/same_as :: [Hamsun,Knut.private](/_private/Society/Communication/Media/Writing/Book/Author/Hamsun,Knut.private.md) 
+### #is_/same_as :: [Hamsun,Knut.private](/_private/Society/Communication/Media/Writing/Book/Writer/Hamsun,Knut.private.md) 
 
-### #is_/same_as :: [Hamsun,Knut.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Hamsun,Knut.personal.md) 
+### #is_/same_as :: [Hamsun,Knut.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Hamsun,Knut.personal.md) 
 
-### #is_/same_as :: [Hamsun,Knut.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Hamsun,Knut.secret.md)
+### #is_/same_as :: [Hamsun,Knut.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Hamsun,Knut.secret.md)
 

@@ -100,3 +100,22 @@ Libris_URI: 64jlmv9q3n1735f
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Keats) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Keats,John](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.md) 
+
+### #is_/same_as :: [Keats,John.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.public.md) 
+
+### #is_/same_as :: [Keats,John.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.internal.md) 
+
+### #is_/same_as :: [Keats,John.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.protect.md) 
+
+### #is_/same_as :: [Keats,John.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.private.md) 
+
+### #is_/same_as :: [Keats,John.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.personal.md) 
+
+### #is_/same_as :: [Keats,John.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.secret.md)
+

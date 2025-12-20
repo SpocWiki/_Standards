@@ -51,3 +51,22 @@ IMDb_keyword: nunchaku
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nunchaku) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nunchaku](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.md) 
+
+### #is_/same_as :: [Nunchaku.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.public.md) 
+
+### #is_/same_as :: [Nunchaku.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.internal.md) 
+
+### #is_/same_as :: [Nunchaku.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.protect.md) 
+
+### #is_/same_as :: [Nunchaku.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.private.md) 
+
+### #is_/same_as :: [Nunchaku.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.personal.md) 
+
+### #is_/same_as :: [Nunchaku.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.secret.md)
+

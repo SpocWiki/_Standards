@@ -154,17 +154,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_sports,16000501]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sport](/_Standards/Society/Communication/Media/Performing_Arts/Sport.md) 
+### #is_/same_as :: [High-Performance_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport.md) 
 
-### #is_/same_as :: [Sport.public](/_public/Society/Communication/Media/Performing_Arts/Sport.public.md) 
+### #is_/same_as :: [High-Performance_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport.public.md) 
 
-### #is_/same_as :: [Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport.internal.md) 
+### #is_/same_as :: [High-Performance_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport.internal.md) 
 
-### #is_/same_as :: [Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport.protect.md) 
+### #is_/same_as :: [High-Performance_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport.protect.md) 
 
-### #is_/same_as :: [Sport.private](/_private/Society/Communication/Media/Performing_Arts/Sport.private.md) 
+### #is_/same_as :: [High-Performance_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport.private.md) 
 
-### #is_/same_as :: [Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport.personal.md) 
+### #is_/same_as :: [High-Performance_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport.personal.md) 
 
-### #is_/same_as :: [Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport.secret.md)
+### #is_/same_as :: [High-Performance_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport.secret.md)
 

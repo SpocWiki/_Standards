@@ -18,3 +18,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Corrosion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Corrosion](/_Standards/Chemistry/Chemical_Reaction/Corrosion.md) 
+
+### #is_/same_as :: [Corrosion.public](/_public/Chemistry/Chemical_Reaction/Corrosion.public.md) 
+
+### #is_/same_as :: [Corrosion.internal](/_internal/Chemistry/Chemical_Reaction/Corrosion.internal.md) 
+
+### #is_/same_as :: [Corrosion.protect](/_protect/Chemistry/Chemical_Reaction/Corrosion.protect.md) 
+
+### #is_/same_as :: [Corrosion.private](/_private/Chemistry/Chemical_Reaction/Corrosion.private.md) 
+
+### #is_/same_as :: [Corrosion.personal](/_personal/Chemistry/Chemical_Reaction/Corrosion.personal.md) 
+
+### #is_/same_as :: [Corrosion.secret](/_secret/Chemistry/Chemical_Reaction/Corrosion.secret.md)
+

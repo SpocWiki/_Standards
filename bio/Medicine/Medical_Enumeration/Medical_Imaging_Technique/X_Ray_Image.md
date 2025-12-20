@@ -40,17 +40,17 @@ X-ray imaging.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [x_ray](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.md) 
+### #is_/same_as :: [X_Ray_Image](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/X_Ray_Image.md) 
 
-### #is_/same_as :: [x_ray.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.public.md) 
+### #is_/same_as :: [X_Ray_Image.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/X_Ray_Image.public.md) 
 
-### #is_/same_as :: [x_ray.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.internal.md) 
+### #is_/same_as :: [X_Ray_Image.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/X_Ray_Image.internal.md) 
 
-### #is_/same_as :: [x_ray.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.protect.md) 
+### #is_/same_as :: [X_Ray_Image.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/X_Ray_Image.protect.md) 
 
-### #is_/same_as :: [x_ray.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.private.md) 
+### #is_/same_as :: [X_Ray_Image.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/X_Ray_Image.private.md) 
 
-### #is_/same_as :: [x_ray.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.personal.md) 
+### #is_/same_as :: [X_Ray_Image.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/X_Ray_Image.personal.md) 
 
-### #is_/same_as :: [x_ray.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.secret.md)
+### #is_/same_as :: [X_Ray_Image.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/X_Ray_Image.secret.md)
 

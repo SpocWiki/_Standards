@@ -95,3 +95,22 @@ coordinate_location: Point(-8.543888888 42.880561111)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Camino%20de%20Santiago) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Way_of_Saint_James](/_Standards/Philosophy/Metaphysic/Religion/Pilgrimage/Way_of_Saint_James.md) 
+
+### #is_/same_as :: [Way_of_Saint_James.public](/_public/Philosophy/Metaphysic/Religion/Pilgrimage/Way_of_Saint_James.public.md) 
+
+### #is_/same_as :: [Way_of_Saint_James.internal](/_internal/Philosophy/Metaphysic/Religion/Pilgrimage/Way_of_Saint_James.internal.md) 
+
+### #is_/same_as :: [Way_of_Saint_James.protect](/_protect/Philosophy/Metaphysic/Religion/Pilgrimage/Way_of_Saint_James.protect.md) 
+
+### #is_/same_as :: [Way_of_Saint_James.private](/_private/Philosophy/Metaphysic/Religion/Pilgrimage/Way_of_Saint_James.private.md) 
+
+### #is_/same_as :: [Way_of_Saint_James.personal](/_personal/Philosophy/Metaphysic/Religion/Pilgrimage/Way_of_Saint_James.personal.md) 
+
+### #is_/same_as :: [Way_of_Saint_James.secret](/_secret/Philosophy/Metaphysic/Religion/Pilgrimage/Way_of_Saint_James.secret.md)
+

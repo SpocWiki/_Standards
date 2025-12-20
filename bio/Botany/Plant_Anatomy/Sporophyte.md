@@ -25,3 +25,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Alternation%20of%20gen
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sporophyte)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sporophyte](/_Standards/bio/Botany/Plant_Anatomy/Sporophyte.md) 
+
+### #is_/same_as :: [Sporophyte.public](/_public/bio/Botany/Plant_Anatomy/Sporophyte.public.md) 
+
+### #is_/same_as :: [Sporophyte.internal](/_internal/bio/Botany/Plant_Anatomy/Sporophyte.internal.md) 
+
+### #is_/same_as :: [Sporophyte.protect](/_protect/bio/Botany/Plant_Anatomy/Sporophyte.protect.md) 
+
+### #is_/same_as :: [Sporophyte.private](/_private/bio/Botany/Plant_Anatomy/Sporophyte.private.md) 
+
+### #is_/same_as :: [Sporophyte.personal](/_personal/bio/Botany/Plant_Anatomy/Sporophyte.personal.md) 
+
+### #is_/same_as :: [Sporophyte.secret](/_secret/bio/Botany/Plant_Anatomy/Sporophyte.secret.md)
+

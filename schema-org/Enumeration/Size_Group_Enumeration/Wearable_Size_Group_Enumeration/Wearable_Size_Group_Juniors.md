@@ -42,17 +42,17 @@ Size group "Juniors" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_Group_Juniors](Wearable_Size_Group_Juniors.md) 
+### #is_/same_as :: [Wearable_Size_Group_Juniors](/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Juniors.md) 
 
-### #is_/same_as :: [wearable_size_group_juniors.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.public.md) 
+### #is_/same_as :: [Wearable_Size_Group_Juniors.public](/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Juniors.public.md) 
 
-### #is_/same_as :: [wearable_size_group_juniors.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.internal.md) 
+### #is_/same_as :: [Wearable_Size_Group_Juniors.internal](/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Juniors.internal.md) 
 
-### #is_/same_as :: [wearable_size_group_juniors.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.protect.md) 
+### #is_/same_as :: [Wearable_Size_Group_Juniors.protect](/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Juniors.protect.md) 
 
-### #is_/same_as :: [wearable_size_group_juniors.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.private.md) 
+### #is_/same_as :: [Wearable_Size_Group_Juniors.private](/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Juniors.private.md) 
 
-### #is_/same_as :: [wearable_size_group_juniors.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.personal.md) 
+### #is_/same_as :: [Wearable_Size_Group_Juniors.personal](/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Juniors.personal.md) 
 
-### #is_/same_as :: [wearable_size_group_juniors.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.secret.md)
+### #is_/same_as :: [Wearable_Size_Group_Juniors.secret](/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Juniors.secret.md)
 

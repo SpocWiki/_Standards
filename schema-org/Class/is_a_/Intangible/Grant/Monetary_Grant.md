@@ -41,17 +41,17 @@ A monetary grant.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [monetary_grant](/_Standards/schema-org/Class/is_a_/Intangible/grant/monetary_grant.md) 
+### #is_/same_as :: [Monetary_Grant](/_Standards/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.md) 
 
-### #is_/same_as :: [monetary_grant.public](/_public/schema-org/Class/is_a_/Intangible/grant/monetary_grant.public.md) 
+### #is_/same_as :: [Monetary_Grant.public](/_public/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.public.md) 
 
-### #is_/same_as :: [monetary_grant.internal](/_internal/schema-org/Class/is_a_/Intangible/grant/monetary_grant.internal.md) 
+### #is_/same_as :: [Monetary_Grant.internal](/_internal/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.internal.md) 
 
-### #is_/same_as :: [monetary_grant.protect](/_protect/schema-org/Class/is_a_/Intangible/grant/monetary_grant.protect.md) 
+### #is_/same_as :: [Monetary_Grant.protect](/_protect/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.protect.md) 
 
-### #is_/same_as :: [monetary_grant.private](/_private/schema-org/Class/is_a_/Intangible/grant/monetary_grant.private.md) 
+### #is_/same_as :: [Monetary_Grant.private](/_private/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.private.md) 
 
-### #is_/same_as :: [monetary_grant.personal](/_personal/schema-org/Class/is_a_/Intangible/grant/monetary_grant.personal.md) 
+### #is_/same_as :: [Monetary_Grant.personal](/_personal/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.personal.md) 
 
-### #is_/same_as :: [monetary_grant.secret](/_secret/schema-org/Class/is_a_/Intangible/grant/monetary_grant.secret.md)
+### #is_/same_as :: [Monetary_Grant.secret](/_secret/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.secret.md)
 

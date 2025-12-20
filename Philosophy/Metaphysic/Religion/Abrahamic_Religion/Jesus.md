@@ -358,3 +358,22 @@ ISNI: "0000000120370699"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jesus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jesus](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jesus.md) 
+
+### #is_/same_as :: [Jesus.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jesus.public.md) 
+
+### #is_/same_as :: [Jesus.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jesus.internal.md) 
+
+### #is_/same_as :: [Jesus.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jesus.protect.md) 
+
+### #is_/same_as :: [Jesus.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jesus.private.md) 
+
+### #is_/same_as :: [Jesus.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jesus.personal.md) 
+
+### #is_/same_as :: [Jesus.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jesus.secret.md)
+

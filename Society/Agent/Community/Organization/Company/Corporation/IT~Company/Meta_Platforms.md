@@ -38,17 +38,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meta_Platforms](Meta_Platforms.md) 
+### #is_/same_as :: [Meta_Platforms](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.md) 
 
-### #is_/same_as :: [Meta_Platforms.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms.public.md) 
+### #is_/same_as :: [Meta_Platforms.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.public.md) 
 
-### #is_/same_as :: [Meta_Platforms.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms.internal.md) 
+### #is_/same_as :: [Meta_Platforms.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.internal.md) 
 
-### #is_/same_as :: [Meta_Platforms.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms.protect.md) 
+### #is_/same_as :: [Meta_Platforms.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.protect.md) 
 
-### #is_/same_as :: [Meta_Platforms.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms.private.md) 
+### #is_/same_as :: [Meta_Platforms.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.private.md) 
 
-### #is_/same_as :: [Meta_Platforms.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms.personal.md) 
+### #is_/same_as :: [Meta_Platforms.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.personal.md) 
 
-### #is_/same_as :: [Meta_Platforms.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms.secret.md)
+### #is_/same_as :: [Meta_Platforms.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms.secret.md)
 

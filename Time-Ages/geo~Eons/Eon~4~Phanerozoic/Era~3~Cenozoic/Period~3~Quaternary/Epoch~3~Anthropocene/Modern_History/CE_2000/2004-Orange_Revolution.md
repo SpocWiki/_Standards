@@ -39,3 +39,22 @@ Commons_category: Orange Revolution
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orange%20Revolution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [2004-Orange_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.md) 
+
+### #is_/same_as :: [2004-Orange_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.public.md) 
+
+### #is_/same_as :: [2004-Orange_Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.internal.md) 
+
+### #is_/same_as :: [2004-Orange_Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.protect.md) 
+
+### #is_/same_as :: [2004-Orange_Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.private.md) 
+
+### #is_/same_as :: [2004-Orange_Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.personal.md) 
+
+### #is_/same_as :: [2004-Orange_Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.secret.md)
+

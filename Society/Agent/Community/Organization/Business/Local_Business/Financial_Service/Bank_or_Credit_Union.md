@@ -39,17 +39,17 @@ Bank or credit union.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bank_or_Credit_Union](Bank_or_Credit_Union.md) 
+### #is_/same_as :: [Bank_or_Credit_Union](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.md) 
 
-### #is_/same_as :: [Bank_or_Credit_Union.public](/_public/Society/Organization/Local_Business/Financial_Service/Bank_or_Credit_Union.public.md) 
+### #is_/same_as :: [Bank_or_Credit_Union.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.public.md) 
 
-### #is_/same_as :: [Bank_or_Credit_Union.internal](/_internal/Society/Organization/Local_Business/Financial_Service/Bank_or_Credit_Union.internal.md) 
+### #is_/same_as :: [Bank_or_Credit_Union.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.internal.md) 
 
-### #is_/same_as :: [Bank_or_Credit_Union.protect](/_protect/Society/Organization/Local_Business/Financial_Service/Bank_or_Credit_Union.protect.md) 
+### #is_/same_as :: [Bank_or_Credit_Union.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.protect.md) 
 
-### #is_/same_as :: [Bank_or_Credit_Union.private](/_private/Society/Organization/Local_Business/Financial_Service/Bank_or_Credit_Union.private.md) 
+### #is_/same_as :: [Bank_or_Credit_Union.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.private.md) 
 
-### #is_/same_as :: [Bank_or_Credit_Union.personal](/_personal/Society/Organization/Local_Business/Financial_Service/Bank_or_Credit_Union.personal.md) 
+### #is_/same_as :: [Bank_or_Credit_Union.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.personal.md) 
 
-### #is_/same_as :: [Bank_or_Credit_Union.secret](/_secret/Society/Organization/Local_Business/Financial_Service/Bank_or_Credit_Union.secret.md)
+### #is_/same_as :: [Bank_or_Credit_Union.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union.secret.md)
 

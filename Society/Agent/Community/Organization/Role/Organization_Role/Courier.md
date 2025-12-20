@@ -48,3 +48,22 @@ Commons_category: Couriers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Courier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Courier](/_Standards/Society/Agent/Community/Organization/Role/Organization_Role/Courier.md) 
+
+### #is_/same_as :: [Courier.public](/_public/Society/Agent/Community/Organization/Role/Organization_Role/Courier.public.md) 
+
+### #is_/same_as :: [Courier.internal](/_internal/Society/Agent/Community/Organization/Role/Organization_Role/Courier.internal.md) 
+
+### #is_/same_as :: [Courier.protect](/_protect/Society/Agent/Community/Organization/Role/Organization_Role/Courier.protect.md) 
+
+### #is_/same_as :: [Courier.private](/_private/Society/Agent/Community/Organization/Role/Organization_Role/Courier.private.md) 
+
+### #is_/same_as :: [Courier.personal](/_personal/Society/Agent/Community/Organization/Role/Organization_Role/Courier.personal.md) 
+
+### #is_/same_as :: [Courier.secret](/_secret/Society/Agent/Community/Organization/Role/Organization_Role/Courier.secret.md)
+

@@ -64,3 +64,22 @@ Gujarati_Vishwakosh_entry: આત્મા
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soul) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soul](/_Standards/Philosophy/Metaphysic/Soul.md) 
+
+### #is_/same_as :: [Soul.public](/_public/Philosophy/Metaphysic/Soul.public.md) 
+
+### #is_/same_as :: [Soul.internal](/_internal/Philosophy/Metaphysic/Soul.internal.md) 
+
+### #is_/same_as :: [Soul.protect](/_protect/Philosophy/Metaphysic/Soul.protect.md) 
+
+### #is_/same_as :: [Soul.private](/_private/Philosophy/Metaphysic/Soul.private.md) 
+
+### #is_/same_as :: [Soul.personal](/_personal/Philosophy/Metaphysic/Soul.personal.md) 
+
+### #is_/same_as :: [Soul.secret](/_secret/Philosophy/Metaphysic/Soul.secret.md)
+

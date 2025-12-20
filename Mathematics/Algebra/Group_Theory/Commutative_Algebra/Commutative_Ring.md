@@ -23,3 +23,22 @@ has_id_wikidata: Q858656
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Commutative%20ring) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Commutative_Ring](/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.md) 
+
+### #is_/same_as :: [Commutative_Ring.public](/_public/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.public.md) 
+
+### #is_/same_as :: [Commutative_Ring.internal](/_internal/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.internal.md) 
+
+### #is_/same_as :: [Commutative_Ring.protect](/_protect/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.protect.md) 
+
+### #is_/same_as :: [Commutative_Ring.private](/_private/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.private.md) 
+
+### #is_/same_as :: [Commutative_Ring.personal](/_personal/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.personal.md) 
+
+### #is_/same_as :: [Commutative_Ring.secret](/_secret/Mathematics/Algebra/Group_Theory/Commutative_Algebra/Commutative_Ring.secret.md)
+

@@ -35,3 +35,22 @@ Commons_category: Traumatology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Traumatology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Traumatology](/_Standards/bio/Medicine/Medical_Condition/Injury/Traumatology.md) 
+
+### #is_/same_as :: [Traumatology.public](/_public/bio/Medicine/Medical_Condition/Injury/Traumatology.public.md) 
+
+### #is_/same_as :: [Traumatology.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Traumatology.internal.md) 
+
+### #is_/same_as :: [Traumatology.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Traumatology.protect.md) 
+
+### #is_/same_as :: [Traumatology.private](/_private/bio/Medicine/Medical_Condition/Injury/Traumatology.private.md) 
+
+### #is_/same_as :: [Traumatology.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Traumatology.personal.md) 
+
+### #is_/same_as :: [Traumatology.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Traumatology.secret.md)
+

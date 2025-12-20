@@ -131,3 +131,22 @@ ISNI: "0000000073586496"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitus%20Bering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bering,Vitus](/_Standards/Earth/Explorer/Age_of_Discovery/Bering,Vitus.md) 
+
+### #is_/same_as :: [Bering,Vitus.public](/_public/Earth/Explorer/Age_of_Discovery/Bering,Vitus.public.md) 
+
+### #is_/same_as :: [Bering,Vitus.internal](/_internal/Earth/Explorer/Age_of_Discovery/Bering,Vitus.internal.md) 
+
+### #is_/same_as :: [Bering,Vitus.protect](/_protect/Earth/Explorer/Age_of_Discovery/Bering,Vitus.protect.md) 
+
+### #is_/same_as :: [Bering,Vitus.private](/_private/Earth/Explorer/Age_of_Discovery/Bering,Vitus.private.md) 
+
+### #is_/same_as :: [Bering,Vitus.personal](/_personal/Earth/Explorer/Age_of_Discovery/Bering,Vitus.personal.md) 
+
+### #is_/same_as :: [Bering,Vitus.secret](/_secret/Earth/Explorer/Age_of_Discovery/Bering,Vitus.secret.md)
+

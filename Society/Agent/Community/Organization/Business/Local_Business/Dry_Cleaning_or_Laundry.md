@@ -39,17 +39,17 @@ A dry-cleaning business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dry_Cleaning_or_Laundry](Dry_Cleaning_or_Laundry.md) 
+### #is_/same_as :: [Dry_Cleaning_or_Laundry](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Dry_Cleaning_or_Laundry.md) 
 
-### #is_/same_as :: [Dry_Cleaning_or_Laundry.public](/_public/Society/Organization/Local_Business/Dry_Cleaning_or_Laundry.public.md) 
+### #is_/same_as :: [Dry_Cleaning_or_Laundry.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Dry_Cleaning_or_Laundry.public.md) 
 
-### #is_/same_as :: [Dry_Cleaning_or_Laundry.internal](/_internal/Society/Organization/Local_Business/Dry_Cleaning_or_Laundry.internal.md) 
+### #is_/same_as :: [Dry_Cleaning_or_Laundry.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Dry_Cleaning_or_Laundry.internal.md) 
 
-### #is_/same_as :: [Dry_Cleaning_or_Laundry.protect](/_protect/Society/Organization/Local_Business/Dry_Cleaning_or_Laundry.protect.md) 
+### #is_/same_as :: [Dry_Cleaning_or_Laundry.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Dry_Cleaning_or_Laundry.protect.md) 
 
-### #is_/same_as :: [Dry_Cleaning_or_Laundry.private](/_private/Society/Organization/Local_Business/Dry_Cleaning_or_Laundry.private.md) 
+### #is_/same_as :: [Dry_Cleaning_or_Laundry.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Dry_Cleaning_or_Laundry.private.md) 
 
-### #is_/same_as :: [Dry_Cleaning_or_Laundry.personal](/_personal/Society/Organization/Local_Business/Dry_Cleaning_or_Laundry.personal.md) 
+### #is_/same_as :: [Dry_Cleaning_or_Laundry.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Dry_Cleaning_or_Laundry.personal.md) 
 
-### #is_/same_as :: [Dry_Cleaning_or_Laundry.secret](/_secret/Society/Organization/Local_Business/Dry_Cleaning_or_Laundry.secret.md)
+### #is_/same_as :: [Dry_Cleaning_or_Laundry.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Dry_Cleaning_or_Laundry.secret.md)
 

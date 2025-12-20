@@ -75,3 +75,22 @@ Linguist_List_code: urlc
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uralic%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LangFamily-Uralic](/_Standards/Language/Language_Family/LangFamily-Uralic.md) 
+
+### #is_/same_as :: [LangFamily-Uralic.public](/_public/Language/Language_Family/LangFamily-Uralic.public.md) 
+
+### #is_/same_as :: [LangFamily-Uralic.internal](/_internal/Language/Language_Family/LangFamily-Uralic.internal.md) 
+
+### #is_/same_as :: [LangFamily-Uralic.protect](/_protect/Language/Language_Family/LangFamily-Uralic.protect.md) 
+
+### #is_/same_as :: [LangFamily-Uralic.private](/_private/Language/Language_Family/LangFamily-Uralic.private.md) 
+
+### #is_/same_as :: [LangFamily-Uralic.personal](/_personal/Language/Language_Family/LangFamily-Uralic.personal.md) 
+
+### #is_/same_as :: [LangFamily-Uralic.secret](/_secret/Language/Language_Family/LangFamily-Uralic.secret.md)
+

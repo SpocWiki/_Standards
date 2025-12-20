@@ -24,3 +24,22 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2011.%20Televis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moon%20landing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moon_Landing](/_Standards/Earth/Satellite/Moon/Moon_Landing.md) 
+
+### #is_/same_as :: [Moon_Landing.public](/_public/Earth/Satellite/Moon/Moon_Landing.public.md) 
+
+### #is_/same_as :: [Moon_Landing.internal](/_internal/Earth/Satellite/Moon/Moon_Landing.internal.md) 
+
+### #is_/same_as :: [Moon_Landing.protect](/_protect/Earth/Satellite/Moon/Moon_Landing.protect.md) 
+
+### #is_/same_as :: [Moon_Landing.private](/_private/Earth/Satellite/Moon/Moon_Landing.private.md) 
+
+### #is_/same_as :: [Moon_Landing.personal](/_personal/Earth/Satellite/Moon/Moon_Landing.personal.md) 
+
+### #is_/same_as :: [Moon_Landing.secret](/_secret/Earth/Satellite/Moon/Moon_Landing.secret.md)
+

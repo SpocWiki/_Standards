@@ -90,3 +90,22 @@ subreddit: ManufacturingPorn
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manufacturing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Manufacturing](/_Standards/Society/Economics/Industry/Manufacturing.md) 
+
+### #is_/same_as :: [Manufacturing.public](/_public/Society/Economics/Industry/Manufacturing.public.md) 
+
+### #is_/same_as :: [Manufacturing.internal](/_internal/Society/Economics/Industry/Manufacturing.internal.md) 
+
+### #is_/same_as :: [Manufacturing.protect](/_protect/Society/Economics/Industry/Manufacturing.protect.md) 
+
+### #is_/same_as :: [Manufacturing.private](/_private/Society/Economics/Industry/Manufacturing.private.md) 
+
+### #is_/same_as :: [Manufacturing.personal](/_personal/Society/Economics/Industry/Manufacturing.personal.md) 
+
+### #is_/same_as :: [Manufacturing.secret](/_secret/Society/Economics/Industry/Manufacturing.secret.md)
+

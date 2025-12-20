@@ -40,17 +40,17 @@ OrderStatus representing availability of an order for pickup.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Pickup_Available](Order_Pickup_Available.md) 
+### #is_/same_as :: [Order_Pickup_Available](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.md) 
 
-### #is_/same_as :: [order_pickup_available.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.public.md) 
+### #is_/same_as :: [Order_Pickup_Available.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.public.md) 
 
-### #is_/same_as :: [order_pickup_available.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.internal.md) 
+### #is_/same_as :: [Order_Pickup_Available.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.internal.md) 
 
-### #is_/same_as :: [order_pickup_available.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.protect.md) 
+### #is_/same_as :: [Order_Pickup_Available.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.protect.md) 
 
-### #is_/same_as :: [order_pickup_available.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.private.md) 
+### #is_/same_as :: [Order_Pickup_Available.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.private.md) 
 
-### #is_/same_as :: [order_pickup_available.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.personal.md) 
+### #is_/same_as :: [Order_Pickup_Available.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.personal.md) 
 
-### #is_/same_as :: [order_pickup_available.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.secret.md)
+### #is_/same_as :: [Order_Pickup_Available.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.secret.md)
 

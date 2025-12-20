@@ -118,3 +118,22 @@ Libris_URI: xv8bd78g15kpl3r
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Hermite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hermite,Charles](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.md) 
+
+### #is_/same_as :: [Hermite,Charles.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.public.md) 
+
+### #is_/same_as :: [Hermite,Charles.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.internal.md) 
+
+### #is_/same_as :: [Hermite,Charles.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.protect.md) 
+
+### #is_/same_as :: [Hermite,Charles.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.private.md) 
+
+### #is_/same_as :: [Hermite,Charles.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.personal.md) 
+
+### #is_/same_as :: [Hermite,Charles.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.secret.md)
+

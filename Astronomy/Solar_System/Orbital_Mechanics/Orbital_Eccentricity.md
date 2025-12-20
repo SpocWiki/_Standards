@@ -40,3 +40,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Animation%20of%20Orbit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbital%20eccentricity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orbital_Eccentricity](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.md) 
+
+### #is_/same_as :: [Orbital_Eccentricity.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.public.md) 
+
+### #is_/same_as :: [Orbital_Eccentricity.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.internal.md) 
+
+### #is_/same_as :: [Orbital_Eccentricity.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.protect.md) 
+
+### #is_/same_as :: [Orbital_Eccentricity.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.private.md) 
+
+### #is_/same_as :: [Orbital_Eccentricity.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.personal.md) 
+
+### #is_/same_as :: [Orbital_Eccentricity.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.secret.md)
+

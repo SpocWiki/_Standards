@@ -25,3 +25,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fief) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fiefdom](/_Standards/Society/Politics/Government/Monarchy/Feudalism/Fiefdom.md) 
+
+### #is_/same_as :: [Fiefdom.public](/_public/Society/Politics/Government/Monarchy/Feudalism/Fiefdom.public.md) 
+
+### #is_/same_as :: [Fiefdom.internal](/_internal/Society/Politics/Government/Monarchy/Feudalism/Fiefdom.internal.md) 
+
+### #is_/same_as :: [Fiefdom.protect](/_protect/Society/Politics/Government/Monarchy/Feudalism/Fiefdom.protect.md) 
+
+### #is_/same_as :: [Fiefdom.private](/_private/Society/Politics/Government/Monarchy/Feudalism/Fiefdom.private.md) 
+
+### #is_/same_as :: [Fiefdom.personal](/_personal/Society/Politics/Government/Monarchy/Feudalism/Fiefdom.personal.md) 
+
+### #is_/same_as :: [Fiefdom.secret](/_secret/Society/Politics/Government/Monarchy/Feudalism/Fiefdom.secret.md)
+

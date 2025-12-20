@@ -50,3 +50,21 @@ OpenStreetMap_tag_or_key: Tag:reef=coral
 > Coral reefs deliver ecosystem services for tourism, fisheries and shoreline protection. The annual global economic value of coral reefs has been estimated at anywhere from US$30–375 billion (1997 and 2003 estimates) to US$2.7 trillion (a 2020 estimate) to US$9.9 trillion (a 2014 estimate).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coral%20reef)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coral_Reef](/_Standards/Earth/Climate/Biosphere/Biomes/Coral_Reef.md) 
+
+### #is_/same_as :: [Coral_Reef.public](/_public/Earth/Climate/Biosphere/Biomes/Coral_Reef.public.md) 
+
+### #is_/same_as :: [Coral_Reef.internal](/_internal/Earth/Climate/Biosphere/Biomes/Coral_Reef.internal.md) 
+
+### #is_/same_as :: [Coral_Reef.protect](/_protect/Earth/Climate/Biosphere/Biomes/Coral_Reef.protect.md) 
+
+### #is_/same_as :: [Coral_Reef.private](/_private/Earth/Climate/Biosphere/Biomes/Coral_Reef.private.md) 
+
+### #is_/same_as :: [Coral_Reef.personal](/_personal/Earth/Climate/Biosphere/Biomes/Coral_Reef.personal.md) 
+
+### #is_/same_as :: [Coral_Reef.secret](/_secret/Earth/Climate/Biosphere/Biomes/Coral_Reef.secret.md)
+

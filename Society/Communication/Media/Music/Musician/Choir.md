@@ -58,3 +58,22 @@ Commons_category: Choirs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Choir) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Choir](/_Standards/Society/Communication/Media/Music/Musician/Choir.md) 
+
+### #is_/same_as :: [Choir.public](/_public/Society/Communication/Media/Music/Musician/Choir.public.md) 
+
+### #is_/same_as :: [Choir.internal](/_internal/Society/Communication/Media/Music/Musician/Choir.internal.md) 
+
+### #is_/same_as :: [Choir.protect](/_protect/Society/Communication/Media/Music/Musician/Choir.protect.md) 
+
+### #is_/same_as :: [Choir.private](/_private/Society/Communication/Media/Music/Musician/Choir.private.md) 
+
+### #is_/same_as :: [Choir.personal](/_personal/Society/Communication/Media/Music/Musician/Choir.personal.md) 
+
+### #is_/same_as :: [Choir.secret](/_secret/Society/Communication/Media/Music/Musician/Choir.secret.md)
+

@@ -51,3 +51,22 @@ type: private_note
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lyndon%20B.%20Johnson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Johnson,Lyndon_B](/_Standards/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.md) 
+
+### #is_/same_as :: [Johnson,Lyndon_B.public](/_public/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.public.md) 
+
+### #is_/same_as :: [Johnson,Lyndon_B.internal](/_internal/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.internal.md) 
+
+### #is_/same_as :: [Johnson,Lyndon_B.protect](/_protect/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.protect.md) 
+
+### #is_/same_as :: [Johnson,Lyndon_B.private](/_private/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.private.md) 
+
+### #is_/same_as :: [Johnson,Lyndon_B.personal](/_personal/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.personal.md) 
+
+### #is_/same_as :: [Johnson,Lyndon_B.secret](/_secret/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.secret.md)
+

@@ -140,3 +140,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MAT_TEREZA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mother%20Teresa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mother_Teresa](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mother_Teresa.md) 
+
+### #is_/same_as :: [Mother_Teresa.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mother_Teresa.public.md) 
+
+### #is_/same_as :: [Mother_Teresa.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mother_Teresa.internal.md) 
+
+### #is_/same_as :: [Mother_Teresa.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mother_Teresa.protect.md) 
+
+### #is_/same_as :: [Mother_Teresa.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mother_Teresa.private.md) 
+
+### #is_/same_as :: [Mother_Teresa.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mother_Teresa.personal.md) 
+
+### #is_/same_as :: [Mother_Teresa.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mother_Teresa.secret.md)
+

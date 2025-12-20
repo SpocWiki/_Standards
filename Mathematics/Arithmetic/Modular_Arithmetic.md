@@ -48,3 +48,22 @@ Commons_category: Modular arithmetic
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modular%20arithmetic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modular_Arithmetic](/_Standards/Mathematics/Arithmetic/Modular_Arithmetic.md) 
+
+### #is_/same_as :: [Modular_Arithmetic.public](/_public/Mathematics/Arithmetic/Modular_Arithmetic.public.md) 
+
+### #is_/same_as :: [Modular_Arithmetic.internal](/_internal/Mathematics/Arithmetic/Modular_Arithmetic.internal.md) 
+
+### #is_/same_as :: [Modular_Arithmetic.protect](/_protect/Mathematics/Arithmetic/Modular_Arithmetic.protect.md) 
+
+### #is_/same_as :: [Modular_Arithmetic.private](/_private/Mathematics/Arithmetic/Modular_Arithmetic.private.md) 
+
+### #is_/same_as :: [Modular_Arithmetic.personal](/_personal/Mathematics/Arithmetic/Modular_Arithmetic.personal.md) 
+
+### #is_/same_as :: [Modular_Arithmetic.secret](/_secret/Mathematics/Arithmetic/Modular_Arithmetic.secret.md)
+

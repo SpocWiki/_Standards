@@ -57,3 +57,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Displacement.gif
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Engine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Engine](/_Standards/Technology/Engine.md) 
+
+### #is_/same_as :: [Engine.public](/_public/Technology/Engine.public.md) 
+
+### #is_/same_as :: [Engine.internal](/_internal/Technology/Engine.internal.md) 
+
+### #is_/same_as :: [Engine.protect](/_protect/Technology/Engine.protect.md) 
+
+### #is_/same_as :: [Engine.private](/_private/Technology/Engine.private.md) 
+
+### #is_/same_as :: [Engine.personal](/_personal/Technology/Engine.personal.md) 
+
+### #is_/same_as :: [Engine.secret](/_secret/Technology/Engine.secret.md)
+

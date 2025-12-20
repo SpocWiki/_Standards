@@ -119,3 +119,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Prostitution%20-%20a%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prostitution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prostitution](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.md) 
+
+### #is_/same_as :: [Prostitution.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.public.md) 
+
+### #is_/same_as :: [Prostitution.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.internal.md) 
+
+### #is_/same_as :: [Prostitution.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.protect.md) 
+
+### #is_/same_as :: [Prostitution.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.private.md) 
+
+### #is_/same_as :: [Prostitution.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.personal.md) 
+
+### #is_/same_as :: [Prostitution.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.secret.md)
+

@@ -54,3 +54,21 @@ native_label: Mozzarella
 > Mozzarella is used for most types of pizza and several pasta dishes or served with sliced tomatoes and basil in Caprese salad.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mozzarella)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mozzarella](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.md) 
+
+### #is_/same_as :: [Mozzarella.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.public.md) 
+
+### #is_/same_as :: [Mozzarella.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.internal.md) 
+
+### #is_/same_as :: [Mozzarella.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.protect.md) 
+
+### #is_/same_as :: [Mozzarella.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.private.md) 
+
+### #is_/same_as :: [Mozzarella.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.personal.md) 
+
+### #is_/same_as :: [Mozzarella.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.secret.md)
+

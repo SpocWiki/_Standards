@@ -112,3 +112,22 @@ ISNI: 000000011611940X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theodoric%20the%20Great) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0454-Theoderic_the_Great+0526](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.md) 
+
+### #is_/same_as :: [0454-Theoderic_the_Great+0526.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.public.md) 
+
+### #is_/same_as :: [0454-Theoderic_the_Great+0526.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.internal.md) 
+
+### #is_/same_as :: [0454-Theoderic_the_Great+0526.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.protect.md) 
+
+### #is_/same_as :: [0454-Theoderic_the_Great+0526.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.private.md) 
+
+### #is_/same_as :: [0454-Theoderic_the_Great+0526.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.personal.md) 
+
+### #is_/same_as :: [0454-Theoderic_the_Great+0526.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.secret.md)
+

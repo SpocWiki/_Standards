@@ -18,3 +18,22 @@ has_id_wikidata: Q378426
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diplomatics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diplomatics](/_Standards/Society/Communication/Media/Writing/Diplomatics.md) 
+
+### #is_/same_as :: [Diplomatics.public](/_public/Society/Communication/Media/Writing/Diplomatics.public.md) 
+
+### #is_/same_as :: [Diplomatics.internal](/_internal/Society/Communication/Media/Writing/Diplomatics.internal.md) 
+
+### #is_/same_as :: [Diplomatics.protect](/_protect/Society/Communication/Media/Writing/Diplomatics.protect.md) 
+
+### #is_/same_as :: [Diplomatics.private](/_private/Society/Communication/Media/Writing/Diplomatics.private.md) 
+
+### #is_/same_as :: [Diplomatics.personal](/_personal/Society/Communication/Media/Writing/Diplomatics.personal.md) 
+
+### #is_/same_as :: [Diplomatics.secret](/_secret/Society/Communication/Media/Writing/Diplomatics.secret.md)
+

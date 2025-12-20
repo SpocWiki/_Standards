@@ -52,3 +52,22 @@ Amazon_com_browse_node: "6492300011"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hazelnut) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hazelnut](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Hazel/Hazelnut.md) 
+
+### #is_/same_as :: [Hazelnut.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Hazel/Hazelnut.public.md) 
+
+### #is_/same_as :: [Hazelnut.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Hazel/Hazelnut.internal.md) 
+
+### #is_/same_as :: [Hazelnut.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Hazel/Hazelnut.protect.md) 
+
+### #is_/same_as :: [Hazelnut.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Hazel/Hazelnut.private.md) 
+
+### #is_/same_as :: [Hazelnut.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Hazel/Hazelnut.personal.md) 
+
+### #is_/same_as :: [Hazelnut.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Hazel/Hazelnut.secret.md)
+

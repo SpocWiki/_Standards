@@ -48,3 +48,22 @@ subreddit: vandwellers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Van) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Van](/_Standards/Technology/Transport/Road_Transport/Truck/Van.md) 
+
+### #is_/same_as :: [Van.public](/_public/Technology/Transport/Road_Transport/Truck/Van.public.md) 
+
+### #is_/same_as :: [Van.internal](/_internal/Technology/Transport/Road_Transport/Truck/Van.internal.md) 
+
+### #is_/same_as :: [Van.protect](/_protect/Technology/Transport/Road_Transport/Truck/Van.protect.md) 
+
+### #is_/same_as :: [Van.private](/_private/Technology/Transport/Road_Transport/Truck/Van.private.md) 
+
+### #is_/same_as :: [Van.personal](/_personal/Technology/Transport/Road_Transport/Truck/Van.personal.md) 
+
+### #is_/same_as :: [Van.secret](/_secret/Technology/Transport/Road_Transport/Truck/Van.secret.md)
+

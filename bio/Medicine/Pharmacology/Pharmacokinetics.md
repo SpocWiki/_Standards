@@ -47,3 +47,22 @@ Commons_category: Pharmacokinetics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pharmacokinetics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pharmacokinetics](/_Standards/bio/Medicine/Pharmacology/Pharmacokinetics.md) 
+
+### #is_/same_as :: [Pharmacokinetics.public](/_public/bio/Medicine/Pharmacology/Pharmacokinetics.public.md) 
+
+### #is_/same_as :: [Pharmacokinetics.internal](/_internal/bio/Medicine/Pharmacology/Pharmacokinetics.internal.md) 
+
+### #is_/same_as :: [Pharmacokinetics.protect](/_protect/bio/Medicine/Pharmacology/Pharmacokinetics.protect.md) 
+
+### #is_/same_as :: [Pharmacokinetics.private](/_private/bio/Medicine/Pharmacology/Pharmacokinetics.private.md) 
+
+### #is_/same_as :: [Pharmacokinetics.personal](/_personal/bio/Medicine/Pharmacology/Pharmacokinetics.personal.md) 
+
+### #is_/same_as :: [Pharmacokinetics.secret](/_secret/bio/Medicine/Pharmacology/Pharmacokinetics.secret.md)
+

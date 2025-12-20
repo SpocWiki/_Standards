@@ -133,3 +133,22 @@ ISNI: "0000000120993562"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Milton,John](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Milton,John.md) 
+
+### #is_/same_as :: [Milton,John.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Milton,John.public.md) 
+
+### #is_/same_as :: [Milton,John.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Milton,John.internal.md) 
+
+### #is_/same_as :: [Milton,John.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Milton,John.protect.md) 
+
+### #is_/same_as :: [Milton,John.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Milton,John.private.md) 
+
+### #is_/same_as :: [Milton,John.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Milton,John.personal.md) 
+
+### #is_/same_as :: [Milton,John.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Milton,John.secret.md)
+

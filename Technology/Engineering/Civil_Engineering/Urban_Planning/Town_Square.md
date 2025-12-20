@@ -68,3 +68,22 @@ Dewey_Decimal_Classification: "711.55"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Town%20square) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Town_Square](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.md) 
+
+### #is_/same_as :: [Town_Square.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.public.md) 
+
+### #is_/same_as :: [Town_Square.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.internal.md) 
+
+### #is_/same_as :: [Town_Square.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.protect.md) 
+
+### #is_/same_as :: [Town_Square.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.private.md) 
+
+### #is_/same_as :: [Town_Square.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.personal.md) 
+
+### #is_/same_as :: [Town_Square.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.secret.md)
+

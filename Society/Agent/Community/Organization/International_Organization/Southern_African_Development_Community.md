@@ -46,3 +46,22 @@ Commons_category: Southern African Development Community
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Southern%20African%20Development%20Community) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Southern_African_Development_Community](/_Standards/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.md) 
+
+### #is_/same_as :: [Southern_African_Development_Community.public](/_public/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.public.md) 
+
+### #is_/same_as :: [Southern_African_Development_Community.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.internal.md) 
+
+### #is_/same_as :: [Southern_African_Development_Community.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.protect.md) 
+
+### #is_/same_as :: [Southern_African_Development_Community.private](/_private/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.private.md) 
+
+### #is_/same_as :: [Southern_African_Development_Community.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.personal.md) 
+
+### #is_/same_as :: [Southern_African_Development_Community.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.secret.md)
+

@@ -32,3 +32,22 @@ Commons_category: Contemporary art
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Contemporary%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Contemporary_Art](/_Standards/Society/Communication/Art/Contemporary_Art.md) 
+
+### #is_/same_as :: [Contemporary_Art.public](/_public/Society/Communication/Art/Contemporary_Art.public.md) 
+
+### #is_/same_as :: [Contemporary_Art.internal](/_internal/Society/Communication/Art/Contemporary_Art.internal.md) 
+
+### #is_/same_as :: [Contemporary_Art.protect](/_protect/Society/Communication/Art/Contemporary_Art.protect.md) 
+
+### #is_/same_as :: [Contemporary_Art.private](/_private/Society/Communication/Art/Contemporary_Art.private.md) 
+
+### #is_/same_as :: [Contemporary_Art.personal](/_personal/Society/Communication/Art/Contemporary_Art.personal.md) 
+
+### #is_/same_as :: [Contemporary_Art.secret](/_secret/Society/Communication/Art/Contemporary_Art.secret.md)
+

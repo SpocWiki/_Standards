@@ -63,3 +63,22 @@ Commons_category: San people
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [San_People](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/San_People.md) 
+
+### #is_/same_as :: [San_People.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/San_People.public.md) 
+
+### #is_/same_as :: [San_People.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/San_People.internal.md) 
+
+### #is_/same_as :: [San_People.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/San_People.protect.md) 
+
+### #is_/same_as :: [San_People.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/San_People.private.md) 
+
+### #is_/same_as :: [San_People.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/San_People.personal.md) 
+
+### #is_/same_as :: [San_People.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/San_People.secret.md)
+

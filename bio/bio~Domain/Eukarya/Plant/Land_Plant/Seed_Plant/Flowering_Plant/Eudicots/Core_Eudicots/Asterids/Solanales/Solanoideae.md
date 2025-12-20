@@ -33,3 +33,22 @@ parent_taxon: "[[../../../../../../../../../../../WikiData/WD~Solanales,60790273
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solanoideae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solanoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae.md) 
+
+### #is_/same_as :: [Solanoideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae.public.md) 
+
+### #is_/same_as :: [Solanoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae.internal.md) 
+
+### #is_/same_as :: [Solanoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae.protect.md) 
+
+### #is_/same_as :: [Solanoideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae.private.md) 
+
+### #is_/same_as :: [Solanoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae.personal.md) 
+
+### #is_/same_as :: [Solanoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae.secret.md)
+

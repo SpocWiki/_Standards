@@ -67,3 +67,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trolleybus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trolleybus](/_Standards/Technology/Transport/Public_Transport/Trolleybus.md) 
+
+### #is_/same_as :: [Trolleybus.public](/_public/Technology/Transport/Public_Transport/Trolleybus.public.md) 
+
+### #is_/same_as :: [Trolleybus.internal](/_internal/Technology/Transport/Public_Transport/Trolleybus.internal.md) 
+
+### #is_/same_as :: [Trolleybus.protect](/_protect/Technology/Transport/Public_Transport/Trolleybus.protect.md) 
+
+### #is_/same_as :: [Trolleybus.private](/_private/Technology/Transport/Public_Transport/Trolleybus.private.md) 
+
+### #is_/same_as :: [Trolleybus.personal](/_personal/Technology/Transport/Public_Transport/Trolleybus.personal.md) 
+
+### #is_/same_as :: [Trolleybus.secret](/_secret/Technology/Transport/Public_Transport/Trolleybus.secret.md)
+

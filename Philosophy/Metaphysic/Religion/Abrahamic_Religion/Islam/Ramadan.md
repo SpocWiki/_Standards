@@ -116,3 +116,22 @@ official_name: arab
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ramadan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ramadan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.md) 
+
+### #is_/same_as :: [Ramadan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.public.md) 
+
+### #is_/same_as :: [Ramadan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.internal.md) 
+
+### #is_/same_as :: [Ramadan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.protect.md) 
+
+### #is_/same_as :: [Ramadan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.private.md) 
+
+### #is_/same_as :: [Ramadan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.personal.md) 
+
+### #is_/same_as :: [Ramadan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.secret.md)
+

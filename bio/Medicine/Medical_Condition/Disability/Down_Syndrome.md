@@ -84,3 +84,22 @@ Krugosvet_article: medicina/DAUNA_SINDROM.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Down%20syndrome) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Down_Syndrome](/_Standards/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.md) 
+
+### #is_/same_as :: [Down_Syndrome.public](/_public/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.public.md) 
+
+### #is_/same_as :: [Down_Syndrome.internal](/_internal/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.internal.md) 
+
+### #is_/same_as :: [Down_Syndrome.protect](/_protect/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.protect.md) 
+
+### #is_/same_as :: [Down_Syndrome.private](/_private/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.private.md) 
+
+### #is_/same_as :: [Down_Syndrome.personal](/_personal/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.personal.md) 
+
+### #is_/same_as :: [Down_Syndrome.secret](/_secret/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.secret.md)
+

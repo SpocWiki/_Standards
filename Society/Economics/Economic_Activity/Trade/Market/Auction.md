@@ -54,3 +54,22 @@ so you have a business to re-work the goods for higher value e.g. home renovatio
 > [Wikipedia](https://en.wikipedia.org/wiki/Auction) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Auction](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Auction.md) 
+
+### #is_/same_as :: [Auction.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Auction.public.md) 
+
+### #is_/same_as :: [Auction.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Auction.internal.md) 
+
+### #is_/same_as :: [Auction.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Auction.protect.md) 
+
+### #is_/same_as :: [Auction.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Auction.private.md) 
+
+### #is_/same_as :: [Auction.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Auction.personal.md) 
+
+### #is_/same_as :: [Auction.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Auction.secret.md)
+

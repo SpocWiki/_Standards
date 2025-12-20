@@ -85,3 +85,22 @@ Dewey_Decimal_Classification: "492.3"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suret%20language) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Syriac](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic/Syriac.md) 
+
+### #is_/same_as :: [Syriac.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic/Syriac.public.md) 
+
+### #is_/same_as :: [Syriac.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic/Syriac.internal.md) 
+
+### #is_/same_as :: [Syriac.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic/Syriac.protect.md) 
+
+### #is_/same_as :: [Syriac.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic/Syriac.private.md) 
+
+### #is_/same_as :: [Syriac.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic/Syriac.personal.md) 
+
+### #is_/same_as :: [Syriac.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic/Syriac.secret.md)
+

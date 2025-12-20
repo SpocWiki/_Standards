@@ -54,3 +54,22 @@ Commons_category: Literature of the Netherlands
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dutch-language%20literature) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dutch_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Dutch_Literature.md) 
+
+### #is_/same_as :: [Dutch_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Dutch_Literature.public.md) 
+
+### #is_/same_as :: [Dutch_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Dutch_Literature.internal.md) 
+
+### #is_/same_as :: [Dutch_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Dutch_Literature.protect.md) 
+
+### #is_/same_as :: [Dutch_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Dutch_Literature.private.md) 
+
+### #is_/same_as :: [Dutch_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Dutch_Literature.personal.md) 
+
+### #is_/same_as :: [Dutch_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Dutch_Literature.secret.md)
+

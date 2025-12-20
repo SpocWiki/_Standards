@@ -45,3 +45,22 @@ MeSH_tree_code: F01.145.813.617
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shyness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shyness](/_Standards/bio/Psychology/Affect/Emotion/Shyness.md) 
+
+### #is_/same_as :: [Shyness.public](/_public/bio/Psychology/Affect/Emotion/Shyness.public.md) 
+
+### #is_/same_as :: [Shyness.internal](/_internal/bio/Psychology/Affect/Emotion/Shyness.internal.md) 
+
+### #is_/same_as :: [Shyness.protect](/_protect/bio/Psychology/Affect/Emotion/Shyness.protect.md) 
+
+### #is_/same_as :: [Shyness.private](/_private/bio/Psychology/Affect/Emotion/Shyness.private.md) 
+
+### #is_/same_as :: [Shyness.personal](/_personal/bio/Psychology/Affect/Emotion/Shyness.personal.md) 
+
+### #is_/same_as :: [Shyness.secret](/_secret/bio/Psychology/Affect/Emotion/Shyness.secret.md)
+

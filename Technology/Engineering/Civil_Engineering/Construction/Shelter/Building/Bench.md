@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bench](Bench.md) 
+### #is_/same_as :: [Bench](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.md) 
 
-### #is_/same_as :: [Bench.public](/_public/Technology/Construction/Building/Bench.public.md) 
+### #is_/same_as :: [Bench.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.public.md) 
 
-### #is_/same_as :: [Bench.internal](/_internal/Technology/Construction/Building/Bench.internal.md) 
+### #is_/same_as :: [Bench.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.internal.md) 
 
-### #is_/same_as :: [Bench.protect](/_protect/Technology/Construction/Building/Bench.protect.md) 
+### #is_/same_as :: [Bench.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.protect.md) 
 
-### #is_/same_as :: [Bench.private](/_private/Technology/Construction/Building/Bench.private.md) 
+### #is_/same_as :: [Bench.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.private.md) 
 
-### #is_/same_as :: [Bench.personal](/_personal/Technology/Construction/Building/Bench.personal.md) 
+### #is_/same_as :: [Bench.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.personal.md) 
 
-### #is_/same_as :: [Bench.secret](/_secret/Technology/Construction/Building/Bench.secret.md)
+### #is_/same_as :: [Bench.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.secret.md)
 

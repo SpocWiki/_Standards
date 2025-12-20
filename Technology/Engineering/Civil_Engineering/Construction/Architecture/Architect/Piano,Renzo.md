@@ -114,3 +114,22 @@ Royal_Academy_new_identifier: renzo-piano-hon-ra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Renzo%20Piano) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Piano,Renzo](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Piano,Renzo.md) 
+
+### #is_/same_as :: [Piano,Renzo.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Piano,Renzo.public.md) 
+
+### #is_/same_as :: [Piano,Renzo.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Piano,Renzo.internal.md) 
+
+### #is_/same_as :: [Piano,Renzo.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Piano,Renzo.protect.md) 
+
+### #is_/same_as :: [Piano,Renzo.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Piano,Renzo.private.md) 
+
+### #is_/same_as :: [Piano,Renzo.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Piano,Renzo.personal.md) 
+
+### #is_/same_as :: [Piano,Renzo.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Piano,Renzo.secret.md)
+

@@ -125,3 +125,22 @@ short_name: F. esculentum
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Buckwheat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Buckwheat](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.md) 
+
+### #is_/same_as :: [Buckwheat.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.public.md) 
+
+### #is_/same_as :: [Buckwheat.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.internal.md) 
+
+### #is_/same_as :: [Buckwheat.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.protect.md) 
+
+### #is_/same_as :: [Buckwheat.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.private.md) 
+
+### #is_/same_as :: [Buckwheat.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.personal.md) 
+
+### #is_/same_as :: [Buckwheat.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.secret.md)
+

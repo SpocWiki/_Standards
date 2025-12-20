@@ -79,17 +79,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Monopoly%20board%20on%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monopoly(game)](/_Standards/Society/Economics/Currency/Monopoly(game).md) 
+### #is_/same_as :: [Monopoly(game)](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Monopoly(game).md) 
 
-### #is_/same_as :: [Monopoly(game).public](/_public/Society/Economics/Currency/Monopoly(game).public.md) 
+### #is_/same_as :: [Monopoly(game).public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Monopoly(game).public.md) 
 
-### #is_/same_as :: [Monopoly(game).internal](/_internal/Society/Economics/Currency/Monopoly(game).internal.md) 
+### #is_/same_as :: [Monopoly(game).internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Monopoly(game).internal.md) 
 
-### #is_/same_as :: [Monopoly(game).protect](/_protect/Society/Economics/Currency/Monopoly(game).protect.md) 
+### #is_/same_as :: [Monopoly(game).protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Monopoly(game).protect.md) 
 
-### #is_/same_as :: [Monopoly(game).private](/_private/Society/Economics/Currency/Monopoly(game).private.md) 
+### #is_/same_as :: [Monopoly(game).private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Monopoly(game).private.md) 
 
-### #is_/same_as :: [Monopoly(game).personal](/_personal/Society/Economics/Currency/Monopoly(game).personal.md) 
+### #is_/same_as :: [Monopoly(game).personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Monopoly(game).personal.md) 
 
-### #is_/same_as :: [Monopoly(game).secret](/_secret/Society/Economics/Currency/Monopoly(game).secret.md)
+### #is_/same_as :: [Monopoly(game).secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Monopoly(game).secret.md)
 

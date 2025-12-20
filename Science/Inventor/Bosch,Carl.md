@@ -83,8 +83,6 @@ P8189: "987007311068005171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Bosch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bosch,Carl](/_Standards/Science/Inventor/Bosch,Carl.md) 

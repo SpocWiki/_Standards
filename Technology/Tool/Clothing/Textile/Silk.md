@@ -64,3 +64,22 @@ MeSH_tree_code: D05.750.078.875
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silk) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Silk](/_Standards/Technology/Tool/Clothing/Textile/Silk.md) 
+
+### #is_/same_as :: [Silk.public](/_public/Technology/Tool/Clothing/Textile/Silk.public.md) 
+
+### #is_/same_as :: [Silk.internal](/_internal/Technology/Tool/Clothing/Textile/Silk.internal.md) 
+
+### #is_/same_as :: [Silk.protect](/_protect/Technology/Tool/Clothing/Textile/Silk.protect.md) 
+
+### #is_/same_as :: [Silk.private](/_private/Technology/Tool/Clothing/Textile/Silk.private.md) 
+
+### #is_/same_as :: [Silk.personal](/_personal/Technology/Tool/Clothing/Textile/Silk.personal.md) 
+
+### #is_/same_as :: [Silk.secret](/_secret/Technology/Tool/Clothing/Textile/Silk.secret.md)
+

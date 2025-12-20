@@ -71,7 +71,7 @@ Commons_category: Polysaccharides
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polysaccharide](Polysaccharide.md) 
+### #is_/same_as :: [Polysaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.md) 
 
 ### #is_/same_as :: [Polysaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.public.md) 
 

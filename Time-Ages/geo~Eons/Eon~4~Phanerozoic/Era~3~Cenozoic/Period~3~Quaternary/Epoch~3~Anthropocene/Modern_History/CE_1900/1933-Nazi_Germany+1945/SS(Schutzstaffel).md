@@ -136,3 +136,22 @@ ISNI: "0000000115203458"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Schutzstaffel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [SS(Schutzstaffel)](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).md) 
+
+### #is_/same_as :: [SS(Schutzstaffel).public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).public.md) 
+
+### #is_/same_as :: [SS(Schutzstaffel).internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).internal.md) 
+
+### #is_/same_as :: [SS(Schutzstaffel).protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).protect.md) 
+
+### #is_/same_as :: [SS(Schutzstaffel).private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).private.md) 
+
+### #is_/same_as :: [SS(Schutzstaffel).personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).personal.md) 
+
+### #is_/same_as :: [SS(Schutzstaffel).secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).secret.md)
+

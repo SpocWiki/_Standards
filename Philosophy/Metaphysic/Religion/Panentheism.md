@@ -26,3 +26,22 @@ PhilPapers_topic: panentheism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Panentheism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Panentheism](/_Standards/Philosophy/Metaphysic/Religion/Panentheism.md) 
+
+### #is_/same_as :: [Panentheism.public](/_public/Philosophy/Metaphysic/Religion/Panentheism.public.md) 
+
+### #is_/same_as :: [Panentheism.internal](/_internal/Philosophy/Metaphysic/Religion/Panentheism.internal.md) 
+
+### #is_/same_as :: [Panentheism.protect](/_protect/Philosophy/Metaphysic/Religion/Panentheism.protect.md) 
+
+### #is_/same_as :: [Panentheism.private](/_private/Philosophy/Metaphysic/Religion/Panentheism.private.md) 
+
+### #is_/same_as :: [Panentheism.personal](/_personal/Philosophy/Metaphysic/Religion/Panentheism.personal.md) 
+
+### #is_/same_as :: [Panentheism.secret](/_secret/Philosophy/Metaphysic/Religion/Panentheism.secret.md)
+

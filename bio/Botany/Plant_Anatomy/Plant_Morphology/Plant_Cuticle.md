@@ -25,3 +25,22 @@ Commons_category: Plant cuticles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20cuticle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant_Cuticle](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.md) 
+
+### #is_/same_as :: [Plant_Cuticle.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.public.md) 
+
+### #is_/same_as :: [Plant_Cuticle.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.internal.md) 
+
+### #is_/same_as :: [Plant_Cuticle.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.protect.md) 
+
+### #is_/same_as :: [Plant_Cuticle.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.private.md) 
+
+### #is_/same_as :: [Plant_Cuticle.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.personal.md) 
+
+### #is_/same_as :: [Plant_Cuticle.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.secret.md)
+

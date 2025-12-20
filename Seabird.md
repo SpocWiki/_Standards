@@ -38,3 +38,22 @@ Commons_category: Seabirds
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seabird) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seabird](/_Standards/Seabird.md) 
+
+### #is_/same_as :: [Seabird.public](/_public/Seabird.public.md) 
+
+### #is_/same_as :: [Seabird.internal](/_internal/Seabird.internal.md) 
+
+### #is_/same_as :: [Seabird.protect](/_protect/Seabird.protect.md) 
+
+### #is_/same_as :: [Seabird.private](/_private/Seabird.private.md) 
+
+### #is_/same_as :: [Seabird.personal](/_personal/Seabird.personal.md) 
+
+### #is_/same_as :: [Seabird.secret](/_secret/Seabird.secret.md)
+

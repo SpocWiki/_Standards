@@ -17,3 +17,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20plane)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euclidean_Plane](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.md) 
+
+### #is_/same_as :: [Euclidean_Plane.public](/_public/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.public.md) 
+
+### #is_/same_as :: [Euclidean_Plane.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.internal.md) 
+
+### #is_/same_as :: [Euclidean_Plane.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.protect.md) 
+
+### #is_/same_as :: [Euclidean_Plane.private](/_private/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.private.md) 
+
+### #is_/same_as :: [Euclidean_Plane.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.personal.md) 
+
+### #is_/same_as :: [Euclidean_Plane.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.secret.md)
+

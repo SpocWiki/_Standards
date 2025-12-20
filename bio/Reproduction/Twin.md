@@ -65,3 +65,22 @@ MeSH_tree_code: M01.438.873
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Twin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Twin](/_Standards/bio/Reproduction/Twin.md) 
+
+### #is_/same_as :: [Twin.public](/_public/bio/Reproduction/Twin.public.md) 
+
+### #is_/same_as :: [Twin.internal](/_internal/bio/Reproduction/Twin.internal.md) 
+
+### #is_/same_as :: [Twin.protect](/_protect/bio/Reproduction/Twin.protect.md) 
+
+### #is_/same_as :: [Twin.private](/_private/bio/Reproduction/Twin.private.md) 
+
+### #is_/same_as :: [Twin.personal](/_personal/bio/Reproduction/Twin.personal.md) 
+
+### #is_/same_as :: [Twin.secret](/_secret/bio/Reproduction/Twin.secret.md)
+

@@ -51,3 +51,22 @@ ISNI: "0000000083628880"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hannes%20Meyer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meyer,Hannes](/_Standards/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.md) 
+
+### #is_/same_as :: [Meyer,Hannes.public](/_public/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.public.md) 
+
+### #is_/same_as :: [Meyer,Hannes.internal](/_internal/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.internal.md) 
+
+### #is_/same_as :: [Meyer,Hannes.protect](/_protect/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.protect.md) 
+
+### #is_/same_as :: [Meyer,Hannes.private](/_private/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.private.md) 
+
+### #is_/same_as :: [Meyer,Hannes.personal](/_personal/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.personal.md) 
+
+### #is_/same_as :: [Meyer,Hannes.secret](/_secret/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.secret.md)
+

@@ -55,3 +55,22 @@ Commons_category: Samosas
 > [Wikipedia](https://en.wikipedia.org/wiki/Samosa) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Samosa](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.md) 
+
+### #is_/same_as :: [Samosa.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.public.md) 
+
+### #is_/same_as :: [Samosa.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.internal.md) 
+
+### #is_/same_as :: [Samosa.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.protect.md) 
+
+### #is_/same_as :: [Samosa.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.private.md) 
+
+### #is_/same_as :: [Samosa.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.personal.md) 
+
+### #is_/same_as :: [Samosa.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.secret.md)
+

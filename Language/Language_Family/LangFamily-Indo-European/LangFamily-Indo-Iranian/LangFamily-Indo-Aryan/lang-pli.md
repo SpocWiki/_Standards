@@ -72,3 +72,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pali%20language.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pali) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [lang-pli](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.md) 
+
+### #is_/same_as :: [lang-pli.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.public.md) 
+
+### #is_/same_as :: [lang-pli.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.internal.md) 
+
+### #is_/same_as :: [lang-pli.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.protect.md) 
+
+### #is_/same_as :: [lang-pli.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.private.md) 
+
+### #is_/same_as :: [lang-pli.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.personal.md) 
+
+### #is_/same_as :: [lang-pli.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.secret.md)
+

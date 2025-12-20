@@ -44,3 +44,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20Inquisition) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1478-Spanish_Inquisition+1834](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1478-Spanish_Inquisition+1834.md) 
+
+### #is_/same_as :: [1478-Spanish_Inquisition+1834.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1478-Spanish_Inquisition+1834.public.md) 
+
+### #is_/same_as :: [1478-Spanish_Inquisition+1834.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1478-Spanish_Inquisition+1834.internal.md) 
+
+### #is_/same_as :: [1478-Spanish_Inquisition+1834.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1478-Spanish_Inquisition+1834.protect.md) 
+
+### #is_/same_as :: [1478-Spanish_Inquisition+1834.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1478-Spanish_Inquisition+1834.private.md) 
+
+### #is_/same_as :: [1478-Spanish_Inquisition+1834.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1478-Spanish_Inquisition+1834.personal.md) 
+
+### #is_/same_as :: [1478-Spanish_Inquisition+1834.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1478-Spanish_Inquisition+1834.secret.md)
+

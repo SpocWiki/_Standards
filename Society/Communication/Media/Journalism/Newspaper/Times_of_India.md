@@ -55,3 +55,22 @@ Facebook_username: TimesofIndia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Times%20of%20India) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Times_of_India](/_Standards/Society/Communication/Media/Journalism/Newspaper/Times_of_India.md) 
+
+### #is_/same_as :: [Times_of_India.public](/_public/Society/Communication/Media/Journalism/Newspaper/Times_of_India.public.md) 
+
+### #is_/same_as :: [Times_of_India.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Times_of_India.internal.md) 
+
+### #is_/same_as :: [Times_of_India.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Times_of_India.protect.md) 
+
+### #is_/same_as :: [Times_of_India.private](/_private/Society/Communication/Media/Journalism/Newspaper/Times_of_India.private.md) 
+
+### #is_/same_as :: [Times_of_India.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Times_of_India.personal.md) 
+
+### #is_/same_as :: [Times_of_India.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Times_of_India.secret.md)
+

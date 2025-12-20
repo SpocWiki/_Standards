@@ -332,3 +332,22 @@ ISNI: "0000000121462341"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marc%20Chagall) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chagall,Marc](/_Standards/Society/Communication/Media/Painting/Painter/Chagall,Marc.md) 
+
+### #is_/same_as :: [Chagall,Marc.public](/_public/Society/Communication/Media/Painting/Painter/Chagall,Marc.public.md) 
+
+### #is_/same_as :: [Chagall,Marc.internal](/_internal/Society/Communication/Media/Painting/Painter/Chagall,Marc.internal.md) 
+
+### #is_/same_as :: [Chagall,Marc.protect](/_protect/Society/Communication/Media/Painting/Painter/Chagall,Marc.protect.md) 
+
+### #is_/same_as :: [Chagall,Marc.private](/_private/Society/Communication/Media/Painting/Painter/Chagall,Marc.private.md) 
+
+### #is_/same_as :: [Chagall,Marc.personal](/_personal/Society/Communication/Media/Painting/Painter/Chagall,Marc.personal.md) 
+
+### #is_/same_as :: [Chagall,Marc.secret](/_secret/Society/Communication/Media/Painting/Painter/Chagall,Marc.secret.md)
+

@@ -38,3 +38,22 @@ Commons_category: Doctrines
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doctrine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Doctrine](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.md) 
+
+### #is_/same_as :: [Doctrine.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.public.md) 
+
+### #is_/same_as :: [Doctrine.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.internal.md) 
+
+### #is_/same_as :: [Doctrine.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.protect.md) 
+
+### #is_/same_as :: [Doctrine.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.private.md) 
+
+### #is_/same_as :: [Doctrine.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.personal.md) 
+
+### #is_/same_as :: [Doctrine.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.secret.md)
+

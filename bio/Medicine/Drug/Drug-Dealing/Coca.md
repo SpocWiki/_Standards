@@ -61,3 +61,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coca](/_Standards/bio/Medicine/Drug/Drug-Dealing/Coca.md) 
+
+### #is_/same_as :: [Coca.public](/_public/bio/Medicine/Drug/Drug-Dealing/Coca.public.md) 
+
+### #is_/same_as :: [Coca.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Coca.internal.md) 
+
+### #is_/same_as :: [Coca.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Coca.protect.md) 
+
+### #is_/same_as :: [Coca.private](/_private/bio/Medicine/Drug/Drug-Dealing/Coca.private.md) 
+
+### #is_/same_as :: [Coca.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Coca.personal.md) 
+
+### #is_/same_as :: [Coca.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Coca.secret.md)
+

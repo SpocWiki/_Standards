@@ -44,3 +44,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20of%20Hydraulic
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydraulics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydraulics](/_Standards/Science/Physics/Fluid_Mechanics/Hydraulics.md) 
+
+### #is_/same_as :: [Hydraulics.public](/_public/Science/Physics/Fluid_Mechanics/Hydraulics.public.md) 
+
+### #is_/same_as :: [Hydraulics.internal](/_internal/Science/Physics/Fluid_Mechanics/Hydraulics.internal.md) 
+
+### #is_/same_as :: [Hydraulics.protect](/_protect/Science/Physics/Fluid_Mechanics/Hydraulics.protect.md) 
+
+### #is_/same_as :: [Hydraulics.private](/_private/Science/Physics/Fluid_Mechanics/Hydraulics.private.md) 
+
+### #is_/same_as :: [Hydraulics.personal](/_personal/Science/Physics/Fluid_Mechanics/Hydraulics.personal.md) 
+
+### #is_/same_as :: [Hydraulics.secret](/_secret/Science/Physics/Fluid_Mechanics/Hydraulics.secret.md)
+

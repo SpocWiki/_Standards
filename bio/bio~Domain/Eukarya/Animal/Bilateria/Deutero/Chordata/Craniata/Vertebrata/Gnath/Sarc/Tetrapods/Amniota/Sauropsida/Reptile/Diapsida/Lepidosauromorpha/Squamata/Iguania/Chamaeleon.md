@@ -78,3 +78,22 @@ NBN_System_Key: NHMSYS0000065901
 > [Wikipedia](https://en.wikipedia.org/wiki/Chameleon) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chamaeleon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Chamaeleon.md) 
+
+### #is_/same_as :: [Chamaeleon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Chamaeleon.public.md) 
+
+### #is_/same_as :: [Chamaeleon.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Chamaeleon.internal.md) 
+
+### #is_/same_as :: [Chamaeleon.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Chamaeleon.protect.md) 
+
+### #is_/same_as :: [Chamaeleon.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Chamaeleon.private.md) 
+
+### #is_/same_as :: [Chamaeleon.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Chamaeleon.personal.md) 
+
+### #is_/same_as :: [Chamaeleon.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Chamaeleon.secret.md)
+

@@ -41,3 +41,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/GFP%20Mice%2001.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetic%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Genetic_Engineering](/_Standards/bio/Genetics/Genetic_Engineering.md) 
+
+### #is_/same_as :: [Genetic_Engineering.public](/_public/bio/Genetics/Genetic_Engineering.public.md) 
+
+### #is_/same_as :: [Genetic_Engineering.internal](/_internal/bio/Genetics/Genetic_Engineering.internal.md) 
+
+### #is_/same_as :: [Genetic_Engineering.protect](/_protect/bio/Genetics/Genetic_Engineering.protect.md) 
+
+### #is_/same_as :: [Genetic_Engineering.private](/_private/bio/Genetics/Genetic_Engineering.private.md) 
+
+### #is_/same_as :: [Genetic_Engineering.personal](/_personal/bio/Genetics/Genetic_Engineering.personal.md) 
+
+### #is_/same_as :: [Genetic_Engineering.secret](/_secret/bio/Genetics/Genetic_Engineering.secret.md)
+

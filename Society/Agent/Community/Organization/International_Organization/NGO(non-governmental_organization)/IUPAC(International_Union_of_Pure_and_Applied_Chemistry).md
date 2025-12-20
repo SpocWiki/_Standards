@@ -87,3 +87,22 @@ inception: 1919-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Union%20of%20Pure%20and%20Applied%20Chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).md) 
+
+### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).public.md) 
+
+### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).internal.md) 
+
+### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).protect.md) 
+
+### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).private.md) 
+
+### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).personal.md) 
+
+### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry).secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).secret.md)
+

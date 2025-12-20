@@ -42,17 +42,17 @@ Specifies that product returns must be made in a store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_in_Store](Return_in_Store.md) 
+### #is_/same_as :: [Return_in_Store](/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.md) 
 
-### #is_/same_as :: [return_in_store.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.public.md) 
+### #is_/same_as :: [Return_in_Store.public](/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.public.md) 
 
-### #is_/same_as :: [return_in_store.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.internal.md) 
+### #is_/same_as :: [Return_in_Store.internal](/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.internal.md) 
 
-### #is_/same_as :: [return_in_store.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.protect.md) 
+### #is_/same_as :: [Return_in_Store.protect](/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.protect.md) 
 
-### #is_/same_as :: [return_in_store.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.private.md) 
+### #is_/same_as :: [Return_in_Store.private](/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.private.md) 
 
-### #is_/same_as :: [return_in_store.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.personal.md) 
+### #is_/same_as :: [Return_in_Store.personal](/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.personal.md) 
 
-### #is_/same_as :: [return_in_store.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.secret.md)
+### #is_/same_as :: [Return_in_Store.secret](/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.secret.md)
 

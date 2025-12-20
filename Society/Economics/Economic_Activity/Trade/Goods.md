@@ -34,3 +34,22 @@ Colon_Classification: X:446
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Goods) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goods](/_Standards/Society/Economics/Economic_Activity/Trade/Goods.md) 
+
+### #is_/same_as :: [Goods.public](/_public/Society/Economics/Economic_Activity/Trade/Goods.public.md) 
+
+### #is_/same_as :: [Goods.internal](/_internal/Society/Economics/Economic_Activity/Trade/Goods.internal.md) 
+
+### #is_/same_as :: [Goods.protect](/_protect/Society/Economics/Economic_Activity/Trade/Goods.protect.md) 
+
+### #is_/same_as :: [Goods.private](/_private/Society/Economics/Economic_Activity/Trade/Goods.private.md) 
+
+### #is_/same_as :: [Goods.personal](/_personal/Society/Economics/Economic_Activity/Trade/Goods.personal.md) 
+
+### #is_/same_as :: [Goods.secret](/_secret/Society/Economics/Economic_Activity/Trade/Goods.secret.md)
+

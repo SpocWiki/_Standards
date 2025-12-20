@@ -48,3 +48,22 @@ Commons_category: Transhumanism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transhumanism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Transhumanism](/_Standards/Philosophy/Humanism/Transhumanism.md) 
+
+### #is_/same_as :: [Transhumanism.public](/_public/Philosophy/Humanism/Transhumanism.public.md) 
+
+### #is_/same_as :: [Transhumanism.internal](/_internal/Philosophy/Humanism/Transhumanism.internal.md) 
+
+### #is_/same_as :: [Transhumanism.protect](/_protect/Philosophy/Humanism/Transhumanism.protect.md) 
+
+### #is_/same_as :: [Transhumanism.private](/_private/Philosophy/Humanism/Transhumanism.private.md) 
+
+### #is_/same_as :: [Transhumanism.personal](/_personal/Philosophy/Humanism/Transhumanism.personal.md) 
+
+### #is_/same_as :: [Transhumanism.secret](/_secret/Philosophy/Humanism/Transhumanism.secret.md)
+

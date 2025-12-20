@@ -76,3 +76,22 @@ Medium_username: UNmigration
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Organization%20for%20Migration) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IOM(International_Organization_for_Migration)](/_Standards/UN(United_Nations)/IOM(International_Organization_for_Migration).md) 
+
+### #is_/same_as :: [IOM(International_Organization_for_Migration).public](/_public/UN(United_Nations)/IOM(International_Organization_for_Migration).public.md) 
+
+### #is_/same_as :: [IOM(International_Organization_for_Migration).internal](/_internal/UN(United_Nations)/IOM(International_Organization_for_Migration).internal.md) 
+
+### #is_/same_as :: [IOM(International_Organization_for_Migration).protect](/_protect/UN(United_Nations)/IOM(International_Organization_for_Migration).protect.md) 
+
+### #is_/same_as :: [IOM(International_Organization_for_Migration).private](/_private/UN(United_Nations)/IOM(International_Organization_for_Migration).private.md) 
+
+### #is_/same_as :: [IOM(International_Organization_for_Migration).personal](/_personal/UN(United_Nations)/IOM(International_Organization_for_Migration).personal.md) 
+
+### #is_/same_as :: [IOM(International_Organization_for_Migration).secret](/_secret/UN(United_Nations)/IOM(International_Organization_for_Migration).secret.md)
+

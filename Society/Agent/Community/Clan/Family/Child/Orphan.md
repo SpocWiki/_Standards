@@ -54,3 +54,22 @@ male_form_of_label: našlaitis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orphan)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orphan](/_Standards/Society/Agent/Community/Clan/Family/Child/Orphan.md) 
+
+### #is_/same_as :: [Orphan.public](/_public/Society/Agent/Community/Clan/Family/Child/Orphan.public.md) 
+
+### #is_/same_as :: [Orphan.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Orphan.internal.md) 
+
+### #is_/same_as :: [Orphan.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Orphan.protect.md) 
+
+### #is_/same_as :: [Orphan.private](/_private/Society/Agent/Community/Clan/Family/Child/Orphan.private.md) 
+
+### #is_/same_as :: [Orphan.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Orphan.personal.md) 
+
+### #is_/same_as :: [Orphan.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Orphan.secret.md)
+

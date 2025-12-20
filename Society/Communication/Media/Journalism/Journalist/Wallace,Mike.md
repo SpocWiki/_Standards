@@ -68,3 +68,22 @@ date_of_birth: 1918-05-09T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mike%20Wallace) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wallace,Mike](/_Standards/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.md) 
+
+### #is_/same_as :: [Wallace,Mike.public](/_public/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.public.md) 
+
+### #is_/same_as :: [Wallace,Mike.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.internal.md) 
+
+### #is_/same_as :: [Wallace,Mike.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.protect.md) 
+
+### #is_/same_as :: [Wallace,Mike.private](/_private/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.private.md) 
+
+### #is_/same_as :: [Wallace,Mike.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.personal.md) 
+
+### #is_/same_as :: [Wallace,Mike.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.secret.md)
+

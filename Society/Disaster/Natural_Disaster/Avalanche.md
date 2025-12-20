@@ -124,3 +124,22 @@ type: private_note
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Avalanche](/_Standards/Society/Disaster/Natural_Disaster/Avalanche.md) 
+
+### #is_/same_as :: [Avalanche.public](/_public/Society/Disaster/Natural_Disaster/Avalanche.public.md) 
+
+### #is_/same_as :: [Avalanche.internal](/_internal/Society/Disaster/Natural_Disaster/Avalanche.internal.md) 
+
+### #is_/same_as :: [Avalanche.protect](/_protect/Society/Disaster/Natural_Disaster/Avalanche.protect.md) 
+
+### #is_/same_as :: [Avalanche.private](/_private/Society/Disaster/Natural_Disaster/Avalanche.private.md) 
+
+### #is_/same_as :: [Avalanche.personal](/_personal/Society/Disaster/Natural_Disaster/Avalanche.personal.md) 
+
+### #is_/same_as :: [Avalanche.secret](/_secret/Society/Disaster/Natural_Disaster/Avalanche.secret.md)
+

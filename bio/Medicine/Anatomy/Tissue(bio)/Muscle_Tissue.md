@@ -40,3 +40,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Muscle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Muscle_Tissue](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Muscle_Tissue.md) 
+
+### #is_/same_as :: [Muscle_Tissue.public](/_public/bio/Medicine/Anatomy/Tissue(bio)/Muscle_Tissue.public.md) 
+
+### #is_/same_as :: [Muscle_Tissue.internal](/_internal/bio/Medicine/Anatomy/Tissue(bio)/Muscle_Tissue.internal.md) 
+
+### #is_/same_as :: [Muscle_Tissue.protect](/_protect/bio/Medicine/Anatomy/Tissue(bio)/Muscle_Tissue.protect.md) 
+
+### #is_/same_as :: [Muscle_Tissue.private](/_private/bio/Medicine/Anatomy/Tissue(bio)/Muscle_Tissue.private.md) 
+
+### #is_/same_as :: [Muscle_Tissue.personal](/_personal/bio/Medicine/Anatomy/Tissue(bio)/Muscle_Tissue.personal.md) 
+
+### #is_/same_as :: [Muscle_Tissue.secret](/_secret/bio/Medicine/Anatomy/Tissue(bio)/Muscle_Tissue.secret.md)
+

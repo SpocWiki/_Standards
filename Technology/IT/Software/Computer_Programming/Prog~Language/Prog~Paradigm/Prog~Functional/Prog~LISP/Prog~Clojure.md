@@ -52,3 +52,22 @@ Shapiro et al.
 type: folder_brief_live
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Clojure](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.md) 
+
+### #is_/same_as :: [Prog~Clojure.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.public.md) 
+
+### #is_/same_as :: [Prog~Clojure.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.internal.md) 
+
+### #is_/same_as :: [Prog~Clojure.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.protect.md) 
+
+### #is_/same_as :: [Prog~Clojure.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.private.md) 
+
+### #is_/same_as :: [Prog~Clojure.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.personal.md) 
+
+### #is_/same_as :: [Prog~Clojure.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Clojure.secret.md)
+

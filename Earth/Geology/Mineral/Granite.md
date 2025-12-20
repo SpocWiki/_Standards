@@ -71,3 +71,22 @@ Krugosvet_article: Earth_sciences/geologiya/GRANIT.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Granite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Granite](/_Standards/Earth/Geology/Mineral/Granite.md) 
+
+### #is_/same_as :: [Granite.public](/_public/Earth/Geology/Mineral/Granite.public.md) 
+
+### #is_/same_as :: [Granite.internal](/_internal/Earth/Geology/Mineral/Granite.internal.md) 
+
+### #is_/same_as :: [Granite.protect](/_protect/Earth/Geology/Mineral/Granite.protect.md) 
+
+### #is_/same_as :: [Granite.private](/_private/Earth/Geology/Mineral/Granite.private.md) 
+
+### #is_/same_as :: [Granite.personal](/_personal/Earth/Geology/Mineral/Granite.personal.md) 
+
+### #is_/same_as :: [Granite.secret](/_secret/Earth/Geology/Mineral/Granite.secret.md)
+

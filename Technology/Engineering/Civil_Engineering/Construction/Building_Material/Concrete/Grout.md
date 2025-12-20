@@ -31,3 +31,22 @@ has_id_wikidata: Q4580104
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grout) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grout](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.md) 
+
+### #is_/same_as :: [Grout.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.public.md) 
+
+### #is_/same_as :: [Grout.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.internal.md) 
+
+### #is_/same_as :: [Grout.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.protect.md) 
+
+### #is_/same_as :: [Grout.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.private.md) 
+
+### #is_/same_as :: [Grout.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.personal.md) 
+
+### #is_/same_as :: [Grout.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.secret.md)
+

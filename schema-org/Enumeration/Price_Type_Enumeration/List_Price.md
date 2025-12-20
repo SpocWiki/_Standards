@@ -42,17 +42,17 @@ Represents the list price (the price a product is actually advertised for) of an
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [List_Price](List_Price.md) 
+### #is_/same_as :: [List_Price](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/List_Price.md) 
 
-### #is_/same_as :: [list_price.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.public.md) 
+### #is_/same_as :: [List_Price.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/List_Price.public.md) 
 
-### #is_/same_as :: [list_price.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.internal.md) 
+### #is_/same_as :: [List_Price.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.internal.md) 
 
-### #is_/same_as :: [list_price.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.protect.md) 
+### #is_/same_as :: [List_Price.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/List_Price.protect.md) 
 
-### #is_/same_as :: [list_price.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.private.md) 
+### #is_/same_as :: [List_Price.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/List_Price.private.md) 
 
-### #is_/same_as :: [list_price.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.personal.md) 
+### #is_/same_as :: [List_Price.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.personal.md) 
 
-### #is_/same_as :: [list_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.secret.md)
+### #is_/same_as :: [List_Price.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/List_Price.secret.md)
 

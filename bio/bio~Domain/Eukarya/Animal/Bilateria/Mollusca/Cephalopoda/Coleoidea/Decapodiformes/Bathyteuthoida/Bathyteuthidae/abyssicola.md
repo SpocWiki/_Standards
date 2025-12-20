@@ -147,7 +147,7 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 
   ---------
   Copyright ::   © 1998 C. F. E. Roper
-  ---------
+  ---------
 
 
 ## Confidential Links & Embeds: 

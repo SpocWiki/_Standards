@@ -18,3 +18,22 @@ has_id_wikidata: Q54050
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hill) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hill](/_Standards/Earth/Geology/Landform/Hill.md) 
+
+### #is_/same_as :: [Hill.public](/_public/Earth/Geology/Landform/Hill.public.md) 
+
+### #is_/same_as :: [Hill.internal](/_internal/Earth/Geology/Landform/Hill.internal.md) 
+
+### #is_/same_as :: [Hill.protect](/_protect/Earth/Geology/Landform/Hill.protect.md) 
+
+### #is_/same_as :: [Hill.private](/_private/Earth/Geology/Landform/Hill.private.md) 
+
+### #is_/same_as :: [Hill.personal](/_personal/Earth/Geology/Landform/Hill.personal.md) 
+
+### #is_/same_as :: [Hill.secret](/_secret/Earth/Geology/Landform/Hill.secret.md)
+

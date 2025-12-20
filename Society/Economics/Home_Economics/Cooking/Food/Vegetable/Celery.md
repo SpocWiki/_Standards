@@ -82,3 +82,22 @@ Commons_compatible_image_available_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Celery) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Celery](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Celery.md) 
+
+### #is_/same_as :: [Celery.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Celery.public.md) 
+
+### #is_/same_as :: [Celery.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Celery.internal.md) 
+
+### #is_/same_as :: [Celery.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Celery.protect.md) 
+
+### #is_/same_as :: [Celery.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Celery.private.md) 
+
+### #is_/same_as :: [Celery.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Celery.personal.md) 
+
+### #is_/same_as :: [Celery.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Celery.secret.md)
+

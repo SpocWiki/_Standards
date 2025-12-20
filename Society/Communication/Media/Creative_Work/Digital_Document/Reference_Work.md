@@ -59,3 +59,22 @@ Commons_category: Reference works
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reference%20work) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reference_Work](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.md) 
+
+### #is_/same_as :: [Reference_Work.public](/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.public.md) 
+
+### #is_/same_as :: [Reference_Work.internal](/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.internal.md) 
+
+### #is_/same_as :: [Reference_Work.protect](/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.protect.md) 
+
+### #is_/same_as :: [Reference_Work.private](/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.private.md) 
+
+### #is_/same_as :: [Reference_Work.personal](/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.personal.md) 
+
+### #is_/same_as :: [Reference_Work.secret](/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.secret.md)
+

@@ -46,3 +46,22 @@ Commons_category: Comparative religion
 > [Wikipedia](https://en.wikipedia.org/wiki/Comparative%20religion) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Comparative_Religion](/_Standards/Philosophy/Metaphysic/Religion/Comparative_Religion.md) 
+
+### #is_/same_as :: [Comparative_Religion.public](/_public/Philosophy/Metaphysic/Religion/Comparative_Religion.public.md) 
+
+### #is_/same_as :: [Comparative_Religion.internal](/_internal/Philosophy/Metaphysic/Religion/Comparative_Religion.internal.md) 
+
+### #is_/same_as :: [Comparative_Religion.protect](/_protect/Philosophy/Metaphysic/Religion/Comparative_Religion.protect.md) 
+
+### #is_/same_as :: [Comparative_Religion.private](/_private/Philosophy/Metaphysic/Religion/Comparative_Religion.private.md) 
+
+### #is_/same_as :: [Comparative_Religion.personal](/_personal/Philosophy/Metaphysic/Religion/Comparative_Religion.personal.md) 
+
+### #is_/same_as :: [Comparative_Religion.secret](/_secret/Philosophy/Metaphysic/Religion/Comparative_Religion.secret.md)
+

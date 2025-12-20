@@ -368,3 +368,22 @@ Royal_Academy_new_identifier: paul-gauguin
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Gauguin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paul_Gauguin](/_Standards/Society/Communication/Media/Painting/Painter/Paul_Gauguin.md) 
+
+### #is_/same_as :: [Paul_Gauguin.public](/_public/Society/Communication/Media/Painting/Painter/Paul_Gauguin.public.md) 
+
+### #is_/same_as :: [Paul_Gauguin.internal](/_internal/Society/Communication/Media/Painting/Painter/Paul_Gauguin.internal.md) 
+
+### #is_/same_as :: [Paul_Gauguin.protect](/_protect/Society/Communication/Media/Painting/Painter/Paul_Gauguin.protect.md) 
+
+### #is_/same_as :: [Paul_Gauguin.private](/_private/Society/Communication/Media/Painting/Painter/Paul_Gauguin.private.md) 
+
+### #is_/same_as :: [Paul_Gauguin.personal](/_personal/Society/Communication/Media/Painting/Painter/Paul_Gauguin.personal.md) 
+
+### #is_/same_as :: [Paul_Gauguin.secret](/_secret/Society/Communication/Media/Painting/Painter/Paul_Gauguin.secret.md)
+

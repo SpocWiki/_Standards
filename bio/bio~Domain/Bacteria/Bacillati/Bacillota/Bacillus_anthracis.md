@@ -14,3 +14,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacillus%20anthracis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bacillus_anthracis](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.md) 
+
+### #is_/same_as :: [Bacillus_anthracis.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.public.md) 
+
+### #is_/same_as :: [Bacillus_anthracis.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.internal.md) 
+
+### #is_/same_as :: [Bacillus_anthracis.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.protect.md) 
+
+### #is_/same_as :: [Bacillus_anthracis.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.private.md) 
+
+### #is_/same_as :: [Bacillus_anthracis.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.personal.md) 
+
+### #is_/same_as :: [Bacillus_anthracis.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.secret.md)
+

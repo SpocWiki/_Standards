@@ -60,3 +60,22 @@ flowchart LR
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phase%20transition) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phase_Transition](/_Standards/Science/Physics/State_of_Matter/Phase_Transition.md) 
+
+### #is_/same_as :: [Phase_Transition.public](/_public/Science/Physics/State_of_Matter/Phase_Transition.public.md) 
+
+### #is_/same_as :: [Phase_Transition.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition.internal.md) 
+
+### #is_/same_as :: [Phase_Transition.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition.protect.md) 
+
+### #is_/same_as :: [Phase_Transition.private](/_private/Science/Physics/State_of_Matter/Phase_Transition.private.md) 
+
+### #is_/same_as :: [Phase_Transition.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition.personal.md) 
+
+### #is_/same_as :: [Phase_Transition.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition.secret.md)
+

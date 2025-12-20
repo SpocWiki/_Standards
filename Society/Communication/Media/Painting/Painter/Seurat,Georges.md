@@ -155,3 +155,22 @@ ISNI: "0000000108559616"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Georges%20Seurat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seurat,Georges](/_Standards/Society/Communication/Media/Painting/Painter/Seurat,Georges.md) 
+
+### #is_/same_as :: [Seurat,Georges.public](/_public/Society/Communication/Media/Painting/Painter/Seurat,Georges.public.md) 
+
+### #is_/same_as :: [Seurat,Georges.internal](/_internal/Society/Communication/Media/Painting/Painter/Seurat,Georges.internal.md) 
+
+### #is_/same_as :: [Seurat,Georges.protect](/_protect/Society/Communication/Media/Painting/Painter/Seurat,Georges.protect.md) 
+
+### #is_/same_as :: [Seurat,Georges.private](/_private/Society/Communication/Media/Painting/Painter/Seurat,Georges.private.md) 
+
+### #is_/same_as :: [Seurat,Georges.personal](/_personal/Society/Communication/Media/Painting/Painter/Seurat,Georges.personal.md) 
+
+### #is_/same_as :: [Seurat,Georges.secret](/_secret/Society/Communication/Media/Painting/Painter/Seurat,Georges.secret.md)
+

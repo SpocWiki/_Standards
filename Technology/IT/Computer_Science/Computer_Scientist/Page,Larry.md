@@ -84,3 +84,22 @@ Instagram_username: larry_page
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Larry%20Page)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Page,Larry](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.md) 
+
+### #is_/same_as :: [Page,Larry.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.public.md) 
+
+### #is_/same_as :: [Page,Larry.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.internal.md) 
+
+### #is_/same_as :: [Page,Larry.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.protect.md) 
+
+### #is_/same_as :: [Page,Larry.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.private.md) 
+
+### #is_/same_as :: [Page,Larry.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.personal.md) 
+
+### #is_/same_as :: [Page,Larry.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.secret.md)
+

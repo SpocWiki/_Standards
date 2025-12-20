@@ -180,17 +180,17 @@ DSSTOX_compound_identifier: DTXCID803872
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ammonia](Ammonia.md) 
+### #is_/same_as :: [Ammonia](/_Standards/Chemistry/Inorganic_Chemistry/Ammonia.md) 
 
-### #is_/same_as :: [Ammonia.public](/_public/Chemistry/inOrganic/Ammonia.public.md) 
+### #is_/same_as :: [Ammonia.public](/_public/Chemistry/Inorganic_Chemistry/Ammonia.public.md) 
 
-### #is_/same_as :: [Ammonia.internal](/_internal/Chemistry/inOrganic/Ammonia.internal.md) 
+### #is_/same_as :: [Ammonia.internal](/_internal/Chemistry/Inorganic_Chemistry/Ammonia.internal.md) 
 
-### #is_/same_as :: [Ammonia.protect](/_protect/Chemistry/inOrganic/Ammonia.protect.md) 
+### #is_/same_as :: [Ammonia.protect](/_protect/Chemistry/Inorganic_Chemistry/Ammonia.protect.md) 
 
-### #is_/same_as :: [Ammonia.private](/_private/Chemistry/inOrganic/Ammonia.private.md) 
+### #is_/same_as :: [Ammonia.private](/_private/Chemistry/Inorganic_Chemistry/Ammonia.private.md) 
 
-### #is_/same_as :: [Ammonia.personal](/_personal/Chemistry/inOrganic/Ammonia.personal.md) 
+### #is_/same_as :: [Ammonia.personal](/_personal/Chemistry/Inorganic_Chemistry/Ammonia.personal.md) 
 
-### #is_/same_as :: [Ammonia.secret](/_secret/Chemistry/inOrganic/Ammonia.secret.md)
+### #is_/same_as :: [Ammonia.secret](/_secret/Chemistry/Inorganic_Chemistry/Ammonia.secret.md)
 

@@ -153,3 +153,22 @@ official_name: General Motors Company
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20Motors) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GM(General_Motors)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).md) 
+
+### #is_/same_as :: [GM(General_Motors).public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).public.md) 
+
+### #is_/same_as :: [GM(General_Motors).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).internal.md) 
+
+### #is_/same_as :: [GM(General_Motors).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).protect.md) 
+
+### #is_/same_as :: [GM(General_Motors).private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).private.md) 
+
+### #is_/same_as :: [GM(General_Motors).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).personal.md) 
+
+### #is_/same_as :: [GM(General_Motors).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).secret.md)
+

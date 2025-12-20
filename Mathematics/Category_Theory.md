@@ -75,3 +75,22 @@ GitHub_topic: category-theory
 > [Wikipedia](https://en.wikipedia.org/wiki/Category%20theory)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Category_Theory](/_Standards/Mathematics/Category_Theory.md) 
+
+### #is_/same_as :: [Category_Theory.public](/_public/Mathematics/Category_Theory.public.md) 
+
+### #is_/same_as :: [Category_Theory.internal](/_internal/Mathematics/Category_Theory.internal.md) 
+
+### #is_/same_as :: [Category_Theory.protect](/_protect/Mathematics/Category_Theory.protect.md) 
+
+### #is_/same_as :: [Category_Theory.private](/_private/Mathematics/Category_Theory.private.md) 
+
+### #is_/same_as :: [Category_Theory.personal](/_personal/Mathematics/Category_Theory.personal.md) 
+
+### #is_/same_as :: [Category_Theory.secret](/_secret/Mathematics/Category_Theory.secret.md)
+

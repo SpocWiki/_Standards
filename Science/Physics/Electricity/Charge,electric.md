@@ -80,19 +80,20 @@ Since 2019 the Charge is defined as exactly 1 Electron Charge every 1.602176634Ã
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20charge)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charge,electric](/_Standards/Dimension/Charge,electric.md) 
+### #is_/same_as :: [Charge,electric](/_Standards/Science/Physics/Electricity/Charge,electric.md) 
 
-### #is_/same_as :: [Charge,electric.public](/_public/Dimension/Charge,electric.public.md) 
+### #is_/same_as :: [Charge,electric.public](/_public/Science/Physics/Electricity/Charge,electric.public.md) 
 
-### #is_/same_as :: [Charge,electric.internal](/_internal/Dimension/Charge,electric.internal.md) 
+### #is_/same_as :: [Charge,electric.internal](/_internal/Science/Physics/Electricity/Charge,electric.internal.md) 
 
-### #is_/same_as :: [Charge,electric.protect](/_protect/Dimension/Charge,electric.protect.md) 
+### #is_/same_as :: [Charge,electric.protect](/_protect/Science/Physics/Electricity/Charge,electric.protect.md) 
 
-### #is_/same_as :: [Charge,electric.private](/_private/Dimension/Charge,electric.private.md) 
+### #is_/same_as :: [Charge,electric.private](/_private/Science/Physics/Electricity/Charge,electric.private.md) 
 
-### #is_/same_as :: [Charge,electric.personal](/_personal/Dimension/Charge,electric.personal.md) 
+### #is_/same_as :: [Charge,electric.personal](/_personal/Science/Physics/Electricity/Charge,electric.personal.md) 
 
-### #is_/same_as :: [Charge,electric.secret](/_secret/Dimension/Charge,electric.secret.md)
+### #is_/same_as :: [Charge,electric.secret](/_secret/Science/Physics/Electricity/Charge,electric.secret.md)
 

@@ -44,17 +44,17 @@ Data type: PronounceableText.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [pronounceable_text](/_Standards/schema-org/Class/is_a_/data_type/text/pronounceable_text.md) 
+### #is_/same_as :: [Pronounceable_Text](/_Standards/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.md) 
 
-### #is_/same_as :: [pronounceable_text.public](/_public/schema-org/Class/is_a_/data_type/text/pronounceable_text.public.md) 
+### #is_/same_as :: [Pronounceable_Text.public](/_public/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.public.md) 
 
-### #is_/same_as :: [pronounceable_text.internal](/_internal/schema-org/Class/is_a_/data_type/text/pronounceable_text.internal.md) 
+### #is_/same_as :: [Pronounceable_Text.internal](/_internal/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.internal.md) 
 
-### #is_/same_as :: [pronounceable_text.protect](/_protect/schema-org/Class/is_a_/data_type/text/pronounceable_text.protect.md) 
+### #is_/same_as :: [Pronounceable_Text.protect](/_protect/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.protect.md) 
 
-### #is_/same_as :: [pronounceable_text.private](/_private/schema-org/Class/is_a_/data_type/text/pronounceable_text.private.md) 
+### #is_/same_as :: [Pronounceable_Text.private](/_private/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.private.md) 
 
-### #is_/same_as :: [pronounceable_text.personal](/_personal/schema-org/Class/is_a_/data_type/text/pronounceable_text.personal.md) 
+### #is_/same_as :: [Pronounceable_Text.personal](/_personal/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.personal.md) 
 
-### #is_/same_as :: [pronounceable_text.secret](/_secret/schema-org/Class/is_a_/data_type/text/pronounceable_text.secret.md)
+### #is_/same_as :: [Pronounceable_Text.secret](/_secret/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.secret.md)
 

@@ -34,3 +34,22 @@ Commons_category: Polyamides
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polyamide](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide.md) 
+
+### #is_/same_as :: [Polyamide.public](/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide.public.md) 
+
+### #is_/same_as :: [Polyamide.internal](/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide.internal.md) 
+
+### #is_/same_as :: [Polyamide.protect](/_protect/Chemistry/Organic_Chemistry/Polymer/Polyamide.protect.md) 
+
+### #is_/same_as :: [Polyamide.private](/_private/Chemistry/Organic_Chemistry/Polymer/Polyamide.private.md) 
+
+### #is_/same_as :: [Polyamide.personal](/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide.personal.md) 
+
+### #is_/same_as :: [Polyamide.secret](/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide.secret.md)
+

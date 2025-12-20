@@ -48,3 +48,22 @@ Commons_category: Naturalism (philosophy)
 > [Wikipedia](https://en.wikipedia.org/wiki/Naturalism%20(philosophy)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Naturalism](/_Standards/Philosophy/Naturalism.md) 
+
+### #is_/same_as :: [Naturalism.public](/_public/Philosophy/Naturalism.public.md) 
+
+### #is_/same_as :: [Naturalism.internal](/_internal/Philosophy/Naturalism.internal.md) 
+
+### #is_/same_as :: [Naturalism.protect](/_protect/Philosophy/Naturalism.protect.md) 
+
+### #is_/same_as :: [Naturalism.private](/_private/Philosophy/Naturalism.private.md) 
+
+### #is_/same_as :: [Naturalism.personal](/_personal/Philosophy/Naturalism.personal.md) 
+
+### #is_/same_as :: [Naturalism.secret](/_secret/Philosophy/Naturalism.secret.md)
+

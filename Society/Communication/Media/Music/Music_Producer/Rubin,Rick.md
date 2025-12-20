@@ -33,3 +33,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rick%20Rubin)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rubin,Rick](/_Standards/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.md) 
+
+### #is_/same_as :: [Rubin,Rick.public](/_public/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.public.md) 
+
+### #is_/same_as :: [Rubin,Rick.internal](/_internal/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.internal.md) 
+
+### #is_/same_as :: [Rubin,Rick.protect](/_protect/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.protect.md) 
+
+### #is_/same_as :: [Rubin,Rick.private](/_private/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.private.md) 
+
+### #is_/same_as :: [Rubin,Rick.personal](/_personal/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.personal.md) 
+
+### #is_/same_as :: [Rubin,Rick.secret](/_secret/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.secret.md)
+

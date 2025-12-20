@@ -149,3 +149,22 @@ Provenio_UUID: 24c06c29-5430-4ccb-ad91-bf02f30b09b9
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Petrarch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Petrarch](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Petrarch.md) 
+
+### #is_/same_as :: [Petrarch.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Petrarch.public.md) 
+
+### #is_/same_as :: [Petrarch.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Petrarch.internal.md) 
+
+### #is_/same_as :: [Petrarch.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Petrarch.protect.md) 
+
+### #is_/same_as :: [Petrarch.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Petrarch.private.md) 
+
+### #is_/same_as :: [Petrarch.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Petrarch.personal.md) 
+
+### #is_/same_as :: [Petrarch.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Petrarch.secret.md)
+

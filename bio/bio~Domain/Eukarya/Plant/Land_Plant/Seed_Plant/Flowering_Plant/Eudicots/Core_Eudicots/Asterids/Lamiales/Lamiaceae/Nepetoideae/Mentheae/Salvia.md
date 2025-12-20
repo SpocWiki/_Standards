@@ -105,3 +105,22 @@ NBN_System_Key: NHMSYS0000463190
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salvia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Salvia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Salvia.md) 
+
+### #is_/same_as :: [Salvia.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Salvia.public.md) 
+
+### #is_/same_as :: [Salvia.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Salvia.internal.md) 
+
+### #is_/same_as :: [Salvia.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Salvia.protect.md) 
+
+### #is_/same_as :: [Salvia.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Salvia.private.md) 
+
+### #is_/same_as :: [Salvia.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Salvia.personal.md) 
+
+### #is_/same_as :: [Salvia.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Salvia.secret.md)
+

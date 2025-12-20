@@ -146,3 +146,22 @@ ISNI: "0000000121468372"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J%C3%BCrgen%20Habermas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jürgen_Habermas](/_Standards/Philosophy/Philosopher/Jürgen_Habermas.md) 
+
+### #is_/same_as :: [Jürgen_Habermas.public](/_public/Philosophy/Philosopher/Jürgen_Habermas.public.md) 
+
+### #is_/same_as :: [Jürgen_Habermas.internal](/_internal/Philosophy/Philosopher/Jürgen_Habermas.internal.md) 
+
+### #is_/same_as :: [Jürgen_Habermas.protect](/_protect/Philosophy/Philosopher/Jürgen_Habermas.protect.md) 
+
+### #is_/same_as :: [Jürgen_Habermas.private](/_private/Philosophy/Philosopher/Jürgen_Habermas.private.md) 
+
+### #is_/same_as :: [Jürgen_Habermas.personal](/_personal/Philosophy/Philosopher/Jürgen_Habermas.personal.md) 
+
+### #is_/same_as :: [Jürgen_Habermas.secret](/_secret/Philosophy/Philosopher/Jürgen_Habermas.secret.md)
+

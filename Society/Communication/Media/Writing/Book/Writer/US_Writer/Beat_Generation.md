@@ -69,3 +69,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ginsberg-leary-lilly.j
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beat%20Generation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beat_Generation](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.md) 
+
+### #is_/same_as :: [Beat_Generation.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.public.md) 
+
+### #is_/same_as :: [Beat_Generation.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.internal.md) 
+
+### #is_/same_as :: [Beat_Generation.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.protect.md) 
+
+### #is_/same_as :: [Beat_Generation.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.private.md) 
+
+### #is_/same_as :: [Beat_Generation.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.personal.md) 
+
+### #is_/same_as :: [Beat_Generation.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.secret.md)
+

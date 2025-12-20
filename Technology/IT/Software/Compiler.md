@@ -40,3 +40,22 @@ Commons_category: Compilers
 > [Wikipedia](https://en.wikipedia.org/wiki/Compiler) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Compiler](/_Standards/Technology/IT/Software/Compiler.md) 
+
+### #is_/same_as :: [Compiler.public](/_public/Technology/IT/Software/Compiler.public.md) 
+
+### #is_/same_as :: [Compiler.internal](/_internal/Technology/IT/Software/Compiler.internal.md) 
+
+### #is_/same_as :: [Compiler.protect](/_protect/Technology/IT/Software/Compiler.protect.md) 
+
+### #is_/same_as :: [Compiler.private](/_private/Technology/IT/Software/Compiler.private.md) 
+
+### #is_/same_as :: [Compiler.personal](/_personal/Technology/IT/Software/Compiler.personal.md) 
+
+### #is_/same_as :: [Compiler.secret](/_secret/Technology/IT/Software/Compiler.secret.md)
+

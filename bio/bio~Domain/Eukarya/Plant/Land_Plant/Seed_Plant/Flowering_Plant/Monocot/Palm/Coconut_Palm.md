@@ -171,3 +171,22 @@ NBN_System_Key: NHMSYS0021195907
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coconut) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coconut_Palm](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.md) 
+
+### #is_/same_as :: [Coconut_Palm.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.public.md) 
+
+### #is_/same_as :: [Coconut_Palm.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.internal.md) 
+
+### #is_/same_as :: [Coconut_Palm.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.protect.md) 
+
+### #is_/same_as :: [Coconut_Palm.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.private.md) 
+
+### #is_/same_as :: [Coconut_Palm.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.personal.md) 
+
+### #is_/same_as :: [Coconut_Palm.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Coconut_Palm.secret.md)
+

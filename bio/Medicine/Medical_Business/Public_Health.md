@@ -97,19 +97,20 @@ especially epidemiology, sanitation, immunization, and preventive medicine.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20health)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Health](Public_Health.md) 
+### #is_/same_as :: [Public_Health](/_Standards/bio/Medicine/Medical_Business/Public_Health.md) 
 
-### #is_/same_as :: [Public_Health.public](/_public/Society/Organization/Local_Business/Medical_Business/Public_Health.public.md) 
+### #is_/same_as :: [Public_Health.public](/_public/bio/Medicine/Medical_Business/Public_Health.public.md) 
 
-### #is_/same_as :: [Public_Health.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Public_Health.internal.md) 
+### #is_/same_as :: [Public_Health.internal](/_internal/bio/Medicine/Medical_Business/Public_Health.internal.md) 
 
-### #is_/same_as :: [Public_Health.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Public_Health.protect.md) 
+### #is_/same_as :: [Public_Health.protect](/_protect/bio/Medicine/Medical_Business/Public_Health.protect.md) 
 
-### #is_/same_as :: [Public_Health.private](/_private/Society/Organization/Local_Business/Medical_Business/Public_Health.private.md) 
+### #is_/same_as :: [Public_Health.private](/_private/bio/Medicine/Medical_Business/Public_Health.private.md) 
 
-### #is_/same_as :: [Public_Health.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Public_Health.personal.md) 
+### #is_/same_as :: [Public_Health.personal](/_personal/bio/Medicine/Medical_Business/Public_Health.personal.md) 
 
-### #is_/same_as :: [Public_Health.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Public_Health.secret.md)
+### #is_/same_as :: [Public_Health.secret](/_secret/bio/Medicine/Medical_Business/Public_Health.secret.md)
 

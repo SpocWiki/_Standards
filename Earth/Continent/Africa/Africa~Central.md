@@ -89,3 +89,22 @@ minZoom: 3
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Africa~Central](/_Standards/Earth/Continent/Africa/Africa~Central.md) 
+
+### #is_/same_as :: [Africa~Central.public](/_public/Earth/Continent/Africa/Africa~Central.public.md) 
+
+### #is_/same_as :: [Africa~Central.internal](/_internal/Earth/Continent/Africa/Africa~Central.internal.md) 
+
+### #is_/same_as :: [Africa~Central.protect](/_protect/Earth/Continent/Africa/Africa~Central.protect.md) 
+
+### #is_/same_as :: [Africa~Central.private](/_private/Earth/Continent/Africa/Africa~Central.private.md) 
+
+### #is_/same_as :: [Africa~Central.personal](/_personal/Earth/Continent/Africa/Africa~Central.personal.md) 
+
+### #is_/same_as :: [Africa~Central.secret](/_secret/Earth/Continent/Africa/Africa~Central.secret.md)
+

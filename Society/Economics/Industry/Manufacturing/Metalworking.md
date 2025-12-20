@@ -52,3 +52,22 @@ UNSPSC_Code: "73121613"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metalworking) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metalworking](/_Standards/Society/Economics/Industry/Manufacturing/Metalworking.md) 
+
+### #is_/same_as :: [Metalworking.public](/_public/Society/Economics/Industry/Manufacturing/Metalworking.public.md) 
+
+### #is_/same_as :: [Metalworking.internal](/_internal/Society/Economics/Industry/Manufacturing/Metalworking.internal.md) 
+
+### #is_/same_as :: [Metalworking.protect](/_protect/Society/Economics/Industry/Manufacturing/Metalworking.protect.md) 
+
+### #is_/same_as :: [Metalworking.private](/_private/Society/Economics/Industry/Manufacturing/Metalworking.private.md) 
+
+### #is_/same_as :: [Metalworking.personal](/_personal/Society/Economics/Industry/Manufacturing/Metalworking.personal.md) 
+
+### #is_/same_as :: [Metalworking.secret](/_secret/Society/Economics/Industry/Manufacturing/Metalworking.secret.md)
+

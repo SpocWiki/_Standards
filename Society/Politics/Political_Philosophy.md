@@ -73,3 +73,22 @@ subreddit: PoliticalPhilosophy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Political%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Political_Philosophy](/_Standards/Society/Politics/Political_Philosophy.md) 
+
+### #is_/same_as :: [Political_Philosophy.public](/_public/Society/Politics/Political_Philosophy.public.md) 
+
+### #is_/same_as :: [Political_Philosophy.internal](/_internal/Society/Politics/Political_Philosophy.internal.md) 
+
+### #is_/same_as :: [Political_Philosophy.protect](/_protect/Society/Politics/Political_Philosophy.protect.md) 
+
+### #is_/same_as :: [Political_Philosophy.private](/_private/Society/Politics/Political_Philosophy.private.md) 
+
+### #is_/same_as :: [Political_Philosophy.personal](/_personal/Society/Politics/Political_Philosophy.personal.md) 
+
+### #is_/same_as :: [Political_Philosophy.secret](/_secret/Society/Politics/Political_Philosophy.secret.md)
+

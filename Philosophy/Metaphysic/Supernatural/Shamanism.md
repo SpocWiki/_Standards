@@ -43,3 +43,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shamanism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shamanism](/_Standards/Philosophy/Metaphysic/Supernatural/Shamanism.md) 
+
+### #is_/same_as :: [Shamanism.public](/_public/Philosophy/Metaphysic/Supernatural/Shamanism.public.md) 
+
+### #is_/same_as :: [Shamanism.internal](/_internal/Philosophy/Metaphysic/Supernatural/Shamanism.internal.md) 
+
+### #is_/same_as :: [Shamanism.protect](/_protect/Philosophy/Metaphysic/Supernatural/Shamanism.protect.md) 
+
+### #is_/same_as :: [Shamanism.private](/_private/Philosophy/Metaphysic/Supernatural/Shamanism.private.md) 
+
+### #is_/same_as :: [Shamanism.personal](/_personal/Philosophy/Metaphysic/Supernatural/Shamanism.personal.md) 
+
+### #is_/same_as :: [Shamanism.secret](/_secret/Philosophy/Metaphysic/Supernatural/Shamanism.secret.md)
+

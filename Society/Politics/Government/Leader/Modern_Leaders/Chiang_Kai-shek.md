@@ -27,3 +27,22 @@ has_id_wikidata: Q16574
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chiang%20Kai-shek)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chiang_Kai-shek](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.md) 
+
+### #is_/same_as :: [Chiang_Kai-shek.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.public.md) 
+
+### #is_/same_as :: [Chiang_Kai-shek.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.internal.md) 
+
+### #is_/same_as :: [Chiang_Kai-shek.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.protect.md) 
+
+### #is_/same_as :: [Chiang_Kai-shek.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.private.md) 
+
+### #is_/same_as :: [Chiang_Kai-shek.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.personal.md) 
+
+### #is_/same_as :: [Chiang_Kai-shek.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.secret.md)
+

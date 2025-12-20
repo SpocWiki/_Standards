@@ -68,3 +68,22 @@ OpenStreetMap_tag_or_key: Key:drinking_water
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Drinking%20water) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Drinking_Water](/_Standards/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.md) 
+
+### #is_/same_as :: [Drinking_Water.public](/_public/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.public.md) 
+
+### #is_/same_as :: [Drinking_Water.internal](/_internal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.internal.md) 
+
+### #is_/same_as :: [Drinking_Water.protect](/_protect/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.protect.md) 
+
+### #is_/same_as :: [Drinking_Water.private](/_private/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.private.md) 
+
+### #is_/same_as :: [Drinking_Water.personal](/_personal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.personal.md) 
+
+### #is_/same_as :: [Drinking_Water.secret](/_secret/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.secret.md)
+

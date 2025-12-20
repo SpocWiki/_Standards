@@ -39,17 +39,17 @@ UKNonprofitType: Non-profit organization type originating from the United Kingdo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uk_Nonprofit_Type](Uk_Nonprofit_Type.md) 
+### #is_/same_as :: [Uk_Nonprofit_Type](/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.md) 
 
-### #is_/same_as :: [uk_nonprofit_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.public.md) 
+### #is_/same_as :: [Uk_Nonprofit_Type.public](/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.public.md) 
 
-### #is_/same_as :: [uk_nonprofit_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.internal.md) 
+### #is_/same_as :: [Uk_Nonprofit_Type.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.internal.md) 
 
-### #is_/same_as :: [uk_nonprofit_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.protect.md) 
+### #is_/same_as :: [Uk_Nonprofit_Type.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.protect.md) 
 
-### #is_/same_as :: [uk_nonprofit_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.private.md) 
+### #is_/same_as :: [Uk_Nonprofit_Type.private](/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.private.md) 
 
-### #is_/same_as :: [uk_nonprofit_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.personal.md) 
+### #is_/same_as :: [Uk_Nonprofit_Type.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.personal.md) 
 
-### #is_/same_as :: [uk_nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.secret.md)
+### #is_/same_as :: [Uk_Nonprofit_Type.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.secret.md)
 

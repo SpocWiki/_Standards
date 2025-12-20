@@ -101,3 +101,22 @@ Europeana_entity: agent/base/62518
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jon%20Lord) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lord,Jon](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.md) 
+
+### #is_/same_as :: [Lord,Jon.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.public.md) 
+
+### #is_/same_as :: [Lord,Jon.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.internal.md) 
+
+### #is_/same_as :: [Lord,Jon.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.protect.md) 
+
+### #is_/same_as :: [Lord,Jon.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.private.md) 
+
+### #is_/same_as :: [Lord,Jon.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.personal.md) 
+
+### #is_/same_as :: [Lord,Jon.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple/Lord,Jon.secret.md)
+

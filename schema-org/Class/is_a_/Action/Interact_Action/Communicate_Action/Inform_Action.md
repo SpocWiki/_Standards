@@ -41,17 +41,17 @@ The act of notifying someone of information pertinent to them, with no expectati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [inform_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.md) 
+### #is_/same_as :: [Inform_Action](/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.md) 
 
-### #is_/same_as :: [inform_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.public.md) 
+### #is_/same_as :: [Inform_Action.public](/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.public.md) 
 
-### #is_/same_as :: [inform_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.internal.md) 
+### #is_/same_as :: [Inform_Action.internal](/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.internal.md) 
 
-### #is_/same_as :: [inform_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.protect.md) 
+### #is_/same_as :: [Inform_Action.protect](/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.protect.md) 
 
-### #is_/same_as :: [inform_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.private.md) 
+### #is_/same_as :: [Inform_Action.private](/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.private.md) 
 
-### #is_/same_as :: [inform_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.personal.md) 
+### #is_/same_as :: [Inform_Action.personal](/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.personal.md) 
 
-### #is_/same_as :: [inform_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.secret.md)
+### #is_/same_as :: [Inform_Action.secret](/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.secret.md)
 

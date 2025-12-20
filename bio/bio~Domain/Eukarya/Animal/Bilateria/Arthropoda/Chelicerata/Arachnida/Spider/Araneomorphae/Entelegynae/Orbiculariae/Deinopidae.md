@@ -103,7 +103,7 @@ Amer. Midland Nat. 85:85-96.
   Sex ::                Female
   Life Cycle Stage ::     adult
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

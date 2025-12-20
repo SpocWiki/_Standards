@@ -42,3 +42,22 @@ Gujarati_Vishwakosh_entry: અક્ષાંશ-રેખાંશ
 > [Wikipedia](https://en.wikipedia.org/wiki/Geographic%20coordinate%20system) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geographic_Coordinate_System](/_Standards/Earth/Geography/Geographic_Coordinate_System.md) 
+
+### #is_/same_as :: [Geographic_Coordinate_System.public](/_public/Earth/Geography/Geographic_Coordinate_System.public.md) 
+
+### #is_/same_as :: [Geographic_Coordinate_System.internal](/_internal/Earth/Geography/Geographic_Coordinate_System.internal.md) 
+
+### #is_/same_as :: [Geographic_Coordinate_System.protect](/_protect/Earth/Geography/Geographic_Coordinate_System.protect.md) 
+
+### #is_/same_as :: [Geographic_Coordinate_System.private](/_private/Earth/Geography/Geographic_Coordinate_System.private.md) 
+
+### #is_/same_as :: [Geographic_Coordinate_System.personal](/_personal/Earth/Geography/Geographic_Coordinate_System.personal.md) 
+
+### #is_/same_as :: [Geographic_Coordinate_System.secret](/_secret/Earth/Geography/Geographic_Coordinate_System.secret.md)
+

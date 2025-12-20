@@ -118,3 +118,22 @@ date_of_birth: 1777-08-14T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Christian%20%C3%98rsted) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ørsted,Hans_Christian](/_Standards/Science/Physics/Physicist/Ørsted,Hans_Christian.md) 
+
+### #is_/same_as :: [Ørsted,Hans_Christian.public](/_public/Science/Physics/Physicist/Ørsted,Hans_Christian.public.md) 
+
+### #is_/same_as :: [Ørsted,Hans_Christian.internal](/_internal/Science/Physics/Physicist/Ørsted,Hans_Christian.internal.md) 
+
+### #is_/same_as :: [Ørsted,Hans_Christian.protect](/_protect/Science/Physics/Physicist/Ørsted,Hans_Christian.protect.md) 
+
+### #is_/same_as :: [Ørsted,Hans_Christian.private](/_private/Science/Physics/Physicist/Ørsted,Hans_Christian.private.md) 
+
+### #is_/same_as :: [Ørsted,Hans_Christian.personal](/_personal/Science/Physics/Physicist/Ørsted,Hans_Christian.personal.md) 
+
+### #is_/same_as :: [Ørsted,Hans_Christian.secret](/_secret/Science/Physics/Physicist/Ørsted,Hans_Christian.secret.md)
+

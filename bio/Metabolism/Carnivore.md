@@ -34,3 +34,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carnivore) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carnivore](/_Standards/bio/Metabolism/Carnivore.md) 
+
+### #is_/same_as :: [Carnivore.public](/_public/bio/Metabolism/Carnivore.public.md) 
+
+### #is_/same_as :: [Carnivore.internal](/_internal/bio/Metabolism/Carnivore.internal.md) 
+
+### #is_/same_as :: [Carnivore.protect](/_protect/bio/Metabolism/Carnivore.protect.md) 
+
+### #is_/same_as :: [Carnivore.private](/_private/bio/Metabolism/Carnivore.private.md) 
+
+### #is_/same_as :: [Carnivore.personal](/_personal/bio/Metabolism/Carnivore.personal.md) 
+
+### #is_/same_as :: [Carnivore.secret](/_secret/bio/Metabolism/Carnivore.secret.md)
+

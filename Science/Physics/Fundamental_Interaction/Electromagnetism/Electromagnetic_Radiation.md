@@ -61,16 +61,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electromagnetic_Radiation](Electromagnetic_Radiation.md) 
+### #is_/same_as :: [Electromagnetic_Radiation](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.md) 
 
-### #is_/same_as :: [Electromagnetic_Radiation.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation.public.md) 
+### #is_/same_as :: [Electromagnetic_Radiation.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.public.md) 
 
-### #is_/same_as :: [Electromagnetic_Radiation.internal](/_internal/Science/Physics/Electricity/Electromagnetic_Radiation.internal.md) 
+### #is_/same_as :: [Electromagnetic_Radiation.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.internal.md) 
 
-### #is_/same_as :: [Electromagnetic_Radiation.protect](/_protect/Science/Physics/Electricity/Electromagnetic_Radiation.protect.md) 
+### #is_/same_as :: [Electromagnetic_Radiation.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.protect.md) 
 
-### #is_/same_as :: [Electromagnetic_Radiation.private](/_private/Science/Physics/Electricity/Electromagnetic_Radiation.private.md) 
+### #is_/same_as :: [Electromagnetic_Radiation.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.private.md) 
 
-### #is_/same_as :: [Electromagnetic_Radiation.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation.personal.md) 
+### #is_/same_as :: [Electromagnetic_Radiation.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.personal.md) 
 
-### #is_/same_as :: [Electromagnetic_Radiation.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation.secret.md)
+### #is_/same_as :: [Electromagnetic_Radiation.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation.secret.md)
+

@@ -42,3 +42,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/OSMOS.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Osmosis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Osmosis](/_Standards/Chemistry/Substance/Mixture/Diffusion/Osmosis.md) 
+
+### #is_/same_as :: [Osmosis.public](/_public/Chemistry/Substance/Mixture/Diffusion/Osmosis.public.md) 
+
+### #is_/same_as :: [Osmosis.internal](/_internal/Chemistry/Substance/Mixture/Diffusion/Osmosis.internal.md) 
+
+### #is_/same_as :: [Osmosis.protect](/_protect/Chemistry/Substance/Mixture/Diffusion/Osmosis.protect.md) 
+
+### #is_/same_as :: [Osmosis.private](/_private/Chemistry/Substance/Mixture/Diffusion/Osmosis.private.md) 
+
+### #is_/same_as :: [Osmosis.personal](/_personal/Chemistry/Substance/Mixture/Diffusion/Osmosis.personal.md) 
+
+### #is_/same_as :: [Osmosis.secret](/_secret/Chemistry/Substance/Mixture/Diffusion/Osmosis.secret.md)
+

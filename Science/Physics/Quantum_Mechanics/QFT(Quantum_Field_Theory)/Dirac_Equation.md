@@ -269,3 +269,22 @@ $$
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dirac_Equation](/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.md) 
+
+### #is_/same_as :: [Dirac_Equation.public](/_public/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.public.md) 
+
+### #is_/same_as :: [Dirac_Equation.internal](/_internal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.internal.md) 
+
+### #is_/same_as :: [Dirac_Equation.protect](/_protect/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.protect.md) 
+
+### #is_/same_as :: [Dirac_Equation.private](/_private/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.private.md) 
+
+### #is_/same_as :: [Dirac_Equation.personal](/_personal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.personal.md) 
+
+### #is_/same_as :: [Dirac_Equation.secret](/_secret/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.secret.md)
+

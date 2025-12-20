@@ -41,3 +41,22 @@ Commons_category: Operators (notation)
 > [Wikipedia](https://en.wikipedia.org/wiki/Operator%20(mathematics)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Operator(Math)](/_Standards/Mathematics/Function(Math)/Operator(Math).md) 
+
+### #is_/same_as :: [Operator(Math).public](/_public/Mathematics/Function(Math)/Operator(Math).public.md) 
+
+### #is_/same_as :: [Operator(Math).internal](/_internal/Mathematics/Function(Math)/Operator(Math).internal.md) 
+
+### #is_/same_as :: [Operator(Math).protect](/_protect/Mathematics/Function(Math)/Operator(Math).protect.md) 
+
+### #is_/same_as :: [Operator(Math).private](/_private/Mathematics/Function(Math)/Operator(Math).private.md) 
+
+### #is_/same_as :: [Operator(Math).personal](/_personal/Mathematics/Function(Math)/Operator(Math).personal.md) 
+
+### #is_/same_as :: [Operator(Math).secret](/_secret/Mathematics/Function(Math)/Operator(Math).secret.md)
+

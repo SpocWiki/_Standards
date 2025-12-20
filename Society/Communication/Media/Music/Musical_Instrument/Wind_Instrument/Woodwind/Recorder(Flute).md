@@ -78,3 +78,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/BLOKFLETA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Recorder%20(musical%20instrument)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Recorder(Flute)](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).md) 
+
+### #is_/same_as :: [Recorder(Flute).public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).public.md) 
+
+### #is_/same_as :: [Recorder(Flute).internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).internal.md) 
+
+### #is_/same_as :: [Recorder(Flute).protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).protect.md) 
+
+### #is_/same_as :: [Recorder(Flute).private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).private.md) 
+
+### #is_/same_as :: [Recorder(Flute).personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).personal.md) 
+
+### #is_/same_as :: [Recorder(Flute).secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Recorder(Flute).secret.md)
+

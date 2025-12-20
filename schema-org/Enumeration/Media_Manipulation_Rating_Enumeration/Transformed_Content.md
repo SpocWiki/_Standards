@@ -54,17 +54,17 @@ Part or all of the audio has been manipulated to alter the words or sounds, or t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transformed_Content](Transformed_Content.md) 
+### #is_/same_as :: [Transformed_Content](/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.md) 
 
-### #is_/same_as :: [transformed_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.public.md) 
+### #is_/same_as :: [Transformed_Content.public](/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.public.md) 
 
-### #is_/same_as :: [transformed_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.internal.md) 
+### #is_/same_as :: [Transformed_Content.internal](/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.internal.md) 
 
-### #is_/same_as :: [transformed_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.protect.md) 
+### #is_/same_as :: [Transformed_Content.protect](/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.protect.md) 
 
-### #is_/same_as :: [transformed_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.private.md) 
+### #is_/same_as :: [Transformed_Content.private](/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.private.md) 
 
-### #is_/same_as :: [transformed_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.personal.md) 
+### #is_/same_as :: [Transformed_Content.personal](/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.personal.md) 
 
-### #is_/same_as :: [transformed_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.secret.md)
+### #is_/same_as :: [Transformed_Content.secret](/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.secret.md)
 

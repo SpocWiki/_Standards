@@ -62,3 +62,22 @@ inception: 1918-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stab-in-the-back%20myth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stab-in-the-Back_Myth](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.md) 
+
+### #is_/same_as :: [Stab-in-the-Back_Myth.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.public.md) 
+
+### #is_/same_as :: [Stab-in-the-Back_Myth.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.internal.md) 
+
+### #is_/same_as :: [Stab-in-the-Back_Myth.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.protect.md) 
+
+### #is_/same_as :: [Stab-in-the-Back_Myth.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.private.md) 
+
+### #is_/same_as :: [Stab-in-the-Back_Myth.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.personal.md) 
+
+### #is_/same_as :: [Stab-in-the-Back_Myth.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.secret.md)
+

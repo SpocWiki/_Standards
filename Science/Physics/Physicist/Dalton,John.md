@@ -106,3 +106,22 @@ date_of_birth: 1766-09-06T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Dalton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dalton,John](/_Standards/Science/Physics/Physicist/Dalton,John.md) 
+
+### #is_/same_as :: [Dalton,John.public](/_public/Science/Physics/Physicist/Dalton,John.public.md) 
+
+### #is_/same_as :: [Dalton,John.internal](/_internal/Science/Physics/Physicist/Dalton,John.internal.md) 
+
+### #is_/same_as :: [Dalton,John.protect](/_protect/Science/Physics/Physicist/Dalton,John.protect.md) 
+
+### #is_/same_as :: [Dalton,John.private](/_private/Science/Physics/Physicist/Dalton,John.private.md) 
+
+### #is_/same_as :: [Dalton,John.personal](/_personal/Science/Physics/Physicist/Dalton,John.personal.md) 
+
+### #is_/same_as :: [Dalton,John.secret](/_secret/Science/Physics/Physicist/Dalton,John.secret.md)
+

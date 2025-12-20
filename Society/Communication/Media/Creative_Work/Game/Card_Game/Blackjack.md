@@ -40,17 +40,17 @@ P8189: "987007283257305171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blackjack](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Game/Card_Game/Blackjack.md) 
+### #is_/same_as :: [Blackjack](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Blackjack.md) 
 
-### #is_/same_as :: [Blackjack.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Game/Card_Game/Blackjack.public.md) 
+### #is_/same_as :: [Blackjack.public](/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Blackjack.public.md) 
 
-### #is_/same_as :: [Blackjack.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Game/Card_Game/Blackjack.internal.md) 
+### #is_/same_as :: [Blackjack.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Blackjack.internal.md) 
 
-### #is_/same_as :: [Blackjack.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Game/Card_Game/Blackjack.protect.md) 
+### #is_/same_as :: [Blackjack.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Blackjack.protect.md) 
 
-### #is_/same_as :: [Blackjack.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Game/Card_Game/Blackjack.private.md) 
+### #is_/same_as :: [Blackjack.private](/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Blackjack.private.md) 
 
-### #is_/same_as :: [Blackjack.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Game/Card_Game/Blackjack.personal.md) 
+### #is_/same_as :: [Blackjack.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Blackjack.personal.md) 
 
-### #is_/same_as :: [Blackjack.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Game/Card_Game/Blackjack.secret.md)
+### #is_/same_as :: [Blackjack.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Blackjack.secret.md)
 

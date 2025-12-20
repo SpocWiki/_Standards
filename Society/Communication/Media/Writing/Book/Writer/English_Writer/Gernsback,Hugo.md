@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gernsback,Hugo](/_Standards/Society/Communication/Media/Writing/Book/Writer/Gernsback,Hugo.md) 
+### #is_/same_as :: [Gernsback,Hugo](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gernsback,Hugo.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.public](/_public/Society/Communication/Media/Writing/Book/Writer/Gernsback,Hugo.public.md) 
+### #is_/same_as :: [Gernsback,Hugo.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gernsback,Hugo.public.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Gernsback,Hugo.internal.md) 
+### #is_/same_as :: [Gernsback,Hugo.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gernsback,Hugo.internal.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Gernsback,Hugo.protect.md) 
+### #is_/same_as :: [Gernsback,Hugo.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gernsback,Hugo.protect.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.private](/_private/Society/Communication/Media/Writing/Book/Writer/Gernsback,Hugo.private.md) 
+### #is_/same_as :: [Gernsback,Hugo.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gernsback,Hugo.private.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Gernsback,Hugo.personal.md) 
+### #is_/same_as :: [Gernsback,Hugo.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gernsback,Hugo.personal.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Gernsback,Hugo.secret.md)
+### #is_/same_as :: [Gernsback,Hugo.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gernsback,Hugo.secret.md)
 

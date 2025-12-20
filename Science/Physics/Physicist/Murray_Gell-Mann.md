@@ -134,3 +134,22 @@ date_of_death: 2019-05-24T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Murray%20Gell-Mann) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Murray_Gell-Mann](/_Standards/Science/Physics/Physicist/Murray_Gell-Mann.md) 
+
+### #is_/same_as :: [Murray_Gell-Mann.public](/_public/Science/Physics/Physicist/Murray_Gell-Mann.public.md) 
+
+### #is_/same_as :: [Murray_Gell-Mann.internal](/_internal/Science/Physics/Physicist/Murray_Gell-Mann.internal.md) 
+
+### #is_/same_as :: [Murray_Gell-Mann.protect](/_protect/Science/Physics/Physicist/Murray_Gell-Mann.protect.md) 
+
+### #is_/same_as :: [Murray_Gell-Mann.private](/_private/Science/Physics/Physicist/Murray_Gell-Mann.private.md) 
+
+### #is_/same_as :: [Murray_Gell-Mann.personal](/_personal/Science/Physics/Physicist/Murray_Gell-Mann.personal.md) 
+
+### #is_/same_as :: [Murray_Gell-Mann.secret](/_secret/Science/Physics/Physicist/Murray_Gell-Mann.secret.md)
+

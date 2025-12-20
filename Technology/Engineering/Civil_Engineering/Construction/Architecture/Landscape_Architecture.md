@@ -33,3 +33,22 @@ subreddit: LandscapeArchitecture
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Landscape%20architecture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Landscape_Architecture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Landscape_Architecture.md) 
+
+### #is_/same_as :: [Landscape_Architecture.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Landscape_Architecture.public.md) 
+
+### #is_/same_as :: [Landscape_Architecture.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Landscape_Architecture.internal.md) 
+
+### #is_/same_as :: [Landscape_Architecture.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Landscape_Architecture.protect.md) 
+
+### #is_/same_as :: [Landscape_Architecture.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Landscape_Architecture.private.md) 
+
+### #is_/same_as :: [Landscape_Architecture.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Landscape_Architecture.personal.md) 
+
+### #is_/same_as :: [Landscape_Architecture.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Landscape_Architecture.secret.md)
+

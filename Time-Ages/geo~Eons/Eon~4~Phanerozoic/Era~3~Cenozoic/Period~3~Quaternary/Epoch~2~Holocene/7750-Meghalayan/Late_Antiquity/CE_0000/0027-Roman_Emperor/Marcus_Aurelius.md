@@ -181,3 +181,22 @@ date_of_death: 0180-03-16T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marcus%20Aurelius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marcus_Aurelius](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Marcus_Aurelius.md) 
+
+### #is_/same_as :: [Marcus_Aurelius.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Marcus_Aurelius.public.md) 
+
+### #is_/same_as :: [Marcus_Aurelius.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Marcus_Aurelius.internal.md) 
+
+### #is_/same_as :: [Marcus_Aurelius.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Marcus_Aurelius.protect.md) 
+
+### #is_/same_as :: [Marcus_Aurelius.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Marcus_Aurelius.private.md) 
+
+### #is_/same_as :: [Marcus_Aurelius.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Marcus_Aurelius.personal.md) 
+
+### #is_/same_as :: [Marcus_Aurelius.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Marcus_Aurelius.secret.md)
+

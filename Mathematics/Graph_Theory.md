@@ -58,3 +58,22 @@ Commons_category: Graph theory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Graph%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Graph_Theory](/_Standards/Mathematics/Graph_Theory.md) 
+
+### #is_/same_as :: [Graph_Theory.public](/_public/Mathematics/Graph_Theory.public.md) 
+
+### #is_/same_as :: [Graph_Theory.internal](/_internal/Mathematics/Graph_Theory.internal.md) 
+
+### #is_/same_as :: [Graph_Theory.protect](/_protect/Mathematics/Graph_Theory.protect.md) 
+
+### #is_/same_as :: [Graph_Theory.private](/_private/Mathematics/Graph_Theory.private.md) 
+
+### #is_/same_as :: [Graph_Theory.personal](/_personal/Mathematics/Graph_Theory.personal.md) 
+
+### #is_/same_as :: [Graph_Theory.secret](/_secret/Mathematics/Graph_Theory.secret.md)
+

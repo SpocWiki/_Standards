@@ -43,3 +43,22 @@ Commons_category: Sonatas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sonata) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sonata](/_Standards/Society/Communication/Media/Music/Music_Genre/Sonata.md) 
+
+### #is_/same_as :: [Sonata.public](/_public/Society/Communication/Media/Music/Music_Genre/Sonata.public.md) 
+
+### #is_/same_as :: [Sonata.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Sonata.internal.md) 
+
+### #is_/same_as :: [Sonata.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Sonata.protect.md) 
+
+### #is_/same_as :: [Sonata.private](/_private/Society/Communication/Media/Music/Music_Genre/Sonata.private.md) 
+
+### #is_/same_as :: [Sonata.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Sonata.personal.md) 
+
+### #is_/same_as :: [Sonata.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Sonata.secret.md)
+

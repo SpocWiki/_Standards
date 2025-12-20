@@ -69,3 +69,22 @@ Dewey_Decimal_Classification: "721.2"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wall) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wall](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Wall.md) 
+
+### #is_/same_as :: [Wall.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Wall.public.md) 
+
+### #is_/same_as :: [Wall.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Wall.internal.md) 
+
+### #is_/same_as :: [Wall.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Wall.protect.md) 
+
+### #is_/same_as :: [Wall.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Wall.private.md) 
+
+### #is_/same_as :: [Wall.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Wall.personal.md) 
+
+### #is_/same_as :: [Wall.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Wall.secret.md)
+

@@ -90,3 +90,22 @@ work_period_start_: 1907-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mae%20West) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mae_West](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.md) 
+
+### #is_/same_as :: [Mae_West.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.public.md) 
+
+### #is_/same_as :: [Mae_West.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.internal.md) 
+
+### #is_/same_as :: [Mae_West.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.protect.md) 
+
+### #is_/same_as :: [Mae_West.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.private.md) 
+
+### #is_/same_as :: [Mae_West.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.personal.md) 
+
+### #is_/same_as :: [Mae_West.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.secret.md)
+

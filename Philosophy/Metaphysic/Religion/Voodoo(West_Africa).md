@@ -29,3 +29,22 @@ Dewey_Decimal_Classification: "299.675"
 > [Wikipedia](https://en.wikipedia.org/wiki/West%20African%20Vod%C3%BAn) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Voodoo(West_Africa)](/_Standards/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).md) 
+
+### #is_/same_as :: [Voodoo(West_Africa).public](/_public/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).public.md) 
+
+### #is_/same_as :: [Voodoo(West_Africa).internal](/_internal/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).internal.md) 
+
+### #is_/same_as :: [Voodoo(West_Africa).protect](/_protect/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).protect.md) 
+
+### #is_/same_as :: [Voodoo(West_Africa).private](/_private/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).private.md) 
+
+### #is_/same_as :: [Voodoo(West_Africa).personal](/_personal/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).personal.md) 
+
+### #is_/same_as :: [Voodoo(West_Africa).secret](/_secret/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).secret.md)
+

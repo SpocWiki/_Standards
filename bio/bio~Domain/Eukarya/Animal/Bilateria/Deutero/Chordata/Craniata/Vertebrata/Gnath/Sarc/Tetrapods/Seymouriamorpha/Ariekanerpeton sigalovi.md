@@ -102,7 +102,7 @@ Vertebrate Paleontology 16 (4): 653-665.
   Comments             Skeleton of a small postmetamorphic specimen
   Specimen Condition   Fossil
   Copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -154,3 +154,22 @@ Regensburg_Classification: GM 5162
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rainer%20Maria%20Rilke) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rainer_Maria_Rilke](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.md) 
+
+### #is_/same_as :: [Rainer_Maria_Rilke.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.public.md) 
+
+### #is_/same_as :: [Rainer_Maria_Rilke.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.internal.md) 
+
+### #is_/same_as :: [Rainer_Maria_Rilke.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.protect.md) 
+
+### #is_/same_as :: [Rainer_Maria_Rilke.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.private.md) 
+
+### #is_/same_as :: [Rainer_Maria_Rilke.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.personal.md) 
+
+### #is_/same_as :: [Rainer_Maria_Rilke.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.secret.md)
+

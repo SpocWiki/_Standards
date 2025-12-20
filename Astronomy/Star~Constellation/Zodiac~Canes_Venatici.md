@@ -53,6 +53,7 @@ short_name: CVn
 
 #is_/same_as :: [[../../WikiData/WD~Canes_Venatici,10452|WD~Canes_Venatici,10452]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Canes_Venatici](/_Standards/Astronomy/Star~Constellation/Zodiac~Canes_Venatici.md) 

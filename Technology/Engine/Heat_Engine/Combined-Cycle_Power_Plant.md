@@ -56,3 +56,22 @@ OpenStreetMap_tag: generator:type=combined_cycle
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Combined-Cycle_Power_Plant](/_Standards/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.md) 
+
+### #is_/same_as :: [Combined-Cycle_Power_Plant.public](/_public/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.public.md) 
+
+### #is_/same_as :: [Combined-Cycle_Power_Plant.internal](/_internal/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.internal.md) 
+
+### #is_/same_as :: [Combined-Cycle_Power_Plant.protect](/_protect/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.protect.md) 
+
+### #is_/same_as :: [Combined-Cycle_Power_Plant.private](/_private/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.private.md) 
+
+### #is_/same_as :: [Combined-Cycle_Power_Plant.personal](/_personal/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.personal.md) 
+
+### #is_/same_as :: [Combined-Cycle_Power_Plant.secret](/_secret/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.secret.md)
+

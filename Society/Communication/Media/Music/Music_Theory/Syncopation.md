@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Syncopation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Syncopation](/_Standards/Society/Communication/Media/Music/Music_Theory/Syncopation.md) 
+
+### #is_/same_as :: [Syncopation.public](/_public/Society/Communication/Media/Music/Music_Theory/Syncopation.public.md) 
+
+### #is_/same_as :: [Syncopation.internal](/_internal/Society/Communication/Media/Music/Music_Theory/Syncopation.internal.md) 
+
+### #is_/same_as :: [Syncopation.protect](/_protect/Society/Communication/Media/Music/Music_Theory/Syncopation.protect.md) 
+
+### #is_/same_as :: [Syncopation.private](/_private/Society/Communication/Media/Music/Music_Theory/Syncopation.private.md) 
+
+### #is_/same_as :: [Syncopation.personal](/_personal/Society/Communication/Media/Music/Music_Theory/Syncopation.personal.md) 
+
+### #is_/same_as :: [Syncopation.secret](/_secret/Society/Communication/Media/Music/Music_Theory/Syncopation.secret.md)
+

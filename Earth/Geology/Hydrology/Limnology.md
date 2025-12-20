@@ -15,3 +15,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Limnology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Limnology](/_Standards/Earth/Geology/Hydrology/Limnology.md) 
+
+### #is_/same_as :: [Limnology.public](/_public/Earth/Geology/Hydrology/Limnology.public.md) 
+
+### #is_/same_as :: [Limnology.internal](/_internal/Earth/Geology/Hydrology/Limnology.internal.md) 
+
+### #is_/same_as :: [Limnology.protect](/_protect/Earth/Geology/Hydrology/Limnology.protect.md) 
+
+### #is_/same_as :: [Limnology.private](/_private/Earth/Geology/Hydrology/Limnology.private.md) 
+
+### #is_/same_as :: [Limnology.personal](/_personal/Earth/Geology/Hydrology/Limnology.personal.md) 
+
+### #is_/same_as :: [Limnology.secret](/_secret/Earth/Geology/Hydrology/Limnology.secret.md)
+

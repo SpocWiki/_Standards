@@ -55,3 +55,22 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ornette%20at%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Experience) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Experience](/_Standards/Philosophy/Epistemology/Knowledge/Experience.md) 
+
+### #is_/same_as :: [Experience.public](/_public/Philosophy/Epistemology/Knowledge/Experience.public.md) 
+
+### #is_/same_as :: [Experience.internal](/_internal/Philosophy/Epistemology/Knowledge/Experience.internal.md) 
+
+### #is_/same_as :: [Experience.protect](/_protect/Philosophy/Epistemology/Knowledge/Experience.protect.md) 
+
+### #is_/same_as :: [Experience.private](/_private/Philosophy/Epistemology/Knowledge/Experience.private.md) 
+
+### #is_/same_as :: [Experience.personal](/_personal/Philosophy/Epistemology/Knowledge/Experience.personal.md) 
+
+### #is_/same_as :: [Experience.secret](/_secret/Philosophy/Epistemology/Knowledge/Experience.secret.md)
+

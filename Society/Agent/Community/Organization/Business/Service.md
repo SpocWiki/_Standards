@@ -65,17 +65,17 @@ without producing a lasting asset
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Service](Service.md) 
+### #is_/same_as :: [Service](/_Standards/Society/Agent/Community/Organization/Business/Service.md) 
 
-### #is_/same_as :: [service.public](/_public/schema-org/Class/is_a_/Intangible/service.public.md) 
+### #is_/same_as :: [Service.public](/_public/Society/Agent/Community/Organization/Business/Service.public.md) 
 
-### #is_/same_as :: [service.internal](/_internal/schema-org/Class/is_a_/Intangible/service.internal.md) 
+### #is_/same_as :: [Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service.internal.md) 
 
-### #is_/same_as :: [service.protect](/_protect/schema-org/Class/is_a_/Intangible/service.protect.md) 
+### #is_/same_as :: [Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service.protect.md) 
 
-### #is_/same_as :: [service.private](/_private/schema-org/Class/is_a_/Intangible/service.private.md) 
+### #is_/same_as :: [Service.private](/_private/Society/Agent/Community/Organization/Business/Service.private.md) 
 
-### #is_/same_as :: [service.personal](/_personal/schema-org/Class/is_a_/Intangible/service.personal.md) 
+### #is_/same_as :: [Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service.personal.md) 
 
-### #is_/same_as :: [service.secret](/_secret/schema-org/Class/is_a_/Intangible/service.secret.md)
+### #is_/same_as :: [Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service.secret.md)
 

@@ -34,3 +34,22 @@ Commons_category: Geologic time scale
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geologic%20time%20scale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geologic_Time_Scale](/_Standards/Time-Ages/Geologic_Time_Scale.md) 
+
+### #is_/same_as :: [Geologic_Time_Scale.public](/_public/Time-Ages/Geologic_Time_Scale.public.md) 
+
+### #is_/same_as :: [Geologic_Time_Scale.internal](/_internal/Time-Ages/Geologic_Time_Scale.internal.md) 
+
+### #is_/same_as :: [Geologic_Time_Scale.protect](/_protect/Time-Ages/Geologic_Time_Scale.protect.md) 
+
+### #is_/same_as :: [Geologic_Time_Scale.private](/_private/Time-Ages/Geologic_Time_Scale.private.md) 
+
+### #is_/same_as :: [Geologic_Time_Scale.personal](/_personal/Time-Ages/Geologic_Time_Scale.personal.md) 
+
+### #is_/same_as :: [Geologic_Time_Scale.secret](/_secret/Time-Ages/Geologic_Time_Scale.secret.md)
+

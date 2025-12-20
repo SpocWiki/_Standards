@@ -59,3 +59,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Cukor%20Allan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Cukor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cukor,George](/_Standards/Society/Communication/Media/Movie/Movie-Director/Cukor,George.md) 
+
+### #is_/same_as :: [Cukor,George.public](/_public/Society/Communication/Media/Movie/Movie-Director/Cukor,George.public.md) 
+
+### #is_/same_as :: [Cukor,George.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Cukor,George.internal.md) 
+
+### #is_/same_as :: [Cukor,George.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Cukor,George.protect.md) 
+
+### #is_/same_as :: [Cukor,George.private](/_private/Society/Communication/Media/Movie/Movie-Director/Cukor,George.private.md) 
+
+### #is_/same_as :: [Cukor,George.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Cukor,George.personal.md) 
+
+### #is_/same_as :: [Cukor,George.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Cukor,George.secret.md)
+

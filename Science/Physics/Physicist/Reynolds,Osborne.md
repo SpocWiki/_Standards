@@ -71,3 +71,22 @@ The dimensionless Reynolds-Number is named after him.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Osborne%20Reynolds) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reynolds,Osborne](/_Standards/Science/Physics/Physicist/Reynolds,Osborne.md) 
+
+### #is_/same_as :: [Reynolds,Osborne.public](/_public/Science/Physics/Physicist/Reynolds,Osborne.public.md) 
+
+### #is_/same_as :: [Reynolds,Osborne.internal](/_internal/Science/Physics/Physicist/Reynolds,Osborne.internal.md) 
+
+### #is_/same_as :: [Reynolds,Osborne.protect](/_protect/Science/Physics/Physicist/Reynolds,Osborne.protect.md) 
+
+### #is_/same_as :: [Reynolds,Osborne.private](/_private/Science/Physics/Physicist/Reynolds,Osborne.private.md) 
+
+### #is_/same_as :: [Reynolds,Osborne.personal](/_personal/Science/Physics/Physicist/Reynolds,Osborne.personal.md) 
+
+### #is_/same_as :: [Reynolds,Osborne.secret](/_secret/Science/Physics/Physicist/Reynolds,Osborne.secret.md)
+

@@ -90,17 +90,17 @@ type: Lang
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-bn](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.md) 
+### #is_/same_as :: [Lang-ben](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.md) 
 
-### #is_/same_as :: [Lang-bn.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.public.md) 
+### #is_/same_as :: [Lang-ben.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.public.md) 
 
-### #is_/same_as :: [Lang-bn.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.internal.md) 
+### #is_/same_as :: [Lang-ben.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.internal.md) 
 
-### #is_/same_as :: [Lang-bn.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.protect.md) 
+### #is_/same_as :: [Lang-ben.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.protect.md) 
 
-### #is_/same_as :: [Lang-bn.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.private.md) 
+### #is_/same_as :: [Lang-ben.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.private.md) 
 
-### #is_/same_as :: [Lang-bn.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.personal.md) 
+### #is_/same_as :: [Lang-ben.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.personal.md) 
 
-### #is_/same_as :: [Lang-bn.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.secret.md)
+### #is_/same_as :: [Lang-ben.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ben.secret.md)
 

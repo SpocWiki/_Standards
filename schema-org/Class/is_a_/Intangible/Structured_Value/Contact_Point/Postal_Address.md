@@ -39,17 +39,17 @@ The mailing address.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [postal_address](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.md) 
+### #is_/same_as :: [Postal_Address](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.md) 
 
-### #is_/same_as :: [postal_address.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.public.md) 
+### #is_/same_as :: [Postal_Address.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.public.md) 
 
-### #is_/same_as :: [postal_address.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.internal.md) 
+### #is_/same_as :: [Postal_Address.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.internal.md) 
 
-### #is_/same_as :: [postal_address.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.protect.md) 
+### #is_/same_as :: [Postal_Address.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.protect.md) 
 
-### #is_/same_as :: [postal_address.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.private.md) 
+### #is_/same_as :: [Postal_Address.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.private.md) 
 
-### #is_/same_as :: [postal_address.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.personal.md) 
+### #is_/same_as :: [Postal_Address.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.personal.md) 
 
-### #is_/same_as :: [postal_address.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.secret.md)
+### #is_/same_as :: [Postal_Address.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.secret.md)
 

@@ -73,3 +73,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hygiene) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hygiene](/_Standards/bio/Medicine/Health/Hygiene.md) 
+
+### #is_/same_as :: [Hygiene.public](/_public/bio/Medicine/Health/Hygiene.public.md) 
+
+### #is_/same_as :: [Hygiene.internal](/_internal/bio/Medicine/Health/Hygiene.internal.md) 
+
+### #is_/same_as :: [Hygiene.protect](/_protect/bio/Medicine/Health/Hygiene.protect.md) 
+
+### #is_/same_as :: [Hygiene.private](/_private/bio/Medicine/Health/Hygiene.private.md) 
+
+### #is_/same_as :: [Hygiene.personal](/_personal/bio/Medicine/Health/Hygiene.personal.md) 
+
+### #is_/same_as :: [Hygiene.secret](/_secret/bio/Medicine/Health/Hygiene.secret.md)
+

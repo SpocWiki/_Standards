@@ -96,8 +96,6 @@ Commons_category: Cardiac arrest
 > [Wikipedia](https://en.wikipedia.org/wiki/Cardiac%20arrest) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cardiac_Arrest](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease/Cardiac_Arrest.md) 

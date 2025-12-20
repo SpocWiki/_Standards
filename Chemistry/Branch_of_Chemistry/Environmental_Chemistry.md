@@ -26,3 +26,22 @@ Commons_category: Environmental chemistry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Environmental%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Environmental_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.md) 
+
+### #is_/same_as :: [Environmental_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.public.md) 
+
+### #is_/same_as :: [Environmental_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.internal.md) 
+
+### #is_/same_as :: [Environmental_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.protect.md) 
+
+### #is_/same_as :: [Environmental_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.private.md) 
+
+### #is_/same_as :: [Environmental_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.personal.md) 
+
+### #is_/same_as :: [Environmental_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.secret.md)
+

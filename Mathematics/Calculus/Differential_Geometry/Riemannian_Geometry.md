@@ -46,3 +46,22 @@ Stack_Exchange_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Riemannian%20geometry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Riemannian_Geometry](/_Standards/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.md) 
+
+### #is_/same_as :: [Riemannian_Geometry.public](/_public/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.public.md) 
+
+### #is_/same_as :: [Riemannian_Geometry.internal](/_internal/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.internal.md) 
+
+### #is_/same_as :: [Riemannian_Geometry.protect](/_protect/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.protect.md) 
+
+### #is_/same_as :: [Riemannian_Geometry.private](/_private/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.private.md) 
+
+### #is_/same_as :: [Riemannian_Geometry.personal](/_personal/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.personal.md) 
+
+### #is_/same_as :: [Riemannian_Geometry.secret](/_secret/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.secret.md)
+

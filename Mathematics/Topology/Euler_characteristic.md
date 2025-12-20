@@ -38,3 +38,22 @@ named_after: "[[_Standards/WikiData/WD~Leonhard_Euler,7604]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euler%20characteristic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euler_characteristic](/_Standards/Mathematics/Topology/Euler_characteristic.md) 
+
+### #is_/same_as :: [Euler_characteristic.public](/_public/Mathematics/Topology/Euler_characteristic.public.md) 
+
+### #is_/same_as :: [Euler_characteristic.internal](/_internal/Mathematics/Topology/Euler_characteristic.internal.md) 
+
+### #is_/same_as :: [Euler_characteristic.protect](/_protect/Mathematics/Topology/Euler_characteristic.protect.md) 
+
+### #is_/same_as :: [Euler_characteristic.private](/_private/Mathematics/Topology/Euler_characteristic.private.md) 
+
+### #is_/same_as :: [Euler_characteristic.personal](/_personal/Mathematics/Topology/Euler_characteristic.personal.md) 
+
+### #is_/same_as :: [Euler_characteristic.secret](/_secret/Mathematics/Topology/Euler_characteristic.secret.md)
+

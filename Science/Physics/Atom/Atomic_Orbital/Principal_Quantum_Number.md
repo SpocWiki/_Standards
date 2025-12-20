@@ -34,3 +34,22 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Principal%20quantum%20number) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Principal_Quantum_Number](/_Standards/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.md) 
+
+### #is_/same_as :: [Principal_Quantum_Number.public](/_public/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.public.md) 
+
+### #is_/same_as :: [Principal_Quantum_Number.internal](/_internal/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.internal.md) 
+
+### #is_/same_as :: [Principal_Quantum_Number.protect](/_protect/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.protect.md) 
+
+### #is_/same_as :: [Principal_Quantum_Number.private](/_private/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.private.md) 
+
+### #is_/same_as :: [Principal_Quantum_Number.personal](/_personal/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.personal.md) 
+
+### #is_/same_as :: [Principal_Quantum_Number.secret](/_secret/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.secret.md)
+

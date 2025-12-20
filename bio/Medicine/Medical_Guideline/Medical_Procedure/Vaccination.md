@@ -156,3 +156,22 @@ Vaccination has played a critical role in public health by preventing the spread
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vaccination](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.md) 
+
+### #is_/same_as :: [Vaccination.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.public.md) 
+
+### #is_/same_as :: [Vaccination.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.internal.md) 
+
+### #is_/same_as :: [Vaccination.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.protect.md) 
+
+### #is_/same_as :: [Vaccination.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.private.md) 
+
+### #is_/same_as :: [Vaccination.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.personal.md) 
+
+### #is_/same_as :: [Vaccination.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.secret.md)
+

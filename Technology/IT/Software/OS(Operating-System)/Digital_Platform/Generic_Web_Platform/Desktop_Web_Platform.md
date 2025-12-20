@@ -42,17 +42,17 @@ Represents the broad notion of 'desktop' browsers as a Web Platform.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Desktop_Web_Platform](Desktop_Web_Platform.md) 
+### #is_/same_as :: [Desktop_Web_Platform](/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Desktop_Web_Platform.md) 
 
-### #is_/same_as :: [desktop_web_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.public.md) 
+### #is_/same_as :: [Desktop_Web_Platform.public](/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Desktop_Web_Platform.public.md) 
 
-### #is_/same_as :: [desktop_web_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.internal.md) 
+### #is_/same_as :: [Desktop_Web_Platform.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Desktop_Web_Platform.internal.md) 
 
-### #is_/same_as :: [desktop_web_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.protect.md) 
+### #is_/same_as :: [Desktop_Web_Platform.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Desktop_Web_Platform.protect.md) 
 
-### #is_/same_as :: [desktop_web_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.private.md) 
+### #is_/same_as :: [Desktop_Web_Platform.private](/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Desktop_Web_Platform.private.md) 
 
-### #is_/same_as :: [desktop_web_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.personal.md) 
+### #is_/same_as :: [Desktop_Web_Platform.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Desktop_Web_Platform.personal.md) 
 
-### #is_/same_as :: [desktop_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.secret.md)
+### #is_/same_as :: [Desktop_Web_Platform.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Desktop_Web_Platform.secret.md)
 

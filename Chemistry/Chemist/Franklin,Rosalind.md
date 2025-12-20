@@ -105,3 +105,22 @@ Libris_URI: 0xbfk45j01x4337
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rosalind%20Franklin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Franklin,Rosalind](/_Standards/Chemistry/Chemist/Franklin,Rosalind.md) 
+
+### #is_/same_as :: [Franklin,Rosalind.public](/_public/Chemistry/Chemist/Franklin,Rosalind.public.md) 
+
+### #is_/same_as :: [Franklin,Rosalind.internal](/_internal/Chemistry/Chemist/Franklin,Rosalind.internal.md) 
+
+### #is_/same_as :: [Franklin,Rosalind.protect](/_protect/Chemistry/Chemist/Franklin,Rosalind.protect.md) 
+
+### #is_/same_as :: [Franklin,Rosalind.private](/_private/Chemistry/Chemist/Franklin,Rosalind.private.md) 
+
+### #is_/same_as :: [Franklin,Rosalind.personal](/_personal/Chemistry/Chemist/Franklin,Rosalind.personal.md) 
+
+### #is_/same_as :: [Franklin,Rosalind.secret](/_secret/Chemistry/Chemist/Franklin,Rosalind.secret.md)
+

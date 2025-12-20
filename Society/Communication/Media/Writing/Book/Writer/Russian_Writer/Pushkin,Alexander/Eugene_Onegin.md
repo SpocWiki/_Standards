@@ -56,3 +56,22 @@ subtitle: Роман в стихах
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eugene%20Onegin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eugene_Onegin](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.md) 
+
+### #is_/same_as :: [Eugene_Onegin.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.public.md) 
+
+### #is_/same_as :: [Eugene_Onegin.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.internal.md) 
+
+### #is_/same_as :: [Eugene_Onegin.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.protect.md) 
+
+### #is_/same_as :: [Eugene_Onegin.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.private.md) 
+
+### #is_/same_as :: [Eugene_Onegin.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.personal.md) 
+
+### #is_/same_as :: [Eugene_Onegin.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.secret.md)
+

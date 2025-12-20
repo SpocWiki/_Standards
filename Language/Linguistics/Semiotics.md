@@ -46,3 +46,22 @@ Commons_category: Semiotics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Semiotics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Semiotics](/_Standards/Language/Linguistics/Semiotics.md) 
+
+### #is_/same_as :: [Semiotics.public](/_public/Language/Linguistics/Semiotics.public.md) 
+
+### #is_/same_as :: [Semiotics.internal](/_internal/Language/Linguistics/Semiotics.internal.md) 
+
+### #is_/same_as :: [Semiotics.protect](/_protect/Language/Linguistics/Semiotics.protect.md) 
+
+### #is_/same_as :: [Semiotics.private](/_private/Language/Linguistics/Semiotics.private.md) 
+
+### #is_/same_as :: [Semiotics.personal](/_personal/Language/Linguistics/Semiotics.personal.md) 
+
+### #is_/same_as :: [Semiotics.secret](/_secret/Language/Linguistics/Semiotics.secret.md)
+

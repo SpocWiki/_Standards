@@ -45,17 +45,17 @@ for background on the underlying concepts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offer_for_Lease](Offer_for_Lease.md) 
+### #is_/same_as :: [Offer_for_Lease](/_Standards/Society/Agent/Community/Organization/Business/Offer/Offer_for_Lease.md) 
 
-### #is_/same_as :: [offer_for_lease.public](/_public/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.public.md) 
+### #is_/same_as :: [Offer_for_Lease.public](/_public/Society/Agent/Community/Organization/Business/Offer/Offer_for_Lease.public.md) 
 
-### #is_/same_as :: [offer_for_lease.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.internal.md) 
+### #is_/same_as :: [Offer_for_Lease.internal](/_internal/Society/Agent/Community/Organization/Business/Offer/Offer_for_Lease.internal.md) 
 
-### #is_/same_as :: [offer_for_lease.protect](/_protect/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.protect.md) 
+### #is_/same_as :: [Offer_for_Lease.protect](/_protect/Society/Agent/Community/Organization/Business/Offer/Offer_for_Lease.protect.md) 
 
-### #is_/same_as :: [offer_for_lease.private](/_private/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.private.md) 
+### #is_/same_as :: [Offer_for_Lease.private](/_private/Society/Agent/Community/Organization/Business/Offer/Offer_for_Lease.private.md) 
 
-### #is_/same_as :: [offer_for_lease.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.personal.md) 
+### #is_/same_as :: [Offer_for_Lease.personal](/_personal/Society/Agent/Community/Organization/Business/Offer/Offer_for_Lease.personal.md) 
 
-### #is_/same_as :: [offer_for_lease.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.secret.md)
+### #is_/same_as :: [Offer_for_Lease.secret](/_secret/Society/Agent/Community/Organization/Business/Offer/Offer_for_Lease.secret.md)
 

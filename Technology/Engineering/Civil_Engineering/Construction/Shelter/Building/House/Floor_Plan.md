@@ -50,17 +50,17 @@ can be indicated using [[image]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [floor_plan](/_Standards/schema-org/Class/is_a_/Intangible/floor_plan.md) 
+### #is_/same_as :: [Floor_Plan](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.md) 
 
-### #is_/same_as :: [floor_plan.public](/_public/schema-org/Class/is_a_/Intangible/floor_plan.public.md) 
+### #is_/same_as :: [Floor_Plan.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.public.md) 
 
-### #is_/same_as :: [floor_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/floor_plan.internal.md) 
+### #is_/same_as :: [Floor_Plan.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.internal.md) 
 
-### #is_/same_as :: [floor_plan.protect](/_protect/schema-org/Class/is_a_/Intangible/floor_plan.protect.md) 
+### #is_/same_as :: [Floor_Plan.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.protect.md) 
 
-### #is_/same_as :: [floor_plan.private](/_private/schema-org/Class/is_a_/Intangible/floor_plan.private.md) 
+### #is_/same_as :: [Floor_Plan.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.private.md) 
 
-### #is_/same_as :: [floor_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/floor_plan.personal.md) 
+### #is_/same_as :: [Floor_Plan.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.personal.md) 
 
-### #is_/same_as :: [floor_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/floor_plan.secret.md)
+### #is_/same_as :: [Floor_Plan.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan.secret.md)
 

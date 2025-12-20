@@ -113,33 +113,17 @@ OpenStreetMap_tag: sport=rugby
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rugby_Football](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Rugby_Football.md) 
+### #is_/same_as :: [Rugby_Football](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.md) 
 
-### #is_/same_as :: [Rugby_Football.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Rugby_Football.public.md) 
+### #is_/same_as :: [Rugby_Football.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.public.md) 
 
-### #is_/same_as :: [Rugby_Football.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Rugby_Football.internal.md) 
+### #is_/same_as :: [Rugby_Football.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.internal.md) 
 
-### #is_/same_as :: [Rugby_Football.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Rugby_Football.protect.md) 
+### #is_/same_as :: [Rugby_Football.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.protect.md) 
 
-### #is_/same_as :: [Rugby_Football.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Rugby_Football.private.md) 
+### #is_/same_as :: [Rugby_Football.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.private.md) 
 
-### #is_/same_as :: [Rugby_Football.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Rugby_Football.personal.md) 
+### #is_/same_as :: [Rugby_Football.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.personal.md) 
 
-### #is_/same_as :: [Rugby_Football.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Rugby_Football.secret.md)
+### #is_/same_as :: [Rugby_Football.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football.secret.md)
 
-
-
-![[Rugby.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Rugby.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

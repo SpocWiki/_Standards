@@ -158,20 +158,19 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
   ------------------------------------------------------------------------------
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnapinna_atlantica](Magnapinna_atlantica.md) 
+### #is_/same_as :: [Magnapinna_atlantica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_atlantica.md) 
 
-### #is_/same_as :: [atlantica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.public.md) 
+### #is_/same_as :: [Magnapinna_atlantica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_atlantica.public.md) 
 
-### #is_/same_as :: [atlantica.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.internal.md) 
+### #is_/same_as :: [Magnapinna_atlantica.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_atlantica.internal.md) 
 
-### #is_/same_as :: [atlantica.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.protect.md) 
+### #is_/same_as :: [Magnapinna_atlantica.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_atlantica.protect.md) 
 
-### #is_/same_as :: [atlantica.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.private.md) 
+### #is_/same_as :: [Magnapinna_atlantica.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_atlantica.private.md) 
 
-### #is_/same_as :: [atlantica.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.personal.md) 
+### #is_/same_as :: [Magnapinna_atlantica.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_atlantica.personal.md) 
 
-### #is_/same_as :: [atlantica.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.secret.md)
+### #is_/same_as :: [Magnapinna_atlantica.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_atlantica.secret.md)
 

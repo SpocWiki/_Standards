@@ -86,3 +86,22 @@ Colon_Classification: W:1
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Election](/_Standards/Society/Politics/Government/Democracy/Representative_Democracy/Election.md) 
+
+### #is_/same_as :: [Election.public](/_public/Society/Politics/Government/Democracy/Representative_Democracy/Election.public.md) 
+
+### #is_/same_as :: [Election.internal](/_internal/Society/Politics/Government/Democracy/Representative_Democracy/Election.internal.md) 
+
+### #is_/same_as :: [Election.protect](/_protect/Society/Politics/Government/Democracy/Representative_Democracy/Election.protect.md) 
+
+### #is_/same_as :: [Election.private](/_private/Society/Politics/Government/Democracy/Representative_Democracy/Election.private.md) 
+
+### #is_/same_as :: [Election.personal](/_personal/Society/Politics/Government/Democracy/Representative_Democracy/Election.personal.md) 
+
+### #is_/same_as :: [Election.secret](/_secret/Society/Politics/Government/Democracy/Representative_Democracy/Election.secret.md)
+

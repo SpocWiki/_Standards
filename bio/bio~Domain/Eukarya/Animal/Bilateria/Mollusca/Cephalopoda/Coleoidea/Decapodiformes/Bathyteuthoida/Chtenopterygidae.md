@@ -224,7 +224,7 @@ dem Naturhistorischen Museum in Hamburg. 17:145-198.
   Location ::        eastern Tropical Pacific
   Reference         modified from Okutani, T. 1974. Epipelagic decapod cephalopods collected by micronekton tows during the EASTROPAC expeditions, 1967-1968 (systematic part). Bull. Tokai Reg. Fish. Res. Lab. 80:29-118.
   View              lateral
-  -------------------------------------------------------------------
+  -------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

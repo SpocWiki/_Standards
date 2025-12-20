@@ -16,3 +16,22 @@ instance_of: "[[_Standards/WikiData/WD~literary_theory,459381]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Criticism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [New_Criticism](/_Standards/Society/Communication/Media/Writing/Book/Literature/New_Criticism.md) 
+
+### #is_/same_as :: [New_Criticism.public](/_public/Society/Communication/Media/Writing/Book/Literature/New_Criticism.public.md) 
+
+### #is_/same_as :: [New_Criticism.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/New_Criticism.internal.md) 
+
+### #is_/same_as :: [New_Criticism.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/New_Criticism.protect.md) 
+
+### #is_/same_as :: [New_Criticism.private](/_private/Society/Communication/Media/Writing/Book/Literature/New_Criticism.private.md) 
+
+### #is_/same_as :: [New_Criticism.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/New_Criticism.personal.md) 
+
+### #is_/same_as :: [New_Criticism.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/New_Criticism.secret.md)
+

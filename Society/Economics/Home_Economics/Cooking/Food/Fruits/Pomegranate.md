@@ -52,3 +52,22 @@ Wolfram_Language_entity_code: Entity["FoodType", "Pomegranate"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pomegranate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pomegranate](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.md) 
+
+### #is_/same_as :: [Pomegranate.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.public.md) 
+
+### #is_/same_as :: [Pomegranate.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.internal.md) 
+
+### #is_/same_as :: [Pomegranate.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.protect.md) 
+
+### #is_/same_as :: [Pomegranate.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.private.md) 
+
+### #is_/same_as :: [Pomegranate.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.personal.md) 
+
+### #is_/same_as :: [Pomegranate.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Pomegranate.secret.md)
+

@@ -44,3 +44,22 @@ IPTC_NewsCode: mediatopic/20000070
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coup%20d'%C3%A9tat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coup_d'état](/_Standards/Society/Politics/Government/Coup_d'état.md) 
+
+### #is_/same_as :: [Coup_d'état.public](/_public/Society/Politics/Government/Coup_d'état.public.md) 
+
+### #is_/same_as :: [Coup_d'état.internal](/_internal/Society/Politics/Government/Coup_d'état.internal.md) 
+
+### #is_/same_as :: [Coup_d'état.protect](/_protect/Society/Politics/Government/Coup_d'état.protect.md) 
+
+### #is_/same_as :: [Coup_d'état.private](/_private/Society/Politics/Government/Coup_d'état.private.md) 
+
+### #is_/same_as :: [Coup_d'état.personal](/_personal/Society/Politics/Government/Coup_d'état.personal.md) 
+
+### #is_/same_as :: [Coup_d'état.secret](/_secret/Society/Politics/Government/Coup_d'état.secret.md)
+

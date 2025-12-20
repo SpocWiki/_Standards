@@ -77,17 +77,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dome](Dome.md) 
+### #is_/same_as :: [Dome](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Dome.md) 
 
-### #is_/same_as :: [Dome.public](/_public/Technology/Construction/Dome.public.md) 
+### #is_/same_as :: [Dome.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Dome.public.md) 
 
-### #is_/same_as :: [Dome.internal](/_internal/Technology/Construction/Dome.internal.md) 
+### #is_/same_as :: [Dome.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Dome.internal.md) 
 
-### #is_/same_as :: [Dome.protect](/_protect/Technology/Construction/Dome.protect.md) 
+### #is_/same_as :: [Dome.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Dome.protect.md) 
 
-### #is_/same_as :: [Dome.private](/_private/Technology/Construction/Dome.private.md) 
+### #is_/same_as :: [Dome.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Dome.private.md) 
 
-### #is_/same_as :: [Dome.personal](/_personal/Technology/Construction/Dome.personal.md) 
+### #is_/same_as :: [Dome.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Dome.personal.md) 
 
-### #is_/same_as :: [Dome.secret](/_secret/Technology/Construction/Dome.secret.md)
+### #is_/same_as :: [Dome.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Dome.secret.md)
 

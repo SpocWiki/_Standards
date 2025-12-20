@@ -15,3 +15,22 @@ has_id_wikidata: Q858517
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cultural%20history) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cultural_History](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Cultural_History.md) 
+
+### #is_/same_as :: [Cultural_History.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Cultural_History.public.md) 
+
+### #is_/same_as :: [Cultural_History.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Cultural_History.internal.md) 
+
+### #is_/same_as :: [Cultural_History.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Cultural_History.protect.md) 
+
+### #is_/same_as :: [Cultural_History.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Cultural_History.private.md) 
+
+### #is_/same_as :: [Cultural_History.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Cultural_History.personal.md) 
+
+### #is_/same_as :: [Cultural_History.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Cultural_History.secret.md)
+

@@ -132,3 +132,22 @@ nickname: T-devil
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sarcophilus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tasmanian_Devil](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.md) 
+
+### #is_/same_as :: [Tasmanian_Devil.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.public.md) 
+
+### #is_/same_as :: [Tasmanian_Devil.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.internal.md) 
+
+### #is_/same_as :: [Tasmanian_Devil.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.protect.md) 
+
+### #is_/same_as :: [Tasmanian_Devil.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.private.md) 
+
+### #is_/same_as :: [Tasmanian_Devil.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.personal.md) 
+
+### #is_/same_as :: [Tasmanian_Devil.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Tasmanian_Devil.secret.md)
+

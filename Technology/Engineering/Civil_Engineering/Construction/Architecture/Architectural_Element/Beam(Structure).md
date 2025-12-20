@@ -55,3 +55,22 @@ Library_of_Congress_Classification: TA660.B4
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beam%20(structure)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beam(Structure)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Beam(Structure).md) 
+
+### #is_/same_as :: [Beam(Structure).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Beam(Structure).public.md) 
+
+### #is_/same_as :: [Beam(Structure).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Beam(Structure).internal.md) 
+
+### #is_/same_as :: [Beam(Structure).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Beam(Structure).protect.md) 
+
+### #is_/same_as :: [Beam(Structure).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Beam(Structure).private.md) 
+
+### #is_/same_as :: [Beam(Structure).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Beam(Structure).personal.md) 
+
+### #is_/same_as :: [Beam(Structure).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Beam(Structure).secret.md)
+

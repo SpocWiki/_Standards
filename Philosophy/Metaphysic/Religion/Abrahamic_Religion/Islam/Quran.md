@@ -289,3 +289,22 @@ Stack_Exchange_tag: https://islam.stackexchange.com/tags/quran
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quran) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quran](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.md) 
+
+### #is_/same_as :: [Quran.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.public.md) 
+
+### #is_/same_as :: [Quran.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.internal.md) 
+
+### #is_/same_as :: [Quran.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.protect.md) 
+
+### #is_/same_as :: [Quran.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.private.md) 
+
+### #is_/same_as :: [Quran.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.personal.md) 
+
+### #is_/same_as :: [Quran.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.secret.md)
+

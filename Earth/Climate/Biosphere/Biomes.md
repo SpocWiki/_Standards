@@ -27,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biomes](/_Standards/Earth/Geology/Biomes.md) 
+### #is_/same_as :: [Biomes](/_Standards/Earth/Climate/Biosphere/Biomes.md) 
 
-### #is_/same_as :: [Biomes.public](/_public/Earth/Geology/Biomes.public.md) 
+### #is_/same_as :: [Biomes.public](/_public/Earth/Climate/Biosphere/Biomes.public.md) 
 
-### #is_/same_as :: [Biomes.internal](/_internal/Earth/Geology/Biomes.internal.md) 
+### #is_/same_as :: [Biomes.internal](/_internal/Earth/Climate/Biosphere/Biomes.internal.md) 
 
-### #is_/same_as :: [Biomes.protect](/_protect/Earth/Geology/Biomes.protect.md) 
+### #is_/same_as :: [Biomes.protect](/_protect/Earth/Climate/Biosphere/Biomes.protect.md) 
 
-### #is_/same_as :: [Biomes.private](/_private/Earth/Geology/Biomes.private.md) 
+### #is_/same_as :: [Biomes.private](/_private/Earth/Climate/Biosphere/Biomes.private.md) 
 
-### #is_/same_as :: [Biomes.personal](/_personal/Earth/Geology/Biomes.personal.md) 
+### #is_/same_as :: [Biomes.personal](/_personal/Earth/Climate/Biosphere/Biomes.personal.md) 
 
-### #is_/same_as :: [Biomes.secret](/_secret/Earth/Geology/Biomes.secret.md)
+### #is_/same_as :: [Biomes.secret](/_secret/Earth/Climate/Biosphere/Biomes.secret.md)
 

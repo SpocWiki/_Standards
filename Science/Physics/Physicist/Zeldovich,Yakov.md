@@ -111,3 +111,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Yakov%20Zeldovich%2C%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yakov%20Zeldovich)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zeldovich,Yakov](/_Standards/Science/Physics/Physicist/Zeldovich,Yakov.md) 
+
+### #is_/same_as :: [Zeldovich,Yakov.public](/_public/Science/Physics/Physicist/Zeldovich,Yakov.public.md) 
+
+### #is_/same_as :: [Zeldovich,Yakov.internal](/_internal/Science/Physics/Physicist/Zeldovich,Yakov.internal.md) 
+
+### #is_/same_as :: [Zeldovich,Yakov.protect](/_protect/Science/Physics/Physicist/Zeldovich,Yakov.protect.md) 
+
+### #is_/same_as :: [Zeldovich,Yakov.private](/_private/Science/Physics/Physicist/Zeldovich,Yakov.private.md) 
+
+### #is_/same_as :: [Zeldovich,Yakov.personal](/_personal/Science/Physics/Physicist/Zeldovich,Yakov.personal.md) 
+
+### #is_/same_as :: [Zeldovich,Yakov.secret](/_secret/Science/Physics/Physicist/Zeldovich,Yakov.secret.md)
+

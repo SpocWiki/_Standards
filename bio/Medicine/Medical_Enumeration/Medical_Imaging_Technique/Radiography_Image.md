@@ -40,17 +40,17 @@ Radiography is an imaging technique that uses electromagnetic radiation other th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [radiography](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.md) 
+### #is_/same_as :: [Radiography_Image](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Radiography_Image.md) 
 
-### #is_/same_as :: [radiography.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.public.md) 
+### #is_/same_as :: [Radiography_Image.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Radiography_Image.public.md) 
 
-### #is_/same_as :: [radiography.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.internal.md) 
+### #is_/same_as :: [Radiography_Image.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Radiography_Image.internal.md) 
 
-### #is_/same_as :: [radiography.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.protect.md) 
+### #is_/same_as :: [Radiography_Image.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Radiography_Image.protect.md) 
 
-### #is_/same_as :: [radiography.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.private.md) 
+### #is_/same_as :: [Radiography_Image.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Radiography_Image.private.md) 
 
-### #is_/same_as :: [radiography.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.personal.md) 
+### #is_/same_as :: [Radiography_Image.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Radiography_Image.personal.md) 
 
-### #is_/same_as :: [radiography.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.secret.md)
+### #is_/same_as :: [Radiography_Image.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Radiography_Image.secret.md)
 

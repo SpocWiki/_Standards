@@ -43,3 +43,22 @@ time_of_discovery_or_invention: 1931-01-01T00:00:00Z
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electron_Microscope](/_Standards/Technology/Tool/Instrumentation/Microscope/Electron_Microscope.md) 
+
+### #is_/same_as :: [Electron_Microscope.public](/_public/Technology/Tool/Instrumentation/Microscope/Electron_Microscope.public.md) 
+
+### #is_/same_as :: [Electron_Microscope.internal](/_internal/Technology/Tool/Instrumentation/Microscope/Electron_Microscope.internal.md) 
+
+### #is_/same_as :: [Electron_Microscope.protect](/_protect/Technology/Tool/Instrumentation/Microscope/Electron_Microscope.protect.md) 
+
+### #is_/same_as :: [Electron_Microscope.private](/_private/Technology/Tool/Instrumentation/Microscope/Electron_Microscope.private.md) 
+
+### #is_/same_as :: [Electron_Microscope.personal](/_personal/Technology/Tool/Instrumentation/Microscope/Electron_Microscope.personal.md) 
+
+### #is_/same_as :: [Electron_Microscope.secret](/_secret/Technology/Tool/Instrumentation/Microscope/Electron_Microscope.secret.md)
+

@@ -57,3 +57,22 @@ IEV_number: 171-08-10
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Encryption) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Decryption](/_Standards/Technology/IT/Data/Code/Decoding/Decryption.md) 
+
+### #is_/same_as :: [Decryption.public](/_public/Technology/IT/Data/Code/Decoding/Decryption.public.md) 
+
+### #is_/same_as :: [Decryption.internal](/_internal/Technology/IT/Data/Code/Decoding/Decryption.internal.md) 
+
+### #is_/same_as :: [Decryption.protect](/_protect/Technology/IT/Data/Code/Decoding/Decryption.protect.md) 
+
+### #is_/same_as :: [Decryption.private](/_private/Technology/IT/Data/Code/Decoding/Decryption.private.md) 
+
+### #is_/same_as :: [Decryption.personal](/_personal/Technology/IT/Data/Code/Decoding/Decryption.personal.md) 
+
+### #is_/same_as :: [Decryption.secret](/_secret/Technology/IT/Data/Code/Decoding/Decryption.secret.md)
+

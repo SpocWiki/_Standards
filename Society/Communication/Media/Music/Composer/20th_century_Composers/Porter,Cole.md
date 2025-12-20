@@ -104,3 +104,22 @@ Europeana_entity: agent/base/147047
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cole%20Porter) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Porter,Cole](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Porter,Cole.md) 
+
+### #is_/same_as :: [Porter,Cole.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Porter,Cole.public.md) 
+
+### #is_/same_as :: [Porter,Cole.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Porter,Cole.internal.md) 
+
+### #is_/same_as :: [Porter,Cole.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Porter,Cole.protect.md) 
+
+### #is_/same_as :: [Porter,Cole.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Porter,Cole.private.md) 
+
+### #is_/same_as :: [Porter,Cole.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Porter,Cole.personal.md) 
+
+### #is_/same_as :: [Porter,Cole.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Porter,Cole.secret.md)
+

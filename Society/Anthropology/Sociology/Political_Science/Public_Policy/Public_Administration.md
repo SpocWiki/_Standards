@@ -50,3 +50,22 @@ Commons_category: Public administration
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20administration) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Public_Administration](/_Standards/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.md) 
+
+### #is_/same_as :: [Public_Administration.public](/_public/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.public.md) 
+
+### #is_/same_as :: [Public_Administration.internal](/_internal/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.internal.md) 
+
+### #is_/same_as :: [Public_Administration.protect](/_protect/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.protect.md) 
+
+### #is_/same_as :: [Public_Administration.private](/_private/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.private.md) 
+
+### #is_/same_as :: [Public_Administration.personal](/_personal/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.personal.md) 
+
+### #is_/same_as :: [Public_Administration.secret](/_secret/Society/Anthropology/Sociology/Political_Science/Public_Policy/Public_Administration.secret.md)
+

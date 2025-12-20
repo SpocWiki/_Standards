@@ -46,3 +46,22 @@ Commons_category: Space probes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uncrewed%20spacecraft) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Space_Probe](/_Standards/Technology/Spaceflight/Space_Probe.md) 
+
+### #is_/same_as :: [Space_Probe.public](/_public/Technology/Spaceflight/Space_Probe.public.md) 
+
+### #is_/same_as :: [Space_Probe.internal](/_internal/Technology/Spaceflight/Space_Probe.internal.md) 
+
+### #is_/same_as :: [Space_Probe.protect](/_protect/Technology/Spaceflight/Space_Probe.protect.md) 
+
+### #is_/same_as :: [Space_Probe.private](/_private/Technology/Spaceflight/Space_Probe.private.md) 
+
+### #is_/same_as :: [Space_Probe.personal](/_personal/Technology/Spaceflight/Space_Probe.personal.md) 
+
+### #is_/same_as :: [Space_Probe.secret](/_secret/Technology/Spaceflight/Space_Probe.secret.md)
+

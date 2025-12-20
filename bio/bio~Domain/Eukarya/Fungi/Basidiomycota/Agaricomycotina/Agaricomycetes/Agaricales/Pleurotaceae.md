@@ -32,3 +32,22 @@ taxon_name: Pleurotaceae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pleurotaceae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pleurotaceae](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae.md) 
+
+### #is_/same_as :: [Pleurotaceae.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae.public.md) 
+
+### #is_/same_as :: [Pleurotaceae.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae.internal.md) 
+
+### #is_/same_as :: [Pleurotaceae.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae.protect.md) 
+
+### #is_/same_as :: [Pleurotaceae.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae.private.md) 
+
+### #is_/same_as :: [Pleurotaceae.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae.personal.md) 
+
+### #is_/same_as :: [Pleurotaceae.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae.secret.md)
+

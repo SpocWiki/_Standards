@@ -128,17 +128,17 @@ Unicode_character: 溴
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bromine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.md) 
+### #is_/same_as :: [Bromine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.md) 
 
-### #is_/same_as :: [Bromine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.public.md) 
+### #is_/same_as :: [Bromine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public.md) 
 
-### #is_/same_as :: [Bromine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.internal.md) 
+### #is_/same_as :: [Bromine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal.md) 
 
-### #is_/same_as :: [Bromine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.protect.md) 
+### #is_/same_as :: [Bromine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.protect.md) 
 
-### #is_/same_as :: [Bromine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.private.md) 
+### #is_/same_as :: [Bromine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.private.md) 
 
-### #is_/same_as :: [Bromine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.personal.md) 
+### #is_/same_as :: [Bromine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal.md) 
 
-### #is_/same_as :: [Bromine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.secret.md)
+### #is_/same_as :: [Bromine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret.md)
 

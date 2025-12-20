@@ -48,3 +48,22 @@ Krugosvet_article_archived_: sport/SNOUBORDING.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Snowboarding) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Snowboarding](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.md) 
+
+### #is_/same_as :: [Snowboarding.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.public.md) 
+
+### #is_/same_as :: [Snowboarding.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.internal.md) 
+
+### #is_/same_as :: [Snowboarding.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.protect.md) 
+
+### #is_/same_as :: [Snowboarding.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.private.md) 
+
+### #is_/same_as :: [Snowboarding.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.personal.md) 
+
+### #is_/same_as :: [Snowboarding.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.secret.md)
+

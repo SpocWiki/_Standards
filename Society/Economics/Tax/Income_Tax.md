@@ -38,3 +38,22 @@ Commons_category: Personal income taxes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Income%20tax) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Income_Tax](/_Standards/Society/Economics/Tax/Income_Tax.md) 
+
+### #is_/same_as :: [Income_Tax.public](/_public/Society/Economics/Tax/Income_Tax.public.md) 
+
+### #is_/same_as :: [Income_Tax.internal](/_internal/Society/Economics/Tax/Income_Tax.internal.md) 
+
+### #is_/same_as :: [Income_Tax.protect](/_protect/Society/Economics/Tax/Income_Tax.protect.md) 
+
+### #is_/same_as :: [Income_Tax.private](/_private/Society/Economics/Tax/Income_Tax.private.md) 
+
+### #is_/same_as :: [Income_Tax.personal](/_personal/Society/Economics/Tax/Income_Tax.personal.md) 
+
+### #is_/same_as :: [Income_Tax.secret](/_secret/Society/Economics/Tax/Income_Tax.secret.md)
+

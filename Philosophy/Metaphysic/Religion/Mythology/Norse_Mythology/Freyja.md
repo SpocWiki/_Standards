@@ -61,3 +61,22 @@ Commons_category: Freyja
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Freyja) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Freyja](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.md) 
+
+### #is_/same_as :: [Freyja.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.public.md) 
+
+### #is_/same_as :: [Freyja.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.internal.md) 
+
+### #is_/same_as :: [Freyja.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.protect.md) 
+
+### #is_/same_as :: [Freyja.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.private.md) 
+
+### #is_/same_as :: [Freyja.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.personal.md) 
+
+### #is_/same_as :: [Freyja.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.secret.md)
+

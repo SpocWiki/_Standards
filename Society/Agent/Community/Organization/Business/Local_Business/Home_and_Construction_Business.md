@@ -45,17 +45,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[..
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Home_and_Construction_Business](Home_and_Construction_Business.md) 
+### #is_/same_as :: [Home_and_Construction_Business](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.md) 
 
-### #is_/same_as :: [Home_and_Construction_Business.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business.public.md) 
+### #is_/same_as :: [Home_and_Construction_Business.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.public.md) 
 
-### #is_/same_as :: [Home_and_Construction_Business.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business.internal.md) 
+### #is_/same_as :: [Home_and_Construction_Business.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.internal.md) 
 
-### #is_/same_as :: [Home_and_Construction_Business.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business.protect.md) 
+### #is_/same_as :: [Home_and_Construction_Business.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.protect.md) 
 
-### #is_/same_as :: [Home_and_Construction_Business.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business.private.md) 
+### #is_/same_as :: [Home_and_Construction_Business.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.private.md) 
 
-### #is_/same_as :: [Home_and_Construction_Business.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business.personal.md) 
+### #is_/same_as :: [Home_and_Construction_Business.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.personal.md) 
 
-### #is_/same_as :: [Home_and_Construction_Business.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business.secret.md)
+### #is_/same_as :: [Home_and_Construction_Business.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business.secret.md)
 

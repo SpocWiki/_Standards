@@ -131,3 +131,22 @@ ISNI: "0000000111509871"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Ford) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ford,Henry](/_Standards/Science/Inventor/Ford,Henry.md) 
+
+### #is_/same_as :: [Ford,Henry.public](/_public/Science/Inventor/Ford,Henry.public.md) 
+
+### #is_/same_as :: [Ford,Henry.internal](/_internal/Science/Inventor/Ford,Henry.internal.md) 
+
+### #is_/same_as :: [Ford,Henry.protect](/_protect/Science/Inventor/Ford,Henry.protect.md) 
+
+### #is_/same_as :: [Ford,Henry.private](/_private/Science/Inventor/Ford,Henry.private.md) 
+
+### #is_/same_as :: [Ford,Henry.personal](/_personal/Science/Inventor/Ford,Henry.personal.md) 
+
+### #is_/same_as :: [Ford,Henry.secret](/_secret/Science/Inventor/Ford,Henry.secret.md)
+

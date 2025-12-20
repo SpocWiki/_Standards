@@ -10,3 +10,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Commelinids) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Commelinids](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids.md) 
+
+### #is_/same_as :: [Commelinids.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids.public.md) 
+
+### #is_/same_as :: [Commelinids.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids.internal.md) 
+
+### #is_/same_as :: [Commelinids.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids.protect.md) 
+
+### #is_/same_as :: [Commelinids.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids.private.md) 
+
+### #is_/same_as :: [Commelinids.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids.personal.md) 
+
+### #is_/same_as :: [Commelinids.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids.secret.md)
+

@@ -257,17 +257,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euler,Leonhard](/_Standards/Mathematics/Mathematician/Euler,Leonhard.md) 
+### #is_/same_as :: [Euler,Leonhard](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Euler,Leonhard.md) 
 
-### #is_/same_as :: [Euler,Leonhard.public](/_public/Mathematics/Mathematician/Euler,Leonhard.public.md) 
+### #is_/same_as :: [Euler,Leonhard.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Euler,Leonhard.public.md) 
 
-### #is_/same_as :: [Euler,Leonhard.internal](/_internal/Mathematics/Mathematician/Euler,Leonhard.internal.md) 
+### #is_/same_as :: [Euler,Leonhard.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Euler,Leonhard.internal.md) 
 
-### #is_/same_as :: [Euler,Leonhard.protect](/_protect/Mathematics/Mathematician/Euler,Leonhard.protect.md) 
+### #is_/same_as :: [Euler,Leonhard.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Euler,Leonhard.protect.md) 
 
-### #is_/same_as :: [Euler,Leonhard.private](/_private/Mathematics/Mathematician/Euler,Leonhard.private.md) 
+### #is_/same_as :: [Euler,Leonhard.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Euler,Leonhard.private.md) 
 
-### #is_/same_as :: [Euler,Leonhard.personal](/_personal/Mathematics/Mathematician/Euler,Leonhard.personal.md) 
+### #is_/same_as :: [Euler,Leonhard.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Euler,Leonhard.personal.md) 
 
-### #is_/same_as :: [Euler,Leonhard.secret](/_secret/Mathematics/Mathematician/Euler,Leonhard.secret.md)
+### #is_/same_as :: [Euler,Leonhard.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Euler,Leonhard.secret.md)
 

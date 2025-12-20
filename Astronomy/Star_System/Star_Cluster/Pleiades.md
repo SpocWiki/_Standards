@@ -87,3 +87,22 @@ Commons_category: Pleiades (star cluster)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pleiades) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pleiades](/_Standards/Astronomy/Star_System/Star_Cluster/Pleiades.md) 
+
+### #is_/same_as :: [Pleiades.public](/_public/Astronomy/Star_System/Star_Cluster/Pleiades.public.md) 
+
+### #is_/same_as :: [Pleiades.internal](/_internal/Astronomy/Star_System/Star_Cluster/Pleiades.internal.md) 
+
+### #is_/same_as :: [Pleiades.protect](/_protect/Astronomy/Star_System/Star_Cluster/Pleiades.protect.md) 
+
+### #is_/same_as :: [Pleiades.private](/_private/Astronomy/Star_System/Star_Cluster/Pleiades.private.md) 
+
+### #is_/same_as :: [Pleiades.personal](/_personal/Astronomy/Star_System/Star_Cluster/Pleiades.personal.md) 
+
+### #is_/same_as :: [Pleiades.secret](/_secret/Astronomy/Star_System/Star_Cluster/Pleiades.secret.md)
+

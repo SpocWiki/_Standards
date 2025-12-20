@@ -110,3 +110,22 @@ ISNI: "0000000081223476"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nicolas%20L%C3%A9onard%20Sadi%20Carnot) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi](/_Standards/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.md) 
+
+### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.public](/_public/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.public.md) 
+
+### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.internal](/_internal/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.internal.md) 
+
+### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.protect](/_protect/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.protect.md) 
+
+### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.private](/_private/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.private.md) 
+
+### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.personal](/_personal/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.personal.md) 
+
+### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.secret](/_secret/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.secret.md)
+

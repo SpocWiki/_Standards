@@ -88,3 +88,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Photon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Photon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Photon.md) 
+
+### #is_/same_as :: [Photon.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Photon.public.md) 
+
+### #is_/same_as :: [Photon.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Photon.internal.md) 
+
+### #is_/same_as :: [Photon.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Photon.protect.md) 
+
+### #is_/same_as :: [Photon.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Photon.private.md) 
+
+### #is_/same_as :: [Photon.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Photon.personal.md) 
+
+### #is_/same_as :: [Photon.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Photon.secret.md)
+

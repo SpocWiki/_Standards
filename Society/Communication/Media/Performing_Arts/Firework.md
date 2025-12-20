@@ -52,3 +52,22 @@ hashtag: feudartifice
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fireworks) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Firework](/_Standards/Society/Communication/Media/Performing_Arts/Firework.md) 
+
+### #is_/same_as :: [Firework.public](/_public/Society/Communication/Media/Performing_Arts/Firework.public.md) 
+
+### #is_/same_as :: [Firework.internal](/_internal/Society/Communication/Media/Performing_Arts/Firework.internal.md) 
+
+### #is_/same_as :: [Firework.protect](/_protect/Society/Communication/Media/Performing_Arts/Firework.protect.md) 
+
+### #is_/same_as :: [Firework.private](/_private/Society/Communication/Media/Performing_Arts/Firework.private.md) 
+
+### #is_/same_as :: [Firework.personal](/_personal/Society/Communication/Media/Performing_Arts/Firework.personal.md) 
+
+### #is_/same_as :: [Firework.secret](/_secret/Society/Communication/Media/Performing_Arts/Firework.secret.md)
+

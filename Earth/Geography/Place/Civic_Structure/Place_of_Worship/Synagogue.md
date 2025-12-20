@@ -95,6 +95,7 @@ A synagogue.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Synagogue)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Synagogue](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.md) 

@@ -125,3 +125,22 @@ booru_tag: war_in_afghanistan
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20in%20Afghanistan%20(2001%E2%80%932021))  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [2001-War_in_Afghanistan+2021](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.md) 
+
+### #is_/same_as :: [2001-War_in_Afghanistan+2021.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.public.md) 
+
+### #is_/same_as :: [2001-War_in_Afghanistan+2021.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.internal.md) 
+
+### #is_/same_as :: [2001-War_in_Afghanistan+2021.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.protect.md) 
+
+### #is_/same_as :: [2001-War_in_Afghanistan+2021.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.private.md) 
+
+### #is_/same_as :: [2001-War_in_Afghanistan+2021.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.personal.md) 
+
+### #is_/same_as :: [2001-War_in_Afghanistan+2021.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.secret.md)
+

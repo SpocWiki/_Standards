@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eisner,Will](/_Standards/Society/Communication/Media/Writing/Book/Author/Eisner,Will.md) 
+### #is_/same_as :: [Eisner,Will](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Eisner,Will.md) 
 
-### #is_/same_as :: [Eisner,Will.public](/_public/Society/Communication/Media/Writing/Book/Author/Eisner,Will.public.md) 
+### #is_/same_as :: [Eisner,Will.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Eisner,Will.public.md) 
 
-### #is_/same_as :: [Eisner,Will.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Eisner,Will.internal.md) 
+### #is_/same_as :: [Eisner,Will.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Eisner,Will.internal.md) 
 
-### #is_/same_as :: [Eisner,Will.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Eisner,Will.protect.md) 
+### #is_/same_as :: [Eisner,Will.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Eisner,Will.protect.md) 
 
-### #is_/same_as :: [Eisner,Will.private](/_private/Society/Communication/Media/Writing/Book/Author/Eisner,Will.private.md) 
+### #is_/same_as :: [Eisner,Will.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Eisner,Will.private.md) 
 
-### #is_/same_as :: [Eisner,Will.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Eisner,Will.personal.md) 
+### #is_/same_as :: [Eisner,Will.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Eisner,Will.personal.md) 
 
-### #is_/same_as :: [Eisner,Will.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Eisner,Will.secret.md)
+### #is_/same_as :: [Eisner,Will.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Eisner,Will.secret.md)
 

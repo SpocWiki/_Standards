@@ -56,3 +56,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Proto-Indo-European%20mythology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Proto-Indo-European_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Proto-Indo-European_Mythology.md) 
+
+### #is_/same_as :: [Proto-Indo-European_Mythology.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Proto-Indo-European_Mythology.public.md) 
+
+### #is_/same_as :: [Proto-Indo-European_Mythology.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Proto-Indo-European_Mythology.internal.md) 
+
+### #is_/same_as :: [Proto-Indo-European_Mythology.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Proto-Indo-European_Mythology.protect.md) 
+
+### #is_/same_as :: [Proto-Indo-European_Mythology.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Proto-Indo-European_Mythology.private.md) 
+
+### #is_/same_as :: [Proto-Indo-European_Mythology.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Proto-Indo-European_Mythology.personal.md) 
+
+### #is_/same_as :: [Proto-Indo-European_Mythology.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Proto-Indo-European_Mythology.secret.md)
+

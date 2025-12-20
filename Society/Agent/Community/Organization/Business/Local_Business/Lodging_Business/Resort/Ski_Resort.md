@@ -39,17 +39,17 @@ A ski resort.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ski_Resort](Ski_Resort.md) 
+### #is_/same_as :: [Ski_Resort](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort/Ski_Resort.md) 
 
-### #is_/same_as :: [Ski_Resort.public](/_public/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.public.md) 
+### #is_/same_as :: [Ski_Resort.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort/Ski_Resort.public.md) 
 
-### #is_/same_as :: [Ski_Resort.internal](/_internal/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.internal.md) 
+### #is_/same_as :: [Ski_Resort.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort/Ski_Resort.internal.md) 
 
-### #is_/same_as :: [Ski_Resort.protect](/_protect/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.protect.md) 
+### #is_/same_as :: [Ski_Resort.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort/Ski_Resort.protect.md) 
 
-### #is_/same_as :: [Ski_Resort.private](/_private/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.private.md) 
+### #is_/same_as :: [Ski_Resort.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort/Ski_Resort.private.md) 
 
-### #is_/same_as :: [Ski_Resort.personal](/_personal/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.personal.md) 
+### #is_/same_as :: [Ski_Resort.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort/Ski_Resort.personal.md) 
 
-### #is_/same_as :: [Ski_Resort.secret](/_secret/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.secret.md)
+### #is_/same_as :: [Ski_Resort.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Resort/Ski_Resort.secret.md)
 

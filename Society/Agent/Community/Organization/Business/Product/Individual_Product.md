@@ -39,17 +39,17 @@ A single, identifiable product instance (e.g. a laptop with a particular serial 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Individual_Product](Individual_Product.md) 
+### #is_/same_as :: [Individual_Product](/_Standards/Society/Agent/Community/Organization/Business/Product/Individual_Product.md) 
 
-### #is_/same_as :: [individual_product.public](/_public/schema-org/Class/is_a_/product/individual_product.public.md) 
+### #is_/same_as :: [Individual_Product.public](/_public/Society/Agent/Community/Organization/Business/Product/Individual_Product.public.md) 
 
-### #is_/same_as :: [individual_product.internal](/_internal/schema-org/Class/is_a_/product/individual_product.internal.md) 
+### #is_/same_as :: [Individual_Product.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Individual_Product.internal.md) 
 
-### #is_/same_as :: [individual_product.protect](/_protect/schema-org/Class/is_a_/product/individual_product.protect.md) 
+### #is_/same_as :: [Individual_Product.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Individual_Product.protect.md) 
 
-### #is_/same_as :: [individual_product.private](/_private/schema-org/Class/is_a_/product/individual_product.private.md) 
+### #is_/same_as :: [Individual_Product.private](/_private/Society/Agent/Community/Organization/Business/Product/Individual_Product.private.md) 
 
-### #is_/same_as :: [individual_product.personal](/_personal/schema-org/Class/is_a_/product/individual_product.personal.md) 
+### #is_/same_as :: [Individual_Product.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Individual_Product.personal.md) 
 
-### #is_/same_as :: [individual_product.secret](/_secret/schema-org/Class/is_a_/product/individual_product.secret.md)
+### #is_/same_as :: [Individual_Product.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Individual_Product.secret.md)
 

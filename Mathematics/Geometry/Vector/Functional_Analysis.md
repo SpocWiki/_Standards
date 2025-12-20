@@ -59,3 +59,22 @@ Commons_category: Functional analysis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Functional%20analysis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Functional_Analysis](/_Standards/Mathematics/Geometry/Vector/Functional_Analysis.md) 
+
+### #is_/same_as :: [Functional_Analysis.public](/_public/Mathematics/Geometry/Vector/Functional_Analysis.public.md) 
+
+### #is_/same_as :: [Functional_Analysis.internal](/_internal/Mathematics/Geometry/Vector/Functional_Analysis.internal.md) 
+
+### #is_/same_as :: [Functional_Analysis.protect](/_protect/Mathematics/Geometry/Vector/Functional_Analysis.protect.md) 
+
+### #is_/same_as :: [Functional_Analysis.private](/_private/Mathematics/Geometry/Vector/Functional_Analysis.private.md) 
+
+### #is_/same_as :: [Functional_Analysis.personal](/_personal/Mathematics/Geometry/Vector/Functional_Analysis.personal.md) 
+
+### #is_/same_as :: [Functional_Analysis.secret](/_secret/Mathematics/Geometry/Vector/Functional_Analysis.secret.md)
+

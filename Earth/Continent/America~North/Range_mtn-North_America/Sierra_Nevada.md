@@ -82,3 +82,22 @@ Commons_gallery: Sierra Nevada, USA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sierra%20Nevada) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sierra_Nevada](/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.md) 
+
+### #is_/same_as :: [Sierra_Nevada.public](/_public/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.public.md) 
+
+### #is_/same_as :: [Sierra_Nevada.internal](/_internal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.internal.md) 
+
+### #is_/same_as :: [Sierra_Nevada.protect](/_protect/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.protect.md) 
+
+### #is_/same_as :: [Sierra_Nevada.private](/_private/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.private.md) 
+
+### #is_/same_as :: [Sierra_Nevada.personal](/_personal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.personal.md) 
+
+### #is_/same_as :: [Sierra_Nevada.secret](/_secret/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.secret.md)
+

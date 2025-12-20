@@ -20,3 +20,22 @@ has_id_wikidata: "40754"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Subtraction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Subtraction](/_Standards/Mathematics/Arithmetic/Subtraction.md) 
+
+### #is_/same_as :: [Subtraction.public](/_public/Mathematics/Arithmetic/Subtraction.public.md) 
+
+### #is_/same_as :: [Subtraction.internal](/_internal/Mathematics/Arithmetic/Subtraction.internal.md) 
+
+### #is_/same_as :: [Subtraction.protect](/_protect/Mathematics/Arithmetic/Subtraction.protect.md) 
+
+### #is_/same_as :: [Subtraction.private](/_private/Mathematics/Arithmetic/Subtraction.private.md) 
+
+### #is_/same_as :: [Subtraction.personal](/_personal/Mathematics/Arithmetic/Subtraction.personal.md) 
+
+### #is_/same_as :: [Subtraction.secret](/_secret/Mathematics/Arithmetic/Subtraction.secret.md)
+

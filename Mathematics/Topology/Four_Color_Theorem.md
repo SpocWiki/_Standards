@@ -37,3 +37,22 @@ has_id_wikidata: Q184410
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Four%20color%20theorem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Four_Color_Theorem](/_Standards/Mathematics/Topology/Four_Color_Theorem.md) 
+
+### #is_/same_as :: [Four_Color_Theorem.public](/_public/Mathematics/Topology/Four_Color_Theorem.public.md) 
+
+### #is_/same_as :: [Four_Color_Theorem.internal](/_internal/Mathematics/Topology/Four_Color_Theorem.internal.md) 
+
+### #is_/same_as :: [Four_Color_Theorem.protect](/_protect/Mathematics/Topology/Four_Color_Theorem.protect.md) 
+
+### #is_/same_as :: [Four_Color_Theorem.private](/_private/Mathematics/Topology/Four_Color_Theorem.private.md) 
+
+### #is_/same_as :: [Four_Color_Theorem.personal](/_personal/Mathematics/Topology/Four_Color_Theorem.personal.md) 
+
+### #is_/same_as :: [Four_Color_Theorem.secret](/_secret/Mathematics/Topology/Four_Color_Theorem.secret.md)
+

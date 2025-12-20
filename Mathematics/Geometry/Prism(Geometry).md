@@ -50,3 +50,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prism%20(geometry)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prism(Geometry)](/_Standards/Mathematics/Geometry/Prism(Geometry).md) 
+
+### #is_/same_as :: [Prism(Geometry).public](/_public/Mathematics/Geometry/Prism(Geometry).public.md) 
+
+### #is_/same_as :: [Prism(Geometry).internal](/_internal/Mathematics/Geometry/Prism(Geometry).internal.md) 
+
+### #is_/same_as :: [Prism(Geometry).protect](/_protect/Mathematics/Geometry/Prism(Geometry).protect.md) 
+
+### #is_/same_as :: [Prism(Geometry).private](/_private/Mathematics/Geometry/Prism(Geometry).private.md) 
+
+### #is_/same_as :: [Prism(Geometry).personal](/_personal/Mathematics/Geometry/Prism(Geometry).personal.md) 
+
+### #is_/same_as :: [Prism(Geometry).secret](/_secret/Mathematics/Geometry/Prism(Geometry).secret.md)
+

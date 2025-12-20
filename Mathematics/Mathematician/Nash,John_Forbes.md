@@ -114,3 +114,22 @@ date_of_death: 2015-05-23T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Forbes%20Nash%20Jr.) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nash,John_Forbes](/_Standards/Mathematics/Mathematician/Nash,John_Forbes.md) 
+
+### #is_/same_as :: [Nash,John_Forbes.public](/_public/Mathematics/Mathematician/Nash,John_Forbes.public.md) 
+
+### #is_/same_as :: [Nash,John_Forbes.internal](/_internal/Mathematics/Mathematician/Nash,John_Forbes.internal.md) 
+
+### #is_/same_as :: [Nash,John_Forbes.protect](/_protect/Mathematics/Mathematician/Nash,John_Forbes.protect.md) 
+
+### #is_/same_as :: [Nash,John_Forbes.private](/_private/Mathematics/Mathematician/Nash,John_Forbes.private.md) 
+
+### #is_/same_as :: [Nash,John_Forbes.personal](/_personal/Mathematics/Mathematician/Nash,John_Forbes.personal.md) 
+
+### #is_/same_as :: [Nash,John_Forbes.secret](/_secret/Mathematics/Mathematician/Nash,John_Forbes.secret.md)
+

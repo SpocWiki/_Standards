@@ -39,17 +39,17 @@ Any branch of a field in which people typically develop specific expertise, usua
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Specialty](Specialty.md) 
+### #is_/same_as :: [Specialty](/_Standards/schema-org/Enumeration/Specialty.md) 
 
-### #is_/same_as :: [specialty.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/specialty.public.md) 
+### #is_/same_as :: [Specialty.public](/_public/schema-org/Enumeration/Specialty.public.md) 
 
-### #is_/same_as :: [specialty.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/specialty.internal.md) 
+### #is_/same_as :: [Specialty.internal](/_internal/schema-org/Enumeration/Specialty.internal.md) 
 
-### #is_/same_as :: [specialty.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/specialty.protect.md) 
+### #is_/same_as :: [Specialty.protect](/_protect/schema-org/Enumeration/Specialty.protect.md) 
 
-### #is_/same_as :: [specialty.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/specialty.private.md) 
+### #is_/same_as :: [Specialty.private](/_private/schema-org/Enumeration/Specialty.private.md) 
 
-### #is_/same_as :: [specialty.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/specialty.personal.md) 
+### #is_/same_as :: [Specialty.personal](/_personal/schema-org/Enumeration/Specialty.personal.md) 
 
-### #is_/same_as :: [specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/specialty.secret.md)
+### #is_/same_as :: [Specialty.secret](/_secret/schema-org/Enumeration/Specialty.secret.md)
 

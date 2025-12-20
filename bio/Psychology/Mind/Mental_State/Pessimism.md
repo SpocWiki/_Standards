@@ -47,3 +47,22 @@ Commons_category: Pessimism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pessimism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pessimism](/_Standards/bio/Psychology/Mind/Mental_State/Pessimism.md) 
+
+### #is_/same_as :: [Pessimism.public](/_public/bio/Psychology/Mind/Mental_State/Pessimism.public.md) 
+
+### #is_/same_as :: [Pessimism.internal](/_internal/bio/Psychology/Mind/Mental_State/Pessimism.internal.md) 
+
+### #is_/same_as :: [Pessimism.protect](/_protect/bio/Psychology/Mind/Mental_State/Pessimism.protect.md) 
+
+### #is_/same_as :: [Pessimism.private](/_private/bio/Psychology/Mind/Mental_State/Pessimism.private.md) 
+
+### #is_/same_as :: [Pessimism.personal](/_personal/bio/Psychology/Mind/Mental_State/Pessimism.personal.md) 
+
+### #is_/same_as :: [Pessimism.secret](/_secret/bio/Psychology/Mind/Mental_State/Pessimism.secret.md)
+

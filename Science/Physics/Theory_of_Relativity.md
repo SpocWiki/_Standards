@@ -63,3 +63,22 @@ Commons_category: Theory of relativity
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theory%20of%20relativity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theory_of_Relativity](/_Standards/Science/Physics/Theory_of_Relativity.md) 
+
+### #is_/same_as :: [Theory_of_Relativity.public](/_public/Science/Physics/Theory_of_Relativity.public.md) 
+
+### #is_/same_as :: [Theory_of_Relativity.internal](/_internal/Science/Physics/Theory_of_Relativity.internal.md) 
+
+### #is_/same_as :: [Theory_of_Relativity.protect](/_protect/Science/Physics/Theory_of_Relativity.protect.md) 
+
+### #is_/same_as :: [Theory_of_Relativity.private](/_private/Science/Physics/Theory_of_Relativity.private.md) 
+
+### #is_/same_as :: [Theory_of_Relativity.personal](/_personal/Science/Physics/Theory_of_Relativity.personal.md) 
+
+### #is_/same_as :: [Theory_of_Relativity.secret](/_secret/Science/Physics/Theory_of_Relativity.secret.md)
+

@@ -110,3 +110,22 @@ ISIN: US00507V1098
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Activision%20Blizzard) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Activision_Blizzard](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.md) 
+
+### #is_/same_as :: [Activision_Blizzard.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.public.md) 
+
+### #is_/same_as :: [Activision_Blizzard.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.internal.md) 
+
+### #is_/same_as :: [Activision_Blizzard.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.protect.md) 
+
+### #is_/same_as :: [Activision_Blizzard.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.private.md) 
+
+### #is_/same_as :: [Activision_Blizzard.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.personal.md) 
+
+### #is_/same_as :: [Activision_Blizzard.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.secret.md)
+

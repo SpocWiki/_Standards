@@ -65,3 +65,22 @@ Commons_category: Duels
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Duel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Duel](/_Standards/Society/Military/Military_Operation/Combat/Duel.md) 
+
+### #is_/same_as :: [Duel.public](/_public/Society/Military/Military_Operation/Combat/Duel.public.md) 
+
+### #is_/same_as :: [Duel.internal](/_internal/Society/Military/Military_Operation/Combat/Duel.internal.md) 
+
+### #is_/same_as :: [Duel.protect](/_protect/Society/Military/Military_Operation/Combat/Duel.protect.md) 
+
+### #is_/same_as :: [Duel.private](/_private/Society/Military/Military_Operation/Combat/Duel.private.md) 
+
+### #is_/same_as :: [Duel.personal](/_personal/Society/Military/Military_Operation/Combat/Duel.personal.md) 
+
+### #is_/same_as :: [Duel.secret](/_secret/Society/Military/Military_Operation/Combat/Duel.secret.md)
+

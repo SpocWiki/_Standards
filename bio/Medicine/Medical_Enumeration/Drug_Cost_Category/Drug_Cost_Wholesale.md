@@ -40,17 +40,17 @@ The drug's cost represents the wholesale acquisition cost of the drug.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [wholesale](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.md) 
+### #is_/same_as :: [Drug_Cost_Wholesale](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Wholesale.md) 
 
-### #is_/same_as :: [wholesale.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.public.md) 
+### #is_/same_as :: [Drug_Cost_Wholesale.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Wholesale.public.md) 
 
-### #is_/same_as :: [wholesale.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.internal.md) 
+### #is_/same_as :: [Drug_Cost_Wholesale.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Wholesale.internal.md) 
 
-### #is_/same_as :: [wholesale.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.protect.md) 
+### #is_/same_as :: [Drug_Cost_Wholesale.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Wholesale.protect.md) 
 
-### #is_/same_as :: [wholesale.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.private.md) 
+### #is_/same_as :: [Drug_Cost_Wholesale.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Wholesale.private.md) 
 
-### #is_/same_as :: [wholesale.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.personal.md) 
+### #is_/same_as :: [Drug_Cost_Wholesale.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Wholesale.personal.md) 
 
-### #is_/same_as :: [wholesale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.secret.md)
+### #is_/same_as :: [Drug_Cost_Wholesale.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Wholesale.secret.md)
 

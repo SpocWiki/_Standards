@@ -41,3 +41,22 @@ Commons_category: Liturgy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liturgy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Liturgy](/_Standards/Philosophy/Metaphysic/Religion/Liturgy.md) 
+
+### #is_/same_as :: [Liturgy.public](/_public/Philosophy/Metaphysic/Religion/Liturgy.public.md) 
+
+### #is_/same_as :: [Liturgy.internal](/_internal/Philosophy/Metaphysic/Religion/Liturgy.internal.md) 
+
+### #is_/same_as :: [Liturgy.protect](/_protect/Philosophy/Metaphysic/Religion/Liturgy.protect.md) 
+
+### #is_/same_as :: [Liturgy.private](/_private/Philosophy/Metaphysic/Religion/Liturgy.private.md) 
+
+### #is_/same_as :: [Liturgy.personal](/_personal/Philosophy/Metaphysic/Religion/Liturgy.personal.md) 
+
+### #is_/same_as :: [Liturgy.secret](/_secret/Philosophy/Metaphysic/Religion/Liturgy.secret.md)
+

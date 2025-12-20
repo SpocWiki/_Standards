@@ -28,17 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Italic](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.md) 
+### #is_/same_as :: [LangFamily-Italic](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic.md) 
 
-### #is_/same_as :: [LangFamily-Italic.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.public.md) 
+### #is_/same_as :: [LangFamily-Italic.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic.public.md) 
 
-### #is_/same_as :: [LangFamily-Italic.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.internal.md) 
+### #is_/same_as :: [LangFamily-Italic.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic.internal.md) 
 
-### #is_/same_as :: [LangFamily-Italic.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.protect.md) 
+### #is_/same_as :: [LangFamily-Italic.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic.protect.md) 
 
-### #is_/same_as :: [LangFamily-Italic.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.private.md) 
+### #is_/same_as :: [LangFamily-Italic.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic.private.md) 
 
-### #is_/same_as :: [LangFamily-Italic.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.personal.md) 
+### #is_/same_as :: [LangFamily-Italic.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic.personal.md) 
 
-### #is_/same_as :: [LangFamily-Italic.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.secret.md)
+### #is_/same_as :: [LangFamily-Italic.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic.secret.md)
 

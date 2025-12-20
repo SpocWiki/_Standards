@@ -36,3 +36,22 @@ has_id_wikidata: Q191600
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20and%20political%20rights) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Civil_and_political_Rights](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.md) 
+
+### #is_/same_as :: [Civil_and_political_Rights.public](/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.public.md) 
+
+### #is_/same_as :: [Civil_and_political_Rights.internal](/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.internal.md) 
+
+### #is_/same_as :: [Civil_and_political_Rights.protect](/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.protect.md) 
+
+### #is_/same_as :: [Civil_and_political_Rights.private](/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.private.md) 
+
+### #is_/same_as :: [Civil_and_political_Rights.personal](/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.personal.md) 
+
+### #is_/same_as :: [Civil_and_political_Rights.secret](/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.secret.md)
+

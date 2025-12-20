@@ -79,3 +79,22 @@ taxon_name: Brassica oleracea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brassica%20oleracea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brassica_oleracea](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.md) 
+
+### #is_/same_as :: [Brassica_oleracea.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.public.md) 
+
+### #is_/same_as :: [Brassica_oleracea.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.internal.md) 
+
+### #is_/same_as :: [Brassica_oleracea.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.protect.md) 
+
+### #is_/same_as :: [Brassica_oleracea.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.private.md) 
+
+### #is_/same_as :: [Brassica_oleracea.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.personal.md) 
+
+### #is_/same_as :: [Brassica_oleracea.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.secret.md)
+

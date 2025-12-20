@@ -27,3 +27,22 @@ taxon_name: Antliophora
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Panorpida) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Antliophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora.md) 
+
+### #is_/same_as :: [Antliophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora.public.md) 
+
+### #is_/same_as :: [Antliophora.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora.internal.md) 
+
+### #is_/same_as :: [Antliophora.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora.protect.md) 
+
+### #is_/same_as :: [Antliophora.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora.private.md) 
+
+### #is_/same_as :: [Antliophora.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora.personal.md) 
+
+### #is_/same_as :: [Antliophora.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora.secret.md)
+

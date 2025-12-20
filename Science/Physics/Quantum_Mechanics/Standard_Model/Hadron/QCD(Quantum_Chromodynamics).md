@@ -57,3 +57,22 @@ PhilPapers_topic: quantum-chromodynamics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20chromodynamics)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [QCD(Quantum_Chromodynamics)](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).md) 
+
+### #is_/same_as :: [QCD(Quantum_Chromodynamics).public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).public.md) 
+
+### #is_/same_as :: [QCD(Quantum_Chromodynamics).internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).internal.md) 
+
+### #is_/same_as :: [QCD(Quantum_Chromodynamics).protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).protect.md) 
+
+### #is_/same_as :: [QCD(Quantum_Chromodynamics).private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).private.md) 
+
+### #is_/same_as :: [QCD(Quantum_Chromodynamics).personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).personal.md) 
+
+### #is_/same_as :: [QCD(Quantum_Chromodynamics).secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).secret.md)
+

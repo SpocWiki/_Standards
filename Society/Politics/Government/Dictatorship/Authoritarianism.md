@@ -74,3 +74,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/AVTORIT
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Authoritarianism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Authoritarianism](/_Standards/Society/Politics/Government/Dictatorship/Authoritarianism.md) 
+
+### #is_/same_as :: [Authoritarianism.public](/_public/Society/Politics/Government/Dictatorship/Authoritarianism.public.md) 
+
+### #is_/same_as :: [Authoritarianism.internal](/_internal/Society/Politics/Government/Dictatorship/Authoritarianism.internal.md) 
+
+### #is_/same_as :: [Authoritarianism.protect](/_protect/Society/Politics/Government/Dictatorship/Authoritarianism.protect.md) 
+
+### #is_/same_as :: [Authoritarianism.private](/_private/Society/Politics/Government/Dictatorship/Authoritarianism.private.md) 
+
+### #is_/same_as :: [Authoritarianism.personal](/_personal/Society/Politics/Government/Dictatorship/Authoritarianism.personal.md) 
+
+### #is_/same_as :: [Authoritarianism.secret](/_secret/Society/Politics/Government/Dictatorship/Authoritarianism.secret.md)
+

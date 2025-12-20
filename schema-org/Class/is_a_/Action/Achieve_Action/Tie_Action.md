@@ -39,17 +39,17 @@ The act of reaching a draw in a competitive activity.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [tie_action](/_Standards/schema-org/Class/is_a_/action/achieve_action/tie_action.md) 
+### #is_/same_as :: [Tie_Action](/_Standards/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.md) 
 
-### #is_/same_as :: [tie_action.public](/_public/schema-org/Class/is_a_/action/achieve_action/tie_action.public.md) 
+### #is_/same_as :: [Tie_Action.public](/_public/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.public.md) 
 
-### #is_/same_as :: [tie_action.internal](/_internal/schema-org/Class/is_a_/action/achieve_action/tie_action.internal.md) 
+### #is_/same_as :: [Tie_Action.internal](/_internal/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.internal.md) 
 
-### #is_/same_as :: [tie_action.protect](/_protect/schema-org/Class/is_a_/action/achieve_action/tie_action.protect.md) 
+### #is_/same_as :: [Tie_Action.protect](/_protect/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.protect.md) 
 
-### #is_/same_as :: [tie_action.private](/_private/schema-org/Class/is_a_/action/achieve_action/tie_action.private.md) 
+### #is_/same_as :: [Tie_Action.private](/_private/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.private.md) 
 
-### #is_/same_as :: [tie_action.personal](/_personal/schema-org/Class/is_a_/action/achieve_action/tie_action.personal.md) 
+### #is_/same_as :: [Tie_Action.personal](/_personal/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.personal.md) 
 
-### #is_/same_as :: [tie_action.secret](/_secret/schema-org/Class/is_a_/action/achieve_action/tie_action.secret.md)
+### #is_/same_as :: [Tie_Action.secret](/_secret/schema-org/Class/is_a_/Action/Achieve_Action/Tie_Action.secret.md)
 

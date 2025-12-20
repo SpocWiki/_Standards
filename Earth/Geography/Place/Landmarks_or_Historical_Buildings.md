@@ -117,9 +117,6 @@ An historical landmark or building.
 | [[Shard,London]]                                                                                                      | [[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper\|Skyscraper]]                                                                                   |        310 |  2012 | [[../../../../../Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City\|London]], UK                                                              |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Landmarks_or_Historical_Buildings](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings.md) 

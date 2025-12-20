@@ -64,3 +64,22 @@ coordinate_location: Point(-82.3885 23.1166)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cuban%20Missile%20Crisis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1962-Cuban_Missile_Crisis](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.md) 
+
+### #is_/same_as :: [1962-Cuban_Missile_Crisis.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.public.md) 
+
+### #is_/same_as :: [1962-Cuban_Missile_Crisis.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.internal.md) 
+
+### #is_/same_as :: [1962-Cuban_Missile_Crisis.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.protect.md) 
+
+### #is_/same_as :: [1962-Cuban_Missile_Crisis.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.private.md) 
+
+### #is_/same_as :: [1962-Cuban_Missile_Crisis.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.personal.md) 
+
+### #is_/same_as :: [1962-Cuban_Missile_Crisis.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.secret.md)
+

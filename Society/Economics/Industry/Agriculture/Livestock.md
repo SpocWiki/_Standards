@@ -44,3 +44,22 @@ Commons_category: Livestock
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Livestock) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Livestock](/_Standards/Society/Economics/Industry/Agriculture/Livestock.md) 
+
+### #is_/same_as :: [Livestock.public](/_public/Society/Economics/Industry/Agriculture/Livestock.public.md) 
+
+### #is_/same_as :: [Livestock.internal](/_internal/Society/Economics/Industry/Agriculture/Livestock.internal.md) 
+
+### #is_/same_as :: [Livestock.protect](/_protect/Society/Economics/Industry/Agriculture/Livestock.protect.md) 
+
+### #is_/same_as :: [Livestock.private](/_private/Society/Economics/Industry/Agriculture/Livestock.private.md) 
+
+### #is_/same_as :: [Livestock.personal](/_personal/Society/Economics/Industry/Agriculture/Livestock.personal.md) 
+
+### #is_/same_as :: [Livestock.secret](/_secret/Society/Economics/Industry/Agriculture/Livestock.secret.md)
+

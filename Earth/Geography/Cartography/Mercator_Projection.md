@@ -60,3 +60,22 @@ instead of the shorter [[../../../Mathematics/Geometry/Geometry-3D/Sphere/Great_
 
 Neither Lines nor Areas are preserved, e.g. Greenland looks the same Area as Africa, which is 10 times exaggerated. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mercator_Projection](/_Standards/Earth/Geography/Cartography/Mercator_Projection.md) 
+
+### #is_/same_as :: [Mercator_Projection.public](/_public/Earth/Geography/Cartography/Mercator_Projection.public.md) 
+
+### #is_/same_as :: [Mercator_Projection.internal](/_internal/Earth/Geography/Cartography/Mercator_Projection.internal.md) 
+
+### #is_/same_as :: [Mercator_Projection.protect](/_protect/Earth/Geography/Cartography/Mercator_Projection.protect.md) 
+
+### #is_/same_as :: [Mercator_Projection.private](/_private/Earth/Geography/Cartography/Mercator_Projection.private.md) 
+
+### #is_/same_as :: [Mercator_Projection.personal](/_personal/Earth/Geography/Cartography/Mercator_Projection.personal.md) 
+
+### #is_/same_as :: [Mercator_Projection.secret](/_secret/Earth/Geography/Cartography/Mercator_Projection.secret.md)
+

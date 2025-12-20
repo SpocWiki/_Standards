@@ -132,3 +132,22 @@ NLC_authorities: "000128303"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacques%20Derrida) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Derrida,Jacques](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.md) 
+
+### #is_/same_as :: [Derrida,Jacques.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.public.md) 
+
+### #is_/same_as :: [Derrida,Jacques.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.internal.md) 
+
+### #is_/same_as :: [Derrida,Jacques.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.protect.md) 
+
+### #is_/same_as :: [Derrida,Jacques.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.private.md) 
+
+### #is_/same_as :: [Derrida,Jacques.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.personal.md) 
+
+### #is_/same_as :: [Derrida,Jacques.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.secret.md)
+

@@ -90,3 +90,22 @@ Europeana_entity: agent/base/60651
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Miller) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Miller,Henry](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.md) 
+
+### #is_/same_as :: [Miller,Henry.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.public.md) 
+
+### #is_/same_as :: [Miller,Henry.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.internal.md) 
+
+### #is_/same_as :: [Miller,Henry.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.protect.md) 
+
+### #is_/same_as :: [Miller,Henry.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.private.md) 
+
+### #is_/same_as :: [Miller,Henry.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.personal.md) 
+
+### #is_/same_as :: [Miller,Henry.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Miller,Henry.secret.md)
+

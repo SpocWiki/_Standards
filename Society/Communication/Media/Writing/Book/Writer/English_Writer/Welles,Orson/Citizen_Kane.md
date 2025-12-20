@@ -165,3 +165,22 @@ Amazon_Standard_Identification_Number: B005MLP8E0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Citizen%20Kane) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Citizen_Kane](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson/Citizen_Kane.md) 
+
+### #is_/same_as :: [Citizen_Kane.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson/Citizen_Kane.public.md) 
+
+### #is_/same_as :: [Citizen_Kane.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson/Citizen_Kane.internal.md) 
+
+### #is_/same_as :: [Citizen_Kane.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson/Citizen_Kane.protect.md) 
+
+### #is_/same_as :: [Citizen_Kane.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson/Citizen_Kane.private.md) 
+
+### #is_/same_as :: [Citizen_Kane.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson/Citizen_Kane.personal.md) 
+
+### #is_/same_as :: [Citizen_Kane.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson/Citizen_Kane.secret.md)
+

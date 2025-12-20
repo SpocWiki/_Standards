@@ -49,3 +49,22 @@ MeSH_tree_code: F01.145.802.526
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Masturbation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Masturbation](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Masturbation.md) 
+
+### #is_/same_as :: [Masturbation.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Masturbation.public.md) 
+
+### #is_/same_as :: [Masturbation.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Masturbation.internal.md) 
+
+### #is_/same_as :: [Masturbation.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Masturbation.protect.md) 
+
+### #is_/same_as :: [Masturbation.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Masturbation.private.md) 
+
+### #is_/same_as :: [Masturbation.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Masturbation.personal.md) 
+
+### #is_/same_as :: [Masturbation.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Masturbation.secret.md)
+

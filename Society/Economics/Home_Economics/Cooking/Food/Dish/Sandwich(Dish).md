@@ -91,3 +91,22 @@ OpenStreetMap_tag: cuisine=sandwich
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sandwich) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sandwich(Dish)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).md) 
+
+### #is_/same_as :: [Sandwich(Dish).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).public.md) 
+
+### #is_/same_as :: [Sandwich(Dish).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).internal.md) 
+
+### #is_/same_as :: [Sandwich(Dish).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).protect.md) 
+
+### #is_/same_as :: [Sandwich(Dish).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).private.md) 
+
+### #is_/same_as :: [Sandwich(Dish).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).personal.md) 
+
+### #is_/same_as :: [Sandwich(Dish).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).secret.md)
+

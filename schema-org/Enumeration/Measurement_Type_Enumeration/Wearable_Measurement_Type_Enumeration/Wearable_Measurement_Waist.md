@@ -42,17 +42,17 @@ Measurement of the waist section, for example of pants
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Measurement_Waist](Wearable_Measurement_Waist.md) 
+### #is_/same_as :: [Wearable_Measurement_Waist](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Waist.md) 
 
-### #is_/same_as :: [wearable_measurement_waist.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_waist.public.md) 
+### #is_/same_as :: [Wearable_Measurement_Waist.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Waist.public.md) 
 
-### #is_/same_as :: [wearable_measurement_waist.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_waist.internal.md) 
+### #is_/same_as :: [Wearable_Measurement_Waist.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Waist.internal.md) 
 
-### #is_/same_as :: [wearable_measurement_waist.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_waist.protect.md) 
+### #is_/same_as :: [Wearable_Measurement_Waist.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Waist.protect.md) 
 
-### #is_/same_as :: [wearable_measurement_waist.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_waist.private.md) 
+### #is_/same_as :: [Wearable_Measurement_Waist.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Waist.private.md) 
 
-### #is_/same_as :: [wearable_measurement_waist.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_waist.personal.md) 
+### #is_/same_as :: [Wearable_Measurement_Waist.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Waist.personal.md) 
 
-### #is_/same_as :: [wearable_measurement_waist.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_waist.secret.md)
+### #is_/same_as :: [Wearable_Measurement_Waist.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Waist.secret.md)
 

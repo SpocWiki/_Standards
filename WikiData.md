@@ -455,10 +455,6 @@ There are ca. 13e3 Properties defined; these are the 100 [most frequent Properti
 | basin country                                    |                                   | P205  | WikibaseItem    | sem |  4.0 |
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WikiData](/_Standards/WikiData.md) 

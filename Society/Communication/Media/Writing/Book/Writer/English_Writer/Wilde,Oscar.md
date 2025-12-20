@@ -231,17 +231,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wilde,Oscar](/_Standards/Society/Communication/Media/Writing/Book/Author/Wilde,Oscar.md) 
+### #is_/same_as :: [Wilde,Oscar](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wilde,Oscar.md) 
 
-### #is_/same_as :: [Wilde,Oscar.public](/_public/Society/Communication/Media/Writing/Book/Author/Wilde,Oscar.public.md) 
+### #is_/same_as :: [Wilde,Oscar.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wilde,Oscar.public.md) 
 
-### #is_/same_as :: [Wilde,Oscar.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Wilde,Oscar.internal.md) 
+### #is_/same_as :: [Wilde,Oscar.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wilde,Oscar.internal.md) 
 
-### #is_/same_as :: [Wilde,Oscar.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Wilde,Oscar.protect.md) 
+### #is_/same_as :: [Wilde,Oscar.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wilde,Oscar.protect.md) 
 
-### #is_/same_as :: [Wilde,Oscar.private](/_private/Society/Communication/Media/Writing/Book/Author/Wilde,Oscar.private.md) 
+### #is_/same_as :: [Wilde,Oscar.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wilde,Oscar.private.md) 
 
-### #is_/same_as :: [Wilde,Oscar.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Wilde,Oscar.personal.md) 
+### #is_/same_as :: [Wilde,Oscar.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wilde,Oscar.personal.md) 
 
-### #is_/same_as :: [Wilde,Oscar.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Wilde,Oscar.secret.md)
+### #is_/same_as :: [Wilde,Oscar.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wilde,Oscar.secret.md)
 

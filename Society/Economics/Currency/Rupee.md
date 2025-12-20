@@ -28,3 +28,22 @@ Commons_category: Rupees
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rupee) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rupee](/_Standards/Society/Economics/Currency/Rupee.md) 
+
+### #is_/same_as :: [Rupee.public](/_public/Society/Economics/Currency/Rupee.public.md) 
+
+### #is_/same_as :: [Rupee.internal](/_internal/Society/Economics/Currency/Rupee.internal.md) 
+
+### #is_/same_as :: [Rupee.protect](/_protect/Society/Economics/Currency/Rupee.protect.md) 
+
+### #is_/same_as :: [Rupee.private](/_private/Society/Economics/Currency/Rupee.private.md) 
+
+### #is_/same_as :: [Rupee.personal](/_personal/Society/Economics/Currency/Rupee.personal.md) 
+
+### #is_/same_as :: [Rupee.secret](/_secret/Society/Economics/Currency/Rupee.secret.md)
+

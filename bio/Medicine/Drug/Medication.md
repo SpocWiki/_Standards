@@ -79,17 +79,17 @@ Wikidata_property: drug or therapy used for treatment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medication](Medication.md) 
+### #is_/same_as :: [Medication](/_Standards/bio/Medicine/Drug/Medication.md) 
 
-### #is_/same_as :: [Medicine.public](/_public/bio/Medicine/Drug/Medicine.public.md) 
+### #is_/same_as :: [Medication.public](/_public/bio/Medicine/Drug/Medication.public.md) 
 
-### #is_/same_as :: [Medicine.internal](/_internal/bio/Medicine/Drug/Medicine.internal.md) 
+### #is_/same_as :: [Medication.internal](/_internal/bio/Medicine/Drug/Medication.internal.md) 
 
-### #is_/same_as :: [Medicine.protect](/_protect/bio/Medicine/Drug/Medicine.protect.md) 
+### #is_/same_as :: [Medication.protect](/_protect/bio/Medicine/Drug/Medication.protect.md) 
 
-### #is_/same_as :: [Medicine.private](/_private/bio/Medicine/Drug/Medicine.private.md) 
+### #is_/same_as :: [Medication.private](/_private/bio/Medicine/Drug/Medication.private.md) 
 
-### #is_/same_as :: [Medicine.personal](/_personal/bio/Medicine/Drug/Medicine.personal.md) 
+### #is_/same_as :: [Medication.personal](/_personal/bio/Medicine/Drug/Medication.personal.md) 
 
-### #is_/same_as :: [Medicine.secret](/_secret/bio/Medicine/Drug/Medicine.secret.md)
+### #is_/same_as :: [Medication.secret](/_secret/bio/Medicine/Drug/Medication.secret.md)
 

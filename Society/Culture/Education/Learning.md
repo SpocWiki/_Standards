@@ -78,3 +78,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NAUCHENIE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Learning) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Learning](/_Standards/Society/Culture/Education/Learning.md) 
+
+### #is_/same_as :: [Learning.public](/_public/Society/Culture/Education/Learning.public.md) 
+
+### #is_/same_as :: [Learning.internal](/_internal/Society/Culture/Education/Learning.internal.md) 
+
+### #is_/same_as :: [Learning.protect](/_protect/Society/Culture/Education/Learning.protect.md) 
+
+### #is_/same_as :: [Learning.private](/_private/Society/Culture/Education/Learning.private.md) 
+
+### #is_/same_as :: [Learning.personal](/_personal/Society/Culture/Education/Learning.personal.md) 
+
+### #is_/same_as :: [Learning.secret](/_secret/Society/Culture/Education/Learning.secret.md)
+

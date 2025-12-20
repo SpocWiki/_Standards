@@ -184,39 +184,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Operating_System](/_Standards/Technology/IT/Software/Operating_System.md) 
+### #is_/same_as :: [OS(Operating-System)](/_Standards/Technology/IT/Software/OS(Operating-System).md) 
 
-### #is_/same_as :: [Operating_System.public](/_public/Technology/IT/Software/Operating_System.public.md) 
+### #is_/same_as :: [OS(Operating-System).public](/_public/Technology/IT/Software/OS(Operating-System).public.md) 
 
-### #is_/same_as :: [Operating_System.internal](/_internal/Technology/IT/Software/Operating_System.internal.md) 
+### #is_/same_as :: [OS(Operating-System).internal](/_internal/Technology/IT/Software/OS(Operating-System).internal.md) 
 
-### #is_/same_as :: [Operating_System.protect](/_protect/Technology/IT/Software/Operating_System.protect.md) 
+### #is_/same_as :: [OS(Operating-System).protect](/_protect/Technology/IT/Software/OS(Operating-System).protect.md) 
 
-### #is_/same_as :: [Operating_System.private](/_private/Technology/IT/Software/Operating_System.private.md) 
+### #is_/same_as :: [OS(Operating-System).private](/_private/Technology/IT/Software/OS(Operating-System).private.md) 
 
-### #is_/same_as :: [Operating_System.personal](/_personal/Technology/IT/Software/Operating_System.personal.md) 
+### #is_/same_as :: [OS(Operating-System).personal](/_personal/Technology/IT/Software/OS(Operating-System).personal.md) 
 
-### #is_/same_as :: [Operating_System.secret](/_secret/Technology/IT/Software/Operating_System.secret.md)
+### #is_/same_as :: [OS(Operating-System).secret](/_secret/Technology/IT/Software/OS(Operating-System).secret.md)
 
-
-# [[OS(Operating-System)]] 
-
-#is_/part_of :: [[Operating_System]] 
-
-![[OS(Operating-System).svg]]
-
- 
-
-## Embedded Graph 
-
-![[OS(Operating-System).svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

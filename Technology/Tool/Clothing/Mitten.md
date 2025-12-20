@@ -31,3 +31,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mitten) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mitten](/_Standards/Technology/Tool/Clothing/Mitten.md) 
+
+### #is_/same_as :: [Mitten.public](/_public/Technology/Tool/Clothing/Mitten.public.md) 
+
+### #is_/same_as :: [Mitten.internal](/_internal/Technology/Tool/Clothing/Mitten.internal.md) 
+
+### #is_/same_as :: [Mitten.protect](/_protect/Technology/Tool/Clothing/Mitten.protect.md) 
+
+### #is_/same_as :: [Mitten.private](/_private/Technology/Tool/Clothing/Mitten.private.md) 
+
+### #is_/same_as :: [Mitten.personal](/_personal/Technology/Tool/Clothing/Mitten.personal.md) 
+
+### #is_/same_as :: [Mitten.secret](/_secret/Technology/Tool/Clothing/Mitten.secret.md)
+

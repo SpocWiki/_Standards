@@ -112,3 +112,22 @@ ISNI: "0000000121339861"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89mile%20Durkheim) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Durkheim,Émile](/_Standards/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.md) 
+
+### #is_/same_as :: [Durkheim,Émile.public](/_public/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.public.md) 
+
+### #is_/same_as :: [Durkheim,Émile.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.internal.md) 
+
+### #is_/same_as :: [Durkheim,Émile.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.protect.md) 
+
+### #is_/same_as :: [Durkheim,Émile.private](/_private/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.private.md) 
+
+### #is_/same_as :: [Durkheim,Émile.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.personal.md) 
+
+### #is_/same_as :: [Durkheim,Émile.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.secret.md)
+

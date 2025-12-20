@@ -57,3 +57,22 @@ end_time: -358900000-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Placoderm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Placoderm](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Placoderm.md) 
+
+### #is_/same_as :: [Placoderm.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Placoderm.public.md) 
+
+### #is_/same_as :: [Placoderm.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Placoderm.internal.md) 
+
+### #is_/same_as :: [Placoderm.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Placoderm.protect.md) 
+
+### #is_/same_as :: [Placoderm.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Placoderm.private.md) 
+
+### #is_/same_as :: [Placoderm.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Placoderm.personal.md) 
+
+### #is_/same_as :: [Placoderm.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Placoderm.secret.md)
+

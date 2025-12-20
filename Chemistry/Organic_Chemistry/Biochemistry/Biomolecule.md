@@ -19,17 +19,17 @@ has_id_wikidata: Q206229
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biomolecule](Biomolecule.md) 
+### #is_/same_as :: [Biomolecule](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.md) 
 
-### #is_/same_as :: [Biomolecule.public](/_public/Chemistry/organic/Biochemistry/Biomolecule.public.md) 
+### #is_/same_as :: [Biomolecule.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public.md) 
 
-### #is_/same_as :: [Biomolecule.internal](/_internal/Chemistry/organic/Biochemistry/Biomolecule.internal.md) 
+### #is_/same_as :: [Biomolecule.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal.md) 
 
-### #is_/same_as :: [Biomolecule.protect](/_protect/Chemistry/organic/Biochemistry/Biomolecule.protect.md) 
+### #is_/same_as :: [Biomolecule.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect.md) 
 
-### #is_/same_as :: [Biomolecule.private](/_private/Chemistry/organic/Biochemistry/Biomolecule.private.md) 
+### #is_/same_as :: [Biomolecule.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private.md) 
 
-### #is_/same_as :: [Biomolecule.personal](/_personal/Chemistry/organic/Biochemistry/Biomolecule.personal.md) 
+### #is_/same_as :: [Biomolecule.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal.md) 
 
-### #is_/same_as :: [Biomolecule.secret](/_secret/Chemistry/organic/Biochemistry/Biomolecule.secret.md)
+### #is_/same_as :: [Biomolecule.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret.md)
 

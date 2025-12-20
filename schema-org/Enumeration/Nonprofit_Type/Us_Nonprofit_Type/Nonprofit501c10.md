@@ -42,17 +42,17 @@ Nonprofit501c10: Non-profit type referring to Domestic Fraternal Societies and A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c10](Nonprofit501c10.md) 
+### #is_/same_as :: [Nonprofit501c10](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.md) 
 
-### #is_/same_as :: [nonprofit501c10.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.public.md) 
+### #is_/same_as :: [Nonprofit501c10.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.public.md) 
 
-### #is_/same_as :: [nonprofit501c10.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.internal.md) 
+### #is_/same_as :: [Nonprofit501c10.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.internal.md) 
 
-### #is_/same_as :: [nonprofit501c10.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.protect.md) 
+### #is_/same_as :: [Nonprofit501c10.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.protect.md) 
 
-### #is_/same_as :: [nonprofit501c10.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.private.md) 
+### #is_/same_as :: [Nonprofit501c10.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.private.md) 
 
-### #is_/same_as :: [nonprofit501c10.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.personal.md) 
+### #is_/same_as :: [Nonprofit501c10.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.personal.md) 
 
-### #is_/same_as :: [nonprofit501c10.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.secret.md)
+### #is_/same_as :: [Nonprofit501c10.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.secret.md)
 

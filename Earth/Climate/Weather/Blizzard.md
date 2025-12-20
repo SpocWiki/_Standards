@@ -43,17 +43,17 @@ P8189: "987007283243305171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blizzard](/_Standards/Earth/Atmosphere,Earth/Climate/Weather/Blizzard.md) 
+### #is_/same_as :: [Blizzard](/_Standards/Earth/Climate/Weather/Blizzard.md) 
 
-### #is_/same_as :: [Blizzard.public](/_public/Earth/Atmosphere,Earth/Climate/Weather/Blizzard.public.md) 
+### #is_/same_as :: [Blizzard.public](/_public/Earth/Climate/Weather/Blizzard.public.md) 
 
-### #is_/same_as :: [Blizzard.internal](/_internal/Earth/Atmosphere,Earth/Climate/Weather/Blizzard.internal.md) 
+### #is_/same_as :: [Blizzard.internal](/_internal/Earth/Climate/Weather/Blizzard.internal.md) 
 
-### #is_/same_as :: [Blizzard.protect](/_protect/Earth/Atmosphere,Earth/Climate/Weather/Blizzard.protect.md) 
+### #is_/same_as :: [Blizzard.protect](/_protect/Earth/Climate/Weather/Blizzard.protect.md) 
 
-### #is_/same_as :: [Blizzard.private](/_private/Earth/Atmosphere,Earth/Climate/Weather/Blizzard.private.md) 
+### #is_/same_as :: [Blizzard.private](/_private/Earth/Climate/Weather/Blizzard.private.md) 
 
-### #is_/same_as :: [Blizzard.personal](/_personal/Earth/Atmosphere,Earth/Climate/Weather/Blizzard.personal.md) 
+### #is_/same_as :: [Blizzard.personal](/_personal/Earth/Climate/Weather/Blizzard.personal.md) 
 
-### #is_/same_as :: [Blizzard.secret](/_secret/Earth/Atmosphere,Earth/Climate/Weather/Blizzard.secret.md)
+### #is_/same_as :: [Blizzard.secret](/_secret/Earth/Climate/Weather/Blizzard.secret.md)
 

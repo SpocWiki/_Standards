@@ -67,3 +67,21 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/ZAGRYAZNENIE_OKRUZHAYUSHCHE_
 > Because of the impacts of these chemicals, local and international countries' policy have increasingly sought to regulate pollutants, resulting in increasing air and water quality standards, alongside regulation of specific waste streams. Regional and national policy is typically supervised by environmental agencies or ministries, while international efforts are coordinated by the UN Environmental Program and other treaty bodies. Pollution mitigation is an important part of all of the Sustainable Development Goals.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pollution)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pollution](/_Standards/Earth/Climate/Pollution.md) 
+
+### #is_/same_as :: [Pollution.public](/_public/Earth/Climate/Pollution.public.md) 
+
+### #is_/same_as :: [Pollution.internal](/_internal/Earth/Climate/Pollution.internal.md) 
+
+### #is_/same_as :: [Pollution.protect](/_protect/Earth/Climate/Pollution.protect.md) 
+
+### #is_/same_as :: [Pollution.private](/_private/Earth/Climate/Pollution.private.md) 
+
+### #is_/same_as :: [Pollution.personal](/_personal/Earth/Climate/Pollution.personal.md) 
+
+### #is_/same_as :: [Pollution.secret](/_secret/Earth/Climate/Pollution.secret.md)
+

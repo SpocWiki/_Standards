@@ -42,19 +42,20 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/DETEKTIV.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Detective%20fiction) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Detective_Fiction](/_Standards/Society/Communication/Genre/Fiction/Detective_Fiction.md) 
+### #is_/same_as :: [Detective_Fiction](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.md) 
 
-### #is_/same_as :: [Detective_Fiction.public](/_public/Society/Communication/Genre/Fiction/Detective_Fiction.public.md) 
+### #is_/same_as :: [Detective_Fiction.public](/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.public.md) 
 
-### #is_/same_as :: [Detective_Fiction.internal](/_internal/Society/Communication/Genre/Fiction/Detective_Fiction.internal.md) 
+### #is_/same_as :: [Detective_Fiction.internal](/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.internal.md) 
 
-### #is_/same_as :: [Detective_Fiction.protect](/_protect/Society/Communication/Genre/Fiction/Detective_Fiction.protect.md) 
+### #is_/same_as :: [Detective_Fiction.protect](/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.protect.md) 
 
-### #is_/same_as :: [Detective_Fiction.private](/_private/Society/Communication/Genre/Fiction/Detective_Fiction.private.md) 
+### #is_/same_as :: [Detective_Fiction.private](/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.private.md) 
 
-### #is_/same_as :: [Detective_Fiction.personal](/_personal/Society/Communication/Genre/Fiction/Detective_Fiction.personal.md) 
+### #is_/same_as :: [Detective_Fiction.personal](/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.personal.md) 
 
-### #is_/same_as :: [Detective_Fiction.secret](/_secret/Society/Communication/Genre/Fiction/Detective_Fiction.secret.md)
+### #is_/same_as :: [Detective_Fiction.secret](/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction.secret.md)
 

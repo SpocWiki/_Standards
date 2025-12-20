@@ -61,3 +61,22 @@ Wolfram_Language_entity_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cutlery) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cutlery](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.md) 
+
+### #is_/same_as :: [Cutlery.public](/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.public.md) 
+
+### #is_/same_as :: [Cutlery.internal](/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.internal.md) 
+
+### #is_/same_as :: [Cutlery.protect](/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.protect.md) 
+
+### #is_/same_as :: [Cutlery.private](/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.private.md) 
+
+### #is_/same_as :: [Cutlery.personal](/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.personal.md) 
+
+### #is_/same_as :: [Cutlery.secret](/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.secret.md)
+

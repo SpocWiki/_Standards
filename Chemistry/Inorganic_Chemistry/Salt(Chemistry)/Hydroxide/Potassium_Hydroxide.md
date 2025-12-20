@@ -87,3 +87,22 @@ mass: 55.966446332000004
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Potassium%20hydroxide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Potassium_Hydroxide](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.md) 
+
+### #is_/same_as :: [Potassium_Hydroxide.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.public.md) 
+
+### #is_/same_as :: [Potassium_Hydroxide.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.internal.md) 
+
+### #is_/same_as :: [Potassium_Hydroxide.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.protect.md) 
+
+### #is_/same_as :: [Potassium_Hydroxide.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.private.md) 
+
+### #is_/same_as :: [Potassium_Hydroxide.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.personal.md) 
+
+### #is_/same_as :: [Potassium_Hydroxide.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.secret.md)
+

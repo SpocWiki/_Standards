@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lolita_(1962_film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).md) 
+### #is_/same_as :: [Lolita(1962)](/_Standards/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).md) 
 
-### #is_/same_as :: [Lolita_(1962_film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).public.md) 
+### #is_/same_as :: [Lolita(1962).public](/_public/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).public.md) 
 
-### #is_/same_as :: [Lolita_(1962_film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).internal.md) 
+### #is_/same_as :: [Lolita(1962).internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).internal.md) 
 
-### #is_/same_as :: [Lolita_(1962_film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).protect.md) 
+### #is_/same_as :: [Lolita(1962).protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).protect.md) 
 
-### #is_/same_as :: [Lolita_(1962_film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).private.md) 
+### #is_/same_as :: [Lolita(1962).private](/_private/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).private.md) 
 
-### #is_/same_as :: [Lolita_(1962_film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).personal.md) 
+### #is_/same_as :: [Lolita(1962).personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).personal.md) 
 
-### #is_/same_as :: [Lolita_(1962_film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).secret.md)
+### #is_/same_as :: [Lolita(1962).secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).secret.md)
 

@@ -34,3 +34,22 @@ Dewey_Decimal_Classification: "346.045"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zoning) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zoning](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.md) 
+
+### #is_/same_as :: [Zoning.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.public.md) 
+
+### #is_/same_as :: [Zoning.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.internal.md) 
+
+### #is_/same_as :: [Zoning.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.protect.md) 
+
+### #is_/same_as :: [Zoning.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.private.md) 
+
+### #is_/same_as :: [Zoning.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.personal.md) 
+
+### #is_/same_as :: [Zoning.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.secret.md)
+

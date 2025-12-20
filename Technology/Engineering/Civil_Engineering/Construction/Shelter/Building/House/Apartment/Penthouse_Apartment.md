@@ -39,3 +39,22 @@ Commons_category: Penthouses
 > [Wikipedia](https://en.wikipedia.org/wiki/Penthouse%20apartment) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Penthouse_Apartment](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.md) 
+
+### #is_/same_as :: [Penthouse_Apartment.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.public.md) 
+
+### #is_/same_as :: [Penthouse_Apartment.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.internal.md) 
+
+### #is_/same_as :: [Penthouse_Apartment.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.protect.md) 
+
+### #is_/same_as :: [Penthouse_Apartment.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.private.md) 
+
+### #is_/same_as :: [Penthouse_Apartment.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.personal.md) 
+
+### #is_/same_as :: [Penthouse_Apartment.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.secret.md)
+

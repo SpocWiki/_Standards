@@ -40,17 +40,17 @@ An international trial.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [international_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.md) 
+### #is_/same_as :: [International_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/International_Trial.md) 
 
-### #is_/same_as :: [international_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.public.md) 
+### #is_/same_as :: [International_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/International_Trial.public.md) 
 
-### #is_/same_as :: [international_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.internal.md) 
+### #is_/same_as :: [International_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/International_Trial.internal.md) 
 
-### #is_/same_as :: [international_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.protect.md) 
+### #is_/same_as :: [International_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/International_Trial.protect.md) 
 
-### #is_/same_as :: [international_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.private.md) 
+### #is_/same_as :: [International_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/International_Trial.private.md) 
 
-### #is_/same_as :: [international_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.personal.md) 
+### #is_/same_as :: [International_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/International_Trial.personal.md) 
 
-### #is_/same_as :: [international_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.secret.md)
+### #is_/same_as :: [International_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/International_Trial.secret.md)
 

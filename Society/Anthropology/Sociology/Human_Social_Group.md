@@ -48,3 +48,22 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20group) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Human_Social_Group](/_Standards/Society/Anthropology/Sociology/Human_Social_Group.md) 
+
+### #is_/same_as :: [Human_Social_Group.public](/_public/Society/Anthropology/Sociology/Human_Social_Group.public.md) 
+
+### #is_/same_as :: [Human_Social_Group.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group.internal.md) 
+
+### #is_/same_as :: [Human_Social_Group.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group.protect.md) 
+
+### #is_/same_as :: [Human_Social_Group.private](/_private/Society/Anthropology/Sociology/Human_Social_Group.private.md) 
+
+### #is_/same_as :: [Human_Social_Group.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group.personal.md) 
+
+### #is_/same_as :: [Human_Social_Group.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group.secret.md)
+

@@ -31,3 +31,21 @@ has_id_wikidata: Q190103
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Castor%20and%20Pollux) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Castor_and_Pollux](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.md) 
+
+### #is_/same_as :: [Castor_and_Pollux.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.public.md) 
+
+### #is_/same_as :: [Castor_and_Pollux.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.internal.md) 
+
+### #is_/same_as :: [Castor_and_Pollux.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.protect.md) 
+
+### #is_/same_as :: [Castor_and_Pollux.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.private.md) 
+
+### #is_/same_as :: [Castor_and_Pollux.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.personal.md) 
+
+### #is_/same_as :: [Castor_and_Pollux.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.secret.md)
+

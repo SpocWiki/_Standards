@@ -199,3 +199,22 @@ Dewey_Decimal_Classification: "821.912"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eliot,T.S.](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..md) 
+
+### #is_/same_as :: [Eliot,T.S..public](/_public/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..public.md) 
+
+### #is_/same_as :: [Eliot,T.S..internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..internal.md) 
+
+### #is_/same_as :: [Eliot,T.S..protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..protect.md) 
+
+### #is_/same_as :: [Eliot,T.S..private](/_private/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..private.md) 
+
+### #is_/same_as :: [Eliot,T.S..personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..personal.md) 
+
+### #is_/same_as :: [Eliot,T.S..secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..secret.md)
+

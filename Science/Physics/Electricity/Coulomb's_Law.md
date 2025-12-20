@@ -55,3 +55,22 @@ has_id_wikidata: Q83152
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coulomb's%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coulomb's_Law](/_Standards/Science/Physics/Electricity/Coulomb's_Law.md) 
+
+### #is_/same_as :: [Coulomb's_Law.public](/_public/Science/Physics/Electricity/Coulomb's_Law.public.md) 
+
+### #is_/same_as :: [Coulomb's_Law.internal](/_internal/Science/Physics/Electricity/Coulomb's_Law.internal.md) 
+
+### #is_/same_as :: [Coulomb's_Law.protect](/_protect/Science/Physics/Electricity/Coulomb's_Law.protect.md) 
+
+### #is_/same_as :: [Coulomb's_Law.private](/_private/Science/Physics/Electricity/Coulomb's_Law.private.md) 
+
+### #is_/same_as :: [Coulomb's_Law.personal](/_personal/Science/Physics/Electricity/Coulomb's_Law.personal.md) 
+
+### #is_/same_as :: [Coulomb's_Law.secret](/_secret/Science/Physics/Electricity/Coulomb's_Law.secret.md)
+

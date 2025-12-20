@@ -39,17 +39,17 @@ Organization: Sports team.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sports_Team](Sports_Team.md) 
+### #is_/same_as :: [Sports_Team](/_Standards/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.md) 
 
-### #is_/same_as :: [Sports_Team.public](/_public/Society/Organization/Sports_Organization/Sports_Team.public.md) 
+### #is_/same_as :: [Sports_Team.public](/_public/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.public.md) 
 
-### #is_/same_as :: [Sports_Team.internal](/_internal/Society/Organization/Sports_Organization/Sports_Team.internal.md) 
+### #is_/same_as :: [Sports_Team.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.internal.md) 
 
-### #is_/same_as :: [Sports_Team.protect](/_protect/Society/Organization/Sports_Organization/Sports_Team.protect.md) 
+### #is_/same_as :: [Sports_Team.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.protect.md) 
 
-### #is_/same_as :: [Sports_Team.private](/_private/Society/Organization/Sports_Organization/Sports_Team.private.md) 
+### #is_/same_as :: [Sports_Team.private](/_private/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.private.md) 
 
-### #is_/same_as :: [Sports_Team.personal](/_personal/Society/Organization/Sports_Organization/Sports_Team.personal.md) 
+### #is_/same_as :: [Sports_Team.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.personal.md) 
 
-### #is_/same_as :: [Sports_Team.secret](/_secret/Society/Organization/Sports_Organization/Sports_Team.secret.md)
+### #is_/same_as :: [Sports_Team.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.secret.md)
 

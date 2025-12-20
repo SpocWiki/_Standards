@@ -18,3 +18,22 @@ has_id_wikidata: Q105697765
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Impressionism%20in%20music) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Impressionist_Music](/_Standards/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.md) 
+
+### #is_/same_as :: [Impressionist_Music.public](/_public/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.public.md) 
+
+### #is_/same_as :: [Impressionist_Music.internal](/_internal/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.internal.md) 
+
+### #is_/same_as :: [Impressionist_Music.protect](/_protect/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.protect.md) 
+
+### #is_/same_as :: [Impressionist_Music.private](/_private/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.private.md) 
+
+### #is_/same_as :: [Impressionist_Music.personal](/_personal/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.personal.md) 
+
+### #is_/same_as :: [Impressionist_Music.secret](/_secret/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.secret.md)
+

@@ -59,3 +59,22 @@ but for Testing you can set up a Schema-double in [[../../../../../../Knowledge/
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rust~Testing](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Testing.md) 
+
+### #is_/same_as :: [Rust~Testing.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Testing.public.md) 
+
+### #is_/same_as :: [Rust~Testing.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Testing.internal.md) 
+
+### #is_/same_as :: [Rust~Testing.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Testing.protect.md) 
+
+### #is_/same_as :: [Rust~Testing.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Testing.private.md) 
+
+### #is_/same_as :: [Rust~Testing.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Testing.personal.md) 
+
+### #is_/same_as :: [Rust~Testing.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Testing.secret.md)
+

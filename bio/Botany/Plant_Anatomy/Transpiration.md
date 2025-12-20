@@ -39,3 +39,22 @@ MeSH_tree_code: G15.713
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transpiration) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Transpiration](/_Standards/bio/Botany/Plant_Anatomy/Transpiration.md) 
+
+### #is_/same_as :: [Transpiration.public](/_public/bio/Botany/Plant_Anatomy/Transpiration.public.md) 
+
+### #is_/same_as :: [Transpiration.internal](/_internal/bio/Botany/Plant_Anatomy/Transpiration.internal.md) 
+
+### #is_/same_as :: [Transpiration.protect](/_protect/bio/Botany/Plant_Anatomy/Transpiration.protect.md) 
+
+### #is_/same_as :: [Transpiration.private](/_private/bio/Botany/Plant_Anatomy/Transpiration.private.md) 
+
+### #is_/same_as :: [Transpiration.personal](/_personal/bio/Botany/Plant_Anatomy/Transpiration.personal.md) 
+
+### #is_/same_as :: [Transpiration.secret](/_secret/bio/Botany/Plant_Anatomy/Transpiration.secret.md)
+

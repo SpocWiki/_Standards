@@ -35,3 +35,22 @@ OpenStreetMap_tag_or_key: Tag:tomb=mausoleum
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mausoleum) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mausoleum](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.md) 
+
+### #is_/same_as :: [Mausoleum.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.public.md) 
+
+### #is_/same_as :: [Mausoleum.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.internal.md) 
+
+### #is_/same_as :: [Mausoleum.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.protect.md) 
+
+### #is_/same_as :: [Mausoleum.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.private.md) 
+
+### #is_/same_as :: [Mausoleum.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.personal.md) 
+
+### #is_/same_as :: [Mausoleum.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.secret.md)
+

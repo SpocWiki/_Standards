@@ -55,3 +55,22 @@ Commons_category: Electrical fuses
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fuse%20(electrical)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fuse](/_Standards/Science/Physics/Electricity/Electrical_Network/Fuse.md) 
+
+### #is_/same_as :: [Fuse.public](/_public/Science/Physics/Electricity/Electrical_Network/Fuse.public.md) 
+
+### #is_/same_as :: [Fuse.internal](/_internal/Science/Physics/Electricity/Electrical_Network/Fuse.internal.md) 
+
+### #is_/same_as :: [Fuse.protect](/_protect/Science/Physics/Electricity/Electrical_Network/Fuse.protect.md) 
+
+### #is_/same_as :: [Fuse.private](/_private/Science/Physics/Electricity/Electrical_Network/Fuse.private.md) 
+
+### #is_/same_as :: [Fuse.personal](/_personal/Science/Physics/Electricity/Electrical_Network/Fuse.personal.md) 
+
+### #is_/same_as :: [Fuse.secret](/_secret/Science/Physics/Electricity/Electrical_Network/Fuse.secret.md)
+

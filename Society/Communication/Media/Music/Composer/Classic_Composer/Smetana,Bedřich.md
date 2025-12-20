@@ -70,17 +70,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Smetana,Bedřich](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composers/Smetana,Bedřich.md) 
+### #is_/same_as :: [Smetana,Bedřich](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.md) 
 
-### #is_/same_as :: [Smetana,Bedřich.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composers/Smetana,Bedřich.public.md) 
+### #is_/same_as :: [Smetana,Bedřich.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.public.md) 
 
-### #is_/same_as :: [Smetana,Bedřich.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composers/Smetana,Bedřich.internal.md) 
+### #is_/same_as :: [Smetana,Bedřich.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.internal.md) 
 
-### #is_/same_as :: [Smetana,Bedřich.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composers/Smetana,Bedřich.protect.md) 
+### #is_/same_as :: [Smetana,Bedřich.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.protect.md) 
 
-### #is_/same_as :: [Smetana,Bedřich.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composers/Smetana,Bedřich.private.md) 
+### #is_/same_as :: [Smetana,Bedřich.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.private.md) 
 
-### #is_/same_as :: [Smetana,Bedřich.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composers/Smetana,Bedřich.personal.md) 
+### #is_/same_as :: [Smetana,Bedřich.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.personal.md) 
 
-### #is_/same_as :: [Smetana,Bedřich.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composers/Smetana,Bedřich.secret.md)
+### #is_/same_as :: [Smetana,Bedřich.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Smetana,Bedřich.secret.md)
 

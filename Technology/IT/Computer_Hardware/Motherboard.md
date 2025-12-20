@@ -49,3 +49,22 @@ booru_tag: motherboard
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Motherboard) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Motherboard](/_Standards/Technology/IT/Computer_Hardware/Motherboard.md) 
+
+### #is_/same_as :: [Motherboard.public](/_public/Technology/IT/Computer_Hardware/Motherboard.public.md) 
+
+### #is_/same_as :: [Motherboard.internal](/_internal/Technology/IT/Computer_Hardware/Motherboard.internal.md) 
+
+### #is_/same_as :: [Motherboard.protect](/_protect/Technology/IT/Computer_Hardware/Motherboard.protect.md) 
+
+### #is_/same_as :: [Motherboard.private](/_private/Technology/IT/Computer_Hardware/Motherboard.private.md) 
+
+### #is_/same_as :: [Motherboard.personal](/_personal/Technology/IT/Computer_Hardware/Motherboard.personal.md) 
+
+### #is_/same_as :: [Motherboard.secret](/_secret/Technology/IT/Computer_Hardware/Motherboard.secret.md)
+

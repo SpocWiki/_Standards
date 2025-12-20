@@ -71,3 +71,22 @@ Commons_category: Oscilloscopes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oscilloscope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oscilloscope](/_Standards/Technology/Tool/Instrumentation/Oscilloscope.md) 
+
+### #is_/same_as :: [Oscilloscope.public](/_public/Technology/Tool/Instrumentation/Oscilloscope.public.md) 
+
+### #is_/same_as :: [Oscilloscope.internal](/_internal/Technology/Tool/Instrumentation/Oscilloscope.internal.md) 
+
+### #is_/same_as :: [Oscilloscope.protect](/_protect/Technology/Tool/Instrumentation/Oscilloscope.protect.md) 
+
+### #is_/same_as :: [Oscilloscope.private](/_private/Technology/Tool/Instrumentation/Oscilloscope.private.md) 
+
+### #is_/same_as :: [Oscilloscope.personal](/_personal/Technology/Tool/Instrumentation/Oscilloscope.personal.md) 
+
+### #is_/same_as :: [Oscilloscope.secret](/_secret/Technology/Tool/Instrumentation/Oscilloscope.secret.md)
+

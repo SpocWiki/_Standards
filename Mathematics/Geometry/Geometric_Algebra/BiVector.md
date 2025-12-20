@@ -35,3 +35,22 @@ Commons_category: Bivectors
 > [Wikipedia](https://en.wikipedia.org/wiki/Bivector) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [BiVector](/_Standards/Mathematics/Geometry/Geometric_Algebra/BiVector.md) 
+
+### #is_/same_as :: [BiVector.public](/_public/Mathematics/Geometry/Geometric_Algebra/BiVector.public.md) 
+
+### #is_/same_as :: [BiVector.internal](/_internal/Mathematics/Geometry/Geometric_Algebra/BiVector.internal.md) 
+
+### #is_/same_as :: [BiVector.protect](/_protect/Mathematics/Geometry/Geometric_Algebra/BiVector.protect.md) 
+
+### #is_/same_as :: [BiVector.private](/_private/Mathematics/Geometry/Geometric_Algebra/BiVector.private.md) 
+
+### #is_/same_as :: [BiVector.personal](/_personal/Mathematics/Geometry/Geometric_Algebra/BiVector.personal.md) 
+
+### #is_/same_as :: [BiVector.secret](/_secret/Mathematics/Geometry/Geometric_Algebra/BiVector.secret.md)
+

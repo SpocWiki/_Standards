@@ -47,3 +47,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/TSIFRI_I_SISTEMI_SCHISLE
 > for instance hexadecimal (base 16) requires 16 digits (usually 0 to 9 and A to F).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Numerical%20digit) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Numerical_Digit](/_Standards/Mathematics/Number/Numeral_System/Numerical_Digit.md) 
+
+### #is_/same_as :: [Numerical_Digit.public](/_public/Mathematics/Number/Numeral_System/Numerical_Digit.public.md) 
+
+### #is_/same_as :: [Numerical_Digit.internal](/_internal/Mathematics/Number/Numeral_System/Numerical_Digit.internal.md) 
+
+### #is_/same_as :: [Numerical_Digit.protect](/_protect/Mathematics/Number/Numeral_System/Numerical_Digit.protect.md) 
+
+### #is_/same_as :: [Numerical_Digit.private](/_private/Mathematics/Number/Numeral_System/Numerical_Digit.private.md) 
+
+### #is_/same_as :: [Numerical_Digit.personal](/_personal/Mathematics/Number/Numeral_System/Numerical_Digit.personal.md) 
+
+### #is_/same_as :: [Numerical_Digit.secret](/_secret/Mathematics/Number/Numeral_System/Numerical_Digit.secret.md)
+

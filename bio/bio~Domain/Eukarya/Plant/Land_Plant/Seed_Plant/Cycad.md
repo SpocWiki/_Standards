@@ -26,3 +26,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cycad) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cycad](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Cycad.md) 
+
+### #is_/same_as :: [Cycad.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Cycad.public.md) 
+
+### #is_/same_as :: [Cycad.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Cycad.internal.md) 
+
+### #is_/same_as :: [Cycad.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Cycad.protect.md) 
+
+### #is_/same_as :: [Cycad.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Cycad.private.md) 
+
+### #is_/same_as :: [Cycad.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Cycad.personal.md) 
+
+### #is_/same_as :: [Cycad.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Cycad.secret.md)
+

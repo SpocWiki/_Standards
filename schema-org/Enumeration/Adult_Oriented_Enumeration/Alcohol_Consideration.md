@@ -42,17 +42,17 @@ Item contains alcohol or promotes alcohol consumption.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alcohol_Consideration](Alcohol_Consideration.md) 
+### #is_/same_as :: [Alcohol_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Alcohol_Consideration.md) 
 
-### #is_/same_as :: [alcohol_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.public.md) 
+### #is_/same_as :: [Alcohol_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Alcohol_Consideration.public.md) 
 
-### #is_/same_as :: [alcohol_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.internal.md) 
+### #is_/same_as :: [Alcohol_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Alcohol_Consideration.internal.md) 
 
-### #is_/same_as :: [alcohol_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.protect.md) 
+### #is_/same_as :: [Alcohol_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Alcohol_Consideration.protect.md) 
 
-### #is_/same_as :: [alcohol_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.private.md) 
+### #is_/same_as :: [Alcohol_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Alcohol_Consideration.private.md) 
 
-### #is_/same_as :: [alcohol_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.personal.md) 
+### #is_/same_as :: [Alcohol_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Alcohol_Consideration.personal.md) 
 
-### #is_/same_as :: [alcohol_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.secret.md)
+### #is_/same_as :: [Alcohol_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Alcohol_Consideration.secret.md)
 

@@ -25,3 +25,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Earth-Orbit](/_Standards/Earth/Earth-Orbit.md) 
+
+### #is_/same_as :: [Earth-Orbit.public](/_public/Earth/Earth-Orbit.public.md) 
+
+### #is_/same_as :: [Earth-Orbit.internal](/_internal/Earth/Earth-Orbit.internal.md) 
+
+### #is_/same_as :: [Earth-Orbit.protect](/_protect/Earth/Earth-Orbit.protect.md) 
+
+### #is_/same_as :: [Earth-Orbit.private](/_private/Earth/Earth-Orbit.private.md) 
+
+### #is_/same_as :: [Earth-Orbit.personal](/_personal/Earth/Earth-Orbit.personal.md) 
+
+### #is_/same_as :: [Earth-Orbit.secret](/_secret/Earth/Earth-Orbit.secret.md)
+

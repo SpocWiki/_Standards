@@ -44,3 +44,22 @@ Commons_category: Constructed languages
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Constructed%20language) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Constructed_Language](/_Standards/Language/Constructed_Language.md) 
+
+### #is_/same_as :: [Constructed_Language.public](/_public/Language/Constructed_Language.public.md) 
+
+### #is_/same_as :: [Constructed_Language.internal](/_internal/Language/Constructed_Language.internal.md) 
+
+### #is_/same_as :: [Constructed_Language.protect](/_protect/Language/Constructed_Language.protect.md) 
+
+### #is_/same_as :: [Constructed_Language.private](/_private/Language/Constructed_Language.private.md) 
+
+### #is_/same_as :: [Constructed_Language.personal](/_personal/Language/Constructed_Language.personal.md) 
+
+### #is_/same_as :: [Constructed_Language.secret](/_secret/Language/Constructed_Language.secret.md)
+

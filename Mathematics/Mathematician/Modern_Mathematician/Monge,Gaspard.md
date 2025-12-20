@@ -19,3 +19,22 @@ has_id_wikidata: Q206832
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gaspard%20Monge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monge,Gaspard](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.md) 
+
+### #is_/same_as :: [Monge,Gaspard.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.public.md) 
+
+### #is_/same_as :: [Monge,Gaspard.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.internal.md) 
+
+### #is_/same_as :: [Monge,Gaspard.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.protect.md) 
+
+### #is_/same_as :: [Monge,Gaspard.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.private.md) 
+
+### #is_/same_as :: [Monge,Gaspard.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.personal.md) 
+
+### #is_/same_as :: [Monge,Gaspard.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.secret.md)
+

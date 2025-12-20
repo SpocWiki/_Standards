@@ -121,3 +121,22 @@ Commons_category: International Criminal Court
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Criminal%20Court) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ICC(International_Criminal_Court)](/_Standards/UN(United_Nations)/ICC(International_Criminal_Court).md) 
+
+### #is_/same_as :: [ICC(International_Criminal_Court).public](/_public/UN(United_Nations)/ICC(International_Criminal_Court).public.md) 
+
+### #is_/same_as :: [ICC(International_Criminal_Court).internal](/_internal/UN(United_Nations)/ICC(International_Criminal_Court).internal.md) 
+
+### #is_/same_as :: [ICC(International_Criminal_Court).protect](/_protect/UN(United_Nations)/ICC(International_Criminal_Court).protect.md) 
+
+### #is_/same_as :: [ICC(International_Criminal_Court).private](/_private/UN(United_Nations)/ICC(International_Criminal_Court).private.md) 
+
+### #is_/same_as :: [ICC(International_Criminal_Court).personal](/_personal/UN(United_Nations)/ICC(International_Criminal_Court).personal.md) 
+
+### #is_/same_as :: [ICC(International_Criminal_Court).secret](/_secret/UN(United_Nations)/ICC(International_Criminal_Court).secret.md)
+

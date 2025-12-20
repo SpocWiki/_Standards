@@ -33,17 +33,17 @@ These were themes in the [[Seven(1995_film)]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seven_deadly_Sins](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Seven_deadly_Sins.md) 
+### #is_/same_as :: [Seven_deadly_Sins](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.md) 
 
-### #is_/same_as :: [Seven_deadly_Sins.public](/_public/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Seven_deadly_Sins.public.md) 
+### #is_/same_as :: [Seven_deadly_Sins.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.public.md) 
 
-### #is_/same_as :: [Seven_deadly_Sins.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Seven_deadly_Sins.internal.md) 
+### #is_/same_as :: [Seven_deadly_Sins.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.internal.md) 
 
-### #is_/same_as :: [Seven_deadly_Sins.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Seven_deadly_Sins.protect.md) 
+### #is_/same_as :: [Seven_deadly_Sins.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.protect.md) 
 
-### #is_/same_as :: [Seven_deadly_Sins.private](/_private/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Seven_deadly_Sins.private.md) 
+### #is_/same_as :: [Seven_deadly_Sins.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.private.md) 
 
-### #is_/same_as :: [Seven_deadly_Sins.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Seven_deadly_Sins.personal.md) 
+### #is_/same_as :: [Seven_deadly_Sins.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.personal.md) 
 
-### #is_/same_as :: [Seven_deadly_Sins.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Seven_deadly_Sins.secret.md)
+### #is_/same_as :: [Seven_deadly_Sins.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.secret.md)
 

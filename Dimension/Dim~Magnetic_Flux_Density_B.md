@@ -46,3 +46,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20field) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dim~Magnetic_Flux_Density_B](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.public](/_public/Dimension/Dim~Magnetic_Flux_Density_B.public.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.internal](/_internal/Dimension/Dim~Magnetic_Flux_Density_B.internal.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.protect](/_protect/Dimension/Dim~Magnetic_Flux_Density_B.protect.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.private](/_private/Dimension/Dim~Magnetic_Flux_Density_B.private.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.personal](/_personal/Dimension/Dim~Magnetic_Flux_Density_B.personal.md) 
+
+### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.secret](/_secret/Dimension/Dim~Magnetic_Flux_Density_B.secret.md)
+

@@ -38,3 +38,22 @@ Commons_category: Field Marshals
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Field%20marshal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Field Marshal](/_Standards/Society/Military/Armed_Forces/Military_Rank/Field Marshal.md) 
+
+### #is_/same_as :: [Field Marshal.public](/_public/Society/Military/Armed_Forces/Military_Rank/Field Marshal.public.md) 
+
+### #is_/same_as :: [Field Marshal.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Field Marshal.internal.md) 
+
+### #is_/same_as :: [Field Marshal.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Field Marshal.protect.md) 
+
+### #is_/same_as :: [Field Marshal.private](/_private/Society/Military/Armed_Forces/Military_Rank/Field Marshal.private.md) 
+
+### #is_/same_as :: [Field Marshal.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Field Marshal.personal.md) 
+
+### #is_/same_as :: [Field Marshal.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Field Marshal.secret.md)
+

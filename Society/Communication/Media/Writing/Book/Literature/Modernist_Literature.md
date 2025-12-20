@@ -37,3 +37,22 @@ Provenio_UUID: 601b0c48-39e1-4249-a279-952a87e3439b
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Literary%20modernism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modernist_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Modernist_Literature.md) 
+
+### #is_/same_as :: [Modernist_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Modernist_Literature.public.md) 
+
+### #is_/same_as :: [Modernist_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Modernist_Literature.internal.md) 
+
+### #is_/same_as :: [Modernist_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Modernist_Literature.protect.md) 
+
+### #is_/same_as :: [Modernist_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Modernist_Literature.private.md) 
+
+### #is_/same_as :: [Modernist_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Modernist_Literature.personal.md) 
+
+### #is_/same_as :: [Modernist_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Modernist_Literature.secret.md)
+

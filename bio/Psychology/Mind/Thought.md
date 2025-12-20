@@ -33,17 +33,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_thought,7112801]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thought](Thought.md) 
+### #is_/same_as :: [Thought](/_Standards/bio/Psychology/Mind/Thought.md) 
 
-### #is_/same_as :: [Thought.public](/_public/bio/Psychology/Thought.public.md) 
+### #is_/same_as :: [Thought.public](/_public/bio/Psychology/Mind/Thought.public.md) 
 
-### #is_/same_as :: [Thought.internal](/_internal/bio/Psychology/Thought.internal.md) 
+### #is_/same_as :: [Thought.internal](/_internal/bio/Psychology/Mind/Thought.internal.md) 
 
-### #is_/same_as :: [Thought.protect](/_protect/bio/Psychology/Thought.protect.md) 
+### #is_/same_as :: [Thought.protect](/_protect/bio/Psychology/Mind/Thought.protect.md) 
 
-### #is_/same_as :: [Thought.private](/_private/bio/Psychology/Thought.private.md) 
+### #is_/same_as :: [Thought.private](/_private/bio/Psychology/Mind/Thought.private.md) 
 
-### #is_/same_as :: [Thought.personal](/_personal/bio/Psychology/Thought.personal.md) 
+### #is_/same_as :: [Thought.personal](/_personal/bio/Psychology/Mind/Thought.personal.md) 
 
-### #is_/same_as :: [Thought.secret](/_secret/bio/Psychology/Thought.secret.md)
+### #is_/same_as :: [Thought.secret](/_secret/bio/Psychology/Mind/Thought.secret.md)
 

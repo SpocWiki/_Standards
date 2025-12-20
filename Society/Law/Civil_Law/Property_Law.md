@@ -32,3 +32,22 @@ Commons_category: Property law
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Property_Law](/_Standards/Society/Law/Civil_Law/Property_Law.md) 
+
+### #is_/same_as :: [Property_Law.public](/_public/Society/Law/Civil_Law/Property_Law.public.md) 
+
+### #is_/same_as :: [Property_Law.internal](/_internal/Society/Law/Civil_Law/Property_Law.internal.md) 
+
+### #is_/same_as :: [Property_Law.protect](/_protect/Society/Law/Civil_Law/Property_Law.protect.md) 
+
+### #is_/same_as :: [Property_Law.private](/_private/Society/Law/Civil_Law/Property_Law.private.md) 
+
+### #is_/same_as :: [Property_Law.personal](/_personal/Society/Law/Civil_Law/Property_Law.personal.md) 
+
+### #is_/same_as :: [Property_Law.secret](/_secret/Society/Law/Civil_Law/Property_Law.secret.md)
+

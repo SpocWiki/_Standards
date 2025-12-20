@@ -41,17 +41,17 @@ The act of expressing a preference from a set of options or a large or unbounded
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [choose_action](/_Standards/schema-org/Class/is_a_/action/assess_action/choose_action.md) 
+### #is_/same_as :: [Choose_Action](/_Standards/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.md) 
 
-### #is_/same_as :: [choose_action.public](/_public/schema-org/Class/is_a_/action/assess_action/choose_action.public.md) 
+### #is_/same_as :: [Choose_Action.public](/_public/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.public.md) 
 
-### #is_/same_as :: [choose_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/choose_action.internal.md) 
+### #is_/same_as :: [Choose_Action.internal](/_internal/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.internal.md) 
 
-### #is_/same_as :: [choose_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/choose_action.protect.md) 
+### #is_/same_as :: [Choose_Action.protect](/_protect/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.protect.md) 
 
-### #is_/same_as :: [choose_action.private](/_private/schema-org/Class/is_a_/action/assess_action/choose_action.private.md) 
+### #is_/same_as :: [Choose_Action.private](/_private/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.private.md) 
 
-### #is_/same_as :: [choose_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/choose_action.personal.md) 
+### #is_/same_as :: [Choose_Action.personal](/_personal/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.personal.md) 
 
-### #is_/same_as :: [choose_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/choose_action.secret.md)
+### #is_/same_as :: [Choose_Action.secret](/_secret/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.secret.md)
 

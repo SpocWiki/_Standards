@@ -29,3 +29,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/VNC)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [VNC(Virtual_Network_Computing)](/_Standards/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).md) 
+
+### #is_/same_as :: [VNC(Virtual_Network_Computing).public](/_public/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).public.md) 
+
+### #is_/same_as :: [VNC(Virtual_Network_Computing).internal](/_internal/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).internal.md) 
+
+### #is_/same_as :: [VNC(Virtual_Network_Computing).protect](/_protect/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).protect.md) 
+
+### #is_/same_as :: [VNC(Virtual_Network_Computing).private](/_private/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).private.md) 
+
+### #is_/same_as :: [VNC(Virtual_Network_Computing).personal](/_personal/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).personal.md) 
+
+### #is_/same_as :: [VNC(Virtual_Network_Computing).secret](/_secret/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).secret.md)
+

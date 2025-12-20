@@ -123,3 +123,22 @@ equivalent_class:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lawyer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lawyer](/_Standards/Society/Law/Jurist/Lawyer.md) 
+
+### #is_/same_as :: [Lawyer.public](/_public/Society/Law/Jurist/Lawyer.public.md) 
+
+### #is_/same_as :: [Lawyer.internal](/_internal/Society/Law/Jurist/Lawyer.internal.md) 
+
+### #is_/same_as :: [Lawyer.protect](/_protect/Society/Law/Jurist/Lawyer.protect.md) 
+
+### #is_/same_as :: [Lawyer.private](/_private/Society/Law/Jurist/Lawyer.private.md) 
+
+### #is_/same_as :: [Lawyer.personal](/_personal/Society/Law/Jurist/Lawyer.personal.md) 
+
+### #is_/same_as :: [Lawyer.secret](/_secret/Society/Law/Jurist/Lawyer.secret.md)
+

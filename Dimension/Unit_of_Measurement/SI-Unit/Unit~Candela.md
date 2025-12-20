@@ -56,17 +56,17 @@ Unit :: #Unit/SI/cd
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Candela](/_Standards/Unit/SI-Unit/Unit~Candela.md) 
+### #is_/same_as :: [Unit~Candela](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.md) 
 
-### #is_/same_as :: [Unit~Candela.public](/_public/Unit/SI-Unit/Unit~Candela.public.md) 
+### #is_/same_as :: [Unit~Candela.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.public.md) 
 
-### #is_/same_as :: [Unit~Candela.internal](/_internal/Unit/SI-Unit/Unit~Candela.internal.md) 
+### #is_/same_as :: [Unit~Candela.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.internal.md) 
 
-### #is_/same_as :: [Unit~Candela.protect](/_protect/Unit/SI-Unit/Unit~Candela.protect.md) 
+### #is_/same_as :: [Unit~Candela.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.protect.md) 
 
-### #is_/same_as :: [Unit~Candela.private](/_private/Unit/SI-Unit/Unit~Candela.private.md) 
+### #is_/same_as :: [Unit~Candela.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.private.md) 
 
-### #is_/same_as :: [Unit~Candela.personal](/_personal/Unit/SI-Unit/Unit~Candela.personal.md) 
+### #is_/same_as :: [Unit~Candela.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.personal.md) 
 
-### #is_/same_as :: [Unit~Candela.secret](/_secret/Unit/SI-Unit/Unit~Candela.secret.md)
+### #is_/same_as :: [Unit~Candela.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.secret.md)
 

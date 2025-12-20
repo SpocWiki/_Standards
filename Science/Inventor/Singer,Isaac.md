@@ -77,3 +77,22 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/27389
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Isaac%20Singer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Singer,Isaac](/_Standards/Science/Inventor/Singer,Isaac.md) 
+
+### #is_/same_as :: [Singer,Isaac.public](/_public/Science/Inventor/Singer,Isaac.public.md) 
+
+### #is_/same_as :: [Singer,Isaac.internal](/_internal/Science/Inventor/Singer,Isaac.internal.md) 
+
+### #is_/same_as :: [Singer,Isaac.protect](/_protect/Science/Inventor/Singer,Isaac.protect.md) 
+
+### #is_/same_as :: [Singer,Isaac.private](/_private/Science/Inventor/Singer,Isaac.private.md) 
+
+### #is_/same_as :: [Singer,Isaac.personal](/_personal/Science/Inventor/Singer,Isaac.personal.md) 
+
+### #is_/same_as :: [Singer,Isaac.secret](/_secret/Science/Inventor/Singer,Isaac.secret.md)
+

@@ -45,3 +45,22 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "Refraction"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Refraction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Refraction](/_Standards/Science/Physics/Wave/Refraction.md) 
+
+### #is_/same_as :: [Refraction.public](/_public/Science/Physics/Wave/Refraction.public.md) 
+
+### #is_/same_as :: [Refraction.internal](/_internal/Science/Physics/Wave/Refraction.internal.md) 
+
+### #is_/same_as :: [Refraction.protect](/_protect/Science/Physics/Wave/Refraction.protect.md) 
+
+### #is_/same_as :: [Refraction.private](/_private/Science/Physics/Wave/Refraction.private.md) 
+
+### #is_/same_as :: [Refraction.personal](/_personal/Science/Physics/Wave/Refraction.personal.md) 
+
+### #is_/same_as :: [Refraction.secret](/_secret/Science/Physics/Wave/Refraction.secret.md)
+

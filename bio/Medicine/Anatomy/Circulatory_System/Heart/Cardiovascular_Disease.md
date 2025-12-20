@@ -86,8 +86,6 @@ UMLS_CUI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cardiovascular%20disease) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cardiovascular_Disease](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.md) 

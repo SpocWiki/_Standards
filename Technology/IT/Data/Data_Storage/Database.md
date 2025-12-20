@@ -83,3 +83,22 @@ IEV_number: 171-09-21
 > [Wikipedia](https://en.wikipedia.org/wiki/Database) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Database](/_Standards/Technology/IT/Data/Data_Storage/Database.md) 
+
+### #is_/same_as :: [Database.public](/_public/Technology/IT/Data/Data_Storage/Database.public.md) 
+
+### #is_/same_as :: [Database.internal](/_internal/Technology/IT/Data/Data_Storage/Database.internal.md) 
+
+### #is_/same_as :: [Database.protect](/_protect/Technology/IT/Data/Data_Storage/Database.protect.md) 
+
+### #is_/same_as :: [Database.private](/_private/Technology/IT/Data/Data_Storage/Database.private.md) 
+
+### #is_/same_as :: [Database.personal](/_personal/Technology/IT/Data/Data_Storage/Database.personal.md) 
+
+### #is_/same_as :: [Database.secret](/_secret/Technology/IT/Data/Data_Storage/Database.secret.md)
+

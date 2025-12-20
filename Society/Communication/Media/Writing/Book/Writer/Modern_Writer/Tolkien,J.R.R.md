@@ -206,3 +206,21 @@ ISNI: "0000000121441970"
 > While many other authors had published works of fantasy before Tolkien, the tremendous success of The Hobbit and The Lord of the Rings ignited a profound interest in the fantasy genre and ultimately precipitated an avalanche of new fantasy books and authors. As a result he has been popularly identified as the "father" of modern fantasy literature and is widely regarded as one of the most influential authors of all time.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20R.%20R.%20Tolkien)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tolkien,J.R.R](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.md) 
+
+### #is_/same_as :: [Tolkien,J.R.R.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.public.md) 
+
+### #is_/same_as :: [Tolkien,J.R.R.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.internal.md) 
+
+### #is_/same_as :: [Tolkien,J.R.R.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.protect.md) 
+
+### #is_/same_as :: [Tolkien,J.R.R.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.private.md) 
+
+### #is_/same_as :: [Tolkien,J.R.R.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.personal.md) 
+
+### #is_/same_as :: [Tolkien,J.R.R.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.secret.md)
+

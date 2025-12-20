@@ -41,17 +41,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [user_checkins](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_checkins.md) 
+### #is_/same_as :: [User_Checkins](/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Checkins.md) 
 
-### #is_/same_as :: [user_checkins.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_checkins.public.md) 
+### #is_/same_as :: [User_Checkins.public](/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Checkins.public.md) 
 
-### #is_/same_as :: [user_checkins.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_checkins.internal.md) 
+### #is_/same_as :: [User_Checkins.internal](/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Checkins.internal.md) 
 
-### #is_/same_as :: [user_checkins.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_checkins.protect.md) 
+### #is_/same_as :: [User_Checkins.protect](/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Checkins.protect.md) 
 
-### #is_/same_as :: [user_checkins.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_checkins.private.md) 
+### #is_/same_as :: [User_Checkins.private](/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Checkins.private.md) 
 
-### #is_/same_as :: [user_checkins.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_checkins.personal.md) 
+### #is_/same_as :: [User_Checkins.personal](/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Checkins.personal.md) 
 
-### #is_/same_as :: [user_checkins.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_checkins.secret.md)
+### #is_/same_as :: [User_Checkins.secret](/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Checkins.secret.md)
 

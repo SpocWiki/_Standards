@@ -57,17 +57,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_martial_arts,7112681]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Martial_Arts](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts.md) 
+### #is_/same_as :: [Martial_Art](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.md) 
 
-### #is_/same_as :: [Martial_Arts.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts.public.md) 
+### #is_/same_as :: [Martial_Art.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.public.md) 
 
-### #is_/same_as :: [Martial_Arts.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts.internal.md) 
+### #is_/same_as :: [Martial_Art.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.internal.md) 
 
-### #is_/same_as :: [Martial_Arts.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts.protect.md) 
+### #is_/same_as :: [Martial_Art.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.protect.md) 
 
-### #is_/same_as :: [Martial_Arts.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts.private.md) 
+### #is_/same_as :: [Martial_Art.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.private.md) 
 
-### #is_/same_as :: [Martial_Arts.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts.personal.md) 
+### #is_/same_as :: [Martial_Art.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.personal.md) 
 
-### #is_/same_as :: [Martial_Arts.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Martial_Arts.secret.md)
+### #is_/same_as :: [Martial_Art.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art.secret.md)
 

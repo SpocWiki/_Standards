@@ -61,3 +61,22 @@ Krugosvet_article: muzyka/klarnet
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clarinet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clarinet](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.md) 
+
+### #is_/same_as :: [Clarinet.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.public.md) 
+
+### #is_/same_as :: [Clarinet.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.internal.md) 
+
+### #is_/same_as :: [Clarinet.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.protect.md) 
+
+### #is_/same_as :: [Clarinet.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.private.md) 
+
+### #is_/same_as :: [Clarinet.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.personal.md) 
+
+### #is_/same_as :: [Clarinet.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Clarinet.secret.md)
+

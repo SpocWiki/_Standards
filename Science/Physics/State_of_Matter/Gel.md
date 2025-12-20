@@ -29,3 +29,22 @@ Commons_category: Gels
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gel](/_Standards/Science/Physics/State_of_Matter/Gel.md) 
+
+### #is_/same_as :: [Gel.public](/_public/Science/Physics/State_of_Matter/Gel.public.md) 
+
+### #is_/same_as :: [Gel.internal](/_internal/Science/Physics/State_of_Matter/Gel.internal.md) 
+
+### #is_/same_as :: [Gel.protect](/_protect/Science/Physics/State_of_Matter/Gel.protect.md) 
+
+### #is_/same_as :: [Gel.private](/_private/Science/Physics/State_of_Matter/Gel.private.md) 
+
+### #is_/same_as :: [Gel.personal](/_personal/Science/Physics/State_of_Matter/Gel.personal.md) 
+
+### #is_/same_as :: [Gel.secret](/_secret/Science/Physics/State_of_Matter/Gel.secret.md)
+

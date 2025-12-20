@@ -88,3 +88,22 @@ Facebook_username: petesampras
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pete%20Sampras) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sampras,Pete](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.md) 
+
+### #is_/same_as :: [Sampras,Pete.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.public.md) 
+
+### #is_/same_as :: [Sampras,Pete.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.internal.md) 
+
+### #is_/same_as :: [Sampras,Pete.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.protect.md) 
+
+### #is_/same_as :: [Sampras,Pete.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.private.md) 
+
+### #is_/same_as :: [Sampras,Pete.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.personal.md) 
+
+### #is_/same_as :: [Sampras,Pete.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Sampras,Pete.secret.md)
+

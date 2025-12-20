@@ -184,3 +184,22 @@ The Server-Edition of the Services Management Plugin allows to connect to a diff
 [[RDP(Remote_Desktop_Protocol)]] 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OS~Windows](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows.md) 
+
+### #is_/same_as :: [OS~Windows.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows.public.md) 
+
+### #is_/same_as :: [OS~Windows.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows.internal.md) 
+
+### #is_/same_as :: [OS~Windows.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows.protect.md) 
+
+### #is_/same_as :: [OS~Windows.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows.private.md) 
+
+### #is_/same_as :: [OS~Windows.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows.personal.md) 
+
+### #is_/same_as :: [OS~Windows.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows.secret.md)
+

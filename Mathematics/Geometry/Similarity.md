@@ -27,3 +27,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Similarity%20(geometry)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Similarity](/_Standards/Mathematics/Geometry/Similarity.md) 
+
+### #is_/same_as :: [Similarity.public](/_public/Mathematics/Geometry/Similarity.public.md) 
+
+### #is_/same_as :: [Similarity.internal](/_internal/Mathematics/Geometry/Similarity.internal.md) 
+
+### #is_/same_as :: [Similarity.protect](/_protect/Mathematics/Geometry/Similarity.protect.md) 
+
+### #is_/same_as :: [Similarity.private](/_private/Mathematics/Geometry/Similarity.private.md) 
+
+### #is_/same_as :: [Similarity.personal](/_personal/Mathematics/Geometry/Similarity.personal.md) 
+
+### #is_/same_as :: [Similarity.secret](/_secret/Mathematics/Geometry/Similarity.secret.md)
+

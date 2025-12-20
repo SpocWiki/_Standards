@@ -82,17 +82,17 @@ X_Twitter_username: TajMahal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taj_Mahal](Taj_Mahal.md) 
+### #is_/same_as :: [Taj_Mahal](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.md) 
 
-### #is_/same_as :: [Taj_Mahal.public](/_public/Technology/Construction/Architecture/Taj_Mahal.public.md) 
+### #is_/same_as :: [Taj_Mahal.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.public.md) 
 
-### #is_/same_as :: [Taj_Mahal.internal](/_internal/Technology/Construction/Architecture/Taj_Mahal.internal.md) 
+### #is_/same_as :: [Taj_Mahal.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.internal.md) 
 
-### #is_/same_as :: [Taj_Mahal.protect](/_protect/Technology/Construction/Architecture/Taj_Mahal.protect.md) 
+### #is_/same_as :: [Taj_Mahal.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.protect.md) 
 
-### #is_/same_as :: [Taj_Mahal.private](/_private/Technology/Construction/Architecture/Taj_Mahal.private.md) 
+### #is_/same_as :: [Taj_Mahal.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.private.md) 
 
-### #is_/same_as :: [Taj_Mahal.personal](/_personal/Technology/Construction/Architecture/Taj_Mahal.personal.md) 
+### #is_/same_as :: [Taj_Mahal.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.personal.md) 
 
-### #is_/same_as :: [Taj_Mahal.secret](/_secret/Technology/Construction/Architecture/Taj_Mahal.secret.md)
+### #is_/same_as :: [Taj_Mahal.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.secret.md)
 

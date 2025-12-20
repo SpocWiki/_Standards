@@ -152,3 +152,22 @@ Google_Doodle: claude-debussys-151st-birthday
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Claude%20Debussy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Debussy,Claude](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.md) 
+
+### #is_/same_as :: [Debussy,Claude.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.public.md) 
+
+### #is_/same_as :: [Debussy,Claude.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.internal.md) 
+
+### #is_/same_as :: [Debussy,Claude.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.protect.md) 
+
+### #is_/same_as :: [Debussy,Claude.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.private.md) 
+
+### #is_/same_as :: [Debussy,Claude.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.personal.md) 
+
+### #is_/same_as :: [Debussy,Claude.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Debussy,Claude.secret.md)
+

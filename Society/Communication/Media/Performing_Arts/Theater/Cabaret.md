@@ -30,17 +30,17 @@ official_name: cabaret
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cabaret](/_Standards/Society/Communication/Media/Performing_Arts/Theatre/Cabaret.md) 
+### #is_/same_as :: [Cabaret](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Cabaret.md) 
 
-### #is_/same_as :: [Cabaret.public](/_public/Society/Communication/Media/Performing_Arts/Theatre/Cabaret.public.md) 
+### #is_/same_as :: [Cabaret.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Cabaret.public.md) 
 
-### #is_/same_as :: [Cabaret.internal](/_internal/Society/Communication/Media/Performing_Arts/Theatre/Cabaret.internal.md) 
+### #is_/same_as :: [Cabaret.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Cabaret.internal.md) 
 
-### #is_/same_as :: [Cabaret.protect](/_protect/Society/Communication/Media/Performing_Arts/Theatre/Cabaret.protect.md) 
+### #is_/same_as :: [Cabaret.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Cabaret.protect.md) 
 
-### #is_/same_as :: [Cabaret.private](/_private/Society/Communication/Media/Performing_Arts/Theatre/Cabaret.private.md) 
+### #is_/same_as :: [Cabaret.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Cabaret.private.md) 
 
-### #is_/same_as :: [Cabaret.personal](/_personal/Society/Communication/Media/Performing_Arts/Theatre/Cabaret.personal.md) 
+### #is_/same_as :: [Cabaret.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Cabaret.personal.md) 
 
-### #is_/same_as :: [Cabaret.secret](/_secret/Society/Communication/Media/Performing_Arts/Theatre/Cabaret.secret.md)
+### #is_/same_as :: [Cabaret.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Cabaret.secret.md)
 

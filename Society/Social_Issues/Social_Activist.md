@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Activism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Activist](/_Standards/Society/Social_Issues/Social_Activist.md) 
+
+### #is_/same_as :: [Social_Activist.public](/_public/Society/Social_Issues/Social_Activist.public.md) 
+
+### #is_/same_as :: [Social_Activist.internal](/_internal/Society/Social_Issues/Social_Activist.internal.md) 
+
+### #is_/same_as :: [Social_Activist.protect](/_protect/Society/Social_Issues/Social_Activist.protect.md) 
+
+### #is_/same_as :: [Social_Activist.private](/_private/Society/Social_Issues/Social_Activist.private.md) 
+
+### #is_/same_as :: [Social_Activist.personal](/_personal/Society/Social_Issues/Social_Activist.personal.md) 
+
+### #is_/same_as :: [Social_Activist.secret](/_secret/Society/Social_Issues/Social_Activist.secret.md)
+

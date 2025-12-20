@@ -33,17 +33,17 @@ has_id_wikidata: Q8047
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enzyme](Enzyme.md) 
+### #is_/same_as :: [Enzyme](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.md) 
 
-### #is_/same_as :: [Enzyme.public](/_public/Chemistry/organic/Biochemistry/Enzyme.public.md) 
+### #is_/same_as :: [Enzyme.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public.md) 
 
-### #is_/same_as :: [Enzyme.internal](/_internal/Chemistry/organic/Biochemistry/Enzyme.internal.md) 
+### #is_/same_as :: [Enzyme.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal.md) 
 
-### #is_/same_as :: [Enzyme.protect](/_protect/Chemistry/organic/Biochemistry/Enzyme.protect.md) 
+### #is_/same_as :: [Enzyme.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect.md) 
 
-### #is_/same_as :: [Enzyme.private](/_private/Chemistry/organic/Biochemistry/Enzyme.private.md) 
+### #is_/same_as :: [Enzyme.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private.md) 
 
-### #is_/same_as :: [Enzyme.personal](/_personal/Chemistry/organic/Biochemistry/Enzyme.personal.md) 
+### #is_/same_as :: [Enzyme.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal.md) 
 
-### #is_/same_as :: [Enzyme.secret](/_secret/Chemistry/organic/Biochemistry/Enzyme.secret.md)
+### #is_/same_as :: [Enzyme.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret.md)
 

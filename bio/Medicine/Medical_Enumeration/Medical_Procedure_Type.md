@@ -37,17 +37,17 @@ An enumeration that describes different types of medical procedures.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [medical_procedure_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.md) 
+### #is_/same_as :: [Medical_Procedure_Type](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.md) 
 
-### #is_/same_as :: [medical_procedure_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.public.md) 
+### #is_/same_as :: [Medical_Procedure_Type.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.public.md) 
 
-### #is_/same_as :: [medical_procedure_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.internal.md) 
+### #is_/same_as :: [Medical_Procedure_Type.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.internal.md) 
 
-### #is_/same_as :: [medical_procedure_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.protect.md) 
+### #is_/same_as :: [Medical_Procedure_Type.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.protect.md) 
 
-### #is_/same_as :: [medical_procedure_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.private.md) 
+### #is_/same_as :: [Medical_Procedure_Type.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.private.md) 
 
-### #is_/same_as :: [medical_procedure_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.personal.md) 
+### #is_/same_as :: [Medical_Procedure_Type.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.personal.md) 
 
-### #is_/same_as :: [medical_procedure_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.secret.md)
+### #is_/same_as :: [Medical_Procedure_Type.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.secret.md)
 

@@ -85,7 +85,7 @@ Compare all phyllotine genera together by selecting the view below.
 \|
 [Jaw](http://www.tolweb.org/accessory/Phyllotine_Mandibles?acc_id=561)
 \| [Teeth](http://www.tolweb.org/accessory/Phyllotine_Molars?acc_id=562)
-\|
+\|
 
 
 ## Confidential Links & Embeds: 

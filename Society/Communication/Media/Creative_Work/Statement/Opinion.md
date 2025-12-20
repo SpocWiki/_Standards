@@ -41,3 +41,22 @@ Opinions are protected in many Jurisdictions by [[../../../../Social_Issues/Huma
 but [[../Statement|Statement]]s need to be proven 
 and [[Claim]]s of Facts are debatable.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Opinion](/_Standards/Society/Communication/Media/Creative_Work/Statement/Opinion.md) 
+
+### #is_/same_as :: [Opinion.public](/_public/Society/Communication/Media/Creative_Work/Statement/Opinion.public.md) 
+
+### #is_/same_as :: [Opinion.internal](/_internal/Society/Communication/Media/Creative_Work/Statement/Opinion.internal.md) 
+
+### #is_/same_as :: [Opinion.protect](/_protect/Society/Communication/Media/Creative_Work/Statement/Opinion.protect.md) 
+
+### #is_/same_as :: [Opinion.private](/_private/Society/Communication/Media/Creative_Work/Statement/Opinion.private.md) 
+
+### #is_/same_as :: [Opinion.personal](/_personal/Society/Communication/Media/Creative_Work/Statement/Opinion.personal.md) 
+
+### #is_/same_as :: [Opinion.secret](/_secret/Society/Communication/Media/Creative_Work/Statement/Opinion.secret.md)
+

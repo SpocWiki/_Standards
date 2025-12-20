@@ -61,3 +61,22 @@ Baidu_Tieba_name: 魔术
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magic%20(illusion)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magic(Illusion)](/_Standards/Society/Communication/Media/Performing_Arts/Magic(Illusion).md) 
+
+### #is_/same_as :: [Magic(Illusion).public](/_public/Society/Communication/Media/Performing_Arts/Magic(Illusion).public.md) 
+
+### #is_/same_as :: [Magic(Illusion).internal](/_internal/Society/Communication/Media/Performing_Arts/Magic(Illusion).internal.md) 
+
+### #is_/same_as :: [Magic(Illusion).protect](/_protect/Society/Communication/Media/Performing_Arts/Magic(Illusion).protect.md) 
+
+### #is_/same_as :: [Magic(Illusion).private](/_private/Society/Communication/Media/Performing_Arts/Magic(Illusion).private.md) 
+
+### #is_/same_as :: [Magic(Illusion).personal](/_personal/Society/Communication/Media/Performing_Arts/Magic(Illusion).personal.md) 
+
+### #is_/same_as :: [Magic(Illusion).secret](/_secret/Society/Communication/Media/Performing_Arts/Magic(Illusion).secret.md)
+

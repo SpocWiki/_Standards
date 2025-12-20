@@ -21,17 +21,17 @@ Transfers:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tick](/_Standards/bio/Metabolism/Parasite/Tick.md) 
+### #is_/same_as :: [Tick](/_Standards/bio/Metabolism/Parasitism/Parasite/Tick.md) 
 
-### #is_/same_as :: [Tick.public](/_public/bio/Metabolism/Parasite/Tick.public.md) 
+### #is_/same_as :: [Tick.public](/_public/bio/Metabolism/Parasitism/Parasite/Tick.public.md) 
 
-### #is_/same_as :: [Tick.internal](/_internal/bio/Metabolism/Parasite/Tick.internal.md) 
+### #is_/same_as :: [Tick.internal](/_internal/bio/Metabolism/Parasitism/Parasite/Tick.internal.md) 
 
-### #is_/same_as :: [Tick.protect](/_protect/bio/Metabolism/Parasite/Tick.protect.md) 
+### #is_/same_as :: [Tick.protect](/_protect/bio/Metabolism/Parasitism/Parasite/Tick.protect.md) 
 
-### #is_/same_as :: [Tick.private](/_private/bio/Metabolism/Parasite/Tick.private.md) 
+### #is_/same_as :: [Tick.private](/_private/bio/Metabolism/Parasitism/Parasite/Tick.private.md) 
 
-### #is_/same_as :: [Tick.personal](/_personal/bio/Metabolism/Parasite/Tick.personal.md) 
+### #is_/same_as :: [Tick.personal](/_personal/bio/Metabolism/Parasitism/Parasite/Tick.personal.md) 
 
-### #is_/same_as :: [Tick.secret](/_secret/bio/Metabolism/Parasite/Tick.secret.md)
+### #is_/same_as :: [Tick.secret](/_secret/bio/Metabolism/Parasitism/Parasite/Tick.secret.md)
 

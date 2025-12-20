@@ -31,3 +31,22 @@ has_id_wikidata: Q13703
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesoamerica) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mesoamerica](/_Standards/Earth/Continent/America~Central/Mesoamerica.md) 
+
+### #is_/same_as :: [Mesoamerica.public](/_public/Earth/Continent/America~Central/Mesoamerica.public.md) 
+
+### #is_/same_as :: [Mesoamerica.internal](/_internal/Earth/Continent/America~Central/Mesoamerica.internal.md) 
+
+### #is_/same_as :: [Mesoamerica.protect](/_protect/Earth/Continent/America~Central/Mesoamerica.protect.md) 
+
+### #is_/same_as :: [Mesoamerica.private](/_private/Earth/Continent/America~Central/Mesoamerica.private.md) 
+
+### #is_/same_as :: [Mesoamerica.personal](/_personal/Earth/Continent/America~Central/Mesoamerica.personal.md) 
+
+### #is_/same_as :: [Mesoamerica.secret](/_secret/Earth/Continent/America~Central/Mesoamerica.secret.md)
+

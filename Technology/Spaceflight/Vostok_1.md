@@ -65,3 +65,22 @@ call_sign: Кедр
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vostok%201) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vostok_1](/_Standards/Technology/Spaceflight/Vostok_1.md) 
+
+### #is_/same_as :: [Vostok_1.public](/_public/Technology/Spaceflight/Vostok_1.public.md) 
+
+### #is_/same_as :: [Vostok_1.internal](/_internal/Technology/Spaceflight/Vostok_1.internal.md) 
+
+### #is_/same_as :: [Vostok_1.protect](/_protect/Technology/Spaceflight/Vostok_1.protect.md) 
+
+### #is_/same_as :: [Vostok_1.private](/_private/Technology/Spaceflight/Vostok_1.private.md) 
+
+### #is_/same_as :: [Vostok_1.personal](/_personal/Technology/Spaceflight/Vostok_1.personal.md) 
+
+### #is_/same_as :: [Vostok_1.secret](/_secret/Technology/Spaceflight/Vostok_1.secret.md)
+

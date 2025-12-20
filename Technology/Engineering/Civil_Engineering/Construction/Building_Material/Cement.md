@@ -55,3 +55,22 @@ P8189: "987007284980005171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cement) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cement](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.md) 
+
+### #is_/same_as :: [Cement.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.public.md) 
+
+### #is_/same_as :: [Cement.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.internal.md) 
+
+### #is_/same_as :: [Cement.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.protect.md) 
+
+### #is_/same_as :: [Cement.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.private.md) 
+
+### #is_/same_as :: [Cement.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.personal.md) 
+
+### #is_/same_as :: [Cement.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.secret.md)
+

@@ -56,3 +56,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/AVARI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pannonian%20Avars) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0600-Pannonian_Avars-0900](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.md) 
+
+### #is_/same_as :: [0600-Pannonian_Avars-0900.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.public.md) 
+
+### #is_/same_as :: [0600-Pannonian_Avars-0900.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.internal.md) 
+
+### #is_/same_as :: [0600-Pannonian_Avars-0900.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.protect.md) 
+
+### #is_/same_as :: [0600-Pannonian_Avars-0900.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.private.md) 
+
+### #is_/same_as :: [0600-Pannonian_Avars-0900.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.personal.md) 
+
+### #is_/same_as :: [0600-Pannonian_Avars-0900.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.secret.md)
+

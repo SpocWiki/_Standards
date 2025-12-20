@@ -78,3 +78,22 @@ Commons_category: Primary colors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Primary%20color)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Primary_Color](/_Standards/Technology/Design/Graphic_Design/Color/Primary_Color.md) 
+
+### #is_/same_as :: [Primary_Color.public](/_public/Technology/Design/Graphic_Design/Color/Primary_Color.public.md) 
+
+### #is_/same_as :: [Primary_Color.internal](/_internal/Technology/Design/Graphic_Design/Color/Primary_Color.internal.md) 
+
+### #is_/same_as :: [Primary_Color.protect](/_protect/Technology/Design/Graphic_Design/Color/Primary_Color.protect.md) 
+
+### #is_/same_as :: [Primary_Color.private](/_private/Technology/Design/Graphic_Design/Color/Primary_Color.private.md) 
+
+### #is_/same_as :: [Primary_Color.personal](/_personal/Technology/Design/Graphic_Design/Color/Primary_Color.personal.md) 
+
+### #is_/same_as :: [Primary_Color.secret](/_secret/Technology/Design/Graphic_Design/Color/Primary_Color.secret.md)
+

@@ -47,3 +47,22 @@ Commons_category: Hussite wars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hussite%20Wars) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1419-Hussite_Wars-1434](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.md) 
+
+### #is_/same_as :: [1419-Hussite_Wars-1434.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.public.md) 
+
+### #is_/same_as :: [1419-Hussite_Wars-1434.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.internal.md) 
+
+### #is_/same_as :: [1419-Hussite_Wars-1434.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.protect.md) 
+
+### #is_/same_as :: [1419-Hussite_Wars-1434.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.private.md) 
+
+### #is_/same_as :: [1419-Hussite_Wars-1434.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.personal.md) 
+
+### #is_/same_as :: [1419-Hussite_Wars-1434.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.secret.md)
+

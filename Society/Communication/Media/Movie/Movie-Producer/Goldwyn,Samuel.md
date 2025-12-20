@@ -75,3 +75,22 @@ ISNI: "0000000083793990"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Goldwyn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goldwyn,Samuel](/_Standards/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.md) 
+
+### #is_/same_as :: [Goldwyn,Samuel.public](/_public/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.public.md) 
+
+### #is_/same_as :: [Goldwyn,Samuel.internal](/_internal/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.internal.md) 
+
+### #is_/same_as :: [Goldwyn,Samuel.protect](/_protect/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.protect.md) 
+
+### #is_/same_as :: [Goldwyn,Samuel.private](/_private/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.private.md) 
+
+### #is_/same_as :: [Goldwyn,Samuel.personal](/_personal/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.personal.md) 
+
+### #is_/same_as :: [Goldwyn,Samuel.secret](/_secret/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.secret.md)
+

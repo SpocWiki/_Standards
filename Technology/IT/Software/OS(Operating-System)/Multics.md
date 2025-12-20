@@ -92,3 +92,22 @@ software_version_identifier: MR12.7
 > [Wikipedia](https://en.wikipedia.org/wiki/Multics)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multics](/_Standards/Technology/IT/Software/OS(Operating-System)/Multics.md) 
+
+### #is_/same_as :: [Multics.public](/_public/Technology/IT/Software/OS(Operating-System)/Multics.public.md) 
+
+### #is_/same_as :: [Multics.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Multics.internal.md) 
+
+### #is_/same_as :: [Multics.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Multics.protect.md) 
+
+### #is_/same_as :: [Multics.private](/_private/Technology/IT/Software/OS(Operating-System)/Multics.private.md) 
+
+### #is_/same_as :: [Multics.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Multics.personal.md) 
+
+### #is_/same_as :: [Multics.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Multics.secret.md)
+

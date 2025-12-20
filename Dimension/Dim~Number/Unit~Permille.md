@@ -58,3 +58,22 @@ unit_symbol: ‰
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Per%20mille) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Permille](/_Standards/Dimension/Dim~Number/Unit~Permille.md) 
+
+### #is_/same_as :: [Unit~Permille.public](/_public/Dimension/Dim~Number/Unit~Permille.public.md) 
+
+### #is_/same_as :: [Unit~Permille.internal](/_internal/Dimension/Dim~Number/Unit~Permille.internal.md) 
+
+### #is_/same_as :: [Unit~Permille.protect](/_protect/Dimension/Dim~Number/Unit~Permille.protect.md) 
+
+### #is_/same_as :: [Unit~Permille.private](/_private/Dimension/Dim~Number/Unit~Permille.private.md) 
+
+### #is_/same_as :: [Unit~Permille.personal](/_personal/Dimension/Dim~Number/Unit~Permille.personal.md) 
+
+### #is_/same_as :: [Unit~Permille.secret](/_secret/Dimension/Dim~Number/Unit~Permille.secret.md)
+

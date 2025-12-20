@@ -141,7 +141,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
   Size                 37 mm ML
   Type                 Holotype
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

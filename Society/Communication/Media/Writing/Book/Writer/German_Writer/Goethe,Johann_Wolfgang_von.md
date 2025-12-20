@@ -301,17 +301,17 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20J
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von](Goethe,Johann_Wolfgang_von.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.md) 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von.public](/_public/Society/Communication/Media/Writing/Book/Writer/Goethe,Johann_Wolfgang_von.public.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.public.md) 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Goethe,Johann_Wolfgang_von.internal.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.internal.md) 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Goethe,Johann_Wolfgang_von.protect.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.protect.md) 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von.private](/_private/Society/Communication/Media/Writing/Book/Writer/Goethe,Johann_Wolfgang_von.private.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.private.md) 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Goethe,Johann_Wolfgang_von.personal.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.personal.md) 
 
-### #is_/same_as :: [Goethe,Johann_Wolfgang_von.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Goethe,Johann_Wolfgang_von.secret.md)
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von.secret.md)
 

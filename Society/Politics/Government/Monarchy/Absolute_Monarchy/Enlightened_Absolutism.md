@@ -39,3 +39,22 @@ instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Enlightened%20absolutism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Enlightened_Absolutism](/_Standards/Society/Politics/Government/Monarchy/Absolute_Monarchy/Enlightened_Absolutism.md) 
+
+### #is_/same_as :: [Enlightened_Absolutism.public](/_public/Society/Politics/Government/Monarchy/Absolute_Monarchy/Enlightened_Absolutism.public.md) 
+
+### #is_/same_as :: [Enlightened_Absolutism.internal](/_internal/Society/Politics/Government/Monarchy/Absolute_Monarchy/Enlightened_Absolutism.internal.md) 
+
+### #is_/same_as :: [Enlightened_Absolutism.protect](/_protect/Society/Politics/Government/Monarchy/Absolute_Monarchy/Enlightened_Absolutism.protect.md) 
+
+### #is_/same_as :: [Enlightened_Absolutism.private](/_private/Society/Politics/Government/Monarchy/Absolute_Monarchy/Enlightened_Absolutism.private.md) 
+
+### #is_/same_as :: [Enlightened_Absolutism.personal](/_personal/Society/Politics/Government/Monarchy/Absolute_Monarchy/Enlightened_Absolutism.personal.md) 
+
+### #is_/same_as :: [Enlightened_Absolutism.secret](/_secret/Society/Politics/Government/Monarchy/Absolute_Monarchy/Enlightened_Absolutism.secret.md)
+

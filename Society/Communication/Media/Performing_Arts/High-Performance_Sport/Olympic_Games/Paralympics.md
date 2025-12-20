@@ -64,3 +64,22 @@ Libris_URI: zw9cg96h2hpqkmw
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paralympic%20Games) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paralympics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Paralympics.md) 
+
+### #is_/same_as :: [Paralympics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Paralympics.public.md) 
+
+### #is_/same_as :: [Paralympics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Paralympics.internal.md) 
+
+### #is_/same_as :: [Paralympics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Paralympics.protect.md) 
+
+### #is_/same_as :: [Paralympics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Paralympics.private.md) 
+
+### #is_/same_as :: [Paralympics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Paralympics.personal.md) 
+
+### #is_/same_as :: [Paralympics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Paralympics.secret.md)
+

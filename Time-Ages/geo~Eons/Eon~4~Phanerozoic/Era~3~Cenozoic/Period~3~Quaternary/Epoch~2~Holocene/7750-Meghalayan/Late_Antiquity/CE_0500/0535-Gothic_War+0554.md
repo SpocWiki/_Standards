@@ -37,3 +37,22 @@ end_time: 0554-01-01T00:00:00Z
 > In 250, the invasions continued, the Carpiani attacked Dacia, while the Gothic King Cniva commanding various groups of Goths and other allied peoples, defeated the Romans in two major battles, in one of these he killed the Roman emperor Decius (r.  249–251) and his co-emperor Herennius Etruscus (r.  251). The imperial successor Trebonianus Gallus (r.  251–253) pledged to pay an annual tribute if the invaders left, however, he did not keep his promise, which provoked new attacks in 253, although the governor and future emperor Aemilianus (r.  253) managed to stop these raids.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gothic%20War%20(248%E2%80%93253))
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0535-Gothic_War+0554](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0500/0535-Gothic_War+0554.md) 
+
+### #is_/same_as :: [0535-Gothic_War+0554.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0500/0535-Gothic_War+0554.public.md) 
+
+### #is_/same_as :: [0535-Gothic_War+0554.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0500/0535-Gothic_War+0554.internal.md) 
+
+### #is_/same_as :: [0535-Gothic_War+0554.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0500/0535-Gothic_War+0554.protect.md) 
+
+### #is_/same_as :: [0535-Gothic_War+0554.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0500/0535-Gothic_War+0554.private.md) 
+
+### #is_/same_as :: [0535-Gothic_War+0554.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0500/0535-Gothic_War+0554.personal.md) 
+
+### #is_/same_as :: [0535-Gothic_War+0554.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0500/0535-Gothic_War+0554.secret.md)
+

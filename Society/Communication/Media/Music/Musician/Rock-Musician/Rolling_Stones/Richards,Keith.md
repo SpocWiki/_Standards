@@ -121,3 +121,22 @@ date_of_birth: 1943-12-18T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Keith%20Richards) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Richards,Keith](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.md) 
+
+### #is_/same_as :: [Richards,Keith.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.public.md) 
+
+### #is_/same_as :: [Richards,Keith.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.internal.md) 
+
+### #is_/same_as :: [Richards,Keith.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.protect.md) 
+
+### #is_/same_as :: [Richards,Keith.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.private.md) 
+
+### #is_/same_as :: [Richards,Keith.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.personal.md) 
+
+### #is_/same_as :: [Richards,Keith.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.secret.md)
+

@@ -263,35 +263,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Beatles](The_Beatles.md) 
+### #is_/same_as :: [Beatles](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles.md) 
 
-### #is_/same_as :: [Beatles.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.public.md) 
+### #is_/same_as :: [Beatles.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles.public.md) 
 
-### #is_/same_as :: [Beatles.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.internal.md) 
+### #is_/same_as :: [Beatles.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles.internal.md) 
 
-### #is_/same_as :: [Beatles.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.protect.md) 
+### #is_/same_as :: [Beatles.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles.protect.md) 
 
-### #is_/same_as :: [Beatles.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.private.md) 
+### #is_/same_as :: [Beatles.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles.private.md) 
 
-### #is_/same_as :: [Beatles.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.personal.md) 
+### #is_/same_as :: [Beatles.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles.personal.md) 
 
-### #is_/same_as :: [Beatles.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.secret.md)
+### #is_/same_as :: [Beatles.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles.secret.md)
 
-# [[Beatles]] 
-
-#is_/part_of :: [[The_Beatles]] 
-
-![[Beatles.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Beatles.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

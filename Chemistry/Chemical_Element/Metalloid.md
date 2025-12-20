@@ -47,3 +47,22 @@ Commons_category: Metalloids
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metalloid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metalloid](/_Standards/Chemistry/Chemical_Element/Metalloid.md) 
+
+### #is_/same_as :: [Metalloid.public](/_public/Chemistry/Chemical_Element/Metalloid.public.md) 
+
+### #is_/same_as :: [Metalloid.internal](/_internal/Chemistry/Chemical_Element/Metalloid.internal.md) 
+
+### #is_/same_as :: [Metalloid.protect](/_protect/Chemistry/Chemical_Element/Metalloid.protect.md) 
+
+### #is_/same_as :: [Metalloid.private](/_private/Chemistry/Chemical_Element/Metalloid.private.md) 
+
+### #is_/same_as :: [Metalloid.personal](/_personal/Chemistry/Chemical_Element/Metalloid.personal.md) 
+
+### #is_/same_as :: [Metalloid.secret](/_secret/Chemistry/Chemical_Element/Metalloid.secret.md)
+

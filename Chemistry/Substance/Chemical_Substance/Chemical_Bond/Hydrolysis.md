@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrolysis](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrolysis.md) 
+### #is_/same_as :: [Hydrolysis](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.md) 
 
-### #is_/same_as :: [Hydrolysis.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrolysis.public.md) 
+### #is_/same_as :: [Hydrolysis.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.public.md) 
 
-### #is_/same_as :: [Hydrolysis.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrolysis.internal.md) 
+### #is_/same_as :: [Hydrolysis.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.internal.md) 
 
-### #is_/same_as :: [Hydrolysis.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrolysis.protect.md) 
+### #is_/same_as :: [Hydrolysis.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.protect.md) 
 
-### #is_/same_as :: [Hydrolysis.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrolysis.private.md) 
+### #is_/same_as :: [Hydrolysis.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.private.md) 
 
-### #is_/same_as :: [Hydrolysis.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrolysis.personal.md) 
+### #is_/same_as :: [Hydrolysis.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.personal.md) 
 
-### #is_/same_as :: [Hydrolysis.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrolysis.secret.md)
+### #is_/same_as :: [Hydrolysis.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.secret.md)
 

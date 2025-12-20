@@ -95,3 +95,22 @@ Extroverts are on average happier, especially in company, but in isolation they 
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big5~Extraversion](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.md) 
+
+### #is_/same_as :: [Big5~Extraversion.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.public.md) 
+
+### #is_/same_as :: [Big5~Extraversion.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.internal.md) 
+
+### #is_/same_as :: [Big5~Extraversion.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.protect.md) 
+
+### #is_/same_as :: [Big5~Extraversion.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.private.md) 
+
+### #is_/same_as :: [Big5~Extraversion.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.personal.md) 
+
+### #is_/same_as :: [Big5~Extraversion.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.secret.md)
+

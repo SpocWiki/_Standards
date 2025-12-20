@@ -160,3 +160,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/HADEGGER_MARTIN.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Heidegger) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heidegger,Martin](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Heidegger,Martin.md) 
+
+### #is_/same_as :: [Heidegger,Martin.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Heidegger,Martin.public.md) 
+
+### #is_/same_as :: [Heidegger,Martin.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Heidegger,Martin.internal.md) 
+
+### #is_/same_as :: [Heidegger,Martin.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Heidegger,Martin.protect.md) 
+
+### #is_/same_as :: [Heidegger,Martin.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Heidegger,Martin.private.md) 
+
+### #is_/same_as :: [Heidegger,Martin.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Heidegger,Martin.personal.md) 
+
+### #is_/same_as :: [Heidegger,Martin.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Heidegger,Martin.secret.md)
+

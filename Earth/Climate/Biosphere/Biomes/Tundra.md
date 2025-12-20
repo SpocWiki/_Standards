@@ -36,3 +36,22 @@ Dewey_Decimal_Classification: "551.453"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tundra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tundra](/_Standards/Earth/Climate/Biosphere/Biomes/Tundra.md) 
+
+### #is_/same_as :: [Tundra.public](/_public/Earth/Climate/Biosphere/Biomes/Tundra.public.md) 
+
+### #is_/same_as :: [Tundra.internal](/_internal/Earth/Climate/Biosphere/Biomes/Tundra.internal.md) 
+
+### #is_/same_as :: [Tundra.protect](/_protect/Earth/Climate/Biosphere/Biomes/Tundra.protect.md) 
+
+### #is_/same_as :: [Tundra.private](/_private/Earth/Climate/Biosphere/Biomes/Tundra.private.md) 
+
+### #is_/same_as :: [Tundra.personal](/_personal/Earth/Climate/Biosphere/Biomes/Tundra.personal.md) 
+
+### #is_/same_as :: [Tundra.secret](/_secret/Earth/Climate/Biosphere/Biomes/Tundra.secret.md)
+

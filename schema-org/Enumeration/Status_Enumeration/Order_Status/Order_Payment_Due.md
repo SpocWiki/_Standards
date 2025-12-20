@@ -40,17 +40,17 @@ OrderStatus representing that payment is due on an order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Payment_Due](Order_Payment_Due.md) 
+### #is_/same_as :: [Order_Payment_Due](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.md) 
 
-### #is_/same_as :: [order_payment_due.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.public.md) 
+### #is_/same_as :: [Order_Payment_Due.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.public.md) 
 
-### #is_/same_as :: [order_payment_due.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.internal.md) 
+### #is_/same_as :: [Order_Payment_Due.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.internal.md) 
 
-### #is_/same_as :: [order_payment_due.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.protect.md) 
+### #is_/same_as :: [Order_Payment_Due.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.protect.md) 
 
-### #is_/same_as :: [order_payment_due.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.private.md) 
+### #is_/same_as :: [Order_Payment_Due.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.private.md) 
 
-### #is_/same_as :: [order_payment_due.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.personal.md) 
+### #is_/same_as :: [Order_Payment_Due.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.personal.md) 
 
-### #is_/same_as :: [order_payment_due.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.secret.md)
+### #is_/same_as :: [Order_Payment_Due.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Payment_Due.secret.md)
 

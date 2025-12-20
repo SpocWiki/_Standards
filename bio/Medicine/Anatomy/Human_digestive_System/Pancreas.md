@@ -76,3 +76,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/PODZHELUDOCHNAYA_ZHELEZA.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pancreas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pancreas](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.md) 
+
+### #is_/same_as :: [Pancreas.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.public.md) 
+
+### #is_/same_as :: [Pancreas.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.internal.md) 
+
+### #is_/same_as :: [Pancreas.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.protect.md) 
+
+### #is_/same_as :: [Pancreas.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.private.md) 
+
+### #is_/same_as :: [Pancreas.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.personal.md) 
+
+### #is_/same_as :: [Pancreas.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.secret.md)
+

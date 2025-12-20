@@ -54,3 +54,21 @@ OpenStreetMap_tag: Tag:amenity=baking_oven
 > There are many methods by which different types of ovens produce heat. Some ovens heat materials using the combustion of a fuel, such as wood, coal, or natural gas, while many employ electricity. Microwave ovens heat materials by exposing them to microwave radiation, while electric ovens and electric furnaces heat materials using resistive heating. Some ovens use forced convection, the movement of gases inside the heating chamber, to enhance the heating process, or, in some cases, to change the properties of the material being heated, such as in the Bessemer method of steel production.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oven)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oven](/_Standards/Society/Economics/Home_Economics/Cooking/Stove/Oven.md) 
+
+### #is_/same_as :: [Oven.public](/_public/Society/Economics/Home_Economics/Cooking/Stove/Oven.public.md) 
+
+### #is_/same_as :: [Oven.internal](/_internal/Society/Economics/Home_Economics/Cooking/Stove/Oven.internal.md) 
+
+### #is_/same_as :: [Oven.protect](/_protect/Society/Economics/Home_Economics/Cooking/Stove/Oven.protect.md) 
+
+### #is_/same_as :: [Oven.private](/_private/Society/Economics/Home_Economics/Cooking/Stove/Oven.private.md) 
+
+### #is_/same_as :: [Oven.personal](/_personal/Society/Economics/Home_Economics/Cooking/Stove/Oven.personal.md) 
+
+### #is_/same_as :: [Oven.secret](/_secret/Society/Economics/Home_Economics/Cooking/Stove/Oven.secret.md)
+

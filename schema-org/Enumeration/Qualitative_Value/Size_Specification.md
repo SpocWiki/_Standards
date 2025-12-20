@@ -41,17 +41,17 @@ Size related properties of a product, typically a size code ([[name]]) and optio
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Size_Specification](Size_Specification.md) 
+### #is_/same_as :: [Size_Specification](/_Standards/schema-org/Enumeration/Qualitative_Value/Size_Specification.md) 
 
-### #is_/same_as :: [size_specification.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.public.md) 
+### #is_/same_as :: [Size_Specification.public](/_public/schema-org/Enumeration/Qualitative_Value/Size_Specification.public.md) 
 
-### #is_/same_as :: [size_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.internal.md) 
+### #is_/same_as :: [Size_Specification.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Size_Specification.internal.md) 
 
-### #is_/same_as :: [size_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.protect.md) 
+### #is_/same_as :: [Size_Specification.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Size_Specification.protect.md) 
 
-### #is_/same_as :: [size_specification.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.private.md) 
+### #is_/same_as :: [Size_Specification.private](/_private/schema-org/Enumeration/Qualitative_Value/Size_Specification.private.md) 
 
-### #is_/same_as :: [size_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.personal.md) 
+### #is_/same_as :: [Size_Specification.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Size_Specification.personal.md) 
 
-### #is_/same_as :: [size_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.secret.md)
+### #is_/same_as :: [Size_Specification.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Size_Specification.secret.md)
 

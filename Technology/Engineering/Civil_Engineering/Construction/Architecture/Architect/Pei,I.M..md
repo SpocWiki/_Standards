@@ -141,3 +141,22 @@ date_of_birth: 1917-04-26T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/I.%20M.%20Pei) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pei,I.M.](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..md) 
+
+### #is_/same_as :: [Pei,I.M..public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..public.md) 
+
+### #is_/same_as :: [Pei,I.M..internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..internal.md) 
+
+### #is_/same_as :: [Pei,I.M..protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..protect.md) 
+
+### #is_/same_as :: [Pei,I.M..private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..private.md) 
+
+### #is_/same_as :: [Pei,I.M..personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..personal.md) 
+
+### #is_/same_as :: [Pei,I.M..secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..secret.md)
+

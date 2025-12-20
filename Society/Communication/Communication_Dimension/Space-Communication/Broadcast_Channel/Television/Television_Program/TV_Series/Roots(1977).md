@@ -70,3 +70,22 @@ Plex_media_key: 5d9c086a02391c001f588c74
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roots%20(1977%20miniseries)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roots(1977)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Roots(1977).md) 
+
+### #is_/same_as :: [Roots(1977).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Roots(1977).public.md) 
+
+### #is_/same_as :: [Roots(1977).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Roots(1977).internal.md) 
+
+### #is_/same_as :: [Roots(1977).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Roots(1977).protect.md) 
+
+### #is_/same_as :: [Roots(1977).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Roots(1977).private.md) 
+
+### #is_/same_as :: [Roots(1977).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Roots(1977).personal.md) 
+
+### #is_/same_as :: [Roots(1977).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Roots(1977).secret.md)
+

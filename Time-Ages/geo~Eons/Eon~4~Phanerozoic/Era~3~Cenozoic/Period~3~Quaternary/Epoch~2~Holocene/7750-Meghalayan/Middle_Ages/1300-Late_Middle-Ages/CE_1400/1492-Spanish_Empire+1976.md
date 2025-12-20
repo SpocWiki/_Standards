@@ -68,3 +68,21 @@ coordinate_location: Point(-3.68333333 40.41666667)
 > The Bourbon monarchy implemented reforms like the Nueva Planta decrees, which centralized power and abolished regional privileges. Economic policies promoted trade with the colonies, enhancing Spanish influence in the Americas. Socially, tensions emerged between the ruling elite and the rising bourgeoisie, as well as divisions between peninsular Spaniards and Creoles in the Americas. These factors ultimately set the stage for the independence movements that began in the early 19th century, leading to the gradual disintegration of Spanish colonial authority. By the mid-1820s, Spain had lost its territories in Mexico, Central America, and South America. By 1900, it had also lost Cuba, Puerto Rico, the Philippine Islands, and Guam in the Mariana Islands following the Spanish–American War in 1898.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20Empire)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1492-Spanish_Empire+1976](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.md) 
+
+### #is_/same_as :: [1492-Spanish_Empire+1976.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public.md) 
+
+### #is_/same_as :: [1492-Spanish_Empire+1976.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal.md) 
+
+### #is_/same_as :: [1492-Spanish_Empire+1976.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect.md) 
+
+### #is_/same_as :: [1492-Spanish_Empire+1976.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private.md) 
+
+### #is_/same_as :: [1492-Spanish_Empire+1976.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal.md) 
+
+### #is_/same_as :: [1492-Spanish_Empire+1976.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret.md)
+

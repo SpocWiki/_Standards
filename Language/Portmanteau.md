@@ -28,3 +28,22 @@ Commons_category: Portmanteau
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Portmanteau) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Portmanteau](/_Standards/Language/Portmanteau.md) 
+
+### #is_/same_as :: [Portmanteau.public](/_public/Language/Portmanteau.public.md) 
+
+### #is_/same_as :: [Portmanteau.internal](/_internal/Language/Portmanteau.internal.md) 
+
+### #is_/same_as :: [Portmanteau.protect](/_protect/Language/Portmanteau.protect.md) 
+
+### #is_/same_as :: [Portmanteau.private](/_private/Language/Portmanteau.private.md) 
+
+### #is_/same_as :: [Portmanteau.personal](/_personal/Language/Portmanteau.personal.md) 
+
+### #is_/same_as :: [Portmanteau.secret](/_secret/Language/Portmanteau.secret.md)
+

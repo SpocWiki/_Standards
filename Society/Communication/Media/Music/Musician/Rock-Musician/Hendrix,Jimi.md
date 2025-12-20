@@ -165,3 +165,22 @@ Libris_URI: 1zcfjk3k2hbxclg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jimi%20Hendrix) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hendrix,Jimi](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.md) 
+
+### #is_/same_as :: [Hendrix,Jimi.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.public.md) 
+
+### #is_/same_as :: [Hendrix,Jimi.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.internal.md) 
+
+### #is_/same_as :: [Hendrix,Jimi.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.protect.md) 
+
+### #is_/same_as :: [Hendrix,Jimi.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.private.md) 
+
+### #is_/same_as :: [Hendrix,Jimi.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.personal.md) 
+
+### #is_/same_as :: [Hendrix,Jimi.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.secret.md)
+

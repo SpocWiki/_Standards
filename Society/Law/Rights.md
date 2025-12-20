@@ -38,3 +38,22 @@ equivalent_property: http://purl.org/dc/terms/rights
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rights) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rights](/_Standards/Society/Law/Rights.md) 
+
+### #is_/same_as :: [Rights.public](/_public/Society/Law/Rights.public.md) 
+
+### #is_/same_as :: [Rights.internal](/_internal/Society/Law/Rights.internal.md) 
+
+### #is_/same_as :: [Rights.protect](/_protect/Society/Law/Rights.protect.md) 
+
+### #is_/same_as :: [Rights.private](/_private/Society/Law/Rights.private.md) 
+
+### #is_/same_as :: [Rights.personal](/_personal/Society/Law/Rights.personal.md) 
+
+### #is_/same_as :: [Rights.secret](/_secret/Society/Law/Rights.secret.md)
+

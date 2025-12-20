@@ -17,3 +17,22 @@ Commons_category: Kinematic pairs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinematic%20pair) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kinematic_Pair](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.md) 
+
+### #is_/same_as :: [Kinematic_Pair.public](/_public/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.public.md) 
+
+### #is_/same_as :: [Kinematic_Pair.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.internal.md) 
+
+### #is_/same_as :: [Kinematic_Pair.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.protect.md) 
+
+### #is_/same_as :: [Kinematic_Pair.private](/_private/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.private.md) 
+
+### #is_/same_as :: [Kinematic_Pair.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.personal.md) 
+
+### #is_/same_as :: [Kinematic_Pair.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.secret.md)
+

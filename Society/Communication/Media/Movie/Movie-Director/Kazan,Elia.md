@@ -153,3 +153,22 @@ Plex_person_key: 5d7768276f4521001ea99099
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elia%20Kazan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kazan,Elia](/_Standards/Society/Communication/Media/Movie/Movie-Director/Kazan,Elia.md) 
+
+### #is_/same_as :: [Kazan,Elia.public](/_public/Society/Communication/Media/Movie/Movie-Director/Kazan,Elia.public.md) 
+
+### #is_/same_as :: [Kazan,Elia.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Kazan,Elia.internal.md) 
+
+### #is_/same_as :: [Kazan,Elia.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Kazan,Elia.protect.md) 
+
+### #is_/same_as :: [Kazan,Elia.private](/_private/Society/Communication/Media/Movie/Movie-Director/Kazan,Elia.private.md) 
+
+### #is_/same_as :: [Kazan,Elia.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Kazan,Elia.personal.md) 
+
+### #is_/same_as :: [Kazan,Elia.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Kazan,Elia.secret.md)
+

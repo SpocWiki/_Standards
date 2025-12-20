@@ -58,3 +58,22 @@ IPTC_NewsCode: mediatopic/20000393
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Loan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Loan](/_Standards/Society/Economics/Money/Loan.md) 
+
+### #is_/same_as :: [Loan.public](/_public/Society/Economics/Money/Loan.public.md) 
+
+### #is_/same_as :: [Loan.internal](/_internal/Society/Economics/Money/Loan.internal.md) 
+
+### #is_/same_as :: [Loan.protect](/_protect/Society/Economics/Money/Loan.protect.md) 
+
+### #is_/same_as :: [Loan.private](/_private/Society/Economics/Money/Loan.private.md) 
+
+### #is_/same_as :: [Loan.personal](/_personal/Society/Economics/Money/Loan.personal.md) 
+
+### #is_/same_as :: [Loan.secret](/_secret/Society/Economics/Money/Loan.secret.md)
+

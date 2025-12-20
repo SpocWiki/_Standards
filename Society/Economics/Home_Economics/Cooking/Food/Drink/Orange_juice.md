@@ -70,3 +70,22 @@ IMDb_keyword: orange-juice
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orange%20juice) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orange_juice](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.md) 
+
+### #is_/same_as :: [Orange_juice.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.public.md) 
+
+### #is_/same_as :: [Orange_juice.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.internal.md) 
+
+### #is_/same_as :: [Orange_juice.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.protect.md) 
+
+### #is_/same_as :: [Orange_juice.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.private.md) 
+
+### #is_/same_as :: [Orange_juice.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.personal.md) 
+
+### #is_/same_as :: [Orange_juice.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.secret.md)
+

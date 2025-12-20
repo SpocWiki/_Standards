@@ -95,3 +95,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Radio_Communication](/_Standards/Society/Communication/Communication_Channel/Radio_Communication.md) 
+
+### #is_/same_as :: [Radio_Communication.public](/_public/Society/Communication/Communication_Channel/Radio_Communication.public.md) 
+
+### #is_/same_as :: [Radio_Communication.internal](/_internal/Society/Communication/Communication_Channel/Radio_Communication.internal.md) 
+
+### #is_/same_as :: [Radio_Communication.protect](/_protect/Society/Communication/Communication_Channel/Radio_Communication.protect.md) 
+
+### #is_/same_as :: [Radio_Communication.private](/_private/Society/Communication/Communication_Channel/Radio_Communication.private.md) 
+
+### #is_/same_as :: [Radio_Communication.personal](/_personal/Society/Communication/Communication_Channel/Radio_Communication.personal.md) 
+
+### #is_/same_as :: [Radio_Communication.secret](/_secret/Society/Communication/Communication_Channel/Radio_Communication.secret.md)
+

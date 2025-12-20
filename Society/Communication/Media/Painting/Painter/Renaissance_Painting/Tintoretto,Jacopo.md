@@ -255,3 +255,21 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/29260
 > His work is characterised by muscular figures, dramatic gestures and bold use of perspective, in the Mannerist style.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tintoretto)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tintoretto,Jacopo](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.md) 
+
+### #is_/same_as :: [Tintoretto,Jacopo.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.public.md) 
+
+### #is_/same_as :: [Tintoretto,Jacopo.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.internal.md) 
+
+### #is_/same_as :: [Tintoretto,Jacopo.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.protect.md) 
+
+### #is_/same_as :: [Tintoretto,Jacopo.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.private.md) 
+
+### #is_/same_as :: [Tintoretto,Jacopo.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.personal.md) 
+
+### #is_/same_as :: [Tintoretto,Jacopo.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.secret.md)
+

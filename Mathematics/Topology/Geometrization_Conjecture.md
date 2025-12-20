@@ -57,3 +57,22 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geometrization%20conjecture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geometrization_Conjecture](/_Standards/Mathematics/Topology/Geometrization_Conjecture.md) 
+
+### #is_/same_as :: [Geometrization_Conjecture.public](/_public/Mathematics/Topology/Geometrization_Conjecture.public.md) 
+
+### #is_/same_as :: [Geometrization_Conjecture.internal](/_internal/Mathematics/Topology/Geometrization_Conjecture.internal.md) 
+
+### #is_/same_as :: [Geometrization_Conjecture.protect](/_protect/Mathematics/Topology/Geometrization_Conjecture.protect.md) 
+
+### #is_/same_as :: [Geometrization_Conjecture.private](/_private/Mathematics/Topology/Geometrization_Conjecture.private.md) 
+
+### #is_/same_as :: [Geometrization_Conjecture.personal](/_personal/Mathematics/Topology/Geometrization_Conjecture.personal.md) 
+
+### #is_/same_as :: [Geometrization_Conjecture.secret](/_secret/Mathematics/Topology/Geometrization_Conjecture.secret.md)
+

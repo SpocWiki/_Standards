@@ -73,3 +73,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Redshift.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Redshift) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Redshift](/_Standards/Astronomy/Astrometry/Redshift.md) 
+
+### #is_/same_as :: [Redshift.public](/_public/Astronomy/Astrometry/Redshift.public.md) 
+
+### #is_/same_as :: [Redshift.internal](/_internal/Astronomy/Astrometry/Redshift.internal.md) 
+
+### #is_/same_as :: [Redshift.protect](/_protect/Astronomy/Astrometry/Redshift.protect.md) 
+
+### #is_/same_as :: [Redshift.private](/_private/Astronomy/Astrometry/Redshift.private.md) 
+
+### #is_/same_as :: [Redshift.personal](/_personal/Astronomy/Astrometry/Redshift.personal.md) 
+
+### #is_/same_as :: [Redshift.secret](/_secret/Astronomy/Astrometry/Redshift.secret.md)
+

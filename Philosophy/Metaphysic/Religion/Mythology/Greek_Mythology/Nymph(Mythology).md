@@ -43,3 +43,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nymph) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nymph(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).md) 
+
+### #is_/same_as :: [Nymph(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).public.md) 
+
+### #is_/same_as :: [Nymph(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).internal.md) 
+
+### #is_/same_as :: [Nymph(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).protect.md) 
+
+### #is_/same_as :: [Nymph(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).private.md) 
+
+### #is_/same_as :: [Nymph(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).personal.md) 
+
+### #is_/same_as :: [Nymph(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).secret.md)
+

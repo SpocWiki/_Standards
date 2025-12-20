@@ -114,3 +114,22 @@ service_retirement: 2020-01-30T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spitzer%20Space%20Telescope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spitzer_Space_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.md) 
+
+### #is_/same_as :: [Spitzer_Space_Telescope.public](/_public/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.public.md) 
+
+### #is_/same_as :: [Spitzer_Space_Telescope.internal](/_internal/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.internal.md) 
+
+### #is_/same_as :: [Spitzer_Space_Telescope.protect](/_protect/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.protect.md) 
+
+### #is_/same_as :: [Spitzer_Space_Telescope.private](/_private/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.private.md) 
+
+### #is_/same_as :: [Spitzer_Space_Telescope.personal](/_personal/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.personal.md) 
+
+### #is_/same_as :: [Spitzer_Space_Telescope.secret](/_secret/Technology/Tool/Instrumentation/Telescope/Spitzer_Space_Telescope.secret.md)
+

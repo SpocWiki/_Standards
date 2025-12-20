@@ -111,3 +111,22 @@ Unicode_character: 🚉
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Train%20station) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Railway_Station](/_Standards/Technology/Transport/Rail_Transport/Railway_Station.md) 
+
+### #is_/same_as :: [Railway_Station.public](/_public/Technology/Transport/Rail_Transport/Railway_Station.public.md) 
+
+### #is_/same_as :: [Railway_Station.internal](/_internal/Technology/Transport/Rail_Transport/Railway_Station.internal.md) 
+
+### #is_/same_as :: [Railway_Station.protect](/_protect/Technology/Transport/Rail_Transport/Railway_Station.protect.md) 
+
+### #is_/same_as :: [Railway_Station.private](/_private/Technology/Transport/Rail_Transport/Railway_Station.private.md) 
+
+### #is_/same_as :: [Railway_Station.personal](/_personal/Technology/Transport/Rail_Transport/Railway_Station.personal.md) 
+
+### #is_/same_as :: [Railway_Station.secret](/_secret/Technology/Transport/Rail_Transport/Railway_Station.secret.md)
+

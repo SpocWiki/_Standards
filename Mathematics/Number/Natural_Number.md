@@ -76,3 +76,22 @@ Wikidata_usage_instructions: A mathematical statement about natural numbers shou
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20number) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Natural_Number](/_Standards/Mathematics/Number/Natural_Number.md) 
+
+### #is_/same_as :: [Natural_Number.public](/_public/Mathematics/Number/Natural_Number.public.md) 
+
+### #is_/same_as :: [Natural_Number.internal](/_internal/Mathematics/Number/Natural_Number.internal.md) 
+
+### #is_/same_as :: [Natural_Number.protect](/_protect/Mathematics/Number/Natural_Number.protect.md) 
+
+### #is_/same_as :: [Natural_Number.private](/_private/Mathematics/Number/Natural_Number.private.md) 
+
+### #is_/same_as :: [Natural_Number.personal](/_personal/Mathematics/Number/Natural_Number.personal.md) 
+
+### #is_/same_as :: [Natural_Number.secret](/_secret/Mathematics/Number/Natural_Number.secret.md)
+

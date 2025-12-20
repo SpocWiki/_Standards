@@ -60,3 +60,22 @@ end_time: 1780-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rococo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rococo](/_Standards/Society/Communication/Art/Art_History/Rococo.md) 
+
+### #is_/same_as :: [Rococo.public](/_public/Society/Communication/Art/Art_History/Rococo.public.md) 
+
+### #is_/same_as :: [Rococo.internal](/_internal/Society/Communication/Art/Art_History/Rococo.internal.md) 
+
+### #is_/same_as :: [Rococo.protect](/_protect/Society/Communication/Art/Art_History/Rococo.protect.md) 
+
+### #is_/same_as :: [Rococo.private](/_private/Society/Communication/Art/Art_History/Rococo.private.md) 
+
+### #is_/same_as :: [Rococo.personal](/_personal/Society/Communication/Art/Art_History/Rococo.personal.md) 
+
+### #is_/same_as :: [Rococo.secret](/_secret/Society/Communication/Art/Art_History/Rococo.secret.md)
+

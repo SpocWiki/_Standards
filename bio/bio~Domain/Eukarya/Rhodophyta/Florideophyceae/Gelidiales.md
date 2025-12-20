@@ -177,7 +177,7 @@ press).
   Location ::         collected on the north coast of Gran Canaria, Canary Islands
   Acknowledgements   Hand model courtesy of Jose Rico
   Copyright ::          © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
-  ---------------------------------------------------------------------------
+  ---------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

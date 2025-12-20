@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shockley_Semiconductor_Laboratory](Shockley_Semiconductor_Laboratory.md) 
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.md) 
 
-### #is_/same_as :: [Shockley_Semiconductor_Laboratory.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.public.md) 
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.public.md) 
 
-### #is_/same_as :: [Shockley_Semiconductor_Laboratory.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.internal.md) 
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.internal.md) 
 
-### #is_/same_as :: [Shockley_Semiconductor_Laboratory.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.protect.md) 
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.protect.md) 
 
-### #is_/same_as :: [Shockley_Semiconductor_Laboratory.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.private.md) 
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.private.md) 
 
-### #is_/same_as :: [Shockley_Semiconductor_Laboratory.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.personal.md) 
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.personal.md) 
 
-### #is_/same_as :: [Shockley_Semiconductor_Laboratory.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.secret.md)
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.secret.md)
 

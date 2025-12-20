@@ -42,17 +42,17 @@ An image file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Image_Object](Image_Object.md) 
+### #is_/same_as :: [Image_Object](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object.md) 
 
-### #is_/same_as :: [Image_Object.public](/_public/Society/Communication/Media/Media_Object/Image_Object.public.md) 
+### #is_/same_as :: [Image_Object.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object.public.md) 
 
-### #is_/same_as :: [Image_Object.internal](/_internal/Society/Communication/Media/Media_Object/Image_Object.internal.md) 
+### #is_/same_as :: [Image_Object.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object.internal.md) 
 
-### #is_/same_as :: [Image_Object.protect](/_protect/Society/Communication/Media/Media_Object/Image_Object.protect.md) 
+### #is_/same_as :: [Image_Object.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object.protect.md) 
 
-### #is_/same_as :: [Image_Object.private](/_private/Society/Communication/Media/Media_Object/Image_Object.private.md) 
+### #is_/same_as :: [Image_Object.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object.private.md) 
 
-### #is_/same_as :: [Image_Object.personal](/_personal/Society/Communication/Media/Media_Object/Image_Object.personal.md) 
+### #is_/same_as :: [Image_Object.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object.personal.md) 
 
-### #is_/same_as :: [Image_Object.secret](/_secret/Society/Communication/Media/Media_Object/Image_Object.secret.md)
+### #is_/same_as :: [Image_Object.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object.secret.md)
 

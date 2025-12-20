@@ -165,3 +165,22 @@ stylized_name: EPINEPHrine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Adrenaline) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Adrenalin](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.md) 
+
+### #is_/same_as :: [Adrenalin.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.public.md) 
+
+### #is_/same_as :: [Adrenalin.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.internal.md) 
+
+### #is_/same_as :: [Adrenalin.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.protect.md) 
+
+### #is_/same_as :: [Adrenalin.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.private.md) 
+
+### #is_/same_as :: [Adrenalin.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.personal.md) 
+
+### #is_/same_as :: [Adrenalin.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.secret.md)
+

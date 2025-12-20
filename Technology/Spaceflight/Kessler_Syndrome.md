@@ -43,3 +43,22 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "KesslerSyndrome"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kessler%20syndrome) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kessler_Syndrome](/_Standards/Technology/Spaceflight/Kessler_Syndrome.md) 
+
+### #is_/same_as :: [Kessler_Syndrome.public](/_public/Technology/Spaceflight/Kessler_Syndrome.public.md) 
+
+### #is_/same_as :: [Kessler_Syndrome.internal](/_internal/Technology/Spaceflight/Kessler_Syndrome.internal.md) 
+
+### #is_/same_as :: [Kessler_Syndrome.protect](/_protect/Technology/Spaceflight/Kessler_Syndrome.protect.md) 
+
+### #is_/same_as :: [Kessler_Syndrome.private](/_private/Technology/Spaceflight/Kessler_Syndrome.private.md) 
+
+### #is_/same_as :: [Kessler_Syndrome.personal](/_personal/Technology/Spaceflight/Kessler_Syndrome.personal.md) 
+
+### #is_/same_as :: [Kessler_Syndrome.secret](/_secret/Technology/Spaceflight/Kessler_Syndrome.secret.md)
+

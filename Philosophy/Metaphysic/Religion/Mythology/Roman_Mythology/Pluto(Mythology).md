@@ -83,3 +83,22 @@ Commons_category: Pluto (mythology)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pluto(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Pluto(Mythology).md) 
+
+### #is_/same_as :: [Pluto(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Pluto(Mythology).public.md) 
+
+### #is_/same_as :: [Pluto(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Pluto(Mythology).internal.md) 
+
+### #is_/same_as :: [Pluto(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Pluto(Mythology).protect.md) 
+
+### #is_/same_as :: [Pluto(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Pluto(Mythology).private.md) 
+
+### #is_/same_as :: [Pluto(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Pluto(Mythology).personal.md) 
+
+### #is_/same_as :: [Pluto(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Pluto(Mythology).secret.md)
+

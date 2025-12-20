@@ -125,7 +125,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Life Cycle Stage ::     ad
   Size                 ca. 20 cm high
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

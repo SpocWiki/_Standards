@@ -41,7 +41,7 @@ Thenaria without acontia. Sphincter mesogloeal.
 
 Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
-volume 1, number 1.
+volume 1, number 1.
 
 
 ## Confidential Links & Embeds: 

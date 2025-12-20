@@ -102,3 +102,22 @@ time_of_discovery_or_invention: 0964-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Large%20Magellanic%20Cloud) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Large_Magellanic_Cloud](/_Standards/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.md) 
+
+### #is_/same_as :: [Large_Magellanic_Cloud.public](/_public/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.public.md) 
+
+### #is_/same_as :: [Large_Magellanic_Cloud.internal](/_internal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.internal.md) 
+
+### #is_/same_as :: [Large_Magellanic_Cloud.protect](/_protect/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.protect.md) 
+
+### #is_/same_as :: [Large_Magellanic_Cloud.private](/_private/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.private.md) 
+
+### #is_/same_as :: [Large_Magellanic_Cloud.personal](/_personal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.personal.md) 
+
+### #is_/same_as :: [Large_Magellanic_Cloud.secret](/_secret/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.secret.md)
+

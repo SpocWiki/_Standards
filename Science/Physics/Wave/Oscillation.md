@@ -63,3 +63,22 @@ Commons_category: Oscillation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oscillation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oscillation](/_Standards/Science/Physics/Wave/Oscillation.md) 
+
+### #is_/same_as :: [Oscillation.public](/_public/Science/Physics/Wave/Oscillation.public.md) 
+
+### #is_/same_as :: [Oscillation.internal](/_internal/Science/Physics/Wave/Oscillation.internal.md) 
+
+### #is_/same_as :: [Oscillation.protect](/_protect/Science/Physics/Wave/Oscillation.protect.md) 
+
+### #is_/same_as :: [Oscillation.private](/_private/Science/Physics/Wave/Oscillation.private.md) 
+
+### #is_/same_as :: [Oscillation.personal](/_personal/Science/Physics/Wave/Oscillation.personal.md) 
+
+### #is_/same_as :: [Oscillation.secret](/_secret/Science/Physics/Wave/Oscillation.secret.md)
+

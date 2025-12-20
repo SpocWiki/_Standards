@@ -32,3 +32,22 @@ OpenStreetMap_tag: athletics=javelin_throw
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Javelin%20throw) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Javelin_Throw](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.md) 
+
+### #is_/same_as :: [Javelin_Throw.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.public.md) 
+
+### #is_/same_as :: [Javelin_Throw.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.internal.md) 
+
+### #is_/same_as :: [Javelin_Throw.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.protect.md) 
+
+### #is_/same_as :: [Javelin_Throw.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.private.md) 
+
+### #is_/same_as :: [Javelin_Throw.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.personal.md) 
+
+### #is_/same_as :: [Javelin_Throw.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.secret.md)
+

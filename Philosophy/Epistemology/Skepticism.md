@@ -56,3 +56,22 @@ Commons_category: Skepticism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skepticism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skepticism](/_Standards/Philosophy/Epistemology/Skepticism.md) 
+
+### #is_/same_as :: [Skepticism.public](/_public/Philosophy/Epistemology/Skepticism.public.md) 
+
+### #is_/same_as :: [Skepticism.internal](/_internal/Philosophy/Epistemology/Skepticism.internal.md) 
+
+### #is_/same_as :: [Skepticism.protect](/_protect/Philosophy/Epistemology/Skepticism.protect.md) 
+
+### #is_/same_as :: [Skepticism.private](/_private/Philosophy/Epistemology/Skepticism.private.md) 
+
+### #is_/same_as :: [Skepticism.personal](/_personal/Philosophy/Epistemology/Skepticism.personal.md) 
+
+### #is_/same_as :: [Skepticism.secret](/_secret/Philosophy/Epistemology/Skepticism.secret.md)
+

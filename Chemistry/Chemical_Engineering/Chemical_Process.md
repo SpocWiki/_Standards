@@ -39,3 +39,22 @@ Commons_category: Chemical processes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20process) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chemical_Process](/_Standards/Chemistry/Chemical_Engineering/Chemical_Process.md) 
+
+### #is_/same_as :: [Chemical_Process.public](/_public/Chemistry/Chemical_Engineering/Chemical_Process.public.md) 
+
+### #is_/same_as :: [Chemical_Process.internal](/_internal/Chemistry/Chemical_Engineering/Chemical_Process.internal.md) 
+
+### #is_/same_as :: [Chemical_Process.protect](/_protect/Chemistry/Chemical_Engineering/Chemical_Process.protect.md) 
+
+### #is_/same_as :: [Chemical_Process.private](/_private/Chemistry/Chemical_Engineering/Chemical_Process.private.md) 
+
+### #is_/same_as :: [Chemical_Process.personal](/_personal/Chemistry/Chemical_Engineering/Chemical_Process.personal.md) 
+
+### #is_/same_as :: [Chemical_Process.secret](/_secret/Chemistry/Chemical_Engineering/Chemical_Process.secret.md)
+

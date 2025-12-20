@@ -39,3 +39,22 @@ Commons_category: Plant morphology
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant_Morphology](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology.md) 
+
+### #is_/same_as :: [Plant_Morphology.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology.public.md) 
+
+### #is_/same_as :: [Plant_Morphology.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology.internal.md) 
+
+### #is_/same_as :: [Plant_Morphology.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology.protect.md) 
+
+### #is_/same_as :: [Plant_Morphology.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology.private.md) 
+
+### #is_/same_as :: [Plant_Morphology.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology.personal.md) 
+
+### #is_/same_as :: [Plant_Morphology.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology.secret.md)
+

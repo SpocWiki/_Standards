@@ -53,3 +53,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Feier
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holiday) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holiday](/_Standards/ISO/Calendar/Holiday.md) 
+
+### #is_/same_as :: [Holiday.public](/_public/ISO/Calendar/Holiday.public.md) 
+
+### #is_/same_as :: [Holiday.internal](/_internal/ISO/Calendar/Holiday.internal.md) 
+
+### #is_/same_as :: [Holiday.protect](/_protect/ISO/Calendar/Holiday.protect.md) 
+
+### #is_/same_as :: [Holiday.private](/_private/ISO/Calendar/Holiday.private.md) 
+
+### #is_/same_as :: [Holiday.personal](/_personal/ISO/Calendar/Holiday.personal.md) 
+
+### #is_/same_as :: [Holiday.secret](/_secret/ISO/Calendar/Holiday.secret.md)
+

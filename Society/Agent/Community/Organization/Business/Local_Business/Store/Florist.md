@@ -39,17 +39,17 @@ A florist.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Florist](Florist.md) 
+### #is_/same_as :: [Florist](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Florist.md) 
 
-### #is_/same_as :: [Florist.public](/_public/Society/Organization/Local_Business/Store/Florist.public.md) 
+### #is_/same_as :: [Florist.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Florist.public.md) 
 
-### #is_/same_as :: [Florist.internal](/_internal/Society/Organization/Local_Business/Store/Florist.internal.md) 
+### #is_/same_as :: [Florist.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Florist.internal.md) 
 
-### #is_/same_as :: [Florist.protect](/_protect/Society/Organization/Local_Business/Store/Florist.protect.md) 
+### #is_/same_as :: [Florist.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Florist.protect.md) 
 
-### #is_/same_as :: [Florist.private](/_private/Society/Organization/Local_Business/Store/Florist.private.md) 
+### #is_/same_as :: [Florist.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Florist.private.md) 
 
-### #is_/same_as :: [Florist.personal](/_personal/Society/Organization/Local_Business/Store/Florist.personal.md) 
+### #is_/same_as :: [Florist.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Florist.personal.md) 
 
-### #is_/same_as :: [Florist.secret](/_secret/Society/Organization/Local_Business/Store/Florist.secret.md)
+### #is_/same_as :: [Florist.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Florist.secret.md)
 

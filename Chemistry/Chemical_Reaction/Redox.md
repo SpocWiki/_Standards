@@ -48,3 +48,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Redox) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Redox](/_Standards/Chemistry/Chemical_Reaction/Redox.md) 
+
+### #is_/same_as :: [Redox.public](/_public/Chemistry/Chemical_Reaction/Redox.public.md) 
+
+### #is_/same_as :: [Redox.internal](/_internal/Chemistry/Chemical_Reaction/Redox.internal.md) 
+
+### #is_/same_as :: [Redox.protect](/_protect/Chemistry/Chemical_Reaction/Redox.protect.md) 
+
+### #is_/same_as :: [Redox.private](/_private/Chemistry/Chemical_Reaction/Redox.private.md) 
+
+### #is_/same_as :: [Redox.personal](/_personal/Chemistry/Chemical_Reaction/Redox.personal.md) 
+
+### #is_/same_as :: [Redox.secret](/_secret/Chemistry/Chemical_Reaction/Redox.secret.md)
+

@@ -136,3 +136,21 @@ fn index() {}
 command!(mkv --fs);
 
 ```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rust~Macros](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Macros.md) 
+
+### #is_/same_as :: [Rust~Macros.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Macros.public.md) 
+
+### #is_/same_as :: [Rust~Macros.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Macros.internal.md) 
+
+### #is_/same_as :: [Rust~Macros.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Macros.protect.md) 
+
+### #is_/same_as :: [Rust~Macros.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Macros.private.md) 
+
+### #is_/same_as :: [Rust~Macros.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Macros.personal.md) 
+
+### #is_/same_as :: [Rust~Macros.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Macros.secret.md)
+

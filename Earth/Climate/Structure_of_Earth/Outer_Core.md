@@ -21,3 +21,22 @@ instance_of: "[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20outer%20core) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Outer_Core](/_Standards/Earth/Climate/Structure_of_Earth/Outer_Core.md) 
+
+### #is_/same_as :: [Outer_Core.public](/_public/Earth/Climate/Structure_of_Earth/Outer_Core.public.md) 
+
+### #is_/same_as :: [Outer_Core.internal](/_internal/Earth/Climate/Structure_of_Earth/Outer_Core.internal.md) 
+
+### #is_/same_as :: [Outer_Core.protect](/_protect/Earth/Climate/Structure_of_Earth/Outer_Core.protect.md) 
+
+### #is_/same_as :: [Outer_Core.private](/_private/Earth/Climate/Structure_of_Earth/Outer_Core.private.md) 
+
+### #is_/same_as :: [Outer_Core.personal](/_personal/Earth/Climate/Structure_of_Earth/Outer_Core.personal.md) 
+
+### #is_/same_as :: [Outer_Core.secret](/_secret/Earth/Climate/Structure_of_Earth/Outer_Core.secret.md)
+

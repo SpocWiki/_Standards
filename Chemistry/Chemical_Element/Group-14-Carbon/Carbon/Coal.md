@@ -73,3 +73,22 @@ IPTC_NewsCode: mediatopic/20000258
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coal](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.md) 
+
+### #is_/same_as :: [Coal.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.public.md) 
+
+### #is_/same_as :: [Coal.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.internal.md) 
+
+### #is_/same_as :: [Coal.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.protect.md) 
+
+### #is_/same_as :: [Coal.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.private.md) 
+
+### #is_/same_as :: [Coal.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.personal.md) 
+
+### #is_/same_as :: [Coal.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.secret.md)
+

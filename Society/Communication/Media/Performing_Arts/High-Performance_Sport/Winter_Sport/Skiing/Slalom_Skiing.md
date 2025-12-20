@@ -28,3 +28,22 @@ Commons_category: Slalom skiing
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Slalom_Skiing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.md) 
+
+### #is_/same_as :: [Slalom_Skiing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.public.md) 
+
+### #is_/same_as :: [Slalom_Skiing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.internal.md) 
+
+### #is_/same_as :: [Slalom_Skiing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.protect.md) 
+
+### #is_/same_as :: [Slalom_Skiing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.private.md) 
+
+### #is_/same_as :: [Slalom_Skiing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.personal.md) 
+
+### #is_/same_as :: [Slalom_Skiing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.secret.md)
+

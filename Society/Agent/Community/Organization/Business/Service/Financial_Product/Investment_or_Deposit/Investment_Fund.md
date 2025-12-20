@@ -41,17 +41,17 @@ A company or fund that gathers capital from a number of investors to create a po
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Investment_Fund](Investment_Fund.md) 
+### #is_/same_as :: [Investment_Fund](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.md) 
 
-### #is_/same_as :: [investment_fund.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.public.md) 
+### #is_/same_as :: [Investment_Fund.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.public.md) 
 
-### #is_/same_as :: [investment_fund.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.internal.md) 
+### #is_/same_as :: [Investment_Fund.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.internal.md) 
 
-### #is_/same_as :: [investment_fund.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.protect.md) 
+### #is_/same_as :: [Investment_Fund.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.protect.md) 
 
-### #is_/same_as :: [investment_fund.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.private.md) 
+### #is_/same_as :: [Investment_Fund.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.private.md) 
 
-### #is_/same_as :: [investment_fund.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.personal.md) 
+### #is_/same_as :: [Investment_Fund.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.personal.md) 
 
-### #is_/same_as :: [investment_fund.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.secret.md)
+### #is_/same_as :: [Investment_Fund.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Investment_Fund.secret.md)
 

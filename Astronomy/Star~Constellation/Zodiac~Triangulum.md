@@ -42,6 +42,7 @@ official_name: Triangulum
 
 #is_/same_as :: [[../../WikiData/WD~Triangulum,10565|WD~Triangulum,10565]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Triangulum](/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum.md) 

@@ -51,3 +51,22 @@ Commons_category: Harrows
 > [Wikipedia](https://en.wikipedia.org/wiki/Harrow%20(tool)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harrow(Tool)](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).md) 
+
+### #is_/same_as :: [Harrow(Tool).public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).public.md) 
+
+### #is_/same_as :: [Harrow(Tool).internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).internal.md) 
+
+### #is_/same_as :: [Harrow(Tool).protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).protect.md) 
+
+### #is_/same_as :: [Harrow(Tool).private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).private.md) 
+
+### #is_/same_as :: [Harrow(Tool).personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).personal.md) 
+
+### #is_/same_as :: [Harrow(Tool).secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Harrow(Tool).secret.md)
+

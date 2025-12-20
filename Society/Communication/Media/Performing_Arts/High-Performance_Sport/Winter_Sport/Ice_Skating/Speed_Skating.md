@@ -46,3 +46,22 @@ IPTC_NewsCode: mediatopic/20001067
 > [Wikipedia](https://en.wikipedia.org/wiki/Speed%20skating) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Speed_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Speed_Skating.md) 
+
+### #is_/same_as :: [Speed_Skating.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Speed_Skating.public.md) 
+
+### #is_/same_as :: [Speed_Skating.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Speed_Skating.internal.md) 
+
+### #is_/same_as :: [Speed_Skating.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Speed_Skating.protect.md) 
+
+### #is_/same_as :: [Speed_Skating.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Speed_Skating.private.md) 
+
+### #is_/same_as :: [Speed_Skating.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Speed_Skating.personal.md) 
+
+### #is_/same_as :: [Speed_Skating.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Speed_Skating.secret.md)
+

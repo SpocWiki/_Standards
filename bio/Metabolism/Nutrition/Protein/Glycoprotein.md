@@ -42,3 +42,22 @@ Commons_category: Glycoproteins
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Glycoprotein) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Glycoprotein](/_Standards/bio/Metabolism/Nutrition/Protein/Glycoprotein.md) 
+
+### #is_/same_as :: [Glycoprotein.public](/_public/bio/Metabolism/Nutrition/Protein/Glycoprotein.public.md) 
+
+### #is_/same_as :: [Glycoprotein.internal](/_internal/bio/Metabolism/Nutrition/Protein/Glycoprotein.internal.md) 
+
+### #is_/same_as :: [Glycoprotein.protect](/_protect/bio/Metabolism/Nutrition/Protein/Glycoprotein.protect.md) 
+
+### #is_/same_as :: [Glycoprotein.private](/_private/bio/Metabolism/Nutrition/Protein/Glycoprotein.private.md) 
+
+### #is_/same_as :: [Glycoprotein.personal](/_personal/bio/Metabolism/Nutrition/Protein/Glycoprotein.personal.md) 
+
+### #is_/same_as :: [Glycoprotein.secret](/_secret/bio/Metabolism/Nutrition/Protein/Glycoprotein.secret.md)
+

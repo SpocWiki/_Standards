@@ -66,3 +66,22 @@ Unicode_character: 🏅
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Medal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medallion](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.md) 
+
+### #is_/same_as :: [Medallion.public](/_public/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.public.md) 
+
+### #is_/same_as :: [Medallion.internal](/_internal/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.internal.md) 
+
+### #is_/same_as :: [Medallion.protect](/_protect/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.protect.md) 
+
+### #is_/same_as :: [Medallion.private](/_private/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.private.md) 
+
+### #is_/same_as :: [Medallion.personal](/_personal/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.personal.md) 
+
+### #is_/same_as :: [Medallion.secret](/_secret/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.secret.md)
+

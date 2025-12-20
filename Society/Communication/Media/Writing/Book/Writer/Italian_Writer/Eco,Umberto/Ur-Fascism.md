@@ -119,17 +119,17 @@ in order to limit critical reasoning.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ur-Fascism](/_Standards/Society/Communication/Media/Writing/Book/Author/Eco,Umberto/Ur-Fascism.md) 
+### #is_/same_as :: [Ur-Fascism](/_Standards/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Ur-Fascism.md) 
 
-### #is_/same_as :: [Ur-Fascism.public](/_public/Society/Communication/Media/Writing/Book/Author/Eco,Umberto/Ur-Fascism.public.md) 
+### #is_/same_as :: [Ur-Fascism.public](/_public/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Ur-Fascism.public.md) 
 
-### #is_/same_as :: [Ur-Fascism.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Eco,Umberto/Ur-Fascism.internal.md) 
+### #is_/same_as :: [Ur-Fascism.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Ur-Fascism.internal.md) 
 
-### #is_/same_as :: [Ur-Fascism.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Eco,Umberto/Ur-Fascism.protect.md) 
+### #is_/same_as :: [Ur-Fascism.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Ur-Fascism.protect.md) 
 
-### #is_/same_as :: [Ur-Fascism.private](/_private/Society/Communication/Media/Writing/Book/Author/Eco,Umberto/Ur-Fascism.private.md) 
+### #is_/same_as :: [Ur-Fascism.private](/_private/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Ur-Fascism.private.md) 
 
-### #is_/same_as :: [Ur-Fascism.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Eco,Umberto/Ur-Fascism.personal.md) 
+### #is_/same_as :: [Ur-Fascism.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Ur-Fascism.personal.md) 
 
-### #is_/same_as :: [Ur-Fascism.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Eco,Umberto/Ur-Fascism.secret.md)
+### #is_/same_as :: [Ur-Fascism.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Eco,Umberto/Ur-Fascism.secret.md)
 

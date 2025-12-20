@@ -52,3 +52,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Villa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Villa](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.md) 
+
+### #is_/same_as :: [Villa.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.public.md) 
+
+### #is_/same_as :: [Villa.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.internal.md) 
+
+### #is_/same_as :: [Villa.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.protect.md) 
+
+### #is_/same_as :: [Villa.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.private.md) 
+
+### #is_/same_as :: [Villa.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.personal.md) 
+
+### #is_/same_as :: [Villa.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.secret.md)
+

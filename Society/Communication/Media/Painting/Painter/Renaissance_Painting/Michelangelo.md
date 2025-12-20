@@ -247,17 +247,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Michelangelo](/_Standards/Society/Communication/Media/Painting/Painter/Michelangelo.md) 
+### #is_/same_as :: [Michelangelo](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Michelangelo.md) 
 
-### #is_/same_as :: [Michelangelo.public](/_public/Society/Communication/Media/Painting/Painter/Michelangelo.public.md) 
+### #is_/same_as :: [Michelangelo.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Michelangelo.public.md) 
 
-### #is_/same_as :: [Michelangelo.internal](/_internal/Society/Communication/Media/Painting/Painter/Michelangelo.internal.md) 
+### #is_/same_as :: [Michelangelo.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Michelangelo.internal.md) 
 
-### #is_/same_as :: [Michelangelo.protect](/_protect/Society/Communication/Media/Painting/Painter/Michelangelo.protect.md) 
+### #is_/same_as :: [Michelangelo.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Michelangelo.protect.md) 
 
-### #is_/same_as :: [Michelangelo.private](/_private/Society/Communication/Media/Painting/Painter/Michelangelo.private.md) 
+### #is_/same_as :: [Michelangelo.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Michelangelo.private.md) 
 
-### #is_/same_as :: [Michelangelo.personal](/_personal/Society/Communication/Media/Painting/Painter/Michelangelo.personal.md) 
+### #is_/same_as :: [Michelangelo.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Michelangelo.personal.md) 
 
-### #is_/same_as :: [Michelangelo.secret](/_secret/Society/Communication/Media/Painting/Painter/Michelangelo.secret.md)
+### #is_/same_as :: [Michelangelo.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Michelangelo.secret.md)
 

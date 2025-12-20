@@ -45,17 +45,17 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"2010HaitiEarthquake
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [2010-Haiti_earthquake](/_Standards/Society/Disaster/2010-Haiti_earthquake.md) 
+### #is_/same_as :: [2010-Haiti_earthquake](/_Standards/Society/Disaster/Natural_Disaster/Earthquake/2010-Haiti_earthquake.md) 
 
-### #is_/same_as :: [2010-Haiti_earthquake.public](/_public/Society/Disaster/2010-Haiti_earthquake.public.md) 
+### #is_/same_as :: [2010-Haiti_earthquake.public](/_public/Society/Disaster/Natural_Disaster/Earthquake/2010-Haiti_earthquake.public.md) 
 
-### #is_/same_as :: [2010-Haiti_earthquake.internal](/_internal/Society/Disaster/2010-Haiti_earthquake.internal.md) 
+### #is_/same_as :: [2010-Haiti_earthquake.internal](/_internal/Society/Disaster/Natural_Disaster/Earthquake/2010-Haiti_earthquake.internal.md) 
 
-### #is_/same_as :: [2010-Haiti_earthquake.protect](/_protect/Society/Disaster/2010-Haiti_earthquake.protect.md) 
+### #is_/same_as :: [2010-Haiti_earthquake.protect](/_protect/Society/Disaster/Natural_Disaster/Earthquake/2010-Haiti_earthquake.protect.md) 
 
-### #is_/same_as :: [2010-Haiti_earthquake.private](/_private/Society/Disaster/2010-Haiti_earthquake.private.md) 
+### #is_/same_as :: [2010-Haiti_earthquake.private](/_private/Society/Disaster/Natural_Disaster/Earthquake/2010-Haiti_earthquake.private.md) 
 
-### #is_/same_as :: [2010-Haiti_earthquake.personal](/_personal/Society/Disaster/2010-Haiti_earthquake.personal.md) 
+### #is_/same_as :: [2010-Haiti_earthquake.personal](/_personal/Society/Disaster/Natural_Disaster/Earthquake/2010-Haiti_earthquake.personal.md) 
 
-### #is_/same_as :: [2010-Haiti_earthquake.secret](/_secret/Society/Disaster/2010-Haiti_earthquake.secret.md)
+### #is_/same_as :: [2010-Haiti_earthquake.secret](/_secret/Society/Disaster/Natural_Disaster/Earthquake/2010-Haiti_earthquake.secret.md)
 

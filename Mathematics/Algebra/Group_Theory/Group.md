@@ -96,3 +96,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20(mathematics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Group](/_Standards/Mathematics/Algebra/Group_Theory/Group.md) 
+
+### #is_/same_as :: [Group.public](/_public/Mathematics/Algebra/Group_Theory/Group.public.md) 
+
+### #is_/same_as :: [Group.internal](/_internal/Mathematics/Algebra/Group_Theory/Group.internal.md) 
+
+### #is_/same_as :: [Group.protect](/_protect/Mathematics/Algebra/Group_Theory/Group.protect.md) 
+
+### #is_/same_as :: [Group.private](/_private/Mathematics/Algebra/Group_Theory/Group.private.md) 
+
+### #is_/same_as :: [Group.personal](/_personal/Mathematics/Algebra/Group_Theory/Group.personal.md) 
+
+### #is_/same_as :: [Group.secret](/_secret/Mathematics/Algebra/Group_Theory/Group.secret.md)
+

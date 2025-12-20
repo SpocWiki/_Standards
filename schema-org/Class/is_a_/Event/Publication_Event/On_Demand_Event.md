@@ -39,17 +39,17 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [on_demand_event](/_Standards/schema-org/Class/is_a_/event/publication_event/on_demand_event.md) 
+### #is_/same_as :: [On_Demand_Event](/_Standards/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.md) 
 
-### #is_/same_as :: [on_demand_event.public](/_public/schema-org/Class/is_a_/event/publication_event/on_demand_event.public.md) 
+### #is_/same_as :: [On_Demand_Event.public](/_public/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.public.md) 
 
-### #is_/same_as :: [on_demand_event.internal](/_internal/schema-org/Class/is_a_/event/publication_event/on_demand_event.internal.md) 
+### #is_/same_as :: [On_Demand_Event.internal](/_internal/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.internal.md) 
 
-### #is_/same_as :: [on_demand_event.protect](/_protect/schema-org/Class/is_a_/event/publication_event/on_demand_event.protect.md) 
+### #is_/same_as :: [On_Demand_Event.protect](/_protect/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.protect.md) 
 
-### #is_/same_as :: [on_demand_event.private](/_private/schema-org/Class/is_a_/event/publication_event/on_demand_event.private.md) 
+### #is_/same_as :: [On_Demand_Event.private](/_private/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.private.md) 
 
-### #is_/same_as :: [on_demand_event.personal](/_personal/schema-org/Class/is_a_/event/publication_event/on_demand_event.personal.md) 
+### #is_/same_as :: [On_Demand_Event.personal](/_personal/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.personal.md) 
 
-### #is_/same_as :: [on_demand_event.secret](/_secret/schema-org/Class/is_a_/event/publication_event/on_demand_event.secret.md)
+### #is_/same_as :: [On_Demand_Event.secret](/_secret/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.secret.md)
 

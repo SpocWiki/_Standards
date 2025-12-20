@@ -73,3 +73,22 @@ short_name:
 > are compared to the physical quantity absorbed dose measured by the unit gray (Gy).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sievert) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sievert](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.md) 
+
+### #is_/same_as :: [Sievert.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.public.md) 
+
+### #is_/same_as :: [Sievert.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.internal.md) 
+
+### #is_/same_as :: [Sievert.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.protect.md) 
+
+### #is_/same_as :: [Sievert.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.private.md) 
+
+### #is_/same_as :: [Sievert.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.personal.md) 
+
+### #is_/same_as :: [Sievert.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.secret.md)
+

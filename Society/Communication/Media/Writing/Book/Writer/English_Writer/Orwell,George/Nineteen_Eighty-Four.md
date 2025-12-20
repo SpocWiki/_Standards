@@ -153,17 +153,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/1984%20first%20edition
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nineteen_Eighty-Four](/_Standards/Society/Communication/Media/Writing/Book/Author/Orwell,George/Nineteen_Eighty-Four.md) 
+### #is_/same_as :: [Nineteen_Eighty-Four](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Nineteen_Eighty-Four.md) 
 
-### #is_/same_as :: [Nineteen_Eighty-Four.public](/_public/Society/Communication/Media/Writing/Book/Author/Orwell,George/Nineteen_Eighty-Four.public.md) 
+### #is_/same_as :: [Nineteen_Eighty-Four.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Nineteen_Eighty-Four.public.md) 
 
-### #is_/same_as :: [Nineteen_Eighty-Four.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Orwell,George/Nineteen_Eighty-Four.internal.md) 
+### #is_/same_as :: [Nineteen_Eighty-Four.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Nineteen_Eighty-Four.internal.md) 
 
-### #is_/same_as :: [Nineteen_Eighty-Four.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Orwell,George/Nineteen_Eighty-Four.protect.md) 
+### #is_/same_as :: [Nineteen_Eighty-Four.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Nineteen_Eighty-Four.protect.md) 
 
-### #is_/same_as :: [Nineteen_Eighty-Four.private](/_private/Society/Communication/Media/Writing/Book/Author/Orwell,George/Nineteen_Eighty-Four.private.md) 
+### #is_/same_as :: [Nineteen_Eighty-Four.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Nineteen_Eighty-Four.private.md) 
 
-### #is_/same_as :: [Nineteen_Eighty-Four.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Orwell,George/Nineteen_Eighty-Four.personal.md) 
+### #is_/same_as :: [Nineteen_Eighty-Four.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Nineteen_Eighty-Four.personal.md) 
 
-### #is_/same_as :: [Nineteen_Eighty-Four.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Orwell,George/Nineteen_Eighty-Four.secret.md)
+### #is_/same_as :: [Nineteen_Eighty-Four.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Nineteen_Eighty-Four.secret.md)
 

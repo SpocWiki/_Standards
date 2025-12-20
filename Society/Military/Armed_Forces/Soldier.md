@@ -75,3 +75,22 @@ name: GI
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soldier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soldier](/_Standards/Society/Military/Armed_Forces/Soldier.md) 
+
+### #is_/same_as :: [Soldier.public](/_public/Society/Military/Armed_Forces/Soldier.public.md) 
+
+### #is_/same_as :: [Soldier.internal](/_internal/Society/Military/Armed_Forces/Soldier.internal.md) 
+
+### #is_/same_as :: [Soldier.protect](/_protect/Society/Military/Armed_Forces/Soldier.protect.md) 
+
+### #is_/same_as :: [Soldier.private](/_private/Society/Military/Armed_Forces/Soldier.private.md) 
+
+### #is_/same_as :: [Soldier.personal](/_personal/Society/Military/Armed_Forces/Soldier.personal.md) 
+
+### #is_/same_as :: [Soldier.secret](/_secret/Society/Military/Armed_Forces/Soldier.secret.md)
+

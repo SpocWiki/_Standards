@@ -53,3 +53,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/GOBO.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oboe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oboe](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Oboe.md) 
+
+### #is_/same_as :: [Oboe.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Oboe.public.md) 
+
+### #is_/same_as :: [Oboe.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Oboe.internal.md) 
+
+### #is_/same_as :: [Oboe.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Oboe.protect.md) 
+
+### #is_/same_as :: [Oboe.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Oboe.private.md) 
+
+### #is_/same_as :: [Oboe.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Oboe.personal.md) 
+
+### #is_/same_as :: [Oboe.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Oboe.secret.md)
+

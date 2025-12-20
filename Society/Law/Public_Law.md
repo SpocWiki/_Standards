@@ -38,3 +38,22 @@ Commons_category: Public law
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20law) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Public_Law](/_Standards/Society/Law/Public_Law.md) 
+
+### #is_/same_as :: [Public_Law.public](/_public/Society/Law/Public_Law.public.md) 
+
+### #is_/same_as :: [Public_Law.internal](/_internal/Society/Law/Public_Law.internal.md) 
+
+### #is_/same_as :: [Public_Law.protect](/_protect/Society/Law/Public_Law.protect.md) 
+
+### #is_/same_as :: [Public_Law.private](/_private/Society/Law/Public_Law.private.md) 
+
+### #is_/same_as :: [Public_Law.personal](/_personal/Society/Law/Public_Law.personal.md) 
+
+### #is_/same_as :: [Public_Law.secret](/_secret/Society/Law/Public_Law.secret.md)
+

@@ -46,3 +46,22 @@ Commons_category: Fundamental theorem of calculus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fundamental%20theorem%20of%20calculus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Calculus](/_Standards/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Calculus.public](/_public/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.public.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Calculus.internal](/_internal/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.internal.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Calculus.protect](/_protect/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.protect.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Calculus.private](/_private/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.private.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Calculus.personal](/_personal/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.personal.md) 
+
+### #is_/same_as :: [Fundamental_Theorem_of_Calculus.secret](/_secret/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.secret.md)
+

@@ -109,3 +109,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/TRIKARBONOVIH_KISLOT_TSIKL.h
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Citric%20acid%20cycle)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tricarboxylic_Acid_Cycle](/_Standards/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.md) 
+
+### #is_/same_as :: [Tricarboxylic_Acid_Cycle.public](/_public/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.public.md) 
+
+### #is_/same_as :: [Tricarboxylic_Acid_Cycle.internal](/_internal/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.internal.md) 
+
+### #is_/same_as :: [Tricarboxylic_Acid_Cycle.protect](/_protect/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.protect.md) 
+
+### #is_/same_as :: [Tricarboxylic_Acid_Cycle.private](/_private/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.private.md) 
+
+### #is_/same_as :: [Tricarboxylic_Acid_Cycle.personal](/_personal/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.personal.md) 
+
+### #is_/same_as :: [Tricarboxylic_Acid_Cycle.secret](/_secret/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.secret.md)
+

@@ -42,3 +42,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fictitious%20force) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pseudo-Force](/_Standards/Science/Physics/Force/Pseudo-Force.md) 
+
+### #is_/same_as :: [Pseudo-Force.public](/_public/Science/Physics/Force/Pseudo-Force.public.md) 
+
+### #is_/same_as :: [Pseudo-Force.internal](/_internal/Science/Physics/Force/Pseudo-Force.internal.md) 
+
+### #is_/same_as :: [Pseudo-Force.protect](/_protect/Science/Physics/Force/Pseudo-Force.protect.md) 
+
+### #is_/same_as :: [Pseudo-Force.private](/_private/Science/Physics/Force/Pseudo-Force.private.md) 
+
+### #is_/same_as :: [Pseudo-Force.personal](/_personal/Science/Physics/Force/Pseudo-Force.personal.md) 
+
+### #is_/same_as :: [Pseudo-Force.secret](/_secret/Science/Physics/Force/Pseudo-Force.secret.md)
+

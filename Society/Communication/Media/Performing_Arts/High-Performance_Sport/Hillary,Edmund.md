@@ -103,3 +103,22 @@ date_of_birth: 1919-07-20T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edmund%20Hillary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hillary,Edmund](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Hillary,Edmund.md) 
+
+### #is_/same_as :: [Hillary,Edmund.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Hillary,Edmund.public.md) 
+
+### #is_/same_as :: [Hillary,Edmund.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Hillary,Edmund.internal.md) 
+
+### #is_/same_as :: [Hillary,Edmund.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Hillary,Edmund.protect.md) 
+
+### #is_/same_as :: [Hillary,Edmund.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Hillary,Edmund.private.md) 
+
+### #is_/same_as :: [Hillary,Edmund.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Hillary,Edmund.personal.md) 
+
+### #is_/same_as :: [Hillary,Edmund.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Hillary,Edmund.secret.md)
+

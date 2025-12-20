@@ -153,3 +153,22 @@ work_period_end_: 2020-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ennio%20Morricone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Morricone,Ennio](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.md) 
+
+### #is_/same_as :: [Morricone,Ennio.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.public.md) 
+
+### #is_/same_as :: [Morricone,Ennio.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.internal.md) 
+
+### #is_/same_as :: [Morricone,Ennio.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.protect.md) 
+
+### #is_/same_as :: [Morricone,Ennio.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.private.md) 
+
+### #is_/same_as :: [Morricone,Ennio.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.personal.md) 
+
+### #is_/same_as :: [Morricone,Ennio.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.secret.md)
+

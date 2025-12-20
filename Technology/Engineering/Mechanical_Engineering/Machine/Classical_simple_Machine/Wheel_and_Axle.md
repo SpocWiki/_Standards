@@ -37,3 +37,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheelaxle%20quackenbos
 > [Wikipedia](https://en.wikipedia.org/wiki/Wheel%20and%20axle) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wheel_and_Axle](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.md) 
+
+### #is_/same_as :: [Wheel_and_Axle.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.public.md) 
+
+### #is_/same_as :: [Wheel_and_Axle.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.internal.md) 
+
+### #is_/same_as :: [Wheel_and_Axle.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.protect.md) 
+
+### #is_/same_as :: [Wheel_and_Axle.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.private.md) 
+
+### #is_/same_as :: [Wheel_and_Axle.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.personal.md) 
+
+### #is_/same_as :: [Wheel_and_Axle.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.secret.md)
+

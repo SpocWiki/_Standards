@@ -35,3 +35,22 @@ has_id_wikidata: Q602136
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coding%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coding_theory](/_Standards/Language/Writing_System/Coding_theory.md) 
+
+### #is_/same_as :: [Coding_theory.public](/_public/Language/Writing_System/Coding_theory.public.md) 
+
+### #is_/same_as :: [Coding_theory.internal](/_internal/Language/Writing_System/Coding_theory.internal.md) 
+
+### #is_/same_as :: [Coding_theory.protect](/_protect/Language/Writing_System/Coding_theory.protect.md) 
+
+### #is_/same_as :: [Coding_theory.private](/_private/Language/Writing_System/Coding_theory.private.md) 
+
+### #is_/same_as :: [Coding_theory.personal](/_personal/Language/Writing_System/Coding_theory.personal.md) 
+
+### #is_/same_as :: [Coding_theory.secret](/_secret/Language/Writing_System/Coding_theory.secret.md)
+

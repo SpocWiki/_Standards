@@ -89,19 +89,20 @@ A radio station.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio%20broadcasting)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Station](Radio_Station.md) 
+### #is_/same_as :: [Radio_Station](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.md) 
 
-### #is_/same_as :: [Radio_Station.public](/_public/Society/Organization/Local_Business/Radio_Station.public.md) 
+### #is_/same_as :: [Radio_Station.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.public.md) 
 
-### #is_/same_as :: [Radio_Station.internal](/_internal/Society/Organization/Local_Business/Radio_Station.internal.md) 
+### #is_/same_as :: [Radio_Station.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.internal.md) 
 
-### #is_/same_as :: [Radio_Station.protect](/_protect/Society/Organization/Local_Business/Radio_Station.protect.md) 
+### #is_/same_as :: [Radio_Station.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.protect.md) 
 
-### #is_/same_as :: [Radio_Station.private](/_private/Society/Organization/Local_Business/Radio_Station.private.md) 
+### #is_/same_as :: [Radio_Station.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.private.md) 
 
-### #is_/same_as :: [Radio_Station.personal](/_personal/Society/Organization/Local_Business/Radio_Station.personal.md) 
+### #is_/same_as :: [Radio_Station.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.personal.md) 
 
-### #is_/same_as :: [Radio_Station.secret](/_secret/Society/Organization/Local_Business/Radio_Station.secret.md)
+### #is_/same_as :: [Radio_Station.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Radio_Station.secret.md)
 

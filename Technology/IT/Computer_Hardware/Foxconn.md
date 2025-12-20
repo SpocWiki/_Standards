@@ -41,3 +41,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Foxconn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Foxconn](/_Standards/Technology/IT/Computer_Hardware/Foxconn.md) 
+
+### #is_/same_as :: [Foxconn.public](/_public/Technology/IT/Computer_Hardware/Foxconn.public.md) 
+
+### #is_/same_as :: [Foxconn.internal](/_internal/Technology/IT/Computer_Hardware/Foxconn.internal.md) 
+
+### #is_/same_as :: [Foxconn.protect](/_protect/Technology/IT/Computer_Hardware/Foxconn.protect.md) 
+
+### #is_/same_as :: [Foxconn.private](/_private/Technology/IT/Computer_Hardware/Foxconn.private.md) 
+
+### #is_/same_as :: [Foxconn.personal](/_personal/Technology/IT/Computer_Hardware/Foxconn.personal.md) 
+
+### #is_/same_as :: [Foxconn.secret](/_secret/Technology/IT/Computer_Hardware/Foxconn.secret.md)
+

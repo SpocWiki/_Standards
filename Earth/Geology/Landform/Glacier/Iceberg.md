@@ -28,3 +28,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iceberg) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Iceberg](/_Standards/Earth/Geology/Landform/Glacier/Iceberg.md) 
+
+### #is_/same_as :: [Iceberg.public](/_public/Earth/Geology/Landform/Glacier/Iceberg.public.md) 
+
+### #is_/same_as :: [Iceberg.internal](/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal.md) 
+
+### #is_/same_as :: [Iceberg.protect](/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect.md) 
+
+### #is_/same_as :: [Iceberg.private](/_private/Earth/Geology/Landform/Glacier/Iceberg.private.md) 
+
+### #is_/same_as :: [Iceberg.personal](/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal.md) 
+
+### #is_/same_as :: [Iceberg.secret](/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret.md)
+

@@ -73,3 +73,22 @@ Regensburg_Classification: ND 5400 - ND 5830
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heraldry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heraldry](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Heraldry.md) 
+
+### #is_/same_as :: [Heraldry.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Heraldry.public.md) 
+
+### #is_/same_as :: [Heraldry.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Heraldry.internal.md) 
+
+### #is_/same_as :: [Heraldry.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Heraldry.protect.md) 
+
+### #is_/same_as :: [Heraldry.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Heraldry.private.md) 
+
+### #is_/same_as :: [Heraldry.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Heraldry.personal.md) 
+
+### #is_/same_as :: [Heraldry.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Heraldry.secret.md)
+

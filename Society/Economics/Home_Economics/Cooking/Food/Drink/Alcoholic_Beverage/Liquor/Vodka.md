@@ -66,3 +66,22 @@ The word _vodka_ is a [diminutive](https://en.wikipedia.org/wiki/Diminutive "Dim
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vodka)   
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vodka](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.md) 
+
+### #is_/same_as :: [Vodka.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.public.md) 
+
+### #is_/same_as :: [Vodka.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.internal.md) 
+
+### #is_/same_as :: [Vodka.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.protect.md) 
+
+### #is_/same_as :: [Vodka.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.private.md) 
+
+### #is_/same_as :: [Vodka.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.personal.md) 
+
+### #is_/same_as :: [Vodka.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.secret.md)
+

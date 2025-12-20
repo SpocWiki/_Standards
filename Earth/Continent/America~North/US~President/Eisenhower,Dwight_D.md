@@ -249,3 +249,22 @@ Plex_person_key: 5d77683b961905001eb951ed
 > [Wikipedia](https://en.wikipedia.org/wiki/Dwight%20D.%20Eisenhower)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eisenhower,Dwight_D](/_Standards/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.md) 
+
+### #is_/same_as :: [Eisenhower,Dwight_D.public](/_public/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.public.md) 
+
+### #is_/same_as :: [Eisenhower,Dwight_D.internal](/_internal/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.internal.md) 
+
+### #is_/same_as :: [Eisenhower,Dwight_D.protect](/_protect/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.protect.md) 
+
+### #is_/same_as :: [Eisenhower,Dwight_D.private](/_private/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.private.md) 
+
+### #is_/same_as :: [Eisenhower,Dwight_D.personal](/_personal/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.personal.md) 
+
+### #is_/same_as :: [Eisenhower,Dwight_D.secret](/_secret/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.secret.md)
+

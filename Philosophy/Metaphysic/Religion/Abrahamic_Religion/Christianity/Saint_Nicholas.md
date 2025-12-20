@@ -121,3 +121,22 @@ Libris_URI: sq4670fb25bjlcg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Nicholas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saint_Nicholas](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.md) 
+
+### #is_/same_as :: [Saint_Nicholas.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.public.md) 
+
+### #is_/same_as :: [Saint_Nicholas.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.internal.md) 
+
+### #is_/same_as :: [Saint_Nicholas.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.protect.md) 
+
+### #is_/same_as :: [Saint_Nicholas.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.private.md) 
+
+### #is_/same_as :: [Saint_Nicholas.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.personal.md) 
+
+### #is_/same_as :: [Saint_Nicholas.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.secret.md)
+

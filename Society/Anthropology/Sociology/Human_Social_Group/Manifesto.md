@@ -38,3 +38,22 @@ Commons_category: Manifestos
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manifesto) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Manifesto](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.md) 
+
+### #is_/same_as :: [Manifesto.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.public.md) 
+
+### #is_/same_as :: [Manifesto.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.internal.md) 
+
+### #is_/same_as :: [Manifesto.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.protect.md) 
+
+### #is_/same_as :: [Manifesto.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.private.md) 
+
+### #is_/same_as :: [Manifesto.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.personal.md) 
+
+### #is_/same_as :: [Manifesto.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.secret.md)
+

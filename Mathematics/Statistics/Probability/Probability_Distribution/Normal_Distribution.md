@@ -172,17 +172,17 @@ options:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Normal_Distribution](/_Standards/Mathematics/Statistics/Normal_Distribution.md) 
+### #is_/same_as :: [Normal_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.md) 
 
-### #is_/same_as :: [Normal_Distribution.public](/_public/Mathematics/Statistics/Normal_Distribution.public.md) 
+### #is_/same_as :: [Normal_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.public.md) 
 
-### #is_/same_as :: [Normal_Distribution.internal](/_internal/Mathematics/Statistics/Normal_Distribution.internal.md) 
+### #is_/same_as :: [Normal_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.internal.md) 
 
-### #is_/same_as :: [Normal_Distribution.protect](/_protect/Mathematics/Statistics/Normal_Distribution.protect.md) 
+### #is_/same_as :: [Normal_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.protect.md) 
 
-### #is_/same_as :: [Normal_Distribution.private](/_private/Mathematics/Statistics/Normal_Distribution.private.md) 
+### #is_/same_as :: [Normal_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.private.md) 
 
-### #is_/same_as :: [Normal_Distribution.personal](/_personal/Mathematics/Statistics/Normal_Distribution.personal.md) 
+### #is_/same_as :: [Normal_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.personal.md) 
 
-### #is_/same_as :: [Normal_Distribution.secret](/_secret/Mathematics/Statistics/Normal_Distribution.secret.md)
+### #is_/same_as :: [Normal_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.secret.md)
 

@@ -49,3 +49,22 @@ Dewey_Decimal_Classification: "305.235"
 > [Wikipedia](https://en.wikipedia.org/wiki/Youth) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Youth](/_Standards/bio/Reproduction/Developmental_Biology/Youth.md) 
+
+### #is_/same_as :: [Youth.public](/_public/bio/Reproduction/Developmental_Biology/Youth.public.md) 
+
+### #is_/same_as :: [Youth.internal](/_internal/bio/Reproduction/Developmental_Biology/Youth.internal.md) 
+
+### #is_/same_as :: [Youth.protect](/_protect/bio/Reproduction/Developmental_Biology/Youth.protect.md) 
+
+### #is_/same_as :: [Youth.private](/_private/bio/Reproduction/Developmental_Biology/Youth.private.md) 
+
+### #is_/same_as :: [Youth.personal](/_personal/bio/Reproduction/Developmental_Biology/Youth.personal.md) 
+
+### #is_/same_as :: [Youth.secret](/_secret/bio/Reproduction/Developmental_Biology/Youth.secret.md)
+

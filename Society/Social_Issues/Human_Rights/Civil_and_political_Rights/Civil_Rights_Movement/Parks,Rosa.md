@@ -148,3 +148,22 @@ date_of_birth: 1913-02-04T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rosa%20Parks) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parks,Rosa](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement/Parks,Rosa.md) 
+
+### #is_/same_as :: [Parks,Rosa.public](/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement/Parks,Rosa.public.md) 
+
+### #is_/same_as :: [Parks,Rosa.internal](/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement/Parks,Rosa.internal.md) 
+
+### #is_/same_as :: [Parks,Rosa.protect](/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement/Parks,Rosa.protect.md) 
+
+### #is_/same_as :: [Parks,Rosa.private](/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement/Parks,Rosa.private.md) 
+
+### #is_/same_as :: [Parks,Rosa.personal](/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement/Parks,Rosa.personal.md) 
+
+### #is_/same_as :: [Parks,Rosa.secret](/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement/Parks,Rosa.secret.md)
+

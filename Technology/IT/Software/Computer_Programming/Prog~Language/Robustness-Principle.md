@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Postel's law"
 - "Postel's_Law"
@@ -28,4 +28,23 @@ leading to the common[[Prog~Paradigm/Prog~OO/Variance,OO]]] of Parameters and Re
 
 This Principle, while a Staple of Internet Programming, can be exploited 
 and lead to the proliferation of accidental functionality. 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Robustness-Principle](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.md) 
+
+### #is_/same_as :: [Robustness-Principle.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.public.md) 
+
+### #is_/same_as :: [Robustness-Principle.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.internal.md) 
+
+### #is_/same_as :: [Robustness-Principle.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.protect.md) 
+
+### #is_/same_as :: [Robustness-Principle.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.private.md) 
+
+### #is_/same_as :: [Robustness-Principle.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.personal.md) 
+
+### #is_/same_as :: [Robustness-Principle.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.secret.md)
 

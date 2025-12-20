@@ -40,3 +40,22 @@ part_of: "[[_Standards/WikiData/WD~international_law,4394526]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Customary%20international%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Customary_international_Law](/_Standards/Society/Law/International_Law/Customary_international_Law.md) 
+
+### #is_/same_as :: [Customary_international_Law.public](/_public/Society/Law/International_Law/Customary_international_Law.public.md) 
+
+### #is_/same_as :: [Customary_international_Law.internal](/_internal/Society/Law/International_Law/Customary_international_Law.internal.md) 
+
+### #is_/same_as :: [Customary_international_Law.protect](/_protect/Society/Law/International_Law/Customary_international_Law.protect.md) 
+
+### #is_/same_as :: [Customary_international_Law.private](/_private/Society/Law/International_Law/Customary_international_Law.private.md) 
+
+### #is_/same_as :: [Customary_international_Law.personal](/_personal/Society/Law/International_Law/Customary_international_Law.personal.md) 
+
+### #is_/same_as :: [Customary_international_Law.secret](/_secret/Society/Law/International_Law/Customary_international_Law.secret.md)
+

@@ -229,17 +229,17 @@ DSSTOX_compound_identifier: DTXCID50930
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nicotine](Nicotine.md) 
+### #is_/same_as :: [Nicotine](/_Standards/Chemistry/Organic_Chemistry/Nicotine.md) 
 
-### #is_/same_as :: [Nicotine.public](/_public/Chemistry/organic/Nicotine.public.md) 
+### #is_/same_as :: [Nicotine.public](/_public/Chemistry/Organic_Chemistry/Nicotine.public.md) 
 
-### #is_/same_as :: [Nicotine.internal](/_internal/Chemistry/organic/Nicotine.internal.md) 
+### #is_/same_as :: [Nicotine.internal](/_internal/Chemistry/Organic_Chemistry/Nicotine.internal.md) 
 
-### #is_/same_as :: [Nicotine.protect](/_protect/Chemistry/organic/Nicotine.protect.md) 
+### #is_/same_as :: [Nicotine.protect](/_protect/Chemistry/Organic_Chemistry/Nicotine.protect.md) 
 
-### #is_/same_as :: [Nicotine.private](/_private/Chemistry/organic/Nicotine.private.md) 
+### #is_/same_as :: [Nicotine.private](/_private/Chemistry/Organic_Chemistry/Nicotine.private.md) 
 
-### #is_/same_as :: [Nicotine.personal](/_personal/Chemistry/organic/Nicotine.personal.md) 
+### #is_/same_as :: [Nicotine.personal](/_personal/Chemistry/Organic_Chemistry/Nicotine.personal.md) 
 
-### #is_/same_as :: [Nicotine.secret](/_secret/Chemistry/organic/Nicotine.secret.md)
+### #is_/same_as :: [Nicotine.secret](/_secret/Chemistry/Organic_Chemistry/Nicotine.secret.md)
 

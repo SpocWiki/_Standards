@@ -15,3 +15,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dream) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dream](/_Standards/bio/Psychology/Consciousness/Dream.md) 
+
+### #is_/same_as :: [Dream.public](/_public/bio/Psychology/Consciousness/Dream.public.md) 
+
+### #is_/same_as :: [Dream.internal](/_internal/bio/Psychology/Consciousness/Dream.internal.md) 
+
+### #is_/same_as :: [Dream.protect](/_protect/bio/Psychology/Consciousness/Dream.protect.md) 
+
+### #is_/same_as :: [Dream.private](/_private/bio/Psychology/Consciousness/Dream.private.md) 
+
+### #is_/same_as :: [Dream.personal](/_personal/bio/Psychology/Consciousness/Dream.personal.md) 
+
+### #is_/same_as :: [Dream.secret](/_secret/bio/Psychology/Consciousness/Dream.secret.md)
+

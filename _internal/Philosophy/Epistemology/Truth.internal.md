@@ -7,17 +7,17 @@ provided the Bubble is strong enough for subsidence, even in the face of competi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Truth](/_Standards/Philosophy/Epistemology/Truth.md) 
+### #is_/same_as :: [Truth.internal](/_Standards/_internal/Philosophy/Epistemology/Truth.internal.md) 
 
-### #is_/same_as :: [Truth.public](/_public/Philosophy/Epistemology/Truth.public.md) 
+### #is_/same_as :: [Truth.internal.public](/_public/_internal/Philosophy/Epistemology/Truth.internal.public.md) 
 
-### #is_/same_as :: [Truth.internal](/_internal/Philosophy/Epistemology/Truth.internal.md) 
+### #is_/same_as :: [Truth.internal.internal](/_internal/_internal/Philosophy/Epistemology/Truth.internal.internal.md) 
 
-### #is_/same_as :: [Truth.protect](/_protect/Philosophy/Epistemology/Truth.protect.md) 
+### #is_/same_as :: [Truth.internal.protect](/_protect/_internal/Philosophy/Epistemology/Truth.internal.protect.md) 
 
-### #is_/same_as :: [Truth.private](/_private/Philosophy/Epistemology/Truth.private.md) 
+### #is_/same_as :: [Truth.internal.private](/_private/_internal/Philosophy/Epistemology/Truth.internal.private.md) 
 
-### #is_/same_as :: [Truth.personal](/_personal/Philosophy/Epistemology/Truth.personal.md) 
+### #is_/same_as :: [Truth.internal.personal](/_personal/_internal/Philosophy/Epistemology/Truth.internal.personal.md) 
 
-### #is_/same_as :: [Truth.secret](/_secret/Philosophy/Epistemology/Truth.secret.md)
+### #is_/same_as :: [Truth.internal.secret](/_secret/_internal/Philosophy/Epistemology/Truth.internal.secret.md)
 

@@ -42,17 +42,17 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit_Sbbi](Nonprofit_Sbbi.md) 
+### #is_/same_as :: [Nonprofit_Sbbi](/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.md) 
 
-### #is_/same_as :: [nonprofit_sbbi.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.public.md) 
+### #is_/same_as :: [Nonprofit_Sbbi.public](/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.public.md) 
 
-### #is_/same_as :: [nonprofit_sbbi.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.internal.md) 
+### #is_/same_as :: [Nonprofit_Sbbi.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.internal.md) 
 
-### #is_/same_as :: [nonprofit_sbbi.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.protect.md) 
+### #is_/same_as :: [Nonprofit_Sbbi.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.protect.md) 
 
-### #is_/same_as :: [nonprofit_sbbi.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.private.md) 
+### #is_/same_as :: [Nonprofit_Sbbi.private](/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.private.md) 
 
-### #is_/same_as :: [nonprofit_sbbi.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.personal.md) 
+### #is_/same_as :: [Nonprofit_Sbbi.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.personal.md) 
 
-### #is_/same_as :: [nonprofit_sbbi.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.secret.md)
+### #is_/same_as :: [Nonprofit_Sbbi.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.secret.md)
 

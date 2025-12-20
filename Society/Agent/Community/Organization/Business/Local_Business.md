@@ -42,17 +42,17 @@ Examples of LocalBusiness include a restaurant, a particular branch of a restaur
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Local_Business](Local_Business.md) 
+### #is_/same_as :: [Local_Business](/_Standards/Society/Agent/Community/Organization/Business/Local_Business.md) 
 
-### #is_/same_as :: [Local_Business.public](/_public/Society/Organization/Local_Business.public.md) 
+### #is_/same_as :: [Local_Business.public](/_public/Society/Agent/Community/Organization/Business/Local_Business.public.md) 
 
-### #is_/same_as :: [Local_Business.internal](/_internal/Society/Organization/Local_Business.internal.md) 
+### #is_/same_as :: [Local_Business.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business.internal.md) 
 
-### #is_/same_as :: [Local_Business.protect](/_protect/Society/Organization/Local_Business.protect.md) 
+### #is_/same_as :: [Local_Business.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business.protect.md) 
 
-### #is_/same_as :: [Local_Business.private](/_private/Society/Organization/Local_Business.private.md) 
+### #is_/same_as :: [Local_Business.private](/_private/Society/Agent/Community/Organization/Business/Local_Business.private.md) 
 
-### #is_/same_as :: [Local_Business.personal](/_personal/Society/Organization/Local_Business.personal.md) 
+### #is_/same_as :: [Local_Business.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business.personal.md) 
 
-### #is_/same_as :: [Local_Business.secret](/_secret/Society/Organization/Local_Business.secret.md)
+### #is_/same_as :: [Local_Business.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business.secret.md)
 

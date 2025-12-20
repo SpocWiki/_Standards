@@ -43,3 +43,22 @@ PhilPapers_topic: infidelity
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Infidelity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Infidelity](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Infidelity.md) 
+
+### #is_/same_as :: [Infidelity.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Infidelity.public.md) 
+
+### #is_/same_as :: [Infidelity.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Infidelity.internal.md) 
+
+### #is_/same_as :: [Infidelity.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Infidelity.protect.md) 
+
+### #is_/same_as :: [Infidelity.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Infidelity.private.md) 
+
+### #is_/same_as :: [Infidelity.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Infidelity.personal.md) 
+
+### #is_/same_as :: [Infidelity.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Infidelity.secret.md)
+

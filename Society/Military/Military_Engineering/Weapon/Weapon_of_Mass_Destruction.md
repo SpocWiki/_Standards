@@ -41,3 +41,22 @@ Commons_category: Weapons of mass destruction
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weapon%20of%20mass%20destruction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weapon_of_Mass_Destruction](/_Standards/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.md) 
+
+### #is_/same_as :: [Weapon_of_Mass_Destruction.public](/_public/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.public.md) 
+
+### #is_/same_as :: [Weapon_of_Mass_Destruction.internal](/_internal/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.internal.md) 
+
+### #is_/same_as :: [Weapon_of_Mass_Destruction.protect](/_protect/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.protect.md) 
+
+### #is_/same_as :: [Weapon_of_Mass_Destruction.private](/_private/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.private.md) 
+
+### #is_/same_as :: [Weapon_of_Mass_Destruction.personal](/_personal/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.personal.md) 
+
+### #is_/same_as :: [Weapon_of_Mass_Destruction.secret](/_secret/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.secret.md)
+

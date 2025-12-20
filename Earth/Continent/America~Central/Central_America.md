@@ -89,3 +89,22 @@ subreddit:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20America) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Central_America](/_Standards/Earth/Continent/America~Central/Central_America.md) 
+
+### #is_/same_as :: [Central_America.public](/_public/Earth/Continent/America~Central/Central_America.public.md) 
+
+### #is_/same_as :: [Central_America.internal](/_internal/Earth/Continent/America~Central/Central_America.internal.md) 
+
+### #is_/same_as :: [Central_America.protect](/_protect/Earth/Continent/America~Central/Central_America.protect.md) 
+
+### #is_/same_as :: [Central_America.private](/_private/Earth/Continent/America~Central/Central_America.private.md) 
+
+### #is_/same_as :: [Central_America.personal](/_personal/Earth/Continent/America~Central/Central_America.personal.md) 
+
+### #is_/same_as :: [Central_America.secret](/_secret/Earth/Continent/America~Central/Central_America.secret.md)
+

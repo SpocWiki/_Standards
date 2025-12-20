@@ -136,3 +136,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Colorful%20shaded%20ma
 > Other concepts of the region exist, including the broader Middle East and North Africa (MENA), which includes states of the Maghreb and the Sudan. The term the "Greater Middle East" also includes Afghanistan, Mauritania, Pakistan, as well as parts of East Africa, and sometimes Central Asia and the South Caucasus.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20East) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Middle_East](/_Standards/Earth/Continent/Asia/Asia~West/Middle_East.md) 
+
+### #is_/same_as :: [Middle_East.public](/_public/Earth/Continent/Asia/Asia~West/Middle_East.public.md) 
+
+### #is_/same_as :: [Middle_East.internal](/_internal/Earth/Continent/Asia/Asia~West/Middle_East.internal.md) 
+
+### #is_/same_as :: [Middle_East.protect](/_protect/Earth/Continent/Asia/Asia~West/Middle_East.protect.md) 
+
+### #is_/same_as :: [Middle_East.private](/_private/Earth/Continent/Asia/Asia~West/Middle_East.private.md) 
+
+### #is_/same_as :: [Middle_East.personal](/_personal/Earth/Continent/Asia/Asia~West/Middle_East.personal.md) 
+
+### #is_/same_as :: [Middle_East.secret](/_secret/Earth/Continent/Asia/Asia~West/Middle_East.secret.md)
+

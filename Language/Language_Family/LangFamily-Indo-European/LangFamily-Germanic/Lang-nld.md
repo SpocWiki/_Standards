@@ -178,19 +178,20 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-nl](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.md) 
+### #is_/same_as :: [Lang-nld](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nld.md) 
 
-### #is_/same_as :: [Lang-nl.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.public.md) 
+### #is_/same_as :: [Lang-nld.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nld.public.md) 
 
-### #is_/same_as :: [Lang-nl.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.internal.md) 
+### #is_/same_as :: [Lang-nld.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nld.internal.md) 
 
-### #is_/same_as :: [Lang-nl.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.protect.md) 
+### #is_/same_as :: [Lang-nld.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nld.protect.md) 
 
-### #is_/same_as :: [Lang-nl.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.private.md) 
+### #is_/same_as :: [Lang-nld.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nld.private.md) 
 
-### #is_/same_as :: [Lang-nl.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.personal.md) 
+### #is_/same_as :: [Lang-nld.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nld.personal.md) 
 
-### #is_/same_as :: [Lang-nl.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.secret.md)
+### #is_/same_as :: [Lang-nld.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nld.secret.md)
 

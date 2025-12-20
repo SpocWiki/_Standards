@@ -39,17 +39,17 @@ A post office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Post_Office](Post_Office.md) 
+### #is_/same_as :: [Post_Office](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.md) 
 
-### #is_/same_as :: [Post_Office.public](/_public/Society/Organization/Local_Business/Government_Office/Post_Office.public.md) 
+### #is_/same_as :: [Post_Office.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.public.md) 
 
-### #is_/same_as :: [Post_Office.internal](/_internal/Society/Organization/Local_Business/Government_Office/Post_Office.internal.md) 
+### #is_/same_as :: [Post_Office.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.internal.md) 
 
-### #is_/same_as :: [Post_Office.protect](/_protect/Society/Organization/Local_Business/Government_Office/Post_Office.protect.md) 
+### #is_/same_as :: [Post_Office.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.protect.md) 
 
-### #is_/same_as :: [Post_Office.private](/_private/Society/Organization/Local_Business/Government_Office/Post_Office.private.md) 
+### #is_/same_as :: [Post_Office.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.private.md) 
 
-### #is_/same_as :: [Post_Office.personal](/_personal/Society/Organization/Local_Business/Government_Office/Post_Office.personal.md) 
+### #is_/same_as :: [Post_Office.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.personal.md) 
 
-### #is_/same_as :: [Post_Office.secret](/_secret/Society/Organization/Local_Business/Government_Office/Post_Office.secret.md)
+### #is_/same_as :: [Post_Office.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.secret.md)
 

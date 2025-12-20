@@ -74,3 +74,21 @@ native_label: Embraer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Embraer) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Embraer](/_Standards/Technology/Aviation/Aircraft/Embraer.md) 
+
+### #is_/same_as :: [Embraer.public](/_public/Technology/Aviation/Aircraft/Embraer.public.md) 
+
+### #is_/same_as :: [Embraer.internal](/_internal/Technology/Aviation/Aircraft/Embraer.internal.md) 
+
+### #is_/same_as :: [Embraer.protect](/_protect/Technology/Aviation/Aircraft/Embraer.protect.md) 
+
+### #is_/same_as :: [Embraer.private](/_private/Technology/Aviation/Aircraft/Embraer.private.md) 
+
+### #is_/same_as :: [Embraer.personal](/_personal/Technology/Aviation/Aircraft/Embraer.personal.md) 
+
+### #is_/same_as :: [Embraer.secret](/_secret/Technology/Aviation/Aircraft/Embraer.secret.md)
+

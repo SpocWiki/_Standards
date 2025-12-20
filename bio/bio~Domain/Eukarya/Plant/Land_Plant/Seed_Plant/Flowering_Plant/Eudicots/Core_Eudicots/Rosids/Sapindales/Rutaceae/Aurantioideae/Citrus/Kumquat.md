@@ -74,3 +74,22 @@ short_name: Kumquat
 > [Wikipedia](https://en.wikipedia.org/wiki/Kumquat) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kumquat](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Kumquat.md) 
+
+### #is_/same_as :: [Kumquat.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Kumquat.public.md) 
+
+### #is_/same_as :: [Kumquat.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Kumquat.internal.md) 
+
+### #is_/same_as :: [Kumquat.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Kumquat.protect.md) 
+
+### #is_/same_as :: [Kumquat.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Kumquat.private.md) 
+
+### #is_/same_as :: [Kumquat.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Kumquat.personal.md) 
+
+### #is_/same_as :: [Kumquat.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Kumquat.secret.md)
+

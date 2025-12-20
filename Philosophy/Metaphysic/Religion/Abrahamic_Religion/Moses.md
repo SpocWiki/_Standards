@@ -181,3 +181,22 @@ Libris_URI: 53hklwpp31dtkfd
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moses) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moses](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Moses.md) 
+
+### #is_/same_as :: [Moses.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Moses.public.md) 
+
+### #is_/same_as :: [Moses.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Moses.internal.md) 
+
+### #is_/same_as :: [Moses.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Moses.protect.md) 
+
+### #is_/same_as :: [Moses.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Moses.private.md) 
+
+### #is_/same_as :: [Moses.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Moses.personal.md) 
+
+### #is_/same_as :: [Moses.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Moses.secret.md)
+

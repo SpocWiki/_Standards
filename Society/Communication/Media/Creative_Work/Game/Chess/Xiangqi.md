@@ -71,3 +71,22 @@ Baidu_Tieba_name: 象棋
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Xiangqi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Xiangqi](/_Standards/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.md) 
+
+### #is_/same_as :: [Xiangqi.public](/_public/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.public.md) 
+
+### #is_/same_as :: [Xiangqi.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.internal.md) 
+
+### #is_/same_as :: [Xiangqi.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.protect.md) 
+
+### #is_/same_as :: [Xiangqi.private](/_private/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.private.md) 
+
+### #is_/same_as :: [Xiangqi.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.personal.md) 
+
+### #is_/same_as :: [Xiangqi.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.secret.md)
+

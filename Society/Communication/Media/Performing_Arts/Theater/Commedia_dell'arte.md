@@ -89,3 +89,22 @@ inception: http://www.wikidata.org/.well-known/genid/6c137cf332d8ff8bf18f336fcd9
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Commedia%20dell'arte) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Commedia_dell'arte](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Commedia_dell'arte.md) 
+
+### #is_/same_as :: [Commedia_dell'arte.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Commedia_dell'arte.public.md) 
+
+### #is_/same_as :: [Commedia_dell'arte.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Commedia_dell'arte.internal.md) 
+
+### #is_/same_as :: [Commedia_dell'arte.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Commedia_dell'arte.protect.md) 
+
+### #is_/same_as :: [Commedia_dell'arte.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Commedia_dell'arte.private.md) 
+
+### #is_/same_as :: [Commedia_dell'arte.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Commedia_dell'arte.personal.md) 
+
+### #is_/same_as :: [Commedia_dell'arte.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Commedia_dell'arte.secret.md)
+

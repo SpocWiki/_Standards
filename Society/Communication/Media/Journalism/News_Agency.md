@@ -50,3 +50,22 @@ Commons_category: News agencies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/News%20agency) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [News_Agency](/_Standards/Society/Communication/Media/Journalism/News_Agency.md) 
+
+### #is_/same_as :: [News_Agency.public](/_public/Society/Communication/Media/Journalism/News_Agency.public.md) 
+
+### #is_/same_as :: [News_Agency.internal](/_internal/Society/Communication/Media/Journalism/News_Agency.internal.md) 
+
+### #is_/same_as :: [News_Agency.protect](/_protect/Society/Communication/Media/Journalism/News_Agency.protect.md) 
+
+### #is_/same_as :: [News_Agency.private](/_private/Society/Communication/Media/Journalism/News_Agency.private.md) 
+
+### #is_/same_as :: [News_Agency.personal](/_personal/Society/Communication/Media/Journalism/News_Agency.personal.md) 
+
+### #is_/same_as :: [News_Agency.secret](/_secret/Society/Communication/Media/Journalism/News_Agency.secret.md)
+

@@ -28,3 +28,21 @@ image:
 > After the Last Glacial Maximum, North Eurasian populations migrated to the Americas about 20,000 years ago.  Arctic Canada and Greenland were reached by the Paleo-Eskimo expansion around 4,000 years ago. Finally, Polynesia was populated within the past 2,000 years in the last wave of the Austronesian expansion.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20human%20migrations)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Early_human_migrations](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_human_migrations.md) 
+
+### #is_/same_as :: [Early_human_migrations.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_human_migrations.public.md) 
+
+### #is_/same_as :: [Early_human_migrations.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_human_migrations.internal.md) 
+
+### #is_/same_as :: [Early_human_migrations.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_human_migrations.protect.md) 
+
+### #is_/same_as :: [Early_human_migrations.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_human_migrations.private.md) 
+
+### #is_/same_as :: [Early_human_migrations.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_human_migrations.personal.md) 
+
+### #is_/same_as :: [Early_human_migrations.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Early_human_migrations.secret.md)
+

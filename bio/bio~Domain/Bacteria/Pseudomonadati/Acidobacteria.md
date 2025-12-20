@@ -55,17 +55,17 @@ title: Acidobacteria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acidobacteria](Acidobacteria.md) 
+### #is_/same_as :: [Acidobacteria](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Acidobacteria.md) 
 
-### #is_/same_as :: [Acidobacteria.public](/_public/bio/bio~Domain/Bacteria/Acidobacteria.public.md) 
+### #is_/same_as :: [Acidobacteria.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Acidobacteria.public.md) 
 
-### #is_/same_as :: [Acidobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Acidobacteria.internal.md) 
+### #is_/same_as :: [Acidobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Acidobacteria.internal.md) 
 
-### #is_/same_as :: [Acidobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Acidobacteria.protect.md) 
+### #is_/same_as :: [Acidobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Acidobacteria.protect.md) 
 
-### #is_/same_as :: [Acidobacteria.private](/_private/bio/bio~Domain/Bacteria/Acidobacteria.private.md) 
+### #is_/same_as :: [Acidobacteria.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Acidobacteria.private.md) 
 
-### #is_/same_as :: [Acidobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Acidobacteria.personal.md) 
+### #is_/same_as :: [Acidobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Acidobacteria.personal.md) 
 
-### #is_/same_as :: [Acidobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Acidobacteria.secret.md)
+### #is_/same_as :: [Acidobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Acidobacteria.secret.md)
 

@@ -88,3 +88,22 @@ Commons_category: Literature of Russia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russian%20literature) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Russian_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.md) 
+
+### #is_/same_as :: [Russian_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.public.md) 
+
+### #is_/same_as :: [Russian_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.internal.md) 
+
+### #is_/same_as :: [Russian_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.protect.md) 
+
+### #is_/same_as :: [Russian_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.private.md) 
+
+### #is_/same_as :: [Russian_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.personal.md) 
+
+### #is_/same_as :: [Russian_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.secret.md)
+

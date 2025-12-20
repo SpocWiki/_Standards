@@ -110,3 +110,22 @@ Krugosvet_article_archived_: medicina/SKARLATINA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scarlet%20fever) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scarlet_Fever](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.md) 
+
+### #is_/same_as :: [Scarlet_Fever.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.public.md) 
+
+### #is_/same_as :: [Scarlet_Fever.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.internal.md) 
+
+### #is_/same_as :: [Scarlet_Fever.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.protect.md) 
+
+### #is_/same_as :: [Scarlet_Fever.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.private.md) 
+
+### #is_/same_as :: [Scarlet_Fever.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.personal.md) 
+
+### #is_/same_as :: [Scarlet_Fever.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.secret.md)
+

@@ -40,3 +40,22 @@ Commons_category: Reinforced concrete
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reinforced%20concrete) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reinforced_Concrete](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.md) 
+
+### #is_/same_as :: [Reinforced_Concrete.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.public.md) 
+
+### #is_/same_as :: [Reinforced_Concrete.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.internal.md) 
+
+### #is_/same_as :: [Reinforced_Concrete.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.protect.md) 
+
+### #is_/same_as :: [Reinforced_Concrete.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.private.md) 
+
+### #is_/same_as :: [Reinforced_Concrete.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.personal.md) 
+
+### #is_/same_as :: [Reinforced_Concrete.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.secret.md)
+

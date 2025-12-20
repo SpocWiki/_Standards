@@ -331,7 +331,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
   Scientific Name ::  Exobasidium vaccinii, Vaccinium vitis-idaea
   Comments          Sporulation of Exobasidium vaccinii on Vaccinium vitis-idaea
   Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

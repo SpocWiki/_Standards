@@ -116,3 +116,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/MAK-LYUEN_MARSHALL.ht
 > [Wikipedia](https://en.wikipedia.org/wiki/Marshall%20McLuhan) 
 
 McLuhan appeared as an expert in the [[../../../../WikiData/WD~Woody_Allen,25089|WD~Woody_Allen,25089]] movie [[Annie_Hall]]. 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [McLuhan,Marshall](/_Standards/Society/Communication/Media/Media_Studies/McLuhan,Marshall.md) 
+
+### #is_/same_as :: [McLuhan,Marshall.public](/_public/Society/Communication/Media/Media_Studies/McLuhan,Marshall.public.md) 
+
+### #is_/same_as :: [McLuhan,Marshall.internal](/_internal/Society/Communication/Media/Media_Studies/McLuhan,Marshall.internal.md) 
+
+### #is_/same_as :: [McLuhan,Marshall.protect](/_protect/Society/Communication/Media/Media_Studies/McLuhan,Marshall.protect.md) 
+
+### #is_/same_as :: [McLuhan,Marshall.private](/_private/Society/Communication/Media/Media_Studies/McLuhan,Marshall.private.md) 
+
+### #is_/same_as :: [McLuhan,Marshall.personal](/_personal/Society/Communication/Media/Media_Studies/McLuhan,Marshall.personal.md) 
+
+### #is_/same_as :: [McLuhan,Marshall.secret](/_secret/Society/Communication/Media/Media_Studies/McLuhan,Marshall.secret.md)
+

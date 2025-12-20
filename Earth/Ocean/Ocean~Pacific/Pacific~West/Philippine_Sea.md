@@ -76,3 +76,22 @@ Commons_category: Philippine Sea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philippine%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Philippine_Sea](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.md) 
+
+### #is_/same_as :: [Philippine_Sea.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.public.md) 
+
+### #is_/same_as :: [Philippine_Sea.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.internal.md) 
+
+### #is_/same_as :: [Philippine_Sea.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.protect.md) 
+
+### #is_/same_as :: [Philippine_Sea.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.private.md) 
+
+### #is_/same_as :: [Philippine_Sea.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.personal.md) 
+
+### #is_/same_as :: [Philippine_Sea.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.secret.md)
+

@@ -59,3 +59,22 @@ IPTC_NewsCode: mediatopic/20000590
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Freedom%20of%20religion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Freedom_of_Religion](/_Standards/Society/Social_Issues/Human_Rights/Freedom_of_Religion.md) 
+
+### #is_/same_as :: [Freedom_of_Religion.public](/_public/Society/Social_Issues/Human_Rights/Freedom_of_Religion.public.md) 
+
+### #is_/same_as :: [Freedom_of_Religion.internal](/_internal/Society/Social_Issues/Human_Rights/Freedom_of_Religion.internal.md) 
+
+### #is_/same_as :: [Freedom_of_Religion.protect](/_protect/Society/Social_Issues/Human_Rights/Freedom_of_Religion.protect.md) 
+
+### #is_/same_as :: [Freedom_of_Religion.private](/_private/Society/Social_Issues/Human_Rights/Freedom_of_Religion.private.md) 
+
+### #is_/same_as :: [Freedom_of_Religion.personal](/_personal/Society/Social_Issues/Human_Rights/Freedom_of_Religion.personal.md) 
+
+### #is_/same_as :: [Freedom_of_Religion.secret](/_secret/Society/Social_Issues/Human_Rights/Freedom_of_Religion.secret.md)
+

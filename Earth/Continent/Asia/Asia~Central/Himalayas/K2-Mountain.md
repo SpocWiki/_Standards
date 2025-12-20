@@ -68,3 +68,22 @@ RIA_Novosti_reference: "52699902"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/K2) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [K2-Mountain](/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.md) 
+
+### #is_/same_as :: [K2-Mountain.public](/_public/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.public.md) 
+
+### #is_/same_as :: [K2-Mountain.internal](/_internal/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.internal.md) 
+
+### #is_/same_as :: [K2-Mountain.protect](/_protect/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.protect.md) 
+
+### #is_/same_as :: [K2-Mountain.private](/_private/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.private.md) 
+
+### #is_/same_as :: [K2-Mountain.personal](/_personal/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.personal.md) 
+
+### #is_/same_as :: [K2-Mountain.secret](/_secret/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.secret.md)
+

@@ -51,3 +51,22 @@ Commons_category: Nutritionists
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dietitian) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dietitian](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dietitian.md) 
+
+### #is_/same_as :: [Dietitian.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dietitian.public.md) 
+
+### #is_/same_as :: [Dietitian.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dietitian.internal.md) 
+
+### #is_/same_as :: [Dietitian.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dietitian.protect.md) 
+
+### #is_/same_as :: [Dietitian.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dietitian.private.md) 
+
+### #is_/same_as :: [Dietitian.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dietitian.personal.md) 
+
+### #is_/same_as :: [Dietitian.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dietitian.secret.md)
+

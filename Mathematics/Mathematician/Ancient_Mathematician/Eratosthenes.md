@@ -95,3 +95,22 @@ date_of_birth: -0275-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eratosthenes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eratosthenes](/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Eratosthenes.md) 
+
+### #is_/same_as :: [Eratosthenes.public](/_public/Mathematics/Mathematician/Ancient_Mathematician/Eratosthenes.public.md) 
+
+### #is_/same_as :: [Eratosthenes.internal](/_internal/Mathematics/Mathematician/Ancient_Mathematician/Eratosthenes.internal.md) 
+
+### #is_/same_as :: [Eratosthenes.protect](/_protect/Mathematics/Mathematician/Ancient_Mathematician/Eratosthenes.protect.md) 
+
+### #is_/same_as :: [Eratosthenes.private](/_private/Mathematics/Mathematician/Ancient_Mathematician/Eratosthenes.private.md) 
+
+### #is_/same_as :: [Eratosthenes.personal](/_personal/Mathematics/Mathematician/Ancient_Mathematician/Eratosthenes.personal.md) 
+
+### #is_/same_as :: [Eratosthenes.secret](/_secret/Mathematics/Mathematician/Ancient_Mathematician/Eratosthenes.secret.md)
+

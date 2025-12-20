@@ -35,3 +35,22 @@ has_id_wikidata: Q133544
 > In 2021, the Royal Mint unveiled a John Logie Baird 50p coin commemorating the 75th anniversary of his death.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Logie%20Baird) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Baird,John_Logie](/_Standards/Science/Inventor/Baird,John_Logie.md) 
+
+### #is_/same_as :: [Baird,John_Logie.public](/_public/Science/Inventor/Baird,John_Logie.public.md) 
+
+### #is_/same_as :: [Baird,John_Logie.internal](/_internal/Science/Inventor/Baird,John_Logie.internal.md) 
+
+### #is_/same_as :: [Baird,John_Logie.protect](/_protect/Science/Inventor/Baird,John_Logie.protect.md) 
+
+### #is_/same_as :: [Baird,John_Logie.private](/_private/Science/Inventor/Baird,John_Logie.private.md) 
+
+### #is_/same_as :: [Baird,John_Logie.personal](/_personal/Science/Inventor/Baird,John_Logie.personal.md) 
+
+### #is_/same_as :: [Baird,John_Logie.secret](/_secret/Science/Inventor/Baird,John_Logie.secret.md)
+

@@ -53,7 +53,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Life Cycle Stage ::     adult
   Size                 ca, 10 cm. across
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

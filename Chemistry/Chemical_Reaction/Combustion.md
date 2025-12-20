@@ -69,3 +69,22 @@ Commons_category: Combustion
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Combustion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Combustion](/_Standards/Chemistry/Chemical_Reaction/Combustion.md) 
+
+### #is_/same_as :: [Combustion.public](/_public/Chemistry/Chemical_Reaction/Combustion.public.md) 
+
+### #is_/same_as :: [Combustion.internal](/_internal/Chemistry/Chemical_Reaction/Combustion.internal.md) 
+
+### #is_/same_as :: [Combustion.protect](/_protect/Chemistry/Chemical_Reaction/Combustion.protect.md) 
+
+### #is_/same_as :: [Combustion.private](/_private/Chemistry/Chemical_Reaction/Combustion.private.md) 
+
+### #is_/same_as :: [Combustion.personal](/_personal/Chemistry/Chemical_Reaction/Combustion.personal.md) 
+
+### #is_/same_as :: [Combustion.secret](/_secret/Chemistry/Chemical_Reaction/Combustion.secret.md)
+

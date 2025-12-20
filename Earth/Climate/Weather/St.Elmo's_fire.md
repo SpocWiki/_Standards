@@ -52,3 +52,22 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20Saint%20Elmo%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/St.%20Elmo's%20fire) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [St.Elmo's_fire](/_Standards/Earth/Climate/Weather/St.Elmo's_fire.md) 
+
+### #is_/same_as :: [St.Elmo's_fire.public](/_public/Earth/Climate/Weather/St.Elmo's_fire.public.md) 
+
+### #is_/same_as :: [St.Elmo's_fire.internal](/_internal/Earth/Climate/Weather/St.Elmo's_fire.internal.md) 
+
+### #is_/same_as :: [St.Elmo's_fire.protect](/_protect/Earth/Climate/Weather/St.Elmo's_fire.protect.md) 
+
+### #is_/same_as :: [St.Elmo's_fire.private](/_private/Earth/Climate/Weather/St.Elmo's_fire.private.md) 
+
+### #is_/same_as :: [St.Elmo's_fire.personal](/_personal/Earth/Climate/Weather/St.Elmo's_fire.personal.md) 
+
+### #is_/same_as :: [St.Elmo's_fire.secret](/_secret/Earth/Climate/Weather/St.Elmo's_fire.secret.md)
+

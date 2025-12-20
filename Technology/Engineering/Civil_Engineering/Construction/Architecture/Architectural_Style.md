@@ -55,17 +55,17 @@ Wolfram_Language_entity_code: Entity["Concept", "ArchitecturalStyle::9649x"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Architectural_Style](Architectural_Style.md) 
+### #is_/same_as :: [Architectural_Style](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style.md) 
 
-### #is_/same_as :: [Architectural_Style.public](/_public/Technology/Construction/Architecture/Architectural_Style.public.md) 
+### #is_/same_as :: [Architectural_Style.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style.public.md) 
 
-### #is_/same_as :: [Architectural_Style.internal](/_internal/Technology/Construction/Architecture/Architectural_Style.internal.md) 
+### #is_/same_as :: [Architectural_Style.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style.internal.md) 
 
-### #is_/same_as :: [Architectural_Style.protect](/_protect/Technology/Construction/Architecture/Architectural_Style.protect.md) 
+### #is_/same_as :: [Architectural_Style.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style.protect.md) 
 
-### #is_/same_as :: [Architectural_Style.private](/_private/Technology/Construction/Architecture/Architectural_Style.private.md) 
+### #is_/same_as :: [Architectural_Style.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style.private.md) 
 
-### #is_/same_as :: [Architectural_Style.personal](/_personal/Technology/Construction/Architecture/Architectural_Style.personal.md) 
+### #is_/same_as :: [Architectural_Style.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style.personal.md) 
 
-### #is_/same_as :: [Architectural_Style.secret](/_secret/Technology/Construction/Architecture/Architectural_Style.secret.md)
+### #is_/same_as :: [Architectural_Style.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style.secret.md)
 

@@ -75,8 +75,6 @@ Library_of_Congress_Classification: Z40-Z104.5
 > [Wikipedia](https://en.wikipedia.org/wiki/Writing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Writing](/_Standards/Society/Communication/Media/Writing.md) 

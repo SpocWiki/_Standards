@@ -55,3 +55,22 @@ Unicode_character: 🪥
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Toothbrush) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Toothbrush](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.md) 
+
+### #is_/same_as :: [Toothbrush.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.public.md) 
+
+### #is_/same_as :: [Toothbrush.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.internal.md) 
+
+### #is_/same_as :: [Toothbrush.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.protect.md) 
+
+### #is_/same_as :: [Toothbrush.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.private.md) 
+
+### #is_/same_as :: [Toothbrush.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.personal.md) 
+
+### #is_/same_as :: [Toothbrush.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.secret.md)
+

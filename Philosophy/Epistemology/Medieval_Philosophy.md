@@ -29,3 +29,22 @@ has_id_wikidata: Q192292
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Medieval%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medieval_Philosophy](/_Standards/Philosophy/Epistemology/Medieval_Philosophy.md) 
+
+### #is_/same_as :: [Medieval_Philosophy.public](/_public/Philosophy/Epistemology/Medieval_Philosophy.public.md) 
+
+### #is_/same_as :: [Medieval_Philosophy.internal](/_internal/Philosophy/Epistemology/Medieval_Philosophy.internal.md) 
+
+### #is_/same_as :: [Medieval_Philosophy.protect](/_protect/Philosophy/Epistemology/Medieval_Philosophy.protect.md) 
+
+### #is_/same_as :: [Medieval_Philosophy.private](/_private/Philosophy/Epistemology/Medieval_Philosophy.private.md) 
+
+### #is_/same_as :: [Medieval_Philosophy.personal](/_personal/Philosophy/Epistemology/Medieval_Philosophy.personal.md) 
+
+### #is_/same_as :: [Medieval_Philosophy.secret](/_secret/Philosophy/Epistemology/Medieval_Philosophy.secret.md)
+

@@ -60,3 +60,22 @@ Commons_category: Dwarf planets of the Solar System
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dwarf%20planet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dwarf_Planet](/_Standards/Astronomy/Planet/Dwarf_Planet.md) 
+
+### #is_/same_as :: [Dwarf_Planet.public](/_public/Astronomy/Planet/Dwarf_Planet.public.md) 
+
+### #is_/same_as :: [Dwarf_Planet.internal](/_internal/Astronomy/Planet/Dwarf_Planet.internal.md) 
+
+### #is_/same_as :: [Dwarf_Planet.protect](/_protect/Astronomy/Planet/Dwarf_Planet.protect.md) 
+
+### #is_/same_as :: [Dwarf_Planet.private](/_private/Astronomy/Planet/Dwarf_Planet.private.md) 
+
+### #is_/same_as :: [Dwarf_Planet.personal](/_personal/Astronomy/Planet/Dwarf_Planet.personal.md) 
+
+### #is_/same_as :: [Dwarf_Planet.secret](/_secret/Astronomy/Planet/Dwarf_Planet.secret.md)
+

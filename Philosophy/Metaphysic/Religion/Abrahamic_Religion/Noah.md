@@ -101,3 +101,22 @@ ISNI: "0000000458756628"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Noah) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Noah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Noah.md) 
+
+### #is_/same_as :: [Noah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Noah.public.md) 
+
+### #is_/same_as :: [Noah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Noah.internal.md) 
+
+### #is_/same_as :: [Noah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Noah.protect.md) 
+
+### #is_/same_as :: [Noah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Noah.private.md) 
+
+### #is_/same_as :: [Noah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Noah.personal.md) 
+
+### #is_/same_as :: [Noah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Noah.secret.md)
+

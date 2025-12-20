@@ -133,3 +133,22 @@ Commons_Creator_page: Denis Diderot
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Denis%20Diderot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diderot,Denis](/_Standards/Philosophy/Philosopher/Diderot,Denis.md) 
+
+### #is_/same_as :: [Diderot,Denis.public](/_public/Philosophy/Philosopher/Diderot,Denis.public.md) 
+
+### #is_/same_as :: [Diderot,Denis.internal](/_internal/Philosophy/Philosopher/Diderot,Denis.internal.md) 
+
+### #is_/same_as :: [Diderot,Denis.protect](/_protect/Philosophy/Philosopher/Diderot,Denis.protect.md) 
+
+### #is_/same_as :: [Diderot,Denis.private](/_private/Philosophy/Philosopher/Diderot,Denis.private.md) 
+
+### #is_/same_as :: [Diderot,Denis.personal](/_personal/Philosophy/Philosopher/Diderot,Denis.personal.md) 
+
+### #is_/same_as :: [Diderot,Denis.secret](/_secret/Philosophy/Philosopher/Diderot,Denis.secret.md)
+

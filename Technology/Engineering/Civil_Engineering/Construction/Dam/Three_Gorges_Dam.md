@@ -99,17 +99,17 @@ width:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Three_Gorges_Dam](Three_Gorges_Dam.md) 
+### #is_/same_as :: [Three_Gorges_Dam](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.md) 
 
-### #is_/same_as :: [Three_Gorges_Dam.public](/_public/Technology/Construction/Dam/Three_Gorges_Dam.public.md) 
+### #is_/same_as :: [Three_Gorges_Dam.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.public.md) 
 
-### #is_/same_as :: [Three_Gorges_Dam.internal](/_internal/Technology/Construction/Dam/Three_Gorges_Dam.internal.md) 
+### #is_/same_as :: [Three_Gorges_Dam.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.internal.md) 
 
-### #is_/same_as :: [Three_Gorges_Dam.protect](/_protect/Technology/Construction/Dam/Three_Gorges_Dam.protect.md) 
+### #is_/same_as :: [Three_Gorges_Dam.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.protect.md) 
 
-### #is_/same_as :: [Three_Gorges_Dam.private](/_private/Technology/Construction/Dam/Three_Gorges_Dam.private.md) 
+### #is_/same_as :: [Three_Gorges_Dam.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.private.md) 
 
-### #is_/same_as :: [Three_Gorges_Dam.personal](/_personal/Technology/Construction/Dam/Three_Gorges_Dam.personal.md) 
+### #is_/same_as :: [Three_Gorges_Dam.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.personal.md) 
 
-### #is_/same_as :: [Three_Gorges_Dam.secret](/_secret/Technology/Construction/Dam/Three_Gorges_Dam.secret.md)
+### #is_/same_as :: [Three_Gorges_Dam.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.secret.md)
 

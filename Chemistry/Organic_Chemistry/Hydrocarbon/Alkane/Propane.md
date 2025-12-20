@@ -92,3 +92,22 @@ DSSTOX_compound_identifier: DTXCID006386
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Propane) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Propane](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.md) 
+
+### #is_/same_as :: [Propane.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.public.md) 
+
+### #is_/same_as :: [Propane.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.internal.md) 
+
+### #is_/same_as :: [Propane.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.protect.md) 
+
+### #is_/same_as :: [Propane.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.private.md) 
+
+### #is_/same_as :: [Propane.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.personal.md) 
+
+### #is_/same_as :: [Propane.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.secret.md)
+

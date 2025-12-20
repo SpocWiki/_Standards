@@ -42,17 +42,17 @@ Measurement of the cup, for example of a bra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Measurement_Cup](Wearable_Measurement_Cup.md) 
+### #is_/same_as :: [Wearable_Measurement_Cup](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Cup.md) 
 
-### #is_/same_as :: [wearable_measurement_cup.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.public.md) 
+### #is_/same_as :: [Wearable_Measurement_Cup.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Cup.public.md) 
 
-### #is_/same_as :: [wearable_measurement_cup.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.internal.md) 
+### #is_/same_as :: [Wearable_Measurement_Cup.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Cup.internal.md) 
 
-### #is_/same_as :: [wearable_measurement_cup.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.protect.md) 
+### #is_/same_as :: [Wearable_Measurement_Cup.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Cup.protect.md) 
 
-### #is_/same_as :: [wearable_measurement_cup.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.private.md) 
+### #is_/same_as :: [Wearable_Measurement_Cup.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Cup.private.md) 
 
-### #is_/same_as :: [wearable_measurement_cup.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.personal.md) 
+### #is_/same_as :: [Wearable_Measurement_Cup.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Cup.personal.md) 
 
-### #is_/same_as :: [wearable_measurement_cup.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.secret.md)
+### #is_/same_as :: [Wearable_Measurement_Cup.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Cup.secret.md)
 

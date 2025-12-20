@@ -40,3 +40,22 @@ native_label: 玉皇上帝
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jade%20Emperor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jade_Emperor](/_Standards/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.md) 
+
+### #is_/same_as :: [Jade_Emperor.public](/_public/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.public.md) 
+
+### #is_/same_as :: [Jade_Emperor.internal](/_internal/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.internal.md) 
+
+### #is_/same_as :: [Jade_Emperor.protect](/_protect/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.protect.md) 
+
+### #is_/same_as :: [Jade_Emperor.private](/_private/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.private.md) 
+
+### #is_/same_as :: [Jade_Emperor.personal](/_personal/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.personal.md) 
+
+### #is_/same_as :: [Jade_Emperor.secret](/_secret/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.secret.md)
+

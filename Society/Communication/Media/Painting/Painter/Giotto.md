@@ -168,3 +168,22 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DZHOTTO_DI_BON
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Giotto) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Giotto](/_Standards/Society/Communication/Media/Painting/Painter/Giotto.md) 
+
+### #is_/same_as :: [Giotto.public](/_public/Society/Communication/Media/Painting/Painter/Giotto.public.md) 
+
+### #is_/same_as :: [Giotto.internal](/_internal/Society/Communication/Media/Painting/Painter/Giotto.internal.md) 
+
+### #is_/same_as :: [Giotto.protect](/_protect/Society/Communication/Media/Painting/Painter/Giotto.protect.md) 
+
+### #is_/same_as :: [Giotto.private](/_private/Society/Communication/Media/Painting/Painter/Giotto.private.md) 
+
+### #is_/same_as :: [Giotto.personal](/_personal/Society/Communication/Media/Painting/Painter/Giotto.personal.md) 
+
+### #is_/same_as :: [Giotto.secret](/_secret/Society/Communication/Media/Painting/Painter/Giotto.secret.md)
+

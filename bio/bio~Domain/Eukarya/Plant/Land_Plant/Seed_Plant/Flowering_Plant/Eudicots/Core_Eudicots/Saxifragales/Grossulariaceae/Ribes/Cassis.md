@@ -148,3 +148,22 @@ EPPO_Code: RIBNI
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blackcurrant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cassis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.md) 
+
+### #is_/same_as :: [Cassis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.public.md) 
+
+### #is_/same_as :: [Cassis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.internal.md) 
+
+### #is_/same_as :: [Cassis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.protect.md) 
+
+### #is_/same_as :: [Cassis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.private.md) 
+
+### #is_/same_as :: [Cassis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.personal.md) 
+
+### #is_/same_as :: [Cassis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.secret.md)
+

@@ -107,7 +107,7 @@ Temperate South Atlantic. Some variation in sucker dentition is apparent
   Sex ::              Female
   Life Cycle Stage ::   immature
   Size               130 mm ML
-  -----------
+  -----------
 
 
 ## Confidential Links & Embeds: 

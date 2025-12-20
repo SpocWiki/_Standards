@@ -29,3 +29,21 @@ has_id_wikidata: Q186162
 > and is among the most frequently performed of all operas.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/La%20traviata)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [La_Traviata](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.md) 
+
+### #is_/same_as :: [La_Traviata.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.public.md) 
+
+### #is_/same_as :: [La_Traviata.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.internal.md) 
+
+### #is_/same_as :: [La_Traviata.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.protect.md) 
+
+### #is_/same_as :: [La_Traviata.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.private.md) 
+
+### #is_/same_as :: [La_Traviata.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.personal.md) 
+
+### #is_/same_as :: [La_Traviata.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Verdi,Giuseppe/La_Traviata.secret.md)
+

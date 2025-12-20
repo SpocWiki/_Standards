@@ -197,3 +197,22 @@ EPPO_Code: ESCHCO
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Escherichia%20coli) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Escherichia_coli](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria/Escherichia_coli.md) 
+
+### #is_/same_as :: [Escherichia_coli.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria/Escherichia_coli.public.md) 
+
+### #is_/same_as :: [Escherichia_coli.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria/Escherichia_coli.internal.md) 
+
+### #is_/same_as :: [Escherichia_coli.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria/Escherichia_coli.protect.md) 
+
+### #is_/same_as :: [Escherichia_coli.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria/Escherichia_coli.private.md) 
+
+### #is_/same_as :: [Escherichia_coli.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria/Escherichia_coli.personal.md) 
+
+### #is_/same_as :: [Escherichia_coli.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria/Escherichia_coli.secret.md)
+

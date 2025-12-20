@@ -92,3 +92,22 @@ GOST_7_75_97_code: гуд 165
 > [Wikipedia](https://en.wikipedia.org/wiki/Gujarati%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-guj](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-guj.md) 
+
+### #is_/same_as :: [Lang-guj.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-guj.public.md) 
+
+### #is_/same_as :: [Lang-guj.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-guj.internal.md) 
+
+### #is_/same_as :: [Lang-guj.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-guj.protect.md) 
+
+### #is_/same_as :: [Lang-guj.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-guj.private.md) 
+
+### #is_/same_as :: [Lang-guj.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-guj.personal.md) 
+
+### #is_/same_as :: [Lang-guj.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-guj.secret.md)
+

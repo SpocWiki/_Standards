@@ -39,17 +39,17 @@ ATM/cash machine.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Automated_Teller](Automated_Teller.md) 
+### #is_/same_as :: [Automated_Teller](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.md) 
 
-### #is_/same_as :: [Automated_Teller.public](/_public/Society/Organization/Local_Business/Financial_Service/Automated_Teller.public.md) 
+### #is_/same_as :: [Automated_Teller.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.public.md) 
 
-### #is_/same_as :: [Automated_Teller.internal](/_internal/Society/Organization/Local_Business/Financial_Service/Automated_Teller.internal.md) 
+### #is_/same_as :: [Automated_Teller.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.internal.md) 
 
-### #is_/same_as :: [Automated_Teller.protect](/_protect/Society/Organization/Local_Business/Financial_Service/Automated_Teller.protect.md) 
+### #is_/same_as :: [Automated_Teller.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.protect.md) 
 
-### #is_/same_as :: [Automated_Teller.private](/_private/Society/Organization/Local_Business/Financial_Service/Automated_Teller.private.md) 
+### #is_/same_as :: [Automated_Teller.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.private.md) 
 
-### #is_/same_as :: [Automated_Teller.personal](/_personal/Society/Organization/Local_Business/Financial_Service/Automated_Teller.personal.md) 
+### #is_/same_as :: [Automated_Teller.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.personal.md) 
 
-### #is_/same_as :: [Automated_Teller.secret](/_secret/Society/Organization/Local_Business/Financial_Service/Automated_Teller.secret.md)
+### #is_/same_as :: [Automated_Teller.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.secret.md)
 

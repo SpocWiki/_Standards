@@ -59,3 +59,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20laea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20South%20America) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_South_America](/_Standards/Earth/Continent/America~South/History_of_South_America.md) 
+
+### #is_/same_as :: [History_of_South_America.public](/_public/Earth/Continent/America~South/History_of_South_America.public.md) 
+
+### #is_/same_as :: [History_of_South_America.internal](/_internal/Earth/Continent/America~South/History_of_South_America.internal.md) 
+
+### #is_/same_as :: [History_of_South_America.protect](/_protect/Earth/Continent/America~South/History_of_South_America.protect.md) 
+
+### #is_/same_as :: [History_of_South_America.private](/_private/Earth/Continent/America~South/History_of_South_America.private.md) 
+
+### #is_/same_as :: [History_of_South_America.personal](/_personal/Earth/Continent/America~South/History_of_South_America.personal.md) 
+
+### #is_/same_as :: [History_of_South_America.secret](/_secret/Earth/Continent/America~South/History_of_South_America.secret.md)
+

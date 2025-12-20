@@ -34,3 +34,22 @@ has_id_wikidata: Q221706
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceiling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ceiling](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.md) 
+
+### #is_/same_as :: [Ceiling.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.public.md) 
+
+### #is_/same_as :: [Ceiling.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.internal.md) 
+
+### #is_/same_as :: [Ceiling.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.protect.md) 
+
+### #is_/same_as :: [Ceiling.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.private.md) 
+
+### #is_/same_as :: [Ceiling.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.personal.md) 
+
+### #is_/same_as :: [Ceiling.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.secret.md)
+

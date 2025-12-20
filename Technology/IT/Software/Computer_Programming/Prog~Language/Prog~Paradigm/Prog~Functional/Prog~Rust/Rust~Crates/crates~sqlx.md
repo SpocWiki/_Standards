@@ -17,3 +17,22 @@ async fn sqlx() {
 }
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [crates~sqlx](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~sqlx.md) 
+
+### #is_/same_as :: [crates~sqlx.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~sqlx.public.md) 
+
+### #is_/same_as :: [crates~sqlx.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~sqlx.internal.md) 
+
+### #is_/same_as :: [crates~sqlx.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~sqlx.protect.md) 
+
+### #is_/same_as :: [crates~sqlx.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~sqlx.private.md) 
+
+### #is_/same_as :: [crates~sqlx.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~sqlx.personal.md) 
+
+### #is_/same_as :: [crates~sqlx.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~sqlx.secret.md)
+

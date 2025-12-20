@@ -69,3 +69,22 @@ Provenio_UUID: 6cbd8be3-3284-4cbb-ae0b-c5f83d4691aa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Demon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Demon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Demon.md) 
+
+### #is_/same_as :: [Demon.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Demon.public.md) 
+
+### #is_/same_as :: [Demon.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Demon.internal.md) 
+
+### #is_/same_as :: [Demon.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Demon.protect.md) 
+
+### #is_/same_as :: [Demon.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Demon.private.md) 
+
+### #is_/same_as :: [Demon.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Demon.personal.md) 
+
+### #is_/same_as :: [Demon.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Demon.secret.md)
+

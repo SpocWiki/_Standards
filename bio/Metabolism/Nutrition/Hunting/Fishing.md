@@ -65,3 +65,22 @@ OpenStreetMap_tag: leisure=fishing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fishing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fishing](/_Standards/bio/Metabolism/Nutrition/Hunting/Fishing.md) 
+
+### #is_/same_as :: [Fishing.public](/_public/bio/Metabolism/Nutrition/Hunting/Fishing.public.md) 
+
+### #is_/same_as :: [Fishing.internal](/_internal/bio/Metabolism/Nutrition/Hunting/Fishing.internal.md) 
+
+### #is_/same_as :: [Fishing.protect](/_protect/bio/Metabolism/Nutrition/Hunting/Fishing.protect.md) 
+
+### #is_/same_as :: [Fishing.private](/_private/bio/Metabolism/Nutrition/Hunting/Fishing.private.md) 
+
+### #is_/same_as :: [Fishing.personal](/_personal/bio/Metabolism/Nutrition/Hunting/Fishing.personal.md) 
+
+### #is_/same_as :: [Fishing.secret](/_secret/bio/Metabolism/Nutrition/Hunting/Fishing.secret.md)
+

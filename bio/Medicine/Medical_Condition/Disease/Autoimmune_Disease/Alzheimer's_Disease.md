@@ -228,17 +228,17 @@ UMLS_CUI: C0002395
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alzheimer's_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Alzheimer's_Disease.md) 
+### #is_/same_as :: [Alzheimer's_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Alzheimer's_Disease.md) 
 
-### #is_/same_as :: [Alzheimer's_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Alzheimer's_Disease.public.md) 
+### #is_/same_as :: [Alzheimer's_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Alzheimer's_Disease.public.md) 
 
-### #is_/same_as :: [Alzheimer's_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Alzheimer's_Disease.internal.md) 
+### #is_/same_as :: [Alzheimer's_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Alzheimer's_Disease.internal.md) 
 
-### #is_/same_as :: [Alzheimer's_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Alzheimer's_Disease.protect.md) 
+### #is_/same_as :: [Alzheimer's_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Alzheimer's_Disease.protect.md) 
 
-### #is_/same_as :: [Alzheimer's_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Alzheimer's_Disease.private.md) 
+### #is_/same_as :: [Alzheimer's_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Alzheimer's_Disease.private.md) 
 
-### #is_/same_as :: [Alzheimer's_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Alzheimer's_Disease.personal.md) 
+### #is_/same_as :: [Alzheimer's_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Alzheimer's_Disease.personal.md) 
 
-### #is_/same_as :: [Alzheimer's_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Alzheimer's_Disease.secret.md)
+### #is_/same_as :: [Alzheimer's_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Alzheimer's_Disease.secret.md)
 

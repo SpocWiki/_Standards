@@ -41,3 +41,22 @@ Commons_category: Military education and training
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20education%20and%20training) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Education_and_Training](/_Standards/Society/Military/Armed_Forces/Military_Education_and_Training.md) 
+
+### #is_/same_as :: [Military_Education_and_Training.public](/_public/Society/Military/Armed_Forces/Military_Education_and_Training.public.md) 
+
+### #is_/same_as :: [Military_Education_and_Training.internal](/_internal/Society/Military/Armed_Forces/Military_Education_and_Training.internal.md) 
+
+### #is_/same_as :: [Military_Education_and_Training.protect](/_protect/Society/Military/Armed_Forces/Military_Education_and_Training.protect.md) 
+
+### #is_/same_as :: [Military_Education_and_Training.private](/_private/Society/Military/Armed_Forces/Military_Education_and_Training.private.md) 
+
+### #is_/same_as :: [Military_Education_and_Training.personal](/_personal/Society/Military/Armed_Forces/Military_Education_and_Training.personal.md) 
+
+### #is_/same_as :: [Military_Education_and_Training.secret](/_secret/Society/Military/Armed_Forces/Military_Education_and_Training.secret.md)
+

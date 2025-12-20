@@ -32,3 +32,22 @@ has_id_wikidata: Q34640
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/English%20Channel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [English_Channel](/_Standards/Earth/Continent/Europe/Europe~West/English_Channel.md) 
+
+### #is_/same_as :: [English_Channel.public](/_public/Earth/Continent/Europe/Europe~West/English_Channel.public.md) 
+
+### #is_/same_as :: [English_Channel.internal](/_internal/Earth/Continent/Europe/Europe~West/English_Channel.internal.md) 
+
+### #is_/same_as :: [English_Channel.protect](/_protect/Earth/Continent/Europe/Europe~West/English_Channel.protect.md) 
+
+### #is_/same_as :: [English_Channel.private](/_private/Earth/Continent/Europe/Europe~West/English_Channel.private.md) 
+
+### #is_/same_as :: [English_Channel.personal](/_personal/Earth/Continent/Europe/Europe~West/English_Channel.personal.md) 
+
+### #is_/same_as :: [English_Channel.secret](/_secret/Earth/Continent/Europe/Europe~West/English_Channel.secret.md)
+

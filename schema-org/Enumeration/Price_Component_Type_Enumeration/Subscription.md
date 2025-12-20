@@ -42,17 +42,17 @@ Represents the subscription pricing component of the total price for an offered 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Subscription](Subscription.md) 
+### #is_/same_as :: [Subscription](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.md) 
 
-### #is_/same_as :: [subscription.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.public.md) 
+### #is_/same_as :: [Subscription.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.public.md) 
 
-### #is_/same_as :: [subscription.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.internal.md) 
+### #is_/same_as :: [Subscription.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.internal.md) 
 
-### #is_/same_as :: [subscription.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.protect.md) 
+### #is_/same_as :: [Subscription.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.protect.md) 
 
-### #is_/same_as :: [subscription.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.private.md) 
+### #is_/same_as :: [Subscription.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.private.md) 
 
-### #is_/same_as :: [subscription.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.personal.md) 
+### #is_/same_as :: [Subscription.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.personal.md) 
 
-### #is_/same_as :: [subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.secret.md)
+### #is_/same_as :: [Subscription.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.secret.md)
 

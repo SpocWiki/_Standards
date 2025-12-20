@@ -95,3 +95,22 @@ IMDb_keyword: unemployment
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Unemployment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unemployment](/_Standards/Society/Social_Issues/Unemployment.md) 
+
+### #is_/same_as :: [Unemployment.public](/_public/Society/Social_Issues/Unemployment.public.md) 
+
+### #is_/same_as :: [Unemployment.internal](/_internal/Society/Social_Issues/Unemployment.internal.md) 
+
+### #is_/same_as :: [Unemployment.protect](/_protect/Society/Social_Issues/Unemployment.protect.md) 
+
+### #is_/same_as :: [Unemployment.private](/_private/Society/Social_Issues/Unemployment.private.md) 
+
+### #is_/same_as :: [Unemployment.personal](/_personal/Society/Social_Issues/Unemployment.personal.md) 
+
+### #is_/same_as :: [Unemployment.secret](/_secret/Society/Social_Issues/Unemployment.secret.md)
+

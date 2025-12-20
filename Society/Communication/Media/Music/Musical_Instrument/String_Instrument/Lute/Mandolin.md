@@ -59,3 +59,22 @@ Commons_category: Mandolins
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mandolin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mandolin](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.md) 
+
+### #is_/same_as :: [Mandolin.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.public.md) 
+
+### #is_/same_as :: [Mandolin.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.internal.md) 
+
+### #is_/same_as :: [Mandolin.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.protect.md) 
+
+### #is_/same_as :: [Mandolin.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.private.md) 
+
+### #is_/same_as :: [Mandolin.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.personal.md) 
+
+### #is_/same_as :: [Mandolin.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.secret.md)
+

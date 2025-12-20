@@ -25,3 +25,22 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiple%20integral) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multiple_Integral](/_Standards/Mathematics/Calculus/Integral/Multiple_Integral.md) 
+
+### #is_/same_as :: [Multiple_Integral.public](/_public/Mathematics/Calculus/Integral/Multiple_Integral.public.md) 
+
+### #is_/same_as :: [Multiple_Integral.internal](/_internal/Mathematics/Calculus/Integral/Multiple_Integral.internal.md) 
+
+### #is_/same_as :: [Multiple_Integral.protect](/_protect/Mathematics/Calculus/Integral/Multiple_Integral.protect.md) 
+
+### #is_/same_as :: [Multiple_Integral.private](/_private/Mathematics/Calculus/Integral/Multiple_Integral.private.md) 
+
+### #is_/same_as :: [Multiple_Integral.personal](/_personal/Mathematics/Calculus/Integral/Multiple_Integral.personal.md) 
+
+### #is_/same_as :: [Multiple_Integral.secret](/_secret/Mathematics/Calculus/Integral/Multiple_Integral.secret.md)
+

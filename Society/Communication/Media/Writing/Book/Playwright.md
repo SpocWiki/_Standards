@@ -90,3 +90,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/DRAMATURG.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Playwright) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Playwright](/_Standards/Society/Communication/Media/Writing/Book/Playwright.md) 
+
+### #is_/same_as :: [Playwright.public](/_public/Society/Communication/Media/Writing/Book/Playwright.public.md) 
+
+### #is_/same_as :: [Playwright.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright.internal.md) 
+
+### #is_/same_as :: [Playwright.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright.protect.md) 
+
+### #is_/same_as :: [Playwright.private](/_private/Society/Communication/Media/Writing/Book/Playwright.private.md) 
+
+### #is_/same_as :: [Playwright.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright.personal.md) 
+
+### #is_/same_as :: [Playwright.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright.secret.md)
+

@@ -43,3 +43,22 @@ OpenStreetMap_tag: playground=trampoline
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trampoline)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trampoline](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.md) 
+
+### #is_/same_as :: [Trampoline.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.public.md) 
+
+### #is_/same_as :: [Trampoline.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.internal.md) 
+
+### #is_/same_as :: [Trampoline.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.protect.md) 
+
+### #is_/same_as :: [Trampoline.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.private.md) 
+
+### #is_/same_as :: [Trampoline.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.personal.md) 
+
+### #is_/same_as :: [Trampoline.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.secret.md)
+

@@ -127,3 +127,22 @@ Plex_person_key:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ted%20Turner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turner,Ted](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Turner,Ted.md) 
+
+### #is_/same_as :: [Turner,Ted.public](/_public/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Turner,Ted.public.md) 
+
+### #is_/same_as :: [Turner,Ted.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Turner,Ted.internal.md) 
+
+### #is_/same_as :: [Turner,Ted.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Turner,Ted.protect.md) 
+
+### #is_/same_as :: [Turner,Ted.private](/_private/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Turner,Ted.private.md) 
+
+### #is_/same_as :: [Turner,Ted.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Turner,Ted.personal.md) 
+
+### #is_/same_as :: [Turner,Ted.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Media_Proprietor/Turner,Ted.secret.md)
+

@@ -17,3 +17,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20multitasking) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multitasking](/_Standards/Technology/IT/Software/OS(Operating-System)/Multitasking.md) 
+
+### #is_/same_as :: [Multitasking.public](/_public/Technology/IT/Software/OS(Operating-System)/Multitasking.public.md) 
+
+### #is_/same_as :: [Multitasking.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Multitasking.internal.md) 
+
+### #is_/same_as :: [Multitasking.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Multitasking.protect.md) 
+
+### #is_/same_as :: [Multitasking.private](/_private/Technology/IT/Software/OS(Operating-System)/Multitasking.private.md) 
+
+### #is_/same_as :: [Multitasking.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Multitasking.personal.md) 
+
+### #is_/same_as :: [Multitasking.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Multitasking.secret.md)
+

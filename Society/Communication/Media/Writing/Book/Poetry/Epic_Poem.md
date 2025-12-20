@@ -44,3 +44,22 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/EPICHESKAYA_POEZIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Epic%20poetry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Epic_Poem](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.md) 
+
+### #is_/same_as :: [Epic_Poem.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.public.md) 
+
+### #is_/same_as :: [Epic_Poem.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.internal.md) 
+
+### #is_/same_as :: [Epic_Poem.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.protect.md) 
+
+### #is_/same_as :: [Epic_Poem.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.private.md) 
+
+### #is_/same_as :: [Epic_Poem.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.personal.md) 
+
+### #is_/same_as :: [Epic_Poem.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem.secret.md)
+

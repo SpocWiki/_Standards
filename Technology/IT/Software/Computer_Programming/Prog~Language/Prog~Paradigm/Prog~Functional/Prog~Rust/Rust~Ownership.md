@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Rust~Ownership
 - 
@@ -123,3 +123,22 @@ because the String is mutable.
     // z releases x here
     assert_eq!(x, 1200);
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rust~Ownership](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Ownership.md) 
+
+### #is_/same_as :: [Rust~Ownership.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Ownership.public.md) 
+
+### #is_/same_as :: [Rust~Ownership.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Ownership.internal.md) 
+
+### #is_/same_as :: [Rust~Ownership.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Ownership.protect.md) 
+
+### #is_/same_as :: [Rust~Ownership.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Ownership.private.md) 
+
+### #is_/same_as :: [Rust~Ownership.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Ownership.personal.md) 
+
+### #is_/same_as :: [Rust~Ownership.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Ownership.secret.md)
+

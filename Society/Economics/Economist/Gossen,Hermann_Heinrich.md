@@ -49,3 +49,22 @@ name_in_native_language: Hermann Heinrich Gossen
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Heinrich%20Gossen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gossen,Hermann_Heinrich](/_Standards/Society/Economics/Economist/Gossen,Hermann_Heinrich.md) 
+
+### #is_/same_as :: [Gossen,Hermann_Heinrich.public](/_public/Society/Economics/Economist/Gossen,Hermann_Heinrich.public.md) 
+
+### #is_/same_as :: [Gossen,Hermann_Heinrich.internal](/_internal/Society/Economics/Economist/Gossen,Hermann_Heinrich.internal.md) 
+
+### #is_/same_as :: [Gossen,Hermann_Heinrich.protect](/_protect/Society/Economics/Economist/Gossen,Hermann_Heinrich.protect.md) 
+
+### #is_/same_as :: [Gossen,Hermann_Heinrich.private](/_private/Society/Economics/Economist/Gossen,Hermann_Heinrich.private.md) 
+
+### #is_/same_as :: [Gossen,Hermann_Heinrich.personal](/_personal/Society/Economics/Economist/Gossen,Hermann_Heinrich.personal.md) 
+
+### #is_/same_as :: [Gossen,Hermann_Heinrich.secret](/_secret/Society/Economics/Economist/Gossen,Hermann_Heinrich.secret.md)
+

@@ -75,3 +75,22 @@ MeSH_tree_code: F01.145.805
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Smoking) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Smoking](/_Standards/bio/Medicine/Drug/Smoking.md) 
+
+### #is_/same_as :: [Smoking.public](/_public/bio/Medicine/Drug/Smoking.public.md) 
+
+### #is_/same_as :: [Smoking.internal](/_internal/bio/Medicine/Drug/Smoking.internal.md) 
+
+### #is_/same_as :: [Smoking.protect](/_protect/bio/Medicine/Drug/Smoking.protect.md) 
+
+### #is_/same_as :: [Smoking.private](/_private/bio/Medicine/Drug/Smoking.private.md) 
+
+### #is_/same_as :: [Smoking.personal](/_personal/bio/Medicine/Drug/Smoking.personal.md) 
+
+### #is_/same_as :: [Smoking.secret](/_secret/bio/Medicine/Drug/Smoking.secret.md)
+

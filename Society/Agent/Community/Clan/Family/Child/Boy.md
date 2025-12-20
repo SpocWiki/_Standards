@@ -39,17 +39,17 @@ P8189: "987007283981505171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boy](/_Standards/Society/Family/Boy.md) 
+### #is_/same_as :: [Boy](/_Standards/Society/Agent/Community/Clan/Family/Child/Boy.md) 
 
-### #is_/same_as :: [Boy.public](/_public/Society/Family/Boy.public.md) 
+### #is_/same_as :: [Boy.public](/_public/Society/Agent/Community/Clan/Family/Child/Boy.public.md) 
 
-### #is_/same_as :: [Boy.internal](/_internal/Society/Family/Boy.internal.md) 
+### #is_/same_as :: [Boy.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Boy.internal.md) 
 
-### #is_/same_as :: [Boy.protect](/_protect/Society/Family/Boy.protect.md) 
+### #is_/same_as :: [Boy.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Boy.protect.md) 
 
-### #is_/same_as :: [Boy.private](/_private/Society/Family/Boy.private.md) 
+### #is_/same_as :: [Boy.private](/_private/Society/Agent/Community/Clan/Family/Child/Boy.private.md) 
 
-### #is_/same_as :: [Boy.personal](/_personal/Society/Family/Boy.personal.md) 
+### #is_/same_as :: [Boy.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Boy.personal.md) 
 
-### #is_/same_as :: [Boy.secret](/_secret/Society/Family/Boy.secret.md)
+### #is_/same_as :: [Boy.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Boy.secret.md)
 

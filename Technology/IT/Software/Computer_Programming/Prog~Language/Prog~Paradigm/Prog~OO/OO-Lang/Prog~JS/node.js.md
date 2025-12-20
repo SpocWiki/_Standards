@@ -35,3 +35,21 @@ Here are a few steps you can take to troubleshoot the issue:
    Check the GitHub repository for `nodist` to see if there are any reported issues related to version resolution problems. The repository is usually found at [https://github.com/nullivex/nodist](https://github.com/nullivex/nodist).
 
 Always make sure to double-check the Node.js version availability and consult the `nodist` documentation or community for the latest information and potential bug fixes. If the issue persists, it may be worthwhile to open a GitHub issue for further assistance.
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [node.js](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/node.js.md) 
+
+### #is_/same_as :: [node.js.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/node.js.public.md) 
+
+### #is_/same_as :: [node.js.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/node.js.internal.md) 
+
+### #is_/same_as :: [node.js.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/node.js.protect.md) 
+
+### #is_/same_as :: [node.js.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/node.js.private.md) 
+
+### #is_/same_as :: [node.js.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/node.js.personal.md) 
+
+### #is_/same_as :: [node.js.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/node.js.secret.md)
+

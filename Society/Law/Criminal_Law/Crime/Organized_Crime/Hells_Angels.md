@@ -44,3 +44,22 @@ Instagram_username: hellsangelsmcworld_official
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hells%20Angels) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hells_Angels](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.md) 
+
+### #is_/same_as :: [Hells_Angels.public](/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.public.md) 
+
+### #is_/same_as :: [Hells_Angels.internal](/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.internal.md) 
+
+### #is_/same_as :: [Hells_Angels.protect](/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.protect.md) 
+
+### #is_/same_as :: [Hells_Angels.private](/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.private.md) 
+
+### #is_/same_as :: [Hells_Angels.personal](/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.personal.md) 
+
+### #is_/same_as :: [Hells_Angels.secret](/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.secret.md)
+

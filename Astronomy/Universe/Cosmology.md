@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cosmology](/_Standards/Astronomy/Universe/Cosmology.md) 
+
+### #is_/same_as :: [Cosmology.public](/_public/Astronomy/Universe/Cosmology.public.md) 
+
+### #is_/same_as :: [Cosmology.internal](/_internal/Astronomy/Universe/Cosmology.internal.md) 
+
+### #is_/same_as :: [Cosmology.protect](/_protect/Astronomy/Universe/Cosmology.protect.md) 
+
+### #is_/same_as :: [Cosmology.private](/_private/Astronomy/Universe/Cosmology.private.md) 
+
+### #is_/same_as :: [Cosmology.personal](/_personal/Astronomy/Universe/Cosmology.personal.md) 
+
+### #is_/same_as :: [Cosmology.secret](/_secret/Astronomy/Universe/Cosmology.secret.md)
+

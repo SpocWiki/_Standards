@@ -62,3 +62,22 @@ GenBank_assembly_accession_number: GCA_000004335.1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Giant%20panda) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Giant_Panda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae/Giant_Panda.md) 
+
+### #is_/same_as :: [Giant_Panda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae/Giant_Panda.public.md) 
+
+### #is_/same_as :: [Giant_Panda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae/Giant_Panda.internal.md) 
+
+### #is_/same_as :: [Giant_Panda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae/Giant_Panda.protect.md) 
+
+### #is_/same_as :: [Giant_Panda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae/Giant_Panda.private.md) 
+
+### #is_/same_as :: [Giant_Panda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae/Giant_Panda.personal.md) 
+
+### #is_/same_as :: [Giant_Panda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae/Giant_Panda.secret.md)
+

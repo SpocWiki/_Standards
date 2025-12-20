@@ -51,3 +51,22 @@ Binary Operators allow for a **convenient infix Notation**:  op(a, b) = a op b
 > [Wikipedia](https://en.wikipedia.org/wiki/Binary%20operation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Operator~binary](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary.md) 
+
+### #is_/same_as :: [Operator~binary.public](/_public/Mathematics/Function(Math)/Function~binary/Operator~binary.public.md) 
+
+### #is_/same_as :: [Operator~binary.internal](/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary.internal.md) 
+
+### #is_/same_as :: [Operator~binary.protect](/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary.protect.md) 
+
+### #is_/same_as :: [Operator~binary.private](/_private/Mathematics/Function(Math)/Function~binary/Operator~binary.private.md) 
+
+### #is_/same_as :: [Operator~binary.personal](/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary.personal.md) 
+
+### #is_/same_as :: [Operator~binary.secret](/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary.secret.md)
+

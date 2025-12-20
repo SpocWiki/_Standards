@@ -22,3 +22,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chinese_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature.md) 
+
+### #is_/same_as :: [Chinese_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature.public.md) 
+
+### #is_/same_as :: [Chinese_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature.internal.md) 
+
+### #is_/same_as :: [Chinese_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature.protect.md) 
+
+### #is_/same_as :: [Chinese_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature.private.md) 
+
+### #is_/same_as :: [Chinese_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature.personal.md) 
+
+### #is_/same_as :: [Chinese_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature.secret.md)
+

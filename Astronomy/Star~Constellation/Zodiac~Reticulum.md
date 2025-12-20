@@ -42,6 +42,7 @@ official_name: Reticulum
 
 #is_/same_as :: [[_Standards/WikiData/WD~Reticulum,10498]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Reticulum](/_Standards/Astronomy/Star~Constellation/Zodiac~Reticulum.md) 

@@ -215,3 +215,22 @@ ISNI: "0000000120993749"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Hogarth)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hogarth,William](/_Standards/Society/Communication/Media/Painting/Painter/Hogarth,William.md) 
+
+### #is_/same_as :: [Hogarth,William.public](/_public/Society/Communication/Media/Painting/Painter/Hogarth,William.public.md) 
+
+### #is_/same_as :: [Hogarth,William.internal](/_internal/Society/Communication/Media/Painting/Painter/Hogarth,William.internal.md) 
+
+### #is_/same_as :: [Hogarth,William.protect](/_protect/Society/Communication/Media/Painting/Painter/Hogarth,William.protect.md) 
+
+### #is_/same_as :: [Hogarth,William.private](/_private/Society/Communication/Media/Painting/Painter/Hogarth,William.private.md) 
+
+### #is_/same_as :: [Hogarth,William.personal](/_personal/Society/Communication/Media/Painting/Painter/Hogarth,William.personal.md) 
+
+### #is_/same_as :: [Hogarth,William.secret](/_secret/Society/Communication/Media/Painting/Painter/Hogarth,William.secret.md)
+

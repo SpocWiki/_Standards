@@ -46,3 +46,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20cohesiveness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Cohesion](/_Standards/Society/Social_Relation/Group_Dynamics/Social_Cohesion.md) 
+
+### #is_/same_as :: [Social_Cohesion.public](/_public/Society/Social_Relation/Group_Dynamics/Social_Cohesion.public.md) 
+
+### #is_/same_as :: [Social_Cohesion.internal](/_internal/Society/Social_Relation/Group_Dynamics/Social_Cohesion.internal.md) 
+
+### #is_/same_as :: [Social_Cohesion.protect](/_protect/Society/Social_Relation/Group_Dynamics/Social_Cohesion.protect.md) 
+
+### #is_/same_as :: [Social_Cohesion.private](/_private/Society/Social_Relation/Group_Dynamics/Social_Cohesion.private.md) 
+
+### #is_/same_as :: [Social_Cohesion.personal](/_personal/Society/Social_Relation/Group_Dynamics/Social_Cohesion.personal.md) 
+
+### #is_/same_as :: [Social_Cohesion.secret](/_secret/Society/Social_Relation/Group_Dynamics/Social_Cohesion.secret.md)
+

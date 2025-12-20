@@ -44,3 +44,22 @@ Provenio_UUID: 422db0f8-6330-4d19-a0e2-fd08a83ded27
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orthography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orthography](/_Standards/Language/Writing_System/Orthography.md) 
+
+### #is_/same_as :: [Orthography.public](/_public/Language/Writing_System/Orthography.public.md) 
+
+### #is_/same_as :: [Orthography.internal](/_internal/Language/Writing_System/Orthography.internal.md) 
+
+### #is_/same_as :: [Orthography.protect](/_protect/Language/Writing_System/Orthography.protect.md) 
+
+### #is_/same_as :: [Orthography.private](/_private/Language/Writing_System/Orthography.private.md) 
+
+### #is_/same_as :: [Orthography.personal](/_personal/Language/Writing_System/Orthography.personal.md) 
+
+### #is_/same_as :: [Orthography.secret](/_secret/Language/Writing_System/Orthography.secret.md)
+

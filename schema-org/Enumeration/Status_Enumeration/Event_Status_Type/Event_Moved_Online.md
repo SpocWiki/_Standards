@@ -40,17 +40,17 @@ Indicates that the event was changed to allow online participation. See [[eventA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Moved_Online](Event_Moved_Online.md) 
+### #is_/same_as :: [Event_Moved_Online](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.md) 
 
-### #is_/same_as :: [event_moved_online.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.public.md) 
+### #is_/same_as :: [Event_Moved_Online.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.public.md) 
 
-### #is_/same_as :: [event_moved_online.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.internal.md) 
+### #is_/same_as :: [Event_Moved_Online.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.internal.md) 
 
-### #is_/same_as :: [event_moved_online.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.protect.md) 
+### #is_/same_as :: [Event_Moved_Online.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.protect.md) 
 
-### #is_/same_as :: [event_moved_online.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.private.md) 
+### #is_/same_as :: [Event_Moved_Online.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.private.md) 
 
-### #is_/same_as :: [event_moved_online.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.personal.md) 
+### #is_/same_as :: [Event_Moved_Online.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.personal.md) 
 
-### #is_/same_as :: [event_moved_online.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.secret.md)
+### #is_/same_as :: [Event_Moved_Online.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.secret.md)
 

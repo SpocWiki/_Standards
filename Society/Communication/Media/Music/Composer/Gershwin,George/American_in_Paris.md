@@ -32,3 +32,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [American_in_Paris](/_Standards/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.md) 
+
+### #is_/same_as :: [American_in_Paris.public](/_public/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.public.md) 
+
+### #is_/same_as :: [American_in_Paris.internal](/_internal/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.internal.md) 
+
+### #is_/same_as :: [American_in_Paris.protect](/_protect/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.protect.md) 
+
+### #is_/same_as :: [American_in_Paris.private](/_private/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.private.md) 
+
+### #is_/same_as :: [American_in_Paris.personal](/_personal/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.personal.md) 
+
+### #is_/same_as :: [American_in_Paris.secret](/_secret/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.secret.md)
+

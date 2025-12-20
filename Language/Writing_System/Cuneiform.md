@@ -97,3 +97,22 @@ ISO_15924_alpha_4_code: Xsux
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cuneiform) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cuneiform](/_Standards/Language/Writing_System/Cuneiform.md) 
+
+### #is_/same_as :: [Cuneiform.public](/_public/Language/Writing_System/Cuneiform.public.md) 
+
+### #is_/same_as :: [Cuneiform.internal](/_internal/Language/Writing_System/Cuneiform.internal.md) 
+
+### #is_/same_as :: [Cuneiform.protect](/_protect/Language/Writing_System/Cuneiform.protect.md) 
+
+### #is_/same_as :: [Cuneiform.private](/_private/Language/Writing_System/Cuneiform.private.md) 
+
+### #is_/same_as :: [Cuneiform.personal](/_personal/Language/Writing_System/Cuneiform.personal.md) 
+
+### #is_/same_as :: [Cuneiform.secret](/_secret/Language/Writing_System/Cuneiform.secret.md)
+

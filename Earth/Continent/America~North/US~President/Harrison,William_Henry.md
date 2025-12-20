@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Harrison,William_Henry
 - "William Henry Harrison"
@@ -92,4 +92,23 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Henry%20Harrison)
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harrison,William_Henry](/_Standards/Earth/Continent/America~North/US~President/Harrison,William_Henry.md) 
+
+### #is_/same_as :: [Harrison,William_Henry.public](/_public/Earth/Continent/America~North/US~President/Harrison,William_Henry.public.md) 
+
+### #is_/same_as :: [Harrison,William_Henry.internal](/_internal/Earth/Continent/America~North/US~President/Harrison,William_Henry.internal.md) 
+
+### #is_/same_as :: [Harrison,William_Henry.protect](/_protect/Earth/Continent/America~North/US~President/Harrison,William_Henry.protect.md) 
+
+### #is_/same_as :: [Harrison,William_Henry.private](/_private/Earth/Continent/America~North/US~President/Harrison,William_Henry.private.md) 
+
+### #is_/same_as :: [Harrison,William_Henry.personal](/_personal/Earth/Continent/America~North/US~President/Harrison,William_Henry.personal.md) 
+
+### #is_/same_as :: [Harrison,William_Henry.secret](/_secret/Earth/Continent/America~North/US~President/Harrison,William_Henry.secret.md)
 

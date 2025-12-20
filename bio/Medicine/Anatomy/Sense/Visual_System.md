@@ -53,3 +53,22 @@ Commons_category: Visual system
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Visual%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Visual_System](/_Standards/bio/Medicine/Anatomy/Sense/Visual_System.md) 
+
+### #is_/same_as :: [Visual_System.public](/_public/bio/Medicine/Anatomy/Sense/Visual_System.public.md) 
+
+### #is_/same_as :: [Visual_System.internal](/_internal/bio/Medicine/Anatomy/Sense/Visual_System.internal.md) 
+
+### #is_/same_as :: [Visual_System.protect](/_protect/bio/Medicine/Anatomy/Sense/Visual_System.protect.md) 
+
+### #is_/same_as :: [Visual_System.private](/_private/bio/Medicine/Anatomy/Sense/Visual_System.private.md) 
+
+### #is_/same_as :: [Visual_System.personal](/_personal/bio/Medicine/Anatomy/Sense/Visual_System.personal.md) 
+
+### #is_/same_as :: [Visual_System.secret](/_secret/bio/Medicine/Anatomy/Sense/Visual_System.secret.md)
+

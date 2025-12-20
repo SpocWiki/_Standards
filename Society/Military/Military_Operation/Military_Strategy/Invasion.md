@@ -51,3 +51,22 @@ Gujarati_Vishwakosh_entry: આક્રમણ-આંતરરાષ્ટ્ર�
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Invasion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Invasion](/_Standards/Society/Military/Military_Operation/Military_Strategy/Invasion.md) 
+
+### #is_/same_as :: [Invasion.public](/_public/Society/Military/Military_Operation/Military_Strategy/Invasion.public.md) 
+
+### #is_/same_as :: [Invasion.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Invasion.internal.md) 
+
+### #is_/same_as :: [Invasion.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Invasion.protect.md) 
+
+### #is_/same_as :: [Invasion.private](/_private/Society/Military/Military_Operation/Military_Strategy/Invasion.private.md) 
+
+### #is_/same_as :: [Invasion.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Invasion.personal.md) 
+
+### #is_/same_as :: [Invasion.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Invasion.secret.md)
+

@@ -71,3 +71,22 @@ Gujarati_Vishwakosh_entry: આદું
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ginger) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ginger(Spice)](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Ginger(Spice).md) 
+
+### #is_/same_as :: [Ginger(Spice).public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Ginger(Spice).public.md) 
+
+### #is_/same_as :: [Ginger(Spice).internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Ginger(Spice).internal.md) 
+
+### #is_/same_as :: [Ginger(Spice).protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Ginger(Spice).protect.md) 
+
+### #is_/same_as :: [Ginger(Spice).private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Ginger(Spice).private.md) 
+
+### #is_/same_as :: [Ginger(Spice).personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Ginger(Spice).personal.md) 
+
+### #is_/same_as :: [Ginger(Spice).secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Ginger(Spice).secret.md)
+

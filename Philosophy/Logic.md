@@ -132,6 +132,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_logic,7112678]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Logic)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Logic](/_Standards/Philosophy/Logic.md) 

@@ -25,3 +25,22 @@ publication_date: 2005-08-29T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Question!) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [SOAD~Question!](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Question!.md) 
+
+### #is_/same_as :: [SOAD~Question!.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Question!.public.md) 
+
+### #is_/same_as :: [SOAD~Question!.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Question!.internal.md) 
+
+### #is_/same_as :: [SOAD~Question!.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Question!.protect.md) 
+
+### #is_/same_as :: [SOAD~Question!.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Question!.private.md) 
+
+### #is_/same_as :: [SOAD~Question!.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Question!.personal.md) 
+
+### #is_/same_as :: [SOAD~Question!.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Question!.secret.md)
+

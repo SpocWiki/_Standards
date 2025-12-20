@@ -353,3 +353,22 @@ Plex_person_key: 5d776838999c64001ec2fe76
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chomsky,Noam](/_Standards/Language/Linguistics/Linguist/Chomsky,Noam.md) 
+
+### #is_/same_as :: [Chomsky,Noam.public](/_public/Language/Linguistics/Linguist/Chomsky,Noam.public.md) 
+
+### #is_/same_as :: [Chomsky,Noam.internal](/_internal/Language/Linguistics/Linguist/Chomsky,Noam.internal.md) 
+
+### #is_/same_as :: [Chomsky,Noam.protect](/_protect/Language/Linguistics/Linguist/Chomsky,Noam.protect.md) 
+
+### #is_/same_as :: [Chomsky,Noam.private](/_private/Language/Linguistics/Linguist/Chomsky,Noam.private.md) 
+
+### #is_/same_as :: [Chomsky,Noam.personal](/_personal/Language/Linguistics/Linguist/Chomsky,Noam.personal.md) 
+
+### #is_/same_as :: [Chomsky,Noam.secret](/_secret/Language/Linguistics/Linguist/Chomsky,Noam.secret.md)
+

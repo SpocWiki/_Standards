@@ -172,3 +172,22 @@ Libris_URI: ljx02gr44ffn25w
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Koch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Koch,Robert](/_Standards/bio/Microbiology/Koch,Robert.md) 
+
+### #is_/same_as :: [Koch,Robert.public](/_public/bio/Microbiology/Koch,Robert.public.md) 
+
+### #is_/same_as :: [Koch,Robert.internal](/_internal/bio/Microbiology/Koch,Robert.internal.md) 
+
+### #is_/same_as :: [Koch,Robert.protect](/_protect/bio/Microbiology/Koch,Robert.protect.md) 
+
+### #is_/same_as :: [Koch,Robert.private](/_private/bio/Microbiology/Koch,Robert.private.md) 
+
+### #is_/same_as :: [Koch,Robert.personal](/_personal/bio/Microbiology/Koch,Robert.personal.md) 
+
+### #is_/same_as :: [Koch,Robert.secret](/_secret/bio/Microbiology/Koch,Robert.secret.md)
+

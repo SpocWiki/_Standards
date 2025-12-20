@@ -80,8 +80,6 @@ UNII: L56Z1JK48B
 > [Wikipedia](https://en.wikipedia.org/wiki/Carrot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Carrot](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.md) 

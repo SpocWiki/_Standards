@@ -117,7 +117,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci., 47:
   Location ::           off Hawaii
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 Alex Malahoff, Hawaii Undersea Research Laboratory
-  -----------------------
+  -----------------------
 
 
 ## Confidential Links & Embeds: 

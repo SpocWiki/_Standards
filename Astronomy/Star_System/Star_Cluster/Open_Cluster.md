@@ -18,3 +18,22 @@ has_id_wikidata: Q11387
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Open%20cluster) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Open_Cluster](/_Standards/Astronomy/Star_System/Star_Cluster/Open_Cluster.md) 
+
+### #is_/same_as :: [Open_Cluster.public](/_public/Astronomy/Star_System/Star_Cluster/Open_Cluster.public.md) 
+
+### #is_/same_as :: [Open_Cluster.internal](/_internal/Astronomy/Star_System/Star_Cluster/Open_Cluster.internal.md) 
+
+### #is_/same_as :: [Open_Cluster.protect](/_protect/Astronomy/Star_System/Star_Cluster/Open_Cluster.protect.md) 
+
+### #is_/same_as :: [Open_Cluster.private](/_private/Astronomy/Star_System/Star_Cluster/Open_Cluster.private.md) 
+
+### #is_/same_as :: [Open_Cluster.personal](/_personal/Astronomy/Star_System/Star_Cluster/Open_Cluster.personal.md) 
+
+### #is_/same_as :: [Open_Cluster.secret](/_secret/Astronomy/Star_System/Star_Cluster/Open_Cluster.secret.md)
+

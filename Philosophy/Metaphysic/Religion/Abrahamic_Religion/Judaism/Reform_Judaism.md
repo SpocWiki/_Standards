@@ -34,3 +34,22 @@ native_label: יהדות רפורמית
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reform%20Judaism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reform_Judaism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.md) 
+
+### #is_/same_as :: [Reform_Judaism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.public.md) 
+
+### #is_/same_as :: [Reform_Judaism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.internal.md) 
+
+### #is_/same_as :: [Reform_Judaism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.protect.md) 
+
+### #is_/same_as :: [Reform_Judaism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.private.md) 
+
+### #is_/same_as :: [Reform_Judaism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.personal.md) 
+
+### #is_/same_as :: [Reform_Judaism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.secret.md)
+

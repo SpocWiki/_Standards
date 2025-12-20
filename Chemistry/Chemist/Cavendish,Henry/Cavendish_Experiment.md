@@ -30,3 +30,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cavendish%20experiment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cavendish_Experiment](/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.md) 
+
+### #is_/same_as :: [Cavendish_Experiment.public](/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public.md) 
+
+### #is_/same_as :: [Cavendish_Experiment.internal](/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal.md) 
+
+### #is_/same_as :: [Cavendish_Experiment.protect](/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect.md) 
+
+### #is_/same_as :: [Cavendish_Experiment.private](/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private.md) 
+
+### #is_/same_as :: [Cavendish_Experiment.personal](/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal.md) 
+
+### #is_/same_as :: [Cavendish_Experiment.secret](/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret.md)
+

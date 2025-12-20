@@ -124,17 +124,17 @@ U_S_National_Archives_Identifier: 10643595
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Telephone](/_Standards/Society/Communication/Telephone.md) 
+### #is_/same_as :: [Telephone](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone.md) 
 
-### #is_/same_as :: [Telephone.public](/_public/Society/Communication/Telephone.public.md) 
+### #is_/same_as :: [Telephone.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone.public.md) 
 
-### #is_/same_as :: [Telephone.internal](/_internal/Society/Communication/Telephone.internal.md) 
+### #is_/same_as :: [Telephone.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone.internal.md) 
 
-### #is_/same_as :: [Telephone.protect](/_protect/Society/Communication/Telephone.protect.md) 
+### #is_/same_as :: [Telephone.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone.protect.md) 
 
-### #is_/same_as :: [Telephone.private](/_private/Society/Communication/Telephone.private.md) 
+### #is_/same_as :: [Telephone.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone.private.md) 
 
-### #is_/same_as :: [Telephone.personal](/_personal/Society/Communication/Telephone.personal.md) 
+### #is_/same_as :: [Telephone.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone.personal.md) 
 
-### #is_/same_as :: [Telephone.secret](/_secret/Society/Communication/Telephone.secret.md)
+### #is_/same_as :: [Telephone.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone.secret.md)
 

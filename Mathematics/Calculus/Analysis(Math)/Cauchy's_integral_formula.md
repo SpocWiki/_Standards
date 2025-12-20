@@ -36,3 +36,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cauchy's%20integral%20formula) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cauchy's_integral_formula](/_Standards/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.md) 
+
+### #is_/same_as :: [Cauchy's_integral_formula.public](/_public/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.public.md) 
+
+### #is_/same_as :: [Cauchy's_integral_formula.internal](/_internal/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.internal.md) 
+
+### #is_/same_as :: [Cauchy's_integral_formula.protect](/_protect/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.protect.md) 
+
+### #is_/same_as :: [Cauchy's_integral_formula.private](/_private/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.private.md) 
+
+### #is_/same_as :: [Cauchy's_integral_formula.personal](/_personal/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.personal.md) 
+
+### #is_/same_as :: [Cauchy's_integral_formula.secret](/_secret/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.secret.md)
+

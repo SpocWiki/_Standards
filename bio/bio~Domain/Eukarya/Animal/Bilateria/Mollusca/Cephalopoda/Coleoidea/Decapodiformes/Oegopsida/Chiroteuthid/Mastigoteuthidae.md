@@ -280,7 +280,7 @@ African Jour. Mar. Sci., 20: 393-420.
   Specimen Condition   Live Specimen
   Identified By        M. Vecchione
   Copyright ::            © 2004 David Shale
-  ------------------------------------------------
+  ------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

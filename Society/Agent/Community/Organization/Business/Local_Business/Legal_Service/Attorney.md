@@ -41,17 +41,17 @@ This type is deprecated - [[LegalService]] is more inclusive and less ambiguous.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Attorney](Attorney.md) 
+### #is_/same_as :: [Attorney](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.md) 
 
-### #is_/same_as :: [Attorney.public](/_public/Society/Organization/Local_Business/Legal_Service/Attorney.public.md) 
+### #is_/same_as :: [Attorney.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.public.md) 
 
-### #is_/same_as :: [Attorney.internal](/_internal/Society/Organization/Local_Business/Legal_Service/Attorney.internal.md) 
+### #is_/same_as :: [Attorney.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.internal.md) 
 
-### #is_/same_as :: [Attorney.protect](/_protect/Society/Organization/Local_Business/Legal_Service/Attorney.protect.md) 
+### #is_/same_as :: [Attorney.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.protect.md) 
 
-### #is_/same_as :: [Attorney.private](/_private/Society/Organization/Local_Business/Legal_Service/Attorney.private.md) 
+### #is_/same_as :: [Attorney.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.private.md) 
 
-### #is_/same_as :: [Attorney.personal](/_personal/Society/Organization/Local_Business/Legal_Service/Attorney.personal.md) 
+### #is_/same_as :: [Attorney.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.personal.md) 
 
-### #is_/same_as :: [Attorney.secret](/_secret/Society/Organization/Local_Business/Legal_Service/Attorney.secret.md)
+### #is_/same_as :: [Attorney.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.secret.md)
 

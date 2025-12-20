@@ -175,7 +175,7 @@ spider genera (Spider, Lycosidae). J. Arachnol. 30:227--237.
   View                 Frontal
   Size                 ca. 15mm
   Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
-  -------------------------------------------------------------------------
+  -------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -115,3 +115,22 @@ Libris_URI: dbqsmwnx06nfst5
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Ford) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ford,John](/_Standards/Society/Communication/Media/Movie/Movie-Director/Ford,John.md) 
+
+### #is_/same_as :: [Ford,John.public](/_public/Society/Communication/Media/Movie/Movie-Director/Ford,John.public.md) 
+
+### #is_/same_as :: [Ford,John.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Ford,John.internal.md) 
+
+### #is_/same_as :: [Ford,John.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Ford,John.protect.md) 
+
+### #is_/same_as :: [Ford,John.private](/_private/Society/Communication/Media/Movie/Movie-Director/Ford,John.private.md) 
+
+### #is_/same_as :: [Ford,John.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Ford,John.personal.md) 
+
+### #is_/same_as :: [Ford,John.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Ford,John.secret.md)
+

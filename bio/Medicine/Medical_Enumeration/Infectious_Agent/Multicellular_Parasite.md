@@ -43,17 +43,17 @@ Multicellular parasite that causes an infection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [multicellular_parasite](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.md) 
+### #is_/same_as :: [Multicellular_Parasite](/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/Multicellular_Parasite.md) 
 
-### #is_/same_as :: [multicellular_parasite.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.public.md) 
+### #is_/same_as :: [Multicellular_Parasite.public](/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/Multicellular_Parasite.public.md) 
 
-### #is_/same_as :: [multicellular_parasite.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.internal.md) 
+### #is_/same_as :: [Multicellular_Parasite.internal](/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Multicellular_Parasite.internal.md) 
 
-### #is_/same_as :: [multicellular_parasite.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.protect.md) 
+### #is_/same_as :: [Multicellular_Parasite.protect](/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/Multicellular_Parasite.protect.md) 
 
-### #is_/same_as :: [multicellular_parasite.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.private.md) 
+### #is_/same_as :: [Multicellular_Parasite.private](/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/Multicellular_Parasite.private.md) 
 
-### #is_/same_as :: [multicellular_parasite.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.personal.md) 
+### #is_/same_as :: [Multicellular_Parasite.personal](/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Multicellular_Parasite.personal.md) 
 
-### #is_/same_as :: [multicellular_parasite.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.secret.md)
+### #is_/same_as :: [Multicellular_Parasite.secret](/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/Multicellular_Parasite.secret.md)
 

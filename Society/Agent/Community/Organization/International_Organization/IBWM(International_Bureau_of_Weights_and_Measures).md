@@ -66,3 +66,22 @@ official_name: BUREAU INTERNATIONAL POIDS ET MESURES
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Bureau%20of%20Weights%20and%20Measures) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures)](/_Standards/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).md) 
+
+### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).public](/_public/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).public.md) 
+
+### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).internal](/_internal/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).internal.md) 
+
+### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).protect](/_protect/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).protect.md) 
+
+### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).private](/_private/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).private.md) 
+
+### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).personal](/_personal/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).personal.md) 
+
+### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).secret](/_secret/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).secret.md)
+

@@ -43,3 +43,22 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Conformal%20ma
 > [Wikipedia](https://en.wikipedia.org/wiki/Holomorphic%20function) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holomorphic_Function](/_Standards/Mathematics/Function(Math)/smooth_Function/Holomorphic_Function.md) 
+
+### #is_/same_as :: [Holomorphic_Function.public](/_public/Mathematics/Function(Math)/smooth_Function/Holomorphic_Function.public.md) 
+
+### #is_/same_as :: [Holomorphic_Function.internal](/_internal/Mathematics/Function(Math)/smooth_Function/Holomorphic_Function.internal.md) 
+
+### #is_/same_as :: [Holomorphic_Function.protect](/_protect/Mathematics/Function(Math)/smooth_Function/Holomorphic_Function.protect.md) 
+
+### #is_/same_as :: [Holomorphic_Function.private](/_private/Mathematics/Function(Math)/smooth_Function/Holomorphic_Function.private.md) 
+
+### #is_/same_as :: [Holomorphic_Function.personal](/_personal/Mathematics/Function(Math)/smooth_Function/Holomorphic_Function.personal.md) 
+
+### #is_/same_as :: [Holomorphic_Function.secret](/_secret/Mathematics/Function(Math)/smooth_Function/Holomorphic_Function.secret.md)
+

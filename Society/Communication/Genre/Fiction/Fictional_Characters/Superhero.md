@@ -95,3 +95,22 @@ male_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Superhero) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Superhero](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.md) 
+
+### #is_/same_as :: [Superhero.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.public.md) 
+
+### #is_/same_as :: [Superhero.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.internal.md) 
+
+### #is_/same_as :: [Superhero.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.protect.md) 
+
+### #is_/same_as :: [Superhero.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.private.md) 
+
+### #is_/same_as :: [Superhero.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.personal.md) 
+
+### #is_/same_as :: [Superhero.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.secret.md)
+

@@ -71,3 +71,22 @@ Commons_category: Speech synthesis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Speech%20synthesis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Speech_Synthesis](/_Standards/Language/Speech/Speech_Synthesis.md) 
+
+### #is_/same_as :: [Speech_Synthesis.public](/_public/Language/Speech/Speech_Synthesis.public.md) 
+
+### #is_/same_as :: [Speech_Synthesis.internal](/_internal/Language/Speech/Speech_Synthesis.internal.md) 
+
+### #is_/same_as :: [Speech_Synthesis.protect](/_protect/Language/Speech/Speech_Synthesis.protect.md) 
+
+### #is_/same_as :: [Speech_Synthesis.private](/_private/Language/Speech/Speech_Synthesis.private.md) 
+
+### #is_/same_as :: [Speech_Synthesis.personal](/_personal/Language/Speech/Speech_Synthesis.personal.md) 
+
+### #is_/same_as :: [Speech_Synthesis.secret](/_secret/Language/Speech/Speech_Synthesis.secret.md)
+

@@ -52,3 +52,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ideal%20gas%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ideal_Gas_Law](/_Standards/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.md) 
+
+### #is_/same_as :: [Ideal_Gas_Law.public](/_public/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.public.md) 
+
+### #is_/same_as :: [Ideal_Gas_Law.internal](/_internal/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.internal.md) 
+
+### #is_/same_as :: [Ideal_Gas_Law.protect](/_protect/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.protect.md) 
+
+### #is_/same_as :: [Ideal_Gas_Law.private](/_private/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.private.md) 
+
+### #is_/same_as :: [Ideal_Gas_Law.personal](/_personal/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.personal.md) 
+
+### #is_/same_as :: [Ideal_Gas_Law.secret](/_secret/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.secret.md)
+

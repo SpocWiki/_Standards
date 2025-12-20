@@ -116,3 +116,22 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Road) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Road](/_Standards/Technology/Transport/Road_Transport/Road.md) 
+
+### #is_/same_as :: [Road.public](/_public/Technology/Transport/Road_Transport/Road.public.md) 
+
+### #is_/same_as :: [Road.internal](/_internal/Technology/Transport/Road_Transport/Road.internal.md) 
+
+### #is_/same_as :: [Road.protect](/_protect/Technology/Transport/Road_Transport/Road.protect.md) 
+
+### #is_/same_as :: [Road.private](/_private/Technology/Transport/Road_Transport/Road.private.md) 
+
+### #is_/same_as :: [Road.personal](/_personal/Technology/Transport/Road_Transport/Road.personal.md) 
+
+### #is_/same_as :: [Road.secret](/_secret/Technology/Transport/Road_Transport/Road.secret.md)
+

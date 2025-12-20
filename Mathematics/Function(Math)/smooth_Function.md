@@ -40,3 +40,22 @@ disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,237664
 > [Wikipedia](https://en.wikipedia.org/wiki/Smoothness) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [smooth_Function](/_Standards/Mathematics/Function(Math)/smooth_Function.md) 
+
+### #is_/same_as :: [smooth_Function.public](/_public/Mathematics/Function(Math)/smooth_Function.public.md) 
+
+### #is_/same_as :: [smooth_Function.internal](/_internal/Mathematics/Function(Math)/smooth_Function.internal.md) 
+
+### #is_/same_as :: [smooth_Function.protect](/_protect/Mathematics/Function(Math)/smooth_Function.protect.md) 
+
+### #is_/same_as :: [smooth_Function.private](/_private/Mathematics/Function(Math)/smooth_Function.private.md) 
+
+### #is_/same_as :: [smooth_Function.personal](/_personal/Mathematics/Function(Math)/smooth_Function.personal.md) 
+
+### #is_/same_as :: [smooth_Function.secret](/_secret/Mathematics/Function(Math)/smooth_Function.secret.md)
+

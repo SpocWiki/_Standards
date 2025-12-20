@@ -41,17 +41,17 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lifestyle_Modification](/_Standards/bio/Medicine/Therapy/Lifestyle_Modification.md) 
+### #is_/same_as :: [Lifestyle_Modification](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification.md) 
 
-### #is_/same_as :: [Lifestyle_Modification.public](/_public/bio/Medicine/Therapy/Lifestyle_Modification.public.md) 
+### #is_/same_as :: [Lifestyle_Modification.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification.public.md) 
 
-### #is_/same_as :: [Lifestyle_Modification.internal](/_internal/bio/Medicine/Therapy/Lifestyle_Modification.internal.md) 
+### #is_/same_as :: [Lifestyle_Modification.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification.internal.md) 
 
-### #is_/same_as :: [Lifestyle_Modification.protect](/_protect/bio/Medicine/Therapy/Lifestyle_Modification.protect.md) 
+### #is_/same_as :: [Lifestyle_Modification.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification.protect.md) 
 
-### #is_/same_as :: [Lifestyle_Modification.private](/_private/bio/Medicine/Therapy/Lifestyle_Modification.private.md) 
+### #is_/same_as :: [Lifestyle_Modification.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification.private.md) 
 
-### #is_/same_as :: [Lifestyle_Modification.personal](/_personal/bio/Medicine/Therapy/Lifestyle_Modification.personal.md) 
+### #is_/same_as :: [Lifestyle_Modification.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification.personal.md) 
 
-### #is_/same_as :: [Lifestyle_Modification.secret](/_secret/bio/Medicine/Therapy/Lifestyle_Modification.secret.md)
+### #is_/same_as :: [Lifestyle_Modification.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification.secret.md)
 

@@ -39,17 +39,17 @@ A bar or pub.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bar_or_Pub](Bar_or_Pub.md) 
+### #is_/same_as :: [Bar_or_Pub](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.md) 
 
-### #is_/same_as :: [Bar_or_Pub.public](/_public/Society/Organization/Local_Business/Food_Establishment/Bar_or_Pub.public.md) 
+### #is_/same_as :: [Bar_or_Pub.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.public.md) 
 
-### #is_/same_as :: [Bar_or_Pub.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Bar_or_Pub.internal.md) 
+### #is_/same_as :: [Bar_or_Pub.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.internal.md) 
 
-### #is_/same_as :: [Bar_or_Pub.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Bar_or_Pub.protect.md) 
+### #is_/same_as :: [Bar_or_Pub.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.protect.md) 
 
-### #is_/same_as :: [Bar_or_Pub.private](/_private/Society/Organization/Local_Business/Food_Establishment/Bar_or_Pub.private.md) 
+### #is_/same_as :: [Bar_or_Pub.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.private.md) 
 
-### #is_/same_as :: [Bar_or_Pub.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Bar_or_Pub.personal.md) 
+### #is_/same_as :: [Bar_or_Pub.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.personal.md) 
 
-### #is_/same_as :: [Bar_or_Pub.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Bar_or_Pub.secret.md)
+### #is_/same_as :: [Bar_or_Pub.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bar_or_Pub.secret.md)
 

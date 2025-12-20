@@ -81,3 +81,22 @@ Commons_category: Singer-songwriters
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Singer-songwriter) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Singer-Songwriter](/_Standards/Society/Communication/Media/Music/Musician/Singer-Songwriter.md) 
+
+### #is_/same_as :: [Singer-Songwriter.public](/_public/Society/Communication/Media/Music/Musician/Singer-Songwriter.public.md) 
+
+### #is_/same_as :: [Singer-Songwriter.internal](/_internal/Society/Communication/Media/Music/Musician/Singer-Songwriter.internal.md) 
+
+### #is_/same_as :: [Singer-Songwriter.protect](/_protect/Society/Communication/Media/Music/Musician/Singer-Songwriter.protect.md) 
+
+### #is_/same_as :: [Singer-Songwriter.private](/_private/Society/Communication/Media/Music/Musician/Singer-Songwriter.private.md) 
+
+### #is_/same_as :: [Singer-Songwriter.personal](/_personal/Society/Communication/Media/Music/Musician/Singer-Songwriter.personal.md) 
+
+### #is_/same_as :: [Singer-Songwriter.secret](/_secret/Society/Communication/Media/Music/Musician/Singer-Songwriter.secret.md)
+

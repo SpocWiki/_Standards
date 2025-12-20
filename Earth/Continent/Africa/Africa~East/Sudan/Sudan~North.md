@@ -433,17 +433,17 @@ Capital :: [[Sudan~North/Counties/Khartoum]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sudan~North](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North.md) 
+### #is_/same_as :: [Sudan~North](/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.md) 
 
-### #is_/same_as :: [Sudan~North.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North.public.md) 
+### #is_/same_as :: [Sudan~North.public](/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.public.md) 
 
-### #is_/same_as :: [Sudan~North.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North.internal.md) 
+### #is_/same_as :: [Sudan~North.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.internal.md) 
 
-### #is_/same_as :: [Sudan~North.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North.protect.md) 
+### #is_/same_as :: [Sudan~North.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.protect.md) 
 
-### #is_/same_as :: [Sudan~North.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North.private.md) 
+### #is_/same_as :: [Sudan~North.private](/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.private.md) 
 
-### #is_/same_as :: [Sudan~North.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North.personal.md) 
+### #is_/same_as :: [Sudan~North.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.personal.md) 
 
-### #is_/same_as :: [Sudan~North.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North.secret.md)
+### #is_/same_as :: [Sudan~North.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.secret.md)
 

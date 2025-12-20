@@ -69,17 +69,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_General_relativity_sid
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [General_Relativity](/_Standards/Science/Physics/General_Relativity.md) 
+### #is_/same_as :: [General_Relativity](/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity.md) 
 
-### #is_/same_as :: [General_Relativity.public](/_public/Science/Physics/General_Relativity.public.md) 
+### #is_/same_as :: [General_Relativity.public](/_public/Science/Physics/Theory_of_Relativity/General_Relativity.public.md) 
 
-### #is_/same_as :: [General_Relativity.internal](/_internal/Science/Physics/General_Relativity.internal.md) 
+### #is_/same_as :: [General_Relativity.internal](/_internal/Science/Physics/Theory_of_Relativity/General_Relativity.internal.md) 
 
-### #is_/same_as :: [General_Relativity.protect](/_protect/Science/Physics/General_Relativity.protect.md) 
+### #is_/same_as :: [General_Relativity.protect](/_protect/Science/Physics/Theory_of_Relativity/General_Relativity.protect.md) 
 
-### #is_/same_as :: [General_Relativity.private](/_private/Science/Physics/General_Relativity.private.md) 
+### #is_/same_as :: [General_Relativity.private](/_private/Science/Physics/Theory_of_Relativity/General_Relativity.private.md) 
 
-### #is_/same_as :: [General_Relativity.personal](/_personal/Science/Physics/General_Relativity.personal.md) 
+### #is_/same_as :: [General_Relativity.personal](/_personal/Science/Physics/Theory_of_Relativity/General_Relativity.personal.md) 
 
-### #is_/same_as :: [General_Relativity.secret](/_secret/Science/Physics/General_Relativity.secret.md)
+### #is_/same_as :: [General_Relativity.secret](/_secret/Science/Physics/Theory_of_Relativity/General_Relativity.secret.md)
 

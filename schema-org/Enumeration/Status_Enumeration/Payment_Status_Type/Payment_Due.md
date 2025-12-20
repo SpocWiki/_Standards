@@ -40,17 +40,17 @@ The payment is due, but still within an acceptable time to be received.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Due](Payment_Due.md) 
+### #is_/same_as :: [Payment_Due](/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.md) 
 
-### #is_/same_as :: [payment_due.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.public.md) 
+### #is_/same_as :: [Payment_Due.public](/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.public.md) 
 
-### #is_/same_as :: [payment_due.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.internal.md) 
+### #is_/same_as :: [Payment_Due.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.internal.md) 
 
-### #is_/same_as :: [payment_due.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.protect.md) 
+### #is_/same_as :: [Payment_Due.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.protect.md) 
 
-### #is_/same_as :: [payment_due.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.private.md) 
+### #is_/same_as :: [Payment_Due.private](/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.private.md) 
 
-### #is_/same_as :: [payment_due.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.personal.md) 
+### #is_/same_as :: [Payment_Due.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.personal.md) 
 
-### #is_/same_as :: [payment_due.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.secret.md)
+### #is_/same_as :: [Payment_Due.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.secret.md)
 

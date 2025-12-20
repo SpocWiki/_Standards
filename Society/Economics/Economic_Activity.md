@@ -39,3 +39,21 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~business_activity,19862406]]"
 > It is also applied to such diverse subjects as crime, education, the family, feminism, law, philosophy, politics, religion, social institutions, war, science, and the environment.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Economics)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Economic_Activity](/_Standards/Society/Economics/Economic_Activity.md) 
+
+### #is_/same_as :: [Economic_Activity.public](/_public/Society/Economics/Economic_Activity.public.md) 
+
+### #is_/same_as :: [Economic_Activity.internal](/_internal/Society/Economics/Economic_Activity.internal.md) 
+
+### #is_/same_as :: [Economic_Activity.protect](/_protect/Society/Economics/Economic_Activity.protect.md) 
+
+### #is_/same_as :: [Economic_Activity.private](/_private/Society/Economics/Economic_Activity.private.md) 
+
+### #is_/same_as :: [Economic_Activity.personal](/_personal/Society/Economics/Economic_Activity.personal.md) 
+
+### #is_/same_as :: [Economic_Activity.secret](/_secret/Society/Economics/Economic_Activity.secret.md)
+

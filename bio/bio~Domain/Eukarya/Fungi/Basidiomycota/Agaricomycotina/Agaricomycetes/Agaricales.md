@@ -460,7 +460,7 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
   Acknowledgements     Image courtesy of Juan Santos
   Specimen Condition   Live Specimen
   Copyright ::            © [Juan Santos](http://www.nrm.se/researchandcollections/botany/cryptogamicbotany/staff/juansantos.4.5fdc727f10d795b1c6e80005951.html)
-  -----------------------------------------------
+  -----------------------------------------------
 
 
 ## Confidential Links & Embeds: 

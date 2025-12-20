@@ -54,3 +54,22 @@ MeSH_tree_code: I01.076.201.450.457
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethnology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ethnology](/_Standards/Society/Anthropology/Sociology/Ethnology.md) 
+
+### #is_/same_as :: [Ethnology.public](/_public/Society/Anthropology/Sociology/Ethnology.public.md) 
+
+### #is_/same_as :: [Ethnology.internal](/_internal/Society/Anthropology/Sociology/Ethnology.internal.md) 
+
+### #is_/same_as :: [Ethnology.protect](/_protect/Society/Anthropology/Sociology/Ethnology.protect.md) 
+
+### #is_/same_as :: [Ethnology.private](/_private/Society/Anthropology/Sociology/Ethnology.private.md) 
+
+### #is_/same_as :: [Ethnology.personal](/_personal/Society/Anthropology/Sociology/Ethnology.personal.md) 
+
+### #is_/same_as :: [Ethnology.secret](/_secret/Society/Anthropology/Sociology/Ethnology.secret.md)
+

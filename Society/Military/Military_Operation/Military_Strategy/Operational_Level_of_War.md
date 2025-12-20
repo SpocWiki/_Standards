@@ -55,3 +55,22 @@ instance_of: "[[_Standards/WikiData/WD~military_term,66740226]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Operational%20level%20of%20war) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Operational_Level_of_War](/_Standards/Society/Military/Military_Operation/Military_Strategy/Operational_Level_of_War.md) 
+
+### #is_/same_as :: [Operational_Level_of_War.public](/_public/Society/Military/Military_Operation/Military_Strategy/Operational_Level_of_War.public.md) 
+
+### #is_/same_as :: [Operational_Level_of_War.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Operational_Level_of_War.internal.md) 
+
+### #is_/same_as :: [Operational_Level_of_War.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Operational_Level_of_War.protect.md) 
+
+### #is_/same_as :: [Operational_Level_of_War.private](/_private/Society/Military/Military_Operation/Military_Strategy/Operational_Level_of_War.private.md) 
+
+### #is_/same_as :: [Operational_Level_of_War.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Operational_Level_of_War.personal.md) 
+
+### #is_/same_as :: [Operational_Level_of_War.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Operational_Level_of_War.secret.md)
+

@@ -73,3 +73,22 @@ Dewey_Decimal_Classification: "338.927"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sustainable%20development) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sustainable_Development](/_Standards/Society/Social_Issues/Sustainable_Development.md) 
+
+### #is_/same_as :: [Sustainable_Development.public](/_public/Society/Social_Issues/Sustainable_Development.public.md) 
+
+### #is_/same_as :: [Sustainable_Development.internal](/_internal/Society/Social_Issues/Sustainable_Development.internal.md) 
+
+### #is_/same_as :: [Sustainable_Development.protect](/_protect/Society/Social_Issues/Sustainable_Development.protect.md) 
+
+### #is_/same_as :: [Sustainable_Development.private](/_private/Society/Social_Issues/Sustainable_Development.private.md) 
+
+### #is_/same_as :: [Sustainable_Development.personal](/_personal/Society/Social_Issues/Sustainable_Development.personal.md) 
+
+### #is_/same_as :: [Sustainable_Development.secret](/_secret/Society/Social_Issues/Sustainable_Development.secret.md)
+

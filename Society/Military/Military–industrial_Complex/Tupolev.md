@@ -66,3 +66,22 @@ inception: 1922-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tupolev) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tupolev](/_Standards/Society/Military/Military–industrial_Complex/Tupolev.md) 
+
+### #is_/same_as :: [Tupolev.public](/_public/Society/Military/Military–industrial_Complex/Tupolev.public.md) 
+
+### #is_/same_as :: [Tupolev.internal](/_internal/Society/Military/Military–industrial_Complex/Tupolev.internal.md) 
+
+### #is_/same_as :: [Tupolev.protect](/_protect/Society/Military/Military–industrial_Complex/Tupolev.protect.md) 
+
+### #is_/same_as :: [Tupolev.private](/_private/Society/Military/Military–industrial_Complex/Tupolev.private.md) 
+
+### #is_/same_as :: [Tupolev.personal](/_personal/Society/Military/Military–industrial_Complex/Tupolev.personal.md) 
+
+### #is_/same_as :: [Tupolev.secret](/_secret/Society/Military/Military–industrial_Complex/Tupolev.secret.md)
+

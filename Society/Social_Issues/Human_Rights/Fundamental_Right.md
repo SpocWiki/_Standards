@@ -24,3 +24,22 @@ IPTC_NewsCode: mediatopic/20000587
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fundamental%20rights) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fundamental_Right](/_Standards/Society/Social_Issues/Human_Rights/Fundamental_Right.md) 
+
+### #is_/same_as :: [Fundamental_Right.public](/_public/Society/Social_Issues/Human_Rights/Fundamental_Right.public.md) 
+
+### #is_/same_as :: [Fundamental_Right.internal](/_internal/Society/Social_Issues/Human_Rights/Fundamental_Right.internal.md) 
+
+### #is_/same_as :: [Fundamental_Right.protect](/_protect/Society/Social_Issues/Human_Rights/Fundamental_Right.protect.md) 
+
+### #is_/same_as :: [Fundamental_Right.private](/_private/Society/Social_Issues/Human_Rights/Fundamental_Right.private.md) 
+
+### #is_/same_as :: [Fundamental_Right.personal](/_personal/Society/Social_Issues/Human_Rights/Fundamental_Right.personal.md) 
+
+### #is_/same_as :: [Fundamental_Right.secret](/_secret/Society/Social_Issues/Human_Rights/Fundamental_Right.secret.md)
+

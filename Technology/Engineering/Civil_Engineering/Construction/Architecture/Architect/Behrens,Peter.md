@@ -160,3 +160,22 @@ ISNI: "0000000109165301"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Behrens) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Behrens,Peter](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.md) 
+
+### #is_/same_as :: [Behrens,Peter.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.public.md) 
+
+### #is_/same_as :: [Behrens,Peter.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.internal.md) 
+
+### #is_/same_as :: [Behrens,Peter.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.protect.md) 
+
+### #is_/same_as :: [Behrens,Peter.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.private.md) 
+
+### #is_/same_as :: [Behrens,Peter.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.personal.md) 
+
+### #is_/same_as :: [Behrens,Peter.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.secret.md)
+

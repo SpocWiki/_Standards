@@ -41,3 +41,22 @@ Commons_category: Golden rule
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Golden%20Rule) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Golden_Rule](/_Standards/Philosophy/Ethics/Golden_Rule.md) 
+
+### #is_/same_as :: [Golden_Rule.public](/_public/Philosophy/Ethics/Golden_Rule.public.md) 
+
+### #is_/same_as :: [Golden_Rule.internal](/_internal/Philosophy/Ethics/Golden_Rule.internal.md) 
+
+### #is_/same_as :: [Golden_Rule.protect](/_protect/Philosophy/Ethics/Golden_Rule.protect.md) 
+
+### #is_/same_as :: [Golden_Rule.private](/_private/Philosophy/Ethics/Golden_Rule.private.md) 
+
+### #is_/same_as :: [Golden_Rule.personal](/_personal/Philosophy/Ethics/Golden_Rule.personal.md) 
+
+### #is_/same_as :: [Golden_Rule.secret](/_secret/Philosophy/Ethics/Golden_Rule.secret.md)
+

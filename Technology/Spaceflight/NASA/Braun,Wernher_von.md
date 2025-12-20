@@ -168,3 +168,22 @@ P1015: "90378049"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wernher%20von%20Braun) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Braun,Wernher_von](/_Standards/Technology/Spaceflight/NASA/Braun,Wernher_von.md) 
+
+### #is_/same_as :: [Braun,Wernher_von.public](/_public/Technology/Spaceflight/NASA/Braun,Wernher_von.public.md) 
+
+### #is_/same_as :: [Braun,Wernher_von.internal](/_internal/Technology/Spaceflight/NASA/Braun,Wernher_von.internal.md) 
+
+### #is_/same_as :: [Braun,Wernher_von.protect](/_protect/Technology/Spaceflight/NASA/Braun,Wernher_von.protect.md) 
+
+### #is_/same_as :: [Braun,Wernher_von.private](/_private/Technology/Spaceflight/NASA/Braun,Wernher_von.private.md) 
+
+### #is_/same_as :: [Braun,Wernher_von.personal](/_personal/Technology/Spaceflight/NASA/Braun,Wernher_von.personal.md) 
+
+### #is_/same_as :: [Braun,Wernher_von.secret](/_secret/Technology/Spaceflight/NASA/Braun,Wernher_von.secret.md)
+

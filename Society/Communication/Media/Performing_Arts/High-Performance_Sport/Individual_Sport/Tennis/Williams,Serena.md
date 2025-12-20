@@ -150,3 +150,22 @@ YouTube_handle: SerenaWilliams
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serena%20Williams) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Williams,Serena](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.md) 
+
+### #is_/same_as :: [Williams,Serena.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.public.md) 
+
+### #is_/same_as :: [Williams,Serena.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.internal.md) 
+
+### #is_/same_as :: [Williams,Serena.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.protect.md) 
+
+### #is_/same_as :: [Williams,Serena.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.private.md) 
+
+### #is_/same_as :: [Williams,Serena.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.personal.md) 
+
+### #is_/same_as :: [Williams,Serena.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.secret.md)
+

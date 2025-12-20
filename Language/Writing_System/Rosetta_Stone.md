@@ -116,3 +116,22 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rosetta%20Stone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rosetta_Stone](/_Standards/Language/Writing_System/Rosetta_Stone.md) 
+
+### #is_/same_as :: [Rosetta_Stone.public](/_public/Language/Writing_System/Rosetta_Stone.public.md) 
+
+### #is_/same_as :: [Rosetta_Stone.internal](/_internal/Language/Writing_System/Rosetta_Stone.internal.md) 
+
+### #is_/same_as :: [Rosetta_Stone.protect](/_protect/Language/Writing_System/Rosetta_Stone.protect.md) 
+
+### #is_/same_as :: [Rosetta_Stone.private](/_private/Language/Writing_System/Rosetta_Stone.private.md) 
+
+### #is_/same_as :: [Rosetta_Stone.personal](/_personal/Language/Writing_System/Rosetta_Stone.personal.md) 
+
+### #is_/same_as :: [Rosetta_Stone.secret](/_secret/Language/Writing_System/Rosetta_Stone.secret.md)
+

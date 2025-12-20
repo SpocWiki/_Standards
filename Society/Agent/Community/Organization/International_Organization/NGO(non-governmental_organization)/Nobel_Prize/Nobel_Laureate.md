@@ -21,3 +21,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20Nobel%20laureates) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nobel_Laureate](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.md) 
+
+### #is_/same_as :: [Nobel_Laureate.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.public.md) 
+
+### #is_/same_as :: [Nobel_Laureate.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.internal.md) 
+
+### #is_/same_as :: [Nobel_Laureate.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.protect.md) 
+
+### #is_/same_as :: [Nobel_Laureate.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.private.md) 
+
+### #is_/same_as :: [Nobel_Laureate.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.personal.md) 
+
+### #is_/same_as :: [Nobel_Laureate.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.secret.md)
+

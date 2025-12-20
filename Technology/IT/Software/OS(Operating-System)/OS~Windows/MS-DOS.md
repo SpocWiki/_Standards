@@ -84,3 +84,22 @@ IMDb_keyword: microsoft-dos
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/MS-DOS) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [MS-DOS](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS.md) 
+
+### #is_/same_as :: [MS-DOS.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS.public.md) 
+
+### #is_/same_as :: [MS-DOS.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS.internal.md) 
+
+### #is_/same_as :: [MS-DOS.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS.protect.md) 
+
+### #is_/same_as :: [MS-DOS.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS.private.md) 
+
+### #is_/same_as :: [MS-DOS.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS.personal.md) 
+
+### #is_/same_as :: [MS-DOS.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS.secret.md)
+

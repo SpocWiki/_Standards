@@ -34,3 +34,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sheaf(Math)](/_Standards/Mathematics/Category_Theory/Sheaf(Math).md) 
+
+### #is_/same_as :: [Sheaf(Math).public](/_public/Mathematics/Category_Theory/Sheaf(Math).public.md) 
+
+### #is_/same_as :: [Sheaf(Math).internal](/_internal/Mathematics/Category_Theory/Sheaf(Math).internal.md) 
+
+### #is_/same_as :: [Sheaf(Math).protect](/_protect/Mathematics/Category_Theory/Sheaf(Math).protect.md) 
+
+### #is_/same_as :: [Sheaf(Math).private](/_private/Mathematics/Category_Theory/Sheaf(Math).private.md) 
+
+### #is_/same_as :: [Sheaf(Math).personal](/_personal/Mathematics/Category_Theory/Sheaf(Math).personal.md) 
+
+### #is_/same_as :: [Sheaf(Math).secret](/_secret/Mathematics/Category_Theory/Sheaf(Math).secret.md)
+

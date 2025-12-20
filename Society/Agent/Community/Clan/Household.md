@@ -44,3 +44,22 @@ hashtag_: household
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Household) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Household](/_Standards/Society/Agent/Community/Clan/Household.md) 
+
+### #is_/same_as :: [Household.public](/_public/Society/Agent/Community/Clan/Household.public.md) 
+
+### #is_/same_as :: [Household.internal](/_internal/Society/Agent/Community/Clan/Household.internal.md) 
+
+### #is_/same_as :: [Household.protect](/_protect/Society/Agent/Community/Clan/Household.protect.md) 
+
+### #is_/same_as :: [Household.private](/_private/Society/Agent/Community/Clan/Household.private.md) 
+
+### #is_/same_as :: [Household.personal](/_personal/Society/Agent/Community/Clan/Household.personal.md) 
+
+### #is_/same_as :: [Household.secret](/_secret/Society/Agent/Community/Clan/Household.secret.md)
+

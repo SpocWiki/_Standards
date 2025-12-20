@@ -24,3 +24,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Decolonisation::m4z75"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Decolonization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Decolonization](/_Standards/Society/Politics/Government/Colonialism/Decolonization.md) 
+
+### #is_/same_as :: [Decolonization.public](/_public/Society/Politics/Government/Colonialism/Decolonization.public.md) 
+
+### #is_/same_as :: [Decolonization.internal](/_internal/Society/Politics/Government/Colonialism/Decolonization.internal.md) 
+
+### #is_/same_as :: [Decolonization.protect](/_protect/Society/Politics/Government/Colonialism/Decolonization.protect.md) 
+
+### #is_/same_as :: [Decolonization.private](/_private/Society/Politics/Government/Colonialism/Decolonization.private.md) 
+
+### #is_/same_as :: [Decolonization.personal](/_personal/Society/Politics/Government/Colonialism/Decolonization.personal.md) 
+
+### #is_/same_as :: [Decolonization.secret](/_secret/Society/Politics/Government/Colonialism/Decolonization.secret.md)
+

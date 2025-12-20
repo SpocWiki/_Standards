@@ -77,3 +77,22 @@ OpenStreetMap_tag: government=ombudsperson
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ombudsman) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ombudsman](/_Standards/Society/Politics/Government/Ombudsman.md) 
+
+### #is_/same_as :: [Ombudsman.public](/_public/Society/Politics/Government/Ombudsman.public.md) 
+
+### #is_/same_as :: [Ombudsman.internal](/_internal/Society/Politics/Government/Ombudsman.internal.md) 
+
+### #is_/same_as :: [Ombudsman.protect](/_protect/Society/Politics/Government/Ombudsman.protect.md) 
+
+### #is_/same_as :: [Ombudsman.private](/_private/Society/Politics/Government/Ombudsman.private.md) 
+
+### #is_/same_as :: [Ombudsman.personal](/_personal/Society/Politics/Government/Ombudsman.personal.md) 
+
+### #is_/same_as :: [Ombudsman.secret](/_secret/Society/Politics/Government/Ombudsman.secret.md)
+

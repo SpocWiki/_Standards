@@ -122,3 +122,22 @@ Regensburg_Classification_works_and_editions_: HD 184
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Geographic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [National_Geographic](/_Standards/Society/Communication/Media/Journalism/Magazine/National_Geographic.md) 
+
+### #is_/same_as :: [National_Geographic.public](/_public/Society/Communication/Media/Journalism/Magazine/National_Geographic.public.md) 
+
+### #is_/same_as :: [National_Geographic.internal](/_internal/Society/Communication/Media/Journalism/Magazine/National_Geographic.internal.md) 
+
+### #is_/same_as :: [National_Geographic.protect](/_protect/Society/Communication/Media/Journalism/Magazine/National_Geographic.protect.md) 
+
+### #is_/same_as :: [National_Geographic.private](/_private/Society/Communication/Media/Journalism/Magazine/National_Geographic.private.md) 
+
+### #is_/same_as :: [National_Geographic.personal](/_personal/Society/Communication/Media/Journalism/Magazine/National_Geographic.personal.md) 
+
+### #is_/same_as :: [National_Geographic.secret](/_secret/Society/Communication/Media/Journalism/Magazine/National_Geographic.secret.md)
+

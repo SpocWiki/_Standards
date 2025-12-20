@@ -113,3 +113,22 @@ Plex_person_key: 5d77682b8a7581001f12c40a
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronnie%20James%20Dio) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dio,Ronnie_James](/_Standards/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.md) 
+
+### #is_/same_as :: [Dio,Ronnie_James.public](/_public/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.public.md) 
+
+### #is_/same_as :: [Dio,Ronnie_James.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.internal.md) 
+
+### #is_/same_as :: [Dio,Ronnie_James.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.protect.md) 
+
+### #is_/same_as :: [Dio,Ronnie_James.private](/_private/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.private.md) 
+
+### #is_/same_as :: [Dio,Ronnie_James.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.personal.md) 
+
+### #is_/same_as :: [Dio,Ronnie_James.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.secret.md)
+

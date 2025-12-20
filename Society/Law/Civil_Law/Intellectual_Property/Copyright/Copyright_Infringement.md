@@ -58,3 +58,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pirate%20street%20vend
 > [Wikipedia](https://en.wikipedia.org/wiki/Copyright%20infringement) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Copyright_Infringement](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.md) 
+
+### #is_/same_as :: [Copyright_Infringement.public](/_public/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.public.md) 
+
+### #is_/same_as :: [Copyright_Infringement.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.internal.md) 
+
+### #is_/same_as :: [Copyright_Infringement.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.protect.md) 
+
+### #is_/same_as :: [Copyright_Infringement.private](/_private/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.private.md) 
+
+### #is_/same_as :: [Copyright_Infringement.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.personal.md) 
+
+### #is_/same_as :: [Copyright_Infringement.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.secret.md)
+

@@ -63,3 +63,22 @@ Commons_category: Plant stems
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20stem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant_Stem](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.md) 
+
+### #is_/same_as :: [Plant_Stem.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.public.md) 
+
+### #is_/same_as :: [Plant_Stem.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.internal.md) 
+
+### #is_/same_as :: [Plant_Stem.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.protect.md) 
+
+### #is_/same_as :: [Plant_Stem.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.private.md) 
+
+### #is_/same_as :: [Plant_Stem.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.personal.md) 
+
+### #is_/same_as :: [Plant_Stem.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.secret.md)
+

@@ -103,17 +103,17 @@ P8189: "987007562936105171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lepton](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Lepton.md) 
+### #is_/same_as :: [Lepton](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton.md) 
 
-### #is_/same_as :: [Lepton.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Lepton.public.md) 
+### #is_/same_as :: [Lepton.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton.public.md) 
 
-### #is_/same_as :: [Lepton.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Lepton.internal.md) 
+### #is_/same_as :: [Lepton.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton.internal.md) 
 
-### #is_/same_as :: [Lepton.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Lepton.protect.md) 
+### #is_/same_as :: [Lepton.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton.protect.md) 
 
-### #is_/same_as :: [Lepton.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Lepton.private.md) 
+### #is_/same_as :: [Lepton.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton.private.md) 
 
-### #is_/same_as :: [Lepton.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Lepton.personal.md) 
+### #is_/same_as :: [Lepton.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton.personal.md) 
 
-### #is_/same_as :: [Lepton.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Lepton.secret.md)
+### #is_/same_as :: [Lepton.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton.secret.md)
 

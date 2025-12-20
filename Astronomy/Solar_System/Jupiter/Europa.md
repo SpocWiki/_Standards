@@ -18,3 +18,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Europa%20(moon)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Europa](/_Standards/Astronomy/Solar_System/Jupiter/Europa.md) 
+
+### #is_/same_as :: [Europa.public](/_public/Astronomy/Solar_System/Jupiter/Europa.public.md) 
+
+### #is_/same_as :: [Europa.internal](/_internal/Astronomy/Solar_System/Jupiter/Europa.internal.md) 
+
+### #is_/same_as :: [Europa.protect](/_protect/Astronomy/Solar_System/Jupiter/Europa.protect.md) 
+
+### #is_/same_as :: [Europa.private](/_private/Astronomy/Solar_System/Jupiter/Europa.private.md) 
+
+### #is_/same_as :: [Europa.personal](/_personal/Astronomy/Solar_System/Jupiter/Europa.personal.md) 
+
+### #is_/same_as :: [Europa.secret](/_secret/Astronomy/Solar_System/Jupiter/Europa.secret.md)
+

@@ -47,17 +47,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [check_out_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/check_out_action.md) 
+### #is_/same_as :: [Check_Out_Action](/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_Out_Action.md) 
 
-### #is_/same_as :: [check_out_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/check_out_action.public.md) 
+### #is_/same_as :: [Check_Out_Action.public](/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_Out_Action.public.md) 
 
-### #is_/same_as :: [check_out_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/check_out_action.internal.md) 
+### #is_/same_as :: [Check_Out_Action.internal](/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_Out_Action.internal.md) 
 
-### #is_/same_as :: [check_out_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/check_out_action.protect.md) 
+### #is_/same_as :: [Check_Out_Action.protect](/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_Out_Action.protect.md) 
 
-### #is_/same_as :: [check_out_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/check_out_action.private.md) 
+### #is_/same_as :: [Check_Out_Action.private](/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_Out_Action.private.md) 
 
-### #is_/same_as :: [check_out_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/check_out_action.personal.md) 
+### #is_/same_as :: [Check_Out_Action.personal](/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_Out_Action.personal.md) 
 
-### #is_/same_as :: [check_out_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/check_out_action.secret.md)
+### #is_/same_as :: [Check_Out_Action.secret](/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_Out_Action.secret.md)
 

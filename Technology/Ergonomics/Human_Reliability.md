@@ -35,3 +35,22 @@ instance_of: "[[_Standards/WikiData/WD~contributing_factor,18603648]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20reliability) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Human_Reliability](/_Standards/Technology/Ergonomics/Human_Reliability.md) 
+
+### #is_/same_as :: [Human_Reliability.public](/_public/Technology/Ergonomics/Human_Reliability.public.md) 
+
+### #is_/same_as :: [Human_Reliability.internal](/_internal/Technology/Ergonomics/Human_Reliability.internal.md) 
+
+### #is_/same_as :: [Human_Reliability.protect](/_protect/Technology/Ergonomics/Human_Reliability.protect.md) 
+
+### #is_/same_as :: [Human_Reliability.private](/_private/Technology/Ergonomics/Human_Reliability.private.md) 
+
+### #is_/same_as :: [Human_Reliability.personal](/_personal/Technology/Ergonomics/Human_Reliability.personal.md) 
+
+### #is_/same_as :: [Human_Reliability.secret](/_secret/Technology/Ergonomics/Human_Reliability.secret.md)
+

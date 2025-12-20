@@ -92,3 +92,21 @@ Commons_category: 0 (number)
 > Common names for the number 0 in English include zero, nought, naught (), and nil. In contexts where at least one adjacent digit distinguishes it from the letter O, the number is sometimes pronounced as oh or o (). Informal or slang terms for 0 include zilch and zip. Historically, ought, aught (), and cipher have also been used.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/0)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zero](/_Standards/schema-org/Class/is_a_/Data_Type/Number/Zero.md) 
+
+### #is_/same_as :: [Zero.public](/_public/schema-org/Class/is_a_/Data_Type/Number/Zero.public.md) 
+
+### #is_/same_as :: [Zero.internal](/_internal/schema-org/Class/is_a_/Data_Type/Number/Zero.internal.md) 
+
+### #is_/same_as :: [Zero.protect](/_protect/schema-org/Class/is_a_/Data_Type/Number/Zero.protect.md) 
+
+### #is_/same_as :: [Zero.private](/_private/schema-org/Class/is_a_/Data_Type/Number/Zero.private.md) 
+
+### #is_/same_as :: [Zero.personal](/_personal/schema-org/Class/is_a_/Data_Type/Number/Zero.personal.md) 
+
+### #is_/same_as :: [Zero.secret](/_secret/schema-org/Class/is_a_/Data_Type/Number/Zero.secret.md)
+

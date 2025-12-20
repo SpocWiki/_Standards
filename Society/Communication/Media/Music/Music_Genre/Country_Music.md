@@ -64,3 +64,22 @@ IPTC_NewsCode: mediatopic/20000023
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Country%20music) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Country_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Country_Music.md) 
+
+### #is_/same_as :: [Country_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Country_Music.public.md) 
+
+### #is_/same_as :: [Country_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Country_Music.internal.md) 
+
+### #is_/same_as :: [Country_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Country_Music.protect.md) 
+
+### #is_/same_as :: [Country_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Country_Music.private.md) 
+
+### #is_/same_as :: [Country_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Country_Music.personal.md) 
+
+### #is_/same_as :: [Country_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Country_Music.secret.md)
+

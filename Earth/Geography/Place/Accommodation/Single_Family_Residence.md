@@ -39,17 +39,17 @@ Residence type: Single-family home.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single_Family_Residence](/_Standards/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.md) 
+### #is_/same_as :: [Single_Family_Residence](/_Standards/Earth/Geography/Place/Accommodation/Single_Family_Residence.md) 
 
-### #is_/same_as :: [Single_Family_Residence.public](/_public/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.public.md) 
+### #is_/same_as :: [Single_Family_Residence.public](/_public/Earth/Geography/Place/Accommodation/Single_Family_Residence.public.md) 
 
-### #is_/same_as :: [Single_Family_Residence.internal](/_internal/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.internal.md) 
+### #is_/same_as :: [Single_Family_Residence.internal](/_internal/Earth/Geography/Place/Accommodation/Single_Family_Residence.internal.md) 
 
-### #is_/same_as :: [Single_Family_Residence.protect](/_protect/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.protect.md) 
+### #is_/same_as :: [Single_Family_Residence.protect](/_protect/Earth/Geography/Place/Accommodation/Single_Family_Residence.protect.md) 
 
-### #is_/same_as :: [Single_Family_Residence.private](/_private/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.private.md) 
+### #is_/same_as :: [Single_Family_Residence.private](/_private/Earth/Geography/Place/Accommodation/Single_Family_Residence.private.md) 
 
-### #is_/same_as :: [Single_Family_Residence.personal](/_personal/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.personal.md) 
+### #is_/same_as :: [Single_Family_Residence.personal](/_personal/Earth/Geography/Place/Accommodation/Single_Family_Residence.personal.md) 
 
-### #is_/same_as :: [Single_Family_Residence.secret](/_secret/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.secret.md)
+### #is_/same_as :: [Single_Family_Residence.secret](/_secret/Earth/Geography/Place/Accommodation/Single_Family_Residence.secret.md)
 

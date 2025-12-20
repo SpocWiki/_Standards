@@ -298,3 +298,22 @@ official_website: https://www.fox.com/the-simpsons/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Simpsons)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Simpsons](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.md) 
+
+### #is_/same_as :: [Simpsons.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.public.md) 
+
+### #is_/same_as :: [Simpsons.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.internal.md) 
+
+### #is_/same_as :: [Simpsons.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.protect.md) 
+
+### #is_/same_as :: [Simpsons.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.private.md) 
+
+### #is_/same_as :: [Simpsons.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.personal.md) 
+
+### #is_/same_as :: [Simpsons.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.secret.md)
+

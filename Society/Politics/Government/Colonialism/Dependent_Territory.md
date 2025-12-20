@@ -41,3 +41,22 @@ GeoNames_feature_code: A.PCLD
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dependent%20territory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dependent_Territory](/_Standards/Society/Politics/Government/Colonialism/Dependent_Territory.md) 
+
+### #is_/same_as :: [Dependent_Territory.public](/_public/Society/Politics/Government/Colonialism/Dependent_Territory.public.md) 
+
+### #is_/same_as :: [Dependent_Territory.internal](/_internal/Society/Politics/Government/Colonialism/Dependent_Territory.internal.md) 
+
+### #is_/same_as :: [Dependent_Territory.protect](/_protect/Society/Politics/Government/Colonialism/Dependent_Territory.protect.md) 
+
+### #is_/same_as :: [Dependent_Territory.private](/_private/Society/Politics/Government/Colonialism/Dependent_Territory.private.md) 
+
+### #is_/same_as :: [Dependent_Territory.personal](/_personal/Society/Politics/Government/Colonialism/Dependent_Territory.personal.md) 
+
+### #is_/same_as :: [Dependent_Territory.secret](/_secret/Society/Politics/Government/Colonialism/Dependent_Territory.secret.md)
+

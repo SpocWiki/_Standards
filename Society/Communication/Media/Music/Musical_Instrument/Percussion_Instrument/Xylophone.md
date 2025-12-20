@@ -52,3 +52,22 @@ Dewey_Decimal_Classification: "786.843"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Xylophone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Xylophone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.md) 
+
+### #is_/same_as :: [Xylophone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.public.md) 
+
+### #is_/same_as :: [Xylophone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.internal.md) 
+
+### #is_/same_as :: [Xylophone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.protect.md) 
+
+### #is_/same_as :: [Xylophone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.private.md) 
+
+### #is_/same_as :: [Xylophone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.personal.md) 
+
+### #is_/same_as :: [Xylophone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Xylophone.secret.md)
+

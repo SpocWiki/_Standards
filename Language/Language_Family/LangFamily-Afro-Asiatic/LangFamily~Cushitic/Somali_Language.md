@@ -91,3 +91,22 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Somali%20language) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Somali_Language](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.md) 
+
+### #is_/same_as :: [Somali_Language.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.public.md) 
+
+### #is_/same_as :: [Somali_Language.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.internal.md) 
+
+### #is_/same_as :: [Somali_Language.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.protect.md) 
+
+### #is_/same_as :: [Somali_Language.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.private.md) 
+
+### #is_/same_as :: [Somali_Language.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.personal.md) 
+
+### #is_/same_as :: [Somali_Language.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.secret.md)
+

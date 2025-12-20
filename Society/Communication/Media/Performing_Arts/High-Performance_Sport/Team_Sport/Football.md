@@ -22,17 +22,17 @@ has_id_wikidata: Q2736
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Football](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football.md) 
+### #is_/same_as :: [Football](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.md) 
 
-### #is_/same_as :: [Football.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football.public.md) 
+### #is_/same_as :: [Football.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.public.md) 
 
-### #is_/same_as :: [Football.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football.internal.md) 
+### #is_/same_as :: [Football.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.internal.md) 
 
-### #is_/same_as :: [Football.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football.protect.md) 
+### #is_/same_as :: [Football.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.protect.md) 
 
-### #is_/same_as :: [Football.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football.private.md) 
+### #is_/same_as :: [Football.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.private.md) 
 
-### #is_/same_as :: [Football.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football.personal.md) 
+### #is_/same_as :: [Football.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.personal.md) 
 
-### #is_/same_as :: [Football.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Football.secret.md)
+### #is_/same_as :: [Football.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.secret.md)
 

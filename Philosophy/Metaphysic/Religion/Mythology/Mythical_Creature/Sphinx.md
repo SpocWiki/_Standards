@@ -64,3 +64,22 @@ Commons_category: Sphinxes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sphinx) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sphinx](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.md) 
+
+### #is_/same_as :: [Sphinx.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.public.md) 
+
+### #is_/same_as :: [Sphinx.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.internal.md) 
+
+### #is_/same_as :: [Sphinx.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.protect.md) 
+
+### #is_/same_as :: [Sphinx.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.private.md) 
+
+### #is_/same_as :: [Sphinx.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.personal.md) 
+
+### #is_/same_as :: [Sphinx.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.secret.md)
+

@@ -29,3 +29,22 @@ Baidu_Tieba_name: 超自然
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Supernatural) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Supernatural](/_Standards/Philosophy/Metaphysic/Supernatural.md) 
+
+### #is_/same_as :: [Supernatural.public](/_public/Philosophy/Metaphysic/Supernatural.public.md) 
+
+### #is_/same_as :: [Supernatural.internal](/_internal/Philosophy/Metaphysic/Supernatural.internal.md) 
+
+### #is_/same_as :: [Supernatural.protect](/_protect/Philosophy/Metaphysic/Supernatural.protect.md) 
+
+### #is_/same_as :: [Supernatural.private](/_private/Philosophy/Metaphysic/Supernatural.private.md) 
+
+### #is_/same_as :: [Supernatural.personal](/_personal/Philosophy/Metaphysic/Supernatural.personal.md) 
+
+### #is_/same_as :: [Supernatural.secret](/_secret/Philosophy/Metaphysic/Supernatural.secret.md)
+

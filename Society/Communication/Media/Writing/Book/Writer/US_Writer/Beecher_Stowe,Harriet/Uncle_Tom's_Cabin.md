@@ -87,3 +87,22 @@ title: Uncle Tom's Cabin; or, Life Among the Lowly
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uncle%20Tom's%20Cabin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Uncle_Tom's_Cabin](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.md) 
+
+### #is_/same_as :: [Uncle_Tom's_Cabin.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.public.md) 
+
+### #is_/same_as :: [Uncle_Tom's_Cabin.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.internal.md) 
+
+### #is_/same_as :: [Uncle_Tom's_Cabin.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.protect.md) 
+
+### #is_/same_as :: [Uncle_Tom's_Cabin.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.private.md) 
+
+### #is_/same_as :: [Uncle_Tom's_Cabin.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.personal.md) 
+
+### #is_/same_as :: [Uncle_Tom's_Cabin.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.secret.md)
+

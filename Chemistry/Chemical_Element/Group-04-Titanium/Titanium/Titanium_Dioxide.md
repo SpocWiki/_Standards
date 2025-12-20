@@ -85,3 +85,22 @@ Commons_category: Titanium dioxide
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Titanium%20dioxide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Titanium_Dioxide](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.md) 
+
+### #is_/same_as :: [Titanium_Dioxide.public](/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.public.md) 
+
+### #is_/same_as :: [Titanium_Dioxide.internal](/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.internal.md) 
+
+### #is_/same_as :: [Titanium_Dioxide.protect](/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.protect.md) 
+
+### #is_/same_as :: [Titanium_Dioxide.private](/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.private.md) 
+
+### #is_/same_as :: [Titanium_Dioxide.personal](/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.personal.md) 
+
+### #is_/same_as :: [Titanium_Dioxide.secret](/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.secret.md)
+

@@ -74,3 +74,22 @@ title: Братья Карамазовыk
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Brothers%20Karamazov) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brothers_Karamazov](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Brothers_Karamazov.md) 
+
+### #is_/same_as :: [Brothers_Karamazov.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Brothers_Karamazov.public.md) 
+
+### #is_/same_as :: [Brothers_Karamazov.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Brothers_Karamazov.internal.md) 
+
+### #is_/same_as :: [Brothers_Karamazov.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Brothers_Karamazov.protect.md) 
+
+### #is_/same_as :: [Brothers_Karamazov.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Brothers_Karamazov.private.md) 
+
+### #is_/same_as :: [Brothers_Karamazov.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Brothers_Karamazov.personal.md) 
+
+### #is_/same_as :: [Brothers_Karamazov.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Brothers_Karamazov.secret.md)
+

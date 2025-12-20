@@ -42,17 +42,17 @@ The item contains sexually oriented content such as nudity, suggestive or explic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sexual_Content_Consideration](Sexual_Content_Consideration.md) 
+### #is_/same_as :: [Sexual_Content_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.md) 
 
-### #is_/same_as :: [sexual_content_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.public.md) 
+### #is_/same_as :: [Sexual_Content_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.public.md) 
 
-### #is_/same_as :: [sexual_content_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.internal.md) 
+### #is_/same_as :: [Sexual_Content_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.internal.md) 
 
-### #is_/same_as :: [sexual_content_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.protect.md) 
+### #is_/same_as :: [Sexual_Content_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.protect.md) 
 
-### #is_/same_as :: [sexual_content_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.private.md) 
+### #is_/same_as :: [Sexual_Content_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.private.md) 
 
-### #is_/same_as :: [sexual_content_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.personal.md) 
+### #is_/same_as :: [Sexual_Content_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.personal.md) 
 
-### #is_/same_as :: [sexual_content_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.secret.md)
+### #is_/same_as :: [Sexual_Content_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.secret.md)
 

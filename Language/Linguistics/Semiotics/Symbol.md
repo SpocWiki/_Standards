@@ -65,3 +65,22 @@ ISO_15924_alpha_4_code: Zsym
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Symbol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Symbol](/_Standards/Language/Linguistics/Semiotics/Symbol.md) 
+
+### #is_/same_as :: [Symbol.public](/_public/Language/Linguistics/Semiotics/Symbol.public.md) 
+
+### #is_/same_as :: [Symbol.internal](/_internal/Language/Linguistics/Semiotics/Symbol.internal.md) 
+
+### #is_/same_as :: [Symbol.protect](/_protect/Language/Linguistics/Semiotics/Symbol.protect.md) 
+
+### #is_/same_as :: [Symbol.private](/_private/Language/Linguistics/Semiotics/Symbol.private.md) 
+
+### #is_/same_as :: [Symbol.personal](/_personal/Language/Linguistics/Semiotics/Symbol.personal.md) 
+
+### #is_/same_as :: [Symbol.secret](/_secret/Language/Linguistics/Semiotics/Symbol.secret.md)
+

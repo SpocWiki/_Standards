@@ -54,3 +54,22 @@ OpenStreetMap_tag: weather:thermometer=yes
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermometer) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thermometer](/_Standards/Technology/Tool/Instrumentation/Thermometer.md) 
+
+### #is_/same_as :: [Thermometer.public](/_public/Technology/Tool/Instrumentation/Thermometer.public.md) 
+
+### #is_/same_as :: [Thermometer.internal](/_internal/Technology/Tool/Instrumentation/Thermometer.internal.md) 
+
+### #is_/same_as :: [Thermometer.protect](/_protect/Technology/Tool/Instrumentation/Thermometer.protect.md) 
+
+### #is_/same_as :: [Thermometer.private](/_private/Technology/Tool/Instrumentation/Thermometer.private.md) 
+
+### #is_/same_as :: [Thermometer.personal](/_personal/Technology/Tool/Instrumentation/Thermometer.personal.md) 
+
+### #is_/same_as :: [Thermometer.secret](/_secret/Technology/Tool/Instrumentation/Thermometer.secret.md)
+

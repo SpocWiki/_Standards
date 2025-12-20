@@ -56,3 +56,22 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Exercise) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Physical_Exercise](/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.md) 
+
+### #is_/same_as :: [Physical_Exercise.public](/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.public.md) 
+
+### #is_/same_as :: [Physical_Exercise.internal](/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.internal.md) 
+
+### #is_/same_as :: [Physical_Exercise.protect](/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.protect.md) 
+
+### #is_/same_as :: [Physical_Exercise.private](/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.private.md) 
+
+### #is_/same_as :: [Physical_Exercise.personal](/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.personal.md) 
+
+### #is_/same_as :: [Physical_Exercise.secret](/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.secret.md)
+

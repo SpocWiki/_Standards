@@ -122,7 +122,7 @@ Zool., 97: 1-159.
   View               Ventral
   Size               110 mm ML
   Copyright ::          © 1972 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  --------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

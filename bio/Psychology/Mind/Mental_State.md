@@ -29,3 +29,22 @@ studied_by: "[[_Standards/WikiData/WD~psychology,9418]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mental%20state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mental_State](/_Standards/bio/Psychology/Mind/Mental_State.md) 
+
+### #is_/same_as :: [Mental_State.public](/_public/bio/Psychology/Mind/Mental_State.public.md) 
+
+### #is_/same_as :: [Mental_State.internal](/_internal/bio/Psychology/Mind/Mental_State.internal.md) 
+
+### #is_/same_as :: [Mental_State.protect](/_protect/bio/Psychology/Mind/Mental_State.protect.md) 
+
+### #is_/same_as :: [Mental_State.private](/_private/bio/Psychology/Mind/Mental_State.private.md) 
+
+### #is_/same_as :: [Mental_State.personal](/_personal/bio/Psychology/Mind/Mental_State.personal.md) 
+
+### #is_/same_as :: [Mental_State.secret](/_secret/bio/Psychology/Mind/Mental_State.secret.md)
+

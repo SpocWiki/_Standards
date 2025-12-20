@@ -60,3 +60,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ANTROPONIMIKA.html
 | East Slavic (feminine) | -ovna / -evna  | “daughter of”   | Ivanovna ("daughter of Ivan")    | Russia                  |  1000 |
 | South Slavic           | -ić / -vić     | “descendant of” | Petrović ("descendant of Petar") | Serbia, Croatia, Bosnia |  1300 |
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anthroponymy](/_Standards/Language/Onomastics/Anthroponymy.md) 
+
+### #is_/same_as :: [Anthroponymy.public](/_public/Language/Onomastics/Anthroponymy.public.md) 
+
+### #is_/same_as :: [Anthroponymy.internal](/_internal/Language/Onomastics/Anthroponymy.internal.md) 
+
+### #is_/same_as :: [Anthroponymy.protect](/_protect/Language/Onomastics/Anthroponymy.protect.md) 
+
+### #is_/same_as :: [Anthroponymy.private](/_private/Language/Onomastics/Anthroponymy.private.md) 
+
+### #is_/same_as :: [Anthroponymy.personal](/_personal/Language/Onomastics/Anthroponymy.personal.md) 
+
+### #is_/same_as :: [Anthroponymy.secret](/_secret/Language/Onomastics/Anthroponymy.secret.md)
+

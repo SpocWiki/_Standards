@@ -30,3 +30,22 @@ subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Construction%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Construction_Engineering](/_Standards/Technology/Engineering/Civil_Engineering/Construction_Engineering.md) 
+
+### #is_/same_as :: [Construction_Engineering.public](/_public/Technology/Engineering/Civil_Engineering/Construction_Engineering.public.md) 
+
+### #is_/same_as :: [Construction_Engineering.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction_Engineering.internal.md) 
+
+### #is_/same_as :: [Construction_Engineering.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction_Engineering.protect.md) 
+
+### #is_/same_as :: [Construction_Engineering.private](/_private/Technology/Engineering/Civil_Engineering/Construction_Engineering.private.md) 
+
+### #is_/same_as :: [Construction_Engineering.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction_Engineering.personal.md) 
+
+### #is_/same_as :: [Construction_Engineering.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction_Engineering.secret.md)
+

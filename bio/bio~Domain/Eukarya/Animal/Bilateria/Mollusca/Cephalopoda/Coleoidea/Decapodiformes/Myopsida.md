@@ -104,7 +104,7 @@ Monographie 35, Vol I, Parts I and II, Systematik, pp 1-863.
   View                 Dorsal
   Size                 105 mm ML
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
-  -----------------------------------------------------------------------
+  -----------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

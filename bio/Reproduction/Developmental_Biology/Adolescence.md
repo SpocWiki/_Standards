@@ -53,17 +53,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adolescence](/_Standards/bio/Medicine/Health/Adolescence.md) 
+### #is_/same_as :: [Adolescence](/_Standards/bio/Reproduction/Developmental_Biology/Adolescence.md) 
 
-### #is_/same_as :: [Adolescence.public](/_public/bio/Medicine/Health/Adolescence.public.md) 
+### #is_/same_as :: [Adolescence.public](/_public/bio/Reproduction/Developmental_Biology/Adolescence.public.md) 
 
-### #is_/same_as :: [Adolescence.internal](/_internal/bio/Medicine/Health/Adolescence.internal.md) 
+### #is_/same_as :: [Adolescence.internal](/_internal/bio/Reproduction/Developmental_Biology/Adolescence.internal.md) 
 
-### #is_/same_as :: [Adolescence.protect](/_protect/bio/Medicine/Health/Adolescence.protect.md) 
+### #is_/same_as :: [Adolescence.protect](/_protect/bio/Reproduction/Developmental_Biology/Adolescence.protect.md) 
 
-### #is_/same_as :: [Adolescence.private](/_private/bio/Medicine/Health/Adolescence.private.md) 
+### #is_/same_as :: [Adolescence.private](/_private/bio/Reproduction/Developmental_Biology/Adolescence.private.md) 
 
-### #is_/same_as :: [Adolescence.personal](/_personal/bio/Medicine/Health/Adolescence.personal.md) 
+### #is_/same_as :: [Adolescence.personal](/_personal/bio/Reproduction/Developmental_Biology/Adolescence.personal.md) 
 
-### #is_/same_as :: [Adolescence.secret](/_secret/bio/Medicine/Health/Adolescence.secret.md)
+### #is_/same_as :: [Adolescence.secret](/_secret/bio/Reproduction/Developmental_Biology/Adolescence.secret.md)
 

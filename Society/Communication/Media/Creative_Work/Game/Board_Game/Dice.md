@@ -70,3 +70,22 @@ Library_of_Congress_Classification: GV1303
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dice) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dice](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.md) 
+
+### #is_/same_as :: [Dice.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.public.md) 
+
+### #is_/same_as :: [Dice.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.internal.md) 
+
+### #is_/same_as :: [Dice.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.protect.md) 
+
+### #is_/same_as :: [Dice.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.private.md) 
+
+### #is_/same_as :: [Dice.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.personal.md) 
+
+### #is_/same_as :: [Dice.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.secret.md)
+

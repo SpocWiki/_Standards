@@ -81,3 +81,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ReuleauxTriangle%20onl
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reuleaux%20triangle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reuleaux_Triangle](/_Standards/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.md) 
+
+### #is_/same_as :: [Reuleaux_Triangle.public](/_public/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.public.md) 
+
+### #is_/same_as :: [Reuleaux_Triangle.internal](/_internal/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.internal.md) 
+
+### #is_/same_as :: [Reuleaux_Triangle.protect](/_protect/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.protect.md) 
+
+### #is_/same_as :: [Reuleaux_Triangle.private](/_private/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.private.md) 
+
+### #is_/same_as :: [Reuleaux_Triangle.personal](/_personal/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.personal.md) 
+
+### #is_/same_as :: [Reuleaux_Triangle.secret](/_secret/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.secret.md)
+

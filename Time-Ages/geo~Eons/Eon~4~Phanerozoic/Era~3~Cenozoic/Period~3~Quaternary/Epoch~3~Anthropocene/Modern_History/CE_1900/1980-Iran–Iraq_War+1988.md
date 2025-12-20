@@ -124,3 +124,22 @@ Commons_category: Iran-Iraq War
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1980-Iran–Iraq_War+1988](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.md) 
+
+### #is_/same_as :: [1980-Iran–Iraq_War+1988.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.public.md) 
+
+### #is_/same_as :: [1980-Iran–Iraq_War+1988.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.internal.md) 
+
+### #is_/same_as :: [1980-Iran–Iraq_War+1988.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.protect.md) 
+
+### #is_/same_as :: [1980-Iran–Iraq_War+1988.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.private.md) 
+
+### #is_/same_as :: [1980-Iran–Iraq_War+1988.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.personal.md) 
+
+### #is_/same_as :: [1980-Iran–Iraq_War+1988.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.secret.md)
+

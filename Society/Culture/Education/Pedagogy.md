@@ -66,3 +66,22 @@ OpenStreetMap_key: pedagogy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pedagogy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pedagogy](/_Standards/Society/Culture/Education/Pedagogy.md) 
+
+### #is_/same_as :: [Pedagogy.public](/_public/Society/Culture/Education/Pedagogy.public.md) 
+
+### #is_/same_as :: [Pedagogy.internal](/_internal/Society/Culture/Education/Pedagogy.internal.md) 
+
+### #is_/same_as :: [Pedagogy.protect](/_protect/Society/Culture/Education/Pedagogy.protect.md) 
+
+### #is_/same_as :: [Pedagogy.private](/_private/Society/Culture/Education/Pedagogy.private.md) 
+
+### #is_/same_as :: [Pedagogy.personal](/_personal/Society/Culture/Education/Pedagogy.personal.md) 
+
+### #is_/same_as :: [Pedagogy.secret](/_secret/Society/Culture/Education/Pedagogy.secret.md)
+

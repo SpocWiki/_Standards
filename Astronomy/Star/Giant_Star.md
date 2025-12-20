@@ -21,3 +21,22 @@ Commons_category: Giant stars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Giant%20star) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Giant_Star](/_Standards/Astronomy/Star/Giant_Star.md) 
+
+### #is_/same_as :: [Giant_Star.public](/_public/Astronomy/Star/Giant_Star.public.md) 
+
+### #is_/same_as :: [Giant_Star.internal](/_internal/Astronomy/Star/Giant_Star.internal.md) 
+
+### #is_/same_as :: [Giant_Star.protect](/_protect/Astronomy/Star/Giant_Star.protect.md) 
+
+### #is_/same_as :: [Giant_Star.private](/_private/Astronomy/Star/Giant_Star.private.md) 
+
+### #is_/same_as :: [Giant_Star.personal](/_personal/Astronomy/Star/Giant_Star.personal.md) 
+
+### #is_/same_as :: [Giant_Star.secret](/_secret/Astronomy/Star/Giant_Star.secret.md)
+

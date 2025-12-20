@@ -57,3 +57,22 @@ Commons_category: Light-emitting diodes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Light-emitting%20diode) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LED(Light-emitting_Diode)](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LED(Light-emitting_Diode).md) 
+
+### #is_/same_as :: [LED(Light-emitting_Diode).public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LED(Light-emitting_Diode).public.md) 
+
+### #is_/same_as :: [LED(Light-emitting_Diode).internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LED(Light-emitting_Diode).internal.md) 
+
+### #is_/same_as :: [LED(Light-emitting_Diode).protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LED(Light-emitting_Diode).protect.md) 
+
+### #is_/same_as :: [LED(Light-emitting_Diode).private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LED(Light-emitting_Diode).private.md) 
+
+### #is_/same_as :: [LED(Light-emitting_Diode).personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LED(Light-emitting_Diode).personal.md) 
+
+### #is_/same_as :: [LED(Light-emitting_Diode).secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LED(Light-emitting_Diode).secret.md)
+

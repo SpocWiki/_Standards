@@ -17,3 +17,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ageing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ageing](/_Standards/bio/Reproduction/Developmental_Biology/Ageing.md) 
+
+### #is_/same_as :: [Ageing.public](/_public/bio/Reproduction/Developmental_Biology/Ageing.public.md) 
+
+### #is_/same_as :: [Ageing.internal](/_internal/bio/Reproduction/Developmental_Biology/Ageing.internal.md) 
+
+### #is_/same_as :: [Ageing.protect](/_protect/bio/Reproduction/Developmental_Biology/Ageing.protect.md) 
+
+### #is_/same_as :: [Ageing.private](/_private/bio/Reproduction/Developmental_Biology/Ageing.private.md) 
+
+### #is_/same_as :: [Ageing.personal](/_personal/bio/Reproduction/Developmental_Biology/Ageing.personal.md) 
+
+### #is_/same_as :: [Ageing.secret](/_secret/bio/Reproduction/Developmental_Biology/Ageing.secret.md)
+

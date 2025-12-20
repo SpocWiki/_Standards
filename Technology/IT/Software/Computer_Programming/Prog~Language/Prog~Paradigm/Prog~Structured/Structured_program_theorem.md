@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Böhm–Jacopini theorem"
 ---
@@ -32,4 +32,23 @@ The theorem forms the basis of structured programming,
 a programming paradigm which eschew[[../Prog~Imperative/GOTO-Statement|GOTO-Statement]]]]s  
 and exclusively uses subroutines, sequences, selection and iteration.
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Structured_program_theorem](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.md) 
+
+### #is_/same_as :: [Structured_program_theorem.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.public.md) 
+
+### #is_/same_as :: [Structured_program_theorem.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.internal.md) 
+
+### #is_/same_as :: [Structured_program_theorem.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.protect.md) 
+
+### #is_/same_as :: [Structured_program_theorem.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.private.md) 
+
+### #is_/same_as :: [Structured_program_theorem.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.personal.md) 
+
+### #is_/same_as :: [Structured_program_theorem.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.secret.md)
 

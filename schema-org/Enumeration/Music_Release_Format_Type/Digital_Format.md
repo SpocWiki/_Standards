@@ -40,17 +40,17 @@ DigitalFormat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Digital_Format](Digital_Format.md) 
+### #is_/same_as :: [Digital_Format](/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Digital_Format.md) 
 
-### #is_/same_as :: [digital_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.public.md) 
+### #is_/same_as :: [Digital_Format.public](/_public/schema-org/Enumeration/Music_Release_Format_Type/Digital_Format.public.md) 
 
-### #is_/same_as :: [digital_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.internal.md) 
+### #is_/same_as :: [Digital_Format.internal](/_internal/schema-org/Enumeration/Music_Release_Format_Type/Digital_Format.internal.md) 
 
-### #is_/same_as :: [digital_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.protect.md) 
+### #is_/same_as :: [Digital_Format.protect](/_protect/schema-org/Enumeration/Music_Release_Format_Type/Digital_Format.protect.md) 
 
-### #is_/same_as :: [digital_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.private.md) 
+### #is_/same_as :: [Digital_Format.private](/_private/schema-org/Enumeration/Music_Release_Format_Type/Digital_Format.private.md) 
 
-### #is_/same_as :: [digital_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.personal.md) 
+### #is_/same_as :: [Digital_Format.personal](/_personal/schema-org/Enumeration/Music_Release_Format_Type/Digital_Format.personal.md) 
 
-### #is_/same_as :: [digital_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.secret.md)
+### #is_/same_as :: [Digital_Format.secret](/_secret/schema-org/Enumeration/Music_Release_Format_Type/Digital_Format.secret.md)
 

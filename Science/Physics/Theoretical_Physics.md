@@ -48,3 +48,22 @@ Commons_category: Theoretical physics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theoretical%20physics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theoretical_Physics](/_Standards/Science/Physics/Theoretical_Physics.md) 
+
+### #is_/same_as :: [Theoretical_Physics.public](/_public/Science/Physics/Theoretical_Physics.public.md) 
+
+### #is_/same_as :: [Theoretical_Physics.internal](/_internal/Science/Physics/Theoretical_Physics.internal.md) 
+
+### #is_/same_as :: [Theoretical_Physics.protect](/_protect/Science/Physics/Theoretical_Physics.protect.md) 
+
+### #is_/same_as :: [Theoretical_Physics.private](/_private/Science/Physics/Theoretical_Physics.private.md) 
+
+### #is_/same_as :: [Theoretical_Physics.personal](/_personal/Science/Physics/Theoretical_Physics.personal.md) 
+
+### #is_/same_as :: [Theoretical_Physics.secret](/_secret/Science/Physics/Theoretical_Physics.secret.md)
+

@@ -84,17 +84,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emotion](/_Standards/bio/Psychology/Emotion.md) 
+### #is_/same_as :: [Emotion](/_Standards/bio/Psychology/Affect/Emotion.md) 
 
-### #is_/same_as :: [Emotion.public](/_public/bio/Psychology/Emotion.public.md) 
+### #is_/same_as :: [Emotion.public](/_public/bio/Psychology/Affect/Emotion.public.md) 
 
-### #is_/same_as :: [Emotion.internal](/_internal/bio/Psychology/Emotion.internal.md) 
+### #is_/same_as :: [Emotion.internal](/_internal/bio/Psychology/Affect/Emotion.internal.md) 
 
-### #is_/same_as :: [Emotion.protect](/_protect/bio/Psychology/Emotion.protect.md) 
+### #is_/same_as :: [Emotion.protect](/_protect/bio/Psychology/Affect/Emotion.protect.md) 
 
-### #is_/same_as :: [Emotion.private](/_private/bio/Psychology/Emotion.private.md) 
+### #is_/same_as :: [Emotion.private](/_private/bio/Psychology/Affect/Emotion.private.md) 
 
-### #is_/same_as :: [Emotion.personal](/_personal/bio/Psychology/Emotion.personal.md) 
+### #is_/same_as :: [Emotion.personal](/_personal/bio/Psychology/Affect/Emotion.personal.md) 
 
-### #is_/same_as :: [Emotion.secret](/_secret/bio/Psychology/Emotion.secret.md)
+### #is_/same_as :: [Emotion.secret](/_secret/bio/Psychology/Affect/Emotion.secret.md)
 

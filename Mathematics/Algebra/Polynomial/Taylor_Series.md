@@ -61,3 +61,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taylor%20series) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Taylor_Series](/_Standards/Mathematics/Algebra/Polynomial/Taylor_Series.md) 
+
+### #is_/same_as :: [Taylor_Series.public](/_public/Mathematics/Algebra/Polynomial/Taylor_Series.public.md) 
+
+### #is_/same_as :: [Taylor_Series.internal](/_internal/Mathematics/Algebra/Polynomial/Taylor_Series.internal.md) 
+
+### #is_/same_as :: [Taylor_Series.protect](/_protect/Mathematics/Algebra/Polynomial/Taylor_Series.protect.md) 
+
+### #is_/same_as :: [Taylor_Series.private](/_private/Mathematics/Algebra/Polynomial/Taylor_Series.private.md) 
+
+### #is_/same_as :: [Taylor_Series.personal](/_personal/Mathematics/Algebra/Polynomial/Taylor_Series.personal.md) 
+
+### #is_/same_as :: [Taylor_Series.secret](/_secret/Mathematics/Algebra/Polynomial/Taylor_Series.secret.md)
+

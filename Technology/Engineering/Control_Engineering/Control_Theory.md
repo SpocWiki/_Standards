@@ -37,3 +37,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Control%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Control_Theory](/_Standards/Technology/Engineering/Control_Engineering/Control_Theory.md) 
+
+### #is_/same_as :: [Control_Theory.public](/_public/Technology/Engineering/Control_Engineering/Control_Theory.public.md) 
+
+### #is_/same_as :: [Control_Theory.internal](/_internal/Technology/Engineering/Control_Engineering/Control_Theory.internal.md) 
+
+### #is_/same_as :: [Control_Theory.protect](/_protect/Technology/Engineering/Control_Engineering/Control_Theory.protect.md) 
+
+### #is_/same_as :: [Control_Theory.private](/_private/Technology/Engineering/Control_Engineering/Control_Theory.private.md) 
+
+### #is_/same_as :: [Control_Theory.personal](/_personal/Technology/Engineering/Control_Engineering/Control_Theory.personal.md) 
+
+### #is_/same_as :: [Control_Theory.secret](/_secret/Technology/Engineering/Control_Engineering/Control_Theory.secret.md)
+

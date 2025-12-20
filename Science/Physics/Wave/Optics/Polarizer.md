@@ -32,3 +32,22 @@ Commons_category: Polarization (waves)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polarizer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polarizer](/_Standards/Science/Physics/Wave/Optics/Polarizer.md) 
+
+### #is_/same_as :: [Polarizer.public](/_public/Science/Physics/Wave/Optics/Polarizer.public.md) 
+
+### #is_/same_as :: [Polarizer.internal](/_internal/Science/Physics/Wave/Optics/Polarizer.internal.md) 
+
+### #is_/same_as :: [Polarizer.protect](/_protect/Science/Physics/Wave/Optics/Polarizer.protect.md) 
+
+### #is_/same_as :: [Polarizer.private](/_private/Science/Physics/Wave/Optics/Polarizer.private.md) 
+
+### #is_/same_as :: [Polarizer.personal](/_personal/Science/Physics/Wave/Optics/Polarizer.personal.md) 
+
+### #is_/same_as :: [Polarizer.secret](/_secret/Science/Physics/Wave/Optics/Polarizer.secret.md)
+

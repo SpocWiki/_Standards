@@ -62,6 +62,7 @@ short_name: Ind
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indus%20(constellation)) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Indus](/_Standards/Astronomy/Star~Constellation/Zodiac~Indus.md) 

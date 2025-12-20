@@ -95,3 +95,22 @@ official_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Maritime%20Organization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [International_Maritime_Organization](/_Standards/UN(United_Nations)/International_Maritime_Organization.md) 
+
+### #is_/same_as :: [International_Maritime_Organization.public](/_public/UN(United_Nations)/International_Maritime_Organization.public.md) 
+
+### #is_/same_as :: [International_Maritime_Organization.internal](/_internal/UN(United_Nations)/International_Maritime_Organization.internal.md) 
+
+### #is_/same_as :: [International_Maritime_Organization.protect](/_protect/UN(United_Nations)/International_Maritime_Organization.protect.md) 
+
+### #is_/same_as :: [International_Maritime_Organization.private](/_private/UN(United_Nations)/International_Maritime_Organization.private.md) 
+
+### #is_/same_as :: [International_Maritime_Organization.personal](/_personal/UN(United_Nations)/International_Maritime_Organization.personal.md) 
+
+### #is_/same_as :: [International_Maritime_Organization.secret](/_secret/UN(United_Nations)/International_Maritime_Organization.secret.md)
+

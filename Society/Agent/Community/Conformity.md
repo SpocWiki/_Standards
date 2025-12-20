@@ -52,3 +52,22 @@ MeSH_tree_code: F01.145.813.625
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Conformity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conformity](/_Standards/Society/Agent/Community/Conformity.md) 
+
+### #is_/same_as :: [Conformity.public](/_public/Society/Agent/Community/Conformity.public.md) 
+
+### #is_/same_as :: [Conformity.internal](/_internal/Society/Agent/Community/Conformity.internal.md) 
+
+### #is_/same_as :: [Conformity.protect](/_protect/Society/Agent/Community/Conformity.protect.md) 
+
+### #is_/same_as :: [Conformity.private](/_private/Society/Agent/Community/Conformity.private.md) 
+
+### #is_/same_as :: [Conformity.personal](/_personal/Society/Agent/Community/Conformity.personal.md) 
+
+### #is_/same_as :: [Conformity.secret](/_secret/Society/Agent/Community/Conformity.secret.md)
+

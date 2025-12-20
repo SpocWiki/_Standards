@@ -105,3 +105,22 @@ Iconclass_notation: 92C4
 > [Wikipedia](https://en.wikipedia.org/wiki/Venus%20(mythology)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Venus(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).md) 
+
+### #is_/same_as :: [Venus(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).public.md) 
+
+### #is_/same_as :: [Venus(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).internal.md) 
+
+### #is_/same_as :: [Venus(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).protect.md) 
+
+### #is_/same_as :: [Venus(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).private.md) 
+
+### #is_/same_as :: [Venus(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).personal.md) 
+
+### #is_/same_as :: [Venus(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).secret.md)
+

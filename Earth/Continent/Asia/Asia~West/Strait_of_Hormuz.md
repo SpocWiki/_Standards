@@ -76,3 +76,22 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strait%20of%20Hormuz)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Strait_of_Hormuz](/_Standards/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.md) 
+
+### #is_/same_as :: [Strait_of_Hormuz.public](/_public/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.public.md) 
+
+### #is_/same_as :: [Strait_of_Hormuz.internal](/_internal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.internal.md) 
+
+### #is_/same_as :: [Strait_of_Hormuz.protect](/_protect/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.protect.md) 
+
+### #is_/same_as :: [Strait_of_Hormuz.private](/_private/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.private.md) 
+
+### #is_/same_as :: [Strait_of_Hormuz.personal](/_personal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.personal.md) 
+
+### #is_/same_as :: [Strait_of_Hormuz.secret](/_secret/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.secret.md)
+

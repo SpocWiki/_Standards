@@ -38,3 +38,22 @@ Commons_category: Planetary systems
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Planetary%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Planetary_System](/_Standards/Astronomy/Universe/Planetary_System.md) 
+
+### #is_/same_as :: [Planetary_System.public](/_public/Astronomy/Universe/Planetary_System.public.md) 
+
+### #is_/same_as :: [Planetary_System.internal](/_internal/Astronomy/Universe/Planetary_System.internal.md) 
+
+### #is_/same_as :: [Planetary_System.protect](/_protect/Astronomy/Universe/Planetary_System.protect.md) 
+
+### #is_/same_as :: [Planetary_System.private](/_private/Astronomy/Universe/Planetary_System.private.md) 
+
+### #is_/same_as :: [Planetary_System.personal](/_personal/Astronomy/Universe/Planetary_System.personal.md) 
+
+### #is_/same_as :: [Planetary_System.secret](/_secret/Astronomy/Universe/Planetary_System.secret.md)
+

@@ -47,3 +47,22 @@ Commons_category: Circuit breakers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Circuit%20breaker) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Circuit_Breaker](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.md) 
+
+### #is_/same_as :: [Circuit_Breaker.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.public.md) 
+
+### #is_/same_as :: [Circuit_Breaker.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.internal.md) 
+
+### #is_/same_as :: [Circuit_Breaker.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.protect.md) 
+
+### #is_/same_as :: [Circuit_Breaker.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.private.md) 
+
+### #is_/same_as :: [Circuit_Breaker.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.personal.md) 
+
+### #is_/same_as :: [Circuit_Breaker.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.secret.md)
+

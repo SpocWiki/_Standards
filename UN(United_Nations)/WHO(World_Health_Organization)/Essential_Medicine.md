@@ -44,3 +44,22 @@ MeSH_tree_code: D26.355
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Essential%20medicines) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Essential_Medicine](/_Standards/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.md) 
+
+### #is_/same_as :: [Essential_Medicine.public](/_public/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.public.md) 
+
+### #is_/same_as :: [Essential_Medicine.internal](/_internal/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.internal.md) 
+
+### #is_/same_as :: [Essential_Medicine.protect](/_protect/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.protect.md) 
+
+### #is_/same_as :: [Essential_Medicine.private](/_private/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.private.md) 
+
+### #is_/same_as :: [Essential_Medicine.personal](/_personal/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.personal.md) 
+
+### #is_/same_as :: [Essential_Medicine.secret](/_secret/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.secret.md)
+

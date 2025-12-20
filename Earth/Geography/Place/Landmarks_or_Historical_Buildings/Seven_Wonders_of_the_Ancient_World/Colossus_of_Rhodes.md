@@ -16,3 +16,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colossus%20of%20Rhodes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Colossus_of_Rhodes](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.md) 
+
+### #is_/same_as :: [Colossus_of_Rhodes.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.public.md) 
+
+### #is_/same_as :: [Colossus_of_Rhodes.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.internal.md) 
+
+### #is_/same_as :: [Colossus_of_Rhodes.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.protect.md) 
+
+### #is_/same_as :: [Colossus_of_Rhodes.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.private.md) 
+
+### #is_/same_as :: [Colossus_of_Rhodes.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.personal.md) 
+
+### #is_/same_as :: [Colossus_of_Rhodes.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.secret.md)
+

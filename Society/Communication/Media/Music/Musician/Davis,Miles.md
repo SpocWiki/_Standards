@@ -137,3 +137,22 @@ Facebook_username: MilesDavis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Miles%20Davis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Davis,Miles](/_Standards/Society/Communication/Media/Music/Musician/Davis,Miles.md) 
+
+### #is_/same_as :: [Davis,Miles.public](/_public/Society/Communication/Media/Music/Musician/Davis,Miles.public.md) 
+
+### #is_/same_as :: [Davis,Miles.internal](/_internal/Society/Communication/Media/Music/Musician/Davis,Miles.internal.md) 
+
+### #is_/same_as :: [Davis,Miles.protect](/_protect/Society/Communication/Media/Music/Musician/Davis,Miles.protect.md) 
+
+### #is_/same_as :: [Davis,Miles.private](/_private/Society/Communication/Media/Music/Musician/Davis,Miles.private.md) 
+
+### #is_/same_as :: [Davis,Miles.personal](/_personal/Society/Communication/Media/Music/Musician/Davis,Miles.personal.md) 
+
+### #is_/same_as :: [Davis,Miles.secret](/_secret/Society/Communication/Media/Music/Musician/Davis,Miles.secret.md)
+

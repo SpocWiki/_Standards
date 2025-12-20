@@ -136,3 +136,22 @@ Facebook_username: EuropeanSpaceAgency
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Space%20Agency) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [European_Space_Agency](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.md) 
+
+### #is_/same_as :: [European_Space_Agency.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.public.md) 
+
+### #is_/same_as :: [European_Space_Agency.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.internal.md) 
+
+### #is_/same_as :: [European_Space_Agency.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.protect.md) 
+
+### #is_/same_as :: [European_Space_Agency.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.private.md) 
+
+### #is_/same_as :: [European_Space_Agency.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.personal.md) 
+
+### #is_/same_as :: [European_Space_Agency.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.secret.md)
+

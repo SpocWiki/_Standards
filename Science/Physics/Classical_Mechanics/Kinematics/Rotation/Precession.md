@@ -32,3 +32,22 @@ Commons_category: Precession
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Precession) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Precession](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.md) 
+
+### #is_/same_as :: [Precession.public](/_public/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.public.md) 
+
+### #is_/same_as :: [Precession.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.internal.md) 
+
+### #is_/same_as :: [Precession.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.protect.md) 
+
+### #is_/same_as :: [Precession.private](/_private/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.private.md) 
+
+### #is_/same_as :: [Precession.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.personal.md) 
+
+### #is_/same_as :: [Precession.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.secret.md)
+

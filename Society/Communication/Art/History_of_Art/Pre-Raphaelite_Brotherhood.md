@@ -50,3 +50,22 @@ Royal_Academy_new_identifier: pre-raphaelite-brotherhood
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pre-Raphaelite%20Brotherhood) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pre-Raphaelite_Brotherhood](/_Standards/Society/Communication/Art/History_of_Art/Pre-Raphaelite_Brotherhood.md) 
+
+### #is_/same_as :: [Pre-Raphaelite_Brotherhood.public](/_public/Society/Communication/Art/History_of_Art/Pre-Raphaelite_Brotherhood.public.md) 
+
+### #is_/same_as :: [Pre-Raphaelite_Brotherhood.internal](/_internal/Society/Communication/Art/History_of_Art/Pre-Raphaelite_Brotherhood.internal.md) 
+
+### #is_/same_as :: [Pre-Raphaelite_Brotherhood.protect](/_protect/Society/Communication/Art/History_of_Art/Pre-Raphaelite_Brotherhood.protect.md) 
+
+### #is_/same_as :: [Pre-Raphaelite_Brotherhood.private](/_private/Society/Communication/Art/History_of_Art/Pre-Raphaelite_Brotherhood.private.md) 
+
+### #is_/same_as :: [Pre-Raphaelite_Brotherhood.personal](/_personal/Society/Communication/Art/History_of_Art/Pre-Raphaelite_Brotherhood.personal.md) 
+
+### #is_/same_as :: [Pre-Raphaelite_Brotherhood.secret](/_secret/Society/Communication/Art/History_of_Art/Pre-Raphaelite_Brotherhood.secret.md)
+

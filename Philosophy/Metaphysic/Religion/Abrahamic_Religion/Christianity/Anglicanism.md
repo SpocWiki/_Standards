@@ -64,17 +64,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anglicanism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Anglicanism.md) 
+### #is_/same_as :: [Anglicanism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.md) 
 
-### #is_/same_as :: [Anglicanism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Anglicanism.public.md) 
+### #is_/same_as :: [Anglicanism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.public.md) 
 
-### #is_/same_as :: [Anglicanism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Anglicanism.internal.md) 
+### #is_/same_as :: [Anglicanism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.internal.md) 
 
-### #is_/same_as :: [Anglicanism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Anglicanism.protect.md) 
+### #is_/same_as :: [Anglicanism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.protect.md) 
 
-### #is_/same_as :: [Anglicanism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Anglicanism.private.md) 
+### #is_/same_as :: [Anglicanism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.private.md) 
 
-### #is_/same_as :: [Anglicanism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Anglicanism.personal.md) 
+### #is_/same_as :: [Anglicanism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.personal.md) 
 
-### #is_/same_as :: [Anglicanism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Anglicanism.secret.md)
+### #is_/same_as :: [Anglicanism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Anglicanism.secret.md)
 

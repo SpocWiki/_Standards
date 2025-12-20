@@ -48,3 +48,21 @@ dissolved_abolished_or_demolished_date: 1261-01-01T00:00:00Z
 > The crusaders selected their own emperor from among their own ranks, Baldwin IX of Flanders, and divided the territory of the Byzantine Empire into various new vassal crusader states. The Latin Empire's authority was immediately challenged by Byzantine rump states led by the Laskaris family (connected to the Angelos dynasty of 1185–1204) in Nicaea and the Komnenos family (which had ruled as Byzantine Emperors 1081–1185) in Trebizond. From 1224 to 1242, the Komnenos Doukas family, also connected to the Angeloi, challenged Latin authority from Thessalonica. The Latin Empire failed to attain political or economic dominance over the other Latin powers that had been established in former Byzantine territories in the wake of the Fourth Crusade, especially Venice, and after a short initial period of military successes, it went into a steady decline due to constant war with Bulgaria to the north and the various Byzantine claimants. Eventually, the Nicene Empire recovered Constantinople and restored the Byzantine Empire under Michael VIII Palaiologos in 1261. The last Latin emperor, Baldwin II, went into exile, but the imperial title survived, with several pretenders to it, until the 14th century.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin%20Empire)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1204-Latin_Empire+1261](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1204-Latin_Empire+1261.md) 
+
+### #is_/same_as :: [1204-Latin_Empire+1261.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1204-Latin_Empire+1261.public.md) 
+
+### #is_/same_as :: [1204-Latin_Empire+1261.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1204-Latin_Empire+1261.internal.md) 
+
+### #is_/same_as :: [1204-Latin_Empire+1261.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1204-Latin_Empire+1261.protect.md) 
+
+### #is_/same_as :: [1204-Latin_Empire+1261.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1204-Latin_Empire+1261.private.md) 
+
+### #is_/same_as :: [1204-Latin_Empire+1261.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1204-Latin_Empire+1261.personal.md) 
+
+### #is_/same_as :: [1204-Latin_Empire+1261.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1204-Latin_Empire+1261.secret.md)
+

@@ -82,19 +82,20 @@ A specific branch of medical science that deals with benign and malignant tumors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oncology)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oncology](Oncology.md) 
+### #is_/same_as :: [Oncology](/_Standards/bio/Medicine/Medical_Business/Oncology.md) 
 
-### #is_/same_as :: [Oncologic.public](/_public/Society/Organization/Local_Business/Medical_Business/Oncologic.public.md) 
+### #is_/same_as :: [Oncology.public](/_public/bio/Medicine/Medical_Business/Oncology.public.md) 
 
-### #is_/same_as :: [Oncologic.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Oncologic.internal.md) 
+### #is_/same_as :: [Oncology.internal](/_internal/bio/Medicine/Medical_Business/Oncology.internal.md) 
 
-### #is_/same_as :: [Oncologic.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Oncologic.protect.md) 
+### #is_/same_as :: [Oncology.protect](/_protect/bio/Medicine/Medical_Business/Oncology.protect.md) 
 
-### #is_/same_as :: [Oncologic.private](/_private/Society/Organization/Local_Business/Medical_Business/Oncologic.private.md) 
+### #is_/same_as :: [Oncology.private](/_private/bio/Medicine/Medical_Business/Oncology.private.md) 
 
-### #is_/same_as :: [Oncologic.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Oncologic.personal.md) 
+### #is_/same_as :: [Oncology.personal](/_personal/bio/Medicine/Medical_Business/Oncology.personal.md) 
 
-### #is_/same_as :: [Oncologic.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Oncologic.secret.md)
+### #is_/same_as :: [Oncology.secret](/_secret/bio/Medicine/Medical_Business/Oncology.secret.md)
 

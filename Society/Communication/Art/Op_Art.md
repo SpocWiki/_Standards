@@ -32,3 +32,22 @@ Commons_category: Op art
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Op%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Op_Art](/_Standards/Society/Communication/Art/Op_Art.md) 
+
+### #is_/same_as :: [Op_Art.public](/_public/Society/Communication/Art/Op_Art.public.md) 
+
+### #is_/same_as :: [Op_Art.internal](/_internal/Society/Communication/Art/Op_Art.internal.md) 
+
+### #is_/same_as :: [Op_Art.protect](/_protect/Society/Communication/Art/Op_Art.protect.md) 
+
+### #is_/same_as :: [Op_Art.private](/_private/Society/Communication/Art/Op_Art.private.md) 
+
+### #is_/same_as :: [Op_Art.personal](/_personal/Society/Communication/Art/Op_Art.personal.md) 
+
+### #is_/same_as :: [Op_Art.secret](/_secret/Society/Communication/Art/Op_Art.secret.md)
+

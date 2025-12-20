@@ -46,3 +46,22 @@ Commons_category: Performance art
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Performance%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Performance_Art](/_Standards/Society/Communication/Art/Performance_Art.md) 
+
+### #is_/same_as :: [Performance_Art.public](/_public/Society/Communication/Art/Performance_Art.public.md) 
+
+### #is_/same_as :: [Performance_Art.internal](/_internal/Society/Communication/Art/Performance_Art.internal.md) 
+
+### #is_/same_as :: [Performance_Art.protect](/_protect/Society/Communication/Art/Performance_Art.protect.md) 
+
+### #is_/same_as :: [Performance_Art.private](/_private/Society/Communication/Art/Performance_Art.private.md) 
+
+### #is_/same_as :: [Performance_Art.personal](/_personal/Society/Communication/Art/Performance_Art.personal.md) 
+
+### #is_/same_as :: [Performance_Art.secret](/_secret/Society/Communication/Art/Performance_Art.secret.md)
+

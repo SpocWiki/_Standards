@@ -29,3 +29,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Töpffer,Rodolphe](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.md) 
+
+### #is_/same_as :: [Töpffer,Rodolphe.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.public.md) 
+
+### #is_/same_as :: [Töpffer,Rodolphe.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.internal.md) 
+
+### #is_/same_as :: [Töpffer,Rodolphe.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.protect.md) 
+
+### #is_/same_as :: [Töpffer,Rodolphe.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.private.md) 
+
+### #is_/same_as :: [Töpffer,Rodolphe.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.personal.md) 
+
+### #is_/same_as :: [Töpffer,Rodolphe.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.secret.md)
+

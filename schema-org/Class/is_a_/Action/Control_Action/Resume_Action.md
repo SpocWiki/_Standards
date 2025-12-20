@@ -39,17 +39,17 @@ The act of resuming a device or application which was formerly paused (e.g. resu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [resume_action](/_Standards/schema-org/Class/is_a_/action/control_action/resume_action.md) 
+### #is_/same_as :: [Resume_Action](/_Standards/schema-org/Class/is_a_/Action/Control_Action/Resume_Action.md) 
 
-### #is_/same_as :: [resume_action.public](/_public/schema-org/Class/is_a_/action/control_action/resume_action.public.md) 
+### #is_/same_as :: [Resume_Action.public](/_public/schema-org/Class/is_a_/Action/Control_Action/Resume_Action.public.md) 
 
-### #is_/same_as :: [resume_action.internal](/_internal/schema-org/Class/is_a_/action/control_action/resume_action.internal.md) 
+### #is_/same_as :: [Resume_Action.internal](/_internal/schema-org/Class/is_a_/Action/Control_Action/Resume_Action.internal.md) 
 
-### #is_/same_as :: [resume_action.protect](/_protect/schema-org/Class/is_a_/action/control_action/resume_action.protect.md) 
+### #is_/same_as :: [Resume_Action.protect](/_protect/schema-org/Class/is_a_/Action/Control_Action/Resume_Action.protect.md) 
 
-### #is_/same_as :: [resume_action.private](/_private/schema-org/Class/is_a_/action/control_action/resume_action.private.md) 
+### #is_/same_as :: [Resume_Action.private](/_private/schema-org/Class/is_a_/Action/Control_Action/Resume_Action.private.md) 
 
-### #is_/same_as :: [resume_action.personal](/_personal/schema-org/Class/is_a_/action/control_action/resume_action.personal.md) 
+### #is_/same_as :: [Resume_Action.personal](/_personal/schema-org/Class/is_a_/Action/Control_Action/Resume_Action.personal.md) 
 
-### #is_/same_as :: [resume_action.secret](/_secret/schema-org/Class/is_a_/action/control_action/resume_action.secret.md)
+### #is_/same_as :: [Resume_Action.secret](/_secret/schema-org/Class/is_a_/Action/Control_Action/Resume_Action.secret.md)
 

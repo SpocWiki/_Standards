@@ -53,3 +53,22 @@ OpenStreetMap_tag: denomination=vaishnavism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vaishnavism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vaishnavism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vaishnavism.md) 
+
+### #is_/same_as :: [Vaishnavism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vaishnavism.public.md) 
+
+### #is_/same_as :: [Vaishnavism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vaishnavism.internal.md) 
+
+### #is_/same_as :: [Vaishnavism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vaishnavism.protect.md) 
+
+### #is_/same_as :: [Vaishnavism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vaishnavism.private.md) 
+
+### #is_/same_as :: [Vaishnavism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vaishnavism.personal.md) 
+
+### #is_/same_as :: [Vaishnavism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vaishnavism.secret.md)
+

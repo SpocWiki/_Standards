@@ -61,17 +61,17 @@ and freely released under the [GNU General Public License](https://en.wikipedia.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doom(game)](Doom(game).md) 
+### #is_/same_as :: [Doom(game)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game).md) 
 
-### #is_/same_as :: [Doom(game).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game).public.md) 
+### #is_/same_as :: [Doom(game).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game).public.md) 
 
-### #is_/same_as :: [Doom(game).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game).internal.md) 
+### #is_/same_as :: [Doom(game).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game).internal.md) 
 
-### #is_/same_as :: [Doom(game).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game).protect.md) 
+### #is_/same_as :: [Doom(game).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game).protect.md) 
 
-### #is_/same_as :: [Doom(game).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game).private.md) 
+### #is_/same_as :: [Doom(game).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game).private.md) 
 
-### #is_/same_as :: [Doom(game).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game).personal.md) 
+### #is_/same_as :: [Doom(game).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game).personal.md) 
 
-### #is_/same_as :: [Doom(game).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Doom(game).secret.md)
+### #is_/same_as :: [Doom(game).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Doom(game).secret.md)
 

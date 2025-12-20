@@ -80,3 +80,22 @@ PhilPapers_topic: russells-paradox
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russell's%20paradox) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Russell's_Paradox](/_Standards/Mathematics/Set_Theory/Russell's_Paradox.md) 
+
+### #is_/same_as :: [Russell's_Paradox.public](/_public/Mathematics/Set_Theory/Russell's_Paradox.public.md) 
+
+### #is_/same_as :: [Russell's_Paradox.internal](/_internal/Mathematics/Set_Theory/Russell's_Paradox.internal.md) 
+
+### #is_/same_as :: [Russell's_Paradox.protect](/_protect/Mathematics/Set_Theory/Russell's_Paradox.protect.md) 
+
+### #is_/same_as :: [Russell's_Paradox.private](/_private/Mathematics/Set_Theory/Russell's_Paradox.private.md) 
+
+### #is_/same_as :: [Russell's_Paradox.personal](/_personal/Mathematics/Set_Theory/Russell's_Paradox.personal.md) 
+
+### #is_/same_as :: [Russell's_Paradox.secret](/_secret/Mathematics/Set_Theory/Russell's_Paradox.secret.md)
+

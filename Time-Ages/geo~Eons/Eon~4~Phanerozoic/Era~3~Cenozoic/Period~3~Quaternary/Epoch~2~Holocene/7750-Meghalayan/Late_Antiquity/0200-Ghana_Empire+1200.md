@@ -44,3 +44,21 @@ coordinate_location: Point(-8.0 15.66666667)
 > After centuries of prosperity, the empire began its decline in the second millennium, and would finally become a vassal state of the rising Mali Empire at some point in the 13th century. Despite its collapse, the empire's influence can be felt in the establishment of numerous urban centers throughout its former territory. In 1957, the British colony of the Gold Coast, under the leadership of Kwame Nkrumah named itself Ghana upon independence.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ghana%20Empire)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0200-Ghana_Empire+1200](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.md) 
+
+### #is_/same_as :: [0200-Ghana_Empire+1200.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.public.md) 
+
+### #is_/same_as :: [0200-Ghana_Empire+1200.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.internal.md) 
+
+### #is_/same_as :: [0200-Ghana_Empire+1200.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.protect.md) 
+
+### #is_/same_as :: [0200-Ghana_Empire+1200.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.private.md) 
+
+### #is_/same_as :: [0200-Ghana_Empire+1200.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.personal.md) 
+
+### #is_/same_as :: [0200-Ghana_Empire+1200.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0200-Ghana_Empire+1200.secret.md)
+

@@ -47,3 +47,22 @@ Commons_category: Topology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Topological%20space) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Topological_Space](/_Standards/Mathematics/Topology/Topological_Space.md) 
+
+### #is_/same_as :: [Topological_Space.public](/_public/Mathematics/Topology/Topological_Space.public.md) 
+
+### #is_/same_as :: [Topological_Space.internal](/_internal/Mathematics/Topology/Topological_Space.internal.md) 
+
+### #is_/same_as :: [Topological_Space.protect](/_protect/Mathematics/Topology/Topological_Space.protect.md) 
+
+### #is_/same_as :: [Topological_Space.private](/_private/Mathematics/Topology/Topological_Space.private.md) 
+
+### #is_/same_as :: [Topological_Space.personal](/_personal/Mathematics/Topology/Topological_Space.personal.md) 
+
+### #is_/same_as :: [Topological_Space.secret](/_secret/Mathematics/Topology/Topological_Space.secret.md)
+

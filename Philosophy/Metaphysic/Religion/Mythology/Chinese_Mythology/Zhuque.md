@@ -58,3 +58,22 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vermilion%20Bird) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zhuque](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Zhuque.md) 
+
+### #is_/same_as :: [Zhuque.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Zhuque.public.md) 
+
+### #is_/same_as :: [Zhuque.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Zhuque.internal.md) 
+
+### #is_/same_as :: [Zhuque.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Zhuque.protect.md) 
+
+### #is_/same_as :: [Zhuque.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Zhuque.private.md) 
+
+### #is_/same_as :: [Zhuque.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Zhuque.personal.md) 
+
+### #is_/same_as :: [Zhuque.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Zhuque.secret.md)
+

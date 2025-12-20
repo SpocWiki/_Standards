@@ -25,3 +25,22 @@ Trotz des umfangreichen Katalogs von Ausnahmetatbeständen gilt seit dem 1. Janu
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Informationsfreiheitsgesetz](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency/Informationsfreiheitsgesetz.md) 
+
+### #is_/same_as :: [Informationsfreiheitsgesetz.public](/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency/Informationsfreiheitsgesetz.public.md) 
+
+### #is_/same_as :: [Informationsfreiheitsgesetz.internal](/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency/Informationsfreiheitsgesetz.internal.md) 
+
+### #is_/same_as :: [Informationsfreiheitsgesetz.protect](/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency/Informationsfreiheitsgesetz.protect.md) 
+
+### #is_/same_as :: [Informationsfreiheitsgesetz.private](/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency/Informationsfreiheitsgesetz.private.md) 
+
+### #is_/same_as :: [Informationsfreiheitsgesetz.personal](/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency/Informationsfreiheitsgesetz.personal.md) 
+
+### #is_/same_as :: [Informationsfreiheitsgesetz.secret](/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency/Informationsfreiheitsgesetz.secret.md)
+

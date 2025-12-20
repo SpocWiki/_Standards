@@ -182,3 +182,22 @@ Commons_category: IPA charts
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [International_Phonetic_Alphabet](/_Standards/Language/Writing_System/International_Phonetic_Alphabet.md) 
+
+### #is_/same_as :: [International_Phonetic_Alphabet.public](/_public/Language/Writing_System/International_Phonetic_Alphabet.public.md) 
+
+### #is_/same_as :: [International_Phonetic_Alphabet.internal](/_internal/Language/Writing_System/International_Phonetic_Alphabet.internal.md) 
+
+### #is_/same_as :: [International_Phonetic_Alphabet.protect](/_protect/Language/Writing_System/International_Phonetic_Alphabet.protect.md) 
+
+### #is_/same_as :: [International_Phonetic_Alphabet.private](/_private/Language/Writing_System/International_Phonetic_Alphabet.private.md) 
+
+### #is_/same_as :: [International_Phonetic_Alphabet.personal](/_personal/Language/Writing_System/International_Phonetic_Alphabet.personal.md) 
+
+### #is_/same_as :: [International_Phonetic_Alphabet.secret](/_secret/Language/Writing_System/International_Phonetic_Alphabet.secret.md)
+

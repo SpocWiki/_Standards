@@ -34,3 +34,22 @@ MeSH_tree_code: L01.224.230.260.550.500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mobile%20device) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mobile_Device](/_Standards/Technology/IT/Computer_Hardware/Mobile_Device.md) 
+
+### #is_/same_as :: [Mobile_Device.public](/_public/Technology/IT/Computer_Hardware/Mobile_Device.public.md) 
+
+### #is_/same_as :: [Mobile_Device.internal](/_internal/Technology/IT/Computer_Hardware/Mobile_Device.internal.md) 
+
+### #is_/same_as :: [Mobile_Device.protect](/_protect/Technology/IT/Computer_Hardware/Mobile_Device.protect.md) 
+
+### #is_/same_as :: [Mobile_Device.private](/_private/Technology/IT/Computer_Hardware/Mobile_Device.private.md) 
+
+### #is_/same_as :: [Mobile_Device.personal](/_personal/Technology/IT/Computer_Hardware/Mobile_Device.personal.md) 
+
+### #is_/same_as :: [Mobile_Device.secret](/_secret/Technology/IT/Computer_Hardware/Mobile_Device.secret.md)
+

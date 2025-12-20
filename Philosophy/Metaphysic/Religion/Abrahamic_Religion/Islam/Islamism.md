@@ -69,3 +69,22 @@ Commons_category: Islamism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Islamism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.md) 
+
+### #is_/same_as :: [Islamism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.public.md) 
+
+### #is_/same_as :: [Islamism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.internal.md) 
+
+### #is_/same_as :: [Islamism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.protect.md) 
+
+### #is_/same_as :: [Islamism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.private.md) 
+
+### #is_/same_as :: [Islamism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.personal.md) 
+
+### #is_/same_as :: [Islamism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.secret.md)
+

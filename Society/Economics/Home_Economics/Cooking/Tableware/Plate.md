@@ -36,3 +36,22 @@ Commons_category: Plates
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plate%20(dishware)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plate](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Plate.md) 
+
+### #is_/same_as :: [Plate.public](/_public/Society/Economics/Home_Economics/Cooking/Tableware/Plate.public.md) 
+
+### #is_/same_as :: [Plate.internal](/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Plate.internal.md) 
+
+### #is_/same_as :: [Plate.protect](/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Plate.protect.md) 
+
+### #is_/same_as :: [Plate.private](/_private/Society/Economics/Home_Economics/Cooking/Tableware/Plate.private.md) 
+
+### #is_/same_as :: [Plate.personal](/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Plate.personal.md) 
+
+### #is_/same_as :: [Plate.secret](/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Plate.secret.md)
+

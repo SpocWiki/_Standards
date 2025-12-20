@@ -36,3 +36,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Cognac) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cognac](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Cognac.md) 
+
+### #is_/same_as :: [Cognac.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Cognac.public.md) 
+
+### #is_/same_as :: [Cognac.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Cognac.internal.md) 
+
+### #is_/same_as :: [Cognac.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Cognac.protect.md) 
+
+### #is_/same_as :: [Cognac.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Cognac.private.md) 
+
+### #is_/same_as :: [Cognac.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Cognac.personal.md) 
+
+### #is_/same_as :: [Cognac.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Cognac.secret.md)
+

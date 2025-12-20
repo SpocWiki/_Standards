@@ -47,3 +47,22 @@ OpenStreetMap_tag: amenity=stock_exchange
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stock%20exchange) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stock_Exchange](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.md) 
+
+### #is_/same_as :: [Stock_Exchange.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.public.md) 
+
+### #is_/same_as :: [Stock_Exchange.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.internal.md) 
+
+### #is_/same_as :: [Stock_Exchange.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.protect.md) 
+
+### #is_/same_as :: [Stock_Exchange.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.private.md) 
+
+### #is_/same_as :: [Stock_Exchange.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.personal.md) 
+
+### #is_/same_as :: [Stock_Exchange.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.secret.md)
+

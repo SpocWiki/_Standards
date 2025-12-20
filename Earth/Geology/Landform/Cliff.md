@@ -30,3 +30,22 @@ has_id_wikidata: Q107679
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cliff) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cliff](/_Standards/Earth/Geology/Landform/Cliff.md) 
+
+### #is_/same_as :: [Cliff.public](/_public/Earth/Geology/Landform/Cliff.public.md) 
+
+### #is_/same_as :: [Cliff.internal](/_internal/Earth/Geology/Landform/Cliff.internal.md) 
+
+### #is_/same_as :: [Cliff.protect](/_protect/Earth/Geology/Landform/Cliff.protect.md) 
+
+### #is_/same_as :: [Cliff.private](/_private/Earth/Geology/Landform/Cliff.private.md) 
+
+### #is_/same_as :: [Cliff.personal](/_personal/Earth/Geology/Landform/Cliff.personal.md) 
+
+### #is_/same_as :: [Cliff.secret](/_secret/Earth/Geology/Landform/Cliff.secret.md)
+

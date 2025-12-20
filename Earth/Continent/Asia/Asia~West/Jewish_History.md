@@ -32,3 +32,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jewish%20history)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jewish_History](/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History.md) 
+
+### #is_/same_as :: [Jewish_History.public](/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public.md) 
+
+### #is_/same_as :: [Jewish_History.internal](/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal.md) 
+
+### #is_/same_as :: [Jewish_History.protect](/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect.md) 
+
+### #is_/same_as :: [Jewish_History.private](/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private.md) 
+
+### #is_/same_as :: [Jewish_History.personal](/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal.md) 
+
+### #is_/same_as :: [Jewish_History.secret](/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret.md)
+

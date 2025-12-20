@@ -109,3 +109,22 @@ Archive_of_Our_Own_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Chronicles%20of%20Narnia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chronicles_of_Narnia](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.md) 
+
+### #is_/same_as :: [Chronicles_of_Narnia.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.public.md) 
+
+### #is_/same_as :: [Chronicles_of_Narnia.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.internal.md) 
+
+### #is_/same_as :: [Chronicles_of_Narnia.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.protect.md) 
+
+### #is_/same_as :: [Chronicles_of_Narnia.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.private.md) 
+
+### #is_/same_as :: [Chronicles_of_Narnia.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.personal.md) 
+
+### #is_/same_as :: [Chronicles_of_Narnia.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S/Chronicles_of_Narnia.secret.md)
+

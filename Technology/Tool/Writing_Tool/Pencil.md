@@ -82,3 +82,22 @@ Commons_category: Pencils
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pencil) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pencil](/_Standards/Technology/Tool/Writing_Tool/Pencil.md) 
+
+### #is_/same_as :: [Pencil.public](/_public/Technology/Tool/Writing_Tool/Pencil.public.md) 
+
+### #is_/same_as :: [Pencil.internal](/_internal/Technology/Tool/Writing_Tool/Pencil.internal.md) 
+
+### #is_/same_as :: [Pencil.protect](/_protect/Technology/Tool/Writing_Tool/Pencil.protect.md) 
+
+### #is_/same_as :: [Pencil.private](/_private/Technology/Tool/Writing_Tool/Pencil.private.md) 
+
+### #is_/same_as :: [Pencil.personal](/_personal/Technology/Tool/Writing_Tool/Pencil.personal.md) 
+
+### #is_/same_as :: [Pencil.secret](/_secret/Technology/Tool/Writing_Tool/Pencil.secret.md)
+

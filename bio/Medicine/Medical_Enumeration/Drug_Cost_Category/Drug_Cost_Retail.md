@@ -42,17 +42,17 @@ The drug's cost represents the retail cost of the drug.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [retail](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.md) 
+### #is_/same_as :: [Drug_Cost_Retail](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.md) 
 
-### #is_/same_as :: [retail.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.public.md) 
+### #is_/same_as :: [Drug_Cost_Retail.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.public.md) 
 
-### #is_/same_as :: [retail.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.internal.md) 
+### #is_/same_as :: [Drug_Cost_Retail.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.internal.md) 
 
-### #is_/same_as :: [retail.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.protect.md) 
+### #is_/same_as :: [Drug_Cost_Retail.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.protect.md) 
 
-### #is_/same_as :: [retail.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.private.md) 
+### #is_/same_as :: [Drug_Cost_Retail.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.private.md) 
 
-### #is_/same_as :: [retail.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.personal.md) 
+### #is_/same_as :: [Drug_Cost_Retail.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.personal.md) 
 
-### #is_/same_as :: [retail.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.secret.md)
+### #is_/same_as :: [Drug_Cost_Retail.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.secret.md)
 

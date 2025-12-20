@@ -48,8 +48,6 @@ Commons_category: Ionic bond
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionic%20bonding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ionic_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.md) 

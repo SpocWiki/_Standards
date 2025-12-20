@@ -56,3 +56,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20family) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nuclear_Family](/_Standards/Language/Language_Family/Nuclear_Family.md) 
+
+### #is_/same_as :: [Nuclear_Family.public](/_public/Language/Language_Family/Nuclear_Family.public.md) 
+
+### #is_/same_as :: [Nuclear_Family.internal](/_internal/Language/Language_Family/Nuclear_Family.internal.md) 
+
+### #is_/same_as :: [Nuclear_Family.protect](/_protect/Language/Language_Family/Nuclear_Family.protect.md) 
+
+### #is_/same_as :: [Nuclear_Family.private](/_private/Language/Language_Family/Nuclear_Family.private.md) 
+
+### #is_/same_as :: [Nuclear_Family.personal](/_personal/Language/Language_Family/Nuclear_Family.personal.md) 
+
+### #is_/same_as :: [Nuclear_Family.secret](/_secret/Language/Language_Family/Nuclear_Family.secret.md)
+

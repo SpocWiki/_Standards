@@ -40,17 +40,17 @@ SpokenWordAlbum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spoken_Word_Album](Spoken_Word_Album.md) 
+### #is_/same_as :: [Spoken_Word_Album](/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.md) 
 
-### #is_/same_as :: [spoken_word_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.public.md) 
+### #is_/same_as :: [Spoken_Word_Album.public](/_public/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.public.md) 
 
-### #is_/same_as :: [spoken_word_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.internal.md) 
+### #is_/same_as :: [Spoken_Word_Album.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.internal.md) 
 
-### #is_/same_as :: [spoken_word_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.protect.md) 
+### #is_/same_as :: [Spoken_Word_Album.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.protect.md) 
 
-### #is_/same_as :: [spoken_word_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.private.md) 
+### #is_/same_as :: [Spoken_Word_Album.private](/_private/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.private.md) 
 
-### #is_/same_as :: [spoken_word_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.personal.md) 
+### #is_/same_as :: [Spoken_Word_Album.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.personal.md) 
 
-### #is_/same_as :: [spoken_word_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.secret.md)
+### #is_/same_as :: [Spoken_Word_Album.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.secret.md)
 

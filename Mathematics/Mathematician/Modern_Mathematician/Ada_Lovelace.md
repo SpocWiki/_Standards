@@ -86,17 +86,17 @@ has_id_wikidata: Q7259
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ada_Lovelace](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Ada_Lovelace.md) 
+### #is_/same_as :: [Ada_Lovelace](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Ada_Lovelace.md) 
 
-### #is_/same_as :: [Ada_Lovelace.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Ada_Lovelace.public.md) 
+### #is_/same_as :: [Ada_Lovelace.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Ada_Lovelace.public.md) 
 
-### #is_/same_as :: [Ada_Lovelace.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Ada_Lovelace.internal.md) 
+### #is_/same_as :: [Ada_Lovelace.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Ada_Lovelace.internal.md) 
 
-### #is_/same_as :: [Ada_Lovelace.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Ada_Lovelace.protect.md) 
+### #is_/same_as :: [Ada_Lovelace.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Ada_Lovelace.protect.md) 
 
-### #is_/same_as :: [Ada_Lovelace.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Ada_Lovelace.private.md) 
+### #is_/same_as :: [Ada_Lovelace.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Ada_Lovelace.private.md) 
 
-### #is_/same_as :: [Ada_Lovelace.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Ada_Lovelace.personal.md) 
+### #is_/same_as :: [Ada_Lovelace.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Ada_Lovelace.personal.md) 
 
-### #is_/same_as :: [Ada_Lovelace.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Ada_Lovelace.secret.md)
+### #is_/same_as :: [Ada_Lovelace.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Ada_Lovelace.secret.md)
 

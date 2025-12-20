@@ -34,3 +34,22 @@ has_id_wikidata: Q4165246
 > [Wikipedia](https://en.wikipedia.org/wiki/Bechdel%20test) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bechdel_Test](/_Standards/Society/Communication/Genre/Bechdel_Test.md) 
+
+### #is_/same_as :: [Bechdel_Test.public](/_public/Society/Communication/Genre/Bechdel_Test.public.md) 
+
+### #is_/same_as :: [Bechdel_Test.internal](/_internal/Society/Communication/Genre/Bechdel_Test.internal.md) 
+
+### #is_/same_as :: [Bechdel_Test.protect](/_protect/Society/Communication/Genre/Bechdel_Test.protect.md) 
+
+### #is_/same_as :: [Bechdel_Test.private](/_private/Society/Communication/Genre/Bechdel_Test.private.md) 
+
+### #is_/same_as :: [Bechdel_Test.personal](/_personal/Society/Communication/Genre/Bechdel_Test.personal.md) 
+
+### #is_/same_as :: [Bechdel_Test.secret](/_secret/Society/Communication/Genre/Bechdel_Test.secret.md)
+

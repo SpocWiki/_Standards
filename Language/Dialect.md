@@ -49,3 +49,22 @@ exact_match: https://ontology.londisizwe.org/mola#Dialect
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dialect) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dialect](/_Standards/Language/Dialect.md) 
+
+### #is_/same_as :: [Dialect.public](/_public/Language/Dialect.public.md) 
+
+### #is_/same_as :: [Dialect.internal](/_internal/Language/Dialect.internal.md) 
+
+### #is_/same_as :: [Dialect.protect](/_protect/Language/Dialect.protect.md) 
+
+### #is_/same_as :: [Dialect.private](/_private/Language/Dialect.private.md) 
+
+### #is_/same_as :: [Dialect.personal](/_personal/Language/Dialect.personal.md) 
+
+### #is_/same_as :: [Dialect.secret](/_secret/Language/Dialect.secret.md)
+

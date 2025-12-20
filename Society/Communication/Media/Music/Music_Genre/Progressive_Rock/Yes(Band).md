@@ -70,3 +70,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yes(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band).md) 
+
+### #is_/same_as :: [Yes(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band).public.md) 
+
+### #is_/same_as :: [Yes(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band).internal.md) 
+
+### #is_/same_as :: [Yes(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band).protect.md) 
+
+### #is_/same_as :: [Yes(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band).private.md) 
+
+### #is_/same_as :: [Yes(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band).personal.md) 
+
+### #is_/same_as :: [Yes(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band).secret.md)
+

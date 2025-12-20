@@ -101,3 +101,22 @@ Commons_gallery: Marcus Vitruvius Pollio
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitruvius)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vitruvius](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Vitruvius.md) 
+
+### #is_/same_as :: [Vitruvius.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Vitruvius.public.md) 
+
+### #is_/same_as :: [Vitruvius.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Vitruvius.internal.md) 
+
+### #is_/same_as :: [Vitruvius.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Vitruvius.protect.md) 
+
+### #is_/same_as :: [Vitruvius.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Vitruvius.private.md) 
+
+### #is_/same_as :: [Vitruvius.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Vitruvius.personal.md) 
+
+### #is_/same_as :: [Vitruvius.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Vitruvius.secret.md)
+

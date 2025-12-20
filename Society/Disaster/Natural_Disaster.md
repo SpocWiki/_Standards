@@ -76,3 +76,22 @@ the **EM-DAT International Disaster Database**, **UNDRR**, **WHO**, and peer-rev
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20disaster)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Natural_Disaster](/_Standards/Society/Disaster/Natural_Disaster.md) 
+
+### #is_/same_as :: [Natural_Disaster.public](/_public/Society/Disaster/Natural_Disaster.public.md) 
+
+### #is_/same_as :: [Natural_Disaster.internal](/_internal/Society/Disaster/Natural_Disaster.internal.md) 
+
+### #is_/same_as :: [Natural_Disaster.protect](/_protect/Society/Disaster/Natural_Disaster.protect.md) 
+
+### #is_/same_as :: [Natural_Disaster.private](/_private/Society/Disaster/Natural_Disaster.private.md) 
+
+### #is_/same_as :: [Natural_Disaster.personal](/_personal/Society/Disaster/Natural_Disaster.personal.md) 
+
+### #is_/same_as :: [Natural_Disaster.secret](/_secret/Society/Disaster/Natural_Disaster.secret.md)
+

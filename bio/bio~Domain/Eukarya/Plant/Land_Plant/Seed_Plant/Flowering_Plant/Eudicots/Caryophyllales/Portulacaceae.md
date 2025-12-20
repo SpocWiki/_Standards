@@ -37,3 +37,22 @@ NBN_System_Key: NBNSYS0000160784
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Portulacaceae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Portulacaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae.md) 
+
+### #is_/same_as :: [Portulacaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae.public.md) 
+
+### #is_/same_as :: [Portulacaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae.internal.md) 
+
+### #is_/same_as :: [Portulacaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae.protect.md) 
+
+### #is_/same_as :: [Portulacaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae.private.md) 
+
+### #is_/same_as :: [Portulacaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae.personal.md) 
+
+### #is_/same_as :: [Portulacaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae.secret.md)
+

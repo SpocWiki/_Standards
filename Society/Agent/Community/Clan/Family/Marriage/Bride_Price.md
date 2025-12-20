@@ -47,3 +47,22 @@ Commons_category: Bridewealth
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bride%20price) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bride_Price](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.md) 
+
+### #is_/same_as :: [Bride_Price.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.public.md) 
+
+### #is_/same_as :: [Bride_Price.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.internal.md) 
+
+### #is_/same_as :: [Bride_Price.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.protect.md) 
+
+### #is_/same_as :: [Bride_Price.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.private.md) 
+
+### #is_/same_as :: [Bride_Price.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.personal.md) 
+
+### #is_/same_as :: [Bride_Price.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.secret.md)
+

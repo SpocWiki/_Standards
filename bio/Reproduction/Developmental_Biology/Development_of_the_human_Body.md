@@ -43,3 +43,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Development%20of%20the%20human%20body) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Development_of_the_human_Body](/_Standards/bio/Reproduction/Developmental_Biology/Development_of_the_human_Body.md) 
+
+### #is_/same_as :: [Development_of_the_human_Body.public](/_public/bio/Reproduction/Developmental_Biology/Development_of_the_human_Body.public.md) 
+
+### #is_/same_as :: [Development_of_the_human_Body.internal](/_internal/bio/Reproduction/Developmental_Biology/Development_of_the_human_Body.internal.md) 
+
+### #is_/same_as :: [Development_of_the_human_Body.protect](/_protect/bio/Reproduction/Developmental_Biology/Development_of_the_human_Body.protect.md) 
+
+### #is_/same_as :: [Development_of_the_human_Body.private](/_private/bio/Reproduction/Developmental_Biology/Development_of_the_human_Body.private.md) 
+
+### #is_/same_as :: [Development_of_the_human_Body.personal](/_personal/bio/Reproduction/Developmental_Biology/Development_of_the_human_Body.personal.md) 
+
+### #is_/same_as :: [Development_of_the_human_Body.secret](/_secret/bio/Reproduction/Developmental_Biology/Development_of_the_human_Body.secret.md)
+

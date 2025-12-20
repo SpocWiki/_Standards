@@ -54,17 +54,17 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"GypsyDancing::y9r8c\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Flamenco](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Flamenco.md) 
+### #is_/same_as :: [Flamenco](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Flamenco.md) 
 
-### #is_/same_as :: [Flamenco.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Flamenco.public.md) 
+### #is_/same_as :: [Flamenco.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Flamenco.public.md) 
 
-### #is_/same_as :: [Flamenco.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Flamenco.internal.md) 
+### #is_/same_as :: [Flamenco.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Flamenco.internal.md) 
 
-### #is_/same_as :: [Flamenco.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Flamenco.protect.md) 
+### #is_/same_as :: [Flamenco.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Flamenco.protect.md) 
 
-### #is_/same_as :: [Flamenco.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Flamenco.private.md) 
+### #is_/same_as :: [Flamenco.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Flamenco.private.md) 
 
-### #is_/same_as :: [Flamenco.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Flamenco.personal.md) 
+### #is_/same_as :: [Flamenco.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Flamenco.personal.md) 
 
-### #is_/same_as :: [Flamenco.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Flamenco.secret.md)
+### #is_/same_as :: [Flamenco.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Flamenco.secret.md)
 

@@ -98,3 +98,22 @@ Commons_category: String theory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/String%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [String_Theory](/_Standards/Science/Physics/Quantum_Mechanics/String_Theory.md) 
+
+### #is_/same_as :: [String_Theory.public](/_public/Science/Physics/Quantum_Mechanics/String_Theory.public.md) 
+
+### #is_/same_as :: [String_Theory.internal](/_internal/Science/Physics/Quantum_Mechanics/String_Theory.internal.md) 
+
+### #is_/same_as :: [String_Theory.protect](/_protect/Science/Physics/Quantum_Mechanics/String_Theory.protect.md) 
+
+### #is_/same_as :: [String_Theory.private](/_private/Science/Physics/Quantum_Mechanics/String_Theory.private.md) 
+
+### #is_/same_as :: [String_Theory.personal](/_personal/Science/Physics/Quantum_Mechanics/String_Theory.personal.md) 
+
+### #is_/same_as :: [String_Theory.secret](/_secret/Science/Physics/Quantum_Mechanics/String_Theory.secret.md)
+

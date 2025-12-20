@@ -81,3 +81,22 @@ ISO_639_3_code: swh
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Swahili) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-swh](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.md) 
+
+### #is_/same_as :: [Lang-swh.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.public.md) 
+
+### #is_/same_as :: [Lang-swh.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.internal.md) 
+
+### #is_/same_as :: [Lang-swh.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.protect.md) 
+
+### #is_/same_as :: [Lang-swh.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.private.md) 
+
+### #is_/same_as :: [Lang-swh.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.personal.md) 
+
+### #is_/same_as :: [Lang-swh.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.secret.md)
+

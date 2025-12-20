@@ -555,7 +555,7 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
   Scientific Name ::  Geastrum saccatum
   Comments          Earthstar (Gomphoid-Phalloid clade)
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

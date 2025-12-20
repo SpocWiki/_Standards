@@ -48,3 +48,22 @@ Unicode_character: 🦄
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Unicorn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unicorn](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Unicorn.md) 
+
+### #is_/same_as :: [Unicorn.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Unicorn.public.md) 
+
+### #is_/same_as :: [Unicorn.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Unicorn.internal.md) 
+
+### #is_/same_as :: [Unicorn.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Unicorn.protect.md) 
+
+### #is_/same_as :: [Unicorn.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Unicorn.private.md) 
+
+### #is_/same_as :: [Unicorn.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Unicorn.personal.md) 
+
+### #is_/same_as :: [Unicorn.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Unicorn.secret.md)
+

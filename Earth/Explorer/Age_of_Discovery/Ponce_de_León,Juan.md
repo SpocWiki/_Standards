@@ -78,3 +78,22 @@ date_of_death: 1521-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Juan%20Ponce%20de%20Le%C3%B3n)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ponce_de_León,Juan](/_Standards/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.md) 
+
+### #is_/same_as :: [Ponce_de_León,Juan.public](/_public/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.public.md) 
+
+### #is_/same_as :: [Ponce_de_León,Juan.internal](/_internal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.internal.md) 
+
+### #is_/same_as :: [Ponce_de_León,Juan.protect](/_protect/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.protect.md) 
+
+### #is_/same_as :: [Ponce_de_León,Juan.private](/_private/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.private.md) 
+
+### #is_/same_as :: [Ponce_de_León,Juan.personal](/_personal/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.personal.md) 
+
+### #is_/same_as :: [Ponce_de_León,Juan.secret](/_secret/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.secret.md)
+

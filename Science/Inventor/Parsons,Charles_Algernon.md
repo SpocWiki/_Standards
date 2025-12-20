@@ -116,3 +116,22 @@ date_of_death: 1931-02-11T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Algernon%20Parsons) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parsons,Charles_Algernon](/_Standards/Science/Inventor/Parsons,Charles_Algernon.md) 
+
+### #is_/same_as :: [Parsons,Charles_Algernon.public](/_public/Science/Inventor/Parsons,Charles_Algernon.public.md) 
+
+### #is_/same_as :: [Parsons,Charles_Algernon.internal](/_internal/Science/Inventor/Parsons,Charles_Algernon.internal.md) 
+
+### #is_/same_as :: [Parsons,Charles_Algernon.protect](/_protect/Science/Inventor/Parsons,Charles_Algernon.protect.md) 
+
+### #is_/same_as :: [Parsons,Charles_Algernon.private](/_private/Science/Inventor/Parsons,Charles_Algernon.private.md) 
+
+### #is_/same_as :: [Parsons,Charles_Algernon.personal](/_personal/Science/Inventor/Parsons,Charles_Algernon.personal.md) 
+
+### #is_/same_as :: [Parsons,Charles_Algernon.secret](/_secret/Science/Inventor/Parsons,Charles_Algernon.secret.md)
+

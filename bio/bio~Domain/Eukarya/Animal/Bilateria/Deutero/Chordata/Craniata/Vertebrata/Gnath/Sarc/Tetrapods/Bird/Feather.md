@@ -57,3 +57,22 @@ ATC_code: V01AA01
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Feather) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Feather](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Feather.md) 
+
+### #is_/same_as :: [Feather.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Feather.public.md) 
+
+### #is_/same_as :: [Feather.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Feather.internal.md) 
+
+### #is_/same_as :: [Feather.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Feather.protect.md) 
+
+### #is_/same_as :: [Feather.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Feather.private.md) 
+
+### #is_/same_as :: [Feather.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Feather.personal.md) 
+
+### #is_/same_as :: [Feather.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Feather.secret.md)
+

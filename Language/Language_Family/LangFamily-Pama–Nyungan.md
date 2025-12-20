@@ -40,3 +40,22 @@ Glottolog_code: pama1250
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pama%E2%80%93Nyungan%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LangFamily-Pama–Nyungan](/_Standards/Language/Language_Family/LangFamily-Pama–Nyungan.md) 
+
+### #is_/same_as :: [LangFamily-Pama–Nyungan.public](/_public/Language/Language_Family/LangFamily-Pama–Nyungan.public.md) 
+
+### #is_/same_as :: [LangFamily-Pama–Nyungan.internal](/_internal/Language/Language_Family/LangFamily-Pama–Nyungan.internal.md) 
+
+### #is_/same_as :: [LangFamily-Pama–Nyungan.protect](/_protect/Language/Language_Family/LangFamily-Pama–Nyungan.protect.md) 
+
+### #is_/same_as :: [LangFamily-Pama–Nyungan.private](/_private/Language/Language_Family/LangFamily-Pama–Nyungan.private.md) 
+
+### #is_/same_as :: [LangFamily-Pama–Nyungan.personal](/_personal/Language/Language_Family/LangFamily-Pama–Nyungan.personal.md) 
+
+### #is_/same_as :: [LangFamily-Pama–Nyungan.secret](/_secret/Language/Language_Family/LangFamily-Pama–Nyungan.secret.md)
+

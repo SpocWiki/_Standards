@@ -112,17 +112,17 @@ dv_is_same_as:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aldi](Aldi.md) 
+### #is_/same_as :: [Aldi](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.md) 
 
-### #is_/same_as :: [Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public.md) 
+### #is_/same_as :: [Aldi.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.public.md) 
 
-### #is_/same_as :: [Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal.md) 
+### #is_/same_as :: [Aldi.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.internal.md) 
 
-### #is_/same_as :: [Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect.md) 
+### #is_/same_as :: [Aldi.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.protect.md) 
 
-### #is_/same_as :: [Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private.md) 
+### #is_/same_as :: [Aldi.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.private.md) 
 
-### #is_/same_as :: [Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal.md) 
+### #is_/same_as :: [Aldi.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.personal.md) 
 
-### #is_/same_as :: [Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret.md)
+### #is_/same_as :: [Aldi.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.secret.md)
 

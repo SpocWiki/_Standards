@@ -149,3 +149,22 @@ date_of_birth: 1920-07-17T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Juan%20Antonio%20Samaranch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Samaranch,Juan_Antonio](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Samaranch,Juan_Antonio.md) 
+
+### #is_/same_as :: [Samaranch,Juan_Antonio.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Samaranch,Juan_Antonio.public.md) 
+
+### #is_/same_as :: [Samaranch,Juan_Antonio.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Samaranch,Juan_Antonio.internal.md) 
+
+### #is_/same_as :: [Samaranch,Juan_Antonio.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Samaranch,Juan_Antonio.protect.md) 
+
+### #is_/same_as :: [Samaranch,Juan_Antonio.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Samaranch,Juan_Antonio.private.md) 
+
+### #is_/same_as :: [Samaranch,Juan_Antonio.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Samaranch,Juan_Antonio.personal.md) 
+
+### #is_/same_as :: [Samaranch,Juan_Antonio.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Samaranch,Juan_Antonio.secret.md)
+

@@ -164,3 +164,22 @@ ISNI: "0000000117701389"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tycho%20Brahe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brahe,Tycho](/_Standards/Astronomy/Astronomer/Brahe,Tycho.md) 
+
+### #is_/same_as :: [Brahe,Tycho.public](/_public/Astronomy/Astronomer/Brahe,Tycho.public.md) 
+
+### #is_/same_as :: [Brahe,Tycho.internal](/_internal/Astronomy/Astronomer/Brahe,Tycho.internal.md) 
+
+### #is_/same_as :: [Brahe,Tycho.protect](/_protect/Astronomy/Astronomer/Brahe,Tycho.protect.md) 
+
+### #is_/same_as :: [Brahe,Tycho.private](/_private/Astronomy/Astronomer/Brahe,Tycho.private.md) 
+
+### #is_/same_as :: [Brahe,Tycho.personal](/_personal/Astronomy/Astronomer/Brahe,Tycho.personal.md) 
+
+### #is_/same_as :: [Brahe,Tycho.secret](/_secret/Astronomy/Astronomer/Brahe,Tycho.secret.md)
+

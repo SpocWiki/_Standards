@@ -69,3 +69,22 @@ MeSH_tree_code: B05.620
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetically%20modified%20organism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GMO(genetically_modified_Organism)](/_Standards/bio/Genetics/GMO(genetically_modified_Organism).md) 
+
+### #is_/same_as :: [GMO(genetically_modified_Organism).public](/_public/bio/Genetics/GMO(genetically_modified_Organism).public.md) 
+
+### #is_/same_as :: [GMO(genetically_modified_Organism).internal](/_internal/bio/Genetics/GMO(genetically_modified_Organism).internal.md) 
+
+### #is_/same_as :: [GMO(genetically_modified_Organism).protect](/_protect/bio/Genetics/GMO(genetically_modified_Organism).protect.md) 
+
+### #is_/same_as :: [GMO(genetically_modified_Organism).private](/_private/bio/Genetics/GMO(genetically_modified_Organism).private.md) 
+
+### #is_/same_as :: [GMO(genetically_modified_Organism).personal](/_personal/bio/Genetics/GMO(genetically_modified_Organism).personal.md) 
+
+### #is_/same_as :: [GMO(genetically_modified_Organism).secret](/_secret/bio/Genetics/GMO(genetically_modified_Organism).secret.md)
+

@@ -50,3 +50,22 @@ Commons_category: Human colon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Large%20intestine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Colon(Anatomy)](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).md) 
+
+### #is_/same_as :: [Colon(Anatomy).public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).public.md) 
+
+### #is_/same_as :: [Colon(Anatomy).internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).internal.md) 
+
+### #is_/same_as :: [Colon(Anatomy).protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).protect.md) 
+
+### #is_/same_as :: [Colon(Anatomy).private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).private.md) 
+
+### #is_/same_as :: [Colon(Anatomy).personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).personal.md) 
+
+### #is_/same_as :: [Colon(Anatomy).secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine/Colon(Anatomy).secret.md)
+

@@ -51,3 +51,22 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Physical%20quantity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Physical_Quantity](/_Standards/Dimension/Physical_Quantity.md) 
+
+### #is_/same_as :: [Physical_Quantity.public](/_public/Dimension/Physical_Quantity.public.md) 
+
+### #is_/same_as :: [Physical_Quantity.internal](/_internal/Dimension/Physical_Quantity.internal.md) 
+
+### #is_/same_as :: [Physical_Quantity.protect](/_protect/Dimension/Physical_Quantity.protect.md) 
+
+### #is_/same_as :: [Physical_Quantity.private](/_private/Dimension/Physical_Quantity.private.md) 
+
+### #is_/same_as :: [Physical_Quantity.personal](/_personal/Dimension/Physical_Quantity.personal.md) 
+
+### #is_/same_as :: [Physical_Quantity.secret](/_secret/Dimension/Physical_Quantity.secret.md)
+

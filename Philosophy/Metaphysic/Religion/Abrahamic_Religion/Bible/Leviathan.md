@@ -58,3 +58,22 @@ name_in_native_language: לִװײָתָן
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leviathan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leviathan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.md) 
+
+### #is_/same_as :: [Leviathan.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.public.md) 
+
+### #is_/same_as :: [Leviathan.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.internal.md) 
+
+### #is_/same_as :: [Leviathan.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.protect.md) 
+
+### #is_/same_as :: [Leviathan.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.private.md) 
+
+### #is_/same_as :: [Leviathan.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.personal.md) 
+
+### #is_/same_as :: [Leviathan.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.secret.md)
+

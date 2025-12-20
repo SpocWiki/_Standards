@@ -204,17 +204,17 @@ Glottolog_code: stan1288
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-es](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.md) 
+### #is_/same_as :: [Lang-spa](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-spa.md) 
 
-### #is_/same_as :: [Lang-es.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.public.md) 
+### #is_/same_as :: [Lang-spa.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-spa.public.md) 
 
-### #is_/same_as :: [Lang-es.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.internal.md) 
+### #is_/same_as :: [Lang-spa.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-spa.internal.md) 
 
-### #is_/same_as :: [Lang-es.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.protect.md) 
+### #is_/same_as :: [Lang-spa.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-spa.protect.md) 
 
-### #is_/same_as :: [Lang-es.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.private.md) 
+### #is_/same_as :: [Lang-spa.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-spa.private.md) 
 
-### #is_/same_as :: [Lang-es.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.personal.md) 
+### #is_/same_as :: [Lang-spa.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-spa.personal.md) 
 
-### #is_/same_as :: [Lang-es.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.secret.md)
+### #is_/same_as :: [Lang-spa.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-spa.secret.md)
 

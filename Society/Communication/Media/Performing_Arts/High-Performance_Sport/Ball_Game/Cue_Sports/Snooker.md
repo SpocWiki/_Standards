@@ -56,3 +56,22 @@ Baidu_Tieba_name: 斯诺克
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Snooker) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Snooker](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Snooker.md) 
+
+### #is_/same_as :: [Snooker.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Snooker.public.md) 
+
+### #is_/same_as :: [Snooker.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Snooker.internal.md) 
+
+### #is_/same_as :: [Snooker.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Snooker.protect.md) 
+
+### #is_/same_as :: [Snooker.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Snooker.private.md) 
+
+### #is_/same_as :: [Snooker.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Snooker.personal.md) 
+
+### #is_/same_as :: [Snooker.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Snooker.secret.md)
+

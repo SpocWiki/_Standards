@@ -59,19 +59,20 @@ This is the luminous Flow into 1 Steradian Space
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lumen%20(unit))
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Lumen](Unit~Lumen.md) 
+### #is_/same_as :: [Unit~Lumen](/_Standards/Dimension/Unit~Lumen.md) 
 
-### #is_/same_as :: [Dim~Lumen.public](/_public/Dimension/Dim~Lumen.public.md) 
+### #is_/same_as :: [Unit~Lumen.public](/_public/Dimension/Unit~Lumen.public.md) 
 
-### #is_/same_as :: [Dim~Lumen.internal](/_internal/Dimension/Dim~Lumen.internal.md) 
+### #is_/same_as :: [Unit~Lumen.internal](/_internal/Dimension/Unit~Lumen.internal.md) 
 
-### #is_/same_as :: [Dim~Lumen.protect](/_protect/Dimension/Dim~Lumen.protect.md) 
+### #is_/same_as :: [Unit~Lumen.protect](/_protect/Dimension/Unit~Lumen.protect.md) 
 
-### #is_/same_as :: [Dim~Lumen.private](/_private/Dimension/Dim~Lumen.private.md) 
+### #is_/same_as :: [Unit~Lumen.private](/_private/Dimension/Unit~Lumen.private.md) 
 
-### #is_/same_as :: [Dim~Lumen.personal](/_personal/Dimension/Dim~Lumen.personal.md) 
+### #is_/same_as :: [Unit~Lumen.personal](/_personal/Dimension/Unit~Lumen.personal.md) 
 
-### #is_/same_as :: [Dim~Lumen.secret](/_secret/Dimension/Dim~Lumen.secret.md)
+### #is_/same_as :: [Unit~Lumen.secret](/_secret/Dimension/Unit~Lumen.secret.md)
 

@@ -41,3 +41,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Diego-homem-black-sea-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scale%20(map))  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scale(Map)](/_Standards/Earth/Geography/Cartography/Scale(Map).md) 
+
+### #is_/same_as :: [Scale(Map).public](/_public/Earth/Geography/Cartography/Scale(Map).public.md) 
+
+### #is_/same_as :: [Scale(Map).internal](/_internal/Earth/Geography/Cartography/Scale(Map).internal.md) 
+
+### #is_/same_as :: [Scale(Map).protect](/_protect/Earth/Geography/Cartography/Scale(Map).protect.md) 
+
+### #is_/same_as :: [Scale(Map).private](/_private/Earth/Geography/Cartography/Scale(Map).private.md) 
+
+### #is_/same_as :: [Scale(Map).personal](/_personal/Earth/Geography/Cartography/Scale(Map).personal.md) 
+
+### #is_/same_as :: [Scale(Map).secret](/_secret/Earth/Geography/Cartography/Scale(Map).secret.md)
+

@@ -165,3 +165,22 @@ NLC_authorities: "000126842"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexandre%20Dumas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dumas,Alexandre](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.md) 
+
+### #is_/same_as :: [Dumas,Alexandre.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.public.md) 
+
+### #is_/same_as :: [Dumas,Alexandre.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.internal.md) 
+
+### #is_/same_as :: [Dumas,Alexandre.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.protect.md) 
+
+### #is_/same_as :: [Dumas,Alexandre.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.private.md) 
+
+### #is_/same_as :: [Dumas,Alexandre.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.personal.md) 
+
+### #is_/same_as :: [Dumas,Alexandre.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.secret.md)
+

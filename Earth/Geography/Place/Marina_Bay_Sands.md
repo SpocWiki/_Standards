@@ -92,3 +92,22 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marina_Bay_Sands](/_Standards/Earth/Geography/Place/Marina_Bay_Sands.md) 
+
+### #is_/same_as :: [Marina_Bay_Sands.public](/_public/Earth/Geography/Place/Marina_Bay_Sands.public.md) 
+
+### #is_/same_as :: [Marina_Bay_Sands.internal](/_internal/Earth/Geography/Place/Marina_Bay_Sands.internal.md) 
+
+### #is_/same_as :: [Marina_Bay_Sands.protect](/_protect/Earth/Geography/Place/Marina_Bay_Sands.protect.md) 
+
+### #is_/same_as :: [Marina_Bay_Sands.private](/_private/Earth/Geography/Place/Marina_Bay_Sands.private.md) 
+
+### #is_/same_as :: [Marina_Bay_Sands.personal](/_personal/Earth/Geography/Place/Marina_Bay_Sands.personal.md) 
+
+### #is_/same_as :: [Marina_Bay_Sands.secret](/_secret/Earth/Geography/Place/Marina_Bay_Sands.secret.md)
+

@@ -24,3 +24,21 @@ Commons_category: Politburos
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Politburo) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Political_Bureau](/_Standards/Society/Ideology/Political_Ideology/Communism/Political_Bureau.md) 
+
+### #is_/same_as :: [Political_Bureau.public](/_public/Society/Ideology/Political_Ideology/Communism/Political_Bureau.public.md) 
+
+### #is_/same_as :: [Political_Bureau.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Political_Bureau.internal.md) 
+
+### #is_/same_as :: [Political_Bureau.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Political_Bureau.protect.md) 
+
+### #is_/same_as :: [Political_Bureau.private](/_private/Society/Ideology/Political_Ideology/Communism/Political_Bureau.private.md) 
+
+### #is_/same_as :: [Political_Bureau.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Political_Bureau.personal.md) 
+
+### #is_/same_as :: [Political_Bureau.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Political_Bureau.secret.md)
+

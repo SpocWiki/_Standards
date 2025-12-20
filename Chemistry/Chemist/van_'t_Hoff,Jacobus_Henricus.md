@@ -135,3 +135,22 @@ date_of_death: 1911-03-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacobus%20Henricus%20van%20't%20Hoff) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus](/_Standards/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.md) 
+
+### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.public](/_public/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.public.md) 
+
+### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.internal](/_internal/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.internal.md) 
+
+### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.protect](/_protect/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.protect.md) 
+
+### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.private](/_private/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.private.md) 
+
+### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.personal](/_personal/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.personal.md) 
+
+### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.secret](/_secret/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.secret.md)
+

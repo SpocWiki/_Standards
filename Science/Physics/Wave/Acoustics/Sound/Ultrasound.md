@@ -44,3 +44,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/ULTRAZVUK.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ultrasound) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ultrasound](/_Standards/Science/Physics/Wave/Acoustics/Sound/Ultrasound.md) 
+
+### #is_/same_as :: [Ultrasound.public](/_public/Science/Physics/Wave/Acoustics/Sound/Ultrasound.public.md) 
+
+### #is_/same_as :: [Ultrasound.internal](/_internal/Science/Physics/Wave/Acoustics/Sound/Ultrasound.internal.md) 
+
+### #is_/same_as :: [Ultrasound.protect](/_protect/Science/Physics/Wave/Acoustics/Sound/Ultrasound.protect.md) 
+
+### #is_/same_as :: [Ultrasound.private](/_private/Science/Physics/Wave/Acoustics/Sound/Ultrasound.private.md) 
+
+### #is_/same_as :: [Ultrasound.personal](/_personal/Science/Physics/Wave/Acoustics/Sound/Ultrasound.personal.md) 
+
+### #is_/same_as :: [Ultrasound.secret](/_secret/Science/Physics/Wave/Acoustics/Sound/Ultrasound.secret.md)
+

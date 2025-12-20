@@ -19,3 +19,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kitsch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kitsch](/_Standards/Society/Communication/Art/Kitsch.md) 
+
+### #is_/same_as :: [Kitsch.public](/_public/Society/Communication/Art/Kitsch.public.md) 
+
+### #is_/same_as :: [Kitsch.internal](/_internal/Society/Communication/Art/Kitsch.internal.md) 
+
+### #is_/same_as :: [Kitsch.protect](/_protect/Society/Communication/Art/Kitsch.protect.md) 
+
+### #is_/same_as :: [Kitsch.private](/_private/Society/Communication/Art/Kitsch.private.md) 
+
+### #is_/same_as :: [Kitsch.personal](/_personal/Society/Communication/Art/Kitsch.personal.md) 
+
+### #is_/same_as :: [Kitsch.secret](/_secret/Society/Communication/Art/Kitsch.secret.md)
+

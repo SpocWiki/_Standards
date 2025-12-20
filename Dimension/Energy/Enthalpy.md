@@ -79,3 +79,22 @@ Commons_category: Enthalpy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Enthalpy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Enthalpy](/_Standards/Dimension/Energy/Enthalpy.md) 
+
+### #is_/same_as :: [Enthalpy.public](/_public/Dimension/Energy/Enthalpy.public.md) 
+
+### #is_/same_as :: [Enthalpy.internal](/_internal/Dimension/Energy/Enthalpy.internal.md) 
+
+### #is_/same_as :: [Enthalpy.protect](/_protect/Dimension/Energy/Enthalpy.protect.md) 
+
+### #is_/same_as :: [Enthalpy.private](/_private/Dimension/Energy/Enthalpy.private.md) 
+
+### #is_/same_as :: [Enthalpy.personal](/_personal/Dimension/Energy/Enthalpy.personal.md) 
+
+### #is_/same_as :: [Enthalpy.secret](/_secret/Dimension/Energy/Enthalpy.secret.md)
+

@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diffraction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diffraction](/_Standards/Science/Physics/Wave/Optics/Diffraction.md) 
+
+### #is_/same_as :: [Diffraction.public](/_public/Science/Physics/Wave/Optics/Diffraction.public.md) 
+
+### #is_/same_as :: [Diffraction.internal](/_internal/Science/Physics/Wave/Optics/Diffraction.internal.md) 
+
+### #is_/same_as :: [Diffraction.protect](/_protect/Science/Physics/Wave/Optics/Diffraction.protect.md) 
+
+### #is_/same_as :: [Diffraction.private](/_private/Science/Physics/Wave/Optics/Diffraction.private.md) 
+
+### #is_/same_as :: [Diffraction.personal](/_personal/Science/Physics/Wave/Optics/Diffraction.personal.md) 
+
+### #is_/same_as :: [Diffraction.secret](/_secret/Science/Physics/Wave/Optics/Diffraction.secret.md)
+

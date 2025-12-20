@@ -39,17 +39,17 @@ A golf course.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golf_Course](Golf_Course.md) 
+### #is_/same_as :: [Golf_Course](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.md) 
 
-### #is_/same_as :: [Golf_Course.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.public.md) 
+### #is_/same_as :: [Golf_Course.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.public.md) 
 
-### #is_/same_as :: [Golf_Course.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.internal.md) 
+### #is_/same_as :: [Golf_Course.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.internal.md) 
 
-### #is_/same_as :: [Golf_Course.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.protect.md) 
+### #is_/same_as :: [Golf_Course.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.protect.md) 
 
-### #is_/same_as :: [Golf_Course.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.private.md) 
+### #is_/same_as :: [Golf_Course.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.private.md) 
 
-### #is_/same_as :: [Golf_Course.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.personal.md) 
+### #is_/same_as :: [Golf_Course.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.personal.md) 
 
-### #is_/same_as :: [Golf_Course.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.secret.md)
+### #is_/same_as :: [Golf_Course.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.secret.md)
 

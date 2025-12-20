@@ -36,3 +36,22 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbital%20period) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orbital_Period](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.md) 
+
+### #is_/same_as :: [Orbital_Period.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.public.md) 
+
+### #is_/same_as :: [Orbital_Period.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.internal.md) 
+
+### #is_/same_as :: [Orbital_Period.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.protect.md) 
+
+### #is_/same_as :: [Orbital_Period.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.private.md) 
+
+### #is_/same_as :: [Orbital_Period.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.personal.md) 
+
+### #is_/same_as :: [Orbital_Period.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.secret.md)
+

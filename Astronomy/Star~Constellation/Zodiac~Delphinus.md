@@ -68,6 +68,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/DelphinusCC.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Delphinus)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Delphinus](/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus.md) 

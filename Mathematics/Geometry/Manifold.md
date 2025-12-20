@@ -43,3 +43,22 @@ Commons_category: Manifolds
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manifold) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Manifold](/_Standards/Mathematics/Geometry/Manifold.md) 
+
+### #is_/same_as :: [Manifold.public](/_public/Mathematics/Geometry/Manifold.public.md) 
+
+### #is_/same_as :: [Manifold.internal](/_internal/Mathematics/Geometry/Manifold.internal.md) 
+
+### #is_/same_as :: [Manifold.protect](/_protect/Mathematics/Geometry/Manifold.protect.md) 
+
+### #is_/same_as :: [Manifold.private](/_private/Mathematics/Geometry/Manifold.private.md) 
+
+### #is_/same_as :: [Manifold.personal](/_personal/Mathematics/Geometry/Manifold.personal.md) 
+
+### #is_/same_as :: [Manifold.secret](/_secret/Mathematics/Geometry/Manifold.secret.md)
+

@@ -111,3 +111,22 @@ Bilibili_UID: "1038290200"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pokémon](/_Standards/Society/Communication/Media/Media_Franchise/Pokémon.md) 
+
+### #is_/same_as :: [Pokémon.public](/_public/Society/Communication/Media/Media_Franchise/Pokémon.public.md) 
+
+### #is_/same_as :: [Pokémon.internal](/_internal/Society/Communication/Media/Media_Franchise/Pokémon.internal.md) 
+
+### #is_/same_as :: [Pokémon.protect](/_protect/Society/Communication/Media/Media_Franchise/Pokémon.protect.md) 
+
+### #is_/same_as :: [Pokémon.private](/_private/Society/Communication/Media/Media_Franchise/Pokémon.private.md) 
+
+### #is_/same_as :: [Pokémon.personal](/_personal/Society/Communication/Media/Media_Franchise/Pokémon.personal.md) 
+
+### #is_/same_as :: [Pokémon.secret](/_secret/Society/Communication/Media/Media_Franchise/Pokémon.secret.md)
+

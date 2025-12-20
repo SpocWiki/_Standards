@@ -59,3 +59,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/KAUCHUK.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20rubber) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rubber](/_Standards/Chemistry/Material/Rubber.md) 
+
+### #is_/same_as :: [Rubber.public](/_public/Chemistry/Material/Rubber.public.md) 
+
+### #is_/same_as :: [Rubber.internal](/_internal/Chemistry/Material/Rubber.internal.md) 
+
+### #is_/same_as :: [Rubber.protect](/_protect/Chemistry/Material/Rubber.protect.md) 
+
+### #is_/same_as :: [Rubber.private](/_private/Chemistry/Material/Rubber.private.md) 
+
+### #is_/same_as :: [Rubber.personal](/_personal/Chemistry/Material/Rubber.personal.md) 
+
+### #is_/same_as :: [Rubber.secret](/_secret/Chemistry/Material/Rubber.secret.md)
+

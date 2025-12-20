@@ -104,7 +104,7 @@ Ocean. Captured from WALTHER HERWIG at 1750-2000 m depth (open net).
   Collection           NMNH 730702
   Type                 Holotype
   Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  --------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

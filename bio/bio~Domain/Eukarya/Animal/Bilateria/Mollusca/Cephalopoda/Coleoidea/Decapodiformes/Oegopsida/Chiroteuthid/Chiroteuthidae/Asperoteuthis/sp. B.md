@@ -112,7 +112,7 @@ Neptune City, NJ, 351pp.
   Scientific Name ::  Asperoteuthis sp. B
   Reference         Drawing from Clarke, M. R. 1980. Cephalopoda in the diet of sperm whales of the Southern Hemisphere and their bearing on sperm whale biology. Discovery Reports 37: 1-324.
   Copyright ::         © 1980 M.R. Clarke
-  ---------------------------------------------------------
+  ---------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

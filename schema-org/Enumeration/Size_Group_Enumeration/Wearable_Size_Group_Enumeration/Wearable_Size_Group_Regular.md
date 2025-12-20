@@ -42,17 +42,17 @@ Size group "Regular" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_Group_Regular](Wearable_Size_Group_Regular.md) 
+### #is_/same_as :: [Wearable_Size_Group_Regular](/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Regular.md) 
 
-### #is_/same_as :: [wearable_size_group_regular.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_regular.public.md) 
+### #is_/same_as :: [Wearable_Size_Group_Regular.public](/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Regular.public.md) 
 
-### #is_/same_as :: [wearable_size_group_regular.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_regular.internal.md) 
+### #is_/same_as :: [Wearable_Size_Group_Regular.internal](/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Regular.internal.md) 
 
-### #is_/same_as :: [wearable_size_group_regular.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_regular.protect.md) 
+### #is_/same_as :: [Wearable_Size_Group_Regular.protect](/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Regular.protect.md) 
 
-### #is_/same_as :: [wearable_size_group_regular.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_regular.private.md) 
+### #is_/same_as :: [Wearable_Size_Group_Regular.private](/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Regular.private.md) 
 
-### #is_/same_as :: [wearable_size_group_regular.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_regular.personal.md) 
+### #is_/same_as :: [Wearable_Size_Group_Regular.personal](/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Regular.personal.md) 
 
-### #is_/same_as :: [wearable_size_group_regular.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_regular.secret.md)
+### #is_/same_as :: [Wearable_Size_Group_Regular.secret](/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Regular.secret.md)
 

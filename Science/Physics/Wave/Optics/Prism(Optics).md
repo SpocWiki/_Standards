@@ -35,3 +35,22 @@ Commons_category: Prisms (optics)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prism%20(optics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prism(Optics)](/_Standards/Science/Physics/Wave/Optics/Prism(Optics).md) 
+
+### #is_/same_as :: [Prism(Optics).public](/_public/Science/Physics/Wave/Optics/Prism(Optics).public.md) 
+
+### #is_/same_as :: [Prism(Optics).internal](/_internal/Science/Physics/Wave/Optics/Prism(Optics).internal.md) 
+
+### #is_/same_as :: [Prism(Optics).protect](/_protect/Science/Physics/Wave/Optics/Prism(Optics).protect.md) 
+
+### #is_/same_as :: [Prism(Optics).private](/_private/Science/Physics/Wave/Optics/Prism(Optics).private.md) 
+
+### #is_/same_as :: [Prism(Optics).personal](/_personal/Science/Physics/Wave/Optics/Prism(Optics).personal.md) 
+
+### #is_/same_as :: [Prism(Optics).secret](/_secret/Science/Physics/Wave/Optics/Prism(Optics).secret.md)
+

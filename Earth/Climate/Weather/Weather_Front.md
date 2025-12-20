@@ -34,3 +34,22 @@ Dewey_Decimal_Classification: "551.5512"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weather%20front) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weather_Front](/_Standards/Earth/Climate/Weather/Weather_Front.md) 
+
+### #is_/same_as :: [Weather_Front.public](/_public/Earth/Climate/Weather/Weather_Front.public.md) 
+
+### #is_/same_as :: [Weather_Front.internal](/_internal/Earth/Climate/Weather/Weather_Front.internal.md) 
+
+### #is_/same_as :: [Weather_Front.protect](/_protect/Earth/Climate/Weather/Weather_Front.protect.md) 
+
+### #is_/same_as :: [Weather_Front.private](/_private/Earth/Climate/Weather/Weather_Front.private.md) 
+
+### #is_/same_as :: [Weather_Front.personal](/_personal/Earth/Climate/Weather/Weather_Front.personal.md) 
+
+### #is_/same_as :: [Weather_Front.secret](/_secret/Earth/Climate/Weather/Weather_Front.secret.md)
+

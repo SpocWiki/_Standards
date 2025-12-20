@@ -126,3 +126,22 @@ Pickling” is the process whereby a Python object hierarchy is converted into a
 and “unpickling” is the Reverse. 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Python](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python.md) 
+
+### #is_/same_as :: [Prog~Python.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python.public.md) 
+
+### #is_/same_as :: [Prog~Python.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python.internal.md) 
+
+### #is_/same_as :: [Prog~Python.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python.protect.md) 
+
+### #is_/same_as :: [Prog~Python.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python.private.md) 
+
+### #is_/same_as :: [Prog~Python.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python.personal.md) 
+
+### #is_/same_as :: [Prog~Python.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python.secret.md)
+

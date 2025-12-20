@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Erykah Badu"
 ---
@@ -52,4 +52,23 @@ Her music is very funky and soulful.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Erykah%20Badu)
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Badu,Erykah](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Badu,Erykah.md) 
+
+### #is_/same_as :: [Badu,Erykah.public](/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Badu,Erykah.public.md) 
+
+### #is_/same_as :: [Badu,Erykah.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Badu,Erykah.internal.md) 
+
+### #is_/same_as :: [Badu,Erykah.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Badu,Erykah.protect.md) 
+
+### #is_/same_as :: [Badu,Erykah.private](/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Badu,Erykah.private.md) 
+
+### #is_/same_as :: [Badu,Erykah.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Badu,Erykah.personal.md) 
+
+### #is_/same_as :: [Badu,Erykah.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Badu,Erykah.secret.md)
 

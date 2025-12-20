@@ -95,3 +95,22 @@ date_of_birth: 1914-07-31T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Louis%20de%20Fun%C3%A8s) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Funès,Louis_de](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.md) 
+
+### #is_/same_as :: [Funès,Louis_de.public](/_public/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.public.md) 
+
+### #is_/same_as :: [Funès,Louis_de.internal](/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.internal.md) 
+
+### #is_/same_as :: [Funès,Louis_de.protect](/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.protect.md) 
+
+### #is_/same_as :: [Funès,Louis_de.private](/_private/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.private.md) 
+
+### #is_/same_as :: [Funès,Louis_de.personal](/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.personal.md) 
+
+### #is_/same_as :: [Funès,Louis_de.secret](/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.secret.md)
+

@@ -42,17 +42,17 @@ Nonprofit501f: Non-profit type referring to Cooperative Service Organizations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501f](Nonprofit501f.md) 
+### #is_/same_as :: [Nonprofit501f](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.md) 
 
-### #is_/same_as :: [nonprofit501f.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.public.md) 
+### #is_/same_as :: [Nonprofit501f.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.public.md) 
 
-### #is_/same_as :: [nonprofit501f.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.internal.md) 
+### #is_/same_as :: [Nonprofit501f.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.internal.md) 
 
-### #is_/same_as :: [nonprofit501f.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.protect.md) 
+### #is_/same_as :: [Nonprofit501f.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.protect.md) 
 
-### #is_/same_as :: [nonprofit501f.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.private.md) 
+### #is_/same_as :: [Nonprofit501f.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.private.md) 
 
-### #is_/same_as :: [nonprofit501f.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.personal.md) 
+### #is_/same_as :: [Nonprofit501f.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.personal.md) 
 
-### #is_/same_as :: [nonprofit501f.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.secret.md)
+### #is_/same_as :: [Nonprofit501f.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.secret.md)
 

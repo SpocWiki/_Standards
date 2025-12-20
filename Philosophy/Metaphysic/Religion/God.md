@@ -151,3 +151,22 @@ Gujarati_Vishwakosh_entry: ઈશ્વર
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/God) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [God](/_Standards/Philosophy/Metaphysic/Religion/God.md) 
+
+### #is_/same_as :: [God.public](/_public/Philosophy/Metaphysic/Religion/God.public.md) 
+
+### #is_/same_as :: [God.internal](/_internal/Philosophy/Metaphysic/Religion/God.internal.md) 
+
+### #is_/same_as :: [God.protect](/_protect/Philosophy/Metaphysic/Religion/God.protect.md) 
+
+### #is_/same_as :: [God.private](/_private/Philosophy/Metaphysic/Religion/God.private.md) 
+
+### #is_/same_as :: [God.personal](/_personal/Philosophy/Metaphysic/Religion/God.personal.md) 
+
+### #is_/same_as :: [God.secret](/_secret/Philosophy/Metaphysic/Religion/God.secret.md)
+

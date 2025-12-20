@@ -129,17 +129,17 @@ P8189: "987007284759505171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big_Bang](Big_Bang.md) 
+### #is_/same_as :: [Big_Bang](/_Standards/Astronomy/Astronomical_Event/Big_Bang.md) 
 
-### #is_/same_as :: [Big_Bang.public](/_public/Astronomy/Big_Bang.public.md) 
+### #is_/same_as :: [Big_Bang.public](/_public/Astronomy/Astronomical_Event/Big_Bang.public.md) 
 
-### #is_/same_as :: [Big_Bang.internal](/_internal/Astronomy/Big_Bang.internal.md) 
+### #is_/same_as :: [Big_Bang.internal](/_internal/Astronomy/Astronomical_Event/Big_Bang.internal.md) 
 
-### #is_/same_as :: [Big_Bang.protect](/_protect/Astronomy/Big_Bang.protect.md) 
+### #is_/same_as :: [Big_Bang.protect](/_protect/Astronomy/Astronomical_Event/Big_Bang.protect.md) 
 
-### #is_/same_as :: [Big_Bang.private](/_private/Astronomy/Big_Bang.private.md) 
+### #is_/same_as :: [Big_Bang.private](/_private/Astronomy/Astronomical_Event/Big_Bang.private.md) 
 
-### #is_/same_as :: [Big_Bang.personal](/_personal/Astronomy/Big_Bang.personal.md) 
+### #is_/same_as :: [Big_Bang.personal](/_personal/Astronomy/Astronomical_Event/Big_Bang.personal.md) 
 
-### #is_/same_as :: [Big_Bang.secret](/_secret/Astronomy/Big_Bang.secret.md)
+### #is_/same_as :: [Big_Bang.secret](/_secret/Astronomy/Astronomical_Event/Big_Bang.secret.md)
 

@@ -61,3 +61,22 @@ start_time: 0300-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Distillation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Distillation](/_Standards/Chemistry/Substance/Mixture/Distillation.md) 
+
+### #is_/same_as :: [Distillation.public](/_public/Chemistry/Substance/Mixture/Distillation.public.md) 
+
+### #is_/same_as :: [Distillation.internal](/_internal/Chemistry/Substance/Mixture/Distillation.internal.md) 
+
+### #is_/same_as :: [Distillation.protect](/_protect/Chemistry/Substance/Mixture/Distillation.protect.md) 
+
+### #is_/same_as :: [Distillation.private](/_private/Chemistry/Substance/Mixture/Distillation.private.md) 
+
+### #is_/same_as :: [Distillation.personal](/_personal/Chemistry/Substance/Mixture/Distillation.personal.md) 
+
+### #is_/same_as :: [Distillation.secret](/_secret/Chemistry/Substance/Mixture/Distillation.secret.md)
+

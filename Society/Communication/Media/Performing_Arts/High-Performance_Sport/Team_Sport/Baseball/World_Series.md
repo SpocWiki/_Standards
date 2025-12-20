@@ -20,3 +20,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Series) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [World_Series](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.md) 
+
+### #is_/same_as :: [World_Series.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.public.md) 
+
+### #is_/same_as :: [World_Series.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.internal.md) 
+
+### #is_/same_as :: [World_Series.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.protect.md) 
+
+### #is_/same_as :: [World_Series.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.private.md) 
+
+### #is_/same_as :: [World_Series.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.personal.md) 
+
+### #is_/same_as :: [World_Series.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.secret.md)
+

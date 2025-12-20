@@ -95,3 +95,22 @@ UNII: 1WZA4Y92EX
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parsley)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parsley](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Parsley.md) 
+
+### #is_/same_as :: [Parsley.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Parsley.public.md) 
+
+### #is_/same_as :: [Parsley.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Parsley.internal.md) 
+
+### #is_/same_as :: [Parsley.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Parsley.protect.md) 
+
+### #is_/same_as :: [Parsley.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Parsley.private.md) 
+
+### #is_/same_as :: [Parsley.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Parsley.personal.md) 
+
+### #is_/same_as :: [Parsley.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Parsley.secret.md)
+

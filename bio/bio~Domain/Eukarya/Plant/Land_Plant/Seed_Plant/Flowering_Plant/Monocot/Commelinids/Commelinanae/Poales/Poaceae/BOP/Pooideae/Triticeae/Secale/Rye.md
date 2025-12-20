@@ -96,3 +96,22 @@ taxon_common_name: żyto zwyczajne
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rye) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rye](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale/Rye.md) 
+
+### #is_/same_as :: [Rye.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale/Rye.public.md) 
+
+### #is_/same_as :: [Rye.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale/Rye.internal.md) 
+
+### #is_/same_as :: [Rye.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale/Rye.protect.md) 
+
+### #is_/same_as :: [Rye.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale/Rye.private.md) 
+
+### #is_/same_as :: [Rye.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale/Rye.personal.md) 
+
+### #is_/same_as :: [Rye.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale/Rye.secret.md)
+

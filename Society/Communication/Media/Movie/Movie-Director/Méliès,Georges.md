@@ -99,3 +99,22 @@ Google_Doodle: celebrating-georges-melies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Georges%20M%C3%A9li%C3%A8s) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Méliès,Georges](/_Standards/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.md) 
+
+### #is_/same_as :: [Méliès,Georges.public](/_public/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.public.md) 
+
+### #is_/same_as :: [Méliès,Georges.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.internal.md) 
+
+### #is_/same_as :: [Méliès,Georges.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.protect.md) 
+
+### #is_/same_as :: [Méliès,Georges.private](/_private/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.private.md) 
+
+### #is_/same_as :: [Méliès,Georges.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.personal.md) 
+
+### #is_/same_as :: [Méliès,Georges.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.secret.md)
+

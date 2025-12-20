@@ -65,17 +65,17 @@ title: Planctomycetes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planctomycetes](Planctomycetes.md) 
+### #is_/same_as :: [Planctomycetes](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Planctomycetes.md) 
 
-### #is_/same_as :: [Planctomycetes.public](/_public/bio/bio~Domain/Bacteria/Planctomycetes.public.md) 
+### #is_/same_as :: [Planctomycetes.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Planctomycetes.public.md) 
 
-### #is_/same_as :: [Planctomycetes.internal](/_internal/bio/bio~Domain/Bacteria/Planctomycetes.internal.md) 
+### #is_/same_as :: [Planctomycetes.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Planctomycetes.internal.md) 
 
-### #is_/same_as :: [Planctomycetes.protect](/_protect/bio/bio~Domain/Bacteria/Planctomycetes.protect.md) 
+### #is_/same_as :: [Planctomycetes.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Planctomycetes.protect.md) 
 
-### #is_/same_as :: [Planctomycetes.private](/_private/bio/bio~Domain/Bacteria/Planctomycetes.private.md) 
+### #is_/same_as :: [Planctomycetes.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Planctomycetes.private.md) 
 
-### #is_/same_as :: [Planctomycetes.personal](/_personal/bio/bio~Domain/Bacteria/Planctomycetes.personal.md) 
+### #is_/same_as :: [Planctomycetes.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Planctomycetes.personal.md) 
 
-### #is_/same_as :: [Planctomycetes.secret](/_secret/bio/bio~Domain/Bacteria/Planctomycetes.secret.md)
+### #is_/same_as :: [Planctomycetes.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Planctomycetes.secret.md)
 

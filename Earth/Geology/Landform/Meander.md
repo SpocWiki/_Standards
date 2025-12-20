@@ -50,3 +50,21 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000427
 
 The term derives from the winding river [Menderes](https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Menderes_River "Büyük Menderes River") located in [Asia-Minor](https://en.wikipedia.org/wiki/Asia-Minor "Asia-Minor") 
 and known to the [Ancient Greeks](https://en.wikipedia.org/wiki/Ancient_Greeks "Ancient Greeks") as Μαίανδρος _Maiandros_ (Latin: Maeander) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meander](/_Standards/Earth/Geology/Landform/Meander.md) 
+
+### #is_/same_as :: [Meander.public](/_public/Earth/Geology/Landform/Meander.public.md) 
+
+### #is_/same_as :: [Meander.internal](/_internal/Earth/Geology/Landform/Meander.internal.md) 
+
+### #is_/same_as :: [Meander.protect](/_protect/Earth/Geology/Landform/Meander.protect.md) 
+
+### #is_/same_as :: [Meander.private](/_private/Earth/Geology/Landform/Meander.private.md) 
+
+### #is_/same_as :: [Meander.personal](/_personal/Earth/Geology/Landform/Meander.personal.md) 
+
+### #is_/same_as :: [Meander.secret](/_secret/Earth/Geology/Landform/Meander.secret.md)
+

@@ -59,3 +59,22 @@ IPTC_NewsCode: mediatopic/20000050
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Radio_Broadcasting](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.md) 
+
+### #is_/same_as :: [Radio_Broadcasting.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.public.md) 
+
+### #is_/same_as :: [Radio_Broadcasting.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.internal.md) 
+
+### #is_/same_as :: [Radio_Broadcasting.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.protect.md) 
+
+### #is_/same_as :: [Radio_Broadcasting.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.private.md) 
+
+### #is_/same_as :: [Radio_Broadcasting.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.personal.md) 
+
+### #is_/same_as :: [Radio_Broadcasting.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.secret.md)
+

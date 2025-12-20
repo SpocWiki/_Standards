@@ -329,3 +329,22 @@ customer?[4] = myCust;
 ```
 
 compound assignment operators like `+=` and `-=` are also allowed: 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CSharp](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.md) 
+
+### #is_/same_as :: [CSharp.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.public.md) 
+
+### #is_/same_as :: [CSharp.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.internal.md) 
+
+### #is_/same_as :: [CSharp.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.protect.md) 
+
+### #is_/same_as :: [CSharp.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.private.md) 
+
+### #is_/same_as :: [CSharp.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.personal.md) 
+
+### #is_/same_as :: [CSharp.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp.secret.md)
+

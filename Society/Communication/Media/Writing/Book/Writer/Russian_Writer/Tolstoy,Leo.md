@@ -277,17 +277,17 @@ often working by candlelight after attending to her household and family duties.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tolstoy,Leo](/_Standards/Society/Communication/Media/Writing/Book/Writer/Tolstoy,Leo.md) 
+### #is_/same_as :: [Tolstoy,Leo](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo.md) 
 
-### #is_/same_as :: [Tolstoy,Leo.public](/_public/Society/Communication/Media/Writing/Book/Writer/Tolstoy,Leo.public.md) 
+### #is_/same_as :: [Tolstoy,Leo.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo.public.md) 
 
-### #is_/same_as :: [Tolstoy,Leo.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Tolstoy,Leo.internal.md) 
+### #is_/same_as :: [Tolstoy,Leo.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo.internal.md) 
 
-### #is_/same_as :: [Tolstoy,Leo.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Tolstoy,Leo.protect.md) 
+### #is_/same_as :: [Tolstoy,Leo.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo.protect.md) 
 
-### #is_/same_as :: [Tolstoy,Leo.private](/_private/Society/Communication/Media/Writing/Book/Writer/Tolstoy,Leo.private.md) 
+### #is_/same_as :: [Tolstoy,Leo.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo.private.md) 
 
-### #is_/same_as :: [Tolstoy,Leo.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Tolstoy,Leo.personal.md) 
+### #is_/same_as :: [Tolstoy,Leo.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo.personal.md) 
 
-### #is_/same_as :: [Tolstoy,Leo.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Tolstoy,Leo.secret.md)
+### #is_/same_as :: [Tolstoy,Leo.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo.secret.md)
 

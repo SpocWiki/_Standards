@@ -86,3 +86,22 @@ Commons_category: Goalkeepers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Goalkeeper) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goalkeeper](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.md) 
+
+### #is_/same_as :: [Goalkeeper.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.public.md) 
+
+### #is_/same_as :: [Goalkeeper.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.internal.md) 
+
+### #is_/same_as :: [Goalkeeper.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.protect.md) 
+
+### #is_/same_as :: [Goalkeeper.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.private.md) 
+
+### #is_/same_as :: [Goalkeeper.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.personal.md) 
+
+### #is_/same_as :: [Goalkeeper.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.secret.md)
+

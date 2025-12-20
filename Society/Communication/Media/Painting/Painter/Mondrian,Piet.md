@@ -238,3 +238,22 @@ ISNI: "0000000121334032"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Piet%20Mondrian)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mondrian,Piet](/_Standards/Society/Communication/Media/Painting/Painter/Mondrian,Piet.md) 
+
+### #is_/same_as :: [Mondrian,Piet.public](/_public/Society/Communication/Media/Painting/Painter/Mondrian,Piet.public.md) 
+
+### #is_/same_as :: [Mondrian,Piet.internal](/_internal/Society/Communication/Media/Painting/Painter/Mondrian,Piet.internal.md) 
+
+### #is_/same_as :: [Mondrian,Piet.protect](/_protect/Society/Communication/Media/Painting/Painter/Mondrian,Piet.protect.md) 
+
+### #is_/same_as :: [Mondrian,Piet.private](/_private/Society/Communication/Media/Painting/Painter/Mondrian,Piet.private.md) 
+
+### #is_/same_as :: [Mondrian,Piet.personal](/_personal/Society/Communication/Media/Painting/Painter/Mondrian,Piet.personal.md) 
+
+### #is_/same_as :: [Mondrian,Piet.secret](/_secret/Society/Communication/Media/Painting/Painter/Mondrian,Piet.secret.md)
+

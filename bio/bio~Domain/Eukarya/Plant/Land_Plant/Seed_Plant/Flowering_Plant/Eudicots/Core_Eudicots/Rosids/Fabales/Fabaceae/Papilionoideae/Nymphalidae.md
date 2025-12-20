@@ -68,3 +68,22 @@ Library_of_Congress_Classification: QL561.N9
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nymphalidae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nymphalidae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Nymphalidae.md) 
+
+### #is_/same_as :: [Nymphalidae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Nymphalidae.public.md) 
+
+### #is_/same_as :: [Nymphalidae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Nymphalidae.internal.md) 
+
+### #is_/same_as :: [Nymphalidae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Nymphalidae.protect.md) 
+
+### #is_/same_as :: [Nymphalidae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Nymphalidae.private.md) 
+
+### #is_/same_as :: [Nymphalidae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Nymphalidae.personal.md) 
+
+### #is_/same_as :: [Nymphalidae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Nymphalidae.secret.md)
+

@@ -39,3 +39,22 @@ Commons_category: Seismology
 > Paleoseismology is a related field that uses geology to infer information regarding past earthquakes. A recording of Earth's motion as a function of time, created by a seismograph is called a seismogram. A seismologist is a scientist who works in basic or applied seismology.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seismology) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seismology](/_Standards/Society/Disaster/Natural_Disaster/Earthquake/Seismology.md) 
+
+### #is_/same_as :: [Seismology.public](/_public/Society/Disaster/Natural_Disaster/Earthquake/Seismology.public.md) 
+
+### #is_/same_as :: [Seismology.internal](/_internal/Society/Disaster/Natural_Disaster/Earthquake/Seismology.internal.md) 
+
+### #is_/same_as :: [Seismology.protect](/_protect/Society/Disaster/Natural_Disaster/Earthquake/Seismology.protect.md) 
+
+### #is_/same_as :: [Seismology.private](/_private/Society/Disaster/Natural_Disaster/Earthquake/Seismology.private.md) 
+
+### #is_/same_as :: [Seismology.personal](/_personal/Society/Disaster/Natural_Disaster/Earthquake/Seismology.personal.md) 
+
+### #is_/same_as :: [Seismology.secret](/_secret/Society/Disaster/Natural_Disaster/Earthquake/Seismology.secret.md)
+

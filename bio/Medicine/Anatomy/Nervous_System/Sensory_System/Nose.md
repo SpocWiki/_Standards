@@ -75,6 +75,7 @@ UMLS_CUI: C0028429
 
 Human have ca. 20 million (chemical) Smell-Receptors in 350 Types. 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nose](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.md) 

@@ -24,3 +24,22 @@ has_id_wikidata: Q3245116
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Circuit%20design) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Circuit_Design](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.md) 
+
+### #is_/same_as :: [Circuit_Design.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.public.md) 
+
+### #is_/same_as :: [Circuit_Design.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.internal.md) 
+
+### #is_/same_as :: [Circuit_Design.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.protect.md) 
+
+### #is_/same_as :: [Circuit_Design.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.private.md) 
+
+### #is_/same_as :: [Circuit_Design.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.personal.md) 
+
+### #is_/same_as :: [Circuit_Design.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.secret.md)
+

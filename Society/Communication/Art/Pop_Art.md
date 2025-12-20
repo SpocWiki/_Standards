@@ -33,3 +33,22 @@ inception: 1950-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pop%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pop_Art](/_Standards/Society/Communication/Art/Pop_Art.md) 
+
+### #is_/same_as :: [Pop_Art.public](/_public/Society/Communication/Art/Pop_Art.public.md) 
+
+### #is_/same_as :: [Pop_Art.internal](/_internal/Society/Communication/Art/Pop_Art.internal.md) 
+
+### #is_/same_as :: [Pop_Art.protect](/_protect/Society/Communication/Art/Pop_Art.protect.md) 
+
+### #is_/same_as :: [Pop_Art.private](/_private/Society/Communication/Art/Pop_Art.private.md) 
+
+### #is_/same_as :: [Pop_Art.personal](/_personal/Society/Communication/Art/Pop_Art.personal.md) 
+
+### #is_/same_as :: [Pop_Art.secret](/_secret/Society/Communication/Art/Pop_Art.secret.md)
+

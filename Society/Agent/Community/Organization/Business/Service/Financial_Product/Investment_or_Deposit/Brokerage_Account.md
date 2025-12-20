@@ -41,17 +41,17 @@ An account that allows an investor to deposit funds and place investment orders 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brokerage_Account](Brokerage_Account.md) 
+### #is_/same_as :: [Brokerage_Account](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Brokerage_Account.md) 
 
-### #is_/same_as :: [brokerage_account.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.public.md) 
+### #is_/same_as :: [Brokerage_Account.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Brokerage_Account.public.md) 
 
-### #is_/same_as :: [brokerage_account.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.internal.md) 
+### #is_/same_as :: [Brokerage_Account.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Brokerage_Account.internal.md) 
 
-### #is_/same_as :: [brokerage_account.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.protect.md) 
+### #is_/same_as :: [Brokerage_Account.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Brokerage_Account.protect.md) 
 
-### #is_/same_as :: [brokerage_account.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.private.md) 
+### #is_/same_as :: [Brokerage_Account.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Brokerage_Account.private.md) 
 
-### #is_/same_as :: [brokerage_account.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.personal.md) 
+### #is_/same_as :: [Brokerage_Account.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Brokerage_Account.personal.md) 
 
-### #is_/same_as :: [brokerage_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/brokerage_account.secret.md)
+### #is_/same_as :: [Brokerage_Account.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit/Brokerage_Account.secret.md)
 

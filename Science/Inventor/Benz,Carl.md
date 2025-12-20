@@ -31,8 +31,6 @@ has_id_wikidata: Q40224
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Benz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Benz,Carl](/_Standards/Science/Inventor/Benz,Carl.md) 

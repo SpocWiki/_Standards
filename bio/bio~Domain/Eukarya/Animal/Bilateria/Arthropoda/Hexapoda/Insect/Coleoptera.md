@@ -26,3 +26,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beetle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coleoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera.md) 
+
+### #is_/same_as :: [Coleoptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera.public.md) 
+
+### #is_/same_as :: [Coleoptera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera.internal.md) 
+
+### #is_/same_as :: [Coleoptera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera.protect.md) 
+
+### #is_/same_as :: [Coleoptera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera.private.md) 
+
+### #is_/same_as :: [Coleoptera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera.personal.md) 
+
+### #is_/same_as :: [Coleoptera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera.secret.md)
+

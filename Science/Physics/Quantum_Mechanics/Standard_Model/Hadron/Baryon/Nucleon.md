@@ -46,3 +46,22 @@ Krugosvet_article: nauka_i_tehnika/fizika/NUKLON.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nucleon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nucleon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.md) 
+
+### #is_/same_as :: [Nucleon.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.public.md) 
+
+### #is_/same_as :: [Nucleon.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.internal.md) 
+
+### #is_/same_as :: [Nucleon.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.protect.md) 
+
+### #is_/same_as :: [Nucleon.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.private.md) 
+
+### #is_/same_as :: [Nucleon.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.personal.md) 
+
+### #is_/same_as :: [Nucleon.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.secret.md)
+

@@ -134,3 +134,22 @@ inception: 1918-11-09T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weimar%20Republic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1919-Weimar_Republic-1933](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.md) 
+
+### #is_/same_as :: [1919-Weimar_Republic-1933.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.public.md) 
+
+### #is_/same_as :: [1919-Weimar_Republic-1933.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.internal.md) 
+
+### #is_/same_as :: [1919-Weimar_Republic-1933.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.protect.md) 
+
+### #is_/same_as :: [1919-Weimar_Republic-1933.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.private.md) 
+
+### #is_/same_as :: [1919-Weimar_Republic-1933.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.personal.md) 
+
+### #is_/same_as :: [1919-Weimar_Republic-1933.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.secret.md)
+

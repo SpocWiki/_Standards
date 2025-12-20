@@ -96,3 +96,22 @@ markerFile: [[Mont_Saint-Michel]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mont-Saint-Michel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mont_Saint-Michel](/_Standards/Earth/Geography/Place/Mont_Saint-Michel.md) 
+
+### #is_/same_as :: [Mont_Saint-Michel.public](/_public/Earth/Geography/Place/Mont_Saint-Michel.public.md) 
+
+### #is_/same_as :: [Mont_Saint-Michel.internal](/_internal/Earth/Geography/Place/Mont_Saint-Michel.internal.md) 
+
+### #is_/same_as :: [Mont_Saint-Michel.protect](/_protect/Earth/Geography/Place/Mont_Saint-Michel.protect.md) 
+
+### #is_/same_as :: [Mont_Saint-Michel.private](/_private/Earth/Geography/Place/Mont_Saint-Michel.private.md) 
+
+### #is_/same_as :: [Mont_Saint-Michel.personal](/_personal/Earth/Geography/Place/Mont_Saint-Michel.personal.md) 
+
+### #is_/same_as :: [Mont_Saint-Michel.secret](/_secret/Earth/Geography/Place/Mont_Saint-Michel.secret.md)
+

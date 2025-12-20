@@ -86,3 +86,22 @@ X_Twitter_username: D_Copperfield
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Copperfield%20(illusionist)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Copperfield,David](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.md) 
+
+### #is_/same_as :: [Copperfield,David.public](/_public/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.public.md) 
+
+### #is_/same_as :: [Copperfield,David.internal](/_internal/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.internal.md) 
+
+### #is_/same_as :: [Copperfield,David.protect](/_protect/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.protect.md) 
+
+### #is_/same_as :: [Copperfield,David.private](/_private/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.private.md) 
+
+### #is_/same_as :: [Copperfield,David.personal](/_personal/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.personal.md) 
+
+### #is_/same_as :: [Copperfield,David.secret](/_secret/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.secret.md)
+

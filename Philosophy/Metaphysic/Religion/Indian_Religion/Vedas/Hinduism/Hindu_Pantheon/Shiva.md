@@ -76,3 +76,22 @@ native_label: 𑖫𑖰𑖪
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shiva) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shiva](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.md) 
+
+### #is_/same_as :: [Shiva.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.public.md) 
+
+### #is_/same_as :: [Shiva.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.internal.md) 
+
+### #is_/same_as :: [Shiva.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.protect.md) 
+
+### #is_/same_as :: [Shiva.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.private.md) 
+
+### #is_/same_as :: [Shiva.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.personal.md) 
+
+### #is_/same_as :: [Shiva.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.secret.md)
+

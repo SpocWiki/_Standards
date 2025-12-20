@@ -60,3 +60,22 @@ Dewey_Decimal_Classification: "645.32"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tent) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tent](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.md) 
+
+### #is_/same_as :: [Tent.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.public.md) 
+
+### #is_/same_as :: [Tent.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.internal.md) 
+
+### #is_/same_as :: [Tent.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.protect.md) 
+
+### #is_/same_as :: [Tent.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.private.md) 
+
+### #is_/same_as :: [Tent.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.personal.md) 
+
+### #is_/same_as :: [Tent.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.secret.md)
+

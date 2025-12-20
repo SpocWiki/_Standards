@@ -33,3 +33,22 @@ Commons_category: History of Hinduism
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Hinduism) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Hinduism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.md) 
+
+### #is_/same_as :: [History_of_Hinduism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.public.md) 
+
+### #is_/same_as :: [History_of_Hinduism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.internal.md) 
+
+### #is_/same_as :: [History_of_Hinduism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.protect.md) 
+
+### #is_/same_as :: [History_of_Hinduism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.private.md) 
+
+### #is_/same_as :: [History_of_Hinduism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.personal.md) 
+
+### #is_/same_as :: [History_of_Hinduism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/History_of_Hinduism.secret.md)
+

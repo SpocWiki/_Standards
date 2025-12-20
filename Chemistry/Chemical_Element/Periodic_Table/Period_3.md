@@ -33,3 +33,22 @@ Commons_category: Periodic table row 3
 > [Wikipedia](https://en.wikipedia.org/wiki/Period%203%20element) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Period_3](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_3.md) 
+
+### #is_/same_as :: [Period_3.public](/_public/Chemistry/Chemical_Element/Periodic_Table/Period_3.public.md) 
+
+### #is_/same_as :: [Period_3.internal](/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_3.internal.md) 
+
+### #is_/same_as :: [Period_3.protect](/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_3.protect.md) 
+
+### #is_/same_as :: [Period_3.private](/_private/Chemistry/Chemical_Element/Periodic_Table/Period_3.private.md) 
+
+### #is_/same_as :: [Period_3.personal](/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_3.personal.md) 
+
+### #is_/same_as :: [Period_3.secret](/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_3.secret.md)
+

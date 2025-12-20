@@ -32,3 +32,22 @@ Commons_category: Gilbert and Sullivan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gilbert%20and%20Sullivan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gilbert_and_Sullivan](/_Standards/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.md) 
+
+### #is_/same_as :: [Gilbert_and_Sullivan.public](/_public/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.public.md) 
+
+### #is_/same_as :: [Gilbert_and_Sullivan.internal](/_internal/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.internal.md) 
+
+### #is_/same_as :: [Gilbert_and_Sullivan.protect](/_protect/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.protect.md) 
+
+### #is_/same_as :: [Gilbert_and_Sullivan.private](/_private/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.private.md) 
+
+### #is_/same_as :: [Gilbert_and_Sullivan.personal](/_personal/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.personal.md) 
+
+### #is_/same_as :: [Gilbert_and_Sullivan.secret](/_secret/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.secret.md)
+

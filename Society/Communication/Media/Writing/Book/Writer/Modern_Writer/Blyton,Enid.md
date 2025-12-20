@@ -127,3 +127,22 @@ Libris_URI: c9prsrnw2gfx6sf
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Enid%20Blyton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blyton,Enid](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Blyton,Enid.md) 
+
+### #is_/same_as :: [Blyton,Enid.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Blyton,Enid.public.md) 
+
+### #is_/same_as :: [Blyton,Enid.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Blyton,Enid.internal.md) 
+
+### #is_/same_as :: [Blyton,Enid.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Blyton,Enid.protect.md) 
+
+### #is_/same_as :: [Blyton,Enid.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Blyton,Enid.private.md) 
+
+### #is_/same_as :: [Blyton,Enid.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Blyton,Enid.personal.md) 
+
+### #is_/same_as :: [Blyton,Enid.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Blyton,Enid.secret.md)
+

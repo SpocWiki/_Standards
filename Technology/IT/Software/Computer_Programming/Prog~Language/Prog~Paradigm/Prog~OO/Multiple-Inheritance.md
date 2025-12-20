@@ -31,3 +31,22 @@ it is also advisable to __implement the conflicting Methods  explicitly__,
 otherwise you cannot override them (by delegating to the `new`) and they are not polymorphic. 
 Instead you run the risk of obtaining inconsistent Implementations 
 depending on the Interface you use to access the Method. 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multiple-Inheritance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.md) 
+
+### #is_/same_as :: [Multiple-Inheritance.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.public.md) 
+
+### #is_/same_as :: [Multiple-Inheritance.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.internal.md) 
+
+### #is_/same_as :: [Multiple-Inheritance.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.protect.md) 
+
+### #is_/same_as :: [Multiple-Inheritance.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.private.md) 
+
+### #is_/same_as :: [Multiple-Inheritance.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.personal.md) 
+
+### #is_/same_as :: [Multiple-Inheritance.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.secret.md)
+

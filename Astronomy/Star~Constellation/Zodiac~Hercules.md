@@ -78,6 +78,7 @@ short_name: Her
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hercules%20(constellation))
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Hercules](/_Standards/Astronomy/Star~Constellation/Zodiac~Hercules.md) 

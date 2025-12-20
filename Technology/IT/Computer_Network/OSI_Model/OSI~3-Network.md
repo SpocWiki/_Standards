@@ -30,3 +30,22 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Network%20layer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OSI~3-Network](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.md) 
+
+### #is_/same_as :: [OSI~3-Network.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.public.md) 
+
+### #is_/same_as :: [OSI~3-Network.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.internal.md) 
+
+### #is_/same_as :: [OSI~3-Network.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.protect.md) 
+
+### #is_/same_as :: [OSI~3-Network.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.private.md) 
+
+### #is_/same_as :: [OSI~3-Network.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.personal.md) 
+
+### #is_/same_as :: [OSI~3-Network.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.secret.md)
+

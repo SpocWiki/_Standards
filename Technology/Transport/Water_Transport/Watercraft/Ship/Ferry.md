@@ -48,3 +48,22 @@ GeoNames_feature_code: S.FY
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ferry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ferry](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Ferry.md) 
+
+### #is_/same_as :: [Ferry.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Ferry.public.md) 
+
+### #is_/same_as :: [Ferry.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Ferry.internal.md) 
+
+### #is_/same_as :: [Ferry.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Ferry.protect.md) 
+
+### #is_/same_as :: [Ferry.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Ferry.private.md) 
+
+### #is_/same_as :: [Ferry.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Ferry.personal.md) 
+
+### #is_/same_as :: [Ferry.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Ferry.secret.md)
+

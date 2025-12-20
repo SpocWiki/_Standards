@@ -55,17 +55,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alstom](Alstom.md) 
+### #is_/same_as :: [Alstom](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Alstom.md) 
 
-### #is_/same_as :: [Alstom.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Alstom.public.md) 
+### #is_/same_as :: [Alstom.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Alstom.public.md) 
 
-### #is_/same_as :: [Alstom.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Alstom.internal.md) 
+### #is_/same_as :: [Alstom.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Alstom.internal.md) 
 
-### #is_/same_as :: [Alstom.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Alstom.protect.md) 
+### #is_/same_as :: [Alstom.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Alstom.protect.md) 
 
-### #is_/same_as :: [Alstom.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Alstom.private.md) 
+### #is_/same_as :: [Alstom.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Alstom.private.md) 
 
-### #is_/same_as :: [Alstom.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Alstom.personal.md) 
+### #is_/same_as :: [Alstom.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Alstom.personal.md) 
 
-### #is_/same_as :: [Alstom.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Alstom.secret.md)
+### #is_/same_as :: [Alstom.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Alstom.secret.md)
 

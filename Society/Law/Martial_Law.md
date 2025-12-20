@@ -35,3 +35,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/T-55A%20Martial%20law%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Martial%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Martial_Law](/_Standards/Society/Law/Martial_Law.md) 
+
+### #is_/same_as :: [Martial_Law.public](/_public/Society/Law/Martial_Law.public.md) 
+
+### #is_/same_as :: [Martial_Law.internal](/_internal/Society/Law/Martial_Law.internal.md) 
+
+### #is_/same_as :: [Martial_Law.protect](/_protect/Society/Law/Martial_Law.protect.md) 
+
+### #is_/same_as :: [Martial_Law.private](/_private/Society/Law/Martial_Law.private.md) 
+
+### #is_/same_as :: [Martial_Law.personal](/_personal/Society/Law/Martial_Law.personal.md) 
+
+### #is_/same_as :: [Martial_Law.secret](/_secret/Society/Law/Martial_Law.secret.md)
+

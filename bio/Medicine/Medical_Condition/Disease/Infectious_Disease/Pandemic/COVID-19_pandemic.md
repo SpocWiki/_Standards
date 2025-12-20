@@ -221,3 +221,22 @@ GitHub_topic: wuhan-coronavirus-outbreak
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/COVID-19%20pandemic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [COVID-19_pandemic](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.md) 
+
+### #is_/same_as :: [COVID-19_pandemic.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.public.md) 
+
+### #is_/same_as :: [COVID-19_pandemic.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.internal.md) 
+
+### #is_/same_as :: [COVID-19_pandemic.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.protect.md) 
+
+### #is_/same_as :: [COVID-19_pandemic.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.private.md) 
+
+### #is_/same_as :: [COVID-19_pandemic.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.personal.md) 
+
+### #is_/same_as :: [COVID-19_pandemic.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/COVID-19_pandemic.secret.md)
+

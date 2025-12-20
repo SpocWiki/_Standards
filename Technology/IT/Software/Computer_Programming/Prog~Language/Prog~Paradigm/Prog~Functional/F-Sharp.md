@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - F#
 - FSharp
@@ -31,4 +31,23 @@ Programming relies very much on proper Modelling and Typing of the Domain.
 ```ccard
 type: folder_brief_live
 ```
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [F-Sharp](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.md) 
+
+### #is_/same_as :: [F-Sharp.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.public.md) 
+
+### #is_/same_as :: [F-Sharp.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.internal.md) 
+
+### #is_/same_as :: [F-Sharp.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.protect.md) 
+
+### #is_/same_as :: [F-Sharp.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.private.md) 
+
+### #is_/same_as :: [F-Sharp.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.personal.md) 
+
+### #is_/same_as :: [F-Sharp.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/F-Sharp.secret.md)
 

@@ -72,3 +72,22 @@ Colon_Classification: L:5736
 > [Wikipedia](https://en.wikipedia.org/wiki/Fasting) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fasting](/_Standards/bio/Metabolism/Digestion/Fasting.md) 
+
+### #is_/same_as :: [Fasting.public](/_public/bio/Metabolism/Digestion/Fasting.public.md) 
+
+### #is_/same_as :: [Fasting.internal](/_internal/bio/Metabolism/Digestion/Fasting.internal.md) 
+
+### #is_/same_as :: [Fasting.protect](/_protect/bio/Metabolism/Digestion/Fasting.protect.md) 
+
+### #is_/same_as :: [Fasting.private](/_private/bio/Metabolism/Digestion/Fasting.private.md) 
+
+### #is_/same_as :: [Fasting.personal](/_personal/bio/Metabolism/Digestion/Fasting.personal.md) 
+
+### #is_/same_as :: [Fasting.secret](/_secret/bio/Metabolism/Digestion/Fasting.secret.md)
+

@@ -100,3 +100,22 @@ nickname: Swedish Nightingale
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jenny%20Lind) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lind,Jenny](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Lind,Jenny.md) 
+
+### #is_/same_as :: [Lind,Jenny.public](/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Lind,Jenny.public.md) 
+
+### #is_/same_as :: [Lind,Jenny.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Lind,Jenny.internal.md) 
+
+### #is_/same_as :: [Lind,Jenny.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Lind,Jenny.protect.md) 
+
+### #is_/same_as :: [Lind,Jenny.private](/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Lind,Jenny.private.md) 
+
+### #is_/same_as :: [Lind,Jenny.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Lind,Jenny.personal.md) 
+
+### #is_/same_as :: [Lind,Jenny.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Lind,Jenny.secret.md)
+

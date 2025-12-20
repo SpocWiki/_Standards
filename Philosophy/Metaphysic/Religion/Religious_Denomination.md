@@ -37,3 +37,22 @@ Commons_category: Religious denominations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20denomination) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Religious_Denomination](/_Standards/Philosophy/Metaphysic/Religion/Religious_Denomination.md) 
+
+### #is_/same_as :: [Religious_Denomination.public](/_public/Philosophy/Metaphysic/Religion/Religious_Denomination.public.md) 
+
+### #is_/same_as :: [Religious_Denomination.internal](/_internal/Philosophy/Metaphysic/Religion/Religious_Denomination.internal.md) 
+
+### #is_/same_as :: [Religious_Denomination.protect](/_protect/Philosophy/Metaphysic/Religion/Religious_Denomination.protect.md) 
+
+### #is_/same_as :: [Religious_Denomination.private](/_private/Philosophy/Metaphysic/Religion/Religious_Denomination.private.md) 
+
+### #is_/same_as :: [Religious_Denomination.personal](/_personal/Philosophy/Metaphysic/Religion/Religious_Denomination.personal.md) 
+
+### #is_/same_as :: [Religious_Denomination.secret](/_secret/Philosophy/Metaphysic/Religion/Religious_Denomination.secret.md)
+

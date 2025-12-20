@@ -50,3 +50,22 @@ title: cosmic microwave background
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmic%20microwave%20background) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cosmic_Microwave_Background](/_Standards/Astronomy/Universe/Cosmic_Microwave_Background.md) 
+
+### #is_/same_as :: [Cosmic_Microwave_Background.public](/_public/Astronomy/Universe/Cosmic_Microwave_Background.public.md) 
+
+### #is_/same_as :: [Cosmic_Microwave_Background.internal](/_internal/Astronomy/Universe/Cosmic_Microwave_Background.internal.md) 
+
+### #is_/same_as :: [Cosmic_Microwave_Background.protect](/_protect/Astronomy/Universe/Cosmic_Microwave_Background.protect.md) 
+
+### #is_/same_as :: [Cosmic_Microwave_Background.private](/_private/Astronomy/Universe/Cosmic_Microwave_Background.private.md) 
+
+### #is_/same_as :: [Cosmic_Microwave_Background.personal](/_personal/Astronomy/Universe/Cosmic_Microwave_Background.personal.md) 
+
+### #is_/same_as :: [Cosmic_Microwave_Background.secret](/_secret/Astronomy/Universe/Cosmic_Microwave_Background.secret.md)
+

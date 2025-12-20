@@ -95,3 +95,22 @@ demonym:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sahel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sahel](/_Standards/Earth/Continent/Africa/Africa~Central/Sahel.md) 
+
+### #is_/same_as :: [Sahel.public](/_public/Earth/Continent/Africa/Africa~Central/Sahel.public.md) 
+
+### #is_/same_as :: [Sahel.internal](/_internal/Earth/Continent/Africa/Africa~Central/Sahel.internal.md) 
+
+### #is_/same_as :: [Sahel.protect](/_protect/Earth/Continent/Africa/Africa~Central/Sahel.protect.md) 
+
+### #is_/same_as :: [Sahel.private](/_private/Earth/Continent/Africa/Africa~Central/Sahel.private.md) 
+
+### #is_/same_as :: [Sahel.personal](/_personal/Earth/Continent/Africa/Africa~Central/Sahel.personal.md) 
+
+### #is_/same_as :: [Sahel.secret](/_secret/Earth/Continent/Africa/Africa~Central/Sahel.secret.md)
+

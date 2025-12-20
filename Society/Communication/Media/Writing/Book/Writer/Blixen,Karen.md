@@ -119,3 +119,22 @@ work_period_start_: 1905-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Karen%20Blixen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blixen,Karen](/_Standards/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.md) 
+
+### #is_/same_as :: [Blixen,Karen.public](/_public/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.public.md) 
+
+### #is_/same_as :: [Blixen,Karen.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.internal.md) 
+
+### #is_/same_as :: [Blixen,Karen.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.protect.md) 
+
+### #is_/same_as :: [Blixen,Karen.private](/_private/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.private.md) 
+
+### #is_/same_as :: [Blixen,Karen.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.personal.md) 
+
+### #is_/same_as :: [Blixen,Karen.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.secret.md)
+

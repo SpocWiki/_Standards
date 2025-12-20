@@ -42,17 +42,17 @@ OfflineEventAttendanceMode - an event that is primarily conducted offline.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offline_Event_Attendance_Mode](Offline_Event_Attendance_Mode.md) 
+### #is_/same_as :: [Offline_Event_Attendance_Mode](/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.md) 
 
-### #is_/same_as :: [offline_event_attendance_mode.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.public.md) 
+### #is_/same_as :: [Offline_Event_Attendance_Mode.public](/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.public.md) 
 
-### #is_/same_as :: [offline_event_attendance_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.internal.md) 
+### #is_/same_as :: [Offline_Event_Attendance_Mode.internal](/_internal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.internal.md) 
 
-### #is_/same_as :: [offline_event_attendance_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.protect.md) 
+### #is_/same_as :: [Offline_Event_Attendance_Mode.protect](/_protect/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.protect.md) 
 
-### #is_/same_as :: [offline_event_attendance_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.private.md) 
+### #is_/same_as :: [Offline_Event_Attendance_Mode.private](/_private/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.private.md) 
 
-### #is_/same_as :: [offline_event_attendance_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.personal.md) 
+### #is_/same_as :: [Offline_Event_Attendance_Mode.personal](/_personal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.personal.md) 
 
-### #is_/same_as :: [offline_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.secret.md)
+### #is_/same_as :: [Offline_Event_Attendance_Mode.secret](/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.secret.md)
 

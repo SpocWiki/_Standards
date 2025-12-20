@@ -45,3 +45,22 @@ Dewey_Decimal_Classification: "684.08"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Woodworking) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Woodworking](/_Standards/Technology/Engineering/Craft/Woodworking.md) 
+
+### #is_/same_as :: [Woodworking.public](/_public/Technology/Engineering/Craft/Woodworking.public.md) 
+
+### #is_/same_as :: [Woodworking.internal](/_internal/Technology/Engineering/Craft/Woodworking.internal.md) 
+
+### #is_/same_as :: [Woodworking.protect](/_protect/Technology/Engineering/Craft/Woodworking.protect.md) 
+
+### #is_/same_as :: [Woodworking.private](/_private/Technology/Engineering/Craft/Woodworking.private.md) 
+
+### #is_/same_as :: [Woodworking.personal](/_personal/Technology/Engineering/Craft/Woodworking.personal.md) 
+
+### #is_/same_as :: [Woodworking.secret](/_secret/Technology/Engineering/Craft/Woodworking.secret.md)
+

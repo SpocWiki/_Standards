@@ -82,3 +82,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Led%20zeppelin%20revis
 > Led Zeppelin have sold an estimated 200 to 300 million records worldwide. They achieved eight consecutive UK number-one albums and six number-one albums on the US Billboard 200, with five of their albums certified Diamond in the US by the Recording Industry Association of America (RIAA). Rolling Stone described them as "the heaviest band of all time", "the biggest band of the seventies", and "unquestionably one of the most enduring bands in rock history". They were inducted into the Rock and Roll Hall of Fame in 1995; the museum's biography states that they were "as influential" in the 1970s as the Beatles were in the 1960s.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Led%20Zeppelin)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Led_Zeppelin](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.md) 
+
+### #is_/same_as :: [Led_Zeppelin.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.public.md) 
+
+### #is_/same_as :: [Led_Zeppelin.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.internal.md) 
+
+### #is_/same_as :: [Led_Zeppelin.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.protect.md) 
+
+### #is_/same_as :: [Led_Zeppelin.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.private.md) 
+
+### #is_/same_as :: [Led_Zeppelin.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.personal.md) 
+
+### #is_/same_as :: [Led_Zeppelin.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.secret.md)
+

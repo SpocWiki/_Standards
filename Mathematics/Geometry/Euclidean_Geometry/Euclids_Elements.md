@@ -73,3 +73,22 @@ title: Στοιχεῖα
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euclids_Elements](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.md) 
+
+### #is_/same_as :: [Euclids_Elements.public](/_public/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.public.md) 
+
+### #is_/same_as :: [Euclids_Elements.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.internal.md) 
+
+### #is_/same_as :: [Euclids_Elements.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.protect.md) 
+
+### #is_/same_as :: [Euclids_Elements.private](/_private/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.private.md) 
+
+### #is_/same_as :: [Euclids_Elements.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.personal.md) 
+
+### #is_/same_as :: [Euclids_Elements.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.secret.md)
+

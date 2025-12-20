@@ -40,17 +40,17 @@ Nur Weizen hat keine Spelzen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pandemic](/_Standards/bio/Medicine/Medical_Condition/Disease/Pandemic.md) 
+### #is_/same_as :: [Pandemic](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic.md) 
 
-### #is_/same_as :: [Pandemic.public](/_public/bio/Medicine/Medical_Condition/Disease/Pandemic.public.md) 
+### #is_/same_as :: [Pandemic.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic.public.md) 
 
-### #is_/same_as :: [Pandemic.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Pandemic.internal.md) 
+### #is_/same_as :: [Pandemic.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic.internal.md) 
 
-### #is_/same_as :: [Pandemic.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Pandemic.protect.md) 
+### #is_/same_as :: [Pandemic.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic.protect.md) 
 
-### #is_/same_as :: [Pandemic.private](/_private/bio/Medicine/Medical_Condition/Disease/Pandemic.private.md) 
+### #is_/same_as :: [Pandemic.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic.private.md) 
 
-### #is_/same_as :: [Pandemic.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Pandemic.personal.md) 
+### #is_/same_as :: [Pandemic.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic.personal.md) 
 
-### #is_/same_as :: [Pandemic.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Pandemic.secret.md)
+### #is_/same_as :: [Pandemic.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic.secret.md)
 

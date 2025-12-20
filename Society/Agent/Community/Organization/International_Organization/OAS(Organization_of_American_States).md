@@ -83,3 +83,22 @@ Instagram_username: oea_oficial
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organization%20of%20American%20States) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OAS(Organization_of_American_States)](/_Standards/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).md) 
+
+### #is_/same_as :: [OAS(Organization_of_American_States).public](/_public/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).public.md) 
+
+### #is_/same_as :: [OAS(Organization_of_American_States).internal](/_internal/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).internal.md) 
+
+### #is_/same_as :: [OAS(Organization_of_American_States).protect](/_protect/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).protect.md) 
+
+### #is_/same_as :: [OAS(Organization_of_American_States).private](/_private/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).private.md) 
+
+### #is_/same_as :: [OAS(Organization_of_American_States).personal](/_personal/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).personal.md) 
+
+### #is_/same_as :: [OAS(Organization_of_American_States).secret](/_secret/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).secret.md)
+

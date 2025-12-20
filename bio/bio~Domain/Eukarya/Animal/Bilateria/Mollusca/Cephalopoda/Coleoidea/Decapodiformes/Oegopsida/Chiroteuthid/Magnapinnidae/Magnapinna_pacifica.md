@@ -267,20 +267,19 @@ African Journal of Marine Science, 20: 429-437.
   ------------------------------------------------------------------------
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnapinna_pacifica](Magnapinna_pacifica.md) 
+### #is_/same_as :: [Magnapinna_pacifica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_pacifica.md) 
 
-### #is_/same_as :: [pacifica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.public.md) 
+### #is_/same_as :: [Magnapinna_pacifica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_pacifica.public.md) 
 
-### #is_/same_as :: [pacifica.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.internal.md) 
+### #is_/same_as :: [Magnapinna_pacifica.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_pacifica.internal.md) 
 
-### #is_/same_as :: [pacifica.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.protect.md) 
+### #is_/same_as :: [Magnapinna_pacifica.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_pacifica.protect.md) 
 
-### #is_/same_as :: [pacifica.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.private.md) 
+### #is_/same_as :: [Magnapinna_pacifica.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_pacifica.private.md) 
 
-### #is_/same_as :: [pacifica.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.personal.md) 
+### #is_/same_as :: [Magnapinna_pacifica.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_pacifica.personal.md) 
 
-### #is_/same_as :: [pacifica.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.secret.md)
+### #is_/same_as :: [Magnapinna_pacifica.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/Magnapinna_pacifica.secret.md)
 

@@ -105,7 +105,7 @@ SPLASH:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lactose](Lactose.md) 
+### #is_/same_as :: [Lactose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.md) 
 
 ### #is_/same_as :: [Lactose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.public.md) 
 

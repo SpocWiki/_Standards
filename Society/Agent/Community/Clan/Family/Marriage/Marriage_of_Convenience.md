@@ -38,3 +38,22 @@ IMDb_keyword: marriage-of-convenience
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marriage%20of%20convenience) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marriage_of_Convenience](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.md) 
+
+### #is_/same_as :: [Marriage_of_Convenience.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.public.md) 
+
+### #is_/same_as :: [Marriage_of_Convenience.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.internal.md) 
+
+### #is_/same_as :: [Marriage_of_Convenience.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.protect.md) 
+
+### #is_/same_as :: [Marriage_of_Convenience.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.private.md) 
+
+### #is_/same_as :: [Marriage_of_Convenience.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.personal.md) 
+
+### #is_/same_as :: [Marriage_of_Convenience.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.secret.md)
+

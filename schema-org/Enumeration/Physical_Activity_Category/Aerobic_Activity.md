@@ -40,17 +40,17 @@ Physical activity of relatively low intensity that depends primarily on the aero
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aerobic_Activity](Aerobic_Activity.md) 
+### #is_/same_as :: [Aerobic_Activity](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.md) 
 
-### #is_/same_as :: [aerobic_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.public.md) 
+### #is_/same_as :: [Aerobic_Activity.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.public.md) 
 
-### #is_/same_as :: [aerobic_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.internal.md) 
+### #is_/same_as :: [Aerobic_Activity.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.internal.md) 
 
-### #is_/same_as :: [aerobic_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.protect.md) 
+### #is_/same_as :: [Aerobic_Activity.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.protect.md) 
 
-### #is_/same_as :: [aerobic_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.private.md) 
+### #is_/same_as :: [Aerobic_Activity.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.private.md) 
 
-### #is_/same_as :: [aerobic_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.personal.md) 
+### #is_/same_as :: [Aerobic_Activity.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.personal.md) 
 
-### #is_/same_as :: [aerobic_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.secret.md)
+### #is_/same_as :: [Aerobic_Activity.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.secret.md)
 

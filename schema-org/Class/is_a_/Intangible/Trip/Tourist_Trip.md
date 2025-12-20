@@ -42,17 +42,17 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [tourist_trip](/_Standards/schema-org/Class/is_a_/Intangible/trip/tourist_trip.md) 
+### #is_/same_as :: [Tourist_Trip](/_Standards/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.md) 
 
-### #is_/same_as :: [tourist_trip.public](/_public/schema-org/Class/is_a_/Intangible/trip/tourist_trip.public.md) 
+### #is_/same_as :: [Tourist_Trip.public](/_public/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.public.md) 
 
-### #is_/same_as :: [tourist_trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/tourist_trip.internal.md) 
+### #is_/same_as :: [Tourist_Trip.internal](/_internal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.internal.md) 
 
-### #is_/same_as :: [tourist_trip.protect](/_protect/schema-org/Class/is_a_/Intangible/trip/tourist_trip.protect.md) 
+### #is_/same_as :: [Tourist_Trip.protect](/_protect/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.protect.md) 
 
-### #is_/same_as :: [tourist_trip.private](/_private/schema-org/Class/is_a_/Intangible/trip/tourist_trip.private.md) 
+### #is_/same_as :: [Tourist_Trip.private](/_private/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.private.md) 
 
-### #is_/same_as :: [tourist_trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/tourist_trip.personal.md) 
+### #is_/same_as :: [Tourist_Trip.personal](/_personal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.personal.md) 
 
-### #is_/same_as :: [tourist_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/tourist_trip.secret.md)
+### #is_/same_as :: [Tourist_Trip.secret](/_secret/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.secret.md)
 

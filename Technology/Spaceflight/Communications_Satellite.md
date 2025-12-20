@@ -32,3 +32,22 @@ Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/SPUTNIK_SVYAZI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Communications%20satellite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Communications_Satellite](/_Standards/Technology/Spaceflight/Communications_Satellite.md) 
+
+### #is_/same_as :: [Communications_Satellite.public](/_public/Technology/Spaceflight/Communications_Satellite.public.md) 
+
+### #is_/same_as :: [Communications_Satellite.internal](/_internal/Technology/Spaceflight/Communications_Satellite.internal.md) 
+
+### #is_/same_as :: [Communications_Satellite.protect](/_protect/Technology/Spaceflight/Communications_Satellite.protect.md) 
+
+### #is_/same_as :: [Communications_Satellite.private](/_private/Technology/Spaceflight/Communications_Satellite.private.md) 
+
+### #is_/same_as :: [Communications_Satellite.personal](/_personal/Technology/Spaceflight/Communications_Satellite.personal.md) 
+
+### #is_/same_as :: [Communications_Satellite.secret](/_secret/Technology/Spaceflight/Communications_Satellite.secret.md)
+

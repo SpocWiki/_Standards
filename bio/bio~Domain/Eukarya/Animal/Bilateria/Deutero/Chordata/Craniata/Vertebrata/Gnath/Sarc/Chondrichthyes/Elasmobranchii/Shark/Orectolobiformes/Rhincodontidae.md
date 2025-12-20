@@ -25,3 +25,22 @@ taxon_name: Rhincodontidae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhincodontidae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rhincodontidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.md) 
+
+### #is_/same_as :: [Rhincodontidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.public.md) 
+
+### #is_/same_as :: [Rhincodontidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.internal.md) 
+
+### #is_/same_as :: [Rhincodontidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.protect.md) 
+
+### #is_/same_as :: [Rhincodontidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.private.md) 
+
+### #is_/same_as :: [Rhincodontidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.personal.md) 
+
+### #is_/same_as :: [Rhincodontidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodontidae.secret.md)
+

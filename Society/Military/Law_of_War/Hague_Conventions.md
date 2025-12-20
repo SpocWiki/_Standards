@@ -33,3 +33,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20First%20Internat
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hague%20Conventions%20of%201899%20and%201907) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hague_Conventions](/_Standards/Society/Military/Law_of_War/Hague_Conventions.md) 
+
+### #is_/same_as :: [Hague_Conventions.public](/_public/Society/Military/Law_of_War/Hague_Conventions.public.md) 
+
+### #is_/same_as :: [Hague_Conventions.internal](/_internal/Society/Military/Law_of_War/Hague_Conventions.internal.md) 
+
+### #is_/same_as :: [Hague_Conventions.protect](/_protect/Society/Military/Law_of_War/Hague_Conventions.protect.md) 
+
+### #is_/same_as :: [Hague_Conventions.private](/_private/Society/Military/Law_of_War/Hague_Conventions.private.md) 
+
+### #is_/same_as :: [Hague_Conventions.personal](/_personal/Society/Military/Law_of_War/Hague_Conventions.personal.md) 
+
+### #is_/same_as :: [Hague_Conventions.secret](/_secret/Society/Military/Law_of_War/Hague_Conventions.secret.md)
+

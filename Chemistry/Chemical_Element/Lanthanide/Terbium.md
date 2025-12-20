@@ -97,17 +97,17 @@ UNII: 06SSF7P179
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Terbium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.md) 
+### #is_/same_as :: [Terbium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Terbium.md) 
 
-### #is_/same_as :: [Terbium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.public.md) 
+### #is_/same_as :: [Terbium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Terbium.public.md) 
 
-### #is_/same_as :: [Terbium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.internal.md) 
+### #is_/same_as :: [Terbium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Terbium.internal.md) 
 
-### #is_/same_as :: [Terbium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.protect.md) 
+### #is_/same_as :: [Terbium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Terbium.protect.md) 
 
-### #is_/same_as :: [Terbium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.private.md) 
+### #is_/same_as :: [Terbium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Terbium.private.md) 
 
-### #is_/same_as :: [Terbium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.personal.md) 
+### #is_/same_as :: [Terbium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Terbium.personal.md) 
 
-### #is_/same_as :: [Terbium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.secret.md)
+### #is_/same_as :: [Terbium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Terbium.secret.md)
 

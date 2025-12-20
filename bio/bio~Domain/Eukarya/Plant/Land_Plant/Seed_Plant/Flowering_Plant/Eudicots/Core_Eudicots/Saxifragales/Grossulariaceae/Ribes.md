@@ -65,3 +65,22 @@ NBN_System_Key: NHMSYS0000462393
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ribes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ribes](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes.md) 
+
+### #is_/same_as :: [Ribes.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes.public.md) 
+
+### #is_/same_as :: [Ribes.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes.internal.md) 
+
+### #is_/same_as :: [Ribes.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes.protect.md) 
+
+### #is_/same_as :: [Ribes.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes.private.md) 
+
+### #is_/same_as :: [Ribes.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes.personal.md) 
+
+### #is_/same_as :: [Ribes.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes.secret.md)
+

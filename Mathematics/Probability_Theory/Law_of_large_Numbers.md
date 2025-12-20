@@ -43,3 +43,22 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Law%20of%20large%20numbers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Law_of_large_Numbers](/_Standards/Mathematics/Probability_Theory/Law_of_large_Numbers.md) 
+
+### #is_/same_as :: [Law_of_large_Numbers.public](/_public/Mathematics/Probability_Theory/Law_of_large_Numbers.public.md) 
+
+### #is_/same_as :: [Law_of_large_Numbers.internal](/_internal/Mathematics/Probability_Theory/Law_of_large_Numbers.internal.md) 
+
+### #is_/same_as :: [Law_of_large_Numbers.protect](/_protect/Mathematics/Probability_Theory/Law_of_large_Numbers.protect.md) 
+
+### #is_/same_as :: [Law_of_large_Numbers.private](/_private/Mathematics/Probability_Theory/Law_of_large_Numbers.private.md) 
+
+### #is_/same_as :: [Law_of_large_Numbers.personal](/_personal/Mathematics/Probability_Theory/Law_of_large_Numbers.personal.md) 
+
+### #is_/same_as :: [Law_of_large_Numbers.secret](/_secret/Mathematics/Probability_Theory/Law_of_large_Numbers.secret.md)
+

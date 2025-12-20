@@ -48,3 +48,22 @@ Library_of_Congress_Classification: HM1251
 
 Authority was derived from the [[../Social_Contract]] in which each Participant gives up some of their Sovereignty in exchange for Stability. 
 [[../../../Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas]] and [[../../../../../_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques]] 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Authority](/_Standards/Society/Politics/Political_Power/Authority.md) 
+
+### #is_/same_as :: [Authority.public](/_public/Society/Politics/Political_Power/Authority.public.md) 
+
+### #is_/same_as :: [Authority.internal](/_internal/Society/Politics/Political_Power/Authority.internal.md) 
+
+### #is_/same_as :: [Authority.protect](/_protect/Society/Politics/Political_Power/Authority.protect.md) 
+
+### #is_/same_as :: [Authority.private](/_private/Society/Politics/Political_Power/Authority.private.md) 
+
+### #is_/same_as :: [Authority.personal](/_personal/Society/Politics/Political_Power/Authority.personal.md) 
+
+### #is_/same_as :: [Authority.secret](/_secret/Society/Politics/Political_Power/Authority.secret.md)
+

@@ -213,3 +213,22 @@ Europeana_entity: agent/base/60831
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tina%20Turner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turner,Tina](/_Standards/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Turner,Tina.md) 
+
+### #is_/same_as :: [Turner,Tina.public](/_public/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Turner,Tina.public.md) 
+
+### #is_/same_as :: [Turner,Tina.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Turner,Tina.internal.md) 
+
+### #is_/same_as :: [Turner,Tina.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Turner,Tina.protect.md) 
+
+### #is_/same_as :: [Turner,Tina.private](/_private/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Turner,Tina.private.md) 
+
+### #is_/same_as :: [Turner,Tina.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Turner,Tina.personal.md) 
+
+### #is_/same_as :: [Turner,Tina.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Turner,Tina.secret.md)
+

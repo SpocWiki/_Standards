@@ -60,3 +60,22 @@ Commons_category: Gallic War
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallic%20Wars) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-0058-Gallic_War-0050](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.md) 
+
+### #is_/same_as :: [-0058-Gallic_War-0050.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.public.md) 
+
+### #is_/same_as :: [-0058-Gallic_War-0050.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.internal.md) 
+
+### #is_/same_as :: [-0058-Gallic_War-0050.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.protect.md) 
+
+### #is_/same_as :: [-0058-Gallic_War-0050.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.private.md) 
+
+### #is_/same_as :: [-0058-Gallic_War-0050.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.personal.md) 
+
+### #is_/same_as :: [-0058-Gallic_War-0050.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.secret.md)
+

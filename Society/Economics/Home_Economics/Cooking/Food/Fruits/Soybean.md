@@ -170,3 +170,22 @@ sequenced_genome_URL: https://plants.ensembl.org/Glycine_max
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soybean) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soybean](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.md) 
+
+### #is_/same_as :: [Soybean.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.public.md) 
+
+### #is_/same_as :: [Soybean.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.internal.md) 
+
+### #is_/same_as :: [Soybean.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.protect.md) 
+
+### #is_/same_as :: [Soybean.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.private.md) 
+
+### #is_/same_as :: [Soybean.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.personal.md) 
+
+### #is_/same_as :: [Soybean.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.secret.md)
+

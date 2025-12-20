@@ -53,3 +53,22 @@ Commons_category: Psychoanalysis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychoanalysis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Psychoanalysis](/_Standards/bio/Psychology/Psychoanalysis.md) 
+
+### #is_/same_as :: [Psychoanalysis.public](/_public/bio/Psychology/Psychoanalysis.public.md) 
+
+### #is_/same_as :: [Psychoanalysis.internal](/_internal/bio/Psychology/Psychoanalysis.internal.md) 
+
+### #is_/same_as :: [Psychoanalysis.protect](/_protect/bio/Psychology/Psychoanalysis.protect.md) 
+
+### #is_/same_as :: [Psychoanalysis.private](/_private/bio/Psychology/Psychoanalysis.private.md) 
+
+### #is_/same_as :: [Psychoanalysis.personal](/_personal/bio/Psychology/Psychoanalysis.personal.md) 
+
+### #is_/same_as :: [Psychoanalysis.secret](/_secret/bio/Psychology/Psychoanalysis.secret.md)
+

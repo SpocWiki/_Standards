@@ -49,17 +49,17 @@ electric_charge: -0.3333333333333333
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Down Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Down Quark.md) 
+### #is_/same_as :: [Down Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Down Quark.md) 
 
-### #is_/same_as :: [Down Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Down Quark.public.md) 
+### #is_/same_as :: [Down Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Down Quark.public.md) 
 
-### #is_/same_as :: [Down Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Down Quark.internal.md) 
+### #is_/same_as :: [Down Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Down Quark.internal.md) 
 
-### #is_/same_as :: [Down Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Down Quark.protect.md) 
+### #is_/same_as :: [Down Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Down Quark.protect.md) 
 
-### #is_/same_as :: [Down Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Down Quark.private.md) 
+### #is_/same_as :: [Down Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Down Quark.private.md) 
 
-### #is_/same_as :: [Down Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Down Quark.personal.md) 
+### #is_/same_as :: [Down Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Down Quark.personal.md) 
 
-### #is_/same_as :: [Down Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Down Quark.secret.md)
+### #is_/same_as :: [Down Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Down Quark.secret.md)
 

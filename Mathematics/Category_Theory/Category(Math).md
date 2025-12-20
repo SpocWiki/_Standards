@@ -93,3 +93,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Category%20SVG.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Classification) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Category(Math)](/_Standards/Mathematics/Category_Theory/Category(Math).md) 
+
+### #is_/same_as :: [Category(Math).public](/_public/Mathematics/Category_Theory/Category(Math).public.md) 
+
+### #is_/same_as :: [Category(Math).internal](/_internal/Mathematics/Category_Theory/Category(Math).internal.md) 
+
+### #is_/same_as :: [Category(Math).protect](/_protect/Mathematics/Category_Theory/Category(Math).protect.md) 
+
+### #is_/same_as :: [Category(Math).private](/_private/Mathematics/Category_Theory/Category(Math).private.md) 
+
+### #is_/same_as :: [Category(Math).personal](/_personal/Mathematics/Category_Theory/Category(Math).personal.md) 
+
+### #is_/same_as :: [Category(Math).secret](/_secret/Mathematics/Category_Theory/Category(Math).secret.md)
+

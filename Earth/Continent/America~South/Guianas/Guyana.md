@@ -411,17 +411,17 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guyana](/_Standards/Earth/Continent/America~South/Guyana.md) 
+### #is_/same_as :: [Guyana](/_Standards/Earth/Continent/America~South/Guianas/Guyana.md) 
 
-### #is_/same_as :: [Guyana.public](/_public/Earth/Continent/America~South/Guyana.public.md) 
+### #is_/same_as :: [Guyana.public](/_public/Earth/Continent/America~South/Guianas/Guyana.public.md) 
 
-### #is_/same_as :: [Guyana.internal](/_internal/Earth/Continent/America~South/Guyana.internal.md) 
+### #is_/same_as :: [Guyana.internal](/_internal/Earth/Continent/America~South/Guianas/Guyana.internal.md) 
 
-### #is_/same_as :: [Guyana.protect](/_protect/Earth/Continent/America~South/Guyana.protect.md) 
+### #is_/same_as :: [Guyana.protect](/_protect/Earth/Continent/America~South/Guianas/Guyana.protect.md) 
 
-### #is_/same_as :: [Guyana.private](/_private/Earth/Continent/America~South/Guyana.private.md) 
+### #is_/same_as :: [Guyana.private](/_private/Earth/Continent/America~South/Guianas/Guyana.private.md) 
 
-### #is_/same_as :: [Guyana.personal](/_personal/Earth/Continent/America~South/Guyana.personal.md) 
+### #is_/same_as :: [Guyana.personal](/_personal/Earth/Continent/America~South/Guianas/Guyana.personal.md) 
 
-### #is_/same_as :: [Guyana.secret](/_secret/Earth/Continent/America~South/Guyana.secret.md)
+### #is_/same_as :: [Guyana.secret](/_secret/Earth/Continent/America~South/Guianas/Guyana.secret.md)
 

@@ -171,7 +171,7 @@ Zool., 97: 1-159.
   View              dorsal
   Size              83 mm ML
   Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

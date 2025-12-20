@@ -57,3 +57,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pan-European%20Picnic) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1989-Pan-European_Picnic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.md) 
+
+### #is_/same_as :: [1989-Pan-European_Picnic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.public.md) 
+
+### #is_/same_as :: [1989-Pan-European_Picnic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.internal.md) 
+
+### #is_/same_as :: [1989-Pan-European_Picnic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.protect.md) 
+
+### #is_/same_as :: [1989-Pan-European_Picnic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.private.md) 
+
+### #is_/same_as :: [1989-Pan-European_Picnic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.personal.md) 
+
+### #is_/same_as :: [1989-Pan-European_Picnic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.secret.md)
+

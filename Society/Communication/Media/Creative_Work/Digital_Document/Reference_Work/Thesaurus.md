@@ -49,3 +49,22 @@ native_label: linguistic thesaurus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thesaurus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thesaurus](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.md) 
+
+### #is_/same_as :: [Thesaurus.public](/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.public.md) 
+
+### #is_/same_as :: [Thesaurus.internal](/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.internal.md) 
+
+### #is_/same_as :: [Thesaurus.protect](/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.protect.md) 
+
+### #is_/same_as :: [Thesaurus.private](/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.private.md) 
+
+### #is_/same_as :: [Thesaurus.personal](/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.personal.md) 
+
+### #is_/same_as :: [Thesaurus.secret](/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.secret.md)
+

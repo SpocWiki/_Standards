@@ -39,17 +39,17 @@ A permit issued by a government agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [government_permit](/_Standards/schema-org/Class/is_a_/Intangible/permit/government_permit.md) 
+### #is_/same_as :: [Government_Permit](/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.md) 
 
-### #is_/same_as :: [government_permit.public](/_public/schema-org/Class/is_a_/Intangible/permit/government_permit.public.md) 
+### #is_/same_as :: [Government_Permit.public](/_public/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.public.md) 
 
-### #is_/same_as :: [government_permit.internal](/_internal/schema-org/Class/is_a_/Intangible/permit/government_permit.internal.md) 
+### #is_/same_as :: [Government_Permit.internal](/_internal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.internal.md) 
 
-### #is_/same_as :: [government_permit.protect](/_protect/schema-org/Class/is_a_/Intangible/permit/government_permit.protect.md) 
+### #is_/same_as :: [Government_Permit.protect](/_protect/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.protect.md) 
 
-### #is_/same_as :: [government_permit.private](/_private/schema-org/Class/is_a_/Intangible/permit/government_permit.private.md) 
+### #is_/same_as :: [Government_Permit.private](/_private/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.private.md) 
 
-### #is_/same_as :: [government_permit.personal](/_personal/schema-org/Class/is_a_/Intangible/permit/government_permit.personal.md) 
+### #is_/same_as :: [Government_Permit.personal](/_personal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.personal.md) 
 
-### #is_/same_as :: [government_permit.secret](/_secret/schema-org/Class/is_a_/Intangible/permit/government_permit.secret.md)
+### #is_/same_as :: [Government_Permit.secret](/_secret/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.secret.md)
 

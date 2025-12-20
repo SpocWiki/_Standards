@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Mirror](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Black_Mirror.md) 
+### #is_/same_as :: [Black_Mirror](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.md) 
 
-### #is_/same_as :: [Black_Mirror.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Black_Mirror.public.md) 
+### #is_/same_as :: [Black_Mirror.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.public.md) 
 
-### #is_/same_as :: [Black_Mirror.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Black_Mirror.internal.md) 
+### #is_/same_as :: [Black_Mirror.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.internal.md) 
 
-### #is_/same_as :: [Black_Mirror.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Black_Mirror.protect.md) 
+### #is_/same_as :: [Black_Mirror.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.protect.md) 
 
-### #is_/same_as :: [Black_Mirror.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Black_Mirror.private.md) 
+### #is_/same_as :: [Black_Mirror.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.private.md) 
 
-### #is_/same_as :: [Black_Mirror.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Black_Mirror.personal.md) 
+### #is_/same_as :: [Black_Mirror.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.personal.md) 
 
-### #is_/same_as :: [Black_Mirror.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Black_Mirror.secret.md)
+### #is_/same_as :: [Black_Mirror.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix/Black_Mirror.secret.md)
 

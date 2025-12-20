@@ -42,3 +42,21 @@ Krugosvet_article: tekhnologiya-i-promyshlennost/viski
 > Whisky is a strictly regulated spirit worldwide with many classes and types. The typical unifying characteristics of the different classes and types are the fermentation of grains, distillation, and aging in wooden barrels.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Whisky)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Whisky](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.md) 
+
+### #is_/same_as :: [Whisky.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.public.md) 
+
+### #is_/same_as :: [Whisky.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.internal.md) 
+
+### #is_/same_as :: [Whisky.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.protect.md) 
+
+### #is_/same_as :: [Whisky.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.private.md) 
+
+### #is_/same_as :: [Whisky.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.personal.md) 
+
+### #is_/same_as :: [Whisky.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.secret.md)
+

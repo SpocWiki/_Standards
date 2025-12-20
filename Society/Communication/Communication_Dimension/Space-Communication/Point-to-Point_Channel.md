@@ -20,3 +20,22 @@ subclass_of: "[[_Standards/WikiData/WD~communication,11024]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Point-to-point%20(telecommunications)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Point-to-Point_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.md) 
+
+### #is_/same_as :: [Point-to-Point_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.public.md) 
+
+### #is_/same_as :: [Point-to-Point_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.internal.md) 
+
+### #is_/same_as :: [Point-to-Point_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.protect.md) 
+
+### #is_/same_as :: [Point-to-Point_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.private.md) 
+
+### #is_/same_as :: [Point-to-Point_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.personal.md) 
+
+### #is_/same_as :: [Point-to-Point_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.secret.md)
+

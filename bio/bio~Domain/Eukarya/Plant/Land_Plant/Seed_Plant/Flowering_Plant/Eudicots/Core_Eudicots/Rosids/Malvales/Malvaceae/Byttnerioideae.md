@@ -25,3 +25,22 @@ UMLS_CUI: C1228150
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Byttnerioideae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Byttnerioideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae.md) 
+
+### #is_/same_as :: [Byttnerioideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae.public.md) 
+
+### #is_/same_as :: [Byttnerioideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae.internal.md) 
+
+### #is_/same_as :: [Byttnerioideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae.protect.md) 
+
+### #is_/same_as :: [Byttnerioideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae.private.md) 
+
+### #is_/same_as :: [Byttnerioideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae.personal.md) 
+
+### #is_/same_as :: [Byttnerioideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae.secret.md)
+

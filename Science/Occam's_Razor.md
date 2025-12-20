@@ -59,3 +59,22 @@ Commons_category: Occam's razor
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Occam's%20razor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Occam's_Razor](/_Standards/Science/Occam's_Razor.md) 
+
+### #is_/same_as :: [Occam's_Razor.public](/_public/Science/Occam's_Razor.public.md) 
+
+### #is_/same_as :: [Occam's_Razor.internal](/_internal/Science/Occam's_Razor.internal.md) 
+
+### #is_/same_as :: [Occam's_Razor.protect](/_protect/Science/Occam's_Razor.protect.md) 
+
+### #is_/same_as :: [Occam's_Razor.private](/_private/Science/Occam's_Razor.private.md) 
+
+### #is_/same_as :: [Occam's_Razor.personal](/_personal/Science/Occam's_Razor.personal.md) 
+
+### #is_/same_as :: [Occam's_Razor.secret](/_secret/Science/Occam's_Razor.secret.md)
+

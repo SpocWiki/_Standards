@@ -45,3 +45,22 @@ IPTC_NewsCode: mediatopic/20000115
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Witness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Witness](/_Standards/Society/Law/Judiciary/Court/Evidence/Witness.md) 
+
+### #is_/same_as :: [Witness.public](/_public/Society/Law/Judiciary/Court/Evidence/Witness.public.md) 
+
+### #is_/same_as :: [Witness.internal](/_internal/Society/Law/Judiciary/Court/Evidence/Witness.internal.md) 
+
+### #is_/same_as :: [Witness.protect](/_protect/Society/Law/Judiciary/Court/Evidence/Witness.protect.md) 
+
+### #is_/same_as :: [Witness.private](/_private/Society/Law/Judiciary/Court/Evidence/Witness.private.md) 
+
+### #is_/same_as :: [Witness.personal](/_personal/Society/Law/Judiciary/Court/Evidence/Witness.personal.md) 
+
+### #is_/same_as :: [Witness.secret](/_secret/Society/Law/Judiciary/Court/Evidence/Witness.secret.md)
+

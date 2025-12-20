@@ -74,3 +74,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Propositional%20logic) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Propositional_Logic](/_Standards/Philosophy/Logic/Logic(Math)/Propositional_Logic.md) 
+
+### #is_/same_as :: [Propositional_Logic.public](/_public/Philosophy/Logic/Logic(Math)/Propositional_Logic.public.md) 
+
+### #is_/same_as :: [Propositional_Logic.internal](/_internal/Philosophy/Logic/Logic(Math)/Propositional_Logic.internal.md) 
+
+### #is_/same_as :: [Propositional_Logic.protect](/_protect/Philosophy/Logic/Logic(Math)/Propositional_Logic.protect.md) 
+
+### #is_/same_as :: [Propositional_Logic.private](/_private/Philosophy/Logic/Logic(Math)/Propositional_Logic.private.md) 
+
+### #is_/same_as :: [Propositional_Logic.personal](/_personal/Philosophy/Logic/Logic(Math)/Propositional_Logic.personal.md) 
+
+### #is_/same_as :: [Propositional_Logic.secret](/_secret/Philosophy/Logic/Logic(Math)/Propositional_Logic.secret.md)
+

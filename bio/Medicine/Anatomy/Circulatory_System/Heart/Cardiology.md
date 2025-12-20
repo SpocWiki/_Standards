@@ -50,8 +50,6 @@ OpenStreetMap_tag_or_key: Tag:healthcare:speciality=cardiology
 > [Wikipedia](https://en.wikipedia.org/wiki/Cardiology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cardiology](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.md) 

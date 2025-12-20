@@ -84,3 +84,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parsec) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parsec](/_Standards/Dimension/Dim~Length/Parsec.md) 
+
+### #is_/same_as :: [Parsec.public](/_public/Dimension/Dim~Length/Parsec.public.md) 
+
+### #is_/same_as :: [Parsec.internal](/_internal/Dimension/Dim~Length/Parsec.internal.md) 
+
+### #is_/same_as :: [Parsec.protect](/_protect/Dimension/Dim~Length/Parsec.protect.md) 
+
+### #is_/same_as :: [Parsec.private](/_private/Dimension/Dim~Length/Parsec.private.md) 
+
+### #is_/same_as :: [Parsec.personal](/_personal/Dimension/Dim~Length/Parsec.personal.md) 
+
+### #is_/same_as :: [Parsec.secret](/_secret/Dimension/Dim~Length/Parsec.secret.md)
+

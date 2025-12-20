@@ -31,17 +31,17 @@ It is similar to a [[Memistor]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Memristor](/_Standards/Technology/Electronics/Electronic_Component/Memristor.md) 
+### #is_/same_as :: [Memristor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memristor.md) 
 
-### #is_/same_as :: [Memristor.public](/_public/Technology/Electronics/Electronic_Component/Memristor.public.md) 
+### #is_/same_as :: [Memristor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memristor.public.md) 
 
-### #is_/same_as :: [Memristor.internal](/_internal/Technology/Electronics/Electronic_Component/Memristor.internal.md) 
+### #is_/same_as :: [Memristor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memristor.internal.md) 
 
-### #is_/same_as :: [Memristor.protect](/_protect/Technology/Electronics/Electronic_Component/Memristor.protect.md) 
+### #is_/same_as :: [Memristor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memristor.protect.md) 
 
-### #is_/same_as :: [Memristor.private](/_private/Technology/Electronics/Electronic_Component/Memristor.private.md) 
+### #is_/same_as :: [Memristor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memristor.private.md) 
 
-### #is_/same_as :: [Memristor.personal](/_personal/Technology/Electronics/Electronic_Component/Memristor.personal.md) 
+### #is_/same_as :: [Memristor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memristor.personal.md) 
 
-### #is_/same_as :: [Memristor.secret](/_secret/Technology/Electronics/Electronic_Component/Memristor.secret.md)
+### #is_/same_as :: [Memristor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Memristor.secret.md)
 

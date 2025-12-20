@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cariad_SE](Cariad_SE.md) 
+### #is_/same_as :: [Cariad_SE](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.md) 
 
-### #is_/same_as :: [Cariad_SE.public](/_public/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.public.md) 
+### #is_/same_as :: [Cariad_SE.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.public.md) 
 
-### #is_/same_as :: [Cariad_SE.internal](/_internal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.internal.md) 
+### #is_/same_as :: [Cariad_SE.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.internal.md) 
 
-### #is_/same_as :: [Cariad_SE.protect](/_protect/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.protect.md) 
+### #is_/same_as :: [Cariad_SE.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.protect.md) 
 
-### #is_/same_as :: [Cariad_SE.private](/_private/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.private.md) 
+### #is_/same_as :: [Cariad_SE.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.private.md) 
 
-### #is_/same_as :: [Cariad_SE.personal](/_personal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.personal.md) 
+### #is_/same_as :: [Cariad_SE.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.personal.md) 
 
-### #is_/same_as :: [Cariad_SE.secret](/_secret/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen)/Cariad_SE.secret.md)
+### #is_/same_as :: [Cariad_SE.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.secret.md)
 

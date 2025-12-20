@@ -31,3 +31,22 @@ has_id_wikidata: Q208617
 > and eastward around the fundamental plane.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equatorial%20coordinate%20system) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Equatorial_Coordinate_System](/_Standards/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.md) 
+
+### #is_/same_as :: [Equatorial_Coordinate_System.public](/_public/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.public.md) 
+
+### #is_/same_as :: [Equatorial_Coordinate_System.internal](/_internal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.internal.md) 
+
+### #is_/same_as :: [Equatorial_Coordinate_System.protect](/_protect/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.protect.md) 
+
+### #is_/same_as :: [Equatorial_Coordinate_System.private](/_private/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.private.md) 
+
+### #is_/same_as :: [Equatorial_Coordinate_System.personal](/_personal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.personal.md) 
+
+### #is_/same_as :: [Equatorial_Coordinate_System.secret](/_secret/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.secret.md)
+

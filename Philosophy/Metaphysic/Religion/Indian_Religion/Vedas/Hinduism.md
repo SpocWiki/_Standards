@@ -101,17 +101,17 @@ Commons_category: Hinduism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hinduism](/_Standards/Philosophy/Metaphysic/Religion/India~Religions/Hinduism.md) 
+### #is_/same_as :: [Hinduism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism.md) 
 
-### #is_/same_as :: [Hinduism.public](/_public/Philosophy/Metaphysic/Religion/India~Religions/Hinduism.public.md) 
+### #is_/same_as :: [Hinduism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism.public.md) 
 
-### #is_/same_as :: [Hinduism.internal](/_internal/Philosophy/Metaphysic/Religion/India~Religions/Hinduism.internal.md) 
+### #is_/same_as :: [Hinduism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism.internal.md) 
 
-### #is_/same_as :: [Hinduism.protect](/_protect/Philosophy/Metaphysic/Religion/India~Religions/Hinduism.protect.md) 
+### #is_/same_as :: [Hinduism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism.protect.md) 
 
-### #is_/same_as :: [Hinduism.private](/_private/Philosophy/Metaphysic/Religion/India~Religions/Hinduism.private.md) 
+### #is_/same_as :: [Hinduism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism.private.md) 
 
-### #is_/same_as :: [Hinduism.personal](/_personal/Philosophy/Metaphysic/Religion/India~Religions/Hinduism.personal.md) 
+### #is_/same_as :: [Hinduism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism.personal.md) 
 
-### #is_/same_as :: [Hinduism.secret](/_secret/Philosophy/Metaphysic/Religion/India~Religions/Hinduism.secret.md)
+### #is_/same_as :: [Hinduism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism.secret.md)
 

@@ -165,3 +165,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TARANTINO_KVENTI
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quentin%20Tarantino) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tarantino,Quentin](/_Standards/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.md) 
+
+### #is_/same_as :: [Tarantino,Quentin.public](/_public/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.public.md) 
+
+### #is_/same_as :: [Tarantino,Quentin.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.internal.md) 
+
+### #is_/same_as :: [Tarantino,Quentin.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.protect.md) 
+
+### #is_/same_as :: [Tarantino,Quentin.private](/_private/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.private.md) 
+
+### #is_/same_as :: [Tarantino,Quentin.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.personal.md) 
+
+### #is_/same_as :: [Tarantino,Quentin.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.secret.md)
+

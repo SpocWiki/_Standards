@@ -41,17 +41,17 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [energy_consumption_details](/_Standards/schema-org/Class/is_a_/Intangible/energy_consumption_details.md) 
+### #is_/same_as :: [Energy_Consumption_Details](/_Standards/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.md) 
 
-### #is_/same_as :: [energy_consumption_details.public](/_public/schema-org/Class/is_a_/Intangible/energy_consumption_details.public.md) 
+### #is_/same_as :: [Energy_Consumption_Details.public](/_public/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.public.md) 
 
-### #is_/same_as :: [energy_consumption_details.internal](/_internal/schema-org/Class/is_a_/Intangible/energy_consumption_details.internal.md) 
+### #is_/same_as :: [Energy_Consumption_Details.internal](/_internal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.internal.md) 
 
-### #is_/same_as :: [energy_consumption_details.protect](/_protect/schema-org/Class/is_a_/Intangible/energy_consumption_details.protect.md) 
+### #is_/same_as :: [Energy_Consumption_Details.protect](/_protect/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.protect.md) 
 
-### #is_/same_as :: [energy_consumption_details.private](/_private/schema-org/Class/is_a_/Intangible/energy_consumption_details.private.md) 
+### #is_/same_as :: [Energy_Consumption_Details.private](/_private/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.private.md) 
 
-### #is_/same_as :: [energy_consumption_details.personal](/_personal/schema-org/Class/is_a_/Intangible/energy_consumption_details.personal.md) 
+### #is_/same_as :: [Energy_Consumption_Details.personal](/_personal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.personal.md) 
 
-### #is_/same_as :: [energy_consumption_details.secret](/_secret/schema-org/Class/is_a_/Intangible/energy_consumption_details.secret.md)
+### #is_/same_as :: [Energy_Consumption_Details.secret](/_secret/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.secret.md)
 

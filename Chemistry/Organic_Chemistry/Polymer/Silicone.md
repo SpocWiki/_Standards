@@ -56,3 +56,22 @@ Commons_category: Silicones
 > which forms a dark-grey semiconducting crystalline solid. 
 > In its crystalline form it is used to make integrated circuits ("electronic chips") and solar cells. 
 > 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Silicone](/_Standards/Chemistry/Organic_Chemistry/Polymer/Silicone.md) 
+
+### #is_/same_as :: [Silicone.public](/_public/Chemistry/Organic_Chemistry/Polymer/Silicone.public.md) 
+
+### #is_/same_as :: [Silicone.internal](/_internal/Chemistry/Organic_Chemistry/Polymer/Silicone.internal.md) 
+
+### #is_/same_as :: [Silicone.protect](/_protect/Chemistry/Organic_Chemistry/Polymer/Silicone.protect.md) 
+
+### #is_/same_as :: [Silicone.private](/_private/Chemistry/Organic_Chemistry/Polymer/Silicone.private.md) 
+
+### #is_/same_as :: [Silicone.personal](/_personal/Chemistry/Organic_Chemistry/Polymer/Silicone.personal.md) 
+
+### #is_/same_as :: [Silicone.secret](/_secret/Chemistry/Organic_Chemistry/Polymer/Silicone.secret.md)
+

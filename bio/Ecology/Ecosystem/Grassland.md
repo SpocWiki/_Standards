@@ -42,3 +42,22 @@ GeoNames_feature_code: V.GRSLD
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grassland) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grassland](/_Standards/bio/Ecology/Ecosystem/Grassland.md) 
+
+### #is_/same_as :: [Grassland.public](/_public/bio/Ecology/Ecosystem/Grassland.public.md) 
+
+### #is_/same_as :: [Grassland.internal](/_internal/bio/Ecology/Ecosystem/Grassland.internal.md) 
+
+### #is_/same_as :: [Grassland.protect](/_protect/bio/Ecology/Ecosystem/Grassland.protect.md) 
+
+### #is_/same_as :: [Grassland.private](/_private/bio/Ecology/Ecosystem/Grassland.private.md) 
+
+### #is_/same_as :: [Grassland.personal](/_personal/bio/Ecology/Ecosystem/Grassland.personal.md) 
+
+### #is_/same_as :: [Grassland.secret](/_secret/bio/Ecology/Ecosystem/Grassland.secret.md)
+

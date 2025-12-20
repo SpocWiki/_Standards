@@ -23,3 +23,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pangaea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pangaea](/_Standards/Earth/Continent/Pangaea.md) 
+
+### #is_/same_as :: [Pangaea.public](/_public/Earth/Continent/Pangaea.public.md) 
+
+### #is_/same_as :: [Pangaea.internal](/_internal/Earth/Continent/Pangaea.internal.md) 
+
+### #is_/same_as :: [Pangaea.protect](/_protect/Earth/Continent/Pangaea.protect.md) 
+
+### #is_/same_as :: [Pangaea.private](/_private/Earth/Continent/Pangaea.private.md) 
+
+### #is_/same_as :: [Pangaea.personal](/_personal/Earth/Continent/Pangaea.personal.md) 
+
+### #is_/same_as :: [Pangaea.secret](/_secret/Earth/Continent/Pangaea.secret.md)
+

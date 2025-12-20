@@ -148,3 +148,22 @@ inception: 0033-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pope](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope.md) 
+
+### #is_/same_as :: [Pope.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope.public.md) 
+
+### #is_/same_as :: [Pope.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope.internal.md) 
+
+### #is_/same_as :: [Pope.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope.protect.md) 
+
+### #is_/same_as :: [Pope.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope.private.md) 
+
+### #is_/same_as :: [Pope.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope.personal.md) 
+
+### #is_/same_as :: [Pope.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope.secret.md)
+

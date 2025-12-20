@@ -66,3 +66,22 @@ Commons_category: Secularism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Secularism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Secularism](/_Standards/Philosophy/Metaphysic/Religion/Secularism.md) 
+
+### #is_/same_as :: [Secularism.public](/_public/Philosophy/Metaphysic/Religion/Secularism.public.md) 
+
+### #is_/same_as :: [Secularism.internal](/_internal/Philosophy/Metaphysic/Religion/Secularism.internal.md) 
+
+### #is_/same_as :: [Secularism.protect](/_protect/Philosophy/Metaphysic/Religion/Secularism.protect.md) 
+
+### #is_/same_as :: [Secularism.private](/_private/Philosophy/Metaphysic/Religion/Secularism.private.md) 
+
+### #is_/same_as :: [Secularism.personal](/_personal/Philosophy/Metaphysic/Religion/Secularism.personal.md) 
+
+### #is_/same_as :: [Secularism.secret](/_secret/Philosophy/Metaphysic/Religion/Secularism.secret.md)
+

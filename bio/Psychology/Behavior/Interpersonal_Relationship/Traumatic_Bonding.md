@@ -48,3 +48,22 @@ instance_of: "[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Traumatic%20bonding) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Traumatic_Bonding](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding.md) 
+
+### #is_/same_as :: [Traumatic_Bonding.public](/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding.public.md) 
+
+### #is_/same_as :: [Traumatic_Bonding.internal](/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding.internal.md) 
+
+### #is_/same_as :: [Traumatic_Bonding.protect](/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding.protect.md) 
+
+### #is_/same_as :: [Traumatic_Bonding.private](/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding.private.md) 
+
+### #is_/same_as :: [Traumatic_Bonding.personal](/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding.personal.md) 
+
+### #is_/same_as :: [Traumatic_Bonding.secret](/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding.secret.md)
+

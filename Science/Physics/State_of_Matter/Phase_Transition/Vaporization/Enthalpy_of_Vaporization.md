@@ -47,3 +47,22 @@ Commons_category: Enthalpy of vaporization
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Enthalpy%20of%20vaporization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Enthalpy_of_Vaporization](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.md) 
+
+### #is_/same_as :: [Enthalpy_of_Vaporization.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.public.md) 
+
+### #is_/same_as :: [Enthalpy_of_Vaporization.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.internal.md) 
+
+### #is_/same_as :: [Enthalpy_of_Vaporization.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.protect.md) 
+
+### #is_/same_as :: [Enthalpy_of_Vaporization.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.private.md) 
+
+### #is_/same_as :: [Enthalpy_of_Vaporization.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.personal.md) 
+
+### #is_/same_as :: [Enthalpy_of_Vaporization.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.secret.md)
+

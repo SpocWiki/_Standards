@@ -43,3 +43,22 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/DIAKRITICHESKIE_ZNAKI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diacritic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diacritic](/_Standards/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.md) 
+
+### #is_/same_as :: [Diacritic.public](/_public/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.public.md) 
+
+### #is_/same_as :: [Diacritic.internal](/_internal/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.internal.md) 
+
+### #is_/same_as :: [Diacritic.protect](/_protect/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.protect.md) 
+
+### #is_/same_as :: [Diacritic.private](/_private/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.private.md) 
+
+### #is_/same_as :: [Diacritic.personal](/_personal/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.personal.md) 
+
+### #is_/same_as :: [Diacritic.secret](/_secret/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.secret.md)
+

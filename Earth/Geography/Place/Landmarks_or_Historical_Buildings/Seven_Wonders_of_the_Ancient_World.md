@@ -67,3 +67,22 @@ Commons_category: Seven Wonders of the Ancient World
 
 
 ![[https://upload.wikimedia.org/wikipedia/commons/8/85/Ancient_seven_wonders_timeline.svg]] 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.md) 
+
+### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.public.md) 
+
+### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.internal.md) 
+
+### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.protect.md) 
+
+### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.private.md) 
+
+### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.personal.md) 
+
+### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.secret.md)
+

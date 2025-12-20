@@ -137,3 +137,22 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/JOSEPH%20CONRAD
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Conrad) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conrad,Joseph](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.md) 
+
+### #is_/same_as :: [Conrad,Joseph.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.public.md) 
+
+### #is_/same_as :: [Conrad,Joseph.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.internal.md) 
+
+### #is_/same_as :: [Conrad,Joseph.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.protect.md) 
+
+### #is_/same_as :: [Conrad,Joseph.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.private.md) 
+
+### #is_/same_as :: [Conrad,Joseph.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.personal.md) 
+
+### #is_/same_as :: [Conrad,Joseph.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.secret.md)
+

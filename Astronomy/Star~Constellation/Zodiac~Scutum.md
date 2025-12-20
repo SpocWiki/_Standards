@@ -53,6 +53,7 @@ time_of_discovery_or_invention: 1684-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scutum%20(constellation)) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Scutum](/_Standards/Astronomy/Star~Constellation/Zodiac~Scutum.md) 

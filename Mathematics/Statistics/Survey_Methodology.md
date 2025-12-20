@@ -31,3 +31,22 @@ Commons_category: Survey methodology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Survey%20methodology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Survey_Methodology](/_Standards/Mathematics/Statistics/Survey_Methodology.md) 
+
+### #is_/same_as :: [Survey_Methodology.public](/_public/Mathematics/Statistics/Survey_Methodology.public.md) 
+
+### #is_/same_as :: [Survey_Methodology.internal](/_internal/Mathematics/Statistics/Survey_Methodology.internal.md) 
+
+### #is_/same_as :: [Survey_Methodology.protect](/_protect/Mathematics/Statistics/Survey_Methodology.protect.md) 
+
+### #is_/same_as :: [Survey_Methodology.private](/_private/Mathematics/Statistics/Survey_Methodology.private.md) 
+
+### #is_/same_as :: [Survey_Methodology.personal](/_personal/Mathematics/Statistics/Survey_Methodology.personal.md) 
+
+### #is_/same_as :: [Survey_Methodology.secret](/_secret/Mathematics/Statistics/Survey_Methodology.secret.md)
+

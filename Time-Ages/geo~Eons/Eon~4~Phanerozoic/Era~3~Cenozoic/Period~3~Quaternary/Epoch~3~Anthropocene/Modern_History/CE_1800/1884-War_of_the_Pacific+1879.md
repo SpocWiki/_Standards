@@ -69,3 +69,22 @@ Dewey_Decimal_Classification: "983.0616"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20of%20the%20Pacific) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1884-War_of_the_Pacific+1879](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.md) 
+
+### #is_/same_as :: [1884-War_of_the_Pacific+1879.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public.md) 
+
+### #is_/same_as :: [1884-War_of_the_Pacific+1879.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal.md) 
+
+### #is_/same_as :: [1884-War_of_the_Pacific+1879.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect.md) 
+
+### #is_/same_as :: [1884-War_of_the_Pacific+1879.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private.md) 
+
+### #is_/same_as :: [1884-War_of_the_Pacific+1879.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal.md) 
+
+### #is_/same_as :: [1884-War_of_the_Pacific+1879.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret.md)
+

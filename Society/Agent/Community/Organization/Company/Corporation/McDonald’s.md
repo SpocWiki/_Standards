@@ -237,3 +237,22 @@ hashtag: mcdonald's
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/McDonald's) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [McDonald’s](/_Standards/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.md) 
+
+### #is_/same_as :: [McDonald’s.public](/_public/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.public.md) 
+
+### #is_/same_as :: [McDonald’s.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.internal.md) 
+
+### #is_/same_as :: [McDonald’s.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.protect.md) 
+
+### #is_/same_as :: [McDonald’s.private](/_private/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.private.md) 
+
+### #is_/same_as :: [McDonald’s.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.personal.md) 
+
+### #is_/same_as :: [McDonald’s.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.secret.md)
+

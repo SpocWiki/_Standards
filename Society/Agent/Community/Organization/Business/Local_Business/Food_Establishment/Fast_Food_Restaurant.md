@@ -39,17 +39,17 @@ A fast-food restaurant.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fast_Food_Restaurant](Fast_Food_Restaurant.md) 
+### #is_/same_as :: [Fast_Food_Restaurant](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.md) 
 
-### #is_/same_as :: [Fast_Food_Restaurant.public](/_public/Society/Organization/Local_Business/Food_Establishment/Fast_Food_Restaurant.public.md) 
+### #is_/same_as :: [Fast_Food_Restaurant.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.public.md) 
 
-### #is_/same_as :: [Fast_Food_Restaurant.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Fast_Food_Restaurant.internal.md) 
+### #is_/same_as :: [Fast_Food_Restaurant.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.internal.md) 
 
-### #is_/same_as :: [Fast_Food_Restaurant.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Fast_Food_Restaurant.protect.md) 
+### #is_/same_as :: [Fast_Food_Restaurant.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.protect.md) 
 
-### #is_/same_as :: [Fast_Food_Restaurant.private](/_private/Society/Organization/Local_Business/Food_Establishment/Fast_Food_Restaurant.private.md) 
+### #is_/same_as :: [Fast_Food_Restaurant.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.private.md) 
 
-### #is_/same_as :: [Fast_Food_Restaurant.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Fast_Food_Restaurant.personal.md) 
+### #is_/same_as :: [Fast_Food_Restaurant.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.personal.md) 
 
-### #is_/same_as :: [Fast_Food_Restaurant.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Fast_Food_Restaurant.secret.md)
+### #is_/same_as :: [Fast_Food_Restaurant.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.secret.md)
 

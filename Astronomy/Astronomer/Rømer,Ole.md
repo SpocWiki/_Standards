@@ -82,3 +82,22 @@ date_of_birth: 1644-09-25T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ole%20R%C3%B8mer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rømer,Ole](/_Standards/Astronomy/Astronomer/Rømer,Ole.md) 
+
+### #is_/same_as :: [Rømer,Ole.public](/_public/Astronomy/Astronomer/Rømer,Ole.public.md) 
+
+### #is_/same_as :: [Rømer,Ole.internal](/_internal/Astronomy/Astronomer/Rømer,Ole.internal.md) 
+
+### #is_/same_as :: [Rømer,Ole.protect](/_protect/Astronomy/Astronomer/Rømer,Ole.protect.md) 
+
+### #is_/same_as :: [Rømer,Ole.private](/_private/Astronomy/Astronomer/Rømer,Ole.private.md) 
+
+### #is_/same_as :: [Rømer,Ole.personal](/_personal/Astronomy/Astronomer/Rømer,Ole.personal.md) 
+
+### #is_/same_as :: [Rømer,Ole.secret](/_secret/Astronomy/Astronomer/Rømer,Ole.secret.md)
+

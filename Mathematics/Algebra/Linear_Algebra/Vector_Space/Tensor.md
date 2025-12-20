@@ -33,3 +33,22 @@ Commons_category: Tensors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tensor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tensor](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.md) 
+
+### #is_/same_as :: [Tensor.public](/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.public.md) 
+
+### #is_/same_as :: [Tensor.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.internal.md) 
+
+### #is_/same_as :: [Tensor.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.protect.md) 
+
+### #is_/same_as :: [Tensor.private](/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.private.md) 
+
+### #is_/same_as :: [Tensor.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.personal.md) 
+
+### #is_/same_as :: [Tensor.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.secret.md)
+

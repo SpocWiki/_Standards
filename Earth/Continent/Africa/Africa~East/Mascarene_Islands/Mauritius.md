@@ -465,17 +465,17 @@ Capital :: [[Port_Louis]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mauritius](/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.md) 
+### #is_/same_as :: [Mauritius](/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.md) 
 
-### #is_/same_as :: [Mauritius.public](/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.public.md) 
+### #is_/same_as :: [Mauritius.public](/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.public.md) 
 
-### #is_/same_as :: [Mauritius.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.internal.md) 
+### #is_/same_as :: [Mauritius.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.internal.md) 
 
-### #is_/same_as :: [Mauritius.protect](/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.protect.md) 
+### #is_/same_as :: [Mauritius.protect](/_protect/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.protect.md) 
 
-### #is_/same_as :: [Mauritius.private](/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.private.md) 
+### #is_/same_as :: [Mauritius.private](/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.private.md) 
 
-### #is_/same_as :: [Mauritius.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.personal.md) 
+### #is_/same_as :: [Mauritius.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.personal.md) 
 
-### #is_/same_as :: [Mauritius.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.secret.md)
+### #is_/same_as :: [Mauritius.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.secret.md)
 

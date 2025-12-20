@@ -31,3 +31,22 @@ Commons_category: Euclidean algorithm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20algorithm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euclidean_Algorithm](/_Standards/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.md) 
+
+### #is_/same_as :: [Euclidean_Algorithm.public](/_public/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.public.md) 
+
+### #is_/same_as :: [Euclidean_Algorithm.internal](/_internal/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.internal.md) 
+
+### #is_/same_as :: [Euclidean_Algorithm.protect](/_protect/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.protect.md) 
+
+### #is_/same_as :: [Euclidean_Algorithm.private](/_private/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.private.md) 
+
+### #is_/same_as :: [Euclidean_Algorithm.personal](/_personal/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.personal.md) 
+
+### #is_/same_as :: [Euclidean_Algorithm.secret](/_secret/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.secret.md)
+

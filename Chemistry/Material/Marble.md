@@ -79,3 +79,22 @@ Marble is moderately hard, which makes for versatile Application, but gets very 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marble) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marble](/_Standards/Chemistry/Material/Marble.md) 
+
+### #is_/same_as :: [Marble.public](/_public/Chemistry/Material/Marble.public.md) 
+
+### #is_/same_as :: [Marble.internal](/_internal/Chemistry/Material/Marble.internal.md) 
+
+### #is_/same_as :: [Marble.protect](/_protect/Chemistry/Material/Marble.protect.md) 
+
+### #is_/same_as :: [Marble.private](/_private/Chemistry/Material/Marble.private.md) 
+
+### #is_/same_as :: [Marble.personal](/_personal/Chemistry/Material/Marble.personal.md) 
+
+### #is_/same_as :: [Marble.secret](/_secret/Chemistry/Material/Marble.secret.md)
+

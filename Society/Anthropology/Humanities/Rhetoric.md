@@ -54,3 +54,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/RITORIKA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhetoric) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rhetoric](/_Standards/Society/Anthropology/Humanities/Rhetoric.md) 
+
+### #is_/same_as :: [Rhetoric.public](/_public/Society/Anthropology/Humanities/Rhetoric.public.md) 
+
+### #is_/same_as :: [Rhetoric.internal](/_internal/Society/Anthropology/Humanities/Rhetoric.internal.md) 
+
+### #is_/same_as :: [Rhetoric.protect](/_protect/Society/Anthropology/Humanities/Rhetoric.protect.md) 
+
+### #is_/same_as :: [Rhetoric.private](/_private/Society/Anthropology/Humanities/Rhetoric.private.md) 
+
+### #is_/same_as :: [Rhetoric.personal](/_personal/Society/Anthropology/Humanities/Rhetoric.personal.md) 
+
+### #is_/same_as :: [Rhetoric.secret](/_secret/Society/Anthropology/Humanities/Rhetoric.secret.md)
+

@@ -40,3 +40,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Helmet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Helmet](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Helmet.md) 
+
+### #is_/same_as :: [Helmet.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Helmet.public.md) 
+
+### #is_/same_as :: [Helmet.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Helmet.internal.md) 
+
+### #is_/same_as :: [Helmet.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Helmet.protect.md) 
+
+### #is_/same_as :: [Helmet.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Helmet.private.md) 
+
+### #is_/same_as :: [Helmet.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Helmet.personal.md) 
+
+### #is_/same_as :: [Helmet.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Helmet.secret.md)
+

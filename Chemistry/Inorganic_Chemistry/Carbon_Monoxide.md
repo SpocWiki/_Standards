@@ -125,21 +125,19 @@ canonical_SMILES: "[C-]#[O+]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon%20monoxide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carbon_Monoxide](Carbon_Monoxide.md) 
+### #is_/same_as :: [Carbon_Monoxide](/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.md) 
 
-### #is_/same_as :: [Carbon_Monoxide.public](/_public/Chemistry/inOrganic/Carbon_Monoxide.public.md) 
+### #is_/same_as :: [Carbon_Monoxide.public](/_public/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.public.md) 
 
-### #is_/same_as :: [Carbon_Monoxide.internal](/_internal/Chemistry/inOrganic/Carbon_Monoxide.internal.md) 
+### #is_/same_as :: [Carbon_Monoxide.internal](/_internal/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.internal.md) 
 
-### #is_/same_as :: [Carbon_Monoxide.protect](/_protect/Chemistry/inOrganic/Carbon_Monoxide.protect.md) 
+### #is_/same_as :: [Carbon_Monoxide.protect](/_protect/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.protect.md) 
 
-### #is_/same_as :: [Carbon_Monoxide.private](/_private/Chemistry/inOrganic/Carbon_Monoxide.private.md) 
+### #is_/same_as :: [Carbon_Monoxide.private](/_private/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.private.md) 
 
-### #is_/same_as :: [Carbon_Monoxide.personal](/_personal/Chemistry/inOrganic/Carbon_Monoxide.personal.md) 
+### #is_/same_as :: [Carbon_Monoxide.personal](/_personal/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.personal.md) 
 
-### #is_/same_as :: [Carbon_Monoxide.secret](/_secret/Chemistry/inOrganic/Carbon_Monoxide.secret.md)
+### #is_/same_as :: [Carbon_Monoxide.secret](/_secret/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.secret.md)
 

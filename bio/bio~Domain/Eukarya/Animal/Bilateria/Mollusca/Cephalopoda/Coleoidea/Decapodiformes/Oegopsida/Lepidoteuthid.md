@@ -149,7 +149,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Reference         Lepidoteuthis grimaldii image from Clarke, M. R. 1964. Young stages of Lepidoteuthis grimaldii (Cephalopoda, Decapoda). Proc. Malac. Soc. Lond. 36:69-78. Pholidoteuthis adami image from Goldman, D. A. 1995. A juvenile of the scaled squid, Pholidoteuthis adami Voss, 1956 (Cephalopoda: Oegopsida), from the Florida Keys. Proc. Biol. Soc. Wash. 108:136-146. (3)
   Creator           Octopoteuthis neilseni photograph by R. E. Young
   Copyright ::         © 1999 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  ---------------------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -46,3 +46,22 @@ Commons_gallery: 能
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Noh) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Noh](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Noh.md) 
+
+### #is_/same_as :: [Noh.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Noh.public.md) 
+
+### #is_/same_as :: [Noh.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Noh.internal.md) 
+
+### #is_/same_as :: [Noh.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Noh.protect.md) 
+
+### #is_/same_as :: [Noh.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Noh.private.md) 
+
+### #is_/same_as :: [Noh.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Noh.personal.md) 
+
+### #is_/same_as :: [Noh.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Noh.secret.md)
+

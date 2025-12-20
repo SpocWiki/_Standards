@@ -151,3 +151,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/EMERSON_RALF_UOLDO
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ralph%20Waldo%20Emerson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Emerson,Ralph_Waldo](/_Standards/Philosophy/Philosopher/Emerson,Ralph_Waldo.md) 
+
+### #is_/same_as :: [Emerson,Ralph_Waldo.public](/_public/Philosophy/Philosopher/Emerson,Ralph_Waldo.public.md) 
+
+### #is_/same_as :: [Emerson,Ralph_Waldo.internal](/_internal/Philosophy/Philosopher/Emerson,Ralph_Waldo.internal.md) 
+
+### #is_/same_as :: [Emerson,Ralph_Waldo.protect](/_protect/Philosophy/Philosopher/Emerson,Ralph_Waldo.protect.md) 
+
+### #is_/same_as :: [Emerson,Ralph_Waldo.private](/_private/Philosophy/Philosopher/Emerson,Ralph_Waldo.private.md) 
+
+### #is_/same_as :: [Emerson,Ralph_Waldo.personal](/_personal/Philosophy/Philosopher/Emerson,Ralph_Waldo.personal.md) 
+
+### #is_/same_as :: [Emerson,Ralph_Waldo.secret](/_secret/Philosophy/Philosopher/Emerson,Ralph_Waldo.secret.md)
+

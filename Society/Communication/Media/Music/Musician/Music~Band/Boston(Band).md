@@ -41,17 +41,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boston(Band)](Boston(Band).md) 
+### #is_/same_as :: [Boston(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band).md) 
 
-### #is_/same_as :: [Boston(band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).public.md) 
+### #is_/same_as :: [Boston(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band).public.md) 
 
-### #is_/same_as :: [Boston(band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).internal.md) 
+### #is_/same_as :: [Boston(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band).internal.md) 
 
-### #is_/same_as :: [Boston(band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).protect.md) 
+### #is_/same_as :: [Boston(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band).protect.md) 
 
-### #is_/same_as :: [Boston(band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).private.md) 
+### #is_/same_as :: [Boston(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band).private.md) 
 
-### #is_/same_as :: [Boston(band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).personal.md) 
+### #is_/same_as :: [Boston(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band).personal.md) 
 
-### #is_/same_as :: [Boston(band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).secret.md)
+### #is_/same_as :: [Boston(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band).secret.md)
 

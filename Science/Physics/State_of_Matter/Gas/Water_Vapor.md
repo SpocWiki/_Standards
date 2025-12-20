@@ -74,3 +74,22 @@ Commons_category: Water vapor
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20vapor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Water_Vapor](/_Standards/Science/Physics/State_of_Matter/Gas/Water_Vapor.md) 
+
+### #is_/same_as :: [Water_Vapor.public](/_public/Science/Physics/State_of_Matter/Gas/Water_Vapor.public.md) 
+
+### #is_/same_as :: [Water_Vapor.internal](/_internal/Science/Physics/State_of_Matter/Gas/Water_Vapor.internal.md) 
+
+### #is_/same_as :: [Water_Vapor.protect](/_protect/Science/Physics/State_of_Matter/Gas/Water_Vapor.protect.md) 
+
+### #is_/same_as :: [Water_Vapor.private](/_private/Science/Physics/State_of_Matter/Gas/Water_Vapor.private.md) 
+
+### #is_/same_as :: [Water_Vapor.personal](/_personal/Science/Physics/State_of_Matter/Gas/Water_Vapor.personal.md) 
+
+### #is_/same_as :: [Water_Vapor.secret](/_secret/Science/Physics/State_of_Matter/Gas/Water_Vapor.secret.md)
+

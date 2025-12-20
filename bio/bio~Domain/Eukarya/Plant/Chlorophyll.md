@@ -63,3 +63,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chlorophyll) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chlorophyll](/_Standards/bio/bio~Domain/Eukarya/Plant/Chlorophyll.md) 
+
+### #is_/same_as :: [Chlorophyll.public](/_public/bio/bio~Domain/Eukarya/Plant/Chlorophyll.public.md) 
+
+### #is_/same_as :: [Chlorophyll.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Chlorophyll.internal.md) 
+
+### #is_/same_as :: [Chlorophyll.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Chlorophyll.protect.md) 
+
+### #is_/same_as :: [Chlorophyll.private](/_private/bio/bio~Domain/Eukarya/Plant/Chlorophyll.private.md) 
+
+### #is_/same_as :: [Chlorophyll.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Chlorophyll.personal.md) 
+
+### #is_/same_as :: [Chlorophyll.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Chlorophyll.secret.md)
+

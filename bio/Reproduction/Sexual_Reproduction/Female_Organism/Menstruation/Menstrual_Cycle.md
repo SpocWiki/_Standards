@@ -40,3 +40,22 @@ MeSH_tree_code: G08.686.605
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Menstrual%20cycle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Menstrual_Cycle](/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.md) 
+
+### #is_/same_as :: [Menstrual_Cycle.public](/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.public.md) 
+
+### #is_/same_as :: [Menstrual_Cycle.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.internal.md) 
+
+### #is_/same_as :: [Menstrual_Cycle.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.protect.md) 
+
+### #is_/same_as :: [Menstrual_Cycle.private](/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.private.md) 
+
+### #is_/same_as :: [Menstrual_Cycle.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.personal.md) 
+
+### #is_/same_as :: [Menstrual_Cycle.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation/Menstrual_Cycle.secret.md)
+

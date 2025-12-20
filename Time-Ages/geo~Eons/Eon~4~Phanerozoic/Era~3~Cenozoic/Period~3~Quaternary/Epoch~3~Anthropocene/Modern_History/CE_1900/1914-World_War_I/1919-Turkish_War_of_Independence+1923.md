@@ -47,3 +47,22 @@ start_time: 1919-05-19T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20War%20of%20Independence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1919-Turkish_War_of_Independence+1923](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.md) 
+
+### #is_/same_as :: [1919-Turkish_War_of_Independence+1923.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.public.md) 
+
+### #is_/same_as :: [1919-Turkish_War_of_Independence+1923.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.internal.md) 
+
+### #is_/same_as :: [1919-Turkish_War_of_Independence+1923.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.protect.md) 
+
+### #is_/same_as :: [1919-Turkish_War_of_Independence+1923.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.private.md) 
+
+### #is_/same_as :: [1919-Turkish_War_of_Independence+1923.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.personal.md) 
+
+### #is_/same_as :: [1919-Turkish_War_of_Independence+1923.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.secret.md)
+

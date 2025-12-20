@@ -42,3 +42,22 @@ Commons_category: Optical discs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Optical%20disc) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Optical_Disc](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.md) 
+
+### #is_/same_as :: [Optical_Disc.public](/_public/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.public.md) 
+
+### #is_/same_as :: [Optical_Disc.internal](/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.internal.md) 
+
+### #is_/same_as :: [Optical_Disc.protect](/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.protect.md) 
+
+### #is_/same_as :: [Optical_Disc.private](/_private/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.private.md) 
+
+### #is_/same_as :: [Optical_Disc.personal](/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.personal.md) 
+
+### #is_/same_as :: [Optical_Disc.secret](/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.secret.md)
+

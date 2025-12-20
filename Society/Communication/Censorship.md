@@ -70,3 +70,22 @@ Commons_category: Censorship
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Censorship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Censorship](/_Standards/Society/Communication/Censorship.md) 
+
+### #is_/same_as :: [Censorship.public](/_public/Society/Communication/Censorship.public.md) 
+
+### #is_/same_as :: [Censorship.internal](/_internal/Society/Communication/Censorship.internal.md) 
+
+### #is_/same_as :: [Censorship.protect](/_protect/Society/Communication/Censorship.protect.md) 
+
+### #is_/same_as :: [Censorship.private](/_private/Society/Communication/Censorship.private.md) 
+
+### #is_/same_as :: [Censorship.personal](/_personal/Society/Communication/Censorship.personal.md) 
+
+### #is_/same_as :: [Censorship.secret](/_secret/Society/Communication/Censorship.secret.md)
+

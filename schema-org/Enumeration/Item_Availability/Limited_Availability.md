@@ -40,17 +40,17 @@ Indicates that the item has limited availability.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Limited_Availability](Limited_Availability.md) 
+### #is_/same_as :: [Limited_Availability](/_Standards/schema-org/Enumeration/Item_Availability/Limited_Availability.md) 
 
-### #is_/same_as :: [limited_availability.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.public.md) 
+### #is_/same_as :: [Limited_Availability.public](/_public/schema-org/Enumeration/Item_Availability/Limited_Availability.public.md) 
 
-### #is_/same_as :: [limited_availability.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.internal.md) 
+### #is_/same_as :: [Limited_Availability.internal](/_internal/schema-org/Enumeration/Item_Availability/Limited_Availability.internal.md) 
 
-### #is_/same_as :: [limited_availability.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.protect.md) 
+### #is_/same_as :: [Limited_Availability.protect](/_protect/schema-org/Enumeration/Item_Availability/Limited_Availability.protect.md) 
 
-### #is_/same_as :: [limited_availability.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.private.md) 
+### #is_/same_as :: [Limited_Availability.private](/_private/schema-org/Enumeration/Item_Availability/Limited_Availability.private.md) 
 
-### #is_/same_as :: [limited_availability.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.personal.md) 
+### #is_/same_as :: [Limited_Availability.personal](/_personal/schema-org/Enumeration/Item_Availability/Limited_Availability.personal.md) 
 
-### #is_/same_as :: [limited_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.secret.md)
+### #is_/same_as :: [Limited_Availability.secret](/_secret/schema-org/Enumeration/Item_Availability/Limited_Availability.secret.md)
 

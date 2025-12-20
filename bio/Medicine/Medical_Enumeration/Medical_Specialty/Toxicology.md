@@ -93,17 +93,17 @@ their nature, effects and detection and involved in the treatment of poisoning.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [toxicologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.md) 
+### #is_/same_as :: [Toxicology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.md) 
 
-### #is_/same_as :: [toxicologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.public.md) 
+### #is_/same_as :: [Toxicology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.public.md) 
 
-### #is_/same_as :: [toxicologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.internal.md) 
+### #is_/same_as :: [Toxicology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.internal.md) 
 
-### #is_/same_as :: [toxicologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.protect.md) 
+### #is_/same_as :: [Toxicology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.protect.md) 
 
-### #is_/same_as :: [toxicologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.private.md) 
+### #is_/same_as :: [Toxicology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.private.md) 
 
-### #is_/same_as :: [toxicologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.personal.md) 
+### #is_/same_as :: [Toxicology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.personal.md) 
 
-### #is_/same_as :: [toxicologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.secret.md)
+### #is_/same_as :: [Toxicology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology.secret.md)
 

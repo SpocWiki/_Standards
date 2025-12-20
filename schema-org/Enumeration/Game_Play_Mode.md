@@ -37,17 +37,17 @@ Indicates whether this game is multi-player, co-op or single-player.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Game_Play_Mode](Game_Play_Mode.md) 
+### #is_/same_as :: [Game_Play_Mode](/_Standards/schema-org/Enumeration/Game_Play_Mode.md) 
 
-### #is_/same_as :: [game_play_mode.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.public.md) 
+### #is_/same_as :: [Game_Play_Mode.public](/_public/schema-org/Enumeration/Game_Play_Mode.public.md) 
 
-### #is_/same_as :: [game_play_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.internal.md) 
+### #is_/same_as :: [Game_Play_Mode.internal](/_internal/schema-org/Enumeration/Game_Play_Mode.internal.md) 
 
-### #is_/same_as :: [game_play_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.protect.md) 
+### #is_/same_as :: [Game_Play_Mode.protect](/_protect/schema-org/Enumeration/Game_Play_Mode.protect.md) 
 
-### #is_/same_as :: [game_play_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.private.md) 
+### #is_/same_as :: [Game_Play_Mode.private](/_private/schema-org/Enumeration/Game_Play_Mode.private.md) 
 
-### #is_/same_as :: [game_play_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.personal.md) 
+### #is_/same_as :: [Game_Play_Mode.personal](/_personal/schema-org/Enumeration/Game_Play_Mode.personal.md) 
 
-### #is_/same_as :: [game_play_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.secret.md)
+### #is_/same_as :: [Game_Play_Mode.secret](/_secret/schema-org/Enumeration/Game_Play_Mode.secret.md)
 

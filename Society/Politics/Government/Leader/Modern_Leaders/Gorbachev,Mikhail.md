@@ -201,3 +201,22 @@ X_Twitter_username: mgorbachev
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Gorbachev) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gorbachev,Mikhail](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.md) 
+
+### #is_/same_as :: [Gorbachev,Mikhail.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.public.md) 
+
+### #is_/same_as :: [Gorbachev,Mikhail.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.internal.md) 
+
+### #is_/same_as :: [Gorbachev,Mikhail.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.protect.md) 
+
+### #is_/same_as :: [Gorbachev,Mikhail.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.private.md) 
+
+### #is_/same_as :: [Gorbachev,Mikhail.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.personal.md) 
+
+### #is_/same_as :: [Gorbachev,Mikhail.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.secret.md)
+

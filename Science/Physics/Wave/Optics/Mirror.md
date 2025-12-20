@@ -19,3 +19,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mirror) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mirror](/_Standards/Science/Physics/Wave/Optics/Mirror.md) 
+
+### #is_/same_as :: [Mirror.public](/_public/Science/Physics/Wave/Optics/Mirror.public.md) 
+
+### #is_/same_as :: [Mirror.internal](/_internal/Science/Physics/Wave/Optics/Mirror.internal.md) 
+
+### #is_/same_as :: [Mirror.protect](/_protect/Science/Physics/Wave/Optics/Mirror.protect.md) 
+
+### #is_/same_as :: [Mirror.private](/_private/Science/Physics/Wave/Optics/Mirror.private.md) 
+
+### #is_/same_as :: [Mirror.personal](/_personal/Science/Physics/Wave/Optics/Mirror.personal.md) 
+
+### #is_/same_as :: [Mirror.secret](/_secret/Science/Physics/Wave/Optics/Mirror.secret.md)
+

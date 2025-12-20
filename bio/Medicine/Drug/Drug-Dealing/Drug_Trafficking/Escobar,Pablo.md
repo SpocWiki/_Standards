@@ -138,3 +138,22 @@ ISNI: "0000000122792940"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pablo%20Escobar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Escobar,Pablo](/_Standards/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.md) 
+
+### #is_/same_as :: [Escobar,Pablo.public](/_public/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.public.md) 
+
+### #is_/same_as :: [Escobar,Pablo.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.internal.md) 
+
+### #is_/same_as :: [Escobar,Pablo.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.protect.md) 
+
+### #is_/same_as :: [Escobar,Pablo.private](/_private/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.private.md) 
+
+### #is_/same_as :: [Escobar,Pablo.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.personal.md) 
+
+### #is_/same_as :: [Escobar,Pablo.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.secret.md)
+

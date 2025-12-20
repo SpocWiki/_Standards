@@ -60,3 +60,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnitude%20(astronomy)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magnitude(Astronomy)](/_Standards/Astronomy/Magnitude(Astronomy).md) 
+
+### #is_/same_as :: [Magnitude(Astronomy).public](/_public/Astronomy/Magnitude(Astronomy).public.md) 
+
+### #is_/same_as :: [Magnitude(Astronomy).internal](/_internal/Astronomy/Magnitude(Astronomy).internal.md) 
+
+### #is_/same_as :: [Magnitude(Astronomy).protect](/_protect/Astronomy/Magnitude(Astronomy).protect.md) 
+
+### #is_/same_as :: [Magnitude(Astronomy).private](/_private/Astronomy/Magnitude(Astronomy).private.md) 
+
+### #is_/same_as :: [Magnitude(Astronomy).personal](/_personal/Astronomy/Magnitude(Astronomy).personal.md) 
+
+### #is_/same_as :: [Magnitude(Astronomy).secret](/_secret/Astronomy/Magnitude(Astronomy).secret.md)
+

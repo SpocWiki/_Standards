@@ -83,3 +83,22 @@ start_time: 1947-11-06T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meet%20the%20Press) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meet_the_Press](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.md) 
+
+### #is_/same_as :: [Meet_the_Press.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.public.md) 
+
+### #is_/same_as :: [Meet_the_Press.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.internal.md) 
+
+### #is_/same_as :: [Meet_the_Press.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.protect.md) 
+
+### #is_/same_as :: [Meet_the_Press.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.private.md) 
+
+### #is_/same_as :: [Meet_the_Press.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.personal.md) 
+
+### #is_/same_as :: [Meet_the_Press.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.secret.md)
+

@@ -53,19 +53,19 @@ Libris_URI: zw9cb0sh4mdhtcr
 > [Wikipedia](https://en.wikipedia.org/wiki/Indo-Iranian%20languages) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.md) 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.public.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.public.md) 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.internal.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.internal.md) 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.protect.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.protect.md) 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.private.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.private.md) 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.personal.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.personal.md) 
 
-### #is_/same_as :: [LangFamily-Indo-Iranian.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.secret.md)
+### #is_/same_as :: [LangFamily-Indo-Iranian.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.secret.md)
+

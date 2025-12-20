@@ -161,17 +161,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/48638
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Machiavelli.Niccolò](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli.Niccolò.md) 
+### #is_/same_as :: [Machiavelli,Niccolò](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.public](/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli.Niccolò.public.md) 
+### #is_/same_as :: [Machiavelli,Niccolò.public](/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò.public.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli.Niccolò.internal.md) 
+### #is_/same_as :: [Machiavelli,Niccolò.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò.internal.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli.Niccolò.protect.md) 
+### #is_/same_as :: [Machiavelli,Niccolò.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò.protect.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.private](/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli.Niccolò.private.md) 
+### #is_/same_as :: [Machiavelli,Niccolò.private](/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò.private.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli.Niccolò.personal.md) 
+### #is_/same_as :: [Machiavelli,Niccolò.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò.personal.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli.Niccolò.secret.md)
+### #is_/same_as :: [Machiavelli,Niccolò.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò.secret.md)
 

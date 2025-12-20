@@ -79,3 +79,22 @@ Baidu_Tieba_name: 纪录片
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Documentary%20film) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Documentary_Film](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.md) 
+
+### #is_/same_as :: [Documentary_Film.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.public.md) 
+
+### #is_/same_as :: [Documentary_Film.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.internal.md) 
+
+### #is_/same_as :: [Documentary_Film.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.protect.md) 
+
+### #is_/same_as :: [Documentary_Film.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.private.md) 
+
+### #is_/same_as :: [Documentary_Film.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.personal.md) 
+
+### #is_/same_as :: [Documentary_Film.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.secret.md)
+

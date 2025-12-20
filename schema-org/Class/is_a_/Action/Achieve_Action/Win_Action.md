@@ -39,17 +39,17 @@ The act of achieving victory in a competitive activity.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [win_action](/_Standards/schema-org/Class/is_a_/action/achieve_action/win_action.md) 
+### #is_/same_as :: [Win_Action](/_Standards/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.md) 
 
-### #is_/same_as :: [win_action.public](/_public/schema-org/Class/is_a_/action/achieve_action/win_action.public.md) 
+### #is_/same_as :: [Win_Action.public](/_public/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.public.md) 
 
-### #is_/same_as :: [win_action.internal](/_internal/schema-org/Class/is_a_/action/achieve_action/win_action.internal.md) 
+### #is_/same_as :: [Win_Action.internal](/_internal/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.internal.md) 
 
-### #is_/same_as :: [win_action.protect](/_protect/schema-org/Class/is_a_/action/achieve_action/win_action.protect.md) 
+### #is_/same_as :: [Win_Action.protect](/_protect/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.protect.md) 
 
-### #is_/same_as :: [win_action.private](/_private/schema-org/Class/is_a_/action/achieve_action/win_action.private.md) 
+### #is_/same_as :: [Win_Action.private](/_private/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.private.md) 
 
-### #is_/same_as :: [win_action.personal](/_personal/schema-org/Class/is_a_/action/achieve_action/win_action.personal.md) 
+### #is_/same_as :: [Win_Action.personal](/_personal/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.personal.md) 
 
-### #is_/same_as :: [win_action.secret](/_secret/schema-org/Class/is_a_/action/achieve_action/win_action.secret.md)
+### #is_/same_as :: [Win_Action.secret](/_secret/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.secret.md)
 

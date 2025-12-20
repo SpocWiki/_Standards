@@ -87,3 +87,22 @@ P1015: "90982174"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Willem%20Barentsz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Barents,Willem](/_Standards/Earth/Explorer/Barents,Willem.md) 
+
+### #is_/same_as :: [Barents,Willem.public](/_public/Earth/Explorer/Barents,Willem.public.md) 
+
+### #is_/same_as :: [Barents,Willem.internal](/_internal/Earth/Explorer/Barents,Willem.internal.md) 
+
+### #is_/same_as :: [Barents,Willem.protect](/_protect/Earth/Explorer/Barents,Willem.protect.md) 
+
+### #is_/same_as :: [Barents,Willem.private](/_private/Earth/Explorer/Barents,Willem.private.md) 
+
+### #is_/same_as :: [Barents,Willem.personal](/_personal/Earth/Explorer/Barents,Willem.personal.md) 
+
+### #is_/same_as :: [Barents,Willem.secret](/_secret/Earth/Explorer/Barents,Willem.secret.md)
+

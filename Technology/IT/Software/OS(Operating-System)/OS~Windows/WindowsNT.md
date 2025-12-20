@@ -34,3 +34,22 @@ cost 86M€
 > Many system services including: Windows shell, Windows API, Native API, Active Directory, Group Policy, Hardware Abstraction Layer, NTFS, BitLocker, Windows Store, Windows Update, and Hyper-V
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Windows%20NT)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [WindowsNT](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.md) 
+
+### #is_/same_as :: [WindowsNT.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.public.md) 
+
+### #is_/same_as :: [WindowsNT.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.internal.md) 
+
+### #is_/same_as :: [WindowsNT.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.protect.md) 
+
+### #is_/same_as :: [WindowsNT.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.private.md) 
+
+### #is_/same_as :: [WindowsNT.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.personal.md) 
+
+### #is_/same_as :: [WindowsNT.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.secret.md)
+

@@ -26,3 +26,21 @@ Commons_category: White wine
 > White wines are often used as an apéritif before a meal, with dessert, or as a refreshing drink between meals. White wines are often considered more refreshing and lighter in both style and taste than the majority of their red wine counterparts. Due to their acidity, aroma and ability to soften meat and deglaze cooking juices, white wines are often used in cooking.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/White%20wine)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [White_wine](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/White_wine.md) 
+
+### #is_/same_as :: [White_wine.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/White_wine.public.md) 
+
+### #is_/same_as :: [White_wine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/White_wine.internal.md) 
+
+### #is_/same_as :: [White_wine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/White_wine.protect.md) 
+
+### #is_/same_as :: [White_wine.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/White_wine.private.md) 
+
+### #is_/same_as :: [White_wine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/White_wine.personal.md) 
+
+### #is_/same_as :: [White_wine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/White_wine.secret.md)
+

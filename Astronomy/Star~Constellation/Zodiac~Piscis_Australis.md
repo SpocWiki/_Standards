@@ -73,6 +73,7 @@ short_name: PsA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Piscis%20Austrinus)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Piscis_Australis](/_Standards/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.md) 

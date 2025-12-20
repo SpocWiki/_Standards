@@ -92,3 +92,22 @@ By © <a href="//commons.wikimedia.org/wiki/User:Colin" title="User:Colin">User:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Shard) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shard,London](/_Standards/Earth/Geography/Place/Shard,London.md) 
+
+### #is_/same_as :: [Shard,London.public](/_public/Earth/Geography/Place/Shard,London.public.md) 
+
+### #is_/same_as :: [Shard,London.internal](/_internal/Earth/Geography/Place/Shard,London.internal.md) 
+
+### #is_/same_as :: [Shard,London.protect](/_protect/Earth/Geography/Place/Shard,London.protect.md) 
+
+### #is_/same_as :: [Shard,London.private](/_private/Earth/Geography/Place/Shard,London.private.md) 
+
+### #is_/same_as :: [Shard,London.personal](/_personal/Earth/Geography/Place/Shard,London.personal.md) 
+
+### #is_/same_as :: [Shard,London.secret](/_secret/Earth/Geography/Place/Shard,London.secret.md)
+

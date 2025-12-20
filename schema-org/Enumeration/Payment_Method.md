@@ -53,17 +53,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Method](Payment_Method.md) 
+### #is_/same_as :: [Payment_Method](/_Standards/schema-org/Enumeration/Payment_Method.md) 
 
-### #is_/same_as :: [payment_method.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/payment_method.public.md) 
+### #is_/same_as :: [Payment_Method.public](/_public/schema-org/Enumeration/Payment_Method.public.md) 
 
-### #is_/same_as :: [payment_method.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/payment_method.internal.md) 
+### #is_/same_as :: [Payment_Method.internal](/_internal/schema-org/Enumeration/Payment_Method.internal.md) 
 
-### #is_/same_as :: [payment_method.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/payment_method.protect.md) 
+### #is_/same_as :: [Payment_Method.protect](/_protect/schema-org/Enumeration/Payment_Method.protect.md) 
 
-### #is_/same_as :: [payment_method.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/payment_method.private.md) 
+### #is_/same_as :: [Payment_Method.private](/_private/schema-org/Enumeration/Payment_Method.private.md) 
 
-### #is_/same_as :: [payment_method.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/payment_method.personal.md) 
+### #is_/same_as :: [Payment_Method.personal](/_personal/schema-org/Enumeration/Payment_Method.personal.md) 
 
-### #is_/same_as :: [payment_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/payment_method.secret.md)
+### #is_/same_as :: [Payment_Method.secret](/_secret/schema-org/Enumeration/Payment_Method.secret.md)
 

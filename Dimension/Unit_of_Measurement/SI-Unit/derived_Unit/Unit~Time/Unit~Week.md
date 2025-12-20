@@ -28,3 +28,22 @@ has_id_wikidata: Q23387
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Week) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Week](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.md) 
+
+### #is_/same_as :: [Unit~Week.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.public.md) 
+
+### #is_/same_as :: [Unit~Week.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.internal.md) 
+
+### #is_/same_as :: [Unit~Week.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.protect.md) 
+
+### #is_/same_as :: [Unit~Week.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.private.md) 
+
+### #is_/same_as :: [Unit~Week.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.personal.md) 
+
+### #is_/same_as :: [Unit~Week.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.secret.md)
+

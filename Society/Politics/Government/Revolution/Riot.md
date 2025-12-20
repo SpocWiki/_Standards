@@ -49,3 +49,22 @@ Commons_category: Riots
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Riot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Riot](/_Standards/Society/Politics/Government/Revolution/Riot.md) 
+
+### #is_/same_as :: [Riot.public](/_public/Society/Politics/Government/Revolution/Riot.public.md) 
+
+### #is_/same_as :: [Riot.internal](/_internal/Society/Politics/Government/Revolution/Riot.internal.md) 
+
+### #is_/same_as :: [Riot.protect](/_protect/Society/Politics/Government/Revolution/Riot.protect.md) 
+
+### #is_/same_as :: [Riot.private](/_private/Society/Politics/Government/Revolution/Riot.private.md) 
+
+### #is_/same_as :: [Riot.personal](/_personal/Society/Politics/Government/Revolution/Riot.personal.md) 
+
+### #is_/same_as :: [Riot.secret](/_secret/Society/Politics/Government/Revolution/Riot.secret.md)
+

@@ -43,3 +43,22 @@ name_in_kana: コール・アングレ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cor%20anglais) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cor_anglais](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.md) 
+
+### #is_/same_as :: [Cor_anglais.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.public.md) 
+
+### #is_/same_as :: [Cor_anglais.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.internal.md) 
+
+### #is_/same_as :: [Cor_anglais.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.protect.md) 
+
+### #is_/same_as :: [Cor_anglais.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.private.md) 
+
+### #is_/same_as :: [Cor_anglais.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.personal.md) 
+
+### #is_/same_as :: [Cor_anglais.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.secret.md)
+

@@ -45,3 +45,22 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ELEKTRONNIE_SHEM
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electronic%20circuit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electronic_Circuit](/_Standards/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.md) 
+
+### #is_/same_as :: [Electronic_Circuit.public](/_public/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.public.md) 
+
+### #is_/same_as :: [Electronic_Circuit.internal](/_internal/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.internal.md) 
+
+### #is_/same_as :: [Electronic_Circuit.protect](/_protect/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.protect.md) 
+
+### #is_/same_as :: [Electronic_Circuit.private](/_private/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.private.md) 
+
+### #is_/same_as :: [Electronic_Circuit.personal](/_personal/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.personal.md) 
+
+### #is_/same_as :: [Electronic_Circuit.secret](/_secret/Science/Physics/Electricity/Electrical_Network/Electronic_Circuit.secret.md)
+

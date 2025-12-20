@@ -58,3 +58,22 @@ Commons_category: Industrialists
 > [Wikipedia](https://en.wikipedia.org/wiki/Business%20magnate) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Industrialist](/_Standards/Society/Economics/Industry/Industrialist.md) 
+
+### #is_/same_as :: [Industrialist.public](/_public/Society/Economics/Industry/Industrialist.public.md) 
+
+### #is_/same_as :: [Industrialist.internal](/_internal/Society/Economics/Industry/Industrialist.internal.md) 
+
+### #is_/same_as :: [Industrialist.protect](/_protect/Society/Economics/Industry/Industrialist.protect.md) 
+
+### #is_/same_as :: [Industrialist.private](/_private/Society/Economics/Industry/Industrialist.private.md) 
+
+### #is_/same_as :: [Industrialist.personal](/_personal/Society/Economics/Industry/Industrialist.personal.md) 
+
+### #is_/same_as :: [Industrialist.secret](/_secret/Society/Economics/Industry/Industrialist.secret.md)
+

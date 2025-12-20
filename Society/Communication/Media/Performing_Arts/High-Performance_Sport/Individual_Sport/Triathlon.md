@@ -54,3 +54,22 @@ Dewey_Decimal_Classification: "796.4257"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triathlon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Triathlon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.md) 
+
+### #is_/same_as :: [Triathlon.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.public.md) 
+
+### #is_/same_as :: [Triathlon.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.internal.md) 
+
+### #is_/same_as :: [Triathlon.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.protect.md) 
+
+### #is_/same_as :: [Triathlon.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.private.md) 
+
+### #is_/same_as :: [Triathlon.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.personal.md) 
+
+### #is_/same_as :: [Triathlon.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.secret.md)
+

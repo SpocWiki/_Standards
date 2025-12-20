@@ -31,3 +31,22 @@ Commons_category: Watercraft
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Watercraft)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Watercraft](/_Standards/Technology/Transport/Water_Transport/Watercraft.md) 
+
+### #is_/same_as :: [Watercraft.public](/_public/Technology/Transport/Water_Transport/Watercraft.public.md) 
+
+### #is_/same_as :: [Watercraft.internal](/_internal/Technology/Transport/Water_Transport/Watercraft.internal.md) 
+
+### #is_/same_as :: [Watercraft.protect](/_protect/Technology/Transport/Water_Transport/Watercraft.protect.md) 
+
+### #is_/same_as :: [Watercraft.private](/_private/Technology/Transport/Water_Transport/Watercraft.private.md) 
+
+### #is_/same_as :: [Watercraft.personal](/_personal/Technology/Transport/Water_Transport/Watercraft.personal.md) 
+
+### #is_/same_as :: [Watercraft.secret](/_secret/Technology/Transport/Water_Transport/Watercraft.secret.md)
+

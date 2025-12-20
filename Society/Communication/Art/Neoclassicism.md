@@ -48,3 +48,22 @@ OpenStreetMap_tag: building:architecture=neoclassicism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neoclassicism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Neoclassicism](/_Standards/Society/Communication/Art/Neoclassicism.md) 
+
+### #is_/same_as :: [Neoclassicism.public](/_public/Society/Communication/Art/Neoclassicism.public.md) 
+
+### #is_/same_as :: [Neoclassicism.internal](/_internal/Society/Communication/Art/Neoclassicism.internal.md) 
+
+### #is_/same_as :: [Neoclassicism.protect](/_protect/Society/Communication/Art/Neoclassicism.protect.md) 
+
+### #is_/same_as :: [Neoclassicism.private](/_private/Society/Communication/Art/Neoclassicism.private.md) 
+
+### #is_/same_as :: [Neoclassicism.personal](/_personal/Society/Communication/Art/Neoclassicism.personal.md) 
+
+### #is_/same_as :: [Neoclassicism.secret](/_secret/Society/Communication/Art/Neoclassicism.secret.md)
+

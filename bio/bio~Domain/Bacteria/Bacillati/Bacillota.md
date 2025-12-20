@@ -85,32 +85,20 @@ low G+C Gram positives
     -   [Mollicutes](Mollicutes)
     -   [Bacilli](Bacilli)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Firmicutes](Firmicutes.md) 
+### #is_/same_as :: [Bacillota](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota.md) 
 
-### #is_/same_as :: [Firmicutes.public](/_public/bio/bio~Domain/Bacteria/Firmicutes.public.md) 
+### #is_/same_as :: [Bacillota.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Bacillota.public.md) 
 
-### #is_/same_as :: [Firmicutes.internal](/_internal/bio/bio~Domain/Bacteria/Firmicutes.internal.md) 
+### #is_/same_as :: [Bacillota.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Bacillota.internal.md) 
 
-### #is_/same_as :: [Firmicutes.protect](/_protect/bio/bio~Domain/Bacteria/Firmicutes.protect.md) 
+### #is_/same_as :: [Bacillota.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Bacillota.protect.md) 
 
-### #is_/same_as :: [Firmicutes.private](/_private/bio/bio~Domain/Bacteria/Firmicutes.private.md) 
+### #is_/same_as :: [Bacillota.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Bacillota.private.md) 
 
-### #is_/same_as :: [Firmicutes.personal](/_personal/bio/bio~Domain/Bacteria/Firmicutes.personal.md) 
+### #is_/same_as :: [Bacillota.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Bacillota.personal.md) 
 
-### #is_/same_as :: [Firmicutes.secret](/_secret/bio/bio~Domain/Bacteria/Firmicutes.secret.md)
+### #is_/same_as :: [Bacillota.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Bacillota.secret.md)
 
- 
-
-## Embedded Graph 
-
-
-![[Bacillota.svg]]
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

@@ -108,3 +108,22 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/December-banner-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/December) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [December](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.md) 
+
+### #is_/same_as :: [December.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.public.md) 
+
+### #is_/same_as :: [December.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.internal.md) 
+
+### #is_/same_as :: [December.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.protect.md) 
+
+### #is_/same_as :: [December.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.private.md) 
+
+### #is_/same_as :: [December.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.personal.md) 
+
+### #is_/same_as :: [December.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.secret.md)
+

@@ -51,3 +51,22 @@ Commons_gallery: Electrical switch
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Switch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrical_Switch](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.md) 
+
+### #is_/same_as :: [Electrical_Switch.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.public.md) 
+
+### #is_/same_as :: [Electrical_Switch.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.internal.md) 
+
+### #is_/same_as :: [Electrical_Switch.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.protect.md) 
+
+### #is_/same_as :: [Electrical_Switch.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.private.md) 
+
+### #is_/same_as :: [Electrical_Switch.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.personal.md) 
+
+### #is_/same_as :: [Electrical_Switch.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Switch.secret.md)
+

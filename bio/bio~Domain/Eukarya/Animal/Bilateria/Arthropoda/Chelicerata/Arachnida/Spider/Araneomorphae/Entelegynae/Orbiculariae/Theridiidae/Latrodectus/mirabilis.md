@@ -104,7 +104,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Identified By        Jeremy Miller
   Life Cycle Stage ::     Egg case
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
-  ---------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -107,3 +107,22 @@ native_label: Normaunds
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Normans) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Norman](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.md) 
+
+### #is_/same_as :: [Norman.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.public.md) 
+
+### #is_/same_as :: [Norman.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.internal.md) 
+
+### #is_/same_as :: [Norman.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.protect.md) 
+
+### #is_/same_as :: [Norman.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.private.md) 
+
+### #is_/same_as :: [Norman.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.personal.md) 
+
+### #is_/same_as :: [Norman.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.secret.md)
+

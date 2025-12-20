@@ -37,3 +37,22 @@ Commons_category: Mycelium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mycelium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mycelium](/_Standards/bio/bio~Domain/Eukarya/Fungi/Mycelium.md) 
+
+### #is_/same_as :: [Mycelium.public](/_public/bio/bio~Domain/Eukarya/Fungi/Mycelium.public.md) 
+
+### #is_/same_as :: [Mycelium.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Mycelium.internal.md) 
+
+### #is_/same_as :: [Mycelium.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Mycelium.protect.md) 
+
+### #is_/same_as :: [Mycelium.private](/_private/bio/bio~Domain/Eukarya/Fungi/Mycelium.private.md) 
+
+### #is_/same_as :: [Mycelium.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Mycelium.personal.md) 
+
+### #is_/same_as :: [Mycelium.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Mycelium.secret.md)
+

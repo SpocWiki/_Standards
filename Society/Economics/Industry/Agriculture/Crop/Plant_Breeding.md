@@ -68,3 +68,22 @@ MeSH_tree_code: J01.040.227.500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20breeding) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant_Breeding](/_Standards/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.md) 
+
+### #is_/same_as :: [Plant_Breeding.public](/_public/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.public.md) 
+
+### #is_/same_as :: [Plant_Breeding.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.internal.md) 
+
+### #is_/same_as :: [Plant_Breeding.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.protect.md) 
+
+### #is_/same_as :: [Plant_Breeding.private](/_private/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.private.md) 
+
+### #is_/same_as :: [Plant_Breeding.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.personal.md) 
+
+### #is_/same_as :: [Plant_Breeding.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Plant_Breeding.secret.md)
+

@@ -35,3 +35,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gibbs%20free%20energy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gibbs_free_Energy](/_Standards/Dimension/Energy/Gibbs_free_Energy.md) 
+
+### #is_/same_as :: [Gibbs_free_Energy.public](/_public/Dimension/Energy/Gibbs_free_Energy.public.md) 
+
+### #is_/same_as :: [Gibbs_free_Energy.internal](/_internal/Dimension/Energy/Gibbs_free_Energy.internal.md) 
+
+### #is_/same_as :: [Gibbs_free_Energy.protect](/_protect/Dimension/Energy/Gibbs_free_Energy.protect.md) 
+
+### #is_/same_as :: [Gibbs_free_Energy.private](/_private/Dimension/Energy/Gibbs_free_Energy.private.md) 
+
+### #is_/same_as :: [Gibbs_free_Energy.personal](/_personal/Dimension/Energy/Gibbs_free_Energy.personal.md) 
+
+### #is_/same_as :: [Gibbs_free_Energy.secret](/_secret/Dimension/Energy/Gibbs_free_Energy.secret.md)
+

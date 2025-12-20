@@ -76,3 +76,22 @@ UMLS_CUI: C0017426
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genocide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Genocide](/_Standards/Society/Military/Military_Operation/Combat/Genocide.md) 
+
+### #is_/same_as :: [Genocide.public](/_public/Society/Military/Military_Operation/Combat/Genocide.public.md) 
+
+### #is_/same_as :: [Genocide.internal](/_internal/Society/Military/Military_Operation/Combat/Genocide.internal.md) 
+
+### #is_/same_as :: [Genocide.protect](/_protect/Society/Military/Military_Operation/Combat/Genocide.protect.md) 
+
+### #is_/same_as :: [Genocide.private](/_private/Society/Military/Military_Operation/Combat/Genocide.private.md) 
+
+### #is_/same_as :: [Genocide.personal](/_personal/Society/Military/Military_Operation/Combat/Genocide.personal.md) 
+
+### #is_/same_as :: [Genocide.secret](/_secret/Society/Military/Military_Operation/Combat/Genocide.secret.md)
+

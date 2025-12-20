@@ -49,3 +49,22 @@ Commons_category: British Imperial units
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Imperial%20units) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Imperial_Unit](/_Standards/Dimension/Unit_of_Measurement/Imperial_Unit.md) 
+
+### #is_/same_as :: [Imperial_Unit.public](/_public/Dimension/Unit_of_Measurement/Imperial_Unit.public.md) 
+
+### #is_/same_as :: [Imperial_Unit.internal](/_internal/Dimension/Unit_of_Measurement/Imperial_Unit.internal.md) 
+
+### #is_/same_as :: [Imperial_Unit.protect](/_protect/Dimension/Unit_of_Measurement/Imperial_Unit.protect.md) 
+
+### #is_/same_as :: [Imperial_Unit.private](/_private/Dimension/Unit_of_Measurement/Imperial_Unit.private.md) 
+
+### #is_/same_as :: [Imperial_Unit.personal](/_personal/Dimension/Unit_of_Measurement/Imperial_Unit.personal.md) 
+
+### #is_/same_as :: [Imperial_Unit.secret](/_secret/Dimension/Unit_of_Measurement/Imperial_Unit.secret.md)
+

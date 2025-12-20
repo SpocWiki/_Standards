@@ -38,3 +38,22 @@ Commons_category: Rafts
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Raft) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Raft](/_Standards/Technology/Transport/Water_Transport/Watercraft/Raft.md) 
+
+### #is_/same_as :: [Raft.public](/_public/Technology/Transport/Water_Transport/Watercraft/Raft.public.md) 
+
+### #is_/same_as :: [Raft.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Raft.internal.md) 
+
+### #is_/same_as :: [Raft.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Raft.protect.md) 
+
+### #is_/same_as :: [Raft.private](/_private/Technology/Transport/Water_Transport/Watercraft/Raft.private.md) 
+
+### #is_/same_as :: [Raft.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Raft.personal.md) 
+
+### #is_/same_as :: [Raft.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Raft.secret.md)
+

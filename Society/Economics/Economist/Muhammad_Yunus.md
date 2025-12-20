@@ -154,3 +154,22 @@ X_Twitter_username: Yunus_Centre
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Muhammad%20Yunus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Muhammad_Yunus](/_Standards/Society/Economics/Economist/Muhammad_Yunus.md) 
+
+### #is_/same_as :: [Muhammad_Yunus.public](/_public/Society/Economics/Economist/Muhammad_Yunus.public.md) 
+
+### #is_/same_as :: [Muhammad_Yunus.internal](/_internal/Society/Economics/Economist/Muhammad_Yunus.internal.md) 
+
+### #is_/same_as :: [Muhammad_Yunus.protect](/_protect/Society/Economics/Economist/Muhammad_Yunus.protect.md) 
+
+### #is_/same_as :: [Muhammad_Yunus.private](/_private/Society/Economics/Economist/Muhammad_Yunus.private.md) 
+
+### #is_/same_as :: [Muhammad_Yunus.personal](/_personal/Society/Economics/Economist/Muhammad_Yunus.personal.md) 
+
+### #is_/same_as :: [Muhammad_Yunus.secret](/_secret/Society/Economics/Economist/Muhammad_Yunus.secret.md)
+

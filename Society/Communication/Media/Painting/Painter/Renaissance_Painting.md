@@ -23,3 +23,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Renaissance%20art) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Renaissance_Painting](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting.md) 
+
+### #is_/same_as :: [Renaissance_Painting.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting.public.md) 
+
+### #is_/same_as :: [Renaissance_Painting.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting.internal.md) 
+
+### #is_/same_as :: [Renaissance_Painting.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting.protect.md) 
+
+### #is_/same_as :: [Renaissance_Painting.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting.private.md) 
+
+### #is_/same_as :: [Renaissance_Painting.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting.personal.md) 
+
+### #is_/same_as :: [Renaissance_Painting.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting.secret.md)
+

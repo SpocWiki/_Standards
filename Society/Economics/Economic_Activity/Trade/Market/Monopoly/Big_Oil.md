@@ -16,3 +16,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Oil) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big_Oil](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.md) 
+
+### #is_/same_as :: [Big_Oil.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.public.md) 
+
+### #is_/same_as :: [Big_Oil.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.internal.md) 
+
+### #is_/same_as :: [Big_Oil.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.protect.md) 
+
+### #is_/same_as :: [Big_Oil.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.private.md) 
+
+### #is_/same_as :: [Big_Oil.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.personal.md) 
+
+### #is_/same_as :: [Big_Oil.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.secret.md)
+

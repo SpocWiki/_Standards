@@ -12,3 +12,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hymenoptera) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unicalcarida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.md) 
+
+### #is_/same_as :: [Unicalcarida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.public.md) 
+
+### #is_/same_as :: [Unicalcarida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.internal.md) 
+
+### #is_/same_as :: [Unicalcarida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.protect.md) 
+
+### #is_/same_as :: [Unicalcarida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.private.md) 
+
+### #is_/same_as :: [Unicalcarida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.personal.md) 
+
+### #is_/same_as :: [Unicalcarida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida.secret.md)
+

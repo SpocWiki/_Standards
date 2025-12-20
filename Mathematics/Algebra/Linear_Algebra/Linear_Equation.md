@@ -48,3 +48,22 @@ Wolfram_Language_entity_code: Entity["Concept", "LinearEquation::zvx7y"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Linear%20equation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Linear_Equation](/_Standards/Mathematics/Algebra/Linear_Algebra/Linear_Equation.md) 
+
+### #is_/same_as :: [Linear_Equation.public](/_public/Mathematics/Algebra/Linear_Algebra/Linear_Equation.public.md) 
+
+### #is_/same_as :: [Linear_Equation.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Linear_Equation.internal.md) 
+
+### #is_/same_as :: [Linear_Equation.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Linear_Equation.protect.md) 
+
+### #is_/same_as :: [Linear_Equation.private](/_private/Mathematics/Algebra/Linear_Algebra/Linear_Equation.private.md) 
+
+### #is_/same_as :: [Linear_Equation.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Linear_Equation.personal.md) 
+
+### #is_/same_as :: [Linear_Equation.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Linear_Equation.secret.md)
+

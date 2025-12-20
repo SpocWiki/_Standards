@@ -77,3 +77,22 @@ Dewey_Decimal_Classification: "808.82512"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tragedy](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Tragedy.md) 
+
+### #is_/same_as :: [Tragedy.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Tragedy.public.md) 
+
+### #is_/same_as :: [Tragedy.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Tragedy.internal.md) 
+
+### #is_/same_as :: [Tragedy.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Tragedy.protect.md) 
+
+### #is_/same_as :: [Tragedy.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Tragedy.private.md) 
+
+### #is_/same_as :: [Tragedy.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Tragedy.personal.md) 
+
+### #is_/same_as :: [Tragedy.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Tragedy.secret.md)
+

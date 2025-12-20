@@ -76,3 +76,22 @@ GeoNames_feature_code: S.FT
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fortification) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fortification](/_Standards/Society/Military/Military_Engineering/Defense/Fortification.md) 
+
+### #is_/same_as :: [Fortification.public](/_public/Society/Military/Military_Engineering/Defense/Fortification.public.md) 
+
+### #is_/same_as :: [Fortification.internal](/_internal/Society/Military/Military_Engineering/Defense/Fortification.internal.md) 
+
+### #is_/same_as :: [Fortification.protect](/_protect/Society/Military/Military_Engineering/Defense/Fortification.protect.md) 
+
+### #is_/same_as :: [Fortification.private](/_private/Society/Military/Military_Engineering/Defense/Fortification.private.md) 
+
+### #is_/same_as :: [Fortification.personal](/_personal/Society/Military/Military_Engineering/Defense/Fortification.personal.md) 
+
+### #is_/same_as :: [Fortification.secret](/_secret/Society/Military/Military_Engineering/Defense/Fortification.secret.md)
+

@@ -66,3 +66,22 @@ described_at_URL: http://www.nhc.noaa.gov/aboutsshws.php
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson%20scale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale](/_Standards/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.md) 
+
+### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.public](/_public/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.public.md) 
+
+### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.internal](/_internal/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.internal.md) 
+
+### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.protect](/_protect/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.protect.md) 
+
+### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.private](/_private/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.private.md) 
+
+### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.personal](/_personal/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.personal.md) 
+
+### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale.secret](/_secret/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.secret.md)
+

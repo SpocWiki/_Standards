@@ -157,3 +157,22 @@ date_of_birth: 1907-05-22T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laurence%20Olivier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Olivier,Laurence](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.md) 
+
+### #is_/same_as :: [Olivier,Laurence.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.public.md) 
+
+### #is_/same_as :: [Olivier,Laurence.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.internal.md) 
+
+### #is_/same_as :: [Olivier,Laurence.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.protect.md) 
+
+### #is_/same_as :: [Olivier,Laurence.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.private.md) 
+
+### #is_/same_as :: [Olivier,Laurence.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.personal.md) 
+
+### #is_/same_as :: [Olivier,Laurence.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.secret.md)
+

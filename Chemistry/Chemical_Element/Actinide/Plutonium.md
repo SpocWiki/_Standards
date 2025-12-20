@@ -136,17 +136,17 @@ Group :: [[../Actinide]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plutonium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Plutonium.md) 
+### #is_/same_as :: [Plutonium](/_Standards/Chemistry/Chemical_Element/Actinide/Plutonium.md) 
 
-### #is_/same_as :: [Plutonium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Plutonium.public.md) 
+### #is_/same_as :: [Plutonium.public](/_public/Chemistry/Chemical_Element/Actinide/Plutonium.public.md) 
 
-### #is_/same_as :: [Plutonium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Plutonium.internal.md) 
+### #is_/same_as :: [Plutonium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Plutonium.internal.md) 
 
-### #is_/same_as :: [Plutonium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Plutonium.protect.md) 
+### #is_/same_as :: [Plutonium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Plutonium.protect.md) 
 
-### #is_/same_as :: [Plutonium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Plutonium.private.md) 
+### #is_/same_as :: [Plutonium.private](/_private/Chemistry/Chemical_Element/Actinide/Plutonium.private.md) 
 
-### #is_/same_as :: [Plutonium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Plutonium.personal.md) 
+### #is_/same_as :: [Plutonium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Plutonium.personal.md) 
 
-### #is_/same_as :: [Plutonium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Plutonium.secret.md)
+### #is_/same_as :: [Plutonium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Plutonium.secret.md)
 

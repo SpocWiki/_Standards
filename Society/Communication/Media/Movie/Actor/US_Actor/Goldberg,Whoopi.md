@@ -182,3 +182,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Whoopi%20Goldberg%20Sp
 > [Wikipedia](https://en.wikipedia.org/wiki/Whoopi%20Goldberg) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goldberg,Whoopi](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.md) 
+
+### #is_/same_as :: [Goldberg,Whoopi.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.public.md) 
+
+### #is_/same_as :: [Goldberg,Whoopi.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.internal.md) 
+
+### #is_/same_as :: [Goldberg,Whoopi.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.protect.md) 
+
+### #is_/same_as :: [Goldberg,Whoopi.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.private.md) 
+
+### #is_/same_as :: [Goldberg,Whoopi.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.personal.md) 
+
+### #is_/same_as :: [Goldberg,Whoopi.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.secret.md)
+

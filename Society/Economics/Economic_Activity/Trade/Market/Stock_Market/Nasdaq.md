@@ -69,3 +69,22 @@ MIC_market_code: XNAS
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nasdaq) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nasdaq](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.md) 
+
+### #is_/same_as :: [Nasdaq.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.public.md) 
+
+### #is_/same_as :: [Nasdaq.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.internal.md) 
+
+### #is_/same_as :: [Nasdaq.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.protect.md) 
+
+### #is_/same_as :: [Nasdaq.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.private.md) 
+
+### #is_/same_as :: [Nasdaq.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.personal.md) 
+
+### #is_/same_as :: [Nasdaq.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.secret.md)
+

@@ -17,3 +17,22 @@ has_id_wikidata: Q189753
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20paganism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modern_Paganism](/_Standards/Philosophy/Metaphysic/Religion/Modern_Paganism.md) 
+
+### #is_/same_as :: [Modern_Paganism.public](/_public/Philosophy/Metaphysic/Religion/Modern_Paganism.public.md) 
+
+### #is_/same_as :: [Modern_Paganism.internal](/_internal/Philosophy/Metaphysic/Religion/Modern_Paganism.internal.md) 
+
+### #is_/same_as :: [Modern_Paganism.protect](/_protect/Philosophy/Metaphysic/Religion/Modern_Paganism.protect.md) 
+
+### #is_/same_as :: [Modern_Paganism.private](/_private/Philosophy/Metaphysic/Religion/Modern_Paganism.private.md) 
+
+### #is_/same_as :: [Modern_Paganism.personal](/_personal/Philosophy/Metaphysic/Religion/Modern_Paganism.personal.md) 
+
+### #is_/same_as :: [Modern_Paganism.secret](/_secret/Philosophy/Metaphysic/Religion/Modern_Paganism.secret.md)
+

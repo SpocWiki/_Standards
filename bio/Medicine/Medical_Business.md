@@ -41,17 +41,17 @@ A particular physical or virtual business of an organization for medical purpose
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Business](Medical_Business.md) 
+### #is_/same_as :: [Medical_Business](/_Standards/bio/Medicine/Medical_Business.md) 
 
-### #is_/same_as :: [Medical_Business.public](/_public/Society/Organization/Local_Business/Medical_Business.public.md) 
+### #is_/same_as :: [Medical_Business.public](/_public/bio/Medicine/Medical_Business.public.md) 
 
-### #is_/same_as :: [Medical_Business.internal](/_internal/Society/Organization/Local_Business/Medical_Business.internal.md) 
+### #is_/same_as :: [Medical_Business.internal](/_internal/bio/Medicine/Medical_Business.internal.md) 
 
-### #is_/same_as :: [Medical_Business.protect](/_protect/Society/Organization/Local_Business/Medical_Business.protect.md) 
+### #is_/same_as :: [Medical_Business.protect](/_protect/bio/Medicine/Medical_Business.protect.md) 
 
-### #is_/same_as :: [Medical_Business.private](/_private/Society/Organization/Local_Business/Medical_Business.private.md) 
+### #is_/same_as :: [Medical_Business.private](/_private/bio/Medicine/Medical_Business.private.md) 
 
-### #is_/same_as :: [Medical_Business.personal](/_personal/Society/Organization/Local_Business/Medical_Business.personal.md) 
+### #is_/same_as :: [Medical_Business.personal](/_personal/bio/Medicine/Medical_Business.personal.md) 
 
-### #is_/same_as :: [Medical_Business.secret](/_secret/Society/Organization/Local_Business/Medical_Business.secret.md)
+### #is_/same_as :: [Medical_Business.secret](/_secret/bio/Medicine/Medical_Business.secret.md)
 

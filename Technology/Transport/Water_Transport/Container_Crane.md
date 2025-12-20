@@ -27,3 +27,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Container_Crane](/_Standards/Technology/Transport/Water_Transport/Container_Crane.md) 
+
+### #is_/same_as :: [Container_Crane.public](/_public/Technology/Transport/Water_Transport/Container_Crane.public.md) 
+
+### #is_/same_as :: [Container_Crane.internal](/_internal/Technology/Transport/Water_Transport/Container_Crane.internal.md) 
+
+### #is_/same_as :: [Container_Crane.protect](/_protect/Technology/Transport/Water_Transport/Container_Crane.protect.md) 
+
+### #is_/same_as :: [Container_Crane.private](/_private/Technology/Transport/Water_Transport/Container_Crane.private.md) 
+
+### #is_/same_as :: [Container_Crane.personal](/_personal/Technology/Transport/Water_Transport/Container_Crane.personal.md) 
+
+### #is_/same_as :: [Container_Crane.secret](/_secret/Technology/Transport/Water_Transport/Container_Crane.secret.md)
+

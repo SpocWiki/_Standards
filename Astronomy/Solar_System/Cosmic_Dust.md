@@ -54,3 +54,22 @@ Commons_category: Interstellar dust
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmic%20dust) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cosmic_Dust](/_Standards/Astronomy/Solar_System/Cosmic_Dust.md) 
+
+### #is_/same_as :: [Cosmic_Dust.public](/_public/Astronomy/Solar_System/Cosmic_Dust.public.md) 
+
+### #is_/same_as :: [Cosmic_Dust.internal](/_internal/Astronomy/Solar_System/Cosmic_Dust.internal.md) 
+
+### #is_/same_as :: [Cosmic_Dust.protect](/_protect/Astronomy/Solar_System/Cosmic_Dust.protect.md) 
+
+### #is_/same_as :: [Cosmic_Dust.private](/_private/Astronomy/Solar_System/Cosmic_Dust.private.md) 
+
+### #is_/same_as :: [Cosmic_Dust.personal](/_personal/Astronomy/Solar_System/Cosmic_Dust.personal.md) 
+
+### #is_/same_as :: [Cosmic_Dust.secret](/_secret/Astronomy/Solar_System/Cosmic_Dust.secret.md)
+

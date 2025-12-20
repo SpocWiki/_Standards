@@ -58,3 +58,22 @@ Commons_category: Serfdom
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serfdom) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Serfdom](/_Standards/Society/Politics/Government/Monarchy/Feudalism/Serfdom.md) 
+
+### #is_/same_as :: [Serfdom.public](/_public/Society/Politics/Government/Monarchy/Feudalism/Serfdom.public.md) 
+
+### #is_/same_as :: [Serfdom.internal](/_internal/Society/Politics/Government/Monarchy/Feudalism/Serfdom.internal.md) 
+
+### #is_/same_as :: [Serfdom.protect](/_protect/Society/Politics/Government/Monarchy/Feudalism/Serfdom.protect.md) 
+
+### #is_/same_as :: [Serfdom.private](/_private/Society/Politics/Government/Monarchy/Feudalism/Serfdom.private.md) 
+
+### #is_/same_as :: [Serfdom.personal](/_personal/Society/Politics/Government/Monarchy/Feudalism/Serfdom.personal.md) 
+
+### #is_/same_as :: [Serfdom.secret](/_secret/Society/Politics/Government/Monarchy/Feudalism/Serfdom.secret.md)
+

@@ -20,3 +20,22 @@ Commons_category: Contemporary classical music
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Contemporary%20classical%20music) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Contemporary_classical_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.md) 
+
+### #is_/same_as :: [Contemporary_classical_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.public.md) 
+
+### #is_/same_as :: [Contemporary_classical_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.internal.md) 
+
+### #is_/same_as :: [Contemporary_classical_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.protect.md) 
+
+### #is_/same_as :: [Contemporary_classical_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.private.md) 
+
+### #is_/same_as :: [Contemporary_classical_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.personal.md) 
+
+### #is_/same_as :: [Contemporary_classical_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.secret.md)
+

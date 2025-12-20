@@ -48,17 +48,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parcel_Service](Parcel_Service.md) 
+### #is_/same_as :: [Parcel_Service](/_Standards/schema-org/Enumeration/Delivery_Method/Parcel_Service.md) 
 
-### #is_/same_as :: [parcel_service.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.public.md) 
+### #is_/same_as :: [Parcel_Service.public](/_public/schema-org/Enumeration/Delivery_Method/Parcel_Service.public.md) 
 
-### #is_/same_as :: [parcel_service.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.internal.md) 
+### #is_/same_as :: [Parcel_Service.internal](/_internal/schema-org/Enumeration/Delivery_Method/Parcel_Service.internal.md) 
 
-### #is_/same_as :: [parcel_service.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.protect.md) 
+### #is_/same_as :: [Parcel_Service.protect](/_protect/schema-org/Enumeration/Delivery_Method/Parcel_Service.protect.md) 
 
-### #is_/same_as :: [parcel_service.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.private.md) 
+### #is_/same_as :: [Parcel_Service.private](/_private/schema-org/Enumeration/Delivery_Method/Parcel_Service.private.md) 
 
-### #is_/same_as :: [parcel_service.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.personal.md) 
+### #is_/same_as :: [Parcel_Service.personal](/_personal/schema-org/Enumeration/Delivery_Method/Parcel_Service.personal.md) 
 
-### #is_/same_as :: [parcel_service.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.secret.md)
+### #is_/same_as :: [Parcel_Service.secret](/_secret/schema-org/Enumeration/Delivery_Method/Parcel_Service.secret.md)
 

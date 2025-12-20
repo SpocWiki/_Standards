@@ -53,3 +53,22 @@ Dewey_Decimal_Classification: "302.30285"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20community) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Virtual_Community](/_Standards/Society/Agent/Community/Virtual_Community.md) 
+
+### #is_/same_as :: [Virtual_Community.public](/_public/Society/Agent/Community/Virtual_Community.public.md) 
+
+### #is_/same_as :: [Virtual_Community.internal](/_internal/Society/Agent/Community/Virtual_Community.internal.md) 
+
+### #is_/same_as :: [Virtual_Community.protect](/_protect/Society/Agent/Community/Virtual_Community.protect.md) 
+
+### #is_/same_as :: [Virtual_Community.private](/_private/Society/Agent/Community/Virtual_Community.private.md) 
+
+### #is_/same_as :: [Virtual_Community.personal](/_personal/Society/Agent/Community/Virtual_Community.personal.md) 
+
+### #is_/same_as :: [Virtual_Community.secret](/_secret/Society/Agent/Community/Virtual_Community.secret.md)
+
