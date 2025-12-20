@@ -37,7 +37,7 @@ start_time: 1917-11-07T00:00:00Z
 # [[1917-Russian_Civil_War+1922]] 
 
 #has_/next_  :: [[1922-Soviet_Union+1991]]   
-#has_/previous_ :: [[../../../../../../../../WikiData/1721-Russian_Empire+1917|1721-Russian_Empire+1917]] 
+#has_/previous_ :: [[../../Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]] 
 #is_/same_as :: [[WD~Russian_Civil_War,79911]] 
 
 ## #has_/text_of_/abstract 

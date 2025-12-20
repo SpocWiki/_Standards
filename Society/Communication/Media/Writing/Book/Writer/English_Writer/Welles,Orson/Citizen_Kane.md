@@ -138,7 +138,7 @@ Amazon_Standard_Identification_Number: B005MLP8E0
 > It was Welles's first feature film. 
 > The quasi-biographical film examines the life and legacy of Charles Foster Kane, played by Welles, 
 > a composite character based on American media barons 
-> [[../../../../../../../Economics/Capital(Economics)/Investor/Media_Proprietor/Hearst,William_Randolph|William Randolph Hearst]] and [[../../../../../../../Economics/Capital(Economics)/Investor/Media_Proprietor/Pulitzer,Joseph|Joseph Pulitzer]], 
+> [[../../../../../../../Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph|William Randolph Hearst]] and [[../../../../../../../Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph|Joseph Pulitzer]], 
 > Chicago tycoons Samuel Insull and Harold McCormick, 
 > as well as aspects of the screenwriters' own lives.
 >

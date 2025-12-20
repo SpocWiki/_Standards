@@ -116,7 +116,7 @@ Libris_URI: 20dgbs1l3s9nrw4
 > humorist, satirist, journalist, bohemian, first anarchist and then communist, 
 > and commissar of the Red Army against the Czechoslovak Legion. 
 > 
-> He is best known for his novel The [[Good_Soldier_Švejk]], 
+> He is best known for his novel The [[Hašek,Jaroslav/Good_Soldier_Švejk]], 
 > an unfinished novel about a soldier in World War I 
 > and a satire on the ineptitude of authority figures. 
 > 

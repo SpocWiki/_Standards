@@ -22,7 +22,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Llave%20bronce.jpg
 
 # [[Key]] 
 
-#is_/similar_to :: [[Cryptographic_Key]] 
+#is_/similar_to :: [[../../../../../Technology/IT/Cryptography/Cryptographic_Key]] 
 #is_/used_by :: [[Lock]] 
 #is_/same_as :: [[WD~Key,132041]] 
 

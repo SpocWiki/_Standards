@@ -27,7 +27,7 @@ female_form_of_label:
   - медіамагнатка
 ---
 
-# [[Media_Proprietor]] 
+# [[Media_Mogul]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~media_proprietor,1420621]] 
 

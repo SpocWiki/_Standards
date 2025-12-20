@@ -133,7 +133,7 @@ work_period_start_: 1951
 > After working as a photographer for Look magazine in the late 1940s and early 1950s, 
 > he began making low-budget short films 
 > and made his first major Hollywood film, The Killing, for United Artists in 1956. 
-> This was followed by two collaborations with [[Lust_for_Life/Douglas,Kirk|Kirk Douglas]]: 
+> This was followed by two collaborations with [[Douglas,Kirk|Kirk Douglas]]: 
 > - the anti-war film Paths of Glory (1957) and 
 > - the historical epic film Spartacus (1960).
 >
@@ -161,7 +161,7 @@ work_period_start_: 1951
 > Despite the notoriety this provoked, 
 > many of Kubrick's films broke new cinematic ground and are now considered landmarks. 
 > 
-> The scientific realism and innovative special effects in his science fiction epic [[2001-Space_Odyssey]] (1968) 
+> The scientific realism and innovative special effects in his science fiction epic [[Kubrick,Stanley/2001-Space_Odyssey]] (1968) 
 > were a first in cinema history, and the film earned him his only [[../../TV-Series/Academy_Award|Academy Award]] (for Best Visual Effects). 
 > Filmmaker [[Spielberg,Steven|Steven Spielberg]] has referred to 2001 as his generation's "big bang" 
 > and it is regarded as one of the greatest films ever made.
