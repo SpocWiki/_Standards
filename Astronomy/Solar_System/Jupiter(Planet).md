@@ -186,7 +186,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Jupiter,30589071]]"
 Wolfram_Language_entity_code: Entity["Planet", "Jupiter"]
 ---
 
-# [[Jupiter]] 
+# [[Jupiter(Planet)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Jupiter,319]] 
 #is_/different_from  :: [[../../WikiData/WD~Jupiter,4649]]  
@@ -227,7 +227,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Jupiter"]
 > Jupiter is surrounded by a faint planetary ring system and has a powerful magnetosphere, 
 > the second largest contiguous structure in the Solar System (after the heliosphere). 
 > Jupiter forms a system of 95 known moons and probably many more, including the 
-> four large moons discovered by Galileo Galilei in 1610: [[Jupiter/Io]], [[Europa,Moon]], [[Ganymede]], and [[Callisto]]. 
+> four large moons discovered by Galileo Galilei in 1610: [[Jupiter(Planet)/Io]], [[Europa,Moon]], [[Jupiter(Planet)/Ganymede]], and [[Jupiter(Planet)/Callisto]]. 
 > Ganymede, the largest of the four, is larger than the planet Mercury. 
 > Callisto is the second largest; Io and Europa are approximately the size of Earth's Moon.
 >
