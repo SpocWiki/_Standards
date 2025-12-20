@@ -171,7 +171,7 @@ Wikidata_property: torque
 
 This is the angular Equivalent to [[Force]]. 
 
-The SI-Unit is [[NewtonMeter]]. 
+The SI-Unit is [[Torque/Unit~NewtonMeter]]. 
 #is_/same_as :: [[../../WikiData/WD~Torque,48103|WD~Torque,48103]]
 
 ## #has_/text_of_/abstract 

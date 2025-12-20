@@ -106,7 +106,7 @@ date_of_birth: 1903-02-28T00:00:00Z
 >
 > Throughout the 1950s, Minnelli directed numerous comedies, dramas and musicals,
 > including Father of the Bride (1950), An American in Paris (1951), 
-> The Bad and the Beautiful (1952), [[Lust_for_Life]] (1956) and Gigi (1958). 
+> The Bad and the Beautiful (1952), [[Douglas,Kirk/Lust_for_Life]] (1956) and Gigi (1958). 
 > An American in Paris and Gigi respectively both won the [[../../TV-Series/Academy_Award|Academy Award]] for Best Picture, 
 > with Minnelli winning the Best Director for the latter film. 
 > For over 26 years, Minnelli became the longest-tenured film director for MGM.

@@ -74,7 +74,7 @@
 > 
 > If so, the set of all series is also itself a ring, 
 > one in which the addition consists of adding series terms together term by term 
-> and the multiplication is the [[Cauchy_Product]].
+> and the multiplication is the [[Series(Math)/Cauchy_Product]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Series%20(mathematics)) 
 

@@ -27,7 +27,7 @@ aliases:
 > 
 > He won his first Oscar, for Best Supporting Actor, for his portrayal of Eufemio Zapata in Viva Zapata! (1952), 
 > becoming the first Mexican-born performer to win an [[../../TV-Series/Academy_Award|Academy Award]]. 
-> He received his second Oscar in 1957 for [[Lust_for_Life]].
+> He received his second Oscar in 1957 for [[Douglas,Kirk/Lust_for_Life]].
 >
 > He would be nominated for Best Actor twice more, for his roles in Wild is the Wind (1958) and Zorba the Greek (1964). 
 > 

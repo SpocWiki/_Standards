@@ -12,7 +12,7 @@ aliases:
 > - Stranger than Fiction, 
 > - [[../Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008|Quantum of Solace]], 
 > - [[World War Z]], 
-> - [[Man_Called_Otto]] and 
+> - [[Forster,Marc/Man_Called_Otto]] and 
 > - Christopher Robin, 
 > and has directed numerous television commercials as well. 
 > He is a BAFTA, Golden Globe, and Independent Spirit Award nominee.

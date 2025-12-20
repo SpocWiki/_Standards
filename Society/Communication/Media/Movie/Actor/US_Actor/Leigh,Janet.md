@@ -67,7 +67,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Janet%20Leigh%20Public
 # [[Leigh,Janet]] 
 
 #is_/parent_of :: [[Curtis,Jamie_Lee]] 
-#is_/different_from :: [[../../../../../../WikiData/Leigh,Vivien|Leigh,Vivien]] 
+#is_/different_from :: [[Leigh,Vivien|Leigh,Vivien]] 
 
 #has_/time_/started ::  1927-07-06 
 #has_/time_/stopped  ::  2004-10-03
