@@ -71,8 +71,6 @@ motto_text: For Democracy. For everyone.
 > [Wikipedia](https://en.wikipedia.org/wiki/Inter-Parliamentary%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Interparliamentary_Union](/_Standards/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.md) 

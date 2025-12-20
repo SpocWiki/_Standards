@@ -13,8 +13,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Key%20(cryptography)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cryptographic_Key](/_Standards/Technology/IT/Cryptography/Cryptographic_Key.md) 

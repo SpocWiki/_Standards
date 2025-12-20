@@ -168,8 +168,6 @@ Libris_URI: pm147x67237v2gs
 > [Wikipedia](https://en.wikipedia.org/wiki/Jan%20van%20Eyck) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1390-Eyck,Jan_van+1441](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.md) 

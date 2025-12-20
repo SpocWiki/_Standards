@@ -66,8 +66,6 @@ Commons_category: Metronomes
 > [Wikipedia](https://en.wikipedia.org/wiki/Metronome) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metronome](/_Standards/Society/Communication/Media/Music/Metronome.md) 

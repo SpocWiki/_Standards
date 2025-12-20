@@ -114,8 +114,6 @@ Commons_category: James Webb Space Telescope
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Webb%20Space%20Telescope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [JWST(James_Webb_Space_Telescope)](/_Standards/Technology/Tool/Instrumentation/Telescope/JWST(James_Webb_Space_Telescope).md) 

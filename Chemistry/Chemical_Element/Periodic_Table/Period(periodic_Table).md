@@ -33,8 +33,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Period%20(periodic%20table)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Period(periodic_Table)](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).md) 

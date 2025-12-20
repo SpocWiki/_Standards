@@ -137,8 +137,6 @@ ISNI: "0000000114764923"
 > [Wikipedia](https://en.wikipedia.org/wiki/Rupert%20Murdoch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Murdoch,Rupert](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.md) 

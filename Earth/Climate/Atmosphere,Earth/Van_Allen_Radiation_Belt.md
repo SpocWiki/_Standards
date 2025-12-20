@@ -42,8 +42,6 @@ Commons_category: Van Allen radiation belts
 > [Wikipedia](https://en.wikipedia.org/wiki/Van%20Allen%20radiation%20belt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Van_Allen_Radiation_Belt](/_Standards/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.md) 

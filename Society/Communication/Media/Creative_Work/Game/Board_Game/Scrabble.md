@@ -81,8 +81,6 @@ publication_date: 1938-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Scrabble) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scrabble](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.md) 

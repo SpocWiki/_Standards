@@ -31,9 +31,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Romanian%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-ron](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ron.md) 

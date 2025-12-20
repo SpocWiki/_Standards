@@ -35,10 +35,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Newton-metre)   
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~NewtonMeter](/_Standards/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.md) 

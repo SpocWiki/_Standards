@@ -24,10 +24,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Universalism) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Universality(Philosophy)](/_Standards/Philosophy/Universality(Philosophy).md) 

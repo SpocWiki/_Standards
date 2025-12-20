@@ -64,9 +64,6 @@ inception: 1921-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Good%20Soldier%20%C5%A0vejk) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Good_Soldier_Švejk](/_Standards/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.md) 

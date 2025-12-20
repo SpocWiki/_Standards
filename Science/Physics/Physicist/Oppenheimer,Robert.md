@@ -210,8 +210,6 @@ spoken_text_audio:
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20Robert%20Oppenheimer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oppenheimer,Robert](/_Standards/Science/Physics/Physicist/Oppenheimer,Robert.md) 

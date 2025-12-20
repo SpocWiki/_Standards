@@ -61,8 +61,6 @@ inception: 2003-10-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/JAXA) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency)](/_Standards/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).md) 

@@ -42,8 +42,6 @@ has_id_wikidata: Q50008
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Times) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [London_Times](/_Standards/Society/Communication/Media/Journalism/Newspaper/London_Times.md) 

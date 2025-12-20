@@ -89,9 +89,6 @@ name_in_native_language: IVNO
 > [Wikipedia](https://en.wikipedia.org/wiki/Juno%20(mythology)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Juno](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.md) 

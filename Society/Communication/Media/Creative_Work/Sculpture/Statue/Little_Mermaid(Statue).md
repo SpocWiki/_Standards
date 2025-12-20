@@ -69,8 +69,6 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Langelinie%2C%20
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Little%20Mermaid%20(statue)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Little_Mermaid(Statue)](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).md) 

@@ -16,8 +16,6 @@ with ${c_{k}=\sum _{l=0}^{k}a_{l}b_{k-l}}$ .
 > [Wikipedia](https://en.wikipedia.org/wiki/Cauchy%20product) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cauchy_Product](/_Standards/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.md) 

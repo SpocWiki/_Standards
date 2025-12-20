@@ -280,9 +280,6 @@ Plex_media_key: 5d776826eb5d26001f1dd404
 > [Wikipedia](https://en.wikipedia.org/wiki/Snow%20White%20and%20the%20Seven%20Dwarfs%20(1937%20film)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Snow_White_and_the_Seven_Dwarfs(1937)](/_Standards/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).md) 

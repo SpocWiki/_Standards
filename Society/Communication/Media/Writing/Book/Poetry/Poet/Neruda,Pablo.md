@@ -165,8 +165,6 @@ Google_Doodle: pablo-nerudas-birthday
 > [Wikipedia](https://en.wikipedia.org/wiki/Pablo%20Neruda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neruda,Pablo](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.md) 
