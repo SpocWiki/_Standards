@@ -50,8 +50,6 @@ Krugosvet_article: religiya/kasty
 > [Wikipedia](https://en.wikipedia.org/wiki/Caste) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Caste](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Caste.md) 

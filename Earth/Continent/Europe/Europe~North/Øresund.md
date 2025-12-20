@@ -69,8 +69,6 @@ Commons_category: Oresund
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%98resund) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Øresund](/_Standards/Earth/Continent/Europe/Europe~North/Øresund.md) 

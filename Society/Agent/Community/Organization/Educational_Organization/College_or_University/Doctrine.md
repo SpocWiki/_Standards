@@ -39,8 +39,6 @@ Commons_category: Doctrines
 > [Wikipedia](https://en.wikipedia.org/wiki/Doctrine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Doctrine](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctrine.md) 

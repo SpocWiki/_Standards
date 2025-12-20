@@ -44,8 +44,6 @@ Commons_category: Sonatas
 > [Wikipedia](https://en.wikipedia.org/wiki/Sonata) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sonata](/_Standards/Society/Communication/Media/Music/Music_Genre/Sonata.md) 

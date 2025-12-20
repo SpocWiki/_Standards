@@ -120,8 +120,6 @@ Unicode_character:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jinn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jinn](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.md) 

@@ -84,8 +84,6 @@ start_time: 1947-11-06T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Meet%20the%20Press) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meet_the_Press](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Meet_the_Press.md) 

@@ -42,8 +42,6 @@ Commons_category: Weapons of mass destruction
 > [Wikipedia](https://en.wikipedia.org/wiki/Weapon%20of%20mass%20destruction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weapon_of_Mass_Destruction](/_Standards/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.md) 

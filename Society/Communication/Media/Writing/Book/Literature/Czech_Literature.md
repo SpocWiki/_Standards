@@ -37,8 +37,6 @@ Commons_category: Literature of the Czech Republic
 > [Wikipedia](https://en.wikipedia.org/wiki/Czech%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Czech_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Czech_Literature.md) 

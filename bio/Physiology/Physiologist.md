@@ -75,8 +75,6 @@ Commons_category: Physiologists
 > [Wikipedia](https://en.wikipedia.org/wiki/Physiology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Physiologist](/_Standards/bio/Physiology/Physiologist.md) 

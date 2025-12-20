@@ -37,8 +37,6 @@ has_id_wikidata: Q185467
 > [Wikipedia](https://en.wikipedia.org/wiki/Socialization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Socialization](/_Standards/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.md) 

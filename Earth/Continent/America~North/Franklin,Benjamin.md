@@ -211,8 +211,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Benjamin%20Franklin)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Franklin,Benjamin](/_Standards/Earth/Continent/America~North/Franklin,Benjamin.md) 

@@ -44,9 +44,6 @@ Library_of_Congress_Classification: QE420-QE499
 > [Wikipedia](https://en.wikipedia.org/wiki/Petrology)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Petrology](/_Standards/Earth/Geology/Petrology.md) 

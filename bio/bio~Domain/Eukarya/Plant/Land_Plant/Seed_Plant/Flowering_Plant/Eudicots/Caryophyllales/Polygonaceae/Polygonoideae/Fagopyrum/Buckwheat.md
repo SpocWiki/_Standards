@@ -126,8 +126,6 @@ short_name: F. esculentum
 > [Wikipedia](https://en.wikipedia.org/wiki/Buckwheat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Buckwheat](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.md) 

@@ -113,8 +113,6 @@ NBN_System_Key: NHMSYS0020975275
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20buffalo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Water_Buffalo](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Bubalus/Water_Buffalo.md) 

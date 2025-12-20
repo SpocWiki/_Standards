@@ -26,8 +26,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20(genre)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Western(Genre)](/_Standards/Society/Communication/Genre/Fiction/Western(Genre).md) 

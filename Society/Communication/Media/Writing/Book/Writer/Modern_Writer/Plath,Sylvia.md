@@ -114,8 +114,6 @@ Libris_URI: c9prsl8w59vcj9m
 > [Wikipedia](https://en.wikipedia.org/wiki/Sylvia%20Plath) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plath,Sylvia](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Plath,Sylvia.md) 

@@ -73,9 +73,6 @@ short_name: RAM
 > [Wikipedia](https://en.wikipedia.org/wiki/Random-access%20memory) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [RAM(Random Access Memory)](/_Standards/Technology/IT/Computer_Hardware/RAM(Random Access Memory).md) 

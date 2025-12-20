@@ -41,8 +41,6 @@ MeSH_tree_code: E07.710.680.700
 > [Wikipedia](https://en.wikipedia.org/wiki/Synchrotron) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Synchrotron](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Synchrotron.md) 

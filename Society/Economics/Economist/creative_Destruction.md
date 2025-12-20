@@ -48,8 +48,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Creative%20destruction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [creative_Destruction](/_Standards/Society/Economics/Economist/creative_Destruction.md) 

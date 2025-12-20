@@ -175,8 +175,6 @@ singles_record: 1159–233
 > [Wikipedia](https://en.wikipedia.org/wiki/Novak%20Djokovic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Djokovic,Novak](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Djokovic,Novak.md) 

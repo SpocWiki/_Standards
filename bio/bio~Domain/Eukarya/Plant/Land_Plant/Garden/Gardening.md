@@ -28,8 +28,6 @@ has_id_wikidata: Q124946
 > [Wikipedia](https://en.wikipedia.org/wiki/Gardening) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gardening](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden/Gardening.md) 

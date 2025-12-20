@@ -44,8 +44,6 @@ Gujarati_Vishwakosh_entry: વાક્-3-નાટ્યશાસ્ત્ર
 > [Wikipedia](https://en.wikipedia.org/wiki/Dialogue) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dialogue](/_Standards/Society/Communication/Dialogue.md) 

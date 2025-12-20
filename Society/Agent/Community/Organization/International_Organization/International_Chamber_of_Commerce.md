@@ -62,8 +62,6 @@ X_Twitter_username: iccwbo
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Chamber%20of%20Commerce) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Chamber_of_Commerce](/_Standards/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.md) 

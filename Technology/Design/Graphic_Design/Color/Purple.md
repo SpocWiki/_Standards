@@ -60,8 +60,6 @@ Iconclass_notation: 22C4(PURPLE)
 > [Wikipedia](https://en.wikipedia.org/wiki/Purple) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Purple](/_Standards/Technology/Design/Graphic_Design/Color/Purple.md) 

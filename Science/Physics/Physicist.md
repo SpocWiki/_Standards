@@ -102,8 +102,6 @@ Commons_category: Physicists
 > [Wikipedia](https://en.wikipedia.org/wiki/Physicist) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Physicist](/_Standards/Science/Physics/Physicist.md) 

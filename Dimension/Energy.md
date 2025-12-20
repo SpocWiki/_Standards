@@ -88,8 +88,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Energy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Energy](/_Standards/Dimension/Energy.md) 

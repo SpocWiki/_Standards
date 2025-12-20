@@ -116,8 +116,6 @@ C++ was designed with systems programming and embedded, resource-constrained sof
 C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications, including desktop applications, video games, servers (e.g., e-commerce, web search, or databases), and performance-critical applications (e.g., telephone switches or space probes).
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~C++](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~C++.md) 

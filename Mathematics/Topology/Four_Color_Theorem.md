@@ -38,8 +38,6 @@ has_id_wikidata: Q184410
 > [Wikipedia](https://en.wikipedia.org/wiki/Four%20color%20theorem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Four_Color_Theorem](/_Standards/Mathematics/Topology/Four_Color_Theorem.md) 

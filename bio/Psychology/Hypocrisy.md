@@ -61,8 +61,6 @@ Commons_category: Hypocrisy
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypocrisy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hypocrisy](/_Standards/bio/Psychology/Hypocrisy.md) 

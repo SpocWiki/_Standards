@@ -81,8 +81,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Broadus%20Watso
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20B.%20Watson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Watson,John_B.](/_Standards/bio/Psychology/Psychologist/Watson,John_B..md) 

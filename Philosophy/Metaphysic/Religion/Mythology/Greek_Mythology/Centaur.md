@@ -68,8 +68,6 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/KENTAVR.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Centaur) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Centaur](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.md) 

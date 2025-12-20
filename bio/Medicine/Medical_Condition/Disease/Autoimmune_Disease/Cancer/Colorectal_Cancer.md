@@ -152,8 +152,6 @@ Krugosvet_article: medicina/RAK_TOLSTOGO_KISHECHNIKA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Colorectal%20cancer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Colorectal_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Colorectal_Cancer.md) 

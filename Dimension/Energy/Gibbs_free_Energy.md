@@ -36,8 +36,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gibbs%20free%20energy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gibbs_free_Energy](/_Standards/Dimension/Energy/Gibbs_free_Energy.md) 

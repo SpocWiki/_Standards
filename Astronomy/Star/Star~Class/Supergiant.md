@@ -22,8 +22,6 @@ Commons_category: Supergiant stars
 > [Wikipedia](https://en.wikipedia.org/wiki/Supergiant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Supergiant](/_Standards/Astronomy/Star/Star~Class/Supergiant.md) 

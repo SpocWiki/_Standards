@@ -35,8 +35,6 @@ Commons_category: Determinism
 > [Wikipedia](https://en.wikipedia.org/wiki/Determinism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Determinism](/_Standards/Science/Determinism.md) 

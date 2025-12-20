@@ -72,10 +72,6 @@ title: Στοιχεῖα
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclid's%20Elements) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euclids_Elements](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.md) 

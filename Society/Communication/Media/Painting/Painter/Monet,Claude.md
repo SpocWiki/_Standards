@@ -398,8 +398,6 @@ date_of_death: 1926-12-05T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Claude%20Monet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monet,Claude](/_Standards/Society/Communication/Media/Painting/Painter/Monet,Claude.md) 

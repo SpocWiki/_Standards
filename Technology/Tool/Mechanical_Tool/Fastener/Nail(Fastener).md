@@ -64,9 +64,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Nagel
 > [Wikipedia](https://en.wikipedia.org/wiki/Nail%20(fastener)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nail(Fastener)](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Nail(Fastener).md) 

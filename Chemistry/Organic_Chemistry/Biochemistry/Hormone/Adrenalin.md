@@ -166,8 +166,6 @@ stylized_name: EPINEPHrine
 > [Wikipedia](https://en.wikipedia.org/wiki/Adrenaline) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Adrenalin](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.md) 

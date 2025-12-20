@@ -60,8 +60,6 @@ OpenStreetMap_tag: natural=mountain_range
 > [Wikipedia](https://en.wikipedia.org/wiki/Mountain%20range) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mountain_Range](/_Standards/Earth/Geology/Landform/Mountain_Range.md) 

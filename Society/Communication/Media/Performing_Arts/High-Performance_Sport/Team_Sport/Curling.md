@@ -53,8 +53,6 @@ Baidu_Tieba_name: 冰壶
 > [Wikipedia](https://en.wikipedia.org/wiki/Curling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Curling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.md) 

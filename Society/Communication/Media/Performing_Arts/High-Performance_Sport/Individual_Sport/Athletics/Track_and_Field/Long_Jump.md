@@ -41,8 +41,6 @@ OpenStreetMap_tag: sport=long_jump
 > [Wikipedia](https://en.wikipedia.org/wiki/Long%20jump) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Long_Jump](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Long_Jump.md) 

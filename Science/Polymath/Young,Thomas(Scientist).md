@@ -125,9 +125,6 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Young%
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Young%20(scientist)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Young,Thomas(Scientist)](/_Standards/Science/Polymath/Young,Thomas(Scientist).md) 

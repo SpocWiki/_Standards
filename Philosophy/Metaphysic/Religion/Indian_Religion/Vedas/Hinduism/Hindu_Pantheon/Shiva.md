@@ -77,8 +77,6 @@ native_label: 𑖫𑖰𑖪
 > [Wikipedia](https://en.wikipedia.org/wiki/Shiva) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shiva](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Shiva.md) 

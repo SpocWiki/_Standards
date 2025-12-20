@@ -63,8 +63,6 @@ name_in_native_language: Joseph Marie Jacquard
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Marie%20Jacquard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jacquard,Joseph_Marie](/_Standards/Technology/IT/Computer_Hardware/Jacquard,Joseph_Marie.md) 

@@ -57,8 +57,6 @@ Unicode_range: U+1F4BD-1F4C0,U+1F4FC
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20storage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Data_Storage](/_Standards/Technology/IT/Data/Data_Storage.md) 

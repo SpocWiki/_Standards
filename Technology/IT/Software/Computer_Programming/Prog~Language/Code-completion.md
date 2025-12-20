@@ -22,9 +22,6 @@ But even Internet queries, which have enabled many laypeople to start programmin
 are not as efficient and context-aware as[[../../../../Knowledge/AGI(Artificial_general_Intelligence)/Products~AGI/Github-CoPilot|Github-CoPilot]]]. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Code-completion](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Code-completion.md) 

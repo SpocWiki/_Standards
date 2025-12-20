@@ -16,9 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Weinstein)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weinstein,Eric_Ross](/_Standards/Science/Physics/Physicist/Weinstein,Eric_Ross.md) 

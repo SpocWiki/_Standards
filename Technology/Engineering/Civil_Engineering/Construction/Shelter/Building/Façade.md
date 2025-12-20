@@ -51,8 +51,6 @@ described_at_URL: https://web.archive.org/web/20230624225034/https://www.hamburg
 > [Wikipedia](https://en.wikipedia.org/wiki/Fa%C3%A7ade) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Façade](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Façade.md) 

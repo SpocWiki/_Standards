@@ -120,8 +120,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/BERTON_RICHARD.h
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Burton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Burton,Richard](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Burton,Richard.md) 

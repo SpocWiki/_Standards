@@ -106,8 +106,6 @@ RTECS_number: WB4900000
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20hydroxide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sodium_Hydroxide](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.md) 

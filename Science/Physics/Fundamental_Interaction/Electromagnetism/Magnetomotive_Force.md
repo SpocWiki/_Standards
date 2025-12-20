@@ -52,8 +52,6 @@ short_name: mmf
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetomotive%20force) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnetomotive_Force](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.md) 

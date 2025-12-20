@@ -225,8 +225,6 @@ Instagram_username: francisfordcoppola
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Ford%20Coppola) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coppola,Francis_Ford](/_Standards/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.md) 

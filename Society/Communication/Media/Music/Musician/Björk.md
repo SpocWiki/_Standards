@@ -44,10 +44,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bj%C3%B6rk)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Björk](/_Standards/Society/Communication/Media/Music/Musician/Björk.md) 

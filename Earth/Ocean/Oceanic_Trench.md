@@ -32,11 +32,6 @@ GeoNames_feature_code: U.TRNU
 > [Wikipedia](https://en.wikipedia.org/wiki/Oceanic%20trench) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oceanic_Trench](/_Standards/Earth/Ocean/Oceanic_Trench.md) 

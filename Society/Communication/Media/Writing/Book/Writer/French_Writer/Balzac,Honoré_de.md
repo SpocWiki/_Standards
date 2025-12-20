@@ -147,8 +147,6 @@ Libris_URI: 42gjc2fn37mlq4h
 > [Wikipedia](https://en.wikipedia.org/wiki/Honor%C3%A9%20de%20Balzac) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Balzac,Honoré_de](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.md) 

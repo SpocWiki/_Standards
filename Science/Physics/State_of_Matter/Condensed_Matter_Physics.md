@@ -66,8 +66,6 @@ PhilPapers_topic: condensed-matter-physics
 > [Wikipedia](https://en.wikipedia.org/wiki/Condensed%20matter%20physics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Condensed_Matter_Physics](/_Standards/Science/Physics/State_of_Matter/Condensed_Matter_Physics.md) 

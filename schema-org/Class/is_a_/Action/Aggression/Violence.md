@@ -64,8 +64,6 @@ Commons_category: Violence
 > [Wikipedia](https://en.wikipedia.org/wiki/Violence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Violence](/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence.md) 

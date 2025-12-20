@@ -46,8 +46,6 @@ has_id_wikidata: Q177897
 > [Wikipedia](https://en.wikipedia.org/wiki/Inductance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inductance](/_Standards/Science/Physics/Electricity/Inductance.md) 

@@ -51,8 +51,6 @@ Commons_category: Stereotypes
 > [Wikipedia](https://en.wikipedia.org/wiki/Stereotype) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stereotype](/_Standards/bio/Psychology/Social_Psychology/Stereotype.md) 

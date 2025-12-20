@@ -9,9 +9,6 @@ device that produces an audible click or other sound at a regular interval
 #is_/same_as :: [[Metronome]] 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WD~Metronome,156424](/_Standards/Society/Communication/Media/Music/WD~Metronome,156424.md) 

@@ -44,8 +44,6 @@ subreddit: grouptheory
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Group_Theory](/_Standards/Mathematics/Algebra/Group_Theory.md) 

@@ -135,8 +135,6 @@ date_of_birth: 1908-05-23T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Bardeen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bardeen,John](/_Standards/Science/Physics/Physicist/Bardeen,John.md) 

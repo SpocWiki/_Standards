@@ -69,8 +69,6 @@ NBN_System_Key: NHMSYS0000459894
 > [Wikipedia](https://en.wikipedia.org/wiki/Ipomoea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ipomoea](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea.md) 

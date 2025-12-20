@@ -66,8 +66,6 @@ Commons_category: History of Sudan
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Sudan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Sudan](/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.md) 

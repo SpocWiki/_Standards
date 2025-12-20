@@ -17,8 +17,6 @@ The Business problem now is to decide when to tackle this risk.
 Surely not before the software has become a viable Product. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Copy-Paste](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Copy-Paste.md) 

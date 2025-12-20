@@ -8,10 +8,6 @@ has_id_wikidata: Q120569
 #is_/same_as :: [[../../../../../../../WikiData/WD~Gastroenterology,120569|WD~Gastroenterology,120569]]  
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gastroenterology](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis/Gastroenterology.md) 

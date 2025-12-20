@@ -17,8 +17,6 @@ opposite_of: "[[_Standards/WikiData/WD~encoding,5375490]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Decoding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decoding](/_Standards/Technology/IT/Data/Code/Decoding.md) 

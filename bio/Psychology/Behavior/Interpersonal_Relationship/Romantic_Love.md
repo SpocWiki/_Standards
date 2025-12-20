@@ -34,10 +34,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Love%20is%20being%20st
 > [Wikipedia](https://en.wikipedia.org/wiki/Romance) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Romantic_Love](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.md) 

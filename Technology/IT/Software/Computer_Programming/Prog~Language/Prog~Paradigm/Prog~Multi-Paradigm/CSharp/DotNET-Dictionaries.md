@@ -21,9 +21,6 @@ Alternatively a sorted List of `KeyValuePair{TKey,TValue}` could be as fast.
 Uses a HashSet of `KeyValuePair{TKey,TValue}`. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [DotNET-Dictionaries](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/DotNET-Dictionaries.md) 

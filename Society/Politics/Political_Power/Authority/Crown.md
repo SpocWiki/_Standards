@@ -44,8 +44,6 @@ Dewey_Decimal_Classification: "739.228"
 > [Wikipedia](https://en.wikipedia.org/wiki/Crown) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crown](/_Standards/Society/Politics/Political_Power/Authority/Crown.md) 

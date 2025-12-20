@@ -132,10 +132,6 @@ Therefore [[../Prog~OO/OO-Lang/Prog~Go]] has not `catch` Clause;
 instead `panic/defer/recover` allows to only __clean up the State__ and modify the Return Value. 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Exception-Handling](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.md) 

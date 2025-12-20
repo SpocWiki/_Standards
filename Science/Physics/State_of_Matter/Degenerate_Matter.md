@@ -42,8 +42,6 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "DegenerateMatter"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Degenerate%20matter) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Degenerate_Matter](/_Standards/Science/Physics/State_of_Matter/Degenerate_Matter.md) 

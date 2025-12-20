@@ -76,8 +76,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Contract) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Contract](/_Standards/Society/Law/Contract.md) 

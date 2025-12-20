@@ -25,8 +25,6 @@ taxon_name: Australopithecinae
 > [Wikipedia](https://en.wikipedia.org/wiki/Australopithecus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Australopithecus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Australopithecus.md) 

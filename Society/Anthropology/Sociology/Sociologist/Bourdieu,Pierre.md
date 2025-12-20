@@ -146,8 +146,6 @@ ISNI: "0000000121385892"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20Bourdieu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bourdieu,Pierre](/_Standards/Society/Anthropology/Sociology/Sociologist/Bourdieu,Pierre.md) 

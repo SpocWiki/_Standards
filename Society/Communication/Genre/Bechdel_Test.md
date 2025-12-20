@@ -34,9 +34,6 @@ has_id_wikidata: Q4165246
 > [Wikipedia](https://en.wikipedia.org/wiki/Bechdel%20test) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bechdel_Test](/_Standards/Society/Communication/Genre/Bechdel_Test.md) 

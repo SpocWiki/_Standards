@@ -30,9 +30,6 @@ Commons_category: Organometallic chemistry
 > [Wikipedia](https://en.wikipedia.org/wiki/Organometallic%20chemistry) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Organometallic_Chemistry](/_Standards/Chemistry/Organometallic_Chemistry.md) 

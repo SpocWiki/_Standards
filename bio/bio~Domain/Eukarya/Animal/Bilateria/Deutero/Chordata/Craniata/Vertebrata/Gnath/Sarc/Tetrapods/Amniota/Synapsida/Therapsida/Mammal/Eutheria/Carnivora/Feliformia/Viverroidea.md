@@ -22,8 +22,6 @@ taxon_name: Viverroidea
 > [Wikipedia](https://en.wikipedia.org/wiki/Viverroidea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Viverroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Viverroidea.md) 

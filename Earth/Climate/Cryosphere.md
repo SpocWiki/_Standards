@@ -25,8 +25,6 @@ has_id_wikidata: Q493109
 > [Wikipedia](https://en.wikipedia.org/wiki/Cryosphere) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cryosphere](/_Standards/Earth/Climate/Cryosphere.md) 

@@ -74,8 +74,6 @@ exact_match: https://w3id.org/italia/onto/CPCO/ParentalRelationshipType
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kinship](/_Standards/Society/Agent/Community/Clan/Kinship.md) 

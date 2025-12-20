@@ -60,8 +60,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/East%E2%80%93West%20Schism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1054~East-West_Schism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/1054~East-West_Schism.md) 

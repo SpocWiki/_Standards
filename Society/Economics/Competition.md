@@ -120,7 +120,6 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Competition](/_Standards/Society/Economics/Competition.md) 

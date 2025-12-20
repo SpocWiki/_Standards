@@ -32,8 +32,6 @@ time_of_discovery_or_invention: 1995-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Disruptive%20innovation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Disruptive_Innovation](/_Standards/Technology/Innovation/Disruptive_Innovation.md) 

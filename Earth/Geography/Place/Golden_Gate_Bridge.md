@@ -105,8 +105,6 @@ Danbooru_tag: golden_gate_bridge
 > [Wikipedia](https://en.wikipedia.org/wiki/Golden%20Gate%20Bridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Golden_Gate_Bridge](/_Standards/Earth/Geography/Place/Golden_Gate_Bridge.md) 

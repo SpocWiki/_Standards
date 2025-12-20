@@ -56,8 +56,6 @@ IPTC_NewsCode: mediatopic/20000811
 > [Wikipedia](https://en.wikipedia.org/wiki/Euthanasia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euthanasia](/_Standards/bio/Medicine/Medical_Guideline/Euthanasia.md) 

@@ -148,10 +148,6 @@ Viel Software wie Suse-Linux, OpenOffice und OpenCloud wurde und wird sogar in D
 Jeder Euro der in dieses Projekt gesteckt wird, kommt 4-fach zurück. 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OS~Linux](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux.md) 

@@ -53,8 +53,6 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/inference
 > [Wikipedia](https://en.wikipedia.org/wiki/Inference) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inference](/_Standards/Philosophy/Logic/Inference.md) 

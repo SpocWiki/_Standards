@@ -39,8 +39,6 @@ Commons_category: Desks
 > [Wikipedia](https://en.wikipedia.org/wiki/Desk) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Desk](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Desk.md) 

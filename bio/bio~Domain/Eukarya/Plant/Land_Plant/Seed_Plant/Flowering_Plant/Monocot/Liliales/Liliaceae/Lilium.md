@@ -71,8 +71,6 @@ NBN_System_Key: NHMSYS0000460337
 > [Wikipedia](https://en.wikipedia.org/wiki/Lilium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lilium](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.md) 

@@ -55,8 +55,6 @@ Commons_category: Soap operas
 > [Wikipedia](https://en.wikipedia.org/wiki/Soap%20opera) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soap_Opera](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.md) 

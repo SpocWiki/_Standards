@@ -35,8 +35,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%20-%20S
 > [Wikipedia](https://en.wikipedia.org/wiki/Portrait%20miniature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Portrait_miniature](/_Standards/Society/Communication/Media/Painting/Portrait_miniature.md) 

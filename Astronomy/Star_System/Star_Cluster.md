@@ -36,9 +36,6 @@ Wolfram_Language_entity_type: StarCluster
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20cluster) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Star_Cluster](/_Standards/Astronomy/Star_System/Star_Cluster.md) 

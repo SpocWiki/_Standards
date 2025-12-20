@@ -84,12 +84,6 @@ Commons_category: Macintosh operating systems
 > [Wikipedia](https://en.wikipedia.org/wiki/Mac%20operating%20systems)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mac_OS](/_Standards/Technology/IT/Software/OS(Operating-System)/Mac_OS.md) 

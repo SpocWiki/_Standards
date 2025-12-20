@@ -237,8 +237,6 @@ work_period_end_: 2022-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Phil%20Collins) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Collins,Phil](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.md) 

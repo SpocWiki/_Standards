@@ -51,8 +51,6 @@ Commons_category: Quenching
 > [Wikipedia](https://en.wikipedia.org/wiki/Quenching) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quenching](/_Standards/Chemistry/Material/Materials_Science/Quenching.md) 

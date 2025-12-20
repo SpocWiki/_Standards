@@ -52,8 +52,6 @@ hashtag: pants
 > [Wikipedia](https://en.wikipedia.org/wiki/Trousers) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trousers](/_Standards/Technology/Tool/Clothing/Trousers.md) 

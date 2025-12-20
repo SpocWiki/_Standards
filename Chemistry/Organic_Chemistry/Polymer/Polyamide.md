@@ -32,11 +32,6 @@ Commons_category: Polyamides
 > [Wikipedia](https://en.wikipedia.org/wiki/Polyamide) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polyamide](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide.md) 

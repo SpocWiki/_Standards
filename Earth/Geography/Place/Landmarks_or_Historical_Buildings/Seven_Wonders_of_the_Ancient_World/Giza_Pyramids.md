@@ -42,8 +42,6 @@ coordinate_location: Point(31.133333 29.983333)
 > [Wikipedia](https://en.wikipedia.org/wiki/Giza%20pyramid%20complex) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Giza_Pyramids](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.md) 

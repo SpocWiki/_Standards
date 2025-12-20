@@ -51,8 +51,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/QuantumHarmonicOscilla
 > [Wikipedia](https://en.wikipedia.org/wiki/Wave%20function) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wave_Function](/_Standards/Science/Physics/Quantum_Mechanics/Wave_Function.md) 

@@ -43,7 +43,6 @@ publication_date: 1651-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Leviathan%20(Hobbes%20book))  
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leviathan(Hobbes)](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas/Leviathan(Hobbes).md) 

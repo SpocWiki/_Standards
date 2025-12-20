@@ -119,8 +119,6 @@ OpenStreetMap_tag_or_key: Tag:historic=castle
 > [Wikipedia](https://en.wikipedia.org/wiki/Castle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Castle](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.md) 

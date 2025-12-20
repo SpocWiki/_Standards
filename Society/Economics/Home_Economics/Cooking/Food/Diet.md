@@ -54,8 +54,6 @@ MeSH_tree_code: G07.203.650.240
 > [Wikipedia](https://en.wikipedia.org/wiki/Diet%20(nutrition)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diet](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Diet.md) 

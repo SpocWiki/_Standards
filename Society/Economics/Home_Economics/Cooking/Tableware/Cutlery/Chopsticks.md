@@ -72,8 +72,6 @@ Unicode_character: 🥢
 > [Wikipedia](https://en.wikipedia.org/wiki/Chopsticks) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chopsticks](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.md) 

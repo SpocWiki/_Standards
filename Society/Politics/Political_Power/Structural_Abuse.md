@@ -39,8 +39,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Structural%20abuse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structural_Abuse](/_Standards/Society/Politics/Political_Power/Structural_Abuse.md) 

@@ -56,8 +56,6 @@ Dewey_Decimal_Classification: "604.2"
 > [Wikipedia](https://en.wikipedia.org/wiki/Technical%20drawing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Technical_Drawing](/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.md) 

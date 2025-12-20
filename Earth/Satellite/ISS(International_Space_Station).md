@@ -143,8 +143,6 @@ service_entry: 2000-11-02T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Space%20Station) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ISS(International_Space_Station)](/_Standards/Earth/Satellite/ISS(International_Space_Station).md) 

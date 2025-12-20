@@ -70,8 +70,6 @@ Dewey_Decimal_Classification: "721.2"
 > [Wikipedia](https://en.wikipedia.org/wiki/Wall) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wall](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Wall.md) 

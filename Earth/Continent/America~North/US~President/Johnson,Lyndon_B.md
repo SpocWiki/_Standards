@@ -52,8 +52,6 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/Lyndon%20B.%20Johnson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Johnson,Lyndon_B](/_Standards/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.md) 

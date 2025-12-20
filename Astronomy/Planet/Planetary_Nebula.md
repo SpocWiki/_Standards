@@ -33,8 +33,6 @@ Commons_category: Planetary nebulae
 > [Wikipedia](https://en.wikipedia.org/wiki/Planetary%20nebula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Planetary_Nebula](/_Standards/Astronomy/Planet/Planetary_Nebula.md) 

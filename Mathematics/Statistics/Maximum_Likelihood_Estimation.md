@@ -35,8 +35,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Maximum%20likelihood%20estimation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maximum_Likelihood_Estimation](/_Standards/Mathematics/Statistics/Maximum_Likelihood_Estimation.md) 

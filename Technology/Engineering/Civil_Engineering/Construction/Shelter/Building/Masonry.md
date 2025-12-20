@@ -39,7 +39,6 @@ Commons_category: Masonry (craft)
 > [Wikipedia](https://en.wikipedia.org/wiki/Masonry) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Masonry](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.md) 

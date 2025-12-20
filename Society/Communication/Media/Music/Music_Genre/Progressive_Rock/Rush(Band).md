@@ -66,13 +66,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Rush%20(band))
 
 
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rush(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band).md) 

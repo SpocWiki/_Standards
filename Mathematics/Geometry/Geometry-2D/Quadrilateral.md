@@ -59,8 +59,6 @@ Commons_category: Tetragons
 > [Wikipedia](https://en.wikipedia.org/wiki/Quadrilateral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quadrilateral](/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral.md) 

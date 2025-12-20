@@ -28,8 +28,6 @@ Commons_category: Microtechnology
 > [Wikipedia](https://en.wikipedia.org/wiki/Microtechnology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Microtechnology](/_Standards/Technology/Engineering/Microtechnology.md) 

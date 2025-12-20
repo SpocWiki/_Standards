@@ -42,8 +42,6 @@ This is the [[categorical_Product]] [[../../../../Knowledge/Math/Category_Theory
 This are the Structs/classes/tuples/records well-known in any Programming Language.
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Product-Type](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Product-Type.md) 

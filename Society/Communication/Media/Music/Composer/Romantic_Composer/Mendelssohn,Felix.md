@@ -197,8 +197,6 @@ Europeana_entity: agent/base/147180
 > [Wikipedia](https://en.wikipedia.org/wiki/Felix%20Mendelssohn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mendelssohn,Felix](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.md) 

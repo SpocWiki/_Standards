@@ -43,8 +43,6 @@ Provenio_UUID: b7968586-5afe-47a9-aa48-f9fe60814303
 > [Wikipedia](https://en.wikipedia.org/wiki/Cult%20of%20personality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cult_of_Personality](/_Standards/Society/Social_Issues/Cult_of_Personality.md) 

@@ -38,8 +38,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%9
 > [Wikipedia](https://en.wikipedia.org/wiki/Surprise%20(emotion)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Surprise](/_Standards/bio/Psychology/Affect/Emotion/Surprise.md) 

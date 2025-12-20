@@ -39,8 +39,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mushroom%20poisoning) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mushroom_Poisoning](/_Standards/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.md) 

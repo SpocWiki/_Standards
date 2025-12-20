@@ -46,8 +46,6 @@ Commons_category: History of the European Union
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20European%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_the_European_Union](/_Standards/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.md) 

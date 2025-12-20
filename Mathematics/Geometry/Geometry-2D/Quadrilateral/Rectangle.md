@@ -69,8 +69,6 @@ Commons_category: Rectangles
 > [Wikipedia](https://en.wikipedia.org/wiki/Rectangle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rectangle](/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral/Rectangle.md) 

@@ -70,8 +70,6 @@ Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/FIRMA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Company) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Company](/_Standards/Society/Agent/Community/Organization/Company.md) 

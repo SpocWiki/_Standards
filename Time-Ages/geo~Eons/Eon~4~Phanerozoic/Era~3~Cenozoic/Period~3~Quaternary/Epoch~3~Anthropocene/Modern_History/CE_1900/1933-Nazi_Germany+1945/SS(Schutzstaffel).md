@@ -137,8 +137,6 @@ ISNI: "0000000115203458"
 > [Wikipedia](https://en.wikipedia.org/wiki/Schutzstaffel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [SS(Schutzstaffel)](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).md) 

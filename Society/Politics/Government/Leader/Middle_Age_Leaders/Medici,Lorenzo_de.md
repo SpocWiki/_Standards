@@ -122,8 +122,6 @@ Regensburg_Classification: IU 4640
 > [Wikipedia](https://en.wikipedia.org/wiki/Lorenzo%20de'%20Medici) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medici,Lorenzo_de](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.md) 

@@ -44,8 +44,6 @@ Commons_category: Offal
 > [Wikipedia](https://en.wikipedia.org/wiki/Offal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Offal](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.md) 

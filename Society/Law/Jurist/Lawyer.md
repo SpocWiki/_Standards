@@ -124,8 +124,6 @@ equivalent_class:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lawyer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lawyer](/_Standards/Society/Law/Jurist/Lawyer.md) 

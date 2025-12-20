@@ -100,8 +100,6 @@ ISNI: "0000000121429592"
 > [Wikipedia](https://en.wikipedia.org/wiki/Gerard%20't%20Hooft) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hooft,Gerard_'t](/_Standards/Science/Physics/Physicist/Hooft,Gerard_'t.md) 

@@ -97,8 +97,6 @@ Libris_URI: zw9cdkch2004bb5
 > [Wikipedia](https://en.wikipedia.org/wiki/Edward%20Jenner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jenner,Edward](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.md) 

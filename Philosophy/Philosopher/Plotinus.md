@@ -91,8 +91,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/PLOTIN.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Plotinus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plotinus](/_Standards/Philosophy/Philosopher/Plotinus.md) 

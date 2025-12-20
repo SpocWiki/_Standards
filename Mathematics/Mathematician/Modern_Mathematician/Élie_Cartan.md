@@ -24,8 +24,6 @@ has_id_wikidata: Q274639
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89lie%20Cartan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Élie_Cartan](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.md) 

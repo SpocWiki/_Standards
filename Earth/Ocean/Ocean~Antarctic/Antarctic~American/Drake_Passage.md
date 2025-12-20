@@ -53,8 +53,6 @@ coordinate_location: Point(-62.909444444 -58.580277777)
 > [Wikipedia](https://en.wikipedia.org/wiki/Drake%20Passage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Drake_Passage](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Drake_Passage.md) 

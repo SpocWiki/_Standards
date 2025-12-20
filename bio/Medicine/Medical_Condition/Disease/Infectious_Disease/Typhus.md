@@ -66,8 +66,6 @@ taxon_name: Typhus group
 > [Wikipedia](https://en.wikipedia.org/wiki/Typhus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Typhus](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhus.md) 

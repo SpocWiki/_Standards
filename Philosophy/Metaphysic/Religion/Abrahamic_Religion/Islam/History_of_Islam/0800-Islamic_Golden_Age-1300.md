@@ -33,8 +33,6 @@ Commons_category: Islamic Golden Age
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamic%20Golden%20Age) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0800-Islamic_Golden_Age-1300](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.md) 

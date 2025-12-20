@@ -42,8 +42,6 @@ Amazon_com_browse_node: "11972091"
 > [Wikipedia](https://en.wikipedia.org/wiki/Piccolo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Piccolo_Flute](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.md) 

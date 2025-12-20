@@ -147,8 +147,6 @@ work_period_end_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rafael%20Nadal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nadal,Rafael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.md) 

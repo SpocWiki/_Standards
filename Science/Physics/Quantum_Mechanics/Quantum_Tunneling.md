@@ -37,8 +37,6 @@ Commons_category: Quantum tunneling
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20tunnelling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quantum_Tunneling](/_Standards/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.md) 

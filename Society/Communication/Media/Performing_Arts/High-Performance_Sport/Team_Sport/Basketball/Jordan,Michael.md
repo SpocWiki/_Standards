@@ -35,8 +35,6 @@ has_id_wikidata: Q41421
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Jordan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jordan,Michael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.md) 

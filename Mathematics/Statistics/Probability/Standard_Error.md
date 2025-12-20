@@ -47,8 +47,6 @@ A common source of confusion occurs when failing to distinguish clearly between:
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20error) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Standard_Error](/_Standards/Mathematics/Statistics/Probability/Standard_Error.md) 

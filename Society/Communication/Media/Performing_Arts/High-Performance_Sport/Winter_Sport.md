@@ -44,8 +44,6 @@ Commons_category: Winter sports
 > [Wikipedia](https://en.wikipedia.org/wiki/Winter%20sports) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Winter_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.md) 

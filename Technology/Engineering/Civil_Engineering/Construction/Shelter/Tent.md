@@ -61,8 +61,6 @@ Dewey_Decimal_Classification: "645.32"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tent](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.md) 

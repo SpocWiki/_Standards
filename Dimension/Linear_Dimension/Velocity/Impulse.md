@@ -31,8 +31,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Impulse%20(physics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Impulse](/_Standards/Dimension/Linear_Dimension/Velocity/Impulse.md) 

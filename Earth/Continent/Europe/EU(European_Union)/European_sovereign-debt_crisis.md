@@ -46,8 +46,6 @@ point_in_time: 2010-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Euro%20area%20crisis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_sovereign-debt_crisis](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.md) 

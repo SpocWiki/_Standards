@@ -50,8 +50,6 @@ has_id_wikidata: Q1280670
 > [Wikipedia](https://en.wikipedia.org/wiki/Family%20planning) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Family_Planning](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Family_Planning.md) 

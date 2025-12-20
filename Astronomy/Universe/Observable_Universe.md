@@ -81,8 +81,6 @@ Commons_category: Observable universe
 > [Wikipedia](https://en.wikipedia.org/wiki/Observable%20universe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Observable_Universe](/_Standards/Astronomy/Universe/Observable_Universe.md) 

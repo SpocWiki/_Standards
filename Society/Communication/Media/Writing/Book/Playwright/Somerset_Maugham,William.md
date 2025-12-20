@@ -152,8 +152,6 @@ U_S_National_Archives_Identifier: "10581505"
 > [Wikipedia](https://en.wikipedia.org/wiki/W.%20Somerset%20Maugham) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Somerset_Maugham,William](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Somerset_Maugham,William.md) 

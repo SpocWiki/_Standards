@@ -71,8 +71,6 @@ unit_symbol:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fahrenheit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Degree_Fahrenheit](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.md) 

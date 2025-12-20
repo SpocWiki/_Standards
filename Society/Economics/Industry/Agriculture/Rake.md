@@ -52,8 +52,6 @@ Commons_category: Hand rakes
 > [Wikipedia](https://en.wikipedia.org/wiki/Rake%20(tool)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rake](/_Standards/Society/Economics/Industry/Agriculture/Rake.md) 

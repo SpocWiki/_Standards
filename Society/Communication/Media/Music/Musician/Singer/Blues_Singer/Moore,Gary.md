@@ -115,8 +115,6 @@ date_of_death: 2011-02-06T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Gary%20Moore) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moore,Gary](/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.md) 

@@ -125,8 +125,6 @@ Krugosvet_article_archived_: istoriya/gebbels-paul-iozef
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Goebbels) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goebbels,Joseph](/_Standards/Society/Politics/Government/Leader/Goebbels,Joseph.md) 

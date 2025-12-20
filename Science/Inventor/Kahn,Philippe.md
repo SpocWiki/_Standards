@@ -46,8 +46,6 @@ Europeana_entity: agent/base/157054
 > [Wikipedia](https://en.wikipedia.org/wiki/Philippe%20Kahn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kahn,Philippe](/_Standards/Science/Inventor/Kahn,Philippe.md) 

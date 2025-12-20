@@ -43,8 +43,6 @@ Commons_gallery: Electron shell
 > [Wikipedia](https://en.wikipedia.org/wiki/Electron%20shell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electron_Shell](/_Standards/Science/Physics/Atom/Electron_Shell.md) 

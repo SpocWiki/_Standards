@@ -60,8 +60,6 @@ Commons_category: Sarmatians
 > [Wikipedia](https://en.wikipedia.org/wiki/Sarmatians) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sarmatians](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.md) 

@@ -109,8 +109,6 @@ native_label: الدَّوْلَةُ الأُمَوِيَّةُ
 > [Wikipedia](https://en.wikipedia.org/wiki/Umayyad%20Caliphate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0661-Umayyad Caliphate+0750](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.md) 

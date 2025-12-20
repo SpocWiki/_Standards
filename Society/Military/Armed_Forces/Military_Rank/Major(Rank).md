@@ -19,9 +19,6 @@ has_id_wikidata: Q983927
 > [Wikipedia](https://en.wikipedia.org/wiki/Major%20(rank)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Major(Rank)](/_Standards/Society/Military/Armed_Forces/Military_Rank/Major(Rank).md) 

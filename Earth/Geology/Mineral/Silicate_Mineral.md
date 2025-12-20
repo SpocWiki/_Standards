@@ -22,8 +22,6 @@ has_id_wikidata: Q178977
 > [Wikipedia](https://en.wikipedia.org/wiki/Silicate%20mineral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Silicate_Mineral](/_Standards/Earth/Geology/Mineral/Silicate_Mineral.md) 

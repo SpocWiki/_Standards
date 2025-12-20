@@ -38,8 +38,6 @@ OpenStreetMap_tag: athletics=shot_put
 > [Wikipedia](https://en.wikipedia.org/wiki/Shot%20put) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shot_put](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Shot_put.md) 

@@ -41,7 +41,6 @@ Commons_category: Seismology
 > [Wikipedia](https://en.wikipedia.org/wiki/Seismology) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seismology](/_Standards/Society/Disaster/Natural_Disaster/Earthquake/Seismology.md) 

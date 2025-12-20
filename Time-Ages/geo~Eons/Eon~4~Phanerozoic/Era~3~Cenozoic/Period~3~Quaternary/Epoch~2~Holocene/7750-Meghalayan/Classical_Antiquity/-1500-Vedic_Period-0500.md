@@ -40,8 +40,6 @@ start_time: -1500-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Vedic%20period)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-1500-Vedic_Period-0500](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.md) 

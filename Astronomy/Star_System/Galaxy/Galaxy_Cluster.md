@@ -46,8 +46,6 @@ Stack_Exchange_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy%20cluster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galaxy_Cluster](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Cluster.md) 

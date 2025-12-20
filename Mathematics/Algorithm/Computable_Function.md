@@ -31,8 +31,6 @@ subclass_of: "[[_Standards/WikiData/WD~function,11348]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Computable%20function) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computable_Function](/_Standards/Mathematics/Algorithm/Computable_Function.md) 

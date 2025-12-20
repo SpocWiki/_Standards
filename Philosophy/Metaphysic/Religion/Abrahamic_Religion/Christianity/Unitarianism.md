@@ -27,8 +27,6 @@ has_id_wikidata: Q106687
 > [Wikipedia](https://en.wikipedia.org/wiki/Unitarianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unitarianism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.md) 

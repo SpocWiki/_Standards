@@ -41,9 +41,6 @@ Commons_category: Operators (notation)
 > [Wikipedia](https://en.wikipedia.org/wiki/Operator%20(mathematics)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Operator(Math)](/_Standards/Mathematics/Function(Math)/Operator(Math).md) 

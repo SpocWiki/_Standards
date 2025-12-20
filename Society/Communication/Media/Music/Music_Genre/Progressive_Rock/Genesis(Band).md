@@ -56,11 +56,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Genesis%20(band))
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Genesis(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band).md) 

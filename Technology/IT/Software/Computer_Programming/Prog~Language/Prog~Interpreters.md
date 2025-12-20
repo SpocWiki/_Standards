@@ -13,8 +13,6 @@ The biggest Interpreter Successes are:
 But Compilers force Developers to acknowledge Unsafeties in Type and Reference! 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Interpreters](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Interpreters.md) 

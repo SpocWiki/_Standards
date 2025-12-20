@@ -12,8 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20wind) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solar_Wind](/_Standards/Astronomy/Solar_System/Sun/Solar_Wind.md) 

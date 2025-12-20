@@ -12,9 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20atmosphere%20(unit)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~Atmosphere](/_Standards/Dimension/Dim~Pressure/Unit~Atmosphere.md) 

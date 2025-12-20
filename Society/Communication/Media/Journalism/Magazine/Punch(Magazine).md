@@ -70,9 +70,6 @@ dissolved_abolished_or_demolished_date: 2002-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Punch%20(magazine)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Punch(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Punch(Magazine).md) 

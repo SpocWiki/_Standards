@@ -126,8 +126,6 @@ Libris_URI: 86lnnlzs1010f80
 > [Wikipedia](https://en.wikipedia.org/wiki/Emily%20Dickinson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dickinson,Emily](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.md) 

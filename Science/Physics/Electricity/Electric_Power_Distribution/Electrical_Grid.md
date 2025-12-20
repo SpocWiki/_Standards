@@ -52,8 +52,6 @@ Commons_category: Power grids
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20grid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrical_Grid](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.md) 

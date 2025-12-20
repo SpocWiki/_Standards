@@ -177,8 +177,6 @@ work_period_end_: 1910-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Rousseau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Henri_Rousseau](/_Standards/Society/Communication/Media/Painting/Painter/Henri_Rousseau.md) 

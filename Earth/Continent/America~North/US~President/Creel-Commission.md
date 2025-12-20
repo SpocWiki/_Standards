@@ -26,12 +26,6 @@ The[[../../../../../Knowledge/Military.internal/War-Theater/Cognitive-Force/Prop
 > [Wikipedia](https://en.wikipedia.org/wiki/Committee%20on%20Public%20Information)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Creel-Commission](/_Standards/Earth/Continent/America~North/US~President/Creel-Commission.md) 

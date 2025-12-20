@@ -47,8 +47,6 @@ has_id_wikidata: Q40904
 > [Wikipedia](https://en.wikipedia.org/wiki/Werner%20Heisenberg) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heisenberg,Werner](/_Standards/Science/Physics/Physicist/Heisenberg,Werner.md) 

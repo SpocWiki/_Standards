@@ -36,8 +36,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/T-55A%20Martial%20law%
 > [Wikipedia](https://en.wikipedia.org/wiki/Martial%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Martial_Law](/_Standards/Society/Law/Martial_Law.md) 

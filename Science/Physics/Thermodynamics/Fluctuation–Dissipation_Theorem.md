@@ -24,8 +24,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Fluctuation%E2%80%93dissipation%20theorem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fluctuation–Dissipation_Theorem](/_Standards/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.md) 

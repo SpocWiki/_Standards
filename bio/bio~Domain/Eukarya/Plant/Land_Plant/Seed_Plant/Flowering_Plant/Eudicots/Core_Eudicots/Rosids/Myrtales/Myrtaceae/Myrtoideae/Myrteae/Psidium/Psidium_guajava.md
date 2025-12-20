@@ -88,8 +88,6 @@ EPPO_Code: PSIGU
 > [Wikipedia](https://en.wikipedia.org/wiki/Psidium%20guajava) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Psidium_guajava](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Myrtaceae/Myrtoideae/Myrteae/Psidium/Psidium_guajava.md) 

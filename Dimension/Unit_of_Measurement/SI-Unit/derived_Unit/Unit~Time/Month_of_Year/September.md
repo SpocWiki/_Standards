@@ -103,8 +103,6 @@ pronunciation_audio:
 > [Wikipedia](https://en.wikipedia.org/wiki/September) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [September](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/September.md) 

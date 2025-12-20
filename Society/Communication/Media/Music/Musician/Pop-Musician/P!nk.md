@@ -38,11 +38,6 @@ aliases:
 P!nk
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [P!nk](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/P!nk.md) 

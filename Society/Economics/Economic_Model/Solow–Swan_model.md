@@ -32,10 +32,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Solow%E2%80%93Swan%20model) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solow–Swan_model](/_Standards/Society/Economics/Economic_Model/Solow–Swan_model.md) 

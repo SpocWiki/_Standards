@@ -35,8 +35,6 @@ Commons_category: Olfactory system
 > [Wikipedia](https://en.wikipedia.org/wiki/Olfactory%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Olfactory_System](/_Standards/bio/Medicine/Anatomy/Sense/Olfactory_System.md) 

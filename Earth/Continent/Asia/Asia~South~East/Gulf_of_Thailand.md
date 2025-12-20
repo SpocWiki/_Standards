@@ -67,8 +67,6 @@ coordinate_location: Point(102.0 9.5)
 > [Wikipedia](https://en.wikipedia.org/wiki/Gulf%20of%20Thailand) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gulf_of_Thailand](/_Standards/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.md) 

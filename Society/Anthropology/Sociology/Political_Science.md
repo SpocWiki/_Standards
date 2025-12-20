@@ -19,8 +19,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Political%20science) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Political_Science](/_Standards/Society/Anthropology/Sociology/Political_Science.md) 

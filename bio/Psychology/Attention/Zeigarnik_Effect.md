@@ -24,9 +24,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik%20effect) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zeigarnik_Effect](/_Standards/bio/Psychology/Attention/Zeigarnik_Effect.md) 

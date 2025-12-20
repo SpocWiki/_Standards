@@ -23,10 +23,6 @@ has_id_wikidata: Q131479
 > [Wikipedia](https://en.wikipedia.org/wiki/Dominican%20Order) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dominican](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.md) 

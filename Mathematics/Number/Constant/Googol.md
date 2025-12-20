@@ -50,8 +50,6 @@ name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Googol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Googol](/_Standards/Mathematics/Number/Constant/Googol.md) 

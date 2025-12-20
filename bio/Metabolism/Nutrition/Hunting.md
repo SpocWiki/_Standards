@@ -91,8 +91,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20of%20th
 > [Wikipedia](https://en.wikipedia.org/wiki/Hunting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hunting](/_Standards/bio/Metabolism/Nutrition/Hunting.md) 

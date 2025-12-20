@@ -19,8 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Pumpkin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pumpkin](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita/Pumpkin.md) 

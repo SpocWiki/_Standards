@@ -64,8 +64,6 @@ Commons_category: Outer space
 > [Wikipedia](https://en.wikipedia.org/wiki/Outer%20space) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Outer_Space](/_Standards/Astronomy/Outer_Space.md) 

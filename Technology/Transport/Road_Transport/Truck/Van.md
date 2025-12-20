@@ -49,8 +49,6 @@ subreddit: vandwellers
 > [Wikipedia](https://en.wikipedia.org/wiki/Van) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Van](/_Standards/Technology/Transport/Road_Transport/Truck/Van.md) 

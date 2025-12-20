@@ -59,8 +59,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Colonel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Colonel](/_Standards/Society/Military/Armed_Forces/Military_Rank/Colonel.md) 

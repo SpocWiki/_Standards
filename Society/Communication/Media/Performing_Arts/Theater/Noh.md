@@ -47,8 +47,6 @@ Commons_gallery: 能
 > [Wikipedia](https://en.wikipedia.org/wiki/Noh) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Noh](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Noh.md) 

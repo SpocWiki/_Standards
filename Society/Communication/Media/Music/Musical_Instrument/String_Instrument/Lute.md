@@ -45,8 +45,6 @@ Commons_category: Lutes
 > [Wikipedia](https://en.wikipedia.org/wiki/Lute) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lute](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.md) 

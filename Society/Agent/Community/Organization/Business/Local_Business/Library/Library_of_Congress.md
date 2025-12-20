@@ -225,8 +225,6 @@ ISNI: 000000012186288X
 > [Wikipedia](https://en.wikipedia.org/wiki/Library%20of%20Congress) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Library_of_Congress](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.md) 

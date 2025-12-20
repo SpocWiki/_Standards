@@ -33,8 +33,6 @@ taxon_common_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Denisovan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Denisova_hominin](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Denisova_hominin.md) 

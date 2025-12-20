@@ -208,8 +208,6 @@ H-C()C-OH
 > [Wikipedia](https://en.wikipedia.org/wiki/Phenol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phenol](/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.md) 

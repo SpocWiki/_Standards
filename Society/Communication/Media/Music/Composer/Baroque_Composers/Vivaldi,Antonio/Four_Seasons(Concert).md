@@ -62,8 +62,6 @@ title: Cimento dell'armonia e dell'inventione. N. 1.-4.
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Four%20Seasons%20(Vivaldi)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Four_Seasons(Concert)](/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).md) 

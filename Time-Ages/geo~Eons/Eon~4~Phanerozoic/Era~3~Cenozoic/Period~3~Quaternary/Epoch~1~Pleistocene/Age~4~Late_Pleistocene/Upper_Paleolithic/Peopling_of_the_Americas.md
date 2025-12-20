@@ -43,8 +43,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Peopling%20of%20the%20Americas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Peopling_of_the_Americas](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.md) 

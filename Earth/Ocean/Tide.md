@@ -47,8 +47,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Tide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tide](/_Standards/Earth/Ocean/Tide.md) 

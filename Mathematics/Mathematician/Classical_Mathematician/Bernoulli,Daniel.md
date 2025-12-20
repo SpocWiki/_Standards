@@ -120,8 +120,6 @@ date_of_death: 1782-03-17T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Daniel%20Bernoulli) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bernoulli,Daniel](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.md) 

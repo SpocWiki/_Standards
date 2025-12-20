@@ -24,8 +24,6 @@ Commons_category: Stealth technology
 > [Wikipedia](https://en.wikipedia.org/wiki/Stealth%20technology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stealth_Technology](/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.md) 

@@ -9,7 +9,6 @@ Encapsulation works double:
 ![Engineer~Encapsulation](../../../../../Knowledge/Engineer/Engineer~Encapsulation.md)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OO~Encapsulation](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Encapsulation.md) 

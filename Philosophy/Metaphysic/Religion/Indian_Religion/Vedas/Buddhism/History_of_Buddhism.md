@@ -21,8 +21,6 @@ Commons_category: History of Buddhism
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Buddhism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Buddhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.md) 

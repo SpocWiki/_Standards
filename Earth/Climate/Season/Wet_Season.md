@@ -36,8 +36,6 @@ Commons_category: Wet season
 > [Wikipedia](https://en.wikipedia.org/wiki/Wet%20season) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wet_Season](/_Standards/Earth/Climate/Season/Wet_Season.md) 

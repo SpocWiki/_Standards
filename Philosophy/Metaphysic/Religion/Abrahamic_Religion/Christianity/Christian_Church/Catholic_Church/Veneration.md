@@ -33,8 +33,6 @@ Provenio_UUID: 534e1e79-a17a-43cc-b159-c3e7f7dd3bee
 > [Wikipedia](https://en.wikipedia.org/wiki/Veneration  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Veneration](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Veneration.md) 

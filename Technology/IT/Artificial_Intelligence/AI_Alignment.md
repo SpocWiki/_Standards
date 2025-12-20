@@ -43,12 +43,6 @@ The AI can detect when it is being tested and changes its behavior accordingly.
 Similar to the Exhaust Faking in Automobiles. 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [AI_Alignment](/_Standards/Technology/IT/Artificial_Intelligence/AI_Alignment.md) 

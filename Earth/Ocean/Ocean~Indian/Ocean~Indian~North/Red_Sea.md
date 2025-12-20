@@ -94,8 +94,6 @@ U_S_National_Archives_Identifier: "10046247"
 > [Wikipedia](https://en.wikipedia.org/wiki/Red%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Red_Sea](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.md) 

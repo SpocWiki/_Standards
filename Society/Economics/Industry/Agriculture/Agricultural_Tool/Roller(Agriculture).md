@@ -39,8 +39,6 @@ Commons_category: Agricultural rollers
 > [Wikipedia](https://en.wikipedia.org/wiki/Roller%20(agricultural%20tool)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roller(Agriculture)](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).md) 

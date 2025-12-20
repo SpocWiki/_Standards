@@ -79,8 +79,6 @@ Commons_category: Hilbert's problems
 > [Wikipedia](https://en.wikipedia.org/wiki/Hilbert's%20problems) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hilbert's_Problems](/_Standards/Mathematics/Hilbert's_Problems.md) 

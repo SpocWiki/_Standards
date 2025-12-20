@@ -139,8 +139,6 @@ ISNI: "0000000122792940"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pablo%20Escobar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Escobar,Pablo](/_Standards/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking/Escobar,Pablo.md) 

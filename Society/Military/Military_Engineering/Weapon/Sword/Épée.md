@@ -48,8 +48,6 @@ IPTC_NewsCode: mediatopic/20000930
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89p%C3%A9e) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Épée](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Épée.md) 

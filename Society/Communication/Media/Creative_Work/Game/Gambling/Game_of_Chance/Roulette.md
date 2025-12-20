@@ -39,8 +39,6 @@ Universal_Decimal_Classification: "794.92"
 > [Wikipedia](https://en.wikipedia.org/wiki/Roulette) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roulette](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Roulette.md) 

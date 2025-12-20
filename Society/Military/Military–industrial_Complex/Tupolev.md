@@ -67,8 +67,6 @@ inception: 1922-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Tupolev) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tupolev](/_Standards/Society/Military/Military–industrial_Complex/Tupolev.md) 

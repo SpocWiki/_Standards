@@ -26,8 +26,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Alternation%20of%20gen
 > [Wikipedia](https://en.wikipedia.org/wiki/Sporophyte)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sporophyte](/_Standards/bio/Botany/Plant_Anatomy/Sporophyte.md) 

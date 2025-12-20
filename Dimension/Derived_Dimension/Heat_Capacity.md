@@ -51,8 +51,6 @@ Commons_category: Heat capacity
 > [Wikipedia](https://en.wikipedia.org/wiki/Heat%20capacity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heat_Capacity](/_Standards/Dimension/Derived_Dimension/Heat_Capacity.md) 

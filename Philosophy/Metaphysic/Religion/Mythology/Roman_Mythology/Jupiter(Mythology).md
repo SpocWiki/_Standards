@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Jupiter%20(god)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jupiter(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).md) 

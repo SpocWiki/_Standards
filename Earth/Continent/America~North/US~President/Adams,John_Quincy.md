@@ -32,8 +32,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of :: [[Whig Party]] ] [created:: 1825-03-04]  [cancelled:: 1829-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Adams,John_Quincy](/_Standards/Earth/Continent/America~North/US~President/Adams,John_Quincy.md) 

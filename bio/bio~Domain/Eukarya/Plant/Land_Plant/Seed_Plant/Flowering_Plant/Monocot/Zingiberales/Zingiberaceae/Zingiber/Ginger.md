@@ -109,8 +109,6 @@ external_data_available_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ginger) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ginger](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber/Ginger.md) 

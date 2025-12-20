@@ -31,8 +31,6 @@ Commons_category: Ice ages
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20Age) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ice_Age](/_Standards/Earth/Climate/Ice_Age.md) 

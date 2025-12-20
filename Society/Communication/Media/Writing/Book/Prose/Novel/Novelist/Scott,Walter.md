@@ -183,8 +183,6 @@ date_of_birth: 1771-08-15T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Walter%20Scott) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scott,Walter](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Scott,Walter.md) 

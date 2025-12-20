@@ -95,8 +95,6 @@ P8189: "987007259337005171"
 > [Wikipedia](https://en.wikipedia.org/wiki/CNN) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CNN(Cable_News_Network)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CNN(Cable_News_Network).md) 

@@ -60,8 +60,6 @@ MeSH_tree_code: B01.050.150.900.649.313.250
 > [Wikipedia](https://en.wikipedia.org/wiki/Afrotheria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Afrotheria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria.md) 

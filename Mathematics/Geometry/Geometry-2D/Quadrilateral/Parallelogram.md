@@ -52,8 +52,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Parallelogram%20simple
 > [Wikipedia](https://en.wikipedia.org/wiki/Parallelogram) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parallelogram](/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.md) 

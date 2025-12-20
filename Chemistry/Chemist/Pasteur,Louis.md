@@ -205,8 +205,6 @@ NLC_authorities: "001863132"
 > [Wikipedia](https://en.wikipedia.org/wiki/Louis%20Pasteur) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pasteur,Louis](/_Standards/Chemistry/Chemist/Pasteur,Louis.md) 

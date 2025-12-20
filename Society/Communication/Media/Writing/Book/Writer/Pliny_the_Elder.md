@@ -115,8 +115,6 @@ name_in_native_language: Caius Plinius Secundus
 > [Wikipedia](https://en.wikipedia.org/wiki/Pliny%20the%20Elder) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pliny_the_Elder](/_Standards/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.md) 

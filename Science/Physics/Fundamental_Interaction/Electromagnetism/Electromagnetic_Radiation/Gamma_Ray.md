@@ -61,8 +61,6 @@ Commons_category: Gamma rays
 > [Wikipedia](https://en.wikipedia.org/wiki/Gamma%20ray) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gamma_Ray](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.md) 

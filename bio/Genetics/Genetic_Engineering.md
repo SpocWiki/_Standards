@@ -42,8 +42,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/GFP%20Mice%2001.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetic%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Genetic_Engineering](/_Standards/bio/Genetics/Genetic_Engineering.md) 

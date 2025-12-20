@@ -54,8 +54,6 @@ Commons_category: Reflexes
 > [Wikipedia](https://en.wikipedia.org/wiki/Reflex) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reflex](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.md) 

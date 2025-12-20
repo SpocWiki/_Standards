@@ -18,7 +18,6 @@ Move { x: 10, y: 30 },
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~struct](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~struct.md) 

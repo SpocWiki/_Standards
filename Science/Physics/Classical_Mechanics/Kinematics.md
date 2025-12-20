@@ -46,9 +46,6 @@ Commons_category: Kinematics
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinematics) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kinematics](/_Standards/Science/Physics/Classical_Mechanics/Kinematics.md) 

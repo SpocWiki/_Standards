@@ -38,8 +38,6 @@ has_id_wikidata: Q170384
 > [Wikipedia](https://en.wikipedia.org/wiki/Operetta) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Operetta](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Operetta.md) 

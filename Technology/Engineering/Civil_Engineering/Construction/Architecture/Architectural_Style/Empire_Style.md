@@ -25,8 +25,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Napoleon%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Empire%20style) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Empire_Style](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.md) 

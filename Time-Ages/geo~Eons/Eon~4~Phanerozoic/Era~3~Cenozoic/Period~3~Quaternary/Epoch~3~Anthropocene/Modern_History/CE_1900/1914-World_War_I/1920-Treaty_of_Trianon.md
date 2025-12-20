@@ -81,8 +81,6 @@ point_in_time: 1920-06-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Trianon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1920-Treaty_of_Trianon](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.md) 

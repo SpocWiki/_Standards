@@ -99,8 +99,6 @@ Commons_category: Foot-and-mouth disease
 > [Wikipedia](https://en.wikipedia.org/wiki/Foot-and-mouth%20disease) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hoof-and-Mouth_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.md) 

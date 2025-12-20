@@ -28,8 +28,6 @@ has_id_wikidata: Q895901
 > [Wikipedia](https://en.wikipedia.org/wiki/Crystal%20structure) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crystal_Structure](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_Structure.md) 

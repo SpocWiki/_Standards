@@ -15,9 +15,6 @@ these new Systems continued to accumulate and abuse Power:
 ## Capitalism 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Power-Abuse](/_Standards/Society/Politics/Political_Power/Power-Abuse.md) 

@@ -51,8 +51,6 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pachisi.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Pachisi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pachisi](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Pachisi.md) 

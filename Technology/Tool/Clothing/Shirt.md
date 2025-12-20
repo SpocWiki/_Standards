@@ -39,8 +39,6 @@ booru_tag: shirt_
 > [Wikipedia](https://en.wikipedia.org/wiki/Shirt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shirt](/_Standards/Technology/Tool/Clothing/Shirt.md) 

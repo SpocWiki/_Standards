@@ -49,9 +49,6 @@ Iconclass_notation: 47C436
 > [Wikipedia](https://en.wikipedia.org/wiki/Soldering) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soldering_or_Brazing](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Soldering_or_Brazing.md) 

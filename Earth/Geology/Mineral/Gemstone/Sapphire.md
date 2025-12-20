@@ -65,8 +65,6 @@ Baidu_Tieba_name: 蓝宝石
 > [Wikipedia](https://en.wikipedia.org/wiki/Sapphire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sapphire](/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire.md) 

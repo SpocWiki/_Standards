@@ -13,8 +13,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Blue%20Boy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Blue_Boy](/_Standards/Society/Communication/Media/Painting/Blue_Boy.md) 

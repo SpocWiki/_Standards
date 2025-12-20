@@ -52,8 +52,6 @@ IEV_number: 845-32-037
 > [Wikipedia](https://en.wikipedia.org/wiki/Liquid-crystal%20display) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LCD(Liquid-Crystal_Display)](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LCD(Liquid-Crystal_Display).md) 

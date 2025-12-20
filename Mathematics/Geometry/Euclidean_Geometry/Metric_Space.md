@@ -56,8 +56,6 @@ Commons_category: Metric geometry
 > [Wikipedia](https://en.wikipedia.org/wiki/Metric%20space) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metric_Space](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.md) 

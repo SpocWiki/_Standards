@@ -45,8 +45,6 @@ ISNI: "0000000122960991"
 > [Wikipedia](https://en.wikipedia.org/wiki/Paris%20Club) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paris_Club](/_Standards/Society/Economics/Money/Debt/Paris_Club.md) 

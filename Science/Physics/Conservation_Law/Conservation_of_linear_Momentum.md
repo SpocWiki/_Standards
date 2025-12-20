@@ -46,10 +46,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Momentum) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conservation_of_linear_Momentum](/_Standards/Science/Physics/Conservation_Law/Conservation_of_linear_Momentum.md) 

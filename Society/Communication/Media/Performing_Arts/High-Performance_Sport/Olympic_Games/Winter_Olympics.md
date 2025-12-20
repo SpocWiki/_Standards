@@ -53,8 +53,6 @@ Krugosvet_article_archived_: sport/ZIMNIE_OLIMPISKIE_IGRI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Winter%20Olympic%20Games) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Winter_Olympics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Winter_Olympics.md) 

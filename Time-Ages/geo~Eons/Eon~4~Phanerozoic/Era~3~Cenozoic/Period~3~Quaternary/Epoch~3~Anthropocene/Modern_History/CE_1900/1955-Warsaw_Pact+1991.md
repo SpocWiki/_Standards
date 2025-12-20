@@ -124,8 +124,6 @@ Commons_category: Warsaw Pact
 > [Wikipedia](https://en.wikipedia.org/wiki/Warsaw%20Pact) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1955-Warsaw_Pact+1991](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.md) 

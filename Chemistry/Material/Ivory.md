@@ -40,8 +40,6 @@ EAGLE_id: material/lod/120
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ivory](/_Standards/Chemistry/Material/Ivory.md) 

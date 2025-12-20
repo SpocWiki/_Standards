@@ -59,8 +59,6 @@ Commons_category: Syndromes
 > [Wikipedia](https://en.wikipedia.org/wiki/Syndrome) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Syndrome](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Syndrome.md) 

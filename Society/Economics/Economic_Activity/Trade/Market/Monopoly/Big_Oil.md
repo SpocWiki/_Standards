@@ -16,9 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Oil) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Big_Oil](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.md) 

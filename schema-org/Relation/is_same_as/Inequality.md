@@ -30,8 +30,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20Programming%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Inequality%20(mathematics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inequality](/_Standards/schema-org/Relation/is_same_as/Inequality.md) 

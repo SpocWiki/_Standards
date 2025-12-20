@@ -36,8 +36,6 @@ native_label: myocytus
 > [Wikipedia](https://en.wikipedia.org/wiki/Muscle%20cell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Myocyte](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.md) 

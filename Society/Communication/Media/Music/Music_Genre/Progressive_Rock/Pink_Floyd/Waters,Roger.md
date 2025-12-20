@@ -112,8 +112,6 @@ Europeana_entity: agent/base/61660
 > [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Waters)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Waters,Roger](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.md) 

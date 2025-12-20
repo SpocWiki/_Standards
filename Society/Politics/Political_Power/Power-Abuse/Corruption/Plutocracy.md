@@ -39,8 +39,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Theodor%20Hei
 > [Wikipedia](https://en.wikipedia.org/wiki/Plutocracy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plutocracy](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Plutocracy.md) 

@@ -20,9 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesopotamian%20mythology)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mesopotamian_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology.md) 

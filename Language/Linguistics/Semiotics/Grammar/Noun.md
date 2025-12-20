@@ -66,8 +66,6 @@ Commons_category: Nouns
 > [Wikipedia](https://en.wikipedia.org/wiki/Noun) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Noun](/_Standards/Language/Linguistics/Semiotics/Grammar/Noun.md) 

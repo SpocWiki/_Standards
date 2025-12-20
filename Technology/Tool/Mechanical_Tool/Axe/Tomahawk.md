@@ -13,8 +13,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Tomahawk) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tomahawk](/_Standards/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.md) 

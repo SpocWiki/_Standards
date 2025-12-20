@@ -96,8 +96,6 @@ Dewey_Decimal_Classification: "523.887"
 > [Wikipedia](https://en.wikipedia.org/wiki/White%20dwarf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [White_Dwarf](/_Standards/Astronomy/Star/Star~Class/White_Dwarf.md) 

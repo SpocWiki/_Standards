@@ -33,10 +33,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sheaf%20(mathematics)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sheaf(Math)](/_Standards/Mathematics/Category_Theory/Sheaf(Math).md) 

@@ -41,8 +41,6 @@ Gujarati_Vishwakosh_entry: પૂર્વગ્રહ-prejudice
 > [Wikipedia](https://en.wikipedia.org/wiki/Prejudice) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prejudice](/_Standards/bio/Psychology/Affect/Prejudice.md) 

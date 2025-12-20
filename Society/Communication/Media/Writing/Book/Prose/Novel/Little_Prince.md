@@ -107,8 +107,6 @@ OCLC_number: "22583605"
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Little%20Prince) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Little_Prince](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Little_Prince.md) 

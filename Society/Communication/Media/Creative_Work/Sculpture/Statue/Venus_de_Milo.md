@@ -106,8 +106,6 @@ coordinate_location: Point(2.337287873 48.859944681)
 > [Wikipedia](https://en.wikipedia.org/wiki/Venus%20de%20Milo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Venus_de_Milo](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.md) 

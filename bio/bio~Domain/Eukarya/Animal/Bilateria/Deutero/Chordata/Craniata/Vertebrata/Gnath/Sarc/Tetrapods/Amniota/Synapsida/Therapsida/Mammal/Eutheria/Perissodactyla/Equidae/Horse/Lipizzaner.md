@@ -79,8 +79,6 @@ native_label: Lipicanec
 > [Wikipedia](https://en.wikipedia.org/wiki/Lipizzan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lipizzaner](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Lipizzaner.md) 

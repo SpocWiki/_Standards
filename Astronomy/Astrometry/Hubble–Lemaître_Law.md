@@ -70,8 +70,6 @@ time_of_discovery_or_invention: 1927-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hubble's%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hubble–Lemaître_Law](/_Standards/Astronomy/Astrometry/Hubble–Lemaître_Law.md) 

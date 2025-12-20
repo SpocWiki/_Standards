@@ -39,8 +39,6 @@ Commons_category: Nerve tissue
 > [Wikipedia](https://en.wikipedia.org/wiki/Nervous%20tissue) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nervous_Tissue](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Nervous_Tissue.md) 

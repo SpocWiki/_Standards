@@ -49,8 +49,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Absorber.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Absorption%20(chemistry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Absorption](/_Standards/Chemistry/Chemical_Reaction/Absorption.md) 

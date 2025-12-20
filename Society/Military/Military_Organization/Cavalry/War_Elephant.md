@@ -34,8 +34,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20elephant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [War_Elephant](/_Standards/Society/Military/Military_Organization/Cavalry/War_Elephant.md) 

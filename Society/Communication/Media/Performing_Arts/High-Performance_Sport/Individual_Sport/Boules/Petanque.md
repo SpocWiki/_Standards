@@ -52,8 +52,6 @@ OpenStreetMap_tag: sport=petanque
 > [Wikipedia](https://en.wikipedia.org/wiki/P%C3%A9tanque) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Petanque](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Boules/Petanque.md) 

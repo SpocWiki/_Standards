@@ -33,8 +33,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/MollisolNebraska.JPG
 > [Wikipedia](https://en.wikipedia.org/wiki/Soil%20formation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pedogenesis](/_Standards/Earth/Geology/Pedogenesis.md) 

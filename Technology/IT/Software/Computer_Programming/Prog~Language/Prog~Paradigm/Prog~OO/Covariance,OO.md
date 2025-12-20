@@ -11,8 +11,6 @@ Function-__Results__ and out-Parameters [[../../../../../../../schema-org/Class/
 i.e. they can be more specific without breaking the [[Liskov_Substitution-Principle]].  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Covariance,OO](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.md) 

@@ -51,8 +51,6 @@ Commons_category: Lieder
 > [Wikipedia](https://en.wikipedia.org/wiki/Lied) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lied](/_Standards/Society/Communication/Media/Music/Music_Genre/Lied.md) 

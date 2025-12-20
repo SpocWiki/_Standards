@@ -98,8 +98,6 @@ ISNI: "0000000109657250"
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Burns%20Woodward) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Burns_Woodward,Robert](/_Standards/Chemistry/Chemist/Burns_Woodward,Robert.md) 

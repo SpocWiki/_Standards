@@ -34,8 +34,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Scotia%20Sea%201996.jp
 > [Wikipedia](https://en.wikipedia.org/wiki/Scotia%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scotia_Sea](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.md) 

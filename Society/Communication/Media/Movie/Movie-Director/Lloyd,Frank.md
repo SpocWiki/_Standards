@@ -67,8 +67,6 @@ ISNI: "0000000117455958"
 > [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Lloyd) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lloyd,Frank](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lloyd,Frank.md) 

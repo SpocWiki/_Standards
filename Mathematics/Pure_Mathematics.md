@@ -35,8 +35,6 @@ opposite_of: "[[_Standards/WikiData/WD~applied_mathematics,33521]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pure%20mathematics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pure_Mathematics](/_Standards/Mathematics/Pure_Mathematics.md) 

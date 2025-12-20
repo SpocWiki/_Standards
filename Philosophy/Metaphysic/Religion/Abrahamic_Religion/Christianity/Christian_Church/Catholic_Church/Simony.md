@@ -31,8 +31,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Simonie%20-%20Medieval
 > [Wikipedia](https://en.wikipedia.org/wiki/Simony) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Simony](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Simony.md) 

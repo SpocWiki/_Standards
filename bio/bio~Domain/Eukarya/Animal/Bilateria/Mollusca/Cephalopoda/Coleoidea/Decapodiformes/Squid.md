@@ -44,8 +44,6 @@ Unicode_character: 🦑
 > [Wikipedia](https://en.wikipedia.org/wiki/Squid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Squid](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Squid.md) 

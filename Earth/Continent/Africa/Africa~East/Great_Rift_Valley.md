@@ -70,8 +70,6 @@ Commons_category: Great Plains
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Rift%20Valley) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Great_Rift_Valley](/_Standards/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.md) 

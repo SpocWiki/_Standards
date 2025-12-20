@@ -39,8 +39,6 @@ Commons_category: History of Asia
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Asia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Asia](/_Standards/Earth/Continent/Asia/History_of_Asia.md) 

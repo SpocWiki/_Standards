@@ -85,8 +85,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Poultry"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Poultry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poultry](/_Standards/Society/Economics/Industry/Agriculture/Domestication/Poultry.md) 

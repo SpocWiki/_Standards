@@ -68,8 +68,6 @@ date_of_birth: 1914-05-29T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Tenzing%20Norgay) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tenzing_Norgay](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.md) 

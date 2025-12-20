@@ -45,8 +45,6 @@ Baidu_Tieba_name: 祖母绿
 > [Wikipedia](https://en.wikipedia.org/wiki/Emerald) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Emerald](/_Standards/Chemistry/Material/Beryl/Emerald.md) 

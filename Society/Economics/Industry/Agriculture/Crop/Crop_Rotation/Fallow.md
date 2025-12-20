@@ -27,8 +27,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fallow) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fallow](/_Standards/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation/Fallow.md) 

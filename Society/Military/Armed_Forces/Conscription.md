@@ -36,8 +36,6 @@ Commons_category: Conscription
 > [Wikipedia](https://en.wikipedia.org/wiki/Conscription) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conscription](/_Standards/Society/Military/Armed_Forces/Conscription.md) 

@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/HyperTalk)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [HyperTalk](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/HyperTalk.md) 

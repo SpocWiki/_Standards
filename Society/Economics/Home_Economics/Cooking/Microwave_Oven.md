@@ -84,8 +84,6 @@ OpenStreetMap_tag: amenity=microwave
 > [Wikipedia](https://en.wikipedia.org/wiki/Microwave%20oven) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Microwave_Oven](/_Standards/Society/Economics/Home_Economics/Cooking/Microwave_Oven.md) 

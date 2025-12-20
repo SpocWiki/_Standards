@@ -58,8 +58,6 @@ PhilPapers_topic: quantum-chromodynamics
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20chromodynamics)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [QCD(Quantum_Chromodynamics)](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/QCD(Quantum_Chromodynamics).md) 

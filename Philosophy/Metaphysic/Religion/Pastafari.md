@@ -77,8 +77,6 @@ inception: 2005-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Flying%20Spaghetti%20Monster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pastafari](/_Standards/Philosophy/Metaphysic/Religion/Pastafari.md) 

@@ -79,10 +79,6 @@ Commons_category: Sausages
 > [Wikipedia](https://en.wikipedia.org/wiki/Sausage) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sausage](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Sausage.md) 

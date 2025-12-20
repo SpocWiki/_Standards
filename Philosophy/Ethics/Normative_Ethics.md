@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Normative%20ethics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Normative_Ethics](/_Standards/Philosophy/Ethics/Normative_Ethics.md) 

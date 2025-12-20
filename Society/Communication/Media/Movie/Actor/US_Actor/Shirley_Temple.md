@@ -127,8 +127,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TEMPL_SHIRLI.htm
 > [Wikipedia](https://en.wikipedia.org/wiki/Shirley%20Temple) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shirley_Temple](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.md) 

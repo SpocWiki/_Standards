@@ -120,8 +120,6 @@ ISNI: "0000000078791368"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sergey%20Brin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brin,Sergey](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.md) 

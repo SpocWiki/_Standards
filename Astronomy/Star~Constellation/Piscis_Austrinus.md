@@ -54,8 +54,6 @@ short_name: PsA
 > [Wikipedia](https://en.wikipedia.org/wiki/Piscis%20Austrinus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Piscis_Austrinus](/_Standards/Astronomy/Star~Constellation/Piscis_Austrinus.md) 

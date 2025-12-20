@@ -72,8 +72,6 @@ Commons_category: Visual perception
 > [Wikipedia](https://en.wikipedia.org/wiki/Visual%20perception) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Visual_Perception](/_Standards/bio/Psychology/Consciousness/Perception/Visual_Perception.md) 

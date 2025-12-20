@@ -66,8 +66,6 @@ time_of_discovery_or_invention: 1915-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Handball) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Handball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Handball.md) 

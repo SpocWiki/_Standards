@@ -51,8 +51,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnet](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnet.md) 

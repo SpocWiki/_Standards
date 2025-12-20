@@ -36,8 +36,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Stories%20of%20beowulf
 > [Wikipedia](https://en.wikipedia.org/wiki/Grendel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grendel](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf/Grendel.md) 

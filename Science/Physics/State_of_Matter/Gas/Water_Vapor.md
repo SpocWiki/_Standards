@@ -75,8 +75,6 @@ Commons_category: Water vapor
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20vapor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Water_Vapor](/_Standards/Science/Physics/State_of_Matter/Gas/Water_Vapor.md) 

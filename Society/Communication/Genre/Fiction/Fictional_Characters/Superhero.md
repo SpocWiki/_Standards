@@ -96,8 +96,6 @@ male_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Superhero) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Superhero](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero.md) 

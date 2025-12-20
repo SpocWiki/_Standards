@@ -27,8 +27,6 @@ has_id_wikidata: Q7755
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Constitution](/_Standards/Society/Politics/Government/Constitution.md) 

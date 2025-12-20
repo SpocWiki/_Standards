@@ -30,8 +30,6 @@ short_name: EWWU
 > [Wikipedia](https://en.wikipedia.org/wiki/Economic%20and%20Monetary%20Union%20of%20the%20European%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Economic_and_Monetary_Union_of_the_European_Union](/_Standards/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.md) 

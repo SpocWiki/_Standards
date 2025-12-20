@@ -40,8 +40,6 @@ has_id_wikidata: Q3114762
 > [Wikipedia](https://en.wikipedia.org/wiki/Warship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Warship](/_Standards/Society/Military/Military_Organization/Navy/Warship.md) 

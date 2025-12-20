@@ -92,8 +92,6 @@ male_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20practitioner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [General_Practitioner](/_Standards/bio/Medicine/Medical_Business/Physician/General_Practitioner.md) 

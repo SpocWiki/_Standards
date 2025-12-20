@@ -75,9 +75,6 @@ Measurements bound to a range and repeating (like degrees in a circle, clock tim
 10. Absolute
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Level_of_Measurement](/_Standards/Science/Physics/Measurement/Level_of_Measurement.md) 

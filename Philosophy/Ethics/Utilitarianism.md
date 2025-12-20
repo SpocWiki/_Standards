@@ -67,8 +67,6 @@ PhilPapers_topic: utilitarianism
 > [Wikipedia](https://en.wikipedia.org/wiki/Utilitarianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Utilitarianism](/_Standards/Philosophy/Ethics/Utilitarianism.md) 

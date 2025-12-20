@@ -167,8 +167,6 @@ Libris_URI: c9ps14cw1nw63nw
 > [Wikipedia](https://en.wikipedia.org/wiki/UEFA) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [UEFA](/_Standards/Society/Agent/Community/Organization/Sports_Organization/UEFA.md) 

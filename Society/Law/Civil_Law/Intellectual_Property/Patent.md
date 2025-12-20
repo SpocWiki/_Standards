@@ -59,8 +59,6 @@ MeSH_tree_code: V02.675
 > [Wikipedia](https://en.wikipedia.org/wiki/Patent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Patent](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Patent.md) 

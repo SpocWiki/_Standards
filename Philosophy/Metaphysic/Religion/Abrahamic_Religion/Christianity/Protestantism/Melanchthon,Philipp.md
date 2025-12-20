@@ -147,9 +147,6 @@ ISNI: "0000000121400378"
 > [Wikipedia](https://en.wikipedia.org/wiki/Philip%20Melanchthon) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Melanchthon,Philipp](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.md) 

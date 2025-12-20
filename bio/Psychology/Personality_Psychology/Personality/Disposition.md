@@ -30,8 +30,6 @@ contributing_factor_of: "[[_Standards/WikiData/WD~behavior,9332]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Disposition) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Disposition](/_Standards/bio/Psychology/Personality_Psychology/Personality/Disposition.md) 

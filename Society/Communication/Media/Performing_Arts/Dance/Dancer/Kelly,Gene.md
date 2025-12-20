@@ -123,8 +123,6 @@ Europeana_entity: agent/base/146819
 > [Wikipedia](https://en.wikipedia.org/wiki/Gene%20Kelly) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kelly,Gene](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Kelly,Gene.md) 

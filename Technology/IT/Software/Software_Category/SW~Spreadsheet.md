@@ -71,8 +71,6 @@ Commons_category: Spreadsheet software
 > [Wikipedia](https://en.wikipedia.org/wiki/Spreadsheet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [SW~Spreadsheet](/_Standards/Technology/IT/Software/Software_Category/SW~Spreadsheet.md) 

@@ -48,8 +48,6 @@ Commons_category: Technocracy
 > [Wikipedia](https://en.wikipedia.org/wiki/Technocracy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Technocracy](/_Standards/Society/Politics/Government/Technocracy.md) 

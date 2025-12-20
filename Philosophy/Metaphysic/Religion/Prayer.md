@@ -63,8 +63,6 @@ PhilPapers_topic: prayer
 > [Wikipedia](https://en.wikipedia.org/wiki/Prayer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prayer](/_Standards/Philosophy/Metaphysic/Religion/Prayer.md) 

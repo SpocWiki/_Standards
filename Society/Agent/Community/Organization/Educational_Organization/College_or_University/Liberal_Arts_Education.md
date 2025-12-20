@@ -84,8 +84,6 @@ Commons_category: Seven liberal arts
 > [Wikipedia](https://en.wikipedia.org/wiki/Liberal%20arts%20education) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Liberal_Arts_Education](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Liberal_Arts_Education.md) 

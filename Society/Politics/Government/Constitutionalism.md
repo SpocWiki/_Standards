@@ -42,8 +42,6 @@ PhilPapers_topic: constitutionalism
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitutionalism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Constitutionalism](/_Standards/Society/Politics/Government/Constitutionalism.md) 

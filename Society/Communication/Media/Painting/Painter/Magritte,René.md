@@ -216,8 +216,6 @@ AGORHA_UUID: 64824f4a-47c3-4e08-9f58-60a1e021f61f
 > [Wikipedia](https://en.wikipedia.org/wiki/Ren%C3%A9%20Magritte) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magritte,René](/_Standards/Society/Communication/Media/Painting/Painter/Magritte,René.md) 

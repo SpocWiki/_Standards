@@ -53,8 +53,6 @@ PhilPapers_topic: religious-studies
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20studies) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Religious_Studies](/_Standards/Society/Anthropology/Sociology/Religious_Studies.md) 

@@ -81,8 +81,6 @@ PhilPapers_topic: russells-paradox
 > [Wikipedia](https://en.wikipedia.org/wiki/Russell's%20paradox) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Russell's_Paradox](/_Standards/Mathematics/Set_Theory/Russell's_Paradox.md) 

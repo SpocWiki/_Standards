@@ -62,8 +62,6 @@ Commons_category: Crossbows
 > [Wikipedia](https://en.wikipedia.org/wiki/Crossbow) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crossbow](/_Standards/Society/Military/Military_Engineering/Weapon/Bow/Crossbow.md) 

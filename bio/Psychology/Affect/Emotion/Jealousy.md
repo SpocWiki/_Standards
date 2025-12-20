@@ -43,8 +43,6 @@ MeSH_tree_code: F01.470.653
 > [Wikipedia](https://en.wikipedia.org/wiki/Jealousy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jealousy](/_Standards/bio/Psychology/Affect/Emotion/Jealousy.md) 

@@ -53,8 +53,6 @@ Commons_category: Sauces
 > [Wikipedia](https://en.wikipedia.org/wiki/Sauce) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sauce](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.md) 

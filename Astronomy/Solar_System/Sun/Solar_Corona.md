@@ -38,8 +38,6 @@ Commons_category: Solar corona
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20corona) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solar_Corona](/_Standards/Astronomy/Solar_System/Sun/Solar_Corona.md) 

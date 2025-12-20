@@ -43,8 +43,6 @@ Chroma is the "colorfulness of an area judged as a proportion of the brightness 
 Saturation is the "colorfulness of an area judged in proportion to its brightness", which in effect is the perceived freedom from whitishness of the light coming from the area. An object with a given spectral reflectance exhibits approximately constant saturation for all levels of illumination, unless the brightness is very high.
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Colorfulness](/_Standards/Technology/Design/Graphic_Design/Color/Colorfulness.md) 

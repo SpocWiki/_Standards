@@ -39,8 +39,6 @@ Dewey_Decimal_Classification: "532.05"
 > [Wikipedia](https://en.wikipedia.org/wiki/Fluid%20dynamics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fluid_Dynamics](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics.md) 

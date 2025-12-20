@@ -38,10 +38,6 @@ Krugosvet_article: Earth_sciences/geologiya/KONGLOMERAT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Conglomerate%20(geology)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conglomerate(Geology)](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).md) 

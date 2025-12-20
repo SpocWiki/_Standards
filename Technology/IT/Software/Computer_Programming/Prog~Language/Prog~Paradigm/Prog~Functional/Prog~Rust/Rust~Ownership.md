@@ -125,7 +125,6 @@ because the String is mutable.
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Ownership](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Ownership.md) 

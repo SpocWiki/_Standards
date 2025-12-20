@@ -74,8 +74,6 @@ first_line: Whether I shall turn out to be the hero of my own life, or whether t
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Copperfield) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [David_Copperfield](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles/David_Copperfield.md) 

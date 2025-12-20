@@ -24,10 +24,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ilya%20Sutskever)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sutskever,Ilya](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Sutskever,Ilya.md) 

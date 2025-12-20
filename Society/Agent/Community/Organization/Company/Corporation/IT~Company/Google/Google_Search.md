@@ -82,8 +82,6 @@ Library_of_Congress_Classification: TK5105.885.G66
 > [Wikipedia](https://en.wikipedia.org/wiki/Google%20Search) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Google_Search](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_Search.md) 

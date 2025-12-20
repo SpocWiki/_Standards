@@ -68,9 +68,6 @@ official_name: light amplification by stimulated emission of radiation
 > [Wikipedia](https://en.wikipedia.org/wiki/Laser) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Laser](/_Standards/Technology/Tool/Laser.md) 

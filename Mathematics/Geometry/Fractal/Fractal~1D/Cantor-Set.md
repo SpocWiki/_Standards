@@ -6,8 +6,6 @@ Dimension:: ln(2)/ln(3) ≈ 0.631. (Hausdorff-Dimension)
 |C| = |R| also überabzählbar unendlich 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cantor-Set](/_Standards/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.md) 

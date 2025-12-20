@@ -43,9 +43,6 @@ Krugosvet_article: sport/PRIZHKI_V_VODU.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Diving%20(sport)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diving](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.md) 

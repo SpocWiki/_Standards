@@ -121,8 +121,6 @@ ISNI: 000000010883629X
 > [Wikipedia](https://en.wikipedia.org/wiki/Humphry%20Davy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Davy,Humphry](/_Standards/Chemistry/Chemist/Davy,Humphry.md) 

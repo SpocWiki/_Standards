@@ -35,8 +35,6 @@ Commons_category: Ions
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ionization](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization.md) 

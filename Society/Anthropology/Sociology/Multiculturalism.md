@@ -48,8 +48,6 @@ Commons_category: Multiculturalism
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiculturalism)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multiculturalism](/_Standards/Society/Anthropology/Sociology/Multiculturalism.md) 

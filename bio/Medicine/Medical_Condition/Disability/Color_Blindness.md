@@ -70,8 +70,6 @@ Baidu_Tieba_name: 色盲
 > [Wikipedia](https://en.wikipedia.org/wiki/Color%20blindness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Color_Blindness](/_Standards/bio/Medicine/Medical_Condition/Disability/Color_Blindness.md) 

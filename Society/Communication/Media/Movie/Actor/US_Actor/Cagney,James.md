@@ -93,8 +93,6 @@ name_in_native_language: James Francis Cagney, Jr.
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Cagney) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cagney,James](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.md) 

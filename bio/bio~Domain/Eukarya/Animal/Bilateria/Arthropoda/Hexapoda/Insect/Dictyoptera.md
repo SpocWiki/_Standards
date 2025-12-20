@@ -34,8 +34,6 @@ NBN_System_Key: NHMSYS0001386986
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictyoptera) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dictyoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera.md) 

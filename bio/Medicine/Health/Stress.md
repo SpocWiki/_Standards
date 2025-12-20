@@ -55,8 +55,6 @@ MeSH_tree_code: G07.775
 > [Wikipedia](https://en.wikipedia.org/wiki/Stress%20(biology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stress](/_Standards/bio/Medicine/Health/Stress.md) 

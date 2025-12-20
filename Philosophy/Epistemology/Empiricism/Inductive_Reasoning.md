@@ -37,8 +37,6 @@ Commons_category: Inductive reasoning
 > [Wikipedia](https://en.wikipedia.org/wiki/Inductive%20reasoning) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inductive_Reasoning](/_Standards/Philosophy/Epistemology/Empiricism/Inductive_Reasoning.md) 

@@ -10,8 +10,6 @@ This makes them
 - useless w/o effects 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pure_Function](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Pure_Function.md) 

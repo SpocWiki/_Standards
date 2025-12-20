@@ -114,8 +114,6 @@ ISNI: "0000000120957940"
 > [Wikipedia](https://en.wikipedia.org/wiki/Montesquieu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Montesquieu](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.md) 

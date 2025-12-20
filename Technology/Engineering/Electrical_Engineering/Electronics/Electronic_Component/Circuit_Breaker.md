@@ -48,8 +48,6 @@ Commons_category: Circuit breakers
 > [Wikipedia](https://en.wikipedia.org/wiki/Circuit%20breaker) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Circuit_Breaker](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.md) 

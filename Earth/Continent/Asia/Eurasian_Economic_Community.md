@@ -50,7 +50,6 @@ dissolved_abolished_or_demolished_date: 2015-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Eurasian%20Economic%20Community) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eurasian_Economic_Community](/_Standards/Earth/Continent/Asia/Eurasian_Economic_Community.md) 

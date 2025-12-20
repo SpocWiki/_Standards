@@ -28,8 +28,6 @@ has_id_wikidata: "130975"
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Millikan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Millikan,Robert_A](/_Standards/Science/Physics/Physicist/Millikan,Robert_A.md) 

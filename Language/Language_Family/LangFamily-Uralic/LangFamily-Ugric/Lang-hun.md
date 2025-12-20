@@ -172,8 +172,6 @@ entry_in_abbreviations_table: венг.
 > [Wikipedia](https://en.wikipedia.org/wiki/Hungarian%20language) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-hun](/_Standards/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric/Lang-hun.md) 

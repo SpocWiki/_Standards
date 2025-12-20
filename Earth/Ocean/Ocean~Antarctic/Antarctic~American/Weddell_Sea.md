@@ -35,8 +35,6 @@ Commons_category: Weddell Sea
 > [Wikipedia](https://en.wikipedia.org/wiki/Weddell%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weddell_Sea](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.md) 

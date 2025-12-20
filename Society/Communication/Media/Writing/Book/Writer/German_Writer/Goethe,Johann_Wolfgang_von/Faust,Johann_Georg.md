@@ -65,8 +65,6 @@ name_in_native_language: Johann Georg Faust
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Georg%20Faust) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Faust,Johann_Georg](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.md) 

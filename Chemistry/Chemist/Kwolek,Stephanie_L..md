@@ -72,8 +72,6 @@ name_in_kana: ステファニー・クオレク
 > [Wikipedia](https://en.wikipedia.org/wiki/Stephanie%20Kwolek) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kwolek,Stephanie_L.](/_Standards/Chemistry/Chemist/Kwolek,Stephanie_L..md) 

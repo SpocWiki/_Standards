@@ -53,8 +53,6 @@ IMDb_keyword: french-fries
 > [Wikipedia](https://en.wikipedia.org/wiki/French%20fries) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fries](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fries.md) 

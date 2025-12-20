@@ -137,10 +137,6 @@ By <a href="//commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20Capitol) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [US_Capitol](/_Standards/Earth/Geography/Place/US_Capitol.md) 

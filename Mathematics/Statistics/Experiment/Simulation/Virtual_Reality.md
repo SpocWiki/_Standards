@@ -85,8 +85,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/VIRTUALNAYA_REALN
 > [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20reality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Virtual_Reality](/_Standards/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.md) 

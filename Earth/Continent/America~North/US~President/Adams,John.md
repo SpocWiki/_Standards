@@ -57,8 +57,6 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Adams)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Adams,John](/_Standards/Earth/Continent/America~North/US~President/Adams,John.md) 

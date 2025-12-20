@@ -96,8 +96,6 @@ coordinate_location: Point(-8.543888888 42.880561111)
 > [Wikipedia](https://en.wikipedia.org/wiki/Camino%20de%20Santiago) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Way_of_Saint_James](/_Standards/Philosophy/Metaphysic/Religion/Pilgrimage/Way_of_Saint_James.md) 

@@ -44,8 +44,6 @@ IPTC_NewsCode: mediatopic/20000443
 > [Wikipedia](https://en.wikipedia.org/wiki/Endangered%20species) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Endangered_Species](/_Standards/bio/Evolution/Extinction/Endangered_Species.md) 

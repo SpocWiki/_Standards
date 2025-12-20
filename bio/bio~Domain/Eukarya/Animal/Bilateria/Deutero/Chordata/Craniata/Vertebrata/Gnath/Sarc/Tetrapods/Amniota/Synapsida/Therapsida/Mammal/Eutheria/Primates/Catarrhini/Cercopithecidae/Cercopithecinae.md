@@ -29,8 +29,6 @@ taxon_name: Cercopithecinae
 > [Wikipedia](https://en.wikipedia.org/wiki/Cercopithecinae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cercopithecinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae/Cercopithecinae.md) 

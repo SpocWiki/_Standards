@@ -39,8 +39,6 @@ Commons_category: Military logistics
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20logistics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_Logistics](/_Standards/Society/Military/Military_Logistics.md) 

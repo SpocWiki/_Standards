@@ -95,8 +95,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Curia%20Iulia.JPG
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20Senate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roman_Senate](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.md) 

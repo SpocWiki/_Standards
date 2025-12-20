@@ -203,8 +203,6 @@ ISNI: "0000000108983070"
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Arnold)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Arnold,Vladimir](/_Standards/Mathematics/Mathematician/Arnold,Vladimir.md) 

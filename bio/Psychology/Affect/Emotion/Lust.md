@@ -39,8 +39,6 @@ DOI: 10.1163/1875-3922_Q3_EQDUM_00334
 > [Wikipedia](https://en.wikipedia.org/wiki/Lust) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lust](/_Standards/bio/Psychology/Affect/Emotion/Lust.md) 

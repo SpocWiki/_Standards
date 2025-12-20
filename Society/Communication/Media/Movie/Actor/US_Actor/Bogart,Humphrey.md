@@ -136,8 +136,6 @@ Libris_URI: dbqswkxx2kwq6fc
 > [Wikipedia](https://en.wikipedia.org/wiki/Humphrey%20Bogart) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bogart,Humphrey](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.md) 

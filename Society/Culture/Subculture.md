@@ -32,8 +32,6 @@ Commons_category: Subcultures
 > [Wikipedia](https://en.wikipedia.org/wiki/Subculture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Subculture](/_Standards/Society/Culture/Subculture.md) 

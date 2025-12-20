@@ -63,8 +63,6 @@ Commons_category: Newton's laws of motion
 > [Wikipedia](https://en.wikipedia.org/wiki/Newton's%20laws%20of%20motion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Newton's_Laws_of_Motion](/_Standards/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.md) 

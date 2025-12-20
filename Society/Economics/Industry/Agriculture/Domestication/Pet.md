@@ -47,8 +47,6 @@ Baidu_Tieba_name: 宠物
 > [Wikipedia](https://en.wikipedia.org/wiki/Pet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pet](/_Standards/Society/Economics/Industry/Agriculture/Domestication/Pet.md) 

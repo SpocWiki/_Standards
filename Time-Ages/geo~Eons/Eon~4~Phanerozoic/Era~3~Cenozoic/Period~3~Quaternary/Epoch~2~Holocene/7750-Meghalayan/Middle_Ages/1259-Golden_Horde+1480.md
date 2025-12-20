@@ -104,8 +104,6 @@ dissolved_abolished_or_demolished_date: 1502-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Golden%20Horde) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1259-Golden_Horde+1480](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1259-Golden_Horde+1480.md) 

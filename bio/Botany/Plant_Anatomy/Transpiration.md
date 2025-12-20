@@ -40,8 +40,6 @@ MeSH_tree_code: G15.713
 > [Wikipedia](https://en.wikipedia.org/wiki/Transpiration) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Transpiration](/_Standards/bio/Botany/Plant_Anatomy/Transpiration.md) 

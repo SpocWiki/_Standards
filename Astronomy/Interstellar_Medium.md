@@ -20,10 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Interstellar%20medium) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Interstellar_Medium](/_Standards/Astronomy/Interstellar_Medium.md) 

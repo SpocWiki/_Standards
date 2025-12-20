@@ -965,8 +965,6 @@ SPLASH:
 > [Wikipedia](https://en.wikipedia.org/wiki/Palmitic%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Palmitic_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.md) 

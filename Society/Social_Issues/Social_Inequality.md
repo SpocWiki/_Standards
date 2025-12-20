@@ -41,8 +41,6 @@ Commons_category: Social inequality
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20inequality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Inequality](/_Standards/Society/Social_Issues/Social_Inequality.md) 

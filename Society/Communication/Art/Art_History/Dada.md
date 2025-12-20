@@ -101,8 +101,6 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/DADAIZM.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Dada) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dada](/_Standards/Society/Communication/Art/Art_History/Dada.md) 

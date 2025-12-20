@@ -51,8 +51,6 @@ booru_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Printed%20circuit%20board) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Printed_Circuit_Board](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Printed_Circuit_Board.md) 

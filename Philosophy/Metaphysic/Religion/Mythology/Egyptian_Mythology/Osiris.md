@@ -108,8 +108,6 @@ name_in_hiero_markup: st:D4-A40
 > [Wikipedia](https://en.wikipedia.org/wiki/Osiris) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Osiris](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Osiris.md) 

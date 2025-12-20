@@ -201,8 +201,6 @@ This quote is often attributed to Abraham Lincoln, though there is no definitive
 > [Wikipedia](https://en.wikipedia.org/wiki/Abraham%20Lincoln)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lincoln,Abraham](/_Standards/Earth/Continent/America~North/US~President/Lincoln,Abraham.md) 

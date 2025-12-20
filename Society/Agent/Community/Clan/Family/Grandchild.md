@@ -96,8 +96,6 @@ kinship_equivalent_in_SPARQL_at_Wikidata: ?person wdt:P40/wdt:P40 ?relative
 > [Wikipedia](https://en.wikipedia.org/wiki/Family) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grandchild](/_Standards/Society/Agent/Community/Clan/Family/Grandchild.md) 

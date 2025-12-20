@@ -36,8 +36,6 @@ Commons_category: Nonlinear systems
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonlinear%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nonlinear_System](/_Standards/Mathematics/Dynamical_System/Nonlinear_System.md) 

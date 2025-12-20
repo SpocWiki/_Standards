@@ -84,8 +84,6 @@ According to Peirce, his projection has the following properties (Peirce, 1879):
 > [Wikipedia](https://en.wikipedia.org/wiki/Peirce%20quincuncial%20projection) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Peirce_quincuncial_Projection](/_Standards/Mathematics/Mathematician/Peirce_quincuncial_Projection.md) 

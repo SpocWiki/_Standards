@@ -66,8 +66,6 @@ UMLS_CUI: C0040300
 > [Wikipedia](https://en.wikipedia.org/wiki/Tissue%20(biology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tissue(bio)](/_Standards/bio/Medicine/Anatomy/Tissue(bio).md) 

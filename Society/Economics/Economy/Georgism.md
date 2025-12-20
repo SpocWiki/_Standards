@@ -38,8 +38,6 @@ subreddit: georgism
 > [Wikipedia](https://en.wikipedia.org/wiki/Georgism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Georgism](/_Standards/Society/Economics/Economy/Georgism.md) 

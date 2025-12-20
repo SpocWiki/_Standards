@@ -41,8 +41,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Air%20Force%20A
 > [Wikipedia](https://en.wikipedia.org/wiki/Free%20fall) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Free_Fall](/_Standards/Science/Physics/Classical_Mechanics/Free_Fall.md) 

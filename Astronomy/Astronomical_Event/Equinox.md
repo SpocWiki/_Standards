@@ -39,8 +39,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Equinox) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Equinox](/_Standards/Astronomy/Astronomical_Event/Equinox.md) 

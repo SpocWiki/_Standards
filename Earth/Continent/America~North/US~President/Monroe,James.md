@@ -32,8 +32,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of :: [[Democratic-Republican Party]] ] [created:: 1817-03-04]  [cancelled:: 1825-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monroe,James](/_Standards/Earth/Continent/America~North/US~President/Monroe,James.md) 

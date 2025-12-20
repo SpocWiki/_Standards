@@ -39,8 +39,6 @@ has_id_wikidata: Q184876
 > [Wikipedia](https://en.wikipedia.org/wiki/Frame%20of%20reference) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Frame_of_Reference](/_Standards/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.md) 

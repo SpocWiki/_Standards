@@ -45,8 +45,6 @@ MeSH_tree_code: G01.906.230
 > [Wikipedia](https://en.wikipedia.org/wiki/Convection) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Convection](/_Standards/Science/Physics/Fluid_Mechanics/Convection.md) 

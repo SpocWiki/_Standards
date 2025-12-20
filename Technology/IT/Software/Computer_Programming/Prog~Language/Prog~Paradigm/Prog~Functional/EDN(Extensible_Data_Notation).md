@@ -30,8 +30,6 @@ This definition of extension elements
 avoids relying on either **convention** or **context** to convey elements not included in the base set. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [EDN(Extensible_Data_Notation)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).md) 

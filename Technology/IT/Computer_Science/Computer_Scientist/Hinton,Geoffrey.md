@@ -43,10 +43,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Geoffrey%20Hinton)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hinton,Geoffrey](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Hinton,Geoffrey.md) 

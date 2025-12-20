@@ -209,3 +209,22 @@ spoken_text_audio:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20Robert%20Oppenheimer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oppenheimer,Robert](/_Standards/Science/Physics/Physicist/Oppenheimer,Robert.md) 
+
+### #is_/same_as :: [Oppenheimer,Robert.public](/_public/Science/Physics/Physicist/Oppenheimer,Robert.public.md) 
+
+### #is_/same_as :: [Oppenheimer,Robert.internal](/_internal/Science/Physics/Physicist/Oppenheimer,Robert.internal.md) 
+
+### #is_/same_as :: [Oppenheimer,Robert.protect](/_protect/Science/Physics/Physicist/Oppenheimer,Robert.protect.md) 
+
+### #is_/same_as :: [Oppenheimer,Robert.private](/_private/Science/Physics/Physicist/Oppenheimer,Robert.private.md) 
+
+### #is_/same_as :: [Oppenheimer,Robert.personal](/_personal/Science/Physics/Physicist/Oppenheimer,Robert.personal.md) 
+
+### #is_/same_as :: [Oppenheimer,Robert.secret](/_secret/Science/Physics/Physicist/Oppenheimer,Robert.secret.md)
+

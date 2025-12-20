@@ -136,8 +136,6 @@ Libris_URI: 1zcffj8k1s8zqhv
 > [Wikipedia](https://en.wikipedia.org/wiki/Hugo%20Grotius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grotius,Hugo](/_Standards/Society/Law/Jurist/Grotius,Hugo.md) 

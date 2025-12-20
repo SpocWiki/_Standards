@@ -63,8 +63,6 @@ Commons_category: Spirituality
 > [Wikipedia](https://en.wikipedia.org/wiki/Spirituality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spirituality](/_Standards/Philosophy/Metaphysic/Religion/Spirituality.md) 

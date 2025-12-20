@@ -61,8 +61,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Wayang) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wayang](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Wayang.md) 

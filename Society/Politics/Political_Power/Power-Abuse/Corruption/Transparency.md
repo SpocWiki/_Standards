@@ -5,7 +5,6 @@ Open Knowledge Foundation Deutschland at [okfn.de](https://okfn.de/) .
 The website simplifies the procedure for requesting public information under freedom of information laws, such as the German "Informationsfreiheitsgesetz" (IFG).
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Transparency](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency.md) 

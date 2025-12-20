@@ -137,8 +137,6 @@ vocalized_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20the%20Baptist) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [John_the_Baptist](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.md) 

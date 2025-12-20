@@ -50,8 +50,6 @@ Commons_category: Genitalia
 > [Wikipedia](https://en.wikipedia.org/wiki/Sex%20organ) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sex_Organ](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex_Organ.md) 

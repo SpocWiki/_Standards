@@ -125,8 +125,6 @@ IMDb_keyword: reference-to-satan
 > [Wikipedia](https://en.wikipedia.org/wiki/Satan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Satan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Satan.md) 

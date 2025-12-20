@@ -39,8 +39,6 @@ Commons_category: Solid-state computer storage media
 > [Wikipedia](https://en.wikipedia.org/wiki/Memory%20card) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Memory_Card](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Memory_Card.md) 

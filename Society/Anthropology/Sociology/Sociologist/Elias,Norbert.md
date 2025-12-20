@@ -82,8 +82,6 @@ name_in_native_language: Norbert Elias
 > [Wikipedia](https://en.wikipedia.org/wiki/Norbert%20Elias) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Elias,Norbert](/_Standards/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.md) 

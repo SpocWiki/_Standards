@@ -59,10 +59,6 @@ Commons_category: Sets (mathematics)
 > [Wikipedia](https://en.wikipedia.org/wiki/Set%20(mathematics)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Set(Math)](/_Standards/Mathematics/Set_Theory/Set(Math).md) 

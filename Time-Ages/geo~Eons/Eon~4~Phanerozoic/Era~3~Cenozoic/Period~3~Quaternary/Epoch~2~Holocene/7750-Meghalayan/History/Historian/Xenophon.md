@@ -66,8 +66,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Xenophon)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Xenophon](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Xenophon.md) 

@@ -161,11 +161,6 @@ Plex_person_key: 5d77682754f42c001f8c2a54
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregory%20Peck) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Peck,Gregory](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Peck,Gregory.md) 

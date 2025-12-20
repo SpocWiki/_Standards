@@ -93,7 +93,6 @@ This table is based on official Microsoft documentation and verified sources:
 - https://learn.microsoft.com/en-us/windows/client-management/  
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [MMC(Windows_Management-Console)](/_Standards/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).md) 

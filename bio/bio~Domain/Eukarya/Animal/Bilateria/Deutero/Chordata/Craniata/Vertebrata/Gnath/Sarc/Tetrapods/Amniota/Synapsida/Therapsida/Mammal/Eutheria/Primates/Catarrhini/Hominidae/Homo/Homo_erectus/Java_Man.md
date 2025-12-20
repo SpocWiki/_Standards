@@ -35,8 +35,6 @@ Commons_category: Java Man
 > [Wikipedia](https://en.wikipedia.org/wiki/Java%20Man) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Java_Man](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_erectus/Java_Man.md) 

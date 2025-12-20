@@ -49,7 +49,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/TSIFRI_I_SISTEMI_SCHISLE
 > [Wikipedia](https://en.wikipedia.org/wiki/Numerical%20digit) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Numerical_Digit](/_Standards/Mathematics/Number/Numeral_System/Numerical_Digit.md) 

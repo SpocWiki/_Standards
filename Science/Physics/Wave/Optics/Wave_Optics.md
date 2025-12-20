@@ -18,8 +18,6 @@ Commons_category: Wave mechanics
 > [Wikipedia](https://en.wikipedia.org/wiki/Physical%20optics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wave_Optics](/_Standards/Science/Physics/Wave/Optics/Wave_Optics.md) 

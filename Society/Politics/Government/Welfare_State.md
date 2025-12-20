@@ -35,8 +35,6 @@ Dewey_Decimal_Classification: "361.65"
 > [Wikipedia](https://en.wikipedia.org/wiki/Welfare%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Welfare_State](/_Standards/Society/Politics/Government/Welfare_State.md) 

@@ -124,8 +124,6 @@ Regensburg_Classification: SF 2740
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Fourier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fourier,Joseph](/_Standards/Mathematics/Mathematician/Fourier,Joseph.md) 

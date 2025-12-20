@@ -83,8 +83,6 @@ Archive_of_Our_Own_tag: Women's Hockey RPF
 > [Wikipedia](https://en.wikipedia.org/wiki/Hockey) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hockey](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.md) 

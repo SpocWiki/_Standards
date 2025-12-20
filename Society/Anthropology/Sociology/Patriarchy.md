@@ -50,8 +50,6 @@ IMDb_keyword: patriarchy
 > [Wikipedia](https://en.wikipedia.org/wiki/Patriarchy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Patriarchy](/_Standards/Society/Anthropology/Sociology/Patriarchy.md) 

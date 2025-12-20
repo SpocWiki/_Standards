@@ -157,8 +157,6 @@ REDnote_profile: 66ac93f9000000000b031421
 > [Wikipedia](https://en.wikipedia.org/wiki/Mariah%20Carey) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Carey,Mariah](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.md) 

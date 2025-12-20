@@ -79,8 +79,6 @@ Provenio_UUID: 7b9a41da-c777-474e-adff-51a62113d158
 > [Wikipedia](https://en.wikipedia.org/wiki/Murder) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Murder](/_Standards/Society/Law/Criminal_Law/Crime/Murder.md) 

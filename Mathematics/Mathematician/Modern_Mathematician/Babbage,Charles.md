@@ -152,8 +152,6 @@ P8189: "987007280456905171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Babbage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Babbage,Charles](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Babbage,Charles.md) 

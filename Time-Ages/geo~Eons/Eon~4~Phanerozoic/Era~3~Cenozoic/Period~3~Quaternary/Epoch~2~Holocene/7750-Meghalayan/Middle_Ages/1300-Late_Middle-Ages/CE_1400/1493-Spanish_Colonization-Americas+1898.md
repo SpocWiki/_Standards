@@ -92,8 +92,6 @@ start_time: 1493-10-03T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20colonization%20of%20the%20Americas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1493-Spanish_Colonization-Americas+1898](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.md) 

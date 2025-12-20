@@ -38,8 +38,6 @@ Commons_category: Military staff
 > [Wikipedia](https://en.wikipedia.org/wiki/Staff%20(military)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_Staff](/_Standards/Society/Military/Armed_Forces/Military_Staff.md) 

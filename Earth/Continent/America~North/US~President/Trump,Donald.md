@@ -35,8 +35,6 @@ type: private_note
 `$=JSON.stringify(dv.current(), null) + "-_-_-"`
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trump,Donald](/_Standards/Earth/Continent/America~North/US~President/Trump,Donald.md) 

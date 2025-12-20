@@ -76,8 +76,6 @@ coordinate_location: Point(-70.404166666 -24.6275)
 > [Wikipedia](https://en.wikipedia.org/wiki/Very%20Large%20Telescope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Very_Large_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.md) 

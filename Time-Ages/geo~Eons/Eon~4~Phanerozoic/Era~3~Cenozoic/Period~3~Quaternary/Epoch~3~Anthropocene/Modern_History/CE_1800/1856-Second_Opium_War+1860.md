@@ -51,8 +51,6 @@ Commons_category: Second Opium War
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20Opium%20War) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1856-Second_Opium_War+1860](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.md) 

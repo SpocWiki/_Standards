@@ -101,8 +101,6 @@ Commons_category: Diethyl ether
 > [Wikipedia](https://en.wikipedia.org/wiki/Diethyl%20ether) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diethyl_Ether](/_Standards/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.md) 

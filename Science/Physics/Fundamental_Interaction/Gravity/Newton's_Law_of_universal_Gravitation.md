@@ -30,8 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Newton's%20law%20of%20universal%20gravitation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Newton's_Law_of_universal_Gravitation](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Newton's_Law_of_universal_Gravitation.md) 

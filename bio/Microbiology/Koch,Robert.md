@@ -173,8 +173,6 @@ Libris_URI: ljx02gr44ffn25w
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Koch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Koch,Robert](/_Standards/bio/Microbiology/Koch,Robert.md) 

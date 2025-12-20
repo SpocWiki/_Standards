@@ -76,8 +76,6 @@ Commons_category: Stomachs
 > [Wikipedia](https://en.wikipedia.org/wiki/Stomach) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stomach](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Stomach.md) 

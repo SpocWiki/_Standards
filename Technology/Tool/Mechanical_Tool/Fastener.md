@@ -60,8 +60,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Screws.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Fastener) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fastener](/_Standards/Technology/Tool/Mechanical_Tool/Fastener.md) 

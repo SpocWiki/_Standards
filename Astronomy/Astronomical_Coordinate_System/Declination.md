@@ -43,8 +43,6 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 > [Wikipedia](https://en.wikipedia.org/wiki/Declination) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Declination](/_Standards/Astronomy/Astronomical_Coordinate_System/Declination.md) 

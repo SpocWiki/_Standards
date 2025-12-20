@@ -76,8 +76,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/PALMOV
 > [Wikipedia](https://en.wikipedia.org/wiki/Palm%20oil) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Palm_Oil](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Palm_Oil.md) 

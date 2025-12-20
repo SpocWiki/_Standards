@@ -51,8 +51,6 @@ Royal_Academy_new_identifier: pre-raphaelite-brotherhood
 > [Wikipedia](https://en.wikipedia.org/wiki/Pre-Raphaelite%20Brotherhood) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pre-Raphaelite_Brotherhood](/_Standards/Society/Communication/Art/History_of_Art/Pre-Raphaelite_Brotherhood.md) 

@@ -23,3 +23,22 @@ taxon_name: Dermochelys
 NBN_System_Key: NBNSYS0000188645
 ---
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dermochelys](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.md) 
+
+### #is_/same_as :: [Dermochelys.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.public.md) 
+
+### #is_/same_as :: [Dermochelys.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.internal.md) 
+
+### #is_/same_as :: [Dermochelys.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.protect.md) 
+
+### #is_/same_as :: [Dermochelys.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.private.md) 
+
+### #is_/same_as :: [Dermochelys.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.personal.md) 
+
+### #is_/same_as :: [Dermochelys.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Dermochelys.secret.md)
+

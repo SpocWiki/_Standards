@@ -36,8 +36,6 @@ MeSH_tree_code: G07.345.500.550.750
 > [Wikipedia](https://en.wikipedia.org/wiki/Moulting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moulting](/_Standards/bio/Reproduction/Metamorphosis/Moulting.md) 

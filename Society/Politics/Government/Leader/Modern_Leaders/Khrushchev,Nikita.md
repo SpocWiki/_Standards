@@ -165,8 +165,6 @@ ISNI: "0000000110281676"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nikita%20Khrushchev) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Khrushchev,Nikita](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.md) 

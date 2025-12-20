@@ -30,8 +30,6 @@ This Principle, while a Staple of Internet Programming, can be exploited
 and lead to the proliferation of accidental functionality. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Robustness-Principle](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.md) 

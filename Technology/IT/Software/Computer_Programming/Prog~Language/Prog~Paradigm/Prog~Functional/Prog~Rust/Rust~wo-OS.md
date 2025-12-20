@@ -105,9 +105,6 @@ IO
 2. Set the Pin on and off, alternatively. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~wo-OS](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~wo-OS.md) 

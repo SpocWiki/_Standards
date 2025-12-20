@@ -26,8 +26,6 @@ has_id_wikidata: Q130998
 > [Wikipedia](https://en.wikipedia.org/wiki/Equivalence%20relation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Equivalence_Relation](/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.md) 

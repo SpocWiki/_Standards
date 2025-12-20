@@ -116,8 +116,6 @@ ISNI: "0000000121487346"
 > [Wikipedia](https://en.wikipedia.org/wiki/Lars%20von%20Trier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trier,Lars_von](/_Standards/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.md) 

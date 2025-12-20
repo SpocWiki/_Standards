@@ -98,8 +98,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20wise%201990.j
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Wise) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wise,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.md) 

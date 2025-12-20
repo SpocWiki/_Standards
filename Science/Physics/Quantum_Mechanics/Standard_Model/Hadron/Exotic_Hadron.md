@@ -42,10 +42,6 @@ has_id_wikidata: Q2440857
 > [Wikipedia](https://en.wikipedia.org/wiki/Exotic%20hadron) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Exotic_Hadron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Exotic_Hadron.md) 

@@ -34,8 +34,6 @@ Commons_category: Temperate climate
 > [Wikipedia](https://en.wikipedia.org/wiki/Temperate%20climate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Temperate_Climate](/_Standards/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.md) 

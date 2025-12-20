@@ -110,9 +110,6 @@ ISNI: "0000000081223476"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nicolas%20L%C3%A9onard%20Sadi%20Carnot) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi](/_Standards/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.md) 

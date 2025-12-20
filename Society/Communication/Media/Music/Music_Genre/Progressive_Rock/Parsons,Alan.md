@@ -29,8 +29,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Alan%20Parsons) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parsons,Alan](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Parsons,Alan.md) 

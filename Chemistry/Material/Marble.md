@@ -80,8 +80,6 @@ Marble is moderately hard, which makes for versatile Application, but gets very 
 > [Wikipedia](https://en.wikipedia.org/wiki/Marble) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marble](/_Standards/Chemistry/Material/Marble.md) 

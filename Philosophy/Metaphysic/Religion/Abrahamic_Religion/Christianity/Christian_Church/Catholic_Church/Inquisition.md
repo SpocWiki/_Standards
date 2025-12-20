@@ -70,8 +70,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Galileo%20before%20the
 > [Wikipedia](https://en.wikipedia.org/wiki/Inquisition) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inquisition](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition.md) 

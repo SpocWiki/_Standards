@@ -21,8 +21,6 @@ Commons_category: Secret societies
 > [Wikipedia](https://en.wikipedia.org/wiki/Secret%20society) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Secret_Society](/_Standards/Society/Agent/Community/Organization/Secret_Society.md) 

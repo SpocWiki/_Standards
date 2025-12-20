@@ -45,8 +45,6 @@ Commons_category: History of aviation
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20aviation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Aviation](/_Standards/Technology/Aviation/History_of_Aviation.md) 

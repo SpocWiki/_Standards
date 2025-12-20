@@ -58,8 +58,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Displacement.gif
 > [Wikipedia](https://en.wikipedia.org/wiki/Engine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Engine](/_Standards/Technology/Engine.md) 

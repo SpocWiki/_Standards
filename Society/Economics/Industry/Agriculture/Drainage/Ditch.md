@@ -43,8 +43,6 @@ OpenStreetMap_tag_or_key: Tag:waterway=ditch
 > [Wikipedia](https://en.wikipedia.org/wiki/Ditch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ditch](/_Standards/Society/Economics/Industry/Agriculture/Drainage/Ditch.md) 

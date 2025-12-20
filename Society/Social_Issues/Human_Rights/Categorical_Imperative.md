@@ -19,8 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Categorical%20imperative) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Categorical_Imperative](/_Standards/Society/Social_Issues/Human_Rights/Categorical_Imperative.md) 

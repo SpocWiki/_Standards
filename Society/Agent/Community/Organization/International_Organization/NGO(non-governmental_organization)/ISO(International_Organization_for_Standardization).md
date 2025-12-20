@@ -92,8 +92,6 @@ Instagram_username: isostandards
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Organization%20for%20Standardization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ISO(International_Organization_for_Standardization)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).md) 

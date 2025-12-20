@@ -91,8 +91,6 @@ inception:
 > [Wikipedia](https://en.wikipedia.org/wiki/NBC) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NBC(National_Broadcasting_Company)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).md) 

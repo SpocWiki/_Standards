@@ -25,8 +25,6 @@ Suggestion: try using a file that exists next time
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~color-eyre](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~color-eyre.md) 

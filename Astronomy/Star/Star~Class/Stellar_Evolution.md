@@ -65,10 +65,6 @@ Commons_category: Stellar evolution
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20evolution) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stellar_Evolution](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution.md) 

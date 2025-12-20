@@ -32,8 +32,6 @@ Commons_category: Watercraft
 > [Wikipedia](https://en.wikipedia.org/wiki/Watercraft)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Watercraft](/_Standards/Technology/Transport/Water_Transport/Watercraft.md) 

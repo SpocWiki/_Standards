@@ -162,8 +162,6 @@ Krugosvet_article_archived_: istoriya/PEN_TOMAS.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Paine)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paine,Thomas](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.md) 

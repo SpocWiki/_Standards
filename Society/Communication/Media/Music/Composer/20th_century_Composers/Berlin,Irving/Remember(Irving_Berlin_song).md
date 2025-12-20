@@ -48,10 +48,6 @@ Commons_category: Remember (Irving Berlin song)
 > [Wikipedia](https://en.wikipedia.org/wiki/Remember%20(Irving%20Berlin%20song)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Remember(Irving_Berlin_song)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).md) 

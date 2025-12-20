@@ -19,8 +19,6 @@ Commons_category: Contemporary philosophy
 > [Wikipedia](https://en.wikipedia.org/wiki/Contemporary%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Contemporary_Philosophy](/_Standards/Philosophy/Contemporary_Philosophy.md) 

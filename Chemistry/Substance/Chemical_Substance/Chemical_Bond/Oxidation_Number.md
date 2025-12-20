@@ -37,8 +37,6 @@ Commons_category: Oxidation states
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxidation%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oxidation_Number](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.md) 

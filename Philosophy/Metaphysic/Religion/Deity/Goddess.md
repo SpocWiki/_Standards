@@ -42,8 +42,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Goddess) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goddess](/_Standards/Philosophy/Metaphysic/Religion/Deity/Goddess.md) 

@@ -45,8 +45,6 @@ Provenio_UUID: 998e0a6d-dc2e-4ca7-92ed-1f853a4faf6f
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Philosophy](/_Standards/Philosophy/History_of_Philosophy.md) 

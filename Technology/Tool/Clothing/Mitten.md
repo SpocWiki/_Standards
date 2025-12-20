@@ -32,8 +32,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mitten) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mitten](/_Standards/Technology/Tool/Clothing/Mitten.md) 

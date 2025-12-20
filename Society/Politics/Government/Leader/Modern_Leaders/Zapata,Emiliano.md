@@ -73,8 +73,6 @@ ISNI: "0000000081056014"
 > [Wikipedia](https://en.wikipedia.org/wiki/Emiliano%20Zapata) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zapata,Emiliano](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.md) 

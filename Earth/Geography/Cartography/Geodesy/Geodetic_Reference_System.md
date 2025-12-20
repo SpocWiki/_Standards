@@ -21,8 +21,6 @@ Commons_category: Geodetic datum
 > [Wikipedia](https://en.wikipedia.org/wiki/Geodetic%20Reference%20System%201980) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geodetic_Reference_System](/_Standards/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.md) 

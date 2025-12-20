@@ -47,8 +47,6 @@ Commons_category: Living rooms
 > [Wikipedia](https://en.wikipedia.org/wiki/Living%20room) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Living_Room](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Living_Room.md) 

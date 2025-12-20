@@ -34,8 +34,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [created:: 1849-03-04]  [cancelled:: 1850-07-09]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taylor,Zachary](/_Standards/Earth/Continent/America~North/US~President/Taylor,Zachary.md) 

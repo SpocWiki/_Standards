@@ -176,8 +176,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Parliament) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Parliament](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Parliament.md) 

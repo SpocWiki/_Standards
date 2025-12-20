@@ -83,8 +83,6 @@ Krugosvet_article_archived_: medicina/SVINKA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Mumps) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mumps](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Mumps.md) 

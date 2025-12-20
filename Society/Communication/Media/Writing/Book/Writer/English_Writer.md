@@ -6,7 +6,6 @@ aliases:
 ---
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [English_Writer](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer.md) 

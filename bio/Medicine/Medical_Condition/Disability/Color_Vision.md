@@ -24,8 +24,6 @@ has_id_wikidata: Q374259
 > [Wikipedia](https://en.wikipedia.org/wiki/Color%20vision) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Color_Vision](/_Standards/bio/Medicine/Medical_Condition/Disability/Color_Vision.md) 

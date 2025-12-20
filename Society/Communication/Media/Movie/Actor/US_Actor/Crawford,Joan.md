@@ -113,8 +113,6 @@ name_in_native_language: Joan Crawford
 > [Wikipedia](https://en.wikipedia.org/wiki/Joan%20Crawford) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crawford,Joan](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Crawford,Joan.md) 

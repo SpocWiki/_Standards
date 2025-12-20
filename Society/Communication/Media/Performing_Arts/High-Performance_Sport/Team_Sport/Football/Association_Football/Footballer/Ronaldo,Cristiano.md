@@ -168,8 +168,6 @@ Munzinger_Sport_number: "01000006594"
 > [Wikipedia](https://en.wikipedia.org/wiki/Cristiano%20Ronaldo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ronaldo,Cristiano](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Ronaldo,Cristiano.md) 

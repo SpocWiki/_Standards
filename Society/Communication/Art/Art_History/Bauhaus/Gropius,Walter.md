@@ -130,8 +130,6 @@ Google_Doodle: 125th-birthday-of-walter-gropius
 > [Wikipedia](https://en.wikipedia.org/wiki/Walter%20Gropius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gropius,Walter](/_Standards/Society/Communication/Art/Art_History/Bauhaus/Gropius,Walter.md) 

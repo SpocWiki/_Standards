@@ -43,8 +43,6 @@ Commons_category: Supermassive black holes
 > [Wikipedia](https://en.wikipedia.org/wiki/Supermassive%20black%20hole) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Supermassive_Black_Hole](/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole.md) 

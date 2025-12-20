@@ -70,8 +70,6 @@ Archive_of_Our_Own_tag: Dubious Science
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudoscience) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pseudoscience](/_Standards/Science/Pseudoscience.md) 

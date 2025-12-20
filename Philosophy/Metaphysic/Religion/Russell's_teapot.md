@@ -26,8 +26,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Russell's%20teapot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Russell's_teapot](/_Standards/Philosophy/Metaphysic/Religion/Russell's_teapot.md) 

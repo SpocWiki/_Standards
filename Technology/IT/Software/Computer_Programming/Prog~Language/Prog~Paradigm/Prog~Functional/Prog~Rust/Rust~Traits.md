@@ -29,8 +29,6 @@ noteOnly: true
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Traits](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits.md) 

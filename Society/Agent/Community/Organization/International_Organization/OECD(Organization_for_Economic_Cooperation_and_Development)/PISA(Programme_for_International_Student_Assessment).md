@@ -37,8 +37,6 @@ short_name: PISA
 > [Wikipedia](https://en.wikipedia.org/wiki/Programme%20for%20International%20Student%20Assessment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [PISA(Programme_for_International_Student_Assessment)](/_Standards/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)/PISA(Programme_for_International_Student_Assessment).md) 

@@ -43,8 +43,6 @@ has_id_wikidata: Q17723
 > [Wikipedia](https://en.wikipedia.org/wiki/Classical%20antiquity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Classical_Period](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.md) 

@@ -304,8 +304,6 @@ name_in_native_language: Ποσειδῶν
 > [Wikipedia](https://en.wikipedia.org/wiki/Poseidon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poseidon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Poseidon.md) 

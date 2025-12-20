@@ -52,8 +52,6 @@ Gujarati_Vishwakosh_entry: વાક્ય
 > [Wikipedia](https://en.wikipedia.org/wiki/Sentence%20(linguistics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sentence](/_Standards/Language/Linguistics/Semiotics/Grammar/Sentence.md) 

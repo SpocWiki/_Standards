@@ -78,8 +78,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Emmy%20Noether) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Noether,Emmy](/_Standards/Mathematics/Mathematician/Noether,Emmy.md) 

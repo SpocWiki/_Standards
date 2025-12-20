@@ -38,8 +38,6 @@ Commons_category: Lagoons
 > [Wikipedia](https://en.wikipedia.org/wiki/Lagoon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lagoon](/_Standards/Earth/Geology/Landform/body_of_water/Lagoon.md) 

@@ -122,8 +122,6 @@ Instagram_username: zidane
 > [Wikipedia](https://en.wikipedia.org/wiki/Zinedine%20Zidane) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zidane,Zinedine](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.md) 

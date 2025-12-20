@@ -71,8 +71,6 @@ Commons_category: Censorship
 > [Wikipedia](https://en.wikipedia.org/wiki/Censorship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Censorship](/_Standards/Society/Communication/Censorship.md) 

@@ -25,9 +25,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fief) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fiefdom](/_Standards/Society/Politics/Government/Monarchy/Feudalism/Fiefdom.md) 

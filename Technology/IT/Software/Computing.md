@@ -40,8 +40,6 @@ Commons_category: Computing
 > [Wikipedia](https://en.wikipedia.org/wiki/Computing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computing](/_Standards/Technology/IT/Software/Computing.md) 

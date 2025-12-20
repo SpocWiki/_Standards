@@ -44,8 +44,6 @@ Commons_category: Manifolds
 > [Wikipedia](https://en.wikipedia.org/wiki/Manifold) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Manifold](/_Standards/Mathematics/Geometry/Manifold.md) 

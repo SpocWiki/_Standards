@@ -59,10 +59,6 @@ Commons_category: Petrochemicals
 > [Wikipedia](https://en.wikipedia.org/wiki/Petrochemical) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Petrochemical_Product](/_Standards/Society/Economics/Industry/Oil_Industry/Petrochemical_Product.md) 

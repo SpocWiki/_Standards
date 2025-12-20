@@ -22,8 +22,6 @@ Commons_category: History of geology
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20geology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Geology](/_Standards/Earth/Geology/History_of_Geology.md) 

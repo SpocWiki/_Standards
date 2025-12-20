@@ -79,8 +79,6 @@ IEV_number: 121-12-41
 > [Wikipedia](https://en.wikipedia.org/wiki/Ferromagnetism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ferromagnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.md) 

@@ -125,8 +125,6 @@ ISNI: "0000000121355968"
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Gershwin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gershwin,George](/_Standards/Society/Communication/Media/Music/Composer/Gershwin,George.md) 

@@ -36,8 +36,6 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/visible-light
 > [Wikipedia](https://en.wikipedia.org/wiki/Visible%20spectrum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Visible_Spectrum](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Visible_Spectrum.md) 

@@ -47,8 +47,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Turbulence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turbulence](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.md) 

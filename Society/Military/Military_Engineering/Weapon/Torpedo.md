@@ -16,8 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Torpedo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Torpedo](/_Standards/Society/Military/Military_Engineering/Weapon/Torpedo.md) 

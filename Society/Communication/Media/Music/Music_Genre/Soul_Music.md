@@ -33,8 +33,6 @@ Commons_category: Soul music
 > [Wikipedia](https://en.wikipedia.org/wiki/Soul%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soul_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Soul_Music.md) 

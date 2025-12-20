@@ -92,8 +92,6 @@ inception: 1931-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hoover%20Dam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hoover_Dam](/_Standards/Earth/Geography/Place/Hoover_Dam.md) 

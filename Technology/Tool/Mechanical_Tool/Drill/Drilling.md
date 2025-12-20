@@ -31,8 +31,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20021106-N-7
 > [Wikipedia](https://en.wikipedia.org/wiki/Drilling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Drilling](/_Standards/Technology/Tool/Mechanical_Tool/Drill/Drilling.md) 

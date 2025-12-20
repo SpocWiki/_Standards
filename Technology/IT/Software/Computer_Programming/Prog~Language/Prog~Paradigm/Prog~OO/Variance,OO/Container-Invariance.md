@@ -39,9 +39,6 @@ for high IRR rather take the nth root of it or, as a first Approximation:
 (1+IRR)ⁿ= (C1​​+C2​​+…+Cn​) / C0 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Container-Invariance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.md) 

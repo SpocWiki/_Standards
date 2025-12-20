@@ -84,12 +84,6 @@ short_name: A. sativum
 > [Wikipedia](https://en.wikipedia.org/wiki/Garlic) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Allium_Sativum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Allium_Sativum.md) 

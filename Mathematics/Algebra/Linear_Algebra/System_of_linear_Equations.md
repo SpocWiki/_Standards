@@ -32,8 +32,6 @@ has_id_wikidata: Q11203
 > [Wikipedia](https://en.wikipedia.org/wiki/System%20of%20linear%20equations) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [System_of_linear_Equations](/_Standards/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.md) 

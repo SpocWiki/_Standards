@@ -80,8 +80,6 @@ time_of_discovery_or_invention: 0304-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydroponics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hydroponics](/_Standards/Society/Economics/Industry/Agriculture/Hydroponics.md) 

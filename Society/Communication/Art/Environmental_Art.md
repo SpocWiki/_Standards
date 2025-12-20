@@ -35,8 +35,6 @@ Commons_category: Environmental art
 > [Wikipedia](https://en.wikipedia.org/wiki/Environmental%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Environmental_Art](/_Standards/Society/Communication/Art/Environmental_Art.md) 

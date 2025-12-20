@@ -117,8 +117,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Midsommer%20nights%20d
 > [Wikipedia](https://en.wikipedia.org/wiki/A%20Midsummer%20Night's%20Dream) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Midsummer_Night's_Dream](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.md) 

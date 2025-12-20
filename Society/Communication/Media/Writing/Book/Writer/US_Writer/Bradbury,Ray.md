@@ -170,8 +170,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/BREDBERI_RE_DUGLAS
 > [Wikipedia](https://en.wikipedia.org/wiki/Ray%20Bradbury) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bradbury,Ray](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.md) 

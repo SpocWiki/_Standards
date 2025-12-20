@@ -143,8 +143,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/VONNEGUT_KURT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20Vonnegut) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vonnegut,Kurt](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Vonnegut,Kurt.md) 

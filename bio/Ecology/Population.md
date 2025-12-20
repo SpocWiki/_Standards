@@ -65,8 +65,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20biology%20%28
 > [Wikipedia](https://en.wikipedia.org/wiki/Population) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Population](/_Standards/bio/Ecology/Population.md) 

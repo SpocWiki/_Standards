@@ -53,8 +53,6 @@ IMDb_keyword: lottery
 > [Wikipedia](https://en.wikipedia.org/wiki/Lottery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lottery](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.md) 

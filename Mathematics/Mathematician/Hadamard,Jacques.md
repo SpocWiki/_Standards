@@ -111,8 +111,6 @@ name_in_native_language: Jacques Hadamard
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacques%20Hadamard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hadamard,Jacques](/_Standards/Mathematics/Mathematician/Hadamard,Jacques.md) 

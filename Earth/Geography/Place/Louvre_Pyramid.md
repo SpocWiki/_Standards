@@ -47,8 +47,6 @@ coordinate_location: Point(2.335861111 48.861)
 > [Wikipedia](https://en.wikipedia.org/wiki/Louvre%20Pyramid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Louvre_Pyramid](/_Standards/Earth/Geography/Place/Louvre_Pyramid.md) 

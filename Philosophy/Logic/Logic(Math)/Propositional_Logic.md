@@ -74,9 +74,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Propositional%20logic) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Propositional_Logic](/_Standards/Philosophy/Logic/Logic(Math)/Propositional_Logic.md) 

@@ -78,8 +78,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Deity::2522b"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Deity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deity](/_Standards/Philosophy/Metaphysic/Religion/Deity.md) 

@@ -41,8 +41,6 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Dust%20Bowl) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dust_Bowl](/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.md) 

@@ -57,10 +57,6 @@ Krugosvet_article_archived_: sport/FITNES.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Physical%20fitness) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Physical_Fitness](/_Standards/bio/Medicine/Health/Physical_Fitness.md) 

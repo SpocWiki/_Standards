@@ -34,8 +34,6 @@ subclass_of: "[[_Standards/WikiData/WD~compensation,21127747]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Damages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Damages](/_Standards/Society/Law/Common_Law/Damages.md) 

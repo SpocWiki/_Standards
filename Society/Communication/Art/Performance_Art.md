@@ -47,8 +47,6 @@ Commons_category: Performance art
 > [Wikipedia](https://en.wikipedia.org/wiki/Performance%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Performance_Art](/_Standards/Society/Communication/Art/Performance_Art.md) 

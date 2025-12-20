@@ -104,8 +104,6 @@ date_of_birth: 1919-07-20T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Edmund%20Hillary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hillary,Edmund](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Hillary,Edmund.md) 

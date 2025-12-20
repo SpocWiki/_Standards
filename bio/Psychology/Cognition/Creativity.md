@@ -34,8 +34,6 @@ has_id_wikidata: Q170658
 > [Wikipedia](https://en.wikipedia.org/wiki/Creativity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Creativity](/_Standards/bio/Psychology/Cognition/Creativity.md) 

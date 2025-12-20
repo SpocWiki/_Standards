@@ -21,8 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Kiss) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kiss](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Kiss.md) 

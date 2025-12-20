@@ -40,8 +40,6 @@ IMDb_keyword: cruise-ship
 > [Wikipedia](https://en.wikipedia.org/wiki/Cruise%20ship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cruise_Ship](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.md) 

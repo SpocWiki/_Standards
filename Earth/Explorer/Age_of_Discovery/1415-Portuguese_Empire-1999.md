@@ -96,8 +96,6 @@ coordinate_location: Point(-9.13333333 38.71666667)
 > [Wikipedia](https://en.wikipedia.org/wiki/Portuguese%20Empire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1415-Portuguese_Empire-1999](/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.md) 

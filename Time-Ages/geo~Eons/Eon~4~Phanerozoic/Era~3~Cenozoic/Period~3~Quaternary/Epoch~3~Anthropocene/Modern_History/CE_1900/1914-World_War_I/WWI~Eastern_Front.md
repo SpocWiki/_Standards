@@ -43,8 +43,6 @@ start_time: 1914-08-17T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Eastern%20Front%20(World%20War%20I)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WWI~Eastern_Front](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.md) 

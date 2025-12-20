@@ -67,8 +67,6 @@ EU_Corporate_body_code: NAFTA
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20American%20Free%20Trade%20Agreement) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [North_American_Free_Trade_Agreement](/_Standards/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.md) 

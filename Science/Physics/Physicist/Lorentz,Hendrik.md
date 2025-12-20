@@ -144,8 +144,6 @@ Libris_URI: 97mprj4t0dv8gl9
 > [Wikipedia](https://en.wikipedia.org/wiki/Hendrik%20Lorentz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lorentz,Hendrik](/_Standards/Science/Physics/Physicist/Lorentz,Hendrik.md) 

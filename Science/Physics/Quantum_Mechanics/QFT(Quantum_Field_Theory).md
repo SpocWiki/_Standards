@@ -73,8 +73,6 @@ QED, Quantum Chromodynamics (QCD) and Electroweak Theory are applications of thi
 80.379 GeV/c² => **limited Range of virtual W Bosons**, according to [[QFT(Quantum_Field_Theory)/Klein-Gordon_Equation]]. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [QFT(Quantum_Field_Theory)](/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).md) 

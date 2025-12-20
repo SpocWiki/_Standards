@@ -23,9 +23,6 @@ Commons_category: Dry season
 > [Wikipedia](https://en.wikipedia.org/wiki/Dry%20season) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dry_Season](/_Standards/Earth/Climate/Season/Dry_Season.md) 

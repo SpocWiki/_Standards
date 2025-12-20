@@ -58,8 +58,6 @@ Commons_category: Irrational numbers
 > [Wikipedia](https://en.wikipedia.org/wiki/Irrational%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Irrational_Number](/_Standards/Mathematics/Number/Irrational_Number.md) 

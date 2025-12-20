@@ -75,8 +75,6 @@ Krugosvet_article_archived_: Earth_sciences/geologiya/RUBIN.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Ruby) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ruby](/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.md) 

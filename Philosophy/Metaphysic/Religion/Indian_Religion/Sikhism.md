@@ -73,8 +73,6 @@ OpenStreetMap_tag: religion=sikh
 > [Wikipedia](https://en.wikipedia.org/wiki/Sikhism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sikhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Sikhism.md) 

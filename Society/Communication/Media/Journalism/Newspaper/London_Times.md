@@ -41,3 +41,22 @@ has_id_wikidata: Q50008
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Times) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [London_Times](/_Standards/Society/Communication/Media/Journalism/Newspaper/London_Times.md) 
+
+### #is_/same_as :: [London_Times.public](/_public/Society/Communication/Media/Journalism/Newspaper/London_Times.public.md) 
+
+### #is_/same_as :: [London_Times.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/London_Times.internal.md) 
+
+### #is_/same_as :: [London_Times.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/London_Times.protect.md) 
+
+### #is_/same_as :: [London_Times.private](/_private/Society/Communication/Media/Journalism/Newspaper/London_Times.private.md) 
+
+### #is_/same_as :: [London_Times.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/London_Times.personal.md) 
+
+### #is_/same_as :: [London_Times.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/London_Times.secret.md)
+

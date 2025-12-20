@@ -155,8 +155,6 @@ X_Twitter_username: Yunus_Centre
 > [Wikipedia](https://en.wikipedia.org/wiki/Muhammad%20Yunus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Muhammad_Yunus](/_Standards/Society/Economics/Economist/Muhammad_Yunus.md) 

@@ -93,8 +93,6 @@ Commons_category: Egyptian hieroglyphs
 > [Wikipedia](https://en.wikipedia.org/wiki/Egyptian%20hieroglyphs) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Egyptian_Hieroglyphs](/_Standards/Language/Writing_System/Egyptian_Hieroglyphs.md) 

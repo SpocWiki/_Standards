@@ -37,8 +37,6 @@ has_id_wikidata: Q141488
 > [Wikipedia](https://en.wikipedia.org/wiki/Graph%20(discrete%20mathematics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Graph(Math)](/_Standards/Mathematics/Graph_Theory/Graph(Math).md) 

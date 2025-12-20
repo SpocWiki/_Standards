@@ -49,8 +49,6 @@ Commons_category: Semitic peoples
 > [Wikipedia](https://en.wikipedia.org/wiki/Semitic%20people) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Semitic_People](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Semitic_People.md) 

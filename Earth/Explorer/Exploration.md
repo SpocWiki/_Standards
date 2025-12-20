@@ -29,8 +29,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz%20Nowak%20in
 > [Wikipedia](https://en.wikipedia.org/wiki/Exploration) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Exploration](/_Standards/Earth/Explorer/Exploration.md) 

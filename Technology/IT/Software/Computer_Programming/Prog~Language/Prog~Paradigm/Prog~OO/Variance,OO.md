@@ -134,7 +134,6 @@ By the subtyping rule for function types this operation reverses ≤ for the fir
 so it is a contravariant functor in the first parameter and a covariant functor in the second.
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Variance,OO](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.md) 

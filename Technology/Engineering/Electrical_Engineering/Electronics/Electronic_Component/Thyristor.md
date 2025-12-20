@@ -63,8 +63,6 @@ Commons_category: Thyristors
 > [Wikipedia](https://en.wikipedia.org/wiki/Thyristor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thyristor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.md) 

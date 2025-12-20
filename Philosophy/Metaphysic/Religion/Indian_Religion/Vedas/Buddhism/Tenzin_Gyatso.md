@@ -232,8 +232,6 @@ Libris_URI: 1zcff2jk33lctb6
 > [Wikipedia](https://en.wikipedia.org/wiki/14th%20Dalai%20Lama)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tenzin_Gyatso](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tenzin_Gyatso.md) 

@@ -51,8 +51,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Deutsches%20Museum%206
 > [Wikipedia](https://en.wikipedia.org/wiki/Perpetual%20motion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Perpetual_Motion](/_Standards/Science/Physics/Thermodynamics/Perpetual_Motion.md) 

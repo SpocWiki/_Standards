@@ -66,8 +66,6 @@ NBN_System_Key: NHMSYS0000462393
 > [Wikipedia](https://en.wikipedia.org/wiki/Ribes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ribes](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes.md) 

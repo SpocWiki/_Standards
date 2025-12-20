@@ -14,8 +14,6 @@ The Relation is not unique though,
 because there are multiple Grammars that generate the same Language. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Context-free_language](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_language.md) 

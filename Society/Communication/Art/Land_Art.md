@@ -35,8 +35,6 @@ OpenStreetMap_tag: artwork_type=landart
 > [Wikipedia](https://en.wikipedia.org/wiki/Land%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Land_Art](/_Standards/Society/Communication/Art/Land_Art.md) 

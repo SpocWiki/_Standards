@@ -57,8 +57,6 @@ IEV_number: 102-04-08
 > [Wikipedia](https://en.wikipedia.org/wiki/Parallel%20(geometry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parallelism(Geometry)](/_Standards/Mathematics/Geometry/Parallelism(Geometry).md) 

@@ -97,8 +97,6 @@ Europeana_entity: agent/base/60659
 > [Wikipedia](https://en.wikipedia.org/wiki/Erich%20Maria%20Remarque) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Remarque,Erich_Maria](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.md) 

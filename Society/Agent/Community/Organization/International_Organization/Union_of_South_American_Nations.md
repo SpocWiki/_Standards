@@ -102,8 +102,6 @@ inception: 2008-05-23T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Union%20of%20South%20American%20Nations)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Union_of_South_American_Nations](/_Standards/Society/Agent/Community/Organization/International_Organization/Union_of_South_American_Nations.md) 

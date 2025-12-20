@@ -37,8 +37,6 @@ Commons_category: History of Islam
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Islam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.md) 

@@ -42,8 +42,6 @@ MeSH_tree_code: J01.040.895
 > [Wikipedia](https://en.wikipedia.org/wiki/Organic%20farming) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Organic_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/Organic_Agriculture.md) 

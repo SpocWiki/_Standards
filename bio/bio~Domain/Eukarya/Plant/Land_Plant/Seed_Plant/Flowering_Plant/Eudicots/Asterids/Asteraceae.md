@@ -66,8 +66,6 @@ MeSH_tree_code: B01.875.800.575.912.250.100
 > [Wikipedia](https://en.wikipedia.org/wiki/Asteraceae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Asteraceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.md) 

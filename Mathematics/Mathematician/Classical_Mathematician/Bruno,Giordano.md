@@ -122,8 +122,6 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/BRUNO_DZHORDANO.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Giordano%20Bruno) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bruno,Giordano](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.md) 

@@ -63,8 +63,6 @@ inception: 2008-07-13T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Union%20for%20the%20Mediterranean) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Union_for_the_Mediterranean](/_Standards/Society/Agent/Community/Organization/International_Organization/Union_for_the_Mediterranean.md) 

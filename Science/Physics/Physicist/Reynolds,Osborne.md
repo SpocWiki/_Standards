@@ -72,8 +72,6 @@ The dimensionless Reynolds-Number is named after him.
 > [Wikipedia](https://en.wikipedia.org/wiki/Osborne%20Reynolds) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reynolds,Osborne](/_Standards/Science/Physics/Physicist/Reynolds,Osborne.md) 

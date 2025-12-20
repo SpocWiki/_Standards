@@ -71,8 +71,6 @@ Plex_media_key: 5d9c086a02391c001f588c74
 > [Wikipedia](https://en.wikipedia.org/wiki/Roots%20(1977%20miniseries)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roots(1977)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Roots(1977).md) 

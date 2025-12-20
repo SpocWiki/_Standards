@@ -46,9 +46,6 @@ Commons_category: Comparative religion
 > [Wikipedia](https://en.wikipedia.org/wiki/Comparative%20religion) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Comparative_Religion](/_Standards/Philosophy/Metaphysic/Religion/Comparative_Religion.md) 

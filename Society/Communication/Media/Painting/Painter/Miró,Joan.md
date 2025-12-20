@@ -25,8 +25,6 @@ has_id_wikidata: Q152384
 > [Wikipedia](https://en.wikipedia.org/wiki/Joan%20Mir%C3%B3) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Miró,Joan](/_Standards/Society/Communication/Media/Painting/Painter/Miró,Joan.md) 

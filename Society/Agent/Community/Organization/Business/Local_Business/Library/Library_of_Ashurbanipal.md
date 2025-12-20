@@ -53,8 +53,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Library%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Library%20of%20Ashurbanipal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Library_of_Ashurbanipal](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Ashurbanipal.md) 

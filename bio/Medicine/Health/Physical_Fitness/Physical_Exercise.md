@@ -57,8 +57,6 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Exercise) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Physical_Exercise](/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise.md) 

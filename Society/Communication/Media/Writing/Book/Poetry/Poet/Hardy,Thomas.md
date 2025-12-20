@@ -103,8 +103,6 @@ ISNI: "0000000121333830"
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Hardy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hardy,Thomas](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.md) 

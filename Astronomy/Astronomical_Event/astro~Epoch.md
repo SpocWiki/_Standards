@@ -50,8 +50,6 @@ has_id_wikidata: Q2703
 > [Wikipedia](https://en.wikipedia.org/wiki/Epoch%20(astronomy)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [astro~Epoch](/_Standards/Astronomy/Astronomical_Event/astro~Epoch.md) 

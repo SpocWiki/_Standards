@@ -177,8 +177,6 @@ name_in_native_language: أُمَّةٌ، اَلْأُمَّةُ
 > [Wikipedia](https://en.wikipedia.org/wiki/Ummah) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ummah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.md) 

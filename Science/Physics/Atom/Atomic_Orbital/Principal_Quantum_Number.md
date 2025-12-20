@@ -35,8 +35,6 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 > [Wikipedia](https://en.wikipedia.org/wiki/Principal%20quantum%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Principal_Quantum_Number](/_Standards/Science/Physics/Atom/Atomic_Orbital/Principal_Quantum_Number.md) 

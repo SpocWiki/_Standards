@@ -5,8 +5,6 @@
 ## #has_/text_of_/abstract 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Andea](/_Standards/Earth/Continent/America~South/Andea.md) 

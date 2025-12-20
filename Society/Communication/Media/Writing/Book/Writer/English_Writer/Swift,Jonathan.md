@@ -129,8 +129,6 @@ Regensburg_Classification: HK 3170
 > [Wikipedia](https://en.wikipedia.org/wiki/Jonathan%20Swift) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Swift,Jonathan](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan.md) 

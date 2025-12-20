@@ -40,12 +40,6 @@ time_of_discovery_or_invention: 1931-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Transmission%20electron%20microscopy) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electron_Microscope](/_Standards/Technology/Tool/Instrumentation/Microscope/Electron_Microscope.md) 

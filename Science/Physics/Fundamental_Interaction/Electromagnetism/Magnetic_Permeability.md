@@ -58,8 +58,6 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 > [Wikipedia](https://en.wikipedia.org/wiki/Permeability%20(electromagnetism)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnetic_Permeability](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetic_Permeability.md) 

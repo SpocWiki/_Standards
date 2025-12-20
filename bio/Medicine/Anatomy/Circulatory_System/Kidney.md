@@ -95,8 +95,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/POCHKI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Kidney) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kidney](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Kidney.md) 

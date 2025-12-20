@@ -20,8 +20,6 @@ has_id_wikidata: Q1107656
 > [Wikipedia](https://en.wikipedia.org/wiki/Garden) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Garden](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.md) 

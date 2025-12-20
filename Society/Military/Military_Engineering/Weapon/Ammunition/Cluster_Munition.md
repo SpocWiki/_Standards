@@ -28,8 +28,6 @@ Commons_category: Cluster bombs
 > [Wikipedia](https://en.wikipedia.org/wiki/Cluster%20munition) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cluster_Munition](/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.md) 

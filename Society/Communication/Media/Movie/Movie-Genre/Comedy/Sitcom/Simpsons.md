@@ -299,8 +299,6 @@ official_website: https://www.fox.com/the-simpsons/
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Simpsons)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Simpsons](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.md) 

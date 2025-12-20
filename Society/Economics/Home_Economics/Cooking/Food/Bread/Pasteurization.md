@@ -63,8 +63,6 @@ Commons_category: Pasteurization
 > [Wikipedia](https://en.wikipedia.org/wiki/Pasteurization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pasteurization](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.md) 

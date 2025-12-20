@@ -36,8 +36,6 @@ has_id_wikidata: Q33477
 > [Wikipedia](https://en.wikipedia.org/wiki/Eug%C3%A8ne%20Delacroix) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Delacroix,Eugène](/_Standards/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.md) 

@@ -26,8 +26,6 @@ has_id_wikidata: Q837313
 > [Wikipedia](https://en.wikipedia.org/wiki/Civics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Civics](/_Standards/Society/Politics/Civics.md) 

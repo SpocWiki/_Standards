@@ -124,8 +124,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/HANLAN_ROBERT_ENSO
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20A.%20Heinlein) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heinlein,Robert_A](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.md) 

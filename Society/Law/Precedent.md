@@ -44,8 +44,6 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q61421325,61421325]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Precedent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Precedent](/_Standards/Society/Law/Precedent.md) 

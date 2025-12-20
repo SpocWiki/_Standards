@@ -49,9 +49,6 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Madison) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Madison,James](/_Standards/Earth/Continent/America~North/US~President/Madison,James.md) 

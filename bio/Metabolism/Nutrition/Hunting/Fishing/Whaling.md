@@ -44,8 +44,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Whaling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Whaling](/_Standards/bio/Metabolism/Nutrition/Hunting/Fishing/Whaling.md) 

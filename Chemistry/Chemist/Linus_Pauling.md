@@ -202,8 +202,6 @@ name_in_native_language: Linus Carl Pauling
 > [Wikipedia](https://en.wikipedia.org/wiki/Linus%20Pauling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Linus_Pauling](/_Standards/Chemistry/Chemist/Linus_Pauling.md) 

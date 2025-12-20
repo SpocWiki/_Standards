@@ -34,8 +34,6 @@ has_id_wikidata: Q28598
 > [Wikipedia](https://en.wikipedia.org/wiki/Cultural%20anthropology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cultural_Anthropology](/_Standards/Society/Anthropology/Cultural_Anthropology.md) 

@@ -123,8 +123,6 @@ official_website: https://www.universiteitleiden.nl/
 > [Wikipedia](https://en.wikipedia.org/wiki/Leiden%20University) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leiden_University](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.md) 

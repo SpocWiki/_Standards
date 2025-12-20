@@ -41,8 +41,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Crystallisation::5bgvh"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Crystallization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crystallization](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.md) 

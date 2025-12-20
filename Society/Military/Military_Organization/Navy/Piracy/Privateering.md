@@ -57,8 +57,6 @@ male_form_of_label: قرصان رسمي
 > [Wikipedia](https://en.wikipedia.org/wiki/Privateer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Privateering](/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering.md) 

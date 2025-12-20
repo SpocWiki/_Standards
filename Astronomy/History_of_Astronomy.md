@@ -40,8 +40,6 @@ Commons_category: History of astronomy
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20astronomy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Astronomy](/_Standards/Astronomy/History_of_Astronomy.md) 

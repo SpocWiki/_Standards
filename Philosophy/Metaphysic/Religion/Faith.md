@@ -64,8 +64,6 @@ Colon_Classification: Q:353
 > [Wikipedia](https://en.wikipedia.org/wiki/Faith) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Faith](/_Standards/Philosophy/Metaphysic/Religion/Faith.md) 

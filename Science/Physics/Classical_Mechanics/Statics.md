@@ -58,9 +58,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Statics) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Statics](/_Standards/Science/Physics/Classical_Mechanics/Statics.md) 

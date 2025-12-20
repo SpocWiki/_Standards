@@ -32,9 +32,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Geofence) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geofence](/_Standards/Society/Agent/Management/Risk-Management/Geofence.md) 

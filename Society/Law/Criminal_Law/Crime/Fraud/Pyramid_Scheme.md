@@ -36,8 +36,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyramid%20scheme) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pyramid_Scheme](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.md) 

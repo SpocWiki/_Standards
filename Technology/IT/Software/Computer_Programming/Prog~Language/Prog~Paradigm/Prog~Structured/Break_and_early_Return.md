@@ -14,8 +14,6 @@ when a series of simple Checks lead to an early decision which can then be menta
 This makes the core logic simpler and briefer. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Break_and_early_Return](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Break_and_early_Return.md) 

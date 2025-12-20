@@ -6,7 +6,6 @@ To Qualify as a Copilot+PC, the Computer should have > 40TOPS
 The Lenovo P16s Intel Processor reaches only 1.4 TOPS
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NPU(Neural_Processing_Unit)](/_Standards/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).md) 

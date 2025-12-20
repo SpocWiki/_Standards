@@ -67,8 +67,6 @@ Commons_category: Secularism
 > [Wikipedia](https://en.wikipedia.org/wiki/Secularism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Secularism](/_Standards/Philosophy/Metaphysic/Religion/Secularism.md) 

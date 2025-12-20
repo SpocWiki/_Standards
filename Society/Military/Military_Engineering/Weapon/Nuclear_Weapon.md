@@ -96,8 +96,6 @@ IMDb_keyword: nuclear-weapon
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20weapon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nuclear_Weapon](/_Standards/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.md) 

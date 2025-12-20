@@ -34,8 +34,6 @@ time_of_discovery_or_invention:
 > [Wikipedia](https://en.wikipedia.org/wiki/Length%20contraction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Length_Contraction](/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.md) 

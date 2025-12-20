@@ -47,8 +47,6 @@ IEV_number: 701-02-01
 > [Wikipedia](https://en.wikipedia.org/wiki/Communication%20channel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Communication_Channel](/_Standards/Society/Communication/Communication_Channel.md) 

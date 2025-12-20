@@ -44,8 +44,6 @@ Dewey_Decimal_Classification: "951.9"
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Korea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Korea](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.md) 

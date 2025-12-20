@@ -56,8 +56,6 @@ has_id_wikidata: Q1764511
 > [Wikipedia](https://en.wikipedia.org/wiki/G7) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [G7(Group_of_Seven)](/_Standards/Society/Agent/Community/Organization/International_Organization/G7(Group_of_Seven).md) 

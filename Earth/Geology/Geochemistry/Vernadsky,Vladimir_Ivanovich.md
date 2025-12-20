@@ -157,8 +157,6 @@ Google_Doodle: vladimir-vernadskys-150th-birthday
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Vernadsky) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vernadsky,Vladimir_Ivanovich](/_Standards/Earth/Geology/Geochemistry/Vernadsky,Vladimir_Ivanovich.md) 

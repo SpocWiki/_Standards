@@ -47,10 +47,6 @@ Commons_category: Ordinary differential equations
 > [Wikipedia](https://en.wikipedia.org/wiki/Ordinary%20differential%20equation) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ODE(Ordinary_Differential_Equation)](/_Standards/Mathematics/Calculus/Differential_Equation/ODE(Ordinary_Differential_Equation).md) 

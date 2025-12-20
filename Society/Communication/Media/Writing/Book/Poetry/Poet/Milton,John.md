@@ -132,10 +132,6 @@ ISNI: "0000000120993562"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Milton) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Milton,John](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Milton,John.md) 

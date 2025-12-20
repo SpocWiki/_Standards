@@ -70,8 +70,6 @@ Commons_category: Parabolas
 > [Wikipedia](https://en.wikipedia.org/wiki/Parabola) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parabola](/_Standards/Mathematics/Geometry/Parabola.md) 

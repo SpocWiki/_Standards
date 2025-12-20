@@ -76,8 +76,6 @@ Unicode_character: 🤺
 > [Wikipedia](https://en.wikipedia.org/wiki/Fencing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fencing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.md) 

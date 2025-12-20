@@ -93,8 +93,6 @@ Krugosvet_article_archived_: medicina/UMSTVENNAYA_OTSTALOST.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Intellectual%20disability) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Intellectual_Disability](/_Standards/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability.md) 

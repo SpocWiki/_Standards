@@ -46,8 +46,6 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/ETYUD.html
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89tude) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Étude](/_Standards/Society/Communication/Media/Creative_Work/Music_Composition/Étude.md) 

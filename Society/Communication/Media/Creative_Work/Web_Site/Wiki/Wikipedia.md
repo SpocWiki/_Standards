@@ -227,8 +227,6 @@ number_of_records: 63309777
 > [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wikipedia](/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.md) 

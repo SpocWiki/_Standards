@@ -99,8 +99,6 @@ inception: 1944-12-18T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Le%20Monde) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Le_Monde](/_Standards/Society/Communication/Media/Journalism/Newspaper/Le_Monde.md) 

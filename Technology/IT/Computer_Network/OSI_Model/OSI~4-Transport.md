@@ -28,8 +28,6 @@ Stack_Exchange_tag: https://networkengineering.stackexchange.com/tags/layer4
 > [Wikipedia](https://en.wikipedia.org/wiki/Transport%20layer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSI~4-Transport](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~4-Transport.md) 

@@ -37,8 +37,6 @@ Commons_category: Pentagons
 > [Wikipedia](https://en.wikipedia.org/wiki/Pentagon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pentagon](/_Standards/Mathematics/Geometry/Geometry-2D/Pentagon.md) 

@@ -104,9 +104,6 @@ In geological terms, this will be an abrupt event.
 A resumption of avoiding mutant mates will thereafter result, once again, in evolutionary stagnation
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Speciation](/_Standards/bio/Evolution/Extinction/Speciation.md) 

@@ -72,8 +72,6 @@ name_in_native_language: Ἰάσων
 > [Wikipedia](https://en.wikipedia.org/wiki/Jason) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jason](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.md) 

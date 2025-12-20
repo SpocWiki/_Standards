@@ -67,8 +67,6 @@ Commons_category: Life (magazine)
 > [Wikipedia](https://en.wikipedia.org/wiki/Life%20(magazine)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Life_Magazine](/_Standards/Society/Communication/Media/Journalism/Magazine/Life_Magazine.md) 

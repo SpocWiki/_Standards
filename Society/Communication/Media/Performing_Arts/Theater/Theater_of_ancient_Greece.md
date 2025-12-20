@@ -43,8 +43,6 @@ Krugosvet_article_archived_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Theatre%20of%20ancient%20Greece) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theater_of_ancient_Greece](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.md) 

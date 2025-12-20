@@ -26,8 +26,6 @@ has_id_wikidata: Q4906383
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Soda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Big_Soda](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Soda.md) 

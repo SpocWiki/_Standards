@@ -138,8 +138,6 @@ PhilPapers_topic: peter-abelard
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Abelard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Abelard,Peter](/_Standards/Philosophy/Philosopher/Abelard,Peter.md) 

@@ -77,8 +77,6 @@ Iconclass_notation: 12R13(QUETZALCOATL)12
 > [Wikipedia](https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quetzalcoatl](/_Standards/Philosophy/Metaphysic/Religion/Deity/Quetzalcoatl.md) 

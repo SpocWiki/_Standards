@@ -27,8 +27,6 @@ Commons_category: Show jumping
 > [Wikipedia](https://en.wikipedia.org/wiki/Show%20jumping) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Show_Jumping](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Show_Jumping.md) 

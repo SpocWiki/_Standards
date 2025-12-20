@@ -54,8 +54,6 @@ MeSH_tree_code: F01.145.813.157
 > [Wikipedia](https://en.wikipedia.org/wiki/Deception) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deception](/_Standards/Society/Law/Criminal_Law/Crime/Deception.md) 

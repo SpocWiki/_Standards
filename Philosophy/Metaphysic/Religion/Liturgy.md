@@ -42,8 +42,6 @@ Commons_category: Liturgy
 > [Wikipedia](https://en.wikipedia.org/wiki/Liturgy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Liturgy](/_Standards/Philosophy/Metaphysic/Religion/Liturgy.md) 

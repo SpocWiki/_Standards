@@ -102,8 +102,6 @@ inception: -1500-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Vedas)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vedas](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.md) 

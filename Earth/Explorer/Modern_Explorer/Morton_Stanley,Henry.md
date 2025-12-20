@@ -103,8 +103,6 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/66554
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Morton%20Stanley) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Morton_Stanley,Henry](/_Standards/Earth/Explorer/Modern_Explorer/Morton_Stanley,Henry.md) 

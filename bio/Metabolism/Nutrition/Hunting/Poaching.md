@@ -50,8 +50,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20braconnier%20par%
 > [Wikipedia](https://en.wikipedia.org/wiki/Poaching) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poaching](/_Standards/bio/Metabolism/Nutrition/Hunting/Poaching.md) 

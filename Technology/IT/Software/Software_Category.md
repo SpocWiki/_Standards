@@ -26,8 +26,6 @@ is_metaclass_for: "[[_Standards/WikiData/WD~software,7397]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Software%20categories) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Software_Category](/_Standards/Technology/IT/Software/Software_Category.md) 

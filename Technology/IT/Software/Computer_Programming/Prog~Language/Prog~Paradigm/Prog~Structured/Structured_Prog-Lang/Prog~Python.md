@@ -126,9 +126,6 @@ Pickling” is the process whereby a Python object hierarchy is converted into a
 and “unpickling” is the Reverse. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Python](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python.md) 

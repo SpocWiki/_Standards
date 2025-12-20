@@ -51,8 +51,6 @@ name_in_native_language: Johann Jakob Balmer
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Jakob%20Balmer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Balmer,Johann_Jakob](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.md) 

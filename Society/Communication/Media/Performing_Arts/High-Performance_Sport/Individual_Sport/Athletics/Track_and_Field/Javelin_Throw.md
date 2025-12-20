@@ -33,8 +33,6 @@ OpenStreetMap_tag: athletics=javelin_throw
 > [Wikipedia](https://en.wikipedia.org/wiki/Javelin%20throw) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Javelin_Throw](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Javelin_Throw.md) 

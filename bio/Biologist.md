@@ -93,10 +93,6 @@ UMLS_CUI: C0334861
 > [Wikipedia](https://en.wikipedia.org/wiki/Biologist) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Biologist](/_Standards/bio/Biologist.md) 

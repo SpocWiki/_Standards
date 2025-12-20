@@ -31,8 +31,6 @@ Commons_category: Spectral types
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20classification) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spectral_Class](/_Standards/Astronomy/Star/Star~Class/Spectral_Class.md) 

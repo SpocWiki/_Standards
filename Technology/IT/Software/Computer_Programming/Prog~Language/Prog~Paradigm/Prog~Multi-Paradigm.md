@@ -7,8 +7,6 @@ Most modern Languages support multiple Paradigms,
 - 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Multi-Paradigm](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm.md) 

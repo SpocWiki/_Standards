@@ -60,8 +60,6 @@ subreddit: cults
 > [Wikipedia](https://en.wikipedia.org/wiki/Cult) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cult](/_Standards/Society/Agent/Community/Cult.md) 

@@ -107,9 +107,6 @@ P1015: "90053007"
 > [Wikipedia](https://en.wikipedia.org/wiki/Truman%20Capote) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Capote,Truman](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Capote,Truman.md) 

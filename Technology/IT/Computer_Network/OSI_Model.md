@@ -14,9 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/OSI%20model) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSI_Model](/_Standards/Technology/IT/Computer_Network/OSI_Model.md) 

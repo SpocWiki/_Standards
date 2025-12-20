@@ -192,8 +192,6 @@ the astrophysical origin of most elements beyond iron.
 | Final Object Mass              | 0.6 M☉ (white dwarf) | 2.0 M☉ (neutron star) |
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Main_Sequence](/_Standards/Astronomy/Star/Main_Sequence.md) 

@@ -75,8 +75,6 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/TSERKOV_HRISTIANSKAYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Christian%20Church) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Christian_Church](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.md) 

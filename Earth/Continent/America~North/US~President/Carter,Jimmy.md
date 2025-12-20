@@ -32,8 +32,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of :: "[[]]" ] [created:: 1977-01-20]  [cancelled:: 1981-01-20]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Carter,Jimmy](/_Standards/Earth/Continent/America~North/US~President/Carter,Jimmy.md) 

@@ -69,8 +69,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Marciano%20195
 > [Wikipedia](https://en.wikipedia.org/wiki/Rocky%20Marciano) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marciano,Rocky](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.md) 

@@ -181,10 +181,6 @@ Instagram_username: councilofeurope
 > [Wikipedia](https://en.wikipedia.org/wiki/Council%20of%20Europe) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Council_of_Europe](/_Standards/Earth/Continent/Europe/Council_of_Europe.md) 

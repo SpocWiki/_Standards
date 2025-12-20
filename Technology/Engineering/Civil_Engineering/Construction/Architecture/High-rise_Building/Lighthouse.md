@@ -98,9 +98,6 @@ IEV_number: 845-31-029
 > [Wikipedia](https://en.wikipedia.org/wiki/Lighthouse) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lighthouse](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.md) 

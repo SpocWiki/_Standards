@@ -54,8 +54,6 @@ the latter is the Property to assign the Value for this Dimension
 > [Wikipedia](https://en.wikipedia.org/wiki/Latitude) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Latitude](/_Standards/Dimension/Angular_Dimension/Latitude.md) 

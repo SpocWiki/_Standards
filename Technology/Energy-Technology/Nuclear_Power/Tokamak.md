@@ -77,8 +77,6 @@ Commons_category: Tokamaks
 > [Wikipedia](https://en.wikipedia.org/wiki/Tokamak) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tokamak](/_Standards/Technology/Energy-Technology/Nuclear_Power/Tokamak.md) 

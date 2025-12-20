@@ -119,8 +119,6 @@ Commons_Creator_page: Jean-Baptiste de Lamarck
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Baptiste%20Lamarck) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lamarck,Jean-Baptiste_de](/_Standards/bio/Biologist/Lamarck,Jean-Baptiste_de.md) 

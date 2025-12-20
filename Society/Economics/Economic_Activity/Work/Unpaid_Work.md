@@ -36,10 +36,6 @@ disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,237664
 > [Wikipedia](https://en.wikipedia.org/wiki/Unpaid%20work) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unpaid_Work](/_Standards/Society/Economics/Economic_Activity/Work/Unpaid_Work.md) 

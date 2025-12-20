@@ -25,8 +25,6 @@ has_id_wikidata: Q49773
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20movement) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Movement](/_Standards/Society/Social_Relation/Group_Dynamics/Social_Movement.md) 

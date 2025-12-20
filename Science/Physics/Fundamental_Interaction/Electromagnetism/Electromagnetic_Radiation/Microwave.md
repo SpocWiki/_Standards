@@ -46,8 +46,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/SVERHVISOKIH_CHAS
 > [Wikipedia](https://en.wikipedia.org/wiki/Microwave) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Microwave](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.md) 

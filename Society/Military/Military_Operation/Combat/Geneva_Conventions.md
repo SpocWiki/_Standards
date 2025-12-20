@@ -37,8 +37,6 @@ nickname: Geneva Suggestions
 > [Wikipedia](https://en.wikipedia.org/wiki/Geneva%20Conventions) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geneva_Conventions](/_Standards/Society/Military/Military_Operation/Combat/Geneva_Conventions.md) 

@@ -149,8 +149,6 @@ taxon_name: Puma concolor
 > [Wikipedia](https://en.wikipedia.org/wiki/Cougar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cougar](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Puma/Cougar.md) 

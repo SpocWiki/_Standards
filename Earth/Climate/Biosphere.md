@@ -43,8 +43,6 @@ Krugosvet_article: nauka_i_tehnika/biologiya/BIOSFERA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Biosphere) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Biosphere](/_Standards/Earth/Climate/Biosphere.md) 

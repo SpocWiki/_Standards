@@ -26,8 +26,6 @@ taxon_name: Theraphosoidea
 > [Wikipedia](https://en.wikipedia.org/wiki/Theraphosoidea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theraphosoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.md) 

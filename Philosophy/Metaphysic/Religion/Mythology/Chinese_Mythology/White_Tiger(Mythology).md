@@ -40,8 +40,6 @@ Commons_category: White Tiger (Chinese mythology)
 > [Wikipedia](https://en.wikipedia.org/wiki/White%20Tiger%20(mythology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [White_Tiger(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/White_Tiger(Mythology).md) 

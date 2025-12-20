@@ -31,8 +31,6 @@ has_id_wikidata: Q192245
 > [Wikipedia](https://en.wikipedia.org/wiki/Susan%20B.%20Anthony) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Anthony,Susan_B.](/_Standards/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..md) 

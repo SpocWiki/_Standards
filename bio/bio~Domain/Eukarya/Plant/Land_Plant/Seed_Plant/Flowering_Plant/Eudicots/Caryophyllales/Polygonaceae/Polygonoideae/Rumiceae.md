@@ -28,8 +28,6 @@ taxon_common_name: حماضاوية
 > [Wikipedia](https://en.wikipedia.org/wiki/Polygonoideae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rumiceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae.md) 

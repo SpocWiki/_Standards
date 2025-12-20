@@ -39,8 +39,6 @@ dissolved_abolished_or_demolished_date: 2035-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Leap%20second) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leap_Second](/_Standards/Dimension/Dim~Time/Leap_Second.md) 

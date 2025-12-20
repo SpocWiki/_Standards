@@ -92,8 +92,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Somali%20language) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Somali_Language](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.md) 

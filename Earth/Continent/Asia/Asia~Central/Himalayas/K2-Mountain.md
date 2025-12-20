@@ -69,8 +69,6 @@ RIA_Novosti_reference: "52699902"
 > [Wikipedia](https://en.wikipedia.org/wiki/K2) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [K2-Mountain](/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.md) 

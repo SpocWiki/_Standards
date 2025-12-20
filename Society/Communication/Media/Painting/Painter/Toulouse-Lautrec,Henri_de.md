@@ -221,8 +221,6 @@ ISNI: "0000000121266391"
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20de%20Toulouse-Lautrec) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Toulouse-Lautrec,Henri_de](/_Standards/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.md) 

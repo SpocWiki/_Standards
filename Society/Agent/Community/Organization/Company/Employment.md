@@ -62,8 +62,6 @@ MeSH_tree_code: N01.824.245
 > [Wikipedia](https://en.wikipedia.org/wiki/Employment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Employment](/_Standards/Society/Agent/Community/Organization/Company/Employment.md) 

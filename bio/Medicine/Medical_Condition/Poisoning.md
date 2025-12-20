@@ -38,10 +38,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vergi
 > [Wikipedia](https://en.wikipedia.org/wiki/Poisoning) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poisoning](/_Standards/bio/Medicine/Medical_Condition/Poisoning.md) 

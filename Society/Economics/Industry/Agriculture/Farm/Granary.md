@@ -38,8 +38,6 @@ OpenStreetMap_tag_or_key: Tag:building=granary
 > [Wikipedia](https://en.wikipedia.org/wiki/Granary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Granary](/_Standards/Society/Economics/Industry/Agriculture/Farm/Granary.md) 

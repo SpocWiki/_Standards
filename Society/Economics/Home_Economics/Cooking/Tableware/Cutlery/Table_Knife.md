@@ -10,10 +10,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Table%20knife) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Table_Knife](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Table_Knife.md) 

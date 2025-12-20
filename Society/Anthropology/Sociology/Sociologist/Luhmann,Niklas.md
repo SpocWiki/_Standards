@@ -108,8 +108,6 @@ Wolfram_Language_entity_code: Entity["Person", "NiklasLuhmann::4796k"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Niklas%20Luhmann) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Luhmann,Niklas](/_Standards/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.md) 

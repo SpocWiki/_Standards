@@ -88,8 +88,6 @@ title: Uncle Tom's Cabin; or, Life Among the Lowly
 > [Wikipedia](https://en.wikipedia.org/wiki/Uncle%20Tom's%20Cabin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Uncle_Tom's_Cabin](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.md) 

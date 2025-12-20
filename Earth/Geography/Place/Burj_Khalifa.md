@@ -94,10 +94,6 @@ coordinate_location: Point(55.274166666 25.197222222)
 > [Wikipedia](https://en.wikipedia.org/wiki/Burj%20Khalifa) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Burj_Khalifa](/_Standards/Earth/Geography/Place/Burj_Khalifa.md) 

@@ -54,8 +54,6 @@ Commons_category: Saddles
 > [Wikipedia](https://en.wikipedia.org/wiki/Saddle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saddle](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.md) 

@@ -69,8 +69,6 @@ Commons_category: Eastern Orthodox Church
 > [Wikipedia](https://en.wikipedia.org/wiki/Eastern%20Orthodoxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eastern_Orthodoxy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.md) 

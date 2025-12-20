@@ -46,10 +46,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Toyota%20Coroll
 > [Wikipedia](https://en.wikipedia.org/wiki/Toyota%20Corolla)  
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Toyota_Corolla](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.md) 

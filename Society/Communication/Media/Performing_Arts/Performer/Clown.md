@@ -85,8 +85,6 @@ Unicode_character: 🤡
 > [Wikipedia](https://en.wikipedia.org/wiki/Clown) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clown](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Clown.md) 

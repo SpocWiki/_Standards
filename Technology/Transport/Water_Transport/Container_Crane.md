@@ -26,10 +26,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Container%20crane) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Container_Crane](/_Standards/Technology/Transport/Water_Transport/Container_Crane.md) 

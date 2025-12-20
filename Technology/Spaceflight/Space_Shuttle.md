@@ -76,8 +76,6 @@ Commons_category: Space Shuttles
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20Shuttle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Space_Shuttle](/_Standards/Technology/Spaceflight/Space_Shuttle.md) 

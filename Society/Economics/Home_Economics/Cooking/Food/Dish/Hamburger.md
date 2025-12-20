@@ -82,8 +82,6 @@ Commons_category: Hamburgers
 > [Wikipedia](https://en.wikipedia.org/wiki/Hamburger) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hamburger](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Hamburger.md) 

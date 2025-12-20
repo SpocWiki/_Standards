@@ -32,8 +32,6 @@ Commons_category: Syllabaries
 > [Wikipedia](https://en.wikipedia.org/wiki/Syllabary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Syllabary](/_Standards/Language/Linguistics/Syllabary.md) 

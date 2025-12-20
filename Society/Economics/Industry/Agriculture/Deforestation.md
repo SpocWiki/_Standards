@@ -70,8 +70,6 @@ Commons_category: Deforestation
 > [Wikipedia](https://en.wikipedia.org/wiki/Deforestation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deforestation](/_Standards/Society/Economics/Industry/Agriculture/Deforestation.md) 

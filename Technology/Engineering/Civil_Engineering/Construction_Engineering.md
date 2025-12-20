@@ -31,8 +31,6 @@ subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Construction%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Construction_Engineering](/_Standards/Technology/Engineering/Civil_Engineering/Construction_Engineering.md) 

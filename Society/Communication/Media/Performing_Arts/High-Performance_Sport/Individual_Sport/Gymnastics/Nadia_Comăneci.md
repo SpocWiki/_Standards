@@ -89,8 +89,6 @@ Instagram_username: comaneci10
 > [Wikipedia](https://en.wikipedia.org/wiki/Nadia%20Com%C4%83neci) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nadia_Comăneci](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Nadia_Comăneci.md) 

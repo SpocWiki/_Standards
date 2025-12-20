@@ -78,8 +78,6 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ISKOPAEMIE_OSTATKI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Fossil) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fossil](/_Standards/bio/Paleontology/Fossil.md) 

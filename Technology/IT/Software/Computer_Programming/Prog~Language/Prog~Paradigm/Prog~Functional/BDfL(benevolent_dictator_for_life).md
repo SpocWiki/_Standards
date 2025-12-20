@@ -12,8 +12,6 @@ Examples are:
 - [[Don_Syme]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [BDfL(benevolent_dictator_for_life)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).md) 

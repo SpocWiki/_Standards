@@ -39,8 +39,6 @@ Commons_category: Spanish conquest of the Aztec Empire
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20conquest%20of%20the%20Aztec%20Empire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1519-Spanish_Conquest-Aztec_Empire+1521](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.md) 

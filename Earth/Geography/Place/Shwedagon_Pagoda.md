@@ -51,9 +51,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Hintha" title="User:Hintha">Hintha
 > [Wikipedia](https://en.wikipedia.org/wiki/Shwedagon%20Pagoda) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shwedagon_Pagoda](/_Standards/Earth/Geography/Place/Shwedagon_Pagoda.md) 

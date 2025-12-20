@@ -34,8 +34,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Friends) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Friends](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.md) 

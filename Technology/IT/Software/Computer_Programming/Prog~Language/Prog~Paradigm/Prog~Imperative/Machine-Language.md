@@ -68,8 +68,6 @@ different from the 1st Generation [[Machine-Language]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Machine%20code)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Machine-Language](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Machine-Language.md) 

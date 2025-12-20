@@ -26,8 +26,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Quickstep) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quickstep](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Quickstep.md) 

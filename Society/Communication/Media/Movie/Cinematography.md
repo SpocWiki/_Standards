@@ -62,8 +62,6 @@ Krugosvet_article: teatr-i-kino/kinematograf
 > [Wikipedia](https://en.wikipedia.org/wiki/Cinematography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cinematography](/_Standards/Society/Communication/Media/Movie/Cinematography.md) 

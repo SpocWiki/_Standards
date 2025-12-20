@@ -45,8 +45,6 @@ Commons_category: Polymerization
 > [Wikipedia](https://en.wikipedia.org/wiki/Polymerization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polymerization](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymerization.md) 

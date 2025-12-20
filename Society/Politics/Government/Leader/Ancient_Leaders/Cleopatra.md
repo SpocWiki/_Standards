@@ -151,8 +151,6 @@ P8189: "987007259660905171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Cleopatra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cleopatra](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Cleopatra.md) 

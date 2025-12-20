@@ -58,8 +58,6 @@ time_of_discovery_or_invention: 1905-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Chainsaw) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chainsaw](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Chainsaw.md) 

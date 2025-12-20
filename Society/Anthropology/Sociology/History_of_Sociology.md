@@ -27,8 +27,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sociology%20Department
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20sociology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Sociology](/_Standards/Society/Anthropology/Sociology/History_of_Sociology.md) 

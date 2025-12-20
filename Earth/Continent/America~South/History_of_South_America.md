@@ -60,8 +60,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20laea
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20South%20America) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_South_America](/_Standards/Earth/Continent/America~South/History_of_South_America.md) 

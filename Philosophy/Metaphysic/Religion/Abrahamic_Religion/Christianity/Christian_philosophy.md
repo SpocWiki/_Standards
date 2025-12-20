@@ -47,8 +47,6 @@ P8189: "987007544605305171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Christian%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Christian_philosophy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.md) 

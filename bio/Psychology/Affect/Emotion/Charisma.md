@@ -26,8 +26,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Charisma::p96x8"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Charisma) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Charisma](/_Standards/bio/Psychology/Affect/Emotion/Charisma.md) 

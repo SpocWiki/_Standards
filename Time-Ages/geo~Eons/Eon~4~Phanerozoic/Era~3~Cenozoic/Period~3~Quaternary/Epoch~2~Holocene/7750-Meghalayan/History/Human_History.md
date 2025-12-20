@@ -48,8 +48,6 @@ Baidu_Tieba_name: 世界历史
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20history) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Human_History](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Human_History.md) 

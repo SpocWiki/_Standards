@@ -113,8 +113,6 @@ date_of_death: 2021-04-14T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Bernie%20Madoff) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bernard_Madoff](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.md) 

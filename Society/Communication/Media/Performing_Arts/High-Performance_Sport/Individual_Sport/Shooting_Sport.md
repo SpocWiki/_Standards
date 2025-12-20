@@ -43,11 +43,6 @@ OpenStreetMap_tag: sport=shooting
 > [Wikipedia](https://en.wikipedia.org/wiki/Shooting%20sports) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shooting_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Shooting_Sport.md) 

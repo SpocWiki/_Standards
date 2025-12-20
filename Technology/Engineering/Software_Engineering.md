@@ -59,8 +59,6 @@ subreddit: SoftwareEngineering
 > [Wikipedia](https://en.wikipedia.org/wiki/Software%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Software_Engineering](/_Standards/Technology/Engineering/Software_Engineering.md) 

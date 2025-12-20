@@ -57,8 +57,6 @@ Dewey_Decimal_Classification: "336.271"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tariff)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tariff](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.md) 

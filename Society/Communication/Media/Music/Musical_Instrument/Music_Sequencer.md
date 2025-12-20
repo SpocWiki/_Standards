@@ -32,8 +32,6 @@ Commons_category: Music sequencers
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20sequencer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Music_Sequencer](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.md) 

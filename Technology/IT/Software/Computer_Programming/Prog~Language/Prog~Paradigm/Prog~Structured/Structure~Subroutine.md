@@ -16,8 +16,6 @@ Otherwise create Structures and pass these.
 ### Local Variables allow Recursion 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structure~Subroutine](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Subroutine.md) 

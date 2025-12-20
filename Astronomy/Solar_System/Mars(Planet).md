@@ -216,17 +216,17 @@ Wolfram_Language_entity_code: Entity["Planet", "Mars"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mars(Planet)](Mars(Planet).md) 
+### #is_/same_as :: [Mars(Planet)](/_Standards/Astronomy/Solar_System/Mars(Planet).md) 
 
-### #is_/same_as :: [Mars.public](/_public/Astronomy/Solar_System/Mars.public.md) 
+### #is_/same_as :: [Mars(Planet).public](/_public/Astronomy/Solar_System/Mars(Planet).public.md) 
 
-### #is_/same_as :: [Mars.internal](/_internal/Astronomy/Solar_System/Mars.internal.md) 
+### #is_/same_as :: [Mars(Planet).internal](/_internal/Astronomy/Solar_System/Mars(Planet).internal.md) 
 
-### #is_/same_as :: [Mars.protect](/_protect/Astronomy/Solar_System/Mars.protect.md) 
+### #is_/same_as :: [Mars(Planet).protect](/_protect/Astronomy/Solar_System/Mars(Planet).protect.md) 
 
-### #is_/same_as :: [Mars.private](/_private/Astronomy/Solar_System/Mars.private.md) 
+### #is_/same_as :: [Mars(Planet).private](/_private/Astronomy/Solar_System/Mars(Planet).private.md) 
 
-### #is_/same_as :: [Mars.personal](/_personal/Astronomy/Solar_System/Mars.personal.md) 
+### #is_/same_as :: [Mars(Planet).personal](/_personal/Astronomy/Solar_System/Mars(Planet).personal.md) 
 
-### #is_/same_as :: [Mars.secret](/_secret/Astronomy/Solar_System/Mars.secret.md)
+### #is_/same_as :: [Mars(Planet).secret](/_secret/Astronomy/Solar_System/Mars(Planet).secret.md)
 

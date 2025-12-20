@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Tor%20(network)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tor-Network](/_Standards/Society/Agent/Management/Risk-Management/Tor-Network.md) 

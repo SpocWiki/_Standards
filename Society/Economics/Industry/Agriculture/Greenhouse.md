@@ -66,8 +66,6 @@ OpenStreetMap_tag_or_key: Tag:building=greenhouse
 > [Wikipedia](https://en.wikipedia.org/wiki/Greenhouse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greenhouse](/_Standards/Society/Economics/Industry/Agriculture/Greenhouse.md) 

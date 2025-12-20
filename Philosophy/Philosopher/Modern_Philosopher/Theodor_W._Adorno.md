@@ -147,8 +147,6 @@ ISNI: "0000000121442113"
 > [Wikipedia](https://en.wikipedia.org/wiki/Theodor%20W.%20Adorno) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theodor_W._Adorno](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.md) 

@@ -30,8 +30,6 @@ GitHub_topic: webdesign
 > [Wikipedia](https://en.wikipedia.org/wiki/Web%20design) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Web_Design](/_Standards/Technology/IT/Software/Computer_Programming/Web_Design.md) 

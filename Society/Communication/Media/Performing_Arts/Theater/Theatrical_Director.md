@@ -107,8 +107,6 @@ IMDb_keyword: theater-director
 > [Wikipedia](https://en.wikipedia.org/wiki/Theatre%20director) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theatrical_Director](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.md) 

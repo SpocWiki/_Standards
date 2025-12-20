@@ -62,8 +62,6 @@ Commons_category: Photocopiers
 > [Wikipedia](https://en.wikipedia.org/wiki/Photocopier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photocopier](/_Standards/Society/Communication/Printing/Photocopier.md) 

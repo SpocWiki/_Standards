@@ -74,8 +74,6 @@ Commons_category: Novae
 > [Wikipedia](https://en.wikipedia.org/wiki/Nova) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nova](/_Standards/Astronomy/Star/Nova.md) 

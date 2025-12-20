@@ -81,8 +81,6 @@ publication_date: 1812-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hansel%20and%20Gretel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hansel_and_Gretel](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.md) 

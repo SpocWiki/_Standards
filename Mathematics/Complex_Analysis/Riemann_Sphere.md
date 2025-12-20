@@ -61,8 +61,6 @@ Commons_category: Riemann sphere
 > [Wikipedia](https://en.wikipedia.org/wiki/Riemann%20sphere) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Riemann_Sphere](/_Standards/Mathematics/Complex_Analysis/Riemann_Sphere.md) 

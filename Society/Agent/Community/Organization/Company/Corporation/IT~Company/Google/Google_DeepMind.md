@@ -98,8 +98,6 @@ inception: 2010-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Google%20DeepMind) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Google_DeepMind](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind.md) 

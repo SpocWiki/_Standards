@@ -57,8 +57,6 @@ Commons_category: Programming language by paradigm
 > [Wikipedia](https://en.wikipedia.org/wiki/Programming%20paradigm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Paradigm](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm.md) 

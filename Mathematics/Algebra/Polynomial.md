@@ -60,8 +60,6 @@ Commons_category: Polynomials
 > [Wikipedia](https://en.wikipedia.org/wiki/Polynomial) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polynomial](/_Standards/Mathematics/Algebra/Polynomial.md) 

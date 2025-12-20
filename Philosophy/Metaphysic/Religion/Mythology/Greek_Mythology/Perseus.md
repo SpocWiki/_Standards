@@ -75,10 +75,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PERSE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Perseus) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Perseus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Perseus.md) 

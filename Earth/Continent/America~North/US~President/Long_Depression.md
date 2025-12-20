@@ -55,8 +55,6 @@ Commons_category: Long Depression
 > [Wikipedia](https://en.wikipedia.org/wiki/Long%20Depression) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Long_Depression](/_Standards/Earth/Continent/America~North/US~President/Long_Depression.md) 

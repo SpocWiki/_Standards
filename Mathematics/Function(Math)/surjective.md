@@ -41,8 +41,6 @@ direction LR
 [[../../../Knowledge/Math/Combinatorics/Twelvefold_way]]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [surjective](/_Standards/Mathematics/Function(Math)/surjective.md) 

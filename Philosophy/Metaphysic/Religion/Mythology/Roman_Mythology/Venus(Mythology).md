@@ -105,9 +105,6 @@ Iconclass_notation: 92C4
 > [Wikipedia](https://en.wikipedia.org/wiki/Venus%20(mythology)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Venus(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).md) 

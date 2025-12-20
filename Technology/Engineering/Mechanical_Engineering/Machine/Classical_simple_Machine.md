@@ -32,8 +32,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Simple%20machine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Classical_simple_Machine](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.md) 

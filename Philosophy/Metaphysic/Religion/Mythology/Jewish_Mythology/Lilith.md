@@ -64,8 +64,6 @@ seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sigil%20of%20Lili
 > [Wikipedia](https://en.wikipedia.org/wiki/Lilith) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lilith](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology/Lilith.md) 

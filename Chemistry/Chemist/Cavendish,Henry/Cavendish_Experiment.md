@@ -31,8 +31,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cavendish%20experiment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cavendish_Experiment](/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.md) 

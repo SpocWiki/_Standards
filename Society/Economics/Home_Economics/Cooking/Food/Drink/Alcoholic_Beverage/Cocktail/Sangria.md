@@ -44,8 +44,6 @@ native_label: Sangría
 > [Wikipedia](https://en.wikipedia.org/wiki/Sangria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sangria](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Sangria.md) 

@@ -41,8 +41,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Technology.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/High%20tech) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [High_Tech](/_Standards/Technology/High_Tech.md) 

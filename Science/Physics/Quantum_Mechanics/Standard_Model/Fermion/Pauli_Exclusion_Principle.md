@@ -64,8 +64,6 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "PauliExclusionPrinciple"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pauli%20exclusion%20principle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pauli_Exclusion_Principle](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.md) 

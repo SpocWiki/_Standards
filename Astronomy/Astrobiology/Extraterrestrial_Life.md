@@ -67,8 +67,6 @@ Commons_category: Extraterrestrial life
 > [Wikipedia](https://en.wikipedia.org/wiki/Extraterrestrial%20life) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Extraterrestrial_Life](/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life.md) 

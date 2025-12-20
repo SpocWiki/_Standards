@@ -263,8 +263,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/TERN
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20M.%20W.%20Turner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turner,J.M.W.](/_Standards/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..md) 

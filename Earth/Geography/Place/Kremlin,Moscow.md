@@ -73,8 +73,6 @@ native_label: Московский Кремль
 > [Wikipedia](https://en.wikipedia.org/wiki/Kremlin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kremlin,Moscow](/_Standards/Earth/Geography/Place/Kremlin,Moscow.md) 

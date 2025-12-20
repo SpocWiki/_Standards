@@ -37,8 +37,6 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbital%20period) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orbital_Period](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.md) 

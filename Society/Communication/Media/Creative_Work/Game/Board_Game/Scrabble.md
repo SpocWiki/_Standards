@@ -80,3 +80,22 @@ publication_date: 1938-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scrabble) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scrabble](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.md) 
+
+### #is_/same_as :: [Scrabble.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.public.md) 
+
+### #is_/same_as :: [Scrabble.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.internal.md) 
+
+### #is_/same_as :: [Scrabble.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.protect.md) 
+
+### #is_/same_as :: [Scrabble.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.private.md) 
+
+### #is_/same_as :: [Scrabble.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.personal.md) 
+
+### #is_/same_as :: [Scrabble.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.secret.md)
+

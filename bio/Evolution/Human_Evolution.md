@@ -50,8 +50,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/EVOLYUTSIYA_CHELOVEKA.htm
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20evolution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Human_Evolution](/_Standards/bio/Evolution/Human_Evolution.md) 

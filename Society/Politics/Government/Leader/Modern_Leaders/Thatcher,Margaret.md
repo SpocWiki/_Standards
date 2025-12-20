@@ -224,8 +224,6 @@ birth_name: Margaret Hilda Roberts
 > [Wikipedia](https://en.wikipedia.org/wiki/Margaret%20Thatcher) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thatcher,Margaret](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Thatcher,Margaret.md) 

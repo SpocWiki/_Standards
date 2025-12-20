@@ -139,8 +139,6 @@ Plex_person_key: 5d7768255af944001f1f63c8
 > [Wikipedia](https://en.wikipedia.org/wiki/Jack%20Nicholson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nicholson,Jack](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.md) 

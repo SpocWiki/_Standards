@@ -49,8 +49,6 @@ Commons_category: Ice sheets
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20sheet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ice_Sheet](/_Standards/Earth/Geology/Landform/Glacier/Ice_Sheet.md) 

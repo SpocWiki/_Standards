@@ -39,8 +39,6 @@ exact_match: https://baike.baidu.com/item/跨媒体制作/3802974
 > [Wikipedia](https://en.wikipedia.org/wiki/Media%20franchise) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Media_Franchise](/_Standards/Society/Communication/Media/Media_Franchise.md) 

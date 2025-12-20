@@ -71,8 +71,6 @@ markerFolder: ./Norwegian_Sea/
 > [Wikipedia](https://en.wikipedia.org/wiki/Norwegian%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Norwegian_Sea](/_Standards/Earth/Ocean/North_Sea/Norwegian_Sea.md) 

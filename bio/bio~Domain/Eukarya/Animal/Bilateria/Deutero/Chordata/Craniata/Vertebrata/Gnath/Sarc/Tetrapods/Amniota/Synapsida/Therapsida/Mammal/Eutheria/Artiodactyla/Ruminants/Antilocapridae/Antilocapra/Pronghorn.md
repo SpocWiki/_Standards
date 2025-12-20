@@ -89,9 +89,6 @@ GenBank_assembly_accession_number: GCA_021018645.1
 > [Wikipedia](https://en.wikipedia.org/wiki/Pronghorn) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pronghorn](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Antilocapridae/Antilocapra/Pronghorn.md) 

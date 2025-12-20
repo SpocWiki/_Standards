@@ -170,8 +170,6 @@ Libris_URI: 86lnqm4s2tjwvh0
 > [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Weierstrass) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weierstraß,Karl](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.md) 

@@ -12,8 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Fork) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fork](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.md) 

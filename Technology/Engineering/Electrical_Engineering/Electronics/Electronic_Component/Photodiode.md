@@ -10,8 +10,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Photodiode) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photodiode](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodiode.md) 

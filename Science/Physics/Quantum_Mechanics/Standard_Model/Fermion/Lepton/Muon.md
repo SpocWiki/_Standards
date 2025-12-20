@@ -62,8 +62,6 @@ g_factor: -2.0023318418
 > [Wikipedia](https://en.wikipedia.org/wiki/Muon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Muon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Muon.md) 

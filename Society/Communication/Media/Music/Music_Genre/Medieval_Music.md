@@ -50,8 +50,6 @@ end_time: 1400-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Medieval%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medieval_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Medieval_Music.md) 

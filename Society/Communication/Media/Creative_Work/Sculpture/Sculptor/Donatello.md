@@ -38,8 +38,6 @@ has_id_wikidata: Q37562
 > [Wikipedia](https://en.wikipedia.org/wiki/Donatello) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Donatello](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.md) 

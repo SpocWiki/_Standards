@@ -58,8 +58,6 @@ Commons_category: Trade winds
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade%20winds) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trade_Wind](/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.md) 

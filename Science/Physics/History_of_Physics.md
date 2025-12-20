@@ -42,8 +42,6 @@ PhilPapers_topic: history-of-physics
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20physics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Physics](/_Standards/Science/Physics/History_of_Physics.md) 

@@ -84,8 +84,6 @@ vocalized_name: הַנְדָּסַת חַשְׁמַל
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrical_Engineering](/_Standards/Technology/Engineering/Electrical_Engineering.md) 

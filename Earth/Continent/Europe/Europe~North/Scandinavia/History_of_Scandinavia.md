@@ -25,8 +25,6 @@ Commons_category: Nordic Middle Ages
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Scandinavia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Scandinavia](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.md) 

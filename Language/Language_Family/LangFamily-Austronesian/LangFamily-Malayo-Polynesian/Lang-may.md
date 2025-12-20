@@ -107,8 +107,6 @@ GitHub_topic: bahasa-melayu
 > [Wikipedia](https://en.wikipedia.org/wiki/Malayic%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-may](/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-may.md) 

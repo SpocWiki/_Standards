@@ -45,8 +45,6 @@ Library_of_Congress_Classification: RC76-RC76.5
 > [Wikipedia](https://en.wikipedia.org/wiki/Physical%20examination) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medical_Examination](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.md) 

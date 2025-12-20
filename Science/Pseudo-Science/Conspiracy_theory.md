@@ -105,9 +105,6 @@ PhilPapers_topic: conspiracy-theories
 > [Wikipedia](https://en.wikipedia.org/wiki/Conspiracy%20theory) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conspiracy_theory](/_Standards/Science/Pseudo-Science/Conspiracy_theory.md) 

@@ -18,9 +18,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Medusozoa) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medusozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.md) 

@@ -111,8 +111,6 @@ DSSTOX_compound_identifier: DTXCID804263
 > [Wikipedia](https://en.wikipedia.org/wiki/Phosphoric%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phosphoric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.md) 

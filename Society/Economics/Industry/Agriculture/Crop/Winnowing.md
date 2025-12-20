@@ -32,8 +32,6 @@ Commons_category: Winnowing
 > [Wikipedia](https://en.wikipedia.org/wiki/Winnowing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Winnowing](/_Standards/Society/Economics/Industry/Agriculture/Crop/Winnowing.md) 

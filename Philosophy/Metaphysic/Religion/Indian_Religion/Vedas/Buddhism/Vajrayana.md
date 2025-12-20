@@ -52,8 +52,6 @@ OpenStreetMap_tag: denomination=vajrayana
 > [Wikipedia](https://en.wikipedia.org/wiki/Vajrayana) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vajrayana](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Vajrayana.md) 

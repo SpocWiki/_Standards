@@ -89,8 +89,6 @@ Krugosvet_article_archived_: gosudarstvo-i-politika/sionizm
 > [Wikipedia](https://en.wikipedia.org/wiki/Zionism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zionism](/_Standards/Society/Ideology/Political_Ideology/Nationalism/Zionism.md) 

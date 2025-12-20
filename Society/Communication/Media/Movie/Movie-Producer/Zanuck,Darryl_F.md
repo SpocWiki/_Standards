@@ -71,8 +71,6 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Darryl%20Zanu
 > [Wikipedia](https://en.wikipedia.org/wiki/Darryl%20F.%20Zanuck) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zanuck,Darryl_F](/_Standards/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.md) 

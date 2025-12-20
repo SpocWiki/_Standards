@@ -341,8 +341,6 @@ defining_formula: |-
 > [Wikipedia](https://en.wikipedia.org/wiki/Complex%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Complex_Number](/_Standards/Mathematics/Complex_Analysis/Complex_Number.md) 

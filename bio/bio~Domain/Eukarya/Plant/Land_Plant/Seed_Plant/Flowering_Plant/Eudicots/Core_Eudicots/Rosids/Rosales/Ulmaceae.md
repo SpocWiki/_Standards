@@ -82,8 +82,6 @@ taxon_name: Ulmaceae
 > [Wikipedia](https://en.wikipedia.org/wiki/Ulmaceae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ulmaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Ulmaceae.md) 

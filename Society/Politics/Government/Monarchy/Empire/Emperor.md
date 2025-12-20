@@ -157,8 +157,6 @@ Krugosvet_article: istoriya/IMPERATOR.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Emperor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Emperor](/_Standards/Society/Politics/Government/Monarchy/Empire/Emperor.md) 

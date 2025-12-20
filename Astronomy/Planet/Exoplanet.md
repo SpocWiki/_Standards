@@ -55,8 +55,6 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/EKZOPLANETA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Exoplanet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Exoplanet](/_Standards/Astronomy/Planet/Exoplanet.md) 

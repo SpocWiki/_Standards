@@ -2,9 +2,6 @@
 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rock_Singer](/_Standards/Society/Communication/Media/Music/Musician/Singer/Rock_Singer.md) 

@@ -23,9 +23,6 @@ Discoveries are rarely attributed to the correct person
 > - _The Berry principle_. The Arnold Principle is applicable to itself.
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Arnold_Principle](/_Standards/Mathematics/Mathematician/Arnold_Principle.md) 

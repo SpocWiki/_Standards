@@ -38,8 +38,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhumsiki%20Peak.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Volcanic%20plug) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Volcanic_Plug](/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug.md) 

@@ -94,7 +94,6 @@ Rc::downgrade(&rc);
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Smart_Pointers](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.md) 

@@ -26,8 +26,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Kalmar%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1397-Kalmar_Union-1523](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.md) 

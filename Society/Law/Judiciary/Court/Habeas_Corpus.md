@@ -52,8 +52,6 @@ APA_Dictionary_of_Psychology_entry: habeas-corpus
 > [Wikipedia](https://en.wikipedia.org/wiki/Habeas%20corpus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Habeas_Corpus](/_Standards/Society/Law/Judiciary/Court/Habeas_Corpus.md) 

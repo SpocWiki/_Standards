@@ -55,3 +55,22 @@ Krugosvet_article_archived_: Earth_sciences/geografiya/KABOT_DZHON.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Cabot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cabot,John](/_Standards/Earth/Explorer/Cabot,John.md) 
+
+### #is_/same_as :: [Cabot,John.public](/_public/Earth/Explorer/Cabot,John.public.md) 
+
+### #is_/same_as :: [Cabot,John.internal](/_internal/Earth/Explorer/Cabot,John.internal.md) 
+
+### #is_/same_as :: [Cabot,John.protect](/_protect/Earth/Explorer/Cabot,John.protect.md) 
+
+### #is_/same_as :: [Cabot,John.private](/_private/Earth/Explorer/Cabot,John.private.md) 
+
+### #is_/same_as :: [Cabot,John.personal](/_personal/Earth/Explorer/Cabot,John.personal.md) 
+
+### #is_/same_as :: [Cabot,John.secret](/_secret/Earth/Explorer/Cabot,John.secret.md)
+

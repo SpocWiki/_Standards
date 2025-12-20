@@ -72,8 +72,6 @@ Baidu_Tieba_name: 象棋
 > [Wikipedia](https://en.wikipedia.org/wiki/Xiangqi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Xiangqi](/_Standards/Society/Communication/Media/Creative_Work/Game/Chess/Xiangqi.md) 

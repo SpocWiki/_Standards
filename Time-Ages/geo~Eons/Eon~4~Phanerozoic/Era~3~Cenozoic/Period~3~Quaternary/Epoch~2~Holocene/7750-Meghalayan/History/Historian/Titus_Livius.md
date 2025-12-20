@@ -75,8 +75,6 @@ Europeana_entity: agent/base/60138
 > [Wikipedia](https://en.wikipedia.org/wiki/Livy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Titus_Livius](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.md) 

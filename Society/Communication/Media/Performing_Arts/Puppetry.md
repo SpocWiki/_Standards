@@ -96,8 +96,6 @@ Krugosvet_article_archived_: teatr-i-kino/kukolnyy-teatr
 > [Wikipedia](https://en.wikipedia.org/wiki/Puppetry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Puppetry](/_Standards/Society/Communication/Media/Performing_Arts/Puppetry.md) 

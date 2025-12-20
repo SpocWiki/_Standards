@@ -30,8 +30,6 @@ has_id_wikidata: Q192292
 > [Wikipedia](https://en.wikipedia.org/wiki/Medieval%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medieval_Philosophy](/_Standards/Philosophy/Epistemology/Medieval_Philosophy.md) 

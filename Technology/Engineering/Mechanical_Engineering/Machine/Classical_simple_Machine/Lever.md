@@ -39,8 +39,6 @@ Commons_category: Levers
 > [Wikipedia](https://en.wikipedia.org/wiki/Lever) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lever](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Lever.md) 

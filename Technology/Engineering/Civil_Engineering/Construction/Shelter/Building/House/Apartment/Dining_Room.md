@@ -34,8 +34,6 @@ Commons_category: Dining rooms
 > [Wikipedia](https://en.wikipedia.org/wiki/Dining%20room) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dining_Room](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.md) 

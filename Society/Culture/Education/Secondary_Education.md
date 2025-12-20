@@ -27,8 +27,6 @@ has_id_wikidata: Q14623204
 > [Wikipedia](https://en.wikipedia.org/wiki/Secondary%20education) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Secondary_Education](/_Standards/Society/Culture/Education/Secondary_Education.md) 

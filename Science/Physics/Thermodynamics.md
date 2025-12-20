@@ -71,8 +71,6 @@ Commons_category: Thermodynamics
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermodynamics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thermodynamics](/_Standards/Science/Physics/Thermodynamics.md) 

@@ -39,9 +39,6 @@ Commons_category: Greek fire
 > [Wikipedia](https://en.wikipedia.org/wiki/Greek%20fire) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greek_Fire](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.md) 

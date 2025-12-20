@@ -51,8 +51,6 @@ date_of_birth: 1496-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Menno%20Simons) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Menno_Simons](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.md) 

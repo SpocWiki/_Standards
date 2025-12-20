@@ -57,8 +57,6 @@ Commons_category: Rainbows
 > [Wikipedia](https://en.wikipedia.org/wiki/Rainbow) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rainbow](/_Standards/Earth/Climate/Weather/Rainbow.md) 

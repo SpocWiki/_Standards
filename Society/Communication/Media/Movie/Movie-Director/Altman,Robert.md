@@ -93,8 +93,6 @@ date_of_birth: 1925-02-20T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Altman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Altman,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.md) 

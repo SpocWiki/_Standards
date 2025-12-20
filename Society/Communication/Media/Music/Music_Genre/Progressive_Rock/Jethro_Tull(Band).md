@@ -50,11 +50,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Jethro%20Tull%20(band))
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jethro_Tull(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Jethro_Tull(Band).md) 

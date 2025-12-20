@@ -145,8 +145,6 @@ work_period_start_: 1919-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Faulkner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Faulkner,William](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.md) 

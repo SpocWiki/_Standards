@@ -50,8 +50,6 @@ has_/time_/started: `=this.has_time_started`
 > [Wikipedia](https://en.wikipedia.org/wiki/Viking%20Age) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0793-Viking_Age+1066](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.md) 

@@ -53,8 +53,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LITAVRI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Timpani) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Timpani](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.md) 

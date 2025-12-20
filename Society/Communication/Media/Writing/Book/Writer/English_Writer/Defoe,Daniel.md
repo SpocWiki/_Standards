@@ -110,8 +110,6 @@ ISNI: "0000000458753523"
 > [Wikipedia](https://en.wikipedia.org/wiki/Daniel%20Defoe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Defoe,Daniel](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel.md) 

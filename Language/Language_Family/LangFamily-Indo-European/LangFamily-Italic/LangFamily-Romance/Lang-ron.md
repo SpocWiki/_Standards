@@ -31,3 +31,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Romanian%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-ron](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ron.md) 
+
+### #is_/same_as :: [Lang-ron.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ron.public.md) 
+
+### #is_/same_as :: [Lang-ron.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ron.internal.md) 
+
+### #is_/same_as :: [Lang-ron.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ron.protect.md) 
+
+### #is_/same_as :: [Lang-ron.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ron.private.md) 
+
+### #is_/same_as :: [Lang-ron.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ron.personal.md) 
+
+### #is_/same_as :: [Lang-ron.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ron.secret.md)
+

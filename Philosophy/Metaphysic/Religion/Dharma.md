@@ -48,8 +48,6 @@ Krugosvet_article:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dharma) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dharma](/_Standards/Philosophy/Metaphysic/Religion/Dharma.md) 

@@ -43,8 +43,6 @@ IMDb_keyword: molotov-cocktail
 > [Wikipedia](https://en.wikipedia.org/wiki/Molotov%20cocktail) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Molotov_Cocktail](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Molotov_Cocktail.md) 

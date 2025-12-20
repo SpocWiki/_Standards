@@ -44,8 +44,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Creativ%20plumbing%20-
 > [Wikipedia](https://en.wikipedia.org/wiki/Plumbing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plumbing](/_Standards/Technology/Transport/Pipeline_Transport/Plumbing.md) 

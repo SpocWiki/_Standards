@@ -67,8 +67,6 @@ IPTC_NewsCode: mediatopic/20000328
 > [Wikipedia](https://en.wikipedia.org/wiki/Soft%20drink) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soft_Drink](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.md) 

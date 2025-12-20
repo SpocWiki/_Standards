@@ -47,8 +47,6 @@ Library_of_Congress_Classification: JC329
 > [Wikipedia](https://en.wikipedia.org/wiki/Patriotism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Patriotism](/_Standards/Society/Politics/Patriotism.md) 

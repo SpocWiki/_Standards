@@ -57,8 +57,6 @@ Baidu_Tieba_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Weight%20loss) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weight_Loss](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Weight_Loss.md) 

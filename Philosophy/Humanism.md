@@ -82,8 +82,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GUMANIZM.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Humanism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Humanism](/_Standards/Philosophy/Humanism.md) 

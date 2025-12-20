@@ -60,8 +60,6 @@ Commons_category: Oort cloud
 > [Wikipedia](https://en.wikipedia.org/wiki/Oort%20cloud) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oort_Cloud](/_Standards/Astronomy/Solar_System/Oort_Cloud.md) 

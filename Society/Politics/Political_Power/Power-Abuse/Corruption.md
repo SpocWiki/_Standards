@@ -59,10 +59,6 @@ IPTC_NewsCode: mediatopic/20000093
 > [Wikipedia](https://en.wikipedia.org/wiki/Corruption) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Corruption](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption.md) 

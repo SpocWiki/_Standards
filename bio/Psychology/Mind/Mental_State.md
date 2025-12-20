@@ -30,8 +30,6 @@ studied_by: "[[_Standards/WikiData/WD~psychology,9418]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Mental%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mental_State](/_Standards/bio/Psychology/Mind/Mental_State.md) 

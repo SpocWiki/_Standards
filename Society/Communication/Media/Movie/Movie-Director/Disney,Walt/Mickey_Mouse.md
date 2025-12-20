@@ -183,8 +183,6 @@ Wolfram_Language_entity_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mickey%20Mouse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mickey_Mouse](/_Standards/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Mickey_Mouse.md) 

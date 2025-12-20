@@ -184,9 +184,6 @@ The Server-Edition of the Services Management Plugin allows to connect to a diff
 [[RDP(Remote_Desktop_Protocol)]] 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OS~Windows](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows.md) 

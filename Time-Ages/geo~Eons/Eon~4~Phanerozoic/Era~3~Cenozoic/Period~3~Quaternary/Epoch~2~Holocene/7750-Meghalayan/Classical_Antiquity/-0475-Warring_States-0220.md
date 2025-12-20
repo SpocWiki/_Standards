@@ -42,8 +42,6 @@ Commons_gallery: 戰國時代
 > [Wikipedia](https://en.wikipedia.org/wiki/Warring%20States%20period) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-0475-Warring_States-0220](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0475-Warring_States-0220.md) 

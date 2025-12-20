@@ -53,8 +53,6 @@ Dewey_Decimal_Classification: "384.558"
 > [Wikipedia](https://en.wikipedia.org/wiki/Video) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Video_Recording](/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording.md) 

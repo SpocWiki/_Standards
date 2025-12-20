@@ -40,8 +40,6 @@ Dewey_Decimal_Classification: "796.525"
 > [Wikipedia](https://en.wikipedia.org/wiki/Speleology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Speleology](/_Standards/Earth/Geology/Speleology.md) 

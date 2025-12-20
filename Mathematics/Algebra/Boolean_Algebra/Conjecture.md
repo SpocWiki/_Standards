@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Conjecture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conjecture](/_Standards/Mathematics/Algebra/Boolean_Algebra/Conjecture.md) 

@@ -40,8 +40,6 @@ has_id_wikidata: Q54363
 > [Wikipedia](https://en.wikipedia.org/wiki/Saturn%20V) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saturn_V](/_Standards/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.md) 

@@ -193,8 +193,6 @@ DPLA_subject_term: King, Martin Luther, Jr., 1929-1968
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Luther%20King%20Jr.) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Luther_King,Martin](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Luther_King,Martin.md) 

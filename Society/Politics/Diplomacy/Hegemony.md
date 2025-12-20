@@ -47,8 +47,6 @@ Libris_URI: 75kmp4br0wqq0j7
 > [Wikipedia](https://en.wikipedia.org/wiki/Hegemony) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hegemony](/_Standards/Society/Politics/Diplomacy/Hegemony.md) 

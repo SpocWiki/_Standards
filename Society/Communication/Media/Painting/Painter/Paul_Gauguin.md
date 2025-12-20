@@ -369,8 +369,6 @@ Royal_Academy_new_identifier: paul-gauguin
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Gauguin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paul_Gauguin](/_Standards/Society/Communication/Media/Painting/Painter/Paul_Gauguin.md) 

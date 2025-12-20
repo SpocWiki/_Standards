@@ -73,8 +73,6 @@ Commons_category: Idealism
 > [Wikipedia](https://en.wikipedia.org/wiki/Idealism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Idealism](/_Standards/Philosophy/Metaphysic/Idealism.md) 

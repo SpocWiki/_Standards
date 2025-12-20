@@ -34,8 +34,6 @@ Commons_category: Meritocracy
 > [Wikipedia](https://en.wikipedia.org/wiki/Meritocracy)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meritocracy](/_Standards/Society/Politics/Government/Meritocracy.md) 

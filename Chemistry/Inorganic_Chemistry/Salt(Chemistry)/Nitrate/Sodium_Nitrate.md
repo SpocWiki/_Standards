@@ -71,8 +71,6 @@ RTECS_number: WC5600000
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20nitrate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sodium_Nitrate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.md) 

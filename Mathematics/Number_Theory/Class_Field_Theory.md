@@ -83,8 +83,6 @@ has_id_wikidata: Q1744580
 > [Wikipedia](https://en.wikipedia.org/wiki/Class%20field%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Class_Field_Theory](/_Standards/Mathematics/Number_Theory/Class_Field_Theory.md) 

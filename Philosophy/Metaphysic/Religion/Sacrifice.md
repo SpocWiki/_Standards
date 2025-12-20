@@ -49,8 +49,6 @@ Colon_Classification: Q:494
 > [Wikipedia](https://en.wikipedia.org/wiki/Sacrifice) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sacrifice](/_Standards/Philosophy/Metaphysic/Religion/Sacrifice.md) 

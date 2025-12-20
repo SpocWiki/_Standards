@@ -60,8 +60,6 @@ IEV_number: 102-04-01
 > [Wikipedia](https://en.wikipedia.org/wiki/Point%20(geometry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Point](/_Standards/Mathematics/Geometry/Point.md) 

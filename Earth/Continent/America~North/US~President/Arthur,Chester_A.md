@@ -40,8 +40,6 @@ has_id_wikidata: Q35498
 -   [has_role :: [[../US~President]] ] [created:: 1881-09-19]  [cancelled:: 1885-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Arthur,Chester_A](/_Standards/Earth/Continent/America~North/US~President/Arthur,Chester_A.md) 

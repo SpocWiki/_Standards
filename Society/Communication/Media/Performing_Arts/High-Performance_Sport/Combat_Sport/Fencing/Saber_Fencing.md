@@ -28,11 +28,6 @@ Commons_category: Fencing (sabre)
 > [Wikipedia](https://en.wikipedia.org/wiki/Sabre%20(fencing)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saber_Fencing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing/Saber_Fencing.md) 

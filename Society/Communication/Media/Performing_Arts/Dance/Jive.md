@@ -26,10 +26,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/20151121%20WDSF%20Aust
 > [Wikipedia](https://en.wikipedia.org/wiki/Jive%20(dance)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jive](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Jive.md) 

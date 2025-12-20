@@ -60,8 +60,6 @@ Unicode_character: ⛓
 > [Wikipedia](https://en.wikipedia.org/wiki/Chain) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chain](/_Standards/Technology/Tool/Mechanical_Tool/Chain.md) 

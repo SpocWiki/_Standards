@@ -34,8 +34,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Falaises%20d%27Yves.jp
 > [Wikipedia](https://en.wikipedia.org/wiki/Stratum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stratum](/_Standards/Earth/Geology/Stratigraphy/Stratum.md) 

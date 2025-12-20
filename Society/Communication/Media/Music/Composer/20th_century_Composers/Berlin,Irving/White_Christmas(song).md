@@ -57,8 +57,6 @@ publication_date: 1942-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/White%20Christmas%20(song)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [White_Christmas(song)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/White_Christmas(song).md) 

@@ -283,8 +283,6 @@ Europeana_entity: agent/base/56427
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89douard%20Manet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Manet,Édouard](/_Standards/Society/Communication/Media/Painting/Painter/Manet,Édouard.md) 

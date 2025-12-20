@@ -69,8 +69,6 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 > [Wikipedia](https://en.wikipedia.org/wiki/Spin%20(physics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spin(Physics)](/_Standards/Science/Physics/Quantum_Mechanics/Spin(Physics).md) 

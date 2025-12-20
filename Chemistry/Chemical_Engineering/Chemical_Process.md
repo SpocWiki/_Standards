@@ -40,8 +40,6 @@ Commons_category: Chemical processes
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20process) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Process](/_Standards/Chemistry/Chemical_Engineering/Chemical_Process.md) 

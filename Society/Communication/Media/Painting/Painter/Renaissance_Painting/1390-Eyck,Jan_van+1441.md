@@ -167,3 +167,22 @@ Libris_URI: pm147x67237v2gs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jan%20van%20Eyck) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1390-Eyck,Jan_van+1441](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.md) 
+
+### #is_/same_as :: [1390-Eyck,Jan_van+1441.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.public.md) 
+
+### #is_/same_as :: [1390-Eyck,Jan_van+1441.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.internal.md) 
+
+### #is_/same_as :: [1390-Eyck,Jan_van+1441.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.protect.md) 
+
+### #is_/same_as :: [1390-Eyck,Jan_van+1441.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.private.md) 
+
+### #is_/same_as :: [1390-Eyck,Jan_van+1441.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.personal.md) 
+
+### #is_/same_as :: [1390-Eyck,Jan_van+1441.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.secret.md)
+

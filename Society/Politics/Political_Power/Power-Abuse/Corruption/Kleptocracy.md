@@ -42,11 +42,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Corrupt-Legislation-Ve
 > [Wikipedia](https://en.wikipedia.org/wiki/Kleptocracy) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kleptocracy](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.md) 

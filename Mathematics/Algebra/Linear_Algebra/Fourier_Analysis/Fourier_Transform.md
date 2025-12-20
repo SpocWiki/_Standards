@@ -93,8 +93,6 @@ Commons_category: Fourier transformation
 > [Wikipedia](https://en.wikipedia.org/wiki/Fourier%20transform) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fourier_Transform](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.md) 

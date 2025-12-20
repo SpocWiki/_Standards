@@ -114,8 +114,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/CHEDVIK_DZHEMS.html
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Chadwick) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chadwick,James](/_Standards/Science/Physics/Physicist/Chadwick,James.md) 

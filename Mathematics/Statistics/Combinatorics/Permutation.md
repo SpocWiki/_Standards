@@ -65,8 +65,6 @@ Commons_category: Permutations
 > [Wikipedia](https://en.wikipedia.org/wiki/Permutation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Permutation](/_Standards/Mathematics/Statistics/Combinatorics/Permutation.md) 

@@ -36,8 +36,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Extragalactic%20Distan
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmic%20distance%20ladder) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cosmic_Distance_Ladder](/_Standards/Astronomy/Universe/Cosmic_Distance_Ladder.md) 

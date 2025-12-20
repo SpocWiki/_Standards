@@ -64,7 +64,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/LG%20%EB%93%9C%EB%9F%B
 > 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Washing_Machine](/_Standards/Technology/Tool/Home_Appliance/Washing_Machine.md) 

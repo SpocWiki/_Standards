@@ -37,8 +37,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Toni%20Frissell%20in%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Curiosity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Curiosity](/_Standards/bio/Psychology/Affect/Emotion/Curiosity.md) 

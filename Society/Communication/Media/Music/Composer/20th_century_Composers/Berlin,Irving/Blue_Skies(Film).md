@@ -40,8 +40,6 @@ Commons_category: Blue Skies (song)
 > [Wikipedia](https://en.wikipedia.org/wiki/Blue%20Skies%20(1929%20film)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Blue_Skies(Film)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).md) 

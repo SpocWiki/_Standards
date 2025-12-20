@@ -37,8 +37,6 @@ They can (easily) turn over Democracy like Hitler and Trump did.
 2025 Trumps second Term starts with Revenge and Retribution using the largest ever number of Decrees 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [US~Democratic_Party.internal](/_Standards/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.md) 

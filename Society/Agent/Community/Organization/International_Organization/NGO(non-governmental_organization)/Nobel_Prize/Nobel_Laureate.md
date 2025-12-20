@@ -22,8 +22,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20Nobel%20laureates) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nobel_Laureate](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Nobel_Laureate.md) 

@@ -72,8 +72,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tear%20gas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tear_Gas](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Tear_Gas.md) 

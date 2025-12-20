@@ -53,8 +53,6 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/SOZNANIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Consciousness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Consciousness](/_Standards/bio/Psychology/Cognition/Consciousness.md) 

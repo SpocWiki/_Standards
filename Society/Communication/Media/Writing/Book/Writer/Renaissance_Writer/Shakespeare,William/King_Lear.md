@@ -102,8 +102,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/King%20Lear.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/King%20Lear) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [King_Lear](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.md) 

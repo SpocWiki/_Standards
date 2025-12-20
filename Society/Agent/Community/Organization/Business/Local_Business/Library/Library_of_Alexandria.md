@@ -114,8 +114,6 @@ Libris_URI: ljx167l450r4wdv
 > [Wikipedia](https://en.wikipedia.org/wiki/Library%20of%20Alexandria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Library_of_Alexandria](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Alexandria.md) 

@@ -37,8 +37,6 @@ Wolfram_Language_entity_type: ParticleAccelerator
 > [Wikipedia](https://en.wikipedia.org/wiki/Particle%20accelerator) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Particle_Accelerator](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator.md) 

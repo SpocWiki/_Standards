@@ -53,10 +53,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Formation%20of%20a%20L
 > [Wikipedia](https://en.wikipedia.org/wiki/Fighter%20aircraft) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fighter_Aircraft](/_Standards/Society/Military/Military_Organization/Air_Force/Fighter_Aircraft.md) 

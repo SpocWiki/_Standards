@@ -24,8 +24,6 @@ instance_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Van%20der%20Waals%20radius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Van_der_Waals_Radius](/_Standards/Science/Physics/Atom/Van_der_Waals_Radius.md) 

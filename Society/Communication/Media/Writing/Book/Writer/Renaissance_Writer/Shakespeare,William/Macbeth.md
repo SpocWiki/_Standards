@@ -154,8 +154,6 @@ first_line: When shall we three meet againe?
 > [Wikipedia](https://en.wikipedia.org/wiki/Macbeth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Macbeth](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Macbeth.md) 

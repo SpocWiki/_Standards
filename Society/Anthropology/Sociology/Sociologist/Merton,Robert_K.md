@@ -113,8 +113,6 @@ date_of_birth: 1910-07-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20K.%20Merton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Merton,Robert_K](/_Standards/Society/Anthropology/Sociology/Sociologist/Merton,Robert_K.md) 

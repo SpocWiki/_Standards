@@ -55,8 +55,6 @@ Commons_category: Interstellar dust
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmic%20dust) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cosmic_Dust](/_Standards/Astronomy/Solar_System/Cosmic_Dust.md) 

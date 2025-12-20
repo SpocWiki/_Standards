@@ -108,8 +108,6 @@ Libris_URI: hftwv1w138kh9jz
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Council%20of%20Churches) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [World_Council_of_Churches](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/World_Council_of_Churches.md) 

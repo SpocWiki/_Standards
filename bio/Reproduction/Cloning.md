@@ -22,8 +22,6 @@ has_id_wikidata: Q120877
 > [Wikipedia](https://en.wikipedia.org/wiki/Cloning) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cloning](/_Standards/bio/Reproduction/Cloning.md) 

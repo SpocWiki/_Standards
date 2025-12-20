@@ -112,11 +112,6 @@ Plex_person_key: 5d776844880197001ec962f7
 > [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Taylor%20(Queen%20drummer))
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taylor,Roger(Queen)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).md) 

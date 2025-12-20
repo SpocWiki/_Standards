@@ -95,8 +95,6 @@ Stack_Exchange_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jews) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jewish_People](/_Standards/Earth/Continent/Asia/Asia~West/Jewish_People.md) 

@@ -38,8 +38,6 @@ Commons_category: Hurdling
 > [Wikipedia](https://en.wikipedia.org/wiki/Hurdling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hurdling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Hurdling.md) 

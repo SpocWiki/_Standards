@@ -44,8 +44,6 @@ has_id_wikidata: Q49113
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivy%20League) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ivy League](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.md) 

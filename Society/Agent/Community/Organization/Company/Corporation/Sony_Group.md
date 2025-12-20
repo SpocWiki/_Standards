@@ -230,8 +230,6 @@ Central_Index_Key: "0000313838"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sony) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sony_Group](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Sony_Group.md) 

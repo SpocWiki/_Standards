@@ -20,8 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/AWK)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~AWK](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~AWK.md) 

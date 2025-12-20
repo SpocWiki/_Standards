@@ -47,8 +47,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NASOSI
 > [Wikipedia](https://en.wikipedia.org/wiki/Pump) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pump](/_Standards/Science/Physics/Fluid_Mechanics/Pump.md) 

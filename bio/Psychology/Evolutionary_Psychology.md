@@ -40,8 +40,6 @@ PhilPapers_topic: evolutionary-psychology
 > [Wikipedia](https://en.wikipedia.org/wiki/Evolutionary%20psychology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Evolutionary_Psychology](/_Standards/bio/Psychology/Evolutionary_Psychology.md) 

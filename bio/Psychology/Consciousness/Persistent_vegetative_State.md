@@ -45,8 +45,6 @@ ICD_10_CM: R40.3
 > [Wikipedia](https://en.wikipedia.org/wiki/Vegetative%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Persistent_vegetative_State](/_Standards/bio/Psychology/Consciousness/Persistent_vegetative_State.md) 

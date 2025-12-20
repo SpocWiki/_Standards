@@ -10,8 +10,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Category:Astronomical%20events) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Astronomical_Event](/_Standards/Astronomy/Astronomical_Event.md) 

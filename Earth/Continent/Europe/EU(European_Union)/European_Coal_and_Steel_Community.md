@@ -77,8 +77,6 @@ dissolved_abolished_or_demolished_date: 2002-07-23T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Coal%20and%20Steel%20Community) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Coal_and_Steel_Community](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.md) 

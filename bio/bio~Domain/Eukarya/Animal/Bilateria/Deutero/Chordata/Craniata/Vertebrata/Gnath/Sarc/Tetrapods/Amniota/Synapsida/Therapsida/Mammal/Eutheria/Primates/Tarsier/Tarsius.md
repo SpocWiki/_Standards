@@ -38,8 +38,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tarsius%20spectrumgurs
 > [Wikipedia](https://en.wikipedia.org/wiki/Tarsius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tarsius](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Tarsier/Tarsius.md) 

@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Thiol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thiol](/_Standards/Chemistry/Organic_Chemistry/Thiol.md) 

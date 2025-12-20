@@ -34,8 +34,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Legal%20liability) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Legal_Liability](/_Standards/Society/Law/Legal_Liability.md) 

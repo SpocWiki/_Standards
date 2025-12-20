@@ -25,8 +25,6 @@ short_name: SBH
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20black%20hole) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stellar_black_Hole](/_Standards/Astronomy/Black_Hole/Stellar_black_Hole.md) 

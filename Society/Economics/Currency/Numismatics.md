@@ -72,8 +72,6 @@ Commons_category: Numismatics
 > [Wikipedia](https://en.wikipedia.org/wiki/Numismatics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Numismatics](/_Standards/Society/Economics/Currency/Numismatics.md) 

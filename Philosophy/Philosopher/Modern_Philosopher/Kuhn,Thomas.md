@@ -112,8 +112,6 @@ Libris_URI: tr57b1tc40dv4xv
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Kuhn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kuhn,Thomas](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Kuhn,Thomas.md) 

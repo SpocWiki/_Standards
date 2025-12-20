@@ -87,7 +87,6 @@ Commons_category: Modems
 | Server-side web compression (variable) ([Netscape ISP](https://en.wikipedia.org/wiki/Netscape#Netscape_Internet_Service "Netscape"))                                   |                                                                                              | 100.0–1,000.0 |       |
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modem](/_Standards/Technology/IT/Computer_Network/Modem.md) 

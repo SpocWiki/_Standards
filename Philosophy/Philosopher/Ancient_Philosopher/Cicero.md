@@ -211,8 +211,6 @@ Libris_URI: 1zcf88vk3gb8kvv
 > [Wikipedia](https://en.wikipedia.org/wiki/Cicero) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cicero](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Cicero.md) 

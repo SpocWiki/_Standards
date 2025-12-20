@@ -163,8 +163,6 @@ X_Twitter_username: RollingStones
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Rolling%20Stones) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rolling_Stones](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.md) 

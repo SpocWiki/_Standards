@@ -10,9 +10,6 @@ It covers areas like **graphic design, film, fashion, digital media, creative wr
 and advertising**, blending artistry with **innovation and commercial applications**.
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Creative_Arts](/_Standards/Society/Communication/Art/Creative_Arts.md) 

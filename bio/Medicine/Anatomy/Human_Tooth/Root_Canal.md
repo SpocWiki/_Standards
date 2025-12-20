@@ -26,8 +26,6 @@ TA98_Latin_term: canalis radicis dentis
 > [Wikipedia](https://en.wikipedia.org/wiki/Root%20canal)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Root_Canal](/_Standards/bio/Medicine/Anatomy/Human_Tooth/Root_Canal.md) 

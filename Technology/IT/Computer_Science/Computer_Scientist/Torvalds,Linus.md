@@ -119,8 +119,6 @@ birth_name: Linus Benedict Torvalds
 > [Wikipedia](https://en.wikipedia.org/wiki/Linus%20Torvalds) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Torvalds,Linus](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Torvalds,Linus.md) 

@@ -60,8 +60,6 @@ Commons_category: Newborn animals
 > [Wikipedia](https://en.wikipedia.org/wiki/Infant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neonate](/_Standards/Society/Agent/Community/Clan/Family/Child/Neonate.md) 

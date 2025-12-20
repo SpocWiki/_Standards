@@ -47,8 +47,6 @@ Commons_category: Confédération Mondiale des Activités Subaquatiques
 > [Wikipedia](https://en.wikipedia.org/wiki/Conf%C3%A9d%C3%A9ration%20Mondiale%20des%20Activit%C3%A9s%20Subaquatiques) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Confédération_Mondiale_des_Activités_Subaquatiques](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Confédération_Mondiale_des_Activités_Subaquatiques.md) 

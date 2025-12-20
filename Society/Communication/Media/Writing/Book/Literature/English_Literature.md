@@ -83,8 +83,6 @@ Gujarati_Vishwakosh_entry: અંગ્રેજી-સાહિત્ય
 > [Wikipedia](https://en.wikipedia.org/wiki/English%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [English_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/English_Literature.md) 

@@ -56,8 +56,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Brigade) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brigade](/_Standards/Society/Military/Military_Organization/Brigade.md) 

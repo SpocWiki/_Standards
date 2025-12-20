@@ -35,10 +35,6 @@ Commons_category: Law
 > [Wikipedia](https://en.wikipedia.org/wiki/Statute) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Statutory_Law](/_Standards/Society/Law/Statutory_Law.md) 

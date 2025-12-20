@@ -40,8 +40,6 @@ Commons_category: Permaculture
 > [Wikipedia](https://en.wikipedia.org/wiki/Permaculture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Permaculture](/_Standards/Society/Economics/Industry/Agriculture/Permaculture.md) 

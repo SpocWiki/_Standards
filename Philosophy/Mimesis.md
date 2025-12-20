@@ -30,8 +30,6 @@ has_id_wikidata: Q468427
 > [Wikipedia](https://en.wikipedia.org/wiki/Mimesis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mimesis](/_Standards/Philosophy/Mimesis.md) 

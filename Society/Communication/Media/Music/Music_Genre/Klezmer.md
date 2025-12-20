@@ -41,8 +41,6 @@ Commons_category: Klezmer
 > [Wikipedia](https://en.wikipedia.org/wiki/Klezmer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Klezmer](/_Standards/Society/Communication/Media/Music/Music_Genre/Klezmer.md) 

@@ -72,8 +72,6 @@ Commons_gallery: Quintus Septimius Florens Tertullianus
 > [Wikipedia](https://en.wikipedia.org/wiki/Tertullian) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tertullian](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Tertullian.md) 

@@ -35,8 +35,6 @@ has_id_wikidata: Q215913
 > [Wikipedia](https://en.wikipedia.org/wiki/Habitable%20zone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Circumstellar_habitable_Zone](/_Standards/Astronomy/Star/Circumstellar_habitable_Zone.md) 

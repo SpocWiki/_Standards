@@ -39,9 +39,6 @@ has_id_wikidata: Q36155
 > [Wikipedia](https://en.wikipedia.org/wiki/Coptic%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coptic_language](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Coptic_language.md) 

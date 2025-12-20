@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hippocampus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hippocampus](/_Standards/Hippocampus.md) 

@@ -60,8 +60,6 @@ IEV_number: 121-11-49
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20moment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnetic_Moment](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.md) 

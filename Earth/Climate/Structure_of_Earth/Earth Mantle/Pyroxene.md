@@ -57,8 +57,6 @@ Commons_category: Pyroxene
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyroxene) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pyroxene](/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.md) 

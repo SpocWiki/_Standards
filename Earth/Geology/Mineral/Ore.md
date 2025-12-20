@@ -49,8 +49,6 @@ Commons_category: Ores
 > [Wikipedia](https://en.wikipedia.org/wiki/Ore) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ore](/_Standards/Earth/Geology/Mineral/Ore.md) 

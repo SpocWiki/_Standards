@@ -80,8 +80,6 @@ Archive_of_Our_Own_tag: Political RPF
 > [Wikipedia](https://en.wikipedia.org/wiki/Politics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Politics](/_Standards/Society/Politics.md) 

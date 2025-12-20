@@ -37,8 +37,6 @@ Commons_category: Star formation
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20formation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Star_Formation](/_Standards/Astronomy/Star/Star~Class/Star_Formation.md) 

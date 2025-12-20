@@ -46,8 +46,6 @@ has_id_wikidata: Q942040
 > [Wikipedia](https://en.wikipedia.org/wiki/Sheaf%20(agriculture)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sheaf(Agriculture)](/_Standards/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).md) 

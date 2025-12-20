@@ -92,10 +92,6 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Henry%20Harrison)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Harrison,William_Henry](/_Standards/Earth/Continent/America~North/US~President/Harrison,William_Henry.md) 

@@ -94,8 +94,6 @@ date_of_death: 1907-09-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Edvard%20Grieg) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grieg,Edvard](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.md) 

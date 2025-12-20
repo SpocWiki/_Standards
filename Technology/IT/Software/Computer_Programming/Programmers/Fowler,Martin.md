@@ -16,9 +16,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Fowler%20(software%20engineer))
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fowler,Martin](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.md) 

@@ -59,8 +59,6 @@ taxon_name: Piperaceae
 > [Wikipedia](https://en.wikipedia.org/wiki/Piperaceae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Piperaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Piperales/Piperaceae.md) 

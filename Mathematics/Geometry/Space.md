@@ -55,8 +55,6 @@ Colon_Classification: CRT
 > [Wikipedia](https://en.wikipedia.org/wiki/Space) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Space](/_Standards/Mathematics/Geometry/Space.md) 

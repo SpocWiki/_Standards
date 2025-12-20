@@ -54,8 +54,6 @@ short_name: UTC
 > [Wikipedia](https://en.wikipedia.org/wiki/Coordinated%20Universal%20Time) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [UTC(Coordinated_Universal_Time)](/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).md) 

@@ -38,8 +38,6 @@ subclass_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20chemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nuclear_Chemistry](/_Standards/Chemistry/Nuclear_Chemistry.md) 

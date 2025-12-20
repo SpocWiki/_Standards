@@ -43,9 +43,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Moravec's%20paradox) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moravec's_paradox](/_Standards/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.md) 

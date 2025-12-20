@@ -27,9 +27,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yann%20LeCun)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LeCun,Yann](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.md) 

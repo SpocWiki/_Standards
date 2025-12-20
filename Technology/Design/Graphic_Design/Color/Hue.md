@@ -34,8 +34,6 @@ IEV_number: 845-22-067
 > [Wikipedia](https://en.wikipedia.org/wiki/Hue) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hue](/_Standards/Technology/Design/Graphic_Design/Color/Hue.md) 

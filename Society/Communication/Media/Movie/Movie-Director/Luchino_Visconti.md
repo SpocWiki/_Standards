@@ -104,8 +104,6 @@ ISNI: "0000000121318788"
 > [Wikipedia](https://en.wikipedia.org/wiki/Luchino%20Visconti) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Luchino_Visconti](/_Standards/Society/Communication/Media/Movie/Movie-Director/Luchino_Visconti.md) 

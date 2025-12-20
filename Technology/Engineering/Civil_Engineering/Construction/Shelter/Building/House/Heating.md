@@ -32,8 +32,6 @@ studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
 |   4 | Heat Pump      |         |                                       |
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heating](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.md) 

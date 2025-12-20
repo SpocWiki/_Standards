@@ -76,8 +76,6 @@ name: GI
 > [Wikipedia](https://en.wikipedia.org/wiki/Soldier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soldier](/_Standards/Society/Military/Armed_Forces/Soldier.md) 

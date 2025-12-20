@@ -40,8 +40,6 @@ Commons_category: Orange Revolution
 > [Wikipedia](https://en.wikipedia.org/wiki/Orange%20Revolution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [2004-Orange_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.md) 

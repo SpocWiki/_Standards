@@ -56,9 +56,6 @@ Unicode_character: 🧉
 > [Wikipedia](https://en.wikipedia.org/wiki/Mate%20(drink)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mate(Drink)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).md) 

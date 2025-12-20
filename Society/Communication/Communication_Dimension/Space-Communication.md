@@ -1,8 +1,6 @@
 Communication across Space has Connectivity-, Bandwidth- and Privacy-Constraints. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Space-Communication](/_Standards/Society/Communication/Communication_Dimension/Space-Communication.md) 

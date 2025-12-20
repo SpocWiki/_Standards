@@ -182,9 +182,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Whoopi%20Goldberg%20Sp
 > [Wikipedia](https://en.wikipedia.org/wiki/Whoopi%20Goldberg) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goldberg,Whoopi](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.md) 

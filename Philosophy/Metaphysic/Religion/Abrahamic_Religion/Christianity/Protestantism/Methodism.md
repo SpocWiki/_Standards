@@ -44,8 +44,6 @@ OpenStreetMap_tag: denomination=methodist
 > [Wikipedia](https://en.wikipedia.org/wiki/Methodism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Methodism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Methodism.md) 

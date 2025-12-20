@@ -62,21 +62,19 @@ provisional_designation: Jupiter I
 > [Wikipedia](https://en.wikipedia.org/wiki/Io%20(moon)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Io](/_Standards/Astronomy/Solar_System/Jupiter/Io.md) 
+### #is_/same_as :: [Io(Moon)](/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).md) 
 
-### #is_/same_as :: [Io.public](/_public/Astronomy/Solar_System/Jupiter/Io.public.md) 
+### #is_/same_as :: [Io(Moon).public](/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public.md) 
 
-### #is_/same_as :: [Io.internal](/_internal/Astronomy/Solar_System/Jupiter/Io.internal.md) 
+### #is_/same_as :: [Io(Moon).internal](/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal.md) 
 
-### #is_/same_as :: [Io.protect](/_protect/Astronomy/Solar_System/Jupiter/Io.protect.md) 
+### #is_/same_as :: [Io(Moon).protect](/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect.md) 
 
-### #is_/same_as :: [Io.private](/_private/Astronomy/Solar_System/Jupiter/Io.private.md) 
+### #is_/same_as :: [Io(Moon).private](/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private.md) 
 
-### #is_/same_as :: [Io.personal](/_personal/Astronomy/Solar_System/Jupiter/Io.personal.md) 
+### #is_/same_as :: [Io(Moon).personal](/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal.md) 
 
-### #is_/same_as :: [Io.secret](/_secret/Astronomy/Solar_System/Jupiter/Io.secret.md)
+### #is_/same_as :: [Io(Moon).secret](/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret.md)
 

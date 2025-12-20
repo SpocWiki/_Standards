@@ -30,8 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Alhambra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Alhambra](/_Standards/Earth/Geography/Place/Alhambra.md) 

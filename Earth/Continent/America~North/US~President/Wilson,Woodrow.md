@@ -256,9 +256,6 @@ The new Slogan was "A War to end all Wars".
 > [Wikipedia](https://en.wikipedia.org/wiki/Woodrow%20Wilson)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wilson,Woodrow](/_Standards/Earth/Continent/America~North/US~President/Wilson,Woodrow.md) 

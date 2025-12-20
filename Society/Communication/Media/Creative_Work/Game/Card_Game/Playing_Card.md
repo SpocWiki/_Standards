@@ -93,8 +93,6 @@ subreddit: playingcards
 > [Wikipedia](https://en.wikipedia.org/wiki/Playing%20card) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Playing_Card](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.md) 

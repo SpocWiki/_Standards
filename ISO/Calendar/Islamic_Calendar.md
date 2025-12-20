@@ -56,8 +56,6 @@ Commons_category: Islamic calendars
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamic%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Islamic_Calendar](/_Standards/ISO/Calendar/Islamic_Calendar.md) 

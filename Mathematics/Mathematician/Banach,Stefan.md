@@ -156,8 +156,6 @@ date_of_death: 1945-08-31T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Stefan%20Banach) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Banach,Stefan](/_Standards/Mathematics/Mathematician/Banach,Stefan.md) 

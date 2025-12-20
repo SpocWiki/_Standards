@@ -37,9 +37,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheelaxle%20quackenbos
 > [Wikipedia](https://en.wikipedia.org/wiki/Wheel%20and%20axle) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wheel_and_Axle](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wheel_and_Axle.md) 

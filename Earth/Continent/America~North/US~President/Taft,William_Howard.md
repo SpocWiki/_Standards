@@ -31,8 +31,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]] ] [created:: 1909-03-04]  [cancelled:: 1913-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taft,William_Howard](/_Standards/Earth/Continent/America~North/US~President/Taft,William_Howard.md) 

@@ -55,9 +55,6 @@ Commons_category: Samosas
 > [Wikipedia](https://en.wikipedia.org/wiki/Samosa) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Samosa](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.md) 

@@ -105,8 +105,6 @@ Commons_category: Quaternions
 > [Wikipedia](https://en.wikipedia.org/wiki/Quaternion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quaternion](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Quaternion.md) 

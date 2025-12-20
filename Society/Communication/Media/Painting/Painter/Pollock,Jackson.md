@@ -137,9 +137,6 @@ date_of_birth: 1912-01-28T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jackson%20Pollock)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pollock,Jackson](/_Standards/Society/Communication/Media/Painting/Painter/Pollock,Jackson.md) 

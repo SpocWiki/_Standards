@@ -175,8 +175,6 @@ short_name: O. orca
 > [Wikipedia](https://en.wikipedia.org/wiki/Orca) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orca](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Orca.md) 

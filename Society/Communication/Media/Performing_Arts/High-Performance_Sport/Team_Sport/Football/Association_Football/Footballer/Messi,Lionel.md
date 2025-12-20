@@ -272,8 +272,6 @@ IPA_transcription: ljoˈnel anˈdɾes ˈmesi
 > [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Messi,Lionel](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Messi,Lionel.md) 

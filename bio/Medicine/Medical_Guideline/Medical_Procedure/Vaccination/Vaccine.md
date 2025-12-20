@@ -79,8 +79,6 @@ Dewey_Decimal_Classification: "636.0895372"
 > [Wikipedia](https://en.wikipedia.org/wiki/Vaccine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vaccine](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.md) 

@@ -82,8 +82,6 @@ IEV_number: 103-10-10
 > [Wikipedia](https://en.wikipedia.org/wiki/Wavelength) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wavelength](/_Standards/Dimension/Linear_Dimension/Distance/Wavelength.md) 

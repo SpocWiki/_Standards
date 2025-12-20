@@ -123,8 +123,6 @@ date_of_birth: 1986-08-21T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Usain%20Bolt)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Usain_Bolt](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Usain_Bolt.md) 

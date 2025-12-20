@@ -115,8 +115,6 @@ Commons_category: Urdu language
 > [Wikipedia](https://en.wikipedia.org/wiki/Urdu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-urd](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-urd.md) 

@@ -28,8 +28,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Knox) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Knox,Ronald](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald.md) 

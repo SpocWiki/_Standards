@@ -36,8 +36,6 @@ Library_of_Congress_Classification: JC405
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitutional%20monarchy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Constitutional_Monarchy](/_Standards/Society/Politics/Government/Constitutional_Monarchy.md) 

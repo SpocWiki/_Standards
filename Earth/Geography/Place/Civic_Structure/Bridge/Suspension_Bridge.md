@@ -51,8 +51,6 @@ Dewey_Decimal_Classification: "624.23"
 > [Wikipedia](https://en.wikipedia.org/wiki/Suspension%20bridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Suspension_Bridge](/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.md) 

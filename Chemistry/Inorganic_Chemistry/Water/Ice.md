@@ -92,10 +92,6 @@ Unicode_character: 🧊
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ice](/_Standards/Chemistry/Inorganic_Chemistry/Water/Ice.md) 

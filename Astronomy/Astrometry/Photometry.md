@@ -32,8 +32,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Photometry%20(astronomy)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photometry](/_Standards/Astronomy/Astrometry/Photometry.md) 

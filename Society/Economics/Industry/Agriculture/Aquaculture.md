@@ -31,8 +31,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Aquaculture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Aquaculture](/_Standards/Society/Economics/Industry/Agriculture/Aquaculture.md) 

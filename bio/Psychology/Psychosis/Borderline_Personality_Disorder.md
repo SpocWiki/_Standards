@@ -76,9 +76,6 @@ Genetic factors and adverse childhood experiences (Abuse or Neglect) cause this.
 > [Wikipedia](https://en.wikipedia.org/wiki/Borderline%20personality%20disorder) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Borderline_Personality_Disorder](/_Standards/bio/Psychology/Psychosis/Borderline_Personality_Disorder.md) 

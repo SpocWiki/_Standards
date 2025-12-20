@@ -104,8 +104,6 @@ DSSTOX_compound_identifier: DTXCID001271
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20chloride) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sodium_Chloride](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.md) 

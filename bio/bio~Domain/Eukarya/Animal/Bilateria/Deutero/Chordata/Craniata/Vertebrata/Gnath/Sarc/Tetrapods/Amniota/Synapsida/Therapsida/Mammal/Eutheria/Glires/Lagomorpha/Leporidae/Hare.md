@@ -58,8 +58,6 @@ NBN_System_Key: NBNSYS0000134513
 > [Wikipedia](https://en.wikipedia.org/wiki/Hare) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hare](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Hare.md) 

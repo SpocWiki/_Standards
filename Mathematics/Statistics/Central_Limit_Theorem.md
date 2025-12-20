@@ -52,8 +52,6 @@ Commons_category: Central limit theorem
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20limit%20theorem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Central_Limit_Theorem](/_Standards/Mathematics/Statistics/Central_Limit_Theorem.md) 

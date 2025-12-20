@@ -41,8 +41,6 @@ Commons_category: Oxides
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oxide](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.md) 

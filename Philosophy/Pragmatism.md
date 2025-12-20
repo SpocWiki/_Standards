@@ -137,7 +137,6 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pragmatism](/_Standards/Philosophy/Pragmatism.md) 

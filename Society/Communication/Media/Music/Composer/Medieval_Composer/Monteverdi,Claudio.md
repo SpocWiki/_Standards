@@ -116,8 +116,6 @@ Libris_URI: b8nqlq7v4060l7x
 > [Wikipedia](https://en.wikipedia.org/wiki/Claudio%20Monteverdi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monteverdi,Claudio](/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.md) 

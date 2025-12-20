@@ -53,10 +53,6 @@ There are ca. 12k Data_Centers world-wide, half of them in the US, more than 40 
 Each costs ca. 300e6$  
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Submarine_Communications_Cable](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.md) 

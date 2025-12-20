@@ -55,8 +55,6 @@ Commons_category: Haloalkanes
 > [Wikipedia](https://en.wikipedia.org/wiki/Haloalkane) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Haloalkane](/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.md) 

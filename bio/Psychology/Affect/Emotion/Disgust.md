@@ -33,8 +33,6 @@ has_id_wikidata: Q208351
 > [Wikipedia](https://en.wikipedia.org/wiki/Disgust) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Disgust](/_Standards/bio/Psychology/Affect/Emotion/Disgust.md) 

@@ -68,3 +68,22 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Langelinie%2C%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Little%20Mermaid%20(statue)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Little_Mermaid(Statue)](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).md) 
+
+### #is_/same_as :: [Little_Mermaid(Statue).public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).public.md) 
+
+### #is_/same_as :: [Little_Mermaid(Statue).internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).internal.md) 
+
+### #is_/same_as :: [Little_Mermaid(Statue).protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).protect.md) 
+
+### #is_/same_as :: [Little_Mermaid(Statue).private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).private.md) 
+
+### #is_/same_as :: [Little_Mermaid(Statue).personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).personal.md) 
+
+### #is_/same_as :: [Little_Mermaid(Statue).secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).secret.md)
+

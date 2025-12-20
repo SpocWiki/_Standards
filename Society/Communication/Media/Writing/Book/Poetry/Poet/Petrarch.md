@@ -150,8 +150,6 @@ Provenio_UUID: 24c06c29-5430-4ccb-ad91-bf02f30b09b9
 > [Wikipedia](https://en.wikipedia.org/wiki/Petrarch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Petrarch](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Petrarch.md) 

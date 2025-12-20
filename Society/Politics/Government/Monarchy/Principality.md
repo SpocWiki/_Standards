@@ -60,8 +60,6 @@ Commons_category: Principalities
 > [Wikipedia](https://en.wikipedia.org/wiki/Principality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Principality](/_Standards/Society/Politics/Government/Monarchy/Principality.md) 

@@ -73,8 +73,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pirates%20Banner
 > [Wikipedia](https://en.wikipedia.org/wiki/Piracy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sea_Piracy](/_Standards/Society/Law/Criminal_Law/Crime/Sea_Piracy.md) 

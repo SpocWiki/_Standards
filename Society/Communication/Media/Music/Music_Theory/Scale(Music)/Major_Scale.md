@@ -45,8 +45,6 @@ described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1
 > [Wikipedia](https://en.wikipedia.org/wiki/Major%20scale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Major_Scale](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.md) 

@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Halocarbon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Halocarbon](/_Standards/Chemistry/Organic_Chemistry/Halocarbon.md) 

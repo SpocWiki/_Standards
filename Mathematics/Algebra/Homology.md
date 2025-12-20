@@ -35,9 +35,6 @@ Commons_category: Homology
 > [Wikipedia](https://en.wikipedia.org/wiki/Homology%20(mathematics)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Homology](/_Standards/Mathematics/Algebra/Homology.md) 

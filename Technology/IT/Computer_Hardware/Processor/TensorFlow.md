@@ -16,8 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/TensorFlow)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [TensorFlow](/_Standards/Technology/IT/Computer_Hardware/Processor/TensorFlow.md) 

@@ -95,8 +95,6 @@ Plex_person_key: 5d77684a2ec6b5001f6bf04a
 > [Wikipedia](https://en.wikipedia.org/wiki/F.%20Scott%20Fitzgerald) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fitzgerald,F.Scott](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Fitzgerald,F.Scott.md) 

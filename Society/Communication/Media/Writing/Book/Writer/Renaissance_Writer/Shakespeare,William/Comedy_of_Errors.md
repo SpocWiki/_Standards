@@ -73,8 +73,6 @@ The play is a modernised adaptation of _[Menaechmi](https://en.wikipedia.org/wi
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Comedy%20of%20Errors) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Comedy_of_Errors](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.md) 

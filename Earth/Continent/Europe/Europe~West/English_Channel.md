@@ -33,8 +33,6 @@ has_id_wikidata: Q34640
 > [Wikipedia](https://en.wikipedia.org/wiki/English%20Channel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [English_Channel](/_Standards/Earth/Continent/Europe/Europe~West/English_Channel.md) 

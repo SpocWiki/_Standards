@@ -60,12 +60,6 @@ IEV_number: 103-10-01
 > [Wikipedia](https://en.wikipedia.org/wiki/Wave) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wave](/_Standards/Science/Physics/Wave.md) 

@@ -98,8 +98,6 @@ subreddit: socialmedia
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20media) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Media](/_Standards/Society/Communication/Media/Social_Media.md) 

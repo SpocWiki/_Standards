@@ -39,8 +39,6 @@ Commons_gallery: Crossword
 > [Wikipedia](https://en.wikipedia.org/wiki/Crossword) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crossword](/_Standards/Society/Communication/Media/Creative_Work/Game/Crossword.md) 

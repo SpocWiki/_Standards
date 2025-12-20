@@ -38,8 +38,6 @@ inception: 2005-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Dudeism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dudeism](/_Standards/Philosophy/Metaphysic/Religion/Dudeism.md) 

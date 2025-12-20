@@ -41,8 +41,6 @@ Commons_category: Gneiss
 > [Wikipedia](https://en.wikipedia.org/wiki/Gneiss) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gneiss](/_Standards/Earth/Geology/Mineral/Gneiss.md) 

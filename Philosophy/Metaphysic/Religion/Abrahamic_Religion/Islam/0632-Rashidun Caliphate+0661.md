@@ -107,8 +107,6 @@ native_label: الخلافة الراشدة
 > [Wikipedia](https://en.wikipedia.org/wiki/Rashidun%20Caliphate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0632-Rashidun Caliphate+0661](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.md) 

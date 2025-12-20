@@ -49,8 +49,6 @@ Library_of_Congress_Classification: QH528.5
 > [Wikipedia](https://en.wikipedia.org/wiki/Longevity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Longevity](/_Standards/bio/Medicine/Health/Longevity.md) 

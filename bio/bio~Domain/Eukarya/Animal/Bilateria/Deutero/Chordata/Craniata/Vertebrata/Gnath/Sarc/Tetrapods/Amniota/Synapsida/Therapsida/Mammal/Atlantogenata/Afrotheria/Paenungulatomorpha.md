@@ -33,8 +33,6 @@ parent_taxon: "[[../Afrotheria]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Paenungulatomorpha) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paenungulatomorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Atlantogenata/Afrotheria/Paenungulatomorpha.md) 

@@ -31,8 +31,6 @@ Commons_category: Polyols
 > [Wikipedia](https://en.wikipedia.org/wiki/Polyol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polyol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol.md) 

@@ -41,8 +41,6 @@ subclass_of: "[[_Standards/WikiData/WD~reparations,7313909]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20reparations) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [War_Reparations](/_Standards/Society/Military/Law_of_War/Hague_Conventions/War_Reparations.md) 

@@ -39,8 +39,6 @@ Dewey_Decimal_Classification: "793.33"
 > [Wikipedia](https://en.wikipedia.org/wiki/Waltz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Waltz](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.md) 

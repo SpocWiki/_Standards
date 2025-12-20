@@ -46,8 +46,6 @@ alternative_name: гальваническая цепь
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20network) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrical_Network](/_Standards/Science/Physics/Electricity/Electrical_Network.md) 

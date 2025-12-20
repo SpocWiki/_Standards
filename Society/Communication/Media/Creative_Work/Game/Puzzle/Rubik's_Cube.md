@@ -88,8 +88,6 @@ native_label: Rubik-kocka
 > [Wikipedia](https://en.wikipedia.org/wiki/Rubik's%20Cube) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rubik's_Cube](/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle/Rubik's_Cube.md) 

@@ -69,8 +69,6 @@ Commons_category: Yellow Sea
 > [Wikipedia](https://en.wikipedia.org/wiki/Yellow%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Yellow_Sea](/_Standards/Earth/Ocean/East_China_Sea/Yellow_Sea.md) 

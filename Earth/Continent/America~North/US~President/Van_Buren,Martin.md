@@ -117,8 +117,6 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Van%20Buren)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Van_Buren,Martin](/_Standards/Earth/Continent/America~North/US~President/Van_Buren,Martin.md) 

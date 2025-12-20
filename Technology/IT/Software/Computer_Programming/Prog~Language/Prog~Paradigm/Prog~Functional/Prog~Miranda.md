@@ -15,8 +15,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Miranda%20(programming%20language))
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Miranda](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Miranda.md) 

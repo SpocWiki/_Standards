@@ -22,8 +22,6 @@ has_id_wikidata: Q179277
 > [Wikipedia](https://en.wikipedia.org/wiki/Giovanni%20Pierluigi%20da%20Palestrina) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Palestrina,Giovanni_Pierluigi_da](/_Standards/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Palestrina,Giovanni_Pierluigi_da.md) 

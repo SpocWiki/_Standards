@@ -166,8 +166,6 @@ Libris_URI: 1zcfjk3k2hbxclg
 > [Wikipedia](https://en.wikipedia.org/wiki/Jimi%20Hendrix) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hendrix,Jimi](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.md) 

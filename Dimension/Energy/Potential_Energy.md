@@ -60,8 +60,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Potential%20energy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Potential_Energy](/_Standards/Dimension/Energy/Potential_Energy.md) 

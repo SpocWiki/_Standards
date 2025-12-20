@@ -36,8 +36,6 @@ Commons_category: Isomerism
 > [Wikipedia](https://en.wikipedia.org/wiki/Isomer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Isomer](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.md) 

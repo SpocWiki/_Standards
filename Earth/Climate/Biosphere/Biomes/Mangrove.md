@@ -47,8 +47,6 @@ Commons_category: Mangroves
 > [Wikipedia](https://en.wikipedia.org/wiki/Mangrove) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mangrove](/_Standards/Earth/Climate/Biosphere/Biomes/Mangrove.md) 

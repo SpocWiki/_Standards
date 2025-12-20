@@ -77,8 +77,6 @@ Baidu_Tieba_name: 珍珠
 > [Wikipedia](https://en.wikipedia.org/wiki/Pearl) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pearl](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Pearl.md) 

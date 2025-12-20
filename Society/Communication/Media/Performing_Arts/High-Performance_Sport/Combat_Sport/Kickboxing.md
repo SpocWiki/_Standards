@@ -74,8 +74,6 @@ Krugosvet_article_archived_: sport/kikboksing
 > [Wikipedia](https://en.wikipedia.org/wiki/Kickboxing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kickboxing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.md) 

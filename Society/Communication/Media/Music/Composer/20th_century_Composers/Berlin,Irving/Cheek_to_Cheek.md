@@ -38,10 +38,6 @@ publication_date: 1935-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Cheek%20to%20Cheek) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cheek_to_Cheek](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.md) 

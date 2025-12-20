@@ -29,8 +29,6 @@ has_id_wikidata: Q13894
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Strauss) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Strauss,Richard](/_Standards/Society/Communication/Media/Music/Composer/Strauss,Richard.md) 

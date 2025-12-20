@@ -46,9 +46,6 @@ OpenStreetMap_tag_or_key:
 > [Wikipedia](https://en.wikipedia.org/wiki/Garage) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Garage](/_Standards/Technology/Transport/Road_Transport/Garage.md) 

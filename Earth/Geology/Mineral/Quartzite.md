@@ -58,8 +58,6 @@ Commons_category: Quartzite
 > [Wikipedia](https://en.wikipedia.org/wiki/Quartzite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quartzite](/_Standards/Earth/Geology/Mineral/Quartzite.md) 

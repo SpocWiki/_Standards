@@ -65,8 +65,6 @@ IPTC_NewsCode: mediatopic/20000023
 > [Wikipedia](https://en.wikipedia.org/wiki/Country%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Country_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Country_Music.md) 

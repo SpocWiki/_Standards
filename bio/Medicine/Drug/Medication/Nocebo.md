@@ -32,8 +32,6 @@ Commons_category: Nocebos
 > [Wikipedia](https://en.wikipedia.org/wiki/Nocebo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nocebo](/_Standards/bio/Medicine/Drug/Medication/Nocebo.md) 

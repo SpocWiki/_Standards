@@ -67,8 +67,6 @@ point_in_time: 1923-07-24T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Lausanne) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1923-Treaty_of_Lausanne](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.md) 

@@ -180,8 +180,6 @@ Wolfram_Language_entity_code: Entity["Concept", "LiseMeitner::484r5"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Lise%20Meitner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meitner,Lise](/_Standards/Chemistry/Chemist/Meitner,Lise.md) 

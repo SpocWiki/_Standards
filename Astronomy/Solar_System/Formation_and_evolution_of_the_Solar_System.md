@@ -56,8 +56,6 @@ Commons_category: Formation of the Solar System
 > [Wikipedia](https://en.wikipedia.org/wiki/Formation%20and%20evolution%20of%20the%20Solar%20System) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Formation_and_evolution_of_the_Solar_System](/_Standards/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.md) 

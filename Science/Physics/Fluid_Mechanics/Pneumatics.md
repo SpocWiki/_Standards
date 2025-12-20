@@ -35,8 +35,6 @@ Commons_category: Pneumatics
 > [Wikipedia](https://en.wikipedia.org/wiki/Pneumatics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pneumatics](/_Standards/Science/Physics/Fluid_Mechanics/Pneumatics.md) 

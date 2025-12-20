@@ -59,8 +59,6 @@ noteOnly: true
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Farming](/_Standards/Society/Economics/Industry/Agriculture/Farming.md) 

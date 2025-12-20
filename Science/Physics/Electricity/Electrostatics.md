@@ -48,8 +48,6 @@ Commons_category: Electrostatics
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrostatics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrostatics](/_Standards/Science/Physics/Electricity/Electrostatics.md) 

@@ -35,8 +35,6 @@ Commons_category: Naval warfare
 > [Wikipedia](https://en.wikipedia.org/wiki/Naval%20warfare) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Naval_Warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Naval_Warfare.md) 

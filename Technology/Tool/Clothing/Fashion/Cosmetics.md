@@ -58,8 +58,6 @@ Baidu_Tieba_name: 化妆品
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmetics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cosmetics](/_Standards/Technology/Tool/Clothing/Fashion/Cosmetics.md) 

@@ -93,8 +93,6 @@ By © <a href="//commons.wikimedia.org/wiki/User:Colin" title="User:Colin">User:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Shard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shard,London](/_Standards/Earth/Geography/Place/Shard,London.md) 

@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Activism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Activist](/_Standards/Society/Social_Issues/Social_Activist.md) 

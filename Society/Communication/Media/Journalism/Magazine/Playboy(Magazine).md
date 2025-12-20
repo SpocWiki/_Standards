@@ -80,8 +80,6 @@ Commons_category: Playboy magazine
 > [Wikipedia](https://en.wikipedia.org/wiki/Playboy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Playboy(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).md) 

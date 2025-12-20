@@ -91,8 +91,6 @@ work_period_start_: 1907-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Mae%20West) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mae_West](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Mae_West.md) 

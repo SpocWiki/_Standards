@@ -71,8 +71,6 @@ Gujarati_Vishwakosh_entry: આત્મનિર્ણયનો-અધિકા�
 > [Wikipedia](https://en.wikipedia.org/wiki/Self-determination) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Self-Determination](/_Standards/Society/Politics/Government/Self-Determination.md) 

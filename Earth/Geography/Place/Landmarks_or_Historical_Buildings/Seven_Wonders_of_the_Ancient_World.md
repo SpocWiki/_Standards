@@ -69,7 +69,6 @@ Commons_category: Seven Wonders of the Ancient World
 ![[https://upload.wikimedia.org/wikipedia/commons/8/85/Ancient_seven_wonders_timeline.svg]] 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seven_Wonders_of_the_Ancient_World](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World.md) 

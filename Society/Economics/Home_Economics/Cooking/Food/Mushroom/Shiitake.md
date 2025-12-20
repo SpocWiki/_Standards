@@ -69,8 +69,6 @@ UNII: NW7F4358J8
 > [Wikipedia](https://en.wikipedia.org/wiki/Shiitake) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shiitake](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Mushroom/Shiitake.md) 

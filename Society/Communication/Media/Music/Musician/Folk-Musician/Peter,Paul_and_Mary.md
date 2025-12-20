@@ -63,8 +63,6 @@ Facebook_username: peterpaulandmary
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter,%20Paul%20and%20Mary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Peter,Paul_and_Mary](/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.md) 

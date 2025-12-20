@@ -139,8 +139,6 @@ Europeana_entity: agent/base/146799
 > [Wikipedia](https://en.wikipedia.org/wiki/Doris%20Day) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Day,Doris](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Day,Doris.md) 

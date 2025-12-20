@@ -39,8 +39,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Federated-search-en.sv
 > [Wikipedia](https://en.wikipedia.org/wiki/Search%20engine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Search_Engine](/_Standards/Technology/IT/Software/Search_Engine.md) 

@@ -27,8 +27,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cycad) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cycad](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Cycad.md) 

@@ -48,8 +48,6 @@ catchphrase: The Best Place to Be
 > [Wikipedia](https://en.wikipedia.org/wiki/Disney%20Channel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Disney_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.md) 

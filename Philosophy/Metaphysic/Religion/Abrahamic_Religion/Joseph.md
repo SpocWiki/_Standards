@@ -119,8 +119,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/IOSIF.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Joseph](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Joseph.md) 

@@ -104,8 +104,6 @@ GitHub_topic: nonprofits
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonprofit%20organization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nonprofit_Organization](/_Standards/Society/Agent/Community/Organization/Nonprofit_Organization.md) 

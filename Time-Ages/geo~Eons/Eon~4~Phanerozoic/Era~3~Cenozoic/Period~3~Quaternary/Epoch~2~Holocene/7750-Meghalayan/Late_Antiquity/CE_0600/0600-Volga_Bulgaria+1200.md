@@ -57,8 +57,6 @@ dissolved_abolished_or_demolished_date: 1240-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Volga%20Bulgaria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0600-Volga_Bulgaria+1200](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0600-Volga_Bulgaria+1200.md) 

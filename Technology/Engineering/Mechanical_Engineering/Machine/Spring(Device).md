@@ -77,10 +77,6 @@ Dewey_Decimal_Classification: "621.824"
 > [Wikipedia](https://en.wikipedia.org/wiki/Spring%20(device)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spring(Device)](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Spring(Device).md) 

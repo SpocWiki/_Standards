@@ -43,8 +43,6 @@ Library_of_Congress_Classification: JC575
 > [Wikipedia](https://en.wikipedia.org/wiki/Egalitarianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Egalitarianism](/_Standards/Society/Ideology/Political_Ideology/Egalitarianism.md) 

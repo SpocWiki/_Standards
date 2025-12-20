@@ -98,8 +98,6 @@ name_in_native_language: Bob Metcalfe
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Metcalfe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metcalfe,Robert](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Metcalfe,Robert.md) 

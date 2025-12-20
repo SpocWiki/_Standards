@@ -29,8 +29,6 @@
 | [Silurian](https://en.wikipedia.org/wiki/Silurian "Silurian") [Graptolites](https://en.wikipedia.org/wiki/Graptolites "Graptolites")          | Rickards (1977)         |     2 |
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Background_Extinction_Rate](/_Standards/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.md) 

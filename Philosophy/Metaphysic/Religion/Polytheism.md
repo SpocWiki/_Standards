@@ -48,8 +48,6 @@ subreddit: polytheism
 > [Wikipedia](https://en.wikipedia.org/wiki/Polytheism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polytheism](/_Standards/Philosophy/Metaphysic/Religion/Polytheism.md) 

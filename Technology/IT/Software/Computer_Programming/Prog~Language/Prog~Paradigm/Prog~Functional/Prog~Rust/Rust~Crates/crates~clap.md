@@ -24,8 +24,6 @@ fn clap_main() {
 uses the `clap_app!` macro to make your config extremely small. However, you can use the normal functional builder pattern (which this Macro unpacks to) or even define it in a yaml file, unpacked and checked at compile-time by clap's `load_yaml!` macro.
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~clap](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~clap.md) 

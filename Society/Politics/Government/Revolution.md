@@ -86,8 +86,6 @@ IPTC_NewsCode: mediatopic/20000068
 > [Wikipedia](https://en.wikipedia.org/wiki/Revolution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Revolution](/_Standards/Society/Politics/Government/Revolution.md) 

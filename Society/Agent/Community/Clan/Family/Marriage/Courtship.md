@@ -53,8 +53,6 @@ IPTC_NewsCode: mediatopic/20000782
 > [Wikipedia](https://en.wikipedia.org/wiki/Courtship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Courtship](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Courtship.md) 

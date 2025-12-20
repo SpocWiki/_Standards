@@ -148,8 +148,6 @@ Libris_URI: 20dghbml28rpnlw
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernst%20Haeckel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Haeckel,Ernst](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.md) 

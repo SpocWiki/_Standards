@@ -35,8 +35,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [created:: 1893-03-04]  [cancelled:: 1897-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cleveland,Grover](/_Standards/Earth/Continent/America~North/US~President/Cleveland,Grover.md) 

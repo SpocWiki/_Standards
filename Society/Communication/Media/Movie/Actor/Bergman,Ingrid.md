@@ -149,8 +149,6 @@ U_S_National_Archives_Identifier: "10583107"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ingrid%20Bergman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bergman,Ingrid](/_Standards/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.md) 

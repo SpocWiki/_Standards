@@ -51,8 +51,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000260
 > [Wikipedia](https://en.wikipedia.org/wiki/Prairie) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prairie](/_Standards/bio/Ecology/Ecosystem/Prairie.md) 

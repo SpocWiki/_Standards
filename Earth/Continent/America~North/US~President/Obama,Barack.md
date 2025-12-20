@@ -514,8 +514,6 @@ hashtag: barack_obama
 > [Wikipedia](https://en.wikipedia.org/wiki/Barack%20Obama) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Obama,Barack](/_Standards/Earth/Continent/America~North/US~President/Obama,Barack.md) 

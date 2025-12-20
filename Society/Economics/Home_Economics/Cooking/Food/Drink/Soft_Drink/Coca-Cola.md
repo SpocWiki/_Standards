@@ -99,10 +99,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Coca%20Cola%20Flasche%
 > [Wikipedia](https://en.wikipedia.org/wiki/Coca-Cola)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coca-Cola](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola.md) 

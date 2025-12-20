@@ -90,8 +90,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RASTAFARIANSTVO.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Rastafari) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rastafari](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Rastafari.md) 

@@ -41,8 +41,6 @@ Library_of_Congress_Classification: JC419
 > [Wikipedia](https://en.wikipedia.org/wiki/Oligarchy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oligarchy](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Oligarchy.md) 

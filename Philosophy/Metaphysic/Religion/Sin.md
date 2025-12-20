@@ -54,8 +54,6 @@ Stack_Exchange_tag: https://hinduism.stackexchange.com/tags/sin
 > [Wikipedia](https://en.wikipedia.org/wiki/Sin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sin](/_Standards/Philosophy/Metaphysic/Religion/Sin.md) 

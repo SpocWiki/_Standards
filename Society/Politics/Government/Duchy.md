@@ -37,8 +37,6 @@ Commons_category: Duchies
 > [Wikipedia](https://en.wikipedia.org/wiki/Duchy)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Duchy](/_Standards/Society/Politics/Government/Duchy.md) 

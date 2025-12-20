@@ -4,9 +4,6 @@
 #[Attribute]s are placed on Methods, enums and structs. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Attributes](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Attributes.md) 

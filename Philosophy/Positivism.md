@@ -29,8 +29,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Positivism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Positivism](/_Standards/Philosophy/Positivism.md) 

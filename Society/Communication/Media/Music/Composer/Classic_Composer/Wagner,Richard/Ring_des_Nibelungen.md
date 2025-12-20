@@ -76,8 +76,6 @@ Commons_category: Der Ring des Nibelungen
 > [Wikipedia](https://en.wikipedia.org/wiki/Der%20Ring%20des%20Nibelungen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ring_des_Nibelungen](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.md) 

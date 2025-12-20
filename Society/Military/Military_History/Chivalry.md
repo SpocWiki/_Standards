@@ -54,8 +54,6 @@ Krugosvet_article: istoriya/RITSARSTVO.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Chivalry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chivalry](/_Standards/Society/Military/Military_History/Chivalry.md) 

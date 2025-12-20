@@ -28,8 +28,6 @@ subreddit: handtools
 > [Wikipedia](https://en.wikipedia.org/wiki/Hand%20tool) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hand_Tool](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool.md) 

@@ -75,8 +75,6 @@ Plex_person_key: 5d77684f54c0f0001f306318
 > [Wikipedia](https://en.wikipedia.org/wiki/Ed%20Sullivan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sullivan,Ed](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.md) 

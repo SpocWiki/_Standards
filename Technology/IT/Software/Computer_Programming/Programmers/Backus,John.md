@@ -33,11 +33,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Backus)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Backus,John](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.md) 

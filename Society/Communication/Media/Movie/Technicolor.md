@@ -44,8 +44,6 @@ inception: 1914-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Technicolor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Technicolor](/_Standards/Society/Communication/Media/Movie/Technicolor.md) 

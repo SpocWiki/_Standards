@@ -88,8 +88,6 @@ mass: 55.966446332000004
 > [Wikipedia](https://en.wikipedia.org/wiki/Potassium%20hydroxide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Potassium_Hydroxide](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.md) 

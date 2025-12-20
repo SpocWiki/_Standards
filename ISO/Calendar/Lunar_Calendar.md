@@ -29,8 +29,6 @@ Commons_category: Lunar calendars
 > [Wikipedia](https://en.wikipedia.org/wiki/Lunar%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lunar_Calendar](/_Standards/ISO/Calendar/Lunar_Calendar.md) 

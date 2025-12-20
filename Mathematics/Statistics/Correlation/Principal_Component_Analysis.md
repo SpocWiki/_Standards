@@ -48,8 +48,6 @@ Commons_category: Principal component analysis
 > [Wikipedia](https://en.wikipedia.org/wiki/Principal%20component%20analysis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Principal_Component_Analysis](/_Standards/Mathematics/Statistics/Correlation/Principal_Component_Analysis.md) 

@@ -89,8 +89,6 @@ Iconclass_notation: 46B33
 > [Wikipedia](https://en.wikipedia.org/wiki/Weight) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weight](/_Standards/Dimension/Mass/Weight.md) 

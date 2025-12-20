@@ -40,8 +40,6 @@ Commons_category: Mass production
 > [Wikipedia](https://en.wikipedia.org/wiki/Mass%20production) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mass_Production](/_Standards/Society/Economics/Industry/Manufacturing/Mass_Production.md) 

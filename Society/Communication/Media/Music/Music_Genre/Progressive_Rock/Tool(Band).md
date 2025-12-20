@@ -32,10 +32,6 @@ Time Signatures of 5/4 etc.
 > [Wikipedia](https://en.wikipedia.org/wiki/Tool%20(band))
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tool(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Tool(Band).md) 

@@ -42,8 +42,6 @@ start_time: -17100000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Eared%20seal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Otariidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Otariidae.md) 

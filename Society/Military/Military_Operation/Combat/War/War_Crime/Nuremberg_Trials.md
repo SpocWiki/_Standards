@@ -92,8 +92,6 @@ Krugosvet_article_archived_: ekonomika-i-pravo/nyurnbergskiy-process
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuremberg%20trials) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nuremberg_Trials](/_Standards/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Trials.md) 

@@ -55,8 +55,6 @@ Krugosvet_article_archived_: geologiya/obsidian
 > [Wikipedia](https://en.wikipedia.org/wiki/Obsidian) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Obsidian](/_Standards/Chemistry/Material/Glass/Obsidian.md) 

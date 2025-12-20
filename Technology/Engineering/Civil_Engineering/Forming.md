@@ -3,7 +3,6 @@
 Process where a workpiece is reshaped without adding or removing material
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Forming](/_Standards/Technology/Engineering/Civil_Engineering/Forming.md) 

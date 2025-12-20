@@ -102,8 +102,6 @@ official_name: Организация Договора о коллективно
 > [Wikipedia](https://en.wikipedia.org/wiki/Collective%20Security%20Treaty%20Organization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization)](/_Standards/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).md) 

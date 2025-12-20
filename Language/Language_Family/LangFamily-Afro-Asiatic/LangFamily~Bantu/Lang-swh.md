@@ -82,8 +82,6 @@ ISO_639_3_code: swh
 > [Wikipedia](https://en.wikipedia.org/wiki/Swahili) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-swh](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-swh.md) 

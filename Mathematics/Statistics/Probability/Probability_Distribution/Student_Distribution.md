@@ -67,8 +67,6 @@ variance_of_a_probability_distribution: <math class="mwe-math-element mwe-math-e
 > [Wikipedia](https://en.wikipedia.org/wiki/Student's%20t-distribution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Student_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.md) 

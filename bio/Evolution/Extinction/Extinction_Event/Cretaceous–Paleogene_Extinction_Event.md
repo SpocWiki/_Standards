@@ -40,8 +40,6 @@ Commons_category: K/T Event
 > [Wikipedia](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene%20extinction%20event) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cretaceous–Paleogene_Extinction_Event](/_Standards/bio/Evolution/Extinction/Extinction_Event/Cretaceous–Paleogene_Extinction_Event.md) 

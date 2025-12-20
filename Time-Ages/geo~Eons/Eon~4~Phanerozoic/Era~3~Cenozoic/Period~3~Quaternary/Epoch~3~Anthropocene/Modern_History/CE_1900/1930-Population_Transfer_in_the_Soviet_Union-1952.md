@@ -84,9 +84,6 @@ Commons_category: Soviet deportations
 > [Wikipedia](https://en.wikipedia.org/wiki/Population%20transfer%20in%20the%20Soviet%20Union)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1930-Population_Transfer_in_the_Soviet_Union-1952](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.md) 

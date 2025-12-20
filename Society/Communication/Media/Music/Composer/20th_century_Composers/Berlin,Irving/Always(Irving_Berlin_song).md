@@ -31,11 +31,6 @@ publication_date: 1925-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Always%20(Irving%20Berlin%20song)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Always(Irving_Berlin_song)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Always(Irving_Berlin_song).md) 

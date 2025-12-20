@@ -45,10 +45,6 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Court%20of%20Arbitration%20for%20Sport) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Court_of_Arbitration_for_Sport](/_Standards/Society/Agent/Community/Organization/Sports_Organization/Court_of_Arbitration_for_Sport.md) 

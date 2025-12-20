@@ -83,9 +83,6 @@ SOC_Code_2010_: 11-0000
 > [Wikipedia](https://en.wikipedia.org/wiki/Management) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Management](/_Standards/Society/Agent/Management.md) 

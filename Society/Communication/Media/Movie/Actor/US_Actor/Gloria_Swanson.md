@@ -118,8 +118,6 @@ work_period_start_: 1914-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Gloria%20Swanson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gloria_Swanson](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Gloria_Swanson.md) 

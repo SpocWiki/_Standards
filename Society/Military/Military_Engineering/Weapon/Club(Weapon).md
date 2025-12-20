@@ -44,8 +44,6 @@ has_id_wikidata: Q392326
 > [Wikipedia](https://en.wikipedia.org/wiki/Club%20(weapon)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Club(Weapon)](/_Standards/Society/Military/Military_Engineering/Weapon/Club(Weapon).md) 

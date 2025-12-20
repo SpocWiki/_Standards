@@ -40,8 +40,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Egyptian%20E-gov
 > [Wikipedia](https://en.wikipedia.org/wiki/E-government) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [E-Government](/_Standards/Society/Politics/Government/E-Government.md) 

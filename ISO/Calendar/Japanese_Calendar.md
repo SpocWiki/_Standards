@@ -24,8 +24,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1395
 > [Wikipedia](https://en.wikipedia.org/wiki/Japanese%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Japanese_Calendar](/_Standards/ISO/Calendar/Japanese_Calendar.md) 

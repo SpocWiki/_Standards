@@ -36,7 +36,6 @@ type: private_note
 s
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fillmore,Millard](/_Standards/Earth/Continent/America~North/US~President/Fillmore,Millard.md) 

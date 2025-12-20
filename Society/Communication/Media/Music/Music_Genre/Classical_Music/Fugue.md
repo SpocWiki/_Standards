@@ -71,8 +71,6 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/FUGA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Fugue) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fugue](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Fugue.md) 

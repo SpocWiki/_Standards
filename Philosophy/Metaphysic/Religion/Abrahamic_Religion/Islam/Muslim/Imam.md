@@ -57,8 +57,6 @@ female_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Imam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Imam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Imam.md) 

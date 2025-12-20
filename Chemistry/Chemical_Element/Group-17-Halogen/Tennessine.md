@@ -74,8 +74,6 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Tennessine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tennessine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.md) 

@@ -87,8 +87,6 @@ Commons_category: Goalkeepers
 > [Wikipedia](https://en.wikipedia.org/wiki/Goalkeeper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goalkeeper](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.md) 

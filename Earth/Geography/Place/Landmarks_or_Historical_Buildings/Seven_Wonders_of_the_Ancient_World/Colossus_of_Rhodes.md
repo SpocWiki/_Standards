@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Colossus%20of%20Rhodes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Colossus_of_Rhodes](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.md) 

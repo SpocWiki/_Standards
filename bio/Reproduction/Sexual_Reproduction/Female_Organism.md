@@ -63,8 +63,6 @@ short_name: ♀
 > [Wikipedia](https://en.wikipedia.org/wiki/Female) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Female_Organism](/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism.md) 

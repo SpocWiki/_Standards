@@ -4,7 +4,6 @@ aliases:
 ---
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ruby~Rails](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby/Ruby~Rails.md) 

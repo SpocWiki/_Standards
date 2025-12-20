@@ -136,8 +136,6 @@ ISNI: "0000000121178631"
 > [Wikipedia](https://en.wikipedia.org/wiki/Walt%20Whitman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Walt_Whitman](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.md) 

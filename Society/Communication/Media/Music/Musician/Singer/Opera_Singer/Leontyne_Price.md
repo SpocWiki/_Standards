@@ -90,8 +90,6 @@ ISNI: "0000000114499517"
 > [Wikipedia](https://en.wikipedia.org/wiki/Leontyne%20Price) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leontyne_Price](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Leontyne_Price.md) 

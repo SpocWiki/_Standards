@@ -25,8 +25,6 @@ has_id_wikidata: Q1491746
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy%20group) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galaxy_Group](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Group.md) 

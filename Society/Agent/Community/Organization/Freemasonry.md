@@ -105,8 +105,6 @@ IPTC_NewsCode: mediatopic/20000675
 > [Wikipedia](https://en.wikipedia.org/wiki/Freemasonry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Freemasonry](/_Standards/Society/Agent/Community/Organization/Freemasonry.md) 

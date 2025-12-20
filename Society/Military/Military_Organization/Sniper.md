@@ -49,8 +49,6 @@ IMDb_keyword: sniper
 > [Wikipedia](https://en.wikipedia.org/wiki/Sniper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sniper](/_Standards/Society/Military/Military_Organization/Sniper.md) 

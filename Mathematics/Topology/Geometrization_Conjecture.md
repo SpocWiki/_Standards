@@ -58,8 +58,6 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 > [Wikipedia](https://en.wikipedia.org/wiki/Geometrization%20conjecture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geometrization_Conjecture](/_Standards/Mathematics/Topology/Geometrization_Conjecture.md) 

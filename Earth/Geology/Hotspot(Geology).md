@@ -35,10 +35,6 @@ Commons_category: Hotspot volcanoes
 > [Wikipedia](https://en.wikipedia.org/wiki/Hotspot%20(geology)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hotspot(Geology)](/_Standards/Earth/Geology/Hotspot(Geology).md) 

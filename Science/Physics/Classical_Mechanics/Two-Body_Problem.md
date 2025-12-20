@@ -33,8 +33,6 @@ Commons_category: Two-body problem
 > [Wikipedia](https://en.wikipedia.org/wiki/Two-body%20problem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Two-Body_Problem](/_Standards/Science/Physics/Classical_Mechanics/Two-Body_Problem.md) 

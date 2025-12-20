@@ -74,8 +74,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rhyth
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhythm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rhythm](/_Standards/Society/Communication/Media/Music/Rhythm.md) 

@@ -31,10 +31,6 @@ Commons_category: Property law
 > [Wikipedia](https://en.wikipedia.org/wiki/Property%20law) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Property_Law](/_Standards/Society/Law/Civil_Law/Property_Law.md) 

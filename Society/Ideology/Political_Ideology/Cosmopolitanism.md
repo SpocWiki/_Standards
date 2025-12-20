@@ -39,8 +39,6 @@ Library_of_Congress_Classification: JZ1308
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmopolitanism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cosmopolitanism](/_Standards/Society/Ideology/Political_Ideology/Cosmopolitanism.md) 

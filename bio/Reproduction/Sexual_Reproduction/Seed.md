@@ -74,8 +74,6 @@ Krugosvet_article: biologiya/semya
 > [Wikipedia](https://en.wikipedia.org/wiki/Seed) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seed](/_Standards/bio/Reproduction/Sexual_Reproduction/Seed.md) 

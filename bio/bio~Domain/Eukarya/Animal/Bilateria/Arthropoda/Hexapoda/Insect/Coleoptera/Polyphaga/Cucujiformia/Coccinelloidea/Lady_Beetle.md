@@ -71,8 +71,6 @@ taxon_common_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Coccinellidae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lady_Beetle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Lady_Beetle.md) 

@@ -42,8 +42,6 @@ Krugosvet_article: Earth_sciences/geologiya/EROZIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Erosion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Erosion](/_Standards/Earth/Geology/Weathering/Erosion.md) 

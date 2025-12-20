@@ -54,8 +54,6 @@ Commons_category: NGC 5139
 > [Wikipedia](https://en.wikipedia.org/wiki/Omega%20Centauri) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Omega_Centauri](/_Standards/Astronomy/Star_System/Star_Cluster/Omega_Centauri.md) 

@@ -159,8 +159,6 @@ date_of_death: 1890-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Count%20Dracula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Count_Dracula](/_Standards/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.md) 

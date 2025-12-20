@@ -78,8 +78,6 @@ name_in_native_language: Ἠλέκτρα
 > [Wikipedia](https://en.wikipedia.org/wiki/Electra%20(mythology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Elektra](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.md) 

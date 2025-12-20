@@ -16,8 +16,6 @@ has_id_wikidata: Q190172
 > [Wikipedia](https://en.wikipedia.org/wiki/Cymbal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cymbal](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.md) 

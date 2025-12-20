@@ -105,8 +105,6 @@ pseudonym: Malachi Shabazz
 > [Wikipedia](https://en.wikipedia.org/wiki/Malcolm%20X) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Malcolm_X](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.md) 

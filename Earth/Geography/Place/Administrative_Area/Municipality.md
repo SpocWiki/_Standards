@@ -60,8 +60,6 @@ OpenStreetMap_tag: place=municipality
 > [Wikipedia](https://en.wikipedia.org/wiki/Municipality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Municipality](/_Standards/Earth/Geography/Place/Administrative_Area/Municipality.md) 

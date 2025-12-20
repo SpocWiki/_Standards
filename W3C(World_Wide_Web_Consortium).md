@@ -83,8 +83,6 @@ coordinate_location: Point(-71.09083333 42.36205556)
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Wide%20Web%20Consortium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [W3C(World_Wide_Web_Consortium)](/_Standards/W3C(World_Wide_Web_Consortium).md) 

@@ -352,10 +352,6 @@ Plex_person_key: 5d776838999c64001ec2fe76
 > [Wikipedia](https://en.wikipedia.org/wiki/Noam%20Chomsky) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chomsky,Noam](/_Standards/Language/Linguistics/Linguist/Chomsky,Noam.md) 

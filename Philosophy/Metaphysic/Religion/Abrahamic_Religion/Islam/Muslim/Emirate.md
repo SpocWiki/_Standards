@@ -33,8 +33,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 > [Wikipedia](https://en.wikipedia.org/wiki/Emirate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Emirate](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emirate.md) 

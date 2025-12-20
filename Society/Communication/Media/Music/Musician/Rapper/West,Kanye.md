@@ -53,10 +53,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Kanye%20West) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [West,Kanye](/_Standards/Society/Communication/Media/Music/Musician/Rapper/West,Kanye.md) 

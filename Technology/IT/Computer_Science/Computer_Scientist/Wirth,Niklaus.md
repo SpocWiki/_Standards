@@ -104,8 +104,6 @@ name_in_native_language: Niklaus Emil Wirth
 > [Wikipedia](https://en.wikipedia.org/wiki/Niklaus%20Wirth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wirth,Niklaus](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Wirth,Niklaus.md) 

@@ -64,8 +64,6 @@ Commons_category: Plant stems
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20stem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plant_Stem](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.md) 

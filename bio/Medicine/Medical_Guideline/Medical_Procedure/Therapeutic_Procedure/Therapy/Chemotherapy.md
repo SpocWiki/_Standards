@@ -59,8 +59,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Chemotherapy::3p27j"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemotherapy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemotherapy](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.md) 

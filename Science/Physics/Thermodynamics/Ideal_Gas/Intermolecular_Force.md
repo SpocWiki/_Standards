@@ -74,8 +74,6 @@ Commons_category: Intermolecular forces
 > [Wikipedia](https://en.wikipedia.org/wiki/Intermolecular%20force) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Intermolecular_Force](/_Standards/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.md) 

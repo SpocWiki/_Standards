@@ -81,8 +81,6 @@ name: Gulfstaternas samarbetsråd
 > [Wikipedia](https://en.wikipedia.org/wiki/Gulf%20Cooperation%20Council) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf)](/_Standards/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).md) 

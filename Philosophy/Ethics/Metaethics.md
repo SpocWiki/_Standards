@@ -27,8 +27,6 @@ Commons_category: Meta-ethics
 > [Wikipedia](https://en.wikipedia.org/wiki/Metaethics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metaethics](/_Standards/Philosophy/Ethics/Metaethics.md) 

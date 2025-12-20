@@ -111,8 +111,6 @@ coordinate_location: Point(-77.0425 38.899)
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Bank%20for%20Reconstruction%20and%20Development) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IBRD(International_Bank_for_Reconstruction_and_Development)](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IBRD(International_Bank_for_Reconstruction_and_Development).md) 

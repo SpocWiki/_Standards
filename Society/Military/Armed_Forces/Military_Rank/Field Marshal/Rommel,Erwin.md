@@ -119,8 +119,6 @@ birth_name: Johannes Erwin Eugen Rommel
 > [Wikipedia](https://en.wikipedia.org/wiki/Erwin%20Rommel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rommel,Erwin](/_Standards/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.md) 

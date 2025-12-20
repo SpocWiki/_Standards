@@ -78,8 +78,6 @@ female_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Infant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Baby](/_Standards/Society/Agent/Community/Clan/Family/Child/Baby.md) 

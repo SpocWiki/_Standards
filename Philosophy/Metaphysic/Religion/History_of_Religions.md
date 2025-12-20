@@ -26,8 +26,6 @@ Commons_category: History of religion
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20religion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Religions](/_Standards/Philosophy/Metaphysic/Religion/History_of_Religions.md) 

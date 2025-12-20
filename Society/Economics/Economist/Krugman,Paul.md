@@ -191,8 +191,6 @@ Libris_URI: b8nrwnmv49l5kds
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Krugman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Krugman,Paul](/_Standards/Society/Economics/Economist/Krugman,Paul.md) 

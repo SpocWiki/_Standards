@@ -37,11 +37,6 @@ Commons_category: Plant morphology
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20morphology) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plant_Morphology](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology.md) 

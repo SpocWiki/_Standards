@@ -55,8 +55,6 @@ Commons_category: Nonlinear optics
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonlinear%20optics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nonlinear_Optics](/_Standards/Science/Physics/Wave/Optics/Nonlinear_Optics.md) 

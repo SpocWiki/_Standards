@@ -39,8 +39,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Vascular%20tissue) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vascular_Tissue](/_Standards/bio/Botany/Plant_Anatomy/Vascular_Tissue.md) 

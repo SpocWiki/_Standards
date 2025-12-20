@@ -206,8 +206,6 @@ IPI_name_number: "00018232018"
 > [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Liszt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Franz_Liszt](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Franz_Liszt.md) 

@@ -110,8 +110,6 @@ taxon_name: Taraxacum
 > [Wikipedia](https://en.wikipedia.org/wiki/Taraxacum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dandelion](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae/Cichorieae/Dandelion.md) 

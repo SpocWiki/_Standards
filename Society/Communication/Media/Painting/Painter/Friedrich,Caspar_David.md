@@ -205,8 +205,6 @@ child: "[[_Standards/WikiData/WD~Adolf_Friedrich,18611778]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Caspar%20David%20Friedrich) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Friedrich,Caspar_David](/_Standards/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.md) 

@@ -103,8 +103,6 @@ work_period_start_: 1496-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Francisco%20Pizarro) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pizarro,Francisco](/_Standards/Earth/Explorer/Age_of_Discovery/Pizarro,Francisco.md) 

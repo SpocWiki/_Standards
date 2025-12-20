@@ -136,8 +136,6 @@ work_period_start_: 1921-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Spencer%20Tracy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tracy,Spencer](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Tracy,Spencer.md) 

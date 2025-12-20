@@ -75,8 +75,6 @@ Commons_category: Taxi vehicles
 > [Wikipedia](https://en.wikipedia.org/wiki/Taxi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taxi](/_Standards/Technology/Transport/Road_Transport/Taxi.md) 

@@ -81,8 +81,6 @@ OpenStreetMap_tag_or_key: Tag:resource=clay
 > [Wikipedia](https://en.wikipedia.org/wiki/Clay) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clay](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.md) 

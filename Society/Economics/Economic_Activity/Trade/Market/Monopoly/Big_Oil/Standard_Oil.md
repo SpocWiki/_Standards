@@ -56,8 +56,6 @@ has_id_wikidata: Q375791
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20Oil%20Company) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Standard_Oil](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.md) 

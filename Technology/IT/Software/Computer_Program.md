@@ -45,8 +45,6 @@ Wolfram_Language_entity_code: Entity["Concept", "ComputerProgram::74kc9"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20program) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computer_Program](/_Standards/Technology/IT/Software/Computer_Program.md) 

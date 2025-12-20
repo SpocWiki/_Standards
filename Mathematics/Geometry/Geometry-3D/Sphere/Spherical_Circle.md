@@ -29,8 +29,6 @@ subclass_of: "[[_Standards/WikiData/WD~circle_of_a_sphere,91345714]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Spherical%20circle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spherical_Circle](/_Standards/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.md) 

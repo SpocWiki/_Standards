@@ -90,8 +90,6 @@ Commons_category: Puritans
 > [Wikipedia](https://en.wikipedia.org/wiki/Puritans) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Puritan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Puritan.md) 

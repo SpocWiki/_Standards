@@ -32,11 +32,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dian%20Fossey) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fossey,Dian](/_Standards/bio/Biologist/Fossey,Dian.md) 

@@ -135,8 +135,6 @@ inception: 1918-11-09T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Weimar%20Republic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1919-Weimar_Republic-1933](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.md) 

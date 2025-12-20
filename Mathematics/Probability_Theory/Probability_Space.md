@@ -63,8 +63,6 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 > [Wikipedia](https://en.wikipedia.org/wiki/Probability%20space) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Probability_Space](/_Standards/Mathematics/Probability_Theory/Probability_Space.md) 

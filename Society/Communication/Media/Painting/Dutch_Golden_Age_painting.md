@@ -66,8 +66,6 @@ Commons_category: Dutch Golden Age paintings
 > [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20Golden%20Age%20painting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dutch_Golden_Age_painting](/_Standards/Society/Communication/Media/Painting/Dutch_Golden_Age_painting.md) 

@@ -50,8 +50,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000261
 > [Wikipedia](https://en.wikipedia.org/wiki/Savanna) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Savanna](/_Standards/bio/Ecology/Ecosystem/Savanna.md) 

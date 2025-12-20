@@ -25,8 +25,6 @@ has_id_wikidata: Q463223
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermohaline%20circulation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thermohaline_Circulation](/_Standards/Earth/Climate/Thermohaline_Circulation.md) 

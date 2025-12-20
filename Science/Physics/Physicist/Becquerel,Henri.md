@@ -111,8 +111,6 @@ date_of_death: 1908-08-25T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Becquerel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Becquerel,Henri](/_Standards/Science/Physics/Physicist/Becquerel,Henri.md) 

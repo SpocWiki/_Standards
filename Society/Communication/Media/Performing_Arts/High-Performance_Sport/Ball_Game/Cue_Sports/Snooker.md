@@ -57,8 +57,6 @@ Baidu_Tieba_name: 斯诺克
 > [Wikipedia](https://en.wikipedia.org/wiki/Snooker) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Snooker](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Snooker.md) 

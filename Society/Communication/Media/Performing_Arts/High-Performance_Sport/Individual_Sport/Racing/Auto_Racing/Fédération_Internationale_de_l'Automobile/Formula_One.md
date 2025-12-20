@@ -33,8 +33,6 @@ has_id_wikidata: Q1968
 > [Wikipedia](https://en.wikipedia.org/wiki/Formula%20One) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Formula_One](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile/Formula_One.md) 

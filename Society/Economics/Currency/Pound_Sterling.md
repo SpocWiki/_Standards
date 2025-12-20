@@ -55,8 +55,6 @@ short_name: GBP (£)
 > [Wikipedia](https://en.wikipedia.org/wiki/Pound%20sterling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pound_Sterling](/_Standards/Society/Economics/Currency/Pound_Sterling.md) 

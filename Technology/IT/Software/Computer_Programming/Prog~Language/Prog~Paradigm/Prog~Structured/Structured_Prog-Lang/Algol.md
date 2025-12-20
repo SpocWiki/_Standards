@@ -22,9 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/ALGOL%2060)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Algol](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Algol.md) 

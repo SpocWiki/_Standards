@@ -96,8 +96,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/November) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [November](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/November.md) 

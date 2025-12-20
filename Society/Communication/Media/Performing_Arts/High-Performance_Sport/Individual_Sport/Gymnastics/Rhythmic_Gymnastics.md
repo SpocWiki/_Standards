@@ -58,8 +58,6 @@ Commons_category: Rhythmic gymnastics
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhythmic%20gymnastics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rhythmic_Gymnastics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.md) 

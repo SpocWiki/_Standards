@@ -62,8 +62,6 @@ Commons_category: Etruscan art
 > [Wikipedia](https://en.wikipedia.org/wiki/Etruscan%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-1000-Etruscan_Art-0100](/_Standards/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.md) 

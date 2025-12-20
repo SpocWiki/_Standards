@@ -30,8 +30,6 @@ Commons_category: Conservative dentistry
 > [Wikipedia](https://en.wikipedia.org/wiki/Dental%20restoration) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dental_Restoration](/_Standards/bio/Medicine/Dentistry/Dental_Restoration.md) 

@@ -98,9 +98,6 @@ TikTok_username: transparencyintl
 > [Wikipedia](https://en.wikipedia.org/wiki/Transparency%20International) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Transparency_International](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Transparency_International.md) 

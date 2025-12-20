@@ -62,8 +62,6 @@ end_time: 1648-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Counter-Reformation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1545-Counter-Reformation](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.md) 

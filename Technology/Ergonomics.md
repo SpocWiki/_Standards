@@ -57,8 +57,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/ERGONO
 > [Wikipedia](https://en.wikipedia.org/wiki/Ergonomics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ergonomics](/_Standards/Technology/Ergonomics.md) 

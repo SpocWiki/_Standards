@@ -85,8 +85,6 @@ subreddit: tabletennis
 > [Wikipedia](https://en.wikipedia.org/wiki/Table%20tennis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Table_Tennis](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Table_Tennis.md) 

@@ -47,8 +47,6 @@ Libris_URI: rp354zk92xjz0wg
 > [Wikipedia](https://en.wikipedia.org/wiki/Malay%20Peninsula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Malay_Peninsula](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.md) 

@@ -130,8 +130,6 @@ Commons_category: Mayors
 > [Wikipedia](https://en.wikipedia.org/wiki/Mayor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mayor](/_Standards/Society/Civil_Society/Mayor.md) 

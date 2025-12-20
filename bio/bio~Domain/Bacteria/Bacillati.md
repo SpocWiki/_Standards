@@ -41,8 +41,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacillati) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bacillati](/_Standards/bio/bio~Domain/Bacteria/Bacillati.md) 

@@ -39,8 +39,6 @@ Dewey_Decimal_Classification: "523.841"
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Star_System](/_Standards/Astronomy/Star_System.md) 

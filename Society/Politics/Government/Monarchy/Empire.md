@@ -71,8 +71,6 @@ united and ruled either by a central authority or a central figure
 > [Wikipedia](https://en.wikipedia.org/wiki/Empire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Empire](/_Standards/Society/Politics/Government/Monarchy/Empire.md) 

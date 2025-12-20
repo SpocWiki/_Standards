@@ -46,8 +46,6 @@ Commons_category: Suffering
 > [Wikipedia](https://en.wikipedia.org/wiki/Suffering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Suffering](/_Standards/bio/Psychology/Affect/Emotion/Suffering.md) 

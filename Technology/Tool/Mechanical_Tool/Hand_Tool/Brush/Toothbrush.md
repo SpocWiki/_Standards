@@ -56,8 +56,6 @@ Unicode_character: 🪥
 > [Wikipedia](https://en.wikipedia.org/wiki/Toothbrush) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Toothbrush](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush/Toothbrush.md) 

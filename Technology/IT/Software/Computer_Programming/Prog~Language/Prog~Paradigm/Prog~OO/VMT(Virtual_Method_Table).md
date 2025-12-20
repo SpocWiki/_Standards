@@ -20,8 +20,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20method%20table)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [VMT(Virtual_Method_Table)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).md) 

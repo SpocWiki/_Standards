@@ -52,8 +52,6 @@ Commons_category: Nordic skiing
 > [Wikipedia](https://en.wikipedia.org/wiki/Nordic%20skiing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nordic_Skiing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Nordic_Skiing.md) 

@@ -67,23 +67,19 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Charo
 > [Wikipedia](https://en.wikipedia.org/wiki/Charon%20(moon)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charon(Moon)](Charon(Moon).md) 
+### #is_/same_as :: [Charon(Moon)](/_Standards/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).md) 
 
-### #is_/same_as :: [Charon.public](/_public/Astronomy/Solar_System/Pluto/Charon.public.md) 
+### #is_/same_as :: [Charon(Moon).public](/_public/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).public.md) 
 
-### #is_/same_as :: [Charon.internal](/_internal/Astronomy/Solar_System/Pluto/Charon.internal.md) 
+### #is_/same_as :: [Charon(Moon).internal](/_internal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).internal.md) 
 
-### #is_/same_as :: [Charon.protect](/_protect/Astronomy/Solar_System/Pluto/Charon.protect.md) 
+### #is_/same_as :: [Charon(Moon).protect](/_protect/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).protect.md) 
 
-### #is_/same_as :: [Charon.private](/_private/Astronomy/Solar_System/Pluto/Charon.private.md) 
+### #is_/same_as :: [Charon(Moon).private](/_private/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).private.md) 
 
-### #is_/same_as :: [Charon.personal](/_personal/Astronomy/Solar_System/Pluto/Charon.personal.md) 
+### #is_/same_as :: [Charon(Moon).personal](/_personal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).personal.md) 
 
-### #is_/same_as :: [Charon.secret](/_secret/Astronomy/Solar_System/Pluto/Charon.secret.md)
+### #is_/same_as :: [Charon(Moon).secret](/_secret/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).secret.md)
 

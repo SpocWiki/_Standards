@@ -197,8 +197,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Weyl) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weyl,Hermann](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.md) 

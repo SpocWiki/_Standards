@@ -249,9 +249,6 @@ Plex_person_key: 5d77683b961905001eb951ed
 > [Wikipedia](https://en.wikipedia.org/wiki/Dwight%20D.%20Eisenhower)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eisenhower,Dwight_D](/_Standards/Earth/Continent/America~North/US~President/Eisenhower,Dwight_D.md) 

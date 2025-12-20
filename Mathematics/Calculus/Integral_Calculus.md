@@ -41,8 +41,6 @@ Commons_category: Integral calculus
 > [Wikipedia](https://en.wikipedia.org/wiki/Integral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Integral_Calculus](/_Standards/Mathematics/Calculus/Integral_Calculus.md) 

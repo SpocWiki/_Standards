@@ -94,8 +94,6 @@ X_Twitter_username: TheEconomist
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Economist) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Economist(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).md) 

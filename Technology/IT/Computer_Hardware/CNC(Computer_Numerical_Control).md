@@ -66,8 +66,6 @@ has_id_wikidata: Q190247
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20numerical%20control) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CNC(Computer_Numerical_Control)](/_Standards/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).md) 

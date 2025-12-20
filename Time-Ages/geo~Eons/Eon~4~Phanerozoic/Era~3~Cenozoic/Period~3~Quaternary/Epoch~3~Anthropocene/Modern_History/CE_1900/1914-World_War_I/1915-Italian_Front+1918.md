@@ -51,8 +51,6 @@ start_time: 1915-05-23T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Italian%20front%20(World%20War%20I)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1915-Italian_Front+1918](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.md) 

@@ -34,8 +34,6 @@ Commons_category: Sustainable agriculture
 > [Wikipedia](https://en.wikipedia.org/wiki/Sustainable%20agriculture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sustainable_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.md) 

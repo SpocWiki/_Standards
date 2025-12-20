@@ -130,9 +130,6 @@ date_of_birth: 1098-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hildegard%20of%20Bingen) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hildegard_of_Bingen](/_Standards/Science/Polymath/Hildegard_of_Bingen.md) 

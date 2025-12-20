@@ -110,8 +110,6 @@ date_of_death: 2020-11-25T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Diego%20Maradona) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maradona,Diego](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Maradona,Diego.md) 

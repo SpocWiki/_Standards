@@ -46,8 +46,6 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "Refraction"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Refraction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Refraction](/_Standards/Science/Physics/Wave/Refraction.md) 

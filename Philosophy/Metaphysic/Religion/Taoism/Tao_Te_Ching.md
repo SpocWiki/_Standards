@@ -91,8 +91,6 @@ title: 道德經
 > [Wikipedia](https://en.wikipedia.org/wiki/Tao%20Te%20Ching) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tao_Te_Ching](/_Standards/Philosophy/Metaphysic/Religion/Taoism/Tao_Te_Ching.md) 

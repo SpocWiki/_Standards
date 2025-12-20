@@ -48,8 +48,6 @@ Commons_category: Topology
 > [Wikipedia](https://en.wikipedia.org/wiki/Topological%20space) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Topological_Space](/_Standards/Mathematics/Topology/Topological_Space.md) 

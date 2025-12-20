@@ -147,10 +147,6 @@ Plex_person_key: 5d776852f59e58002189bb6a
 > [Wikipedia](https://en.wikipedia.org/wiki/Harry%20S.%20Truman) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Truman,Harry_S](/_Standards/Earth/Continent/America~North/US~President/Truman,Harry_S.md) 

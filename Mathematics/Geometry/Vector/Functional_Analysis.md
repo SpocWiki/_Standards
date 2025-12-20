@@ -60,8 +60,6 @@ Commons_category: Functional analysis
 > [Wikipedia](https://en.wikipedia.org/wiki/Functional%20analysis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Functional_Analysis](/_Standards/Mathematics/Geometry/Vector/Functional_Analysis.md) 

@@ -44,8 +44,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Law%20of%20large%20numbers) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Law_of_large_Numbers](/_Standards/Mathematics/Probability_Theory/Law_of_large_Numbers.md) 

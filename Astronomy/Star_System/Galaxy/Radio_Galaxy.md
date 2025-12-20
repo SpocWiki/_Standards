@@ -46,8 +46,6 @@ Commons_category: Radio galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio%20galaxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Radio_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Radio_Galaxy.md) 

@@ -33,8 +33,6 @@ subclass_of: "[[_Standards/WikiData/WD~nucleosynthesis,471702]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20nucleosynthesis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stellar_Nucleosynthesis](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.md) 

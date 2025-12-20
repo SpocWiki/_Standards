@@ -34,8 +34,6 @@ Stack_Exchange_tag: https://math.stackexchange.com/tags/elementary-set-theory
 > [Wikipedia](https://en.wikipedia.org/wiki/Naive%20set%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Naive_Set_Theory](/_Standards/Mathematics/Set_Theory/Naive_Set_Theory.md) 

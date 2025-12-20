@@ -48,8 +48,6 @@ A [[Hilbert_Space]] is a [[Banach_Space]] with an **inner product** ⟨⋅,⋅�
 > [Wikipedia](https://en.wikipedia.org/wiki/Hilbert%20space) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hilbert_Space](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Hilbert_Space.md) 

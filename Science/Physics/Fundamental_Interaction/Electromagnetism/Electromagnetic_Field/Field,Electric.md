@@ -61,8 +61,6 @@ Commons_category: Electric field
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20field) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Field,Electric](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Field,Electric.md) 

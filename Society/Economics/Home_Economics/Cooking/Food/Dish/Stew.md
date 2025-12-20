@@ -53,8 +53,6 @@ Amazon_com_browse_node: "16319741"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stew) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stew](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.md) 

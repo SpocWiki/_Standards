@@ -60,8 +60,6 @@ Commons_category: Occam's razor
 > [Wikipedia](https://en.wikipedia.org/wiki/Occam's%20razor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Occam's_Razor](/_Standards/Science/Occam's_Razor.md) 

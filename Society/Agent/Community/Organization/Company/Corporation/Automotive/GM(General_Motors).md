@@ -154,8 +154,6 @@ official_name: General Motors Company
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20Motors) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GM(General_Motors)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/GM(General_Motors).md) 

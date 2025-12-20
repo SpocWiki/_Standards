@@ -80,8 +80,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Eggs%20as%20food) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Egg_as_Food](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.md) 

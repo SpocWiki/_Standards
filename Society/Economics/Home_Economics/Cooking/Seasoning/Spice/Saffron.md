@@ -72,8 +72,6 @@ UNII: E849G4X5YJ
 > [Wikipedia](https://en.wikipedia.org/wiki/Saffron) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saffron](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Saffron.md) 

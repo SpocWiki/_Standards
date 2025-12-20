@@ -57,8 +57,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/HATHOR.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Hathor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hathor](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.md) 

@@ -32,8 +32,6 @@ part_of: "[[_Standards/WikiData/WD~crowd_psychology_terminology,77716235]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Mob%20rule) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ochlocracy](/_Standards/Society/Politics/Government/Ochlocracy.md) 

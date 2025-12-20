@@ -128,8 +128,6 @@ Library_of_Congress_Classification: QB479.55.M18
 > [Wikipedia](https://en.wikipedia.org/wiki/Messier%2087) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Messier_87](/_Standards/Astronomy/Star_System/Galaxy/Messier_87.md) 

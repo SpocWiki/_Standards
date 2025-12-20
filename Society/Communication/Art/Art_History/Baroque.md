@@ -74,8 +74,6 @@ Gujarati_Vishwakosh_entry: બરૉક-કલાશૈલી
 > [Wikipedia](https://en.wikipedia.org/wiki/Baroque) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Baroque](/_Standards/Society/Communication/Art/Art_History/Baroque.md) 

@@ -144,8 +144,6 @@ ISNI: 000000008115516X
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivan%20Pavlov)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pavlov,Ivan](/_Standards/bio/Physiology/Pavlov,Ivan.md) 

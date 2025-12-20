@@ -28,8 +28,6 @@ Commons_category: Tightrope walking
 > [Wikipedia](https://en.wikipedia.org/wiki/Tightrope%20walking) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tightrope_Walking](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Tightrope_Walking.md) 

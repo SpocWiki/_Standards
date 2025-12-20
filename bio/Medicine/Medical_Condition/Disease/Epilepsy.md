@@ -153,8 +153,6 @@ Baidu_Tieba_name: 癫痫
 > [Wikipedia](https://en.wikipedia.org/wiki/Epilepsy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Epilepsy](/_Standards/bio/Medicine/Medical_Condition/Disease/Epilepsy.md) 

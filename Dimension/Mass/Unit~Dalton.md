@@ -30,10 +30,6 @@ has_id_wikidata: Q483261
 > [Wikipedia](https://en.wikipedia.org/wiki/Dalton%20(unit)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~Dalton](/_Standards/Dimension/Mass/Unit~Dalton.md) 

@@ -88,10 +88,6 @@ inception: 1922-05-30T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Lincoln%20Memorial) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lincoln_Memorial](/_Standards/Earth/Geography/Place/Lincoln_Memorial.md) 

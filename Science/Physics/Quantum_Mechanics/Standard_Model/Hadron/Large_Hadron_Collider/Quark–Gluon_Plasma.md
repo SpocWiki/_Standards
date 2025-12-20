@@ -92,7 +92,6 @@ This is a new, 5th [[../../../../State_of_Matter|State_of_Matter]].
 | **Energy Density (critical)** | ε_c ≈ 1 GeV/fm³                                | < 0.2 GeV/fm³                       |
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quark–Gluon_Plasma](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma.md) 

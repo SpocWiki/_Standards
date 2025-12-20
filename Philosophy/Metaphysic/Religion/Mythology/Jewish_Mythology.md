@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Jewish%20mythology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jewish_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Jewish_Mythology.md) 

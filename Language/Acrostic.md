@@ -29,9 +29,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Acrostic)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Acrostic](/_Standards/Language/Acrostic.md) 

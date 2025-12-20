@@ -41,11 +41,6 @@ This has multiple Benefits:
 	- this creates Frankenstein-Code 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Naur,Peter](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.md) 

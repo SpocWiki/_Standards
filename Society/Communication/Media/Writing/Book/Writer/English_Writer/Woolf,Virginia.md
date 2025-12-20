@@ -179,8 +179,6 @@ described_at_URL: https://heritage.humanists.uk/virginia-woolf/
 > [Wikipedia](https://en.wikipedia.org/wiki/Virginia%20Woolf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Woolf,Virginia](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.md) 

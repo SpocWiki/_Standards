@@ -18,7 +18,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rich%20Hickey)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rich_Hickey](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Rich_Hickey.md) 

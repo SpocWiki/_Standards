@@ -151,9 +151,6 @@ work_available_at_URL: https://standardebooks.org/ebooks/mary-shelley/frankenste
 > [Wikipedia](https://en.wikipedia.org/wiki/Frankenstein) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Frankenstein](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein.md) 

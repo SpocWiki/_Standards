@@ -70,8 +70,6 @@ Dewey_Decimal_Classification: "599.335"
 > [Wikipedia](https://en.wikipedia.org/wiki/Talpidae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Talpidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eulipotyphla/Talpidae.md) 

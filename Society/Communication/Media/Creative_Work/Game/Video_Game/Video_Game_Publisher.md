@@ -41,8 +41,6 @@ subclass_of:
 > [Wikipedia](https://en.wikipedia.org/wiki/Video%20game%20publisher) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Video_Game_Publisher](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.md) 

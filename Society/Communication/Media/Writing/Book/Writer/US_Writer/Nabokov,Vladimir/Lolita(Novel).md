@@ -218,10 +218,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lolita%201955.JPG
 > [Wikipedia](https://en.wikipedia.org/wiki/Lolita) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lolita(Novel)](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir/Lolita(Novel).md) 

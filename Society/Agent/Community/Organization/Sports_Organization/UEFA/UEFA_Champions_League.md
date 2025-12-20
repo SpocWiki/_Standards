@@ -69,8 +69,6 @@ social_media_followers: 46971499
 > [Wikipedia](https://en.wikipedia.org/wiki/UEFA%20Champions%20League) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [UEFA_Champions_League](/_Standards/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_Champions_League.md) 

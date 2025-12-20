@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Cucujiformia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cucujiformia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia.md) 

@@ -92,8 +92,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Electric::y39j2"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20car) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electric_Car](/_Standards/Technology/Transport/Road_Transport/Car/Electric_Car.md) 

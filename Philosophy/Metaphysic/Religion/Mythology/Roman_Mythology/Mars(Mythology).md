@@ -30,10 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Mars%20(mythology)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mars(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).md) 

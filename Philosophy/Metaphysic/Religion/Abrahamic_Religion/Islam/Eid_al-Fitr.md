@@ -80,8 +80,6 @@ name: Aid Al-Fitr
 > [Wikipedia](https://en.wikipedia.org/wiki/Eid%20al-Fitr) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eid_al-Fitr](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Eid_al-Fitr.md) 

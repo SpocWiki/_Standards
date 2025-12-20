@@ -90,9 +90,6 @@ native_label: isiZulu
 > [Wikipedia](https://en.wikipedia.org/wiki/Zulu%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-zul](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu/Lang-zul.md) 

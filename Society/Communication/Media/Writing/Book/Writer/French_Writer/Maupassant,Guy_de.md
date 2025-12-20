@@ -112,8 +112,6 @@ official_website: http://maupassantiana.fr
 > [Wikipedia](https://en.wikipedia.org/wiki/Guy%20de%20Maupassant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maupassant,Guy_de](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Maupassant,Guy_de.md) 

@@ -48,8 +48,6 @@ Commons_category: Gravitational constant
 > [Wikipedia](https://en.wikipedia.org/wiki/Gravitational%20constant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gravitational_Constant](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Constant.md) 

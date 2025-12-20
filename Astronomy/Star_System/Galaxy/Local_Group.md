@@ -124,8 +124,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Local%20Group%20rus.pn
 > [Wikipedia](https://en.wikipedia.org/wiki/Local%20Group) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Local_Group](/_Standards/Astronomy/Star_System/Galaxy/Local_Group.md) 

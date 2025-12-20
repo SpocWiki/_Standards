@@ -77,8 +77,6 @@ name_in_native_language: Μεδουσα
 > [Wikipedia](https://en.wikipedia.org/wiki/Medusa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medusa](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medusa.md) 

@@ -45,8 +45,6 @@ Commons_category: Remote sensing
 > [Wikipedia](https://en.wikipedia.org/wiki/Remote%20sensing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Remote_Sensing](/_Standards/Science/Physics/Measurement/Remote_Sensing.md) 

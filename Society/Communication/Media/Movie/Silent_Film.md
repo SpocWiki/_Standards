@@ -77,8 +77,6 @@ Commons_category: Silent film
 > [Wikipedia](https://en.wikipedia.org/wiki/Silent%20film) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Silent_Film](/_Standards/Society/Communication/Media/Movie/Silent_Film.md) 

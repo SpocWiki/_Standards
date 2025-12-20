@@ -63,8 +63,6 @@ Colon_Classification: Q:365
 > [Wikipedia](https://en.wikipedia.org/wiki/Hell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hell](/_Standards/Philosophy/Metaphysic/Religion/Hell.md) 

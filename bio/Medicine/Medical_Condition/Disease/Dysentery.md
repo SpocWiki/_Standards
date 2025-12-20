@@ -62,8 +62,6 @@ Krugosvet_article: medicina/DIZENTERIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Dysentery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dysentery](/_Standards/bio/Medicine/Medical_Condition/Disease/Dysentery.md) 

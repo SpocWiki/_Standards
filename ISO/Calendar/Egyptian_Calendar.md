@@ -54,8 +54,6 @@ Commons_category: Ancient Egyptian calendar
 > [Wikipedia](https://en.wikipedia.org/wiki/Egyptian%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Egyptian_Calendar](/_Standards/ISO/Calendar/Egyptian_Calendar.md) 

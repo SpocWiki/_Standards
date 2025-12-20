@@ -78,8 +78,6 @@ GitHub_topic: wind-power
 > [Wikipedia](https://en.wikipedia.org/wiki/Wind%20power) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wind_Power](/_Standards/Technology/Energy-Technology/Renewable_Energy/Wind_Power.md) 

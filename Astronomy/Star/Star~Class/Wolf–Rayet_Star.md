@@ -48,8 +48,6 @@ Commons_category: Wolf-Rayet stars
 > [Wikipedia](https://en.wikipedia.org/wiki/Wolf%E2%80%93Rayet%20star) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wolf–Rayet_Star](/_Standards/Astronomy/Star/Star~Class/Wolf–Rayet_Star.md) 

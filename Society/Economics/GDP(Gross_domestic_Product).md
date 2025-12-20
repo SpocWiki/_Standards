@@ -64,8 +64,6 @@ IPTC_NewsCode: mediatopic/20000359
 > [Wikipedia](https://en.wikipedia.org/wiki/Gross%20domestic%20product) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GDP(Gross_domestic_Product)](/_Standards/Society/Economics/GDP(Gross_domestic_Product).md) 

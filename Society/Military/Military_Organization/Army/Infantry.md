@@ -62,8 +62,6 @@ degrading them from the [[../Cavalry|Cavalry]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Infantry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Infantry](/_Standards/Society/Military/Military_Organization/Army/Infantry.md) 

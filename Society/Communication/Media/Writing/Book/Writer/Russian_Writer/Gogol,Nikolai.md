@@ -166,8 +166,6 @@ Wolfram_Language_entity_code: Entity["Person", "NikolaiGogol::3qh39"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Nikolai%20Gogol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gogol,Nikolai](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.md) 

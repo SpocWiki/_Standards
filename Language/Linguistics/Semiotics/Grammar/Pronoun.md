@@ -52,8 +52,6 @@ entry_in_abbreviations_table: vnw.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pronoun) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pronoun](/_Standards/Language/Linguistics/Semiotics/Grammar/Pronoun.md) 

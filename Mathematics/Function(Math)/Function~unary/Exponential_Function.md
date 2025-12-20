@@ -49,8 +49,6 @@ has_id_wikidata: Q168698
 > [Wikipedia](https://en.wikipedia.org/wiki/Exponential%20function) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Exponential_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Exponential_Function.md) 

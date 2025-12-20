@@ -49,9 +49,6 @@ Commons_category: Hardness
 > [Wikipedia](https://en.wikipedia.org/wiki/Hardness) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dim~Hardness](/_Standards/Dimension/Dim~Hardness.md) 

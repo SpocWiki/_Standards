@@ -106,8 +106,6 @@ booru_tag: francis_drake
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Drake) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Drake,Francis](/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.md) 

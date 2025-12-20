@@ -39,8 +39,6 @@ OpenStreetMap_tag: historic:civilization=mycenaean
 > [Wikipedia](https://en.wikipedia.org/wiki/Mycenaean%20Greece) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-1750-Mycenaean_Greece-1050](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1750-Mycenaean_Greece-1050.md) 

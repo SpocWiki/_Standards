@@ -65,8 +65,6 @@ Gujarati_Vishwakosh_entry: આત્મા
 > [Wikipedia](https://en.wikipedia.org/wiki/Soul) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soul](/_Standards/Philosophy/Metaphysic/Soul.md) 

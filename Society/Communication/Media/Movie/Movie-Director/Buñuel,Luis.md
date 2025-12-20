@@ -127,10 +127,6 @@ ISNI: "0000000122812593"
 > [Wikipedia](https://en.wikipedia.org/wiki/Luis%20Bu%C3%B1uel)  
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Buñuel,Luis](/_Standards/Society/Communication/Media/Movie/Movie-Director/Buñuel,Luis.md) 

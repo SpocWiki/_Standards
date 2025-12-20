@@ -26,8 +26,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Simulation%20%E2%80%93
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy%20formation%20and%20evolution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galaxy_Formation_and_Evolution](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.md) 

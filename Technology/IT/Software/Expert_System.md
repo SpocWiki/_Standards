@@ -48,8 +48,6 @@ MeSH_tree_code: L01.224.050.375.190
 > [Wikipedia](https://en.wikipedia.org/wiki/Expert%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Expert_System](/_Standards/Technology/IT/Software/Expert_System.md) 

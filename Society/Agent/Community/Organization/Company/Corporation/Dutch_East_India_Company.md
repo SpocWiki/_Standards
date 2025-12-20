@@ -58,8 +58,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20East%20India%20Company) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dutch_East_India_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.md) 

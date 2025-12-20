@@ -109,8 +109,6 @@ name_in_native_language:
 > [Wikipedia](https://en.wikipedia.org/wiki/Kublai%20Khan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kublai_Khan](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.md) 

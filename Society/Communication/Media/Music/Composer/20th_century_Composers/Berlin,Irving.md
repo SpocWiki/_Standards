@@ -150,8 +150,6 @@ work_period_start_: 1907-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Irving%20Berlin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Berlin,Irving](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.md) 

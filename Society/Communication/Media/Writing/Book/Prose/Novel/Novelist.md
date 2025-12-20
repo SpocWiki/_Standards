@@ -7,8 +7,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Novelist) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Novelist](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist.md) 

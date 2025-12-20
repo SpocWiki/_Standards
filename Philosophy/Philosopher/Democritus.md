@@ -20,9 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Democritus) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Democritus](/_Standards/Philosophy/Philosopher/Democritus.md) 

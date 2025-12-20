@@ -38,8 +38,6 @@ Library_of_Congress_Classification: TA418.38
 > [Wikipedia](https://en.wikipedia.org/wiki/Fatigue%20(material)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fatigue(material)](/_Standards/Chemistry/Material/Fatigue(material).md) 

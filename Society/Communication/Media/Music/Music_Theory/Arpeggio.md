@@ -25,10 +25,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Arpeggio) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Arpeggio](/_Standards/Society/Communication/Media/Music/Music_Theory/Arpeggio.md) 

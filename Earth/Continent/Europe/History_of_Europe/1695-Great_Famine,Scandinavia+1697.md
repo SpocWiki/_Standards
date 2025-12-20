@@ -15,8 +15,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine%20of%201695%E2%80%931697)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1695-Great_Famine,Scandinavia+1697](/_Standards/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.md) 

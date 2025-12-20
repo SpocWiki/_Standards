@@ -54,10 +54,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ulysses%20(novel)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ulysses(Novel)](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).md) 

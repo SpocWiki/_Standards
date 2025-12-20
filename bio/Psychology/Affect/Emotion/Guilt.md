@@ -46,9 +46,6 @@ Commons_category: Guilt (emotion)
 > [Wikipedia](https://en.wikipedia.org/wiki/Guilt%20(emotion)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Guilt](/_Standards/bio/Psychology/Affect/Emotion/Guilt.md) 

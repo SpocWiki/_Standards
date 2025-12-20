@@ -22,8 +22,6 @@ has_id_wikidata: Q42918
 > [Wikipedia](https://en.wikipedia.org/wiki/Mutation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mutation](/_Standards/bio/Evolution/Mutation.md) 

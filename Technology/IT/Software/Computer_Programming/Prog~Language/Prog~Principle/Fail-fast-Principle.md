@@ -24,9 +24,6 @@
 [[BSoD(Blue_Screen_of_Death)]] 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fail-fast-Principle](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.md) 

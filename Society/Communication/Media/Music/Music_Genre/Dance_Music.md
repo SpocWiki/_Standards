@@ -63,8 +63,6 @@ Wolfram_Language_entity_code: Entity["Concept", "DanceMusic::v37wn"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Dance%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dance_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Dance_Music.md) 

@@ -33,8 +33,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Narcissus%20(mythology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Narcissus(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology).md) 

@@ -59,8 +59,6 @@ unit_symbol: ‰
 > [Wikipedia](https://en.wikipedia.org/wiki/Per%20mille) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~Permille](/_Standards/Dimension/Dim~Number/Unit~Permille.md) 

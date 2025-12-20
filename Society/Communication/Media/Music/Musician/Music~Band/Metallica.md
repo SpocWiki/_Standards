@@ -90,8 +90,6 @@ Libris_URI: nl0362164w3kdxh
 > [Wikipedia](https://en.wikipedia.org/wiki/Metallica) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metallica](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Metallica.md) 

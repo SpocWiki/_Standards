@@ -36,8 +36,6 @@ instance_of: "[[_Standards/WikiData/WD~contributing_factor,18603648]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20reliability) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Human_Reliability](/_Standards/Technology/Ergonomics/Human_Reliability.md) 

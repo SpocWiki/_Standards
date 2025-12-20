@@ -74,8 +74,6 @@ Krugosvet_article: medicina/OBREZANIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Circumcision) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Circumcision](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Circumcision.md) 

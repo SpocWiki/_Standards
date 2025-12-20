@@ -62,8 +62,6 @@ Hederich_encyclopedia_article: Vvlcánvs
 > [Wikipedia](https://en.wikipedia.org/wiki/Vulcan%20(mythology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vulcan](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Vulcan.md) 

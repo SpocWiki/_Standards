@@ -87,9 +87,6 @@ spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/202
 > [Wikipedia](https://en.wikipedia.org/wiki/Brandenburg%20Gate) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brandenburg_Gate](/_Standards/Earth/Geography/Place/Brandenburg_Gate.md) 

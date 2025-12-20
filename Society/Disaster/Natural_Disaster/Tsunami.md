@@ -152,7 +152,6 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tsunami](/_Standards/Society/Disaster/Natural_Disaster/Tsunami.md) 

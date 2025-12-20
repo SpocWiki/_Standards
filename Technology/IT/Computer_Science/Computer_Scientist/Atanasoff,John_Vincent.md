@@ -75,8 +75,6 @@ date_of_birth: 1903-10-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Vincent%20Atanasoff) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Atanasoff,John_Vincent](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.md) 

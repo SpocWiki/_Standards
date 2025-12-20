@@ -52,8 +52,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Union%20of%20the%20Cro
 > [Wikipedia](https://en.wikipedia.org/wiki/Personal%20union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Personal_Union](/_Standards/Society/Politics/Government/Monarchy/Personal_Union.md) 

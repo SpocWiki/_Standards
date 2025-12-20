@@ -20,8 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Confounding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Confounder](/_Standards/Mathematics/Statistics/Correlation/Confounder.md) 

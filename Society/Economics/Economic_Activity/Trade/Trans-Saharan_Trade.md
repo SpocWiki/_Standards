@@ -62,11 +62,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/French%20language%20ma
 > [Wikipedia](https://en.wikipedia.org/wiki/Trans-Saharan%20trade) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trans-Saharan_Trade](/_Standards/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.md) 

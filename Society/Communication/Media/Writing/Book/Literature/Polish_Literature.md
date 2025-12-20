@@ -50,8 +50,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/POLSKAYA_LITERATUR
 > [Wikipedia](https://en.wikipedia.org/wiki/Polish%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polish_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Polish_Literature.md) 

@@ -65,8 +65,6 @@ Commons_gallery: Ondatra zibethicus
 > [Wikipedia](https://en.wikipedia.org/wiki/Muskrat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Muskrat](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Arvicolinae/Muskrat.md) 

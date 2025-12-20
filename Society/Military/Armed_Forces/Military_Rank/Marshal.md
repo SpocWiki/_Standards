@@ -57,8 +57,6 @@ short_name: marsz.
 > [Wikipedia](https://en.wikipedia.org/wiki/Marshal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marshal](/_Standards/Society/Military/Armed_Forces/Military_Rank/Marshal.md) 

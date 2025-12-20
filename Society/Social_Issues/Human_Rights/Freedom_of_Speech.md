@@ -85,8 +85,6 @@ nickname: freezepeach
 > [Wikipedia](https://en.wikipedia.org/wiki/Freedom%20of%20speech) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Freedom_of_Speech](/_Standards/Society/Social_Issues/Human_Rights/Freedom_of_Speech.md) 

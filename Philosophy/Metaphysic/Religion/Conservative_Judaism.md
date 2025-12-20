@@ -29,8 +29,6 @@ OpenStreetMap_tag_or_key: Tag:denomination=conservative
 > [Wikipedia](https://en.wikipedia.org/wiki/Conservative%20Judaism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conservative_Judaism](/_Standards/Philosophy/Metaphysic/Religion/Conservative_Judaism.md) 

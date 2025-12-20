@@ -80,7 +80,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sureal%20Horizon.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Horizon) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Horizon](/_Standards/Astronomy/Astrometry/Horizon.md) 

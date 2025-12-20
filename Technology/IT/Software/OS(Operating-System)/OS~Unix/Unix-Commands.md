@@ -25,8 +25,6 @@ Useful to find out which Port an app is listening to.
 ## ipconfig /renew 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unix-Commands](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Commands.md) 

@@ -82,8 +82,6 @@ short_name: D. melanogaster
 > [Wikipedia](https://en.wikipedia.org/wiki/Drosophila%20melanogaster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Drosophila_melanogaster](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.md) 

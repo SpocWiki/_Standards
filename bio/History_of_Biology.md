@@ -35,8 +35,6 @@ PhilPapers_topic: history-of-biology
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20biology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Biology](/_Standards/bio/History_of_Biology.md) 

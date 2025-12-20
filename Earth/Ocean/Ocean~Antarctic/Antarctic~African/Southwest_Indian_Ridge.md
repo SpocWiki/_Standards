@@ -36,8 +36,6 @@ Commons_category: Southwest Indian Ridge
 > [Wikipedia](https://en.wikipedia.org/wiki/Southwest%20Indian%20Ridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Southwest_Indian_Ridge](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.md) 

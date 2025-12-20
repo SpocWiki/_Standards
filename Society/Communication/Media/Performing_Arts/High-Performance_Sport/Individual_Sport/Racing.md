@@ -41,8 +41,6 @@ U_S_National_Archives_Identifier: "10643549"
 > [Wikipedia](https://en.wikipedia.org/wiki/Racing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Racing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing.md) 

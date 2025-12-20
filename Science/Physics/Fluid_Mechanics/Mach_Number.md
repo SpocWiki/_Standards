@@ -61,8 +61,6 @@ Commons_category: Mach number
 > [Wikipedia](https://en.wikipedia.org/wiki/Mach%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mach_Number](/_Standards/Science/Physics/Fluid_Mechanics/Mach_Number.md) 

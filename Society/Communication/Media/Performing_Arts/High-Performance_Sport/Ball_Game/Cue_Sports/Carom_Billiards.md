@@ -21,8 +21,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Carom%20billiards) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Carom_Billiards](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Carom_Billiards.md) 

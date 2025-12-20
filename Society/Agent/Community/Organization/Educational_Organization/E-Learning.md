@@ -50,8 +50,6 @@ GitHub_topic: elearning
 > [Wikipedia](https://en.wikipedia.org/wiki/Educational%20technology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [E-Learning](/_Standards/Society/Agent/Community/Organization/Educational_Organization/E-Learning.md) 

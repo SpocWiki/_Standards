@@ -47,9 +47,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Billie%20Holiday) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Holiday,Billie](/_Standards/Society/Communication/Media/Music/Musician/Holiday,Billie.md) 

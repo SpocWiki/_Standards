@@ -52,9 +52,6 @@ short_name: графический
 > [Wikipedia](https://en.wikipedia.org/wiki/Graphical%20user%20interface) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GUI(Graphical_User_Interface)](/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface).md) 

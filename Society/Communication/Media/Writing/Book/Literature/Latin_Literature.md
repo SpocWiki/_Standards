@@ -31,9 +31,6 @@ Commons_category: Latin-language literature
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin%20literature) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Latin_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Latin_Literature.md) 

@@ -117,8 +117,6 @@ pseudonym: El Finlandès volador
 > [Wikipedia](https://en.wikipedia.org/wiki/Paavo%20Nurmi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nurmi,Paavo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Nurmi,Paavo.md) 

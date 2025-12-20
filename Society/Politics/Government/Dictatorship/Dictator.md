@@ -32,8 +32,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictator) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dictator](/_Standards/Society/Politics/Government/Dictatorship/Dictator.md) 

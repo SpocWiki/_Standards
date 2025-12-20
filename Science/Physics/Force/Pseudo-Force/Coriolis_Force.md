@@ -21,8 +21,6 @@ has_id_wikidata: Q169973
 > [Wikipedia](https://en.wikipedia.org/wiki/Coriolis%20force) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coriolis_Force](/_Standards/Science/Physics/Force/Pseudo-Force/Coriolis_Force.md) 

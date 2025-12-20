@@ -67,8 +67,6 @@ described_at_URL: http://www.nhc.noaa.gov/aboutsshws.php
 > [Wikipedia](https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson%20scale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saffir–Simpson_hurricane_wind_scale](/_Standards/Society/Disaster/Natural_Disaster/Cyclone/Saffir–Simpson_hurricane_wind_scale.md) 

@@ -86,8 +86,6 @@ dv.table(["Name", "Begin", "End", "Years"], items)
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [US~President](/_Standards/Earth/Continent/America~North/US~President.md) 

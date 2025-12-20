@@ -60,8 +60,6 @@ name_in_kana: ふくいんは
 > [Wikipedia](https://en.wikipedia.org/wiki/Evangelicalism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Evangelicalism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.md) 

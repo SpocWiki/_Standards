@@ -33,8 +33,6 @@ UNSPSC_Code: "92111705"
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20strategy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_Strategy](/_Standards/Society/Military/Military_Operation/Military_Strategy.md) 

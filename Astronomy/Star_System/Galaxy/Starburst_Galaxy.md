@@ -38,8 +38,6 @@ Commons_category: Starburst galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Starburst%20galaxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Starburst_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Starburst_Galaxy.md) 

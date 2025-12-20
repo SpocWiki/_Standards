@@ -74,8 +74,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Rabbit"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Rabbit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rabbit](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Rabbit.md) 

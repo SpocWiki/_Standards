@@ -381,8 +381,6 @@ Commons_category: Hyundai vehicles
 > [Wikipedia](https://en.wikipedia.org/wiki/Hyundai%20Motor%20Company) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hyundai_Motor_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Hyundai_Motor_Company.md) 

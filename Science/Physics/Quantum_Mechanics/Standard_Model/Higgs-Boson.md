@@ -121,9 +121,6 @@ time_of_discovery_or_invention: 2012-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Higgs%20boson) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Higgs-Boson](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Higgs-Boson.md) 

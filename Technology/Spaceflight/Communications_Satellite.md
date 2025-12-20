@@ -33,8 +33,6 @@ Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/SPUTNIK_SVYAZI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Communications%20satellite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Communications_Satellite](/_Standards/Technology/Spaceflight/Communications_Satellite.md) 

@@ -52,8 +52,6 @@ Knox's rules were influential in shaping the detective fiction genre,
 promoting a standard that many authors adhered to during the Golden Age. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ten_Commandments(detective_stories)](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Knox,Ronald/Ten_Commandments(detective_stories).md) 

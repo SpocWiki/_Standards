@@ -209,10 +209,6 @@ writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Eleanor%20Roosevelt) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roosevelt,Eleanor](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Eleanor.md) 

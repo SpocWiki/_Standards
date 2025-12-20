@@ -48,8 +48,6 @@ MeSH_tree_code: N03.219.702
 > [Wikipedia](https://en.wikipedia.org/wiki/Investment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Investment](/_Standards/Society/Economics/Economic_Strategy/Investment.md) 

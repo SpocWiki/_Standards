@@ -28,8 +28,6 @@ static int Position(this string weakKey, string search) {
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IndexOf-Method](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.md) 

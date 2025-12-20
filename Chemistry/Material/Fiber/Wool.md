@@ -49,8 +49,6 @@ Dewey_Decimal_Classification: "677.31"
 > [Wikipedia](https://en.wikipedia.org/wiki/Wool) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wool](/_Standards/Chemistry/Material/Fiber/Wool.md) 

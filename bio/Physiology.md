@@ -86,8 +86,6 @@ native_label: Qhichwa simi
 > [Wikipedia](https://en.wikipedia.org/wiki/Physiology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Physiology](/_Standards/bio/Physiology.md) 

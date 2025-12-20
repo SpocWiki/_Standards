@@ -56,8 +56,6 @@ Commons_category: Satellite television
 > [Wikipedia](https://en.wikipedia.org/wiki/Satellite%20television) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Satellite_TV](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.md) 

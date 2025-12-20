@@ -88,8 +88,6 @@ ISNI: "0000000110197343"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pitirim%20Sorokin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sorokin,Pitirim](/_Standards/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.md) 

@@ -52,10 +52,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Taylor%20Swift)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Swift,Taylor](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.md) 

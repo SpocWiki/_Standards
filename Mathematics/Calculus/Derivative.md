@@ -50,8 +50,6 @@ Krugosvet_article: matematika/proizvodnaya
 > [Wikipedia](https://en.wikipedia.org/wiki/Derivative) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Derivative](/_Standards/Mathematics/Calculus/Derivative.md) 

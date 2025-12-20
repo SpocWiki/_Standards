@@ -4,8 +4,6 @@ Enums are the [[../Algebraic_Data-Types/Sum-Type]] in Rust.
 Their Size is the Maximum of the Alternatives' Sizes. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~enum](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~enum.md) 

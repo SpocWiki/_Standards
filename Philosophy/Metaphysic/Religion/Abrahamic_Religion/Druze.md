@@ -29,8 +29,6 @@ has_id_wikidata: Q163943
 > [Wikipedia](https://en.wikipedia.org/wiki/Druze) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Druze](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.md) 

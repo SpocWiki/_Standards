@@ -44,8 +44,6 @@ GeoNames_feature_code: U.SHFU
 > [Wikipedia](https://en.wikipedia.org/wiki/Continental%20shelf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Continental_Shelf](/_Standards/Earth/Geology/Landform/Continental_Shelf.md) 

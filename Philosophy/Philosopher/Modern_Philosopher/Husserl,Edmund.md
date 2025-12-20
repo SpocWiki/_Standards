@@ -145,8 +145,6 @@ NLC_authorities: "000154718"
 > [Wikipedia](https://en.wikipedia.org/wiki/Edmund%20Husserl) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Husserl,Edmund](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Husserl,Edmund.md) 

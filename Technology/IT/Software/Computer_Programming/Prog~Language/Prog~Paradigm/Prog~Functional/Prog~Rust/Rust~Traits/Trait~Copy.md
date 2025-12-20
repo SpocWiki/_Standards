@@ -17,8 +17,6 @@ Copy can be implemented when all of its Components also implement Copy. This mea
 You can use the `clone()` Method of the [[Trait~Clone]], but that duplicates both Stack-Reference and Heap-Memory. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trait~Copy](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.md) 

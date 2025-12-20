@@ -120,8 +120,6 @@ work_period_start_: 1905-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Karen%20Blixen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Blixen,Karen](/_Standards/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.md) 

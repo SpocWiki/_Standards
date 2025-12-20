@@ -37,8 +37,6 @@ Dewey_Decimal_Classification: "551.453"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tundra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tundra](/_Standards/Earth/Climate/Biosphere/Biomes/Tundra.md) 

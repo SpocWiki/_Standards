@@ -54,10 +54,6 @@ Krugosvet_article_archived_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Icon) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Icon](/_Standards/Society/Communication/Media/Painting/Icon.md) 

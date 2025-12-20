@@ -41,8 +41,6 @@ Commons_category: Mother goddesses
 > [Wikipedia](https://en.wikipedia.org/wiki/Mother%20goddess) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mother_Goddess](/_Standards/Philosophy/Metaphysic/Religion/Deity/Mother_Goddess.md) 

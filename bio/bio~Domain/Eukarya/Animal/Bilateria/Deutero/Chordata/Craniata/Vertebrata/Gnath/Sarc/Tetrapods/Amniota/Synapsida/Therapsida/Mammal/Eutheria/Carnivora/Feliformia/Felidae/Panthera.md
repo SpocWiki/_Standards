@@ -61,8 +61,6 @@ taxon_name: Panthera
 > [Wikipedia](https://en.wikipedia.org/wiki/Panthera) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Panthera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Panthera.md) 

@@ -59,8 +59,6 @@ Legal_Entity_Identifier: QKL54NQY28TCDAI75F60
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Finance%20Corporation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IFC(International_Finance_Corporation)](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IFC(International_Finance_Corporation).md) 

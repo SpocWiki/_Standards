@@ -122,8 +122,6 @@ work_period_start_: 1971-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Daniel%20Day-Lewis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Day-Lewis,Daniel](/_Standards/Society/Communication/Media/Movie/Actor/Irish_Actor/Day-Lewis,Daniel.md) 

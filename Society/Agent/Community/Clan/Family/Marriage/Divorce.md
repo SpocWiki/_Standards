@@ -26,8 +26,6 @@ has_id_wikidata: Q93190
 > [Wikipedia](https://en.wikipedia.org/wiki/Divorce) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Divorce](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Divorce.md) 

@@ -26,8 +26,6 @@ Commons_category: Pyrolysis
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyrolysis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pyrolysis](/_Standards/Chemistry/Chemical_Reaction/Pyrolysis.md) 

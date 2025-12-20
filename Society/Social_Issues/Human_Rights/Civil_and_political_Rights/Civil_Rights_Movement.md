@@ -29,8 +29,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20rights%20movement) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Civil_Rights_Movement](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.md) 

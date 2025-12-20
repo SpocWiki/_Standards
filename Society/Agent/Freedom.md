@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Freedom) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Freedom](/_Standards/Society/Agent/Freedom.md) 

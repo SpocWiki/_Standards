@@ -62,8 +62,6 @@ Commons_category: Hourglasses
 > [Wikipedia](https://en.wikipedia.org/wiki/Hourglass) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hourglass](/_Standards/Technology/Tool/Instrumentation/Hourglass.md) 

@@ -29,9 +29,6 @@ depicts: "[[_Standards/WikiData/WD~Confucianism,9581]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Four%20Books%20and%20Five%20Classics) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Four_Books_and_Five_Classics](/_Standards/Philosophy/Ethics/Confucianism/Four_Books_and_Five_Classics.md) 

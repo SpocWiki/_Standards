@@ -30,8 +30,6 @@ Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/protostar
 > [Wikipedia](https://en.wikipedia.org/wiki/Protostar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Protostar](/_Standards/Astronomy/Star/Star~Class/Protostar.md) 

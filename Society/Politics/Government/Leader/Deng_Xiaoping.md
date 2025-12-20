@@ -127,8 +127,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Deng%20Xiaoping) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deng_Xiaoping](/_Standards/Society/Politics/Government/Leader/Deng_Xiaoping.md) 

@@ -87,8 +87,6 @@ Dewey_Decimal_Classification: "294.3927"
 > [Wikipedia](https://en.wikipedia.org/wiki/Zen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zen](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.md) 

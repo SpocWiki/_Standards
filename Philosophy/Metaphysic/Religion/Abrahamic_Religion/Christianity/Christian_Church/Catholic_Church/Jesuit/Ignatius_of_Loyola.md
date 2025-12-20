@@ -122,8 +122,6 @@ ISNI: "0000000121428944"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ignatius%20of%20Loyola) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ignatius_of_Loyola](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.md) 

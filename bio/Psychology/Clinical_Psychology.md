@@ -44,8 +44,6 @@ MeSH_tree_code: F04.096.628.579
 > [Wikipedia](https://en.wikipedia.org/wiki/Clinical%20psychology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clinical_Psychology](/_Standards/bio/Psychology/Clinical_Psychology.md) 

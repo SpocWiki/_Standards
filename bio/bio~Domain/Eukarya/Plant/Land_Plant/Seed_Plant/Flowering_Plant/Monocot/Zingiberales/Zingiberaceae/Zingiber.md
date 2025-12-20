@@ -46,8 +46,6 @@ taxon_name: Zingiber
 > [Wikipedia](https://en.wikipedia.org/wiki/Zingiber) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zingiber](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.md) 

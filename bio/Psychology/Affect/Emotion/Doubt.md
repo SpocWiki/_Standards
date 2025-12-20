@@ -45,8 +45,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rae%2C%20Henrietta%20-
 > [Wikipedia](https://en.wikipedia.org/wiki/Doubt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Doubt](/_Standards/bio/Psychology/Affect/Emotion/Doubt.md) 

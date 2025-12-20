@@ -53,8 +53,6 @@ UNII: SI6O3IW77Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Lard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lard](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.md) 

@@ -36,8 +36,6 @@ Krugosvet_article: medicina/SOEDINITELNAYA_TKAN.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Connective%20tissue) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Connective_Tissue](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.md) 

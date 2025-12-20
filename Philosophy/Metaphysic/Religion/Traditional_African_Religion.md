@@ -37,8 +37,6 @@ Commons_gallery: African Religion
 > [Wikipedia](https://en.wikipedia.org/wiki/African%20traditional%20religions) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Traditional_African_Religion](/_Standards/Philosophy/Metaphysic/Religion/Traditional_African_Religion.md) 

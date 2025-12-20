@@ -140,8 +140,6 @@ P8189: "987007376444405171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Chevron%20Corporation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chevron_Corporation](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Chevron_Corporation.md) 

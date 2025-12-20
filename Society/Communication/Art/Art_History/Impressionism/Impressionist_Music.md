@@ -19,8 +19,6 @@ has_id_wikidata: Q105697765
 > [Wikipedia](https://en.wikipedia.org/wiki/Impressionism%20in%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Impressionist_Music](/_Standards/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.md) 

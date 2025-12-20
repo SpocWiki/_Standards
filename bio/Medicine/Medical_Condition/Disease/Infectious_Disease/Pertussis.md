@@ -103,8 +103,6 @@ Krugosvet_article_archived_: medicina/koklyush
 > [Wikipedia](https://en.wikipedia.org/wiki/Whooping%20cough) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pertussis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.md) 

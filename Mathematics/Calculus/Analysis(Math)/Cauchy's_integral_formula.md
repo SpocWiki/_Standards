@@ -37,8 +37,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Cauchy's%20integral%20formula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cauchy's_integral_formula](/_Standards/Mathematics/Calculus/Analysis(Math)/Cauchy's_integral_formula.md) 

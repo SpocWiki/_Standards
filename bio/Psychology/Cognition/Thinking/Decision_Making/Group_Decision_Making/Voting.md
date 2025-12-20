@@ -93,8 +93,6 @@ Unicode_character: 🗳
 > [Wikipedia](https://en.wikipedia.org/wiki/Voting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Voting](/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.md) 

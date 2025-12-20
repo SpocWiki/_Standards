@@ -32,8 +32,6 @@ It cost 600e6€, went live in 2010 and is no longer active.
 > [Wikipedia](https://en.wikipedia.org/wiki/Quaero) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quaero](/_Standards/Technology/IT/Software/Search_Engine/Quaero.md) 

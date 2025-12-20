@@ -73,8 +73,6 @@ X_Twitter_username:
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Phelps) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phelps,Michael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Phelps,Michael.md) 

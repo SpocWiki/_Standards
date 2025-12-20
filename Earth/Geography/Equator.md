@@ -53,8 +53,6 @@ Commons_category: Equator
 > [Wikipedia](https://en.wikipedia.org/wiki/Equator) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Equator](/_Standards/Earth/Geography/Equator.md) 

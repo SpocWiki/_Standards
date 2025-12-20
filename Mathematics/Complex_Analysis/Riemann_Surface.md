@@ -45,8 +45,6 @@ Commons_category: Complex algebraic curves and Riemann surfaces
 > [Wikipedia](https://en.wikipedia.org/wiki/Riemann%20surface) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Riemann_Surface](/_Standards/Mathematics/Complex_Analysis/Riemann_Surface.md) 

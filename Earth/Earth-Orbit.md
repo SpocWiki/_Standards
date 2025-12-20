@@ -26,8 +26,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Earth-Orbit](/_Standards/Earth/Earth-Orbit.md) 

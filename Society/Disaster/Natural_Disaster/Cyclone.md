@@ -73,8 +73,6 @@ Krugosvet_article_archived_: geografiya/tsiklon
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyclone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cyclone](/_Standards/Society/Disaster/Natural_Disaster/Cyclone.md) 

@@ -284,8 +284,6 @@ Europeana_entity: agent/base/60657
 > [Wikipedia](https://en.wikipedia.org/wiki/Edgar%20Degas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Degas,Edgar](/_Standards/Society/Communication/Art/Art_History/Impressionism/Degas,Edgar.md) 

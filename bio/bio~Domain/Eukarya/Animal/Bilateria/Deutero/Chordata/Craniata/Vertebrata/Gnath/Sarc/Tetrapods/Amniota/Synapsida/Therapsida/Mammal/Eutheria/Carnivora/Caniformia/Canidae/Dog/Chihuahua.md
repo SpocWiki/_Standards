@@ -41,8 +41,6 @@ Library_of_Congress_Classification: SF429.C45
 > [Wikipedia](https://en.wikipedia.org/wiki/Chihuahua%20(dog%20breed)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chihuahua](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Chihuahua.md) 

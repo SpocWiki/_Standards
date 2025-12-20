@@ -32,8 +32,6 @@ has_id_wikidata: Q184996
 > [Wikipedia](https://en.wikipedia.org/wiki/Dielectric) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dielectric](/_Standards/Science/Physics/Electricity/Dielectric.md) 

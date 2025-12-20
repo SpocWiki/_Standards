@@ -55,8 +55,6 @@ has_id_wikidata: Q37970
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregor%20Mendel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mendel,Gregor](/_Standards/bio/Genetics/Mendel,Gregor.md) 

@@ -34,8 +34,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Robinson%20Crusoe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Robinson_Crusoe](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Defoe,Daniel/Robinson_Crusoe.md) 

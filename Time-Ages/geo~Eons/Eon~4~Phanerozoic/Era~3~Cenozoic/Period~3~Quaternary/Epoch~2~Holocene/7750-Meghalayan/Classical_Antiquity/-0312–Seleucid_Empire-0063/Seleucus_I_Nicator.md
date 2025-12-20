@@ -112,8 +112,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Seleucus::92cn8"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Seleucus%20I%20Nicator) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seleucus_I_Nicator](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.md) 

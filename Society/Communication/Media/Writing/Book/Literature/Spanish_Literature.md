@@ -44,8 +44,6 @@ Commons_category: Literature of Spain
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spanish_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.md) 

@@ -46,8 +46,6 @@ Commons_category: Means
 > [Wikipedia](https://en.wikipedia.org/wiki/Mean) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mean](/_Standards/Mathematics/Statistics/Probability/Mean.md) 

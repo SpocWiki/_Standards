@@ -142,8 +142,6 @@ date_of_birth: 1917-04-26T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/I.%20M.%20Pei) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pei,I.M.](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Pei,I.M..md) 

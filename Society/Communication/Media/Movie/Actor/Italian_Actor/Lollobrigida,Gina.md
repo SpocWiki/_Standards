@@ -93,8 +93,6 @@ ISNI: "0000000121232255"
 > [Wikipedia](https://en.wikipedia.org/wiki/Gina%20Lollobrigida) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lollobrigida,Gina](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Lollobrigida,Gina.md) 

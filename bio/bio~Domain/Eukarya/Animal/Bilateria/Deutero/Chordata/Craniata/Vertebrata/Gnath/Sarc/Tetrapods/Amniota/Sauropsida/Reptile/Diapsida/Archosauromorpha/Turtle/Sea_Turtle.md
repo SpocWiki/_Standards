@@ -37,8 +37,6 @@ start_time: -110000000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20turtle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sea_Turtle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle.md) 

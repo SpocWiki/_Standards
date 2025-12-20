@@ -55,8 +55,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/RITORIKA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhetoric) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rhetoric](/_Standards/Society/Anthropology/Humanities/Rhetoric.md) 

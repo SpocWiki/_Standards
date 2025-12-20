@@ -32,8 +32,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CCMDonation28.JPG
 > [Wikipedia](https://en.wikipedia.org/wiki/Mambo%20(dance)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mambo](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Mambo.md) 

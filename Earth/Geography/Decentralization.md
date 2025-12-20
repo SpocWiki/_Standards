@@ -35,8 +35,6 @@ Krugosvet_article: gosudarstvo-i-politika/detsentralizatsiya
 > [Wikipedia](https://en.wikipedia.org/wiki/Decentralization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decentralization](/_Standards/Earth/Geography/Decentralization.md) 

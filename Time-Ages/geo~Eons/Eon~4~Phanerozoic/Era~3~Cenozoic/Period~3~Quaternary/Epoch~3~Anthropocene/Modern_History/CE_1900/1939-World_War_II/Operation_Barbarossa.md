@@ -80,9 +80,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Operation%20Barbarossa)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Operation_Barbarossa](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.md) 

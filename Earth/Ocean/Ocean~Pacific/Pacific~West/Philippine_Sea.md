@@ -77,8 +77,6 @@ Commons_category: Philippine Sea
 > [Wikipedia](https://en.wikipedia.org/wiki/Philippine%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Philippine_Sea](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.md) 

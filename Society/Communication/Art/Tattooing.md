@@ -62,8 +62,6 @@ Library_of_Congress_Classification: GN419.3
 > [Wikipedia](https://en.wikipedia.org/wiki/Tattoo)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tattooing](/_Standards/Society/Communication/Art/Tattooing.md) 

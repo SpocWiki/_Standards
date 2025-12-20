@@ -36,9 +36,6 @@ Library_of_Congress_Classification: PN2071.I5
 > [Wikipedia](https://en.wikipedia.org/wiki/Improvisational%20theatre) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Improvisational_Theatre](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.md) 

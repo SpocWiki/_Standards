@@ -72,8 +72,6 @@ Commons_category: DRAM
 > [Wikipedia](https://en.wikipedia.org/wiki/Dynamic%20random-access%20memory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory)](/_Standards/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).md) 

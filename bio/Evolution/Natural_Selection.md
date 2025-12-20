@@ -107,8 +107,6 @@ Provenio_UUID: 61bceeec-d304-4d5e-b7a5-17511b66ba61
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20selection) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Natural_Selection](/_Standards/bio/Evolution/Natural_Selection.md) 

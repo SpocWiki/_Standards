@@ -51,8 +51,6 @@ OpenStreetMap_tag: landuse=orchard
 > [Wikipedia](https://en.wikipedia.org/wiki/Orchard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orchard](/_Standards/Society/Economics/Industry/Agriculture/Farm/Orchard.md) 

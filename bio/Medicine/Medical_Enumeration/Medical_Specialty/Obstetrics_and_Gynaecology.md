@@ -46,8 +46,6 @@ OpenStreetMap_tag: healthcare:speciality=gynaecology
 > [Wikipedia](https://en.wikipedia.org/wiki/Obstetrics%20and%20gynaecology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Obstetrics_and_Gynaecology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Obstetrics_and_Gynaecology.md) 

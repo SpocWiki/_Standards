@@ -148,8 +148,6 @@ Instagram_username: franzbeckenbauer
 > [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Beckenbauer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Beckenbauer,Franz](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckenbauer,Franz.md) 

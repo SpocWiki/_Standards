@@ -21,8 +21,6 @@ has_id_wikidata: Q42070
 > [Wikipedia](https://en.wikipedia.org/wiki/Gobi%20Desert) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gobi_Desert](/_Standards/Earth/Continent/Asia/Asia~East/Gobi_Desert.md) 

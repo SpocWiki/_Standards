@@ -58,8 +58,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Solstic
 > [Wikipedia](https://en.wikipedia.org/wiki/Solstice) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solstice](/_Standards/ISO/Calendar/Solstice.md) 

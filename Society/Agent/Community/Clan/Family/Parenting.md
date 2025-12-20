@@ -68,8 +68,6 @@ Library_of_Congress_Classification: HQ768-HQ778.7
 > [Wikipedia](https://en.wikipedia.org/wiki/Parenting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parenting](/_Standards/Society/Agent/Community/Clan/Family/Parenting.md) 

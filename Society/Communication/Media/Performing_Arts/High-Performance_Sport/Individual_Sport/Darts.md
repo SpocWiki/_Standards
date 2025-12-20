@@ -52,8 +52,6 @@ OpenStreetMap_tag_or_key: Tag:sport=darts
 > [Wikipedia](https://en.wikipedia.org/wiki/Darts) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Darts](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.md) 

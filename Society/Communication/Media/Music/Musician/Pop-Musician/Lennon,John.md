@@ -241,8 +241,6 @@ date_of_birth: 1940-10-09T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Lennon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lennon,John](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Lennon,John.md) 

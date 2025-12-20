@@ -62,8 +62,6 @@ Commons_category: Nationality
 > [Wikipedia](https://en.wikipedia.org/wiki/Nationality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nationality](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nationality.md) 

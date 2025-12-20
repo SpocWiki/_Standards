@@ -27,8 +27,6 @@ has_id_wikidata: Q1327500
 > [Wikipedia](https://en.wikipedia.org/wiki/Electronic%20musical%20instrument) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electronic_Musical_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Electronic_Musical_Instrument.md) 

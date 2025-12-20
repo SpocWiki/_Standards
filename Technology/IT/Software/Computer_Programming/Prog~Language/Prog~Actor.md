@@ -43,7 +43,6 @@ The placement process in Orleans is fully configurable. Developers can choose fr
 Reminders are a durable scheduling mechanism for grains.
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Actor](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Actor.md) 

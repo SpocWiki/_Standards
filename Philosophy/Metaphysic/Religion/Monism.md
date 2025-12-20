@@ -57,8 +57,6 @@ Commons_category: Monism
 > [Wikipedia](https://en.wikipedia.org/wiki/Monism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monism](/_Standards/Philosophy/Metaphysic/Religion/Monism.md) 

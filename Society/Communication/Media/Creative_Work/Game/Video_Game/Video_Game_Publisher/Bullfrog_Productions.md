@@ -33,8 +33,6 @@ dissolved_abolished_or_demolished_date: 2001-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Bullfrog%20Productions) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bullfrog_Productions](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Bullfrog_Productions.md) 

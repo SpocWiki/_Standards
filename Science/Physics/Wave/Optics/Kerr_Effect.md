@@ -37,8 +37,6 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "KerrEffect"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Kerr%20effect) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kerr_Effect](/_Standards/Science/Physics/Wave/Optics/Kerr_Effect.md) 

@@ -158,9 +158,6 @@ Krugosvet_article_archived_: istoriya/TIBERI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Tiberius)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tiberius](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.md) 

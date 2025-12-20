@@ -83,8 +83,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/GUGENOTI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Huguenots) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Huguenots](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.md) 

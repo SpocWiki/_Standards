@@ -44,8 +44,6 @@ uses: "[[_Standards/WikiData/WD~error_correction_code,55611017]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Error%20correction%20code) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Forward_Error_Correction](/_Standards/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.md) 

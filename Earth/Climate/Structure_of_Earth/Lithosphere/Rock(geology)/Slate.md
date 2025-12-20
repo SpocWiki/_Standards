@@ -20,8 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Slate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Slate](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.md) 

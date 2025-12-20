@@ -42,8 +42,6 @@ Provenio_UUID: c5d81c18-7514-4a50-8115-dd232c60c154
 > [Wikipedia](https://en.wikipedia.org/wiki/Despotism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Despotism](/_Standards/Society/Politics/Government/Despotism.md) 

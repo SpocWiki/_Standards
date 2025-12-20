@@ -52,8 +52,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Extended%20Backus%E2%80%93Naur%20form)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [BNF(Backus–Naur_Form)](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).md) 

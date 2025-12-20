@@ -43,8 +43,6 @@ This is a [[BiVector]] which can be generalized to N-1-Blades in [[../../../Geom
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudovector) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pseudovector](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector.md) 

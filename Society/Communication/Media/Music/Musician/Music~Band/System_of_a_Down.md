@@ -76,8 +76,6 @@ VK_username: soad_band
 > [Wikipedia](https://en.wikipedia.org/wiki/System%20of%20a%20Down) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [System_of_a_Down](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.md) 

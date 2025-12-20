@@ -80,8 +80,6 @@ different_from: "[[_Standards/WikiData/WD~Wzmocnienie,9381126]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Gain%20(electronics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gain](/_Standards/Technology/Tool/Electronic_Amplifier/Gain.md) 

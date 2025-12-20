@@ -63,8 +63,6 @@ the latter is the Property to assign the Value for this Dimension
 > [Wikipedia](https://en.wikipedia.org/wiki/Longitude) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Longitude](/_Standards/Dimension/Angular_Dimension/Longitude.md) 

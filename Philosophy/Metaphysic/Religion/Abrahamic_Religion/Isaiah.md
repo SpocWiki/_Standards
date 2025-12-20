@@ -83,8 +83,6 @@ ISNI: "0000000096742658"
 > [Wikipedia](https://en.wikipedia.org/wiki/Isaiah) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Isaiah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.md) 

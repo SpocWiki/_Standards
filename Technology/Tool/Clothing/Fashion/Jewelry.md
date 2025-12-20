@@ -69,8 +69,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schmu
 > [Wikipedia](https://en.wikipedia.org/wiki/Jewellery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jewelry](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry.md) 

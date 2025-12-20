@@ -119,8 +119,6 @@ OpenStreetMap_key: addr:street
 > [Wikipedia](https://en.wikipedia.org/wiki/Street) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Street](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.md) 

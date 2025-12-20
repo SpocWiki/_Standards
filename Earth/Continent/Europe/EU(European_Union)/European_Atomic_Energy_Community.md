@@ -52,8 +52,6 @@ short_name: Euratom
 > [Wikipedia](https://en.wikipedia.org/wiki/Euratom) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Atomic_Energy_Community](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.md) 

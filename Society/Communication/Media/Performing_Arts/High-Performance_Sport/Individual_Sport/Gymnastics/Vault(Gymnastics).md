@@ -28,11 +28,6 @@ Commons_category: Vault (gymnastics)
 > [Wikipedia](https://en.wikipedia.org/wiki/Vault%20(gymnastics)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vault(Gymnastics)](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).md) 

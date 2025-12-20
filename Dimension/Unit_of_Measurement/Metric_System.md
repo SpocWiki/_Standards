@@ -36,8 +36,6 @@ MeSH_tree_code: E05.978.539
 > [Wikipedia](https://en.wikipedia.org/wiki/Metric%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metric_System](/_Standards/Dimension/Unit_of_Measurement/Metric_System.md) 

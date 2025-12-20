@@ -58,8 +58,6 @@ IMDb_keyword: heterosexual-sex
 > [Wikipedia](https://en.wikipedia.org/wiki/Heterosexuality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heterosexuality](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Heterosexuality.md) 

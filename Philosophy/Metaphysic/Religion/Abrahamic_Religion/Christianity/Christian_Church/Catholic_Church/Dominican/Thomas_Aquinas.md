@@ -185,8 +185,6 @@ ISNI: "0000000453792101"
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Aquinas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thomas_Aquinas](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Thomas_Aquinas.md) 

@@ -70,8 +70,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ninja%20The%20Last%20T
 > [Wikipedia](https://en.wikipedia.org/wiki/Ninja) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ninja](/_Standards/Society/Military/Military_Operation/Espionage/Spy/Ninja.md) 

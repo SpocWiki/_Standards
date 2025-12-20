@@ -59,8 +59,6 @@ name_in_native_language: Κύκλωπες
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyclopes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cyclops](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cyclops.md) 

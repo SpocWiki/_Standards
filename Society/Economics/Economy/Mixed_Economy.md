@@ -25,8 +25,6 @@ has_id_wikidata: Q191675
 > [Wikipedia](https://en.wikipedia.org/wiki/Mixed%20economy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mixed_Economy](/_Standards/Society/Economics/Economy/Mixed_Economy.md) 

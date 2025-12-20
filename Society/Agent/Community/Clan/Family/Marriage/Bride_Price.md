@@ -48,8 +48,6 @@ Commons_category: Bridewealth
 > [Wikipedia](https://en.wikipedia.org/wiki/Bride%20price) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bride_Price](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Bride_Price.md) 

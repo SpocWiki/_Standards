@@ -47,8 +47,6 @@ nickname: Meezer
 > [Wikipedia](https://en.wikipedia.org/wiki/Siamese%20cat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Siamese_Cat](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Felis/Cat/Siamese_Cat.md) 

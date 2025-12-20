@@ -49,8 +49,6 @@ Commons_category: Transhumanism
 > [Wikipedia](https://en.wikipedia.org/wiki/Transhumanism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Transhumanism](/_Standards/Philosophy/Humanism/Transhumanism.md) 

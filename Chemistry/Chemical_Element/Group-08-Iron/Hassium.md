@@ -63,8 +63,6 @@ DSSTOX_compound_identifier: DTXCID601323015
 > [Wikipedia](https://en.wikipedia.org/wiki/Hassium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hassium](/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium.md) 

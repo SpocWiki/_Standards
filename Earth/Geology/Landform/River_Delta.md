@@ -38,8 +38,6 @@ Commons_category: River deltas
 > [Wikipedia](https://en.wikipedia.org/wiki/River%20delta) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [River_Delta](/_Standards/Earth/Geology/Landform/River_Delta.md) 

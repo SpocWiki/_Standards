@@ -35,8 +35,6 @@ coordinate_location: Point(15.873611 48.875833)
 > [Wikipedia](https://en.wikipedia.org/wiki/Iron%20Curtain) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1945-Iron_Curtain-1991](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.md) 

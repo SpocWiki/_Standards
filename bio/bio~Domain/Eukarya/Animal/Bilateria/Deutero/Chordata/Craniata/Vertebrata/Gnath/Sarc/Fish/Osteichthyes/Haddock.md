@@ -77,8 +77,6 @@ NBN_System_Key: NBNSYS0000176397
 > [Wikipedia](https://en.wikipedia.org/wiki/Haddock) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Haddock](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes/Haddock.md) 

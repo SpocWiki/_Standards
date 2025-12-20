@@ -41,8 +41,6 @@ Commons_category: Root vegetables
 > [Wikipedia](https://en.wikipedia.org/wiki/Root%20vegetable) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Root_Vegetable](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.md) 

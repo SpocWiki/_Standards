@@ -46,9 +46,6 @@ Commons_category: Halo phenomena
 > [Wikipedia](https://en.wikipedia.org/wiki/Halo%20(optical%20phenomenon)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Halo](/_Standards/Earth/Climate/Atmosphere,Earth/Halo.md) 

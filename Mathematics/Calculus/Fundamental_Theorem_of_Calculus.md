@@ -47,8 +47,6 @@ Commons_category: Fundamental theorem of calculus
 > [Wikipedia](https://en.wikipedia.org/wiki/Fundamental%20theorem%20of%20calculus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fundamental_Theorem_of_Calculus](/_Standards/Mathematics/Calculus/Fundamental_Theorem_of_Calculus.md) 

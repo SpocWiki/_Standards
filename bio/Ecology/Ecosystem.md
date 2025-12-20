@@ -82,8 +82,6 @@ IPTC_NewsCode: mediatopic/20000442
 > [Wikipedia](https://en.wikipedia.org/wiki/Ecosystem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ecosystem](/_Standards/bio/Ecology/Ecosystem.md) 

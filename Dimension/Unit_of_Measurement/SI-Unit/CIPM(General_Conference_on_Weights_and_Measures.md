@@ -24,8 +24,6 @@ has_id_wikidata: Q616838
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20Conference%20on%20Weights%20and%20Measures) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CIPM(General_Conference_on_Weights_and_Measures](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures.md) 

@@ -57,8 +57,6 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yom%20Kippur) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Yom_Kippur](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.md) 

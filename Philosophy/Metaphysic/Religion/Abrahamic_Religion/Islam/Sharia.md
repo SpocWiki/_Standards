@@ -79,8 +79,6 @@ name_in_native_language: شَرِيعَةٌ
 > [Wikipedia](https://en.wikipedia.org/wiki/Sharia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sharia](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sharia.md) 

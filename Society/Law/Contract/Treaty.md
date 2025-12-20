@@ -110,8 +110,6 @@ Commons_category: Treaties
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Treaty](/_Standards/Society/Law/Contract/Treaty.md) 

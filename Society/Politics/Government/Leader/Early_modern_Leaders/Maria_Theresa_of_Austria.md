@@ -64,10 +64,6 @@ has_id_wikidata: Q131706
 > [Wikipedia](https://en.wikipedia.org/wiki/Maria%20Theresa) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maria_Theresa_of_Austria](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.md) 

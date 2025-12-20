@@ -122,8 +122,6 @@ official_name: eBay Inc.
 > [Wikipedia](https://en.wikipedia.org/wiki/EBay) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [EBay](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.md) 

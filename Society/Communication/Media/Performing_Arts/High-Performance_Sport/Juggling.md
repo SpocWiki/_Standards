@@ -27,8 +27,6 @@ has_id_wikidata: Q194326
 > [Wikipedia](https://en.wikipedia.org/wiki/Juggling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Juggling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.md) 

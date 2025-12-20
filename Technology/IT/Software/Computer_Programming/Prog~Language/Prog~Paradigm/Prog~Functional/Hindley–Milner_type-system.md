@@ -26,8 +26,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner%20type%20system)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hindley–Milner_type-system](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Hindley–Milner_type-system.md) 

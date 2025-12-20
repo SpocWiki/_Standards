@@ -47,8 +47,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20field) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dim~Magnetic_Flux_Density_B](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B.md) 

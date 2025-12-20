@@ -46,7 +46,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20population%20v
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20overpopulation) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Human_Overpopulation](/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.md) 

@@ -44,8 +44,6 @@ time_of_discovery_or_invention: 1996-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Copernicium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Copernicium](/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.md) 

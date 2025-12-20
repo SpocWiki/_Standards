@@ -33,8 +33,6 @@ Commons_category: Molecular orbitals
 > [Wikipedia](https://en.wikipedia.org/wiki/Molecular%20orbital) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Molecular_Orbital](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.md) 

@@ -63,8 +63,6 @@ hashtag_: RockAndRoll
 > [Wikipedia](https://en.wikipedia.org/wiki/Rock%20and%20roll) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rock_and_Roll](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Rock_and_Roll.md) 

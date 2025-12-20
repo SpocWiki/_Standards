@@ -58,8 +58,6 @@ Krugosvet_article: nauka_i_tehnika/himiya/SLOZHNIE_EFIRI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Ester) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ester](/_Standards/Chemistry/Organic_Chemistry/Ester.md) 

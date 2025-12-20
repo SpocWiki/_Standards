@@ -73,8 +73,6 @@ Colon_Classification: Q:1
 > [Wikipedia](https://en.wikipedia.org/wiki/Myth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology.md) 

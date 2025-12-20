@@ -33,8 +33,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Vergara%20detalle%20fi
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Central%20America) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Central_America](/_Standards/Earth/Continent/America~Central/History_of_Central_America.md) 

@@ -24,10 +24,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Pascal%20(programming%20language))
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Pascal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Pascal.md) 

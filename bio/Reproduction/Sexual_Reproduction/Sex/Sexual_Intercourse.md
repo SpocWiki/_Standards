@@ -76,9 +76,6 @@ Commons_gallery: Sexual intercourse in humans
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20intercourse) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sexual_Intercourse](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Intercourse.md) 

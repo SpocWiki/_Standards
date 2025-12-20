@@ -44,8 +44,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Super-hydrophobic%20pa
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrophobe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hydrophobe](/_Standards/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.md) 

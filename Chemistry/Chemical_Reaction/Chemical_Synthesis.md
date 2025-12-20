@@ -52,8 +52,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20synthesis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Synthesis](/_Standards/Chemistry/Chemical_Reaction/Chemical_Synthesis.md) 

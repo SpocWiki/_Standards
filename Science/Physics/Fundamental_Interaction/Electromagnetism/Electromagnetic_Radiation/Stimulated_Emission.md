@@ -31,8 +31,6 @@ Commons_category: Stimulated emission
 > [Wikipedia](https://en.wikipedia.org/wiki/Stimulated%20emission) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stimulated_Emission](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Stimulated_Emission.md) 

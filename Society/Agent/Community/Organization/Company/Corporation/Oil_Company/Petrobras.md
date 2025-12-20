@@ -90,8 +90,6 @@ motto_text:
 > [Wikipedia](https://en.wikipedia.org/wiki/Petrobras) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Petrobras](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.md) 

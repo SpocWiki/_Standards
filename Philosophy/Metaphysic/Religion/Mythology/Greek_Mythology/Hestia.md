@@ -74,8 +74,6 @@ name_in_native_language:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hestia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hestia](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.md) 

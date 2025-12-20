@@ -173,8 +173,6 @@ work_period_start_: 1908-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean%20Cocteau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cocteau,Jean](/_Standards/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.md) 

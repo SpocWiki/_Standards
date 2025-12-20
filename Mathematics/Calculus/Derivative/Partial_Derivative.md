@@ -47,8 +47,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Partial%20derivative) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Partial_Derivative](/_Standards/Mathematics/Calculus/Derivative/Partial_Derivative.md) 

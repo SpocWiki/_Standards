@@ -49,8 +49,6 @@ GitHub_topic: photonics
 > [Wikipedia](https://en.wikipedia.org/wiki/Photonics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photonics](/_Standards/Science/Physics/Wave/Optics/Photonics.md) 

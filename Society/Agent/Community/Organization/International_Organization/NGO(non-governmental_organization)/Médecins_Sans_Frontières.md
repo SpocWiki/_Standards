@@ -99,9 +99,6 @@ Instagram_username: doctorswithoutborders
 > [Wikipedia](https://en.wikipedia.org/wiki/M%C3%A9decins%20Sans%20Fronti%C3%A8res) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Médecins_Sans_Frontières](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.md) 

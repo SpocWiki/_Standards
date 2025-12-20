@@ -171,8 +171,6 @@ Krugosvet_article_archived_: istoriya/FUKO_MISHEL.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Michel%20Foucault) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Foucault,Michel](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.md) 

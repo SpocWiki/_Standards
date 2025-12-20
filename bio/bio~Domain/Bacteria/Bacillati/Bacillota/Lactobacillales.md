@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Lactic%20acid%20bacteria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lactobacillales](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Lactobacillales.md) 

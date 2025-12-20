@@ -24,8 +24,6 @@ subclass_of: "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Casual%20sex) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Casual_Sex](/_Standards/Society/Agent/Community/Clan/Family/Casual_Sex.md) 

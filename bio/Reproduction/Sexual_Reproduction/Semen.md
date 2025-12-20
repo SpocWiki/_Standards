@@ -49,9 +49,6 @@ UMLS_CUI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Semen) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Semen](/_Standards/bio/Reproduction/Sexual_Reproduction/Semen.md) 

@@ -56,8 +56,6 @@ has_id_wikidata: Q39246
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Feynman)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Feynman,Richard](/_Standards/Science/Physics/Physicist/Feynman,Richard.md) 

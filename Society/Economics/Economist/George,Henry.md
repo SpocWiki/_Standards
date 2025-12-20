@@ -119,9 +119,6 @@ and only rents it out for max. 99 years.
 Germany has sold many public Housings between 1995 and 2010. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [George,Henry](/_Standards/Society/Economics/Economist/George,Henry.md) 

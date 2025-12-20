@@ -37,11 +37,6 @@ Commons_category: Puttin' On the Ritz
 > [Wikipedia](https://en.wikipedia.org/wiki/Puttin'%20On%20the%20Ritz) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Puttin'_on_the_Ritz](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Puttin'_on_the_Ritz.md) 

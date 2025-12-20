@@ -86,8 +86,6 @@ name_in_native_language:
 > [Wikipedia](https://en.wikipedia.org/wiki/Semiramis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Semiramis](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Semiramis.md) 

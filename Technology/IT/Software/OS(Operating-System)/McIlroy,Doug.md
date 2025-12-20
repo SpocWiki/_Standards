@@ -23,8 +23,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Douglas%20McIlroy)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [McIlroy,Doug](/_Standards/Technology/IT/Software/OS(Operating-System)/McIlroy,Doug.md) 

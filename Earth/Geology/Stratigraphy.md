@@ -51,8 +51,6 @@ Dewey_Decimal_Classification: "551.7"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stratigraphy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stratigraphy](/_Standards/Earth/Geology/Stratigraphy.md) 

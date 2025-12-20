@@ -77,8 +77,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SLOVAR.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictionary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dictionary](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Dictionary.md) 

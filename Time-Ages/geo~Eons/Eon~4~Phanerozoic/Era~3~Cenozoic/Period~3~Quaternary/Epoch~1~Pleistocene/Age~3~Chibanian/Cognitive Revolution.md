@@ -22,9 +22,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Behavioral%20modernity) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cognitive Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.md) 

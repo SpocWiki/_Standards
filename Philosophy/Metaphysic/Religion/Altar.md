@@ -47,8 +47,6 @@ EAGLE_id: decor/lod/44
 > [Wikipedia](https://en.wikipedia.org/wiki/Altar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Altar](/_Standards/Philosophy/Metaphysic/Religion/Altar.md) 

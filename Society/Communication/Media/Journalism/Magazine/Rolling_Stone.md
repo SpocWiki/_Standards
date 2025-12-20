@@ -111,8 +111,6 @@ Mastodon_address: RollingStone@mstdn.social
 > [Wikipedia](https://en.wikipedia.org/wiki/Rolling%20Stone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rolling_Stone](/_Standards/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.md) 

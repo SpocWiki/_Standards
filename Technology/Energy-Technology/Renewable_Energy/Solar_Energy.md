@@ -67,8 +67,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20energy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solar_Energy](/_Standards/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.md) 

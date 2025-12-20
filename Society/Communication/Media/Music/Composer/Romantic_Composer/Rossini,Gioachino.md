@@ -124,8 +124,6 @@ Libris_URI: ljx01rd432x86fs
 > [Wikipedia](https://en.wikipedia.org/wiki/Gioachino%20Rossini) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rossini,Gioachino](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.md) 

@@ -64,8 +64,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PESAH.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Passover) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Passover](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Passover.md) 

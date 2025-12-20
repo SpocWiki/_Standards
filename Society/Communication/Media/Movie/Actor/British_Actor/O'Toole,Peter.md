@@ -143,8 +143,6 @@ Plex_person_key: 5d7768276f4521001ea990c8
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20O'Toole) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [O'Toole,Peter](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/O'Toole,Peter.md) 

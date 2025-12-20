@@ -131,8 +131,6 @@ Wolfram_Language_entity_code: Entity["MusicAct", "JamesBrown::m5y3t"]
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Brown) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brown,James](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.md) 

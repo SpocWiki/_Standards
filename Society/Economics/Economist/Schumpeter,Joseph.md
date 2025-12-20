@@ -113,9 +113,6 @@ ISNI: "0000000121363669"
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Schumpeter) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schumpeter,Joseph](/_Standards/Society/Economics/Economist/Schumpeter,Joseph.md) 

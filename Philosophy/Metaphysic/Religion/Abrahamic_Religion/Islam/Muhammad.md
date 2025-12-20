@@ -191,8 +191,6 @@ ISNI: "0000000121032851"
 > [Wikipedia](https://en.wikipedia.org/wiki/Muhammad) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Muhammad](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad.md) 

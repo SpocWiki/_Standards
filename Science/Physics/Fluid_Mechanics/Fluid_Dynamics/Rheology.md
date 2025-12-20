@@ -63,8 +63,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Rheology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rheology](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Rheology.md) 

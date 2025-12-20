@@ -66,8 +66,6 @@ Commons_category: Infrastructure
 > [Wikipedia](https://en.wikipedia.org/wiki/Infrastructure) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Infrastructure](/_Standards/Society/Economics/Infrastructure.md) 

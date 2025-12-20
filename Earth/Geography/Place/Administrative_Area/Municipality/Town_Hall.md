@@ -61,8 +61,6 @@ name_in_kana: しちょうしゃ
 > [Wikipedia](https://en.wikipedia.org/wiki/Town%20hall) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Town_Hall](/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.md) 

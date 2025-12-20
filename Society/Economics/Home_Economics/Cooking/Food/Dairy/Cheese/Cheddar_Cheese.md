@@ -56,8 +56,6 @@ Library_of_Congress_Classification: SF272.C5
 > [Wikipedia](https://en.wikipedia.org/wiki/Cheddar%20cheese) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cheddar_Cheese](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Cheddar_Cheese.md) 

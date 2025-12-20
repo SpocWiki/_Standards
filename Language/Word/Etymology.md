@@ -60,8 +60,6 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/ETIMOLOGIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Etymology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Etymology](/_Standards/Language/Word/Etymology.md) 

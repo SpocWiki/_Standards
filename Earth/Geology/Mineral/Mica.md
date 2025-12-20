@@ -56,8 +56,6 @@ RTECS_number: VV8760000
 > [Wikipedia](https://en.wikipedia.org/wiki/Mica)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mica](/_Standards/Earth/Geology/Mineral/Mica.md) 

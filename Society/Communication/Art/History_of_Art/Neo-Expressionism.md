@@ -26,8 +26,6 @@ Commons_category: Neo-expressionism
 > [Wikipedia](https://en.wikipedia.org/wiki/Neo-expressionism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neo-Expressionism](/_Standards/Society/Communication/Art/History_of_Art/Neo-Expressionism.md) 

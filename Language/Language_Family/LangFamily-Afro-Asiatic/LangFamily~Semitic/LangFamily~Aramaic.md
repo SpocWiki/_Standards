@@ -89,9 +89,6 @@ Dewey_Decimal_Classification: "492.29"
 > [Wikipedia](https://en.wikipedia.org/wiki/Aramaic) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily~Aramaic](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.md) 

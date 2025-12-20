@@ -43,8 +43,6 @@ IPTC_NewsCode: mediatopic/20000932
 > [Wikipedia](https://en.wikipedia.org/wiki/Sabre) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saber](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Saber.md) 

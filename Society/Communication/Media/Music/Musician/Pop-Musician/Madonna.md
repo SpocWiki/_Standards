@@ -67,8 +67,6 @@ has_id_wikidata: Q1744
 > [Wikipedia](https://en.wikipedia.org/wiki/Madonna) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Madonna](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.md) 

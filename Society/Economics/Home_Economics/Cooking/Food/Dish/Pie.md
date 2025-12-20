@@ -39,8 +39,6 @@ has_id_wikidata: Q13360264
 > [Wikipedia](https://en.wikipedia.org/wiki/Pie) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pie](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pie.md) 

@@ -49,8 +49,6 @@ Commons_gallery: Sewing machine
 > [Wikipedia](https://en.wikipedia.org/wiki/Sewing%20machine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sewing_Machine](/_Standards/Technology/Tool/Home_Appliance/Sewing_Machine.md) 

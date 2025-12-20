@@ -46,8 +46,6 @@ Commons_category: Lorentz force
 > [Wikipedia](https://en.wikipedia.org/wiki/Lorentz%20force) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lorentz_Force](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.md) 

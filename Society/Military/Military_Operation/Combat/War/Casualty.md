@@ -30,8 +30,6 @@ vocalized_name: חָלָל
 > [Wikipedia](https://en.wikipedia.org/wiki/Casualty%20(person)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Casualty](/_Standards/Society/Military/Military_Operation/Combat/War/Casualty.md) 

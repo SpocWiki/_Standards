@@ -67,8 +67,6 @@ Dewey_Decimal_Classification: "364.162"
 > [Wikipedia](https://en.wikipedia.org/wiki/Theft) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theft](/_Standards/Society/Law/Criminal_Law/Crime/Theft.md) 

@@ -27,9 +27,6 @@ has_id_wikidata: Q18224
 > [Wikipedia](https://en.wikipedia.org/wiki/Maersk) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maersk](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Maersk.md) 

@@ -25,8 +25,6 @@ has_id_wikidata: Q13533728
 > [Wikipedia](https://en.wikipedia.org/wiki/Salt%20metathesis%20reaction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Double_Displacement_Reaction](/_Standards/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.md) 

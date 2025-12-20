@@ -125,8 +125,6 @@ U_S_National_Archives_Identifier: "10675282"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hammer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hammer](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Hammer.md) 

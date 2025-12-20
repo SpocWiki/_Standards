@@ -112,8 +112,6 @@ Bilibili_UID: "1038290200"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pokémon](/_Standards/Society/Communication/Media/Media_Franchise/Pokémon.md) 

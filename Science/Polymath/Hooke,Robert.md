@@ -158,8 +158,6 @@ Europeana_entity: agent/base/147024
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Hooke) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hooke,Robert](/_Standards/Science/Polymath/Hooke,Robert.md) 

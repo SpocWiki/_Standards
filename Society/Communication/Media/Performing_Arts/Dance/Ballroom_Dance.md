@@ -39,8 +39,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Ballroom%20dance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ballroom_Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.md) 

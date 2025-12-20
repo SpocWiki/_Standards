@@ -25,7 +25,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Liturgical%20year) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Christian_Holiday](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday.md) 

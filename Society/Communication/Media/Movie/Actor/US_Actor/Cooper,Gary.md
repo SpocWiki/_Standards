@@ -94,8 +94,6 @@ birth_name: Frank James Cooper
 > [Wikipedia](https://en.wikipedia.org/wiki/Gary%20Cooper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cooper,Gary](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.md) 

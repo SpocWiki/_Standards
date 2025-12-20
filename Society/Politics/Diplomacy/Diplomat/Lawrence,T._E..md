@@ -161,8 +161,6 @@ Libris_URI: jgvxsn523mnhbk3
 > [Wikipedia](https://en.wikipedia.org/wiki/T.%20E.%20Lawrence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lawrence,T._E.](/_Standards/Society/Politics/Diplomacy/Diplomat/Lawrence,T._E..md) 

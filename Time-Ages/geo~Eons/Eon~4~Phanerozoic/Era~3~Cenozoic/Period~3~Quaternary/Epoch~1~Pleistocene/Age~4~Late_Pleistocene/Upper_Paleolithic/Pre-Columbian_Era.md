@@ -31,8 +31,6 @@ Commons_category: Pre-Columbian era
 > [Wikipedia](https://en.wikipedia.org/wiki/Pre-Columbian%20era) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pre-Columbian_Era](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.md) 

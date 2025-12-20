@@ -68,8 +68,6 @@ Baidu_Tieba_name: 电子竞技
 > [Wikipedia](https://en.wikipedia.org/wiki/Esports) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Esports](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Esports.md) 

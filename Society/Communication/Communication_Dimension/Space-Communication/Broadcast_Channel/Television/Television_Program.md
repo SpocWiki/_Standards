@@ -77,8 +77,6 @@ Commons_category: Television programmes
 > [Wikipedia](https://en.wikipedia.org/wiki/Television%20show) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Television_Program](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.md) 

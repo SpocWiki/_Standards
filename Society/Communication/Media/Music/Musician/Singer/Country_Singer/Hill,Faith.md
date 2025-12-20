@@ -119,8 +119,6 @@ X_Twitter_username: FaithHill
 > [Wikipedia](https://en.wikipedia.org/wiki/Faith%20Hill) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hill,Faith](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.md) 

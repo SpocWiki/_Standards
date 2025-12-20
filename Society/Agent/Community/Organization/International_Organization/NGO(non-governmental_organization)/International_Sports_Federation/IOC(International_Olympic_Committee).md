@@ -116,8 +116,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Olympic%20Committee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IOC(International_Olympic_Committee)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee).md) 

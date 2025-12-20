@@ -83,8 +83,6 @@ Commons_compatible_image_available_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Celery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Celery](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Celery.md) 

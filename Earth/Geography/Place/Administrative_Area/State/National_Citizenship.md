@@ -72,8 +72,6 @@ Library_of_Congress_Classification: JF801
 > [Wikipedia](https://en.wikipedia.org/wiki/Citizenship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [National_Citizenship](/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.md) 

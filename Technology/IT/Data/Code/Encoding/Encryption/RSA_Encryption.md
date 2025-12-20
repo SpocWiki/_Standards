@@ -23,9 +23,6 @@ RSA relies on Prime Factor Decomposition and is therefore affected by [[Shor's_A
 > [Wikipedia](https://en.wikipedia.org/wiki/RSA%20cryptosystem) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [RSA_Encryption](/_Standards/Technology/IT/Data/Code/Encoding/Encryption/RSA_Encryption.md) 

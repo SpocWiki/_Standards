@@ -97,8 +97,6 @@ IPTC_NewsCode: mediatopic/20000942
 > [Wikipedia](https://en.wikipedia.org/wiki/Gymnastics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gymnastics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.md) 

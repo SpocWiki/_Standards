@@ -10,11 +10,6 @@ TPUs are designed by [[../../../../Society/Agent/Community/Organization/Company/
 > 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [TPU(Tensor_Processing_Unit)](/_Standards/Technology/IT/Computer_Hardware/Processor/TPU(Tensor_Processing_Unit).md) 

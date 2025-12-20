@@ -87,8 +87,6 @@ name_in_kana: ビジュアルアート
 > [Wikipedia](https://en.wikipedia.org/wiki/Visual%20arts) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Visual_Arts](/_Standards/Society/Communication/Art/Visual_Arts.md) 

@@ -37,8 +37,6 @@ Provenio_UUID: a0035593-f8b7-450b-89c7-f92233cf7fc0
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20technology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Technology](/_Standards/Technology/History_of_Technology.md) 

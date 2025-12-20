@@ -37,8 +37,6 @@ Commons_category: Social security
 > [Wikipedia](https://en.wikipedia.org/wiki/Welfare%20spending) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Security](/_Standards/Society/Politics/Government/Social_Security.md) 

@@ -31,8 +31,6 @@ has_id_wikidata: Q211841
 > [Wikipedia](https://en.wikipedia.org/wiki/Coffeemaker) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coffeemaker](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Coffeemaker.md) 

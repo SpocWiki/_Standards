@@ -80,8 +80,6 @@ coordinate_location: Point(-0.080277777 51.514444444)
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Gherkin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gherkin,London](/_Standards/Earth/Geography/Place/Gherkin,London.md) 

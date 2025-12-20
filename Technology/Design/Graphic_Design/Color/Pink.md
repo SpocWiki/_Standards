@@ -43,8 +43,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129
 > [Wikipedia](https://en.wikipedia.org/wiki/Pink) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pink](/_Standards/Technology/Design/Graphic_Design/Color/Pink.md) 

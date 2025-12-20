@@ -41,8 +41,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Animation%20of%20Orbit
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbital%20eccentricity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orbital_Eccentricity](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.md) 

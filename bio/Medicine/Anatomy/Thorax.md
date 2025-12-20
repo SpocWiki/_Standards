@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Thorax) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thorax](/_Standards/bio/Medicine/Anatomy/Thorax.md) 

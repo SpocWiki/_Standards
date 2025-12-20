@@ -41,8 +41,6 @@ native_label: 玉皇上帝
 > [Wikipedia](https://en.wikipedia.org/wiki/Jade%20Emperor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jade_Emperor](/_Standards/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.md) 

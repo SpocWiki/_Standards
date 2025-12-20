@@ -68,8 +68,6 @@ name_in_native_language: Joseph Stefan
 > [Wikipedia](https://en.wikipedia.org/wiki/Josef%20Stefan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stefan,Josef](/_Standards/Science/Physics/Physicist/Stefan,Josef.md) 

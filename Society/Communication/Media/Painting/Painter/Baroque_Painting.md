@@ -28,10 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Baroque%20painting) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Baroque_Painting](/_Standards/Society/Communication/Media/Painting/Painter/Baroque_Painting.md) 

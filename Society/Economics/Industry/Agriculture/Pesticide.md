@@ -63,8 +63,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Condor%20landbouwspuit
 > [Wikipedia](https://en.wikipedia.org/wiki/Pesticide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pesticide](/_Standards/Society/Economics/Industry/Agriculture/Pesticide.md) 

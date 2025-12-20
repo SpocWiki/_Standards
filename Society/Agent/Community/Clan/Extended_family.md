@@ -31,8 +31,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Extended%20family) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Extended_family](/_Standards/Society/Agent/Community/Clan/Extended_family.md) 

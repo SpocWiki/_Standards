@@ -26,9 +26,6 @@ impl Component for Model {
 ```
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~yew](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~yew.md) 

@@ -79,8 +79,6 @@ Commons_gallery: Dynamical system
 > [Wikipedia](https://en.wikipedia.org/wiki/Dynamical%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dynamical_System](/_Standards/Mathematics/Dynamical_System.md) 

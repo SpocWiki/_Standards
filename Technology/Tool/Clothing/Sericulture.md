@@ -63,8 +63,6 @@ Commons_category: Sericulture
 > [Wikipedia](https://en.wikipedia.org/wiki/Sericulture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sericulture](/_Standards/Technology/Tool/Clothing/Sericulture.md) 

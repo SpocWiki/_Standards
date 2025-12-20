@@ -47,8 +47,6 @@ Commons_category: Polar vortex
 > [Wikipedia](https://en.wikipedia.org/wiki/Polar%20vortex) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polar_Vortex](/_Standards/Earth/Climate/Polar_Vortex.md) 

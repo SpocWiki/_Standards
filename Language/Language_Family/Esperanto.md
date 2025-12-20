@@ -158,8 +158,6 @@ OpenStreetMap_tag_or_key:
 > [Wikipedia](https://en.wikipedia.org/wiki/Esperanto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Esperanto](/_Standards/Language/Language_Family/Esperanto.md) 

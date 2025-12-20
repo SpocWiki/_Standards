@@ -61,8 +61,6 @@ end_time: 1780-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Rococo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rococo](/_Standards/Society/Communication/Art/Art_History/Rococo.md) 

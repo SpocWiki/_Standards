@@ -51,8 +51,6 @@ native_label: उपनिषद्
 > [Wikipedia](https://en.wikipedia.org/wiki/Upanishads) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Upanishads](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.md) 

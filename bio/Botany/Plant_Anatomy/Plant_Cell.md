@@ -40,9 +40,6 @@ Commons_category: Plant cells
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20cell) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plant_Cell](/_Standards/bio/Botany/Plant_Anatomy/Plant_Cell.md) 

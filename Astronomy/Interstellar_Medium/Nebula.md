@@ -24,8 +24,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Nebula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nebula](/_Standards/Astronomy/Interstellar_Medium/Nebula.md) 

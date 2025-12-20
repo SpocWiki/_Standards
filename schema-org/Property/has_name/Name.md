@@ -76,8 +76,6 @@ Wikidata_usage_instructions:
 > [Wikipedia](https://en.wikipedia.org/wiki/Name) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Name](/_Standards/schema-org/Property/has_name/Name.md) 

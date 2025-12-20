@@ -36,9 +36,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Cognac) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cognac](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Cognac.md) 

@@ -105,8 +105,6 @@ P8189: "987007449990205171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Clark%20Gable) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gable,Clark](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Gable,Clark.md) 

@@ -58,8 +58,6 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Trail) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trail](/_Standards/Technology/Transport/Road_Transport/Trail.md) 

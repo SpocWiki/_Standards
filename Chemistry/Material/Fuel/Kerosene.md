@@ -100,8 +100,6 @@ RTECS_number: OA5500000
 > [Wikipedia](https://en.wikipedia.org/wiki/Kerosene) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kerosene](/_Standards/Chemistry/Material/Fuel/Kerosene.md) 

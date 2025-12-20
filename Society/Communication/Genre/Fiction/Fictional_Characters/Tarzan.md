@@ -97,8 +97,6 @@ IMDb_keyword: reference-to-tarzan
 > [Wikipedia](https://en.wikipedia.org/wiki/Tarzan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tarzan](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.md) 

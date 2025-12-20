@@ -49,9 +49,6 @@ Commons_category: Polish-Russian War 1609-1618
 > [Wikipedia](https://en.wikipedia.org/wiki/Polish%E2%80%93Russian%20War%20(1609%E2%80%931618)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1605-Polish–Muscovite_War-1618](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1605-Polish–Muscovite_War-1618.md) 

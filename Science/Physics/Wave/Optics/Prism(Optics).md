@@ -36,8 +36,6 @@ Commons_category: Prisms (optics)
 > [Wikipedia](https://en.wikipedia.org/wiki/Prism%20(optics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prism(Optics)](/_Standards/Science/Physics/Wave/Optics/Prism(Optics).md) 

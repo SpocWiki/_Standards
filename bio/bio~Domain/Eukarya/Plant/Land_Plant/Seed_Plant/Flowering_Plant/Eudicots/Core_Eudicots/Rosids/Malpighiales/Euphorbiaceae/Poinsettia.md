@@ -85,8 +85,6 @@ taxon_author_citation: Willd. ex Klotzsch
 > [Wikipedia](https://en.wikipedia.org/wiki/Poinsettia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poinsettia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Euphorbiaceae/Poinsettia.md) 

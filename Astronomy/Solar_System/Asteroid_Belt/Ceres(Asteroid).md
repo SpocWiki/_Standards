@@ -46,23 +46,19 @@ has_id_wikidata: Q596
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceres%20(dwarf%20planet)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ceres(Asteroid)](Ceres(Asteroid).md) 
+### #is_/same_as :: [Ceres(Asteroid)](/_Standards/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).md) 
 
-### #is_/same_as :: [Ceres.public](/_public/Astronomy/Solar_System/Asteroid_Belt/Ceres.public.md) 
+### #is_/same_as :: [Ceres(Asteroid).public](/_public/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).public.md) 
 
-### #is_/same_as :: [Ceres.internal](/_internal/Astronomy/Solar_System/Asteroid_Belt/Ceres.internal.md) 
+### #is_/same_as :: [Ceres(Asteroid).internal](/_internal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).internal.md) 
 
-### #is_/same_as :: [Ceres.protect](/_protect/Astronomy/Solar_System/Asteroid_Belt/Ceres.protect.md) 
+### #is_/same_as :: [Ceres(Asteroid).protect](/_protect/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).protect.md) 
 
-### #is_/same_as :: [Ceres.private](/_private/Astronomy/Solar_System/Asteroid_Belt/Ceres.private.md) 
+### #is_/same_as :: [Ceres(Asteroid).private](/_private/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).private.md) 
 
-### #is_/same_as :: [Ceres.personal](/_personal/Astronomy/Solar_System/Asteroid_Belt/Ceres.personal.md) 
+### #is_/same_as :: [Ceres(Asteroid).personal](/_personal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).personal.md) 
 
-### #is_/same_as :: [Ceres.secret](/_secret/Astronomy/Solar_System/Asteroid_Belt/Ceres.secret.md)
+### #is_/same_as :: [Ceres(Asteroid).secret](/_secret/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).secret.md)
 

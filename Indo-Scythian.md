@@ -52,8 +52,6 @@ has_id_wikidata: Q240123
 > [Wikipedia](https://en.wikipedia.org/wiki/Indo-Scythians) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Indo-Scythian](/_Standards/Indo-Scythian.md) 

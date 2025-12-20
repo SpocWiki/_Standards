@@ -157,8 +157,6 @@ P8189: "987007546150905171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Singing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Singer](/_Standards/Society/Communication/Media/Music/Musician/Singer.md) 

@@ -70,8 +70,6 @@ Unicode_character: 🤥
 > [Wikipedia](https://en.wikipedia.org/wiki/Lie) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lie](/_Standards/Society/Law/Criminal_Law/Crime/Deception/Lie.md) 

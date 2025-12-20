@@ -126,8 +126,6 @@ official_website: https://www.rogerfederer.com/
 > [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Federer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Federer,Roger](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.md) 

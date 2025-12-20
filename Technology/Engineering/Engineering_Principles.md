@@ -51,11 +51,6 @@ The double Maintenance is annoying, but it drastically reduces risk and increase
 One Argument for Business Re-Engineering is [[Shakedown]]. 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Engineering_Principles](/_Standards/Technology/Engineering/Engineering_Principles.md) 

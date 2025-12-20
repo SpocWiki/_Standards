@@ -141,8 +141,6 @@ Europeana_entity: agent/base/145434
 > [Wikipedia](https://en.wikipedia.org/wiki/Judith%20Butler) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Butler,Judith](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.md) 

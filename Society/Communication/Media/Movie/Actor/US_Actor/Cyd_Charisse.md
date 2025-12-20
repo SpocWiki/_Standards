@@ -82,8 +82,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyd%20Charisse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cyd_Charisse](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.md) 

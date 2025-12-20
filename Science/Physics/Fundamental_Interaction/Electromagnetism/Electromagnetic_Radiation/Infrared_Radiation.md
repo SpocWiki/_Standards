@@ -69,8 +69,6 @@ Commons_category: Infrared
 > [Wikipedia](https://en.wikipedia.org/wiki/Infrared) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Infrared_Radiation](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Infrared_Radiation.md) 

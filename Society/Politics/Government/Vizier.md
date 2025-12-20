@@ -50,8 +50,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q175240-
 > [Wikipedia](https://en.wikipedia.org/wiki/Vizier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vizier](/_Standards/Society/Politics/Government/Vizier.md) 

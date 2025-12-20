@@ -56,8 +56,6 @@ coordinate_location: Point(22.0 42.0)
 > [Wikipedia](https://en.wikipedia.org/wiki/Ottoman%20wars%20in%20Europe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ottoman_Wars_in_Europe](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922/Ottoman_Wars_in_Europe.md) 

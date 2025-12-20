@@ -32,8 +32,6 @@ Archive_of_Our_Own_tag: Sexual Assault
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20assault) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sexual_Assault](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Assault.md) 

@@ -54,8 +54,6 @@ Unicode_character: 🐉
 > [Wikipedia](https://en.wikipedia.org/wiki/Azure%20Dragon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Azure_Dragon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.md) 

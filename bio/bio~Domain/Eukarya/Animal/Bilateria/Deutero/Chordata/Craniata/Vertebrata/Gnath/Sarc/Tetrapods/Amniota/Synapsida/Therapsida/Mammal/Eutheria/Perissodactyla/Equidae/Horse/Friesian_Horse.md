@@ -36,8 +36,6 @@ Commons_category: Friesian Horse
 > [Wikipedia](https://en.wikipedia.org/wiki/Friesian%20horse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Friesian_Horse](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Friesian_Horse.md) 

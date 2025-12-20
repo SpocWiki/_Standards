@@ -56,10 +56,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LADI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Mode%20(music)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mode(Music)](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Mode(Music).md) 

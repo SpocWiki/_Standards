@@ -54,8 +54,6 @@ UNII: X72Z47861V
 > [Wikipedia](https://en.wikipedia.org/wiki/Paprika) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paprika](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Paprika.md) 

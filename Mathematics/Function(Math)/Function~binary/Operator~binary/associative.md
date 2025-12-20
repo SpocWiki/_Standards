@@ -106,11 +106,6 @@ a^(b ^ c)  !=  (a ^ b) ^ c = a^(b * c)
 > [Wikipedia](https://en.wikipedia.org/wiki/Associative%20property)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [associative](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.md) 

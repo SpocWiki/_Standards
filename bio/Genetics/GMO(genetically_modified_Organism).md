@@ -70,8 +70,6 @@ MeSH_tree_code: B05.620
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetically%20modified%20organism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GMO(genetically_modified_Organism)](/_Standards/bio/Genetics/GMO(genetically_modified_Organism).md) 

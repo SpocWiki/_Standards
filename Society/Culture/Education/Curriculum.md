@@ -20,8 +20,6 @@ has_id_wikidata: Q207137
 > [Wikipedia](https://en.wikipedia.org/wiki/Curriculum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Curriculum](/_Standards/Society/Culture/Education/Curriculum.md) 

@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Viola) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Viola](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.md) 

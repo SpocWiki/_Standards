@@ -99,8 +99,6 @@ ISNI: "0000000116616596"
 > [Wikipedia](https://en.wikipedia.org/wiki/Zoroaster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zoroaster](/_Standards/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.md) 

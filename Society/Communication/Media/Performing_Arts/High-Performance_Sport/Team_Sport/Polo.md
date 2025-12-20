@@ -54,8 +54,6 @@ Colon_Classification: MY2146
 > [Wikipedia](https://en.wikipedia.org/wiki/Polo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.md) 

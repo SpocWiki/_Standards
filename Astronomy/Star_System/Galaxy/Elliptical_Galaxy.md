@@ -32,8 +32,6 @@ Commons_category: Elliptical galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Elliptical%20galaxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Elliptical_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.md) 

@@ -9,8 +9,6 @@ Actually Li(x) = Int(2,x, 1/Ln(x)) approximates the Distribution much better, bu
 than x / Ln(x) which approximates it from above. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gauss’s_Prime_Number_Conjecture](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich/Gauss’s_Prime_Number_Conjecture.md) 

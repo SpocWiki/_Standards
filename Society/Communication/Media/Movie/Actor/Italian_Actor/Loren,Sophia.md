@@ -140,8 +140,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/LOREN_SOFIYA.htm
 > [Wikipedia](https://en.wikipedia.org/wiki/Sophia%20Loren) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Loren,Sophia](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.md) 

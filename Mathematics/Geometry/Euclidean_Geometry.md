@@ -62,8 +62,6 @@ Commons_category: Euclidean geometry
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20geometry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euclidean_Geometry](/_Standards/Mathematics/Geometry/Euclidean_Geometry.md) 

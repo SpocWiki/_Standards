@@ -33,8 +33,6 @@ Baidu_Tieba_name: 红酒
 > [Wikipedia](https://en.wikipedia.org/wiki/Red%20wine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Red_Wine](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Red_Wine.md) 

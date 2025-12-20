@@ -41,8 +41,6 @@ Baidu_Tieba_name: 格力犬
 > [Wikipedia](https://en.wikipedia.org/wiki/Greyhound) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greyhound](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Greyhound.md) 

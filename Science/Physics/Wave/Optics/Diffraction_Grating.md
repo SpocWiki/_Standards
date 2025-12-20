@@ -35,8 +35,6 @@ Commons_category: Diffraction gratings
 > [Wikipedia](https://en.wikipedia.org/wiki/Diffraction%20grating) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diffraction_Grating](/_Standards/Science/Physics/Wave/Optics/Diffraction_Grating.md) 

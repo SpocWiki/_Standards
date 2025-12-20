@@ -69,8 +69,6 @@ UMLS_CUI: C0030797
 > [Wikipedia](https://en.wikipedia.org/wiki/Pelvis)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pelvis](/_Standards/bio/Medicine/Anatomy/Skeleton/Pelvis.md) 

@@ -158,8 +158,6 @@ date_of_birth: 1907-05-22T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Laurence%20Olivier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Olivier,Laurence](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.md) 

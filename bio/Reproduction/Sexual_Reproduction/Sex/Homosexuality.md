@@ -78,8 +78,6 @@ UMLS_CUI: C0019899
 > [Wikipedia](https://en.wikipedia.org/wiki/Homosexuality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Homosexuality](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Homosexuality.md) 

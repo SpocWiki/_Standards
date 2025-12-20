@@ -77,8 +77,6 @@ UMLS_CUI: C0017426
 > [Wikipedia](https://en.wikipedia.org/wiki/Genocide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Genocide](/_Standards/Society/Military/Military_Operation/Combat/Genocide.md) 

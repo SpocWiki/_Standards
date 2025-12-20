@@ -144,8 +144,6 @@ Library_of_Congress_Classification: RC147.H6
 > [Wikipedia](https://en.wikipedia.org/wiki/Herpes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Herpes_Simplex](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.md) 

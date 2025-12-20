@@ -28,8 +28,6 @@ Commons_category: Macromolecules
 > [Wikipedia](https://en.wikipedia.org/wiki/Macromolecule) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Macromolecule](/_Standards/Chemistry/Organic_Chemistry/Macromolecule.md) 

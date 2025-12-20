@@ -46,8 +46,6 @@ Dewey_Decimal_Classification: "620.105"
 > [Wikipedia](https://en.wikipedia.org/wiki/Strength%20of%20materials) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Strength_of_Material](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.md) 

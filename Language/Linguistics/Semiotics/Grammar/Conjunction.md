@@ -50,8 +50,6 @@ entry_in_abbreviations_table:
 > [Wikipedia](https://en.wikipedia.org/wiki/Conjunction%20(grammar)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conjunction](/_Standards/Language/Linguistics/Semiotics/Grammar/Conjunction.md) 

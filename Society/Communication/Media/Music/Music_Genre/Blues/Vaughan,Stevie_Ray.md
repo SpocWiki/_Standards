@@ -99,8 +99,6 @@ Europeana_entity: agent/base/61533
 > [Wikipedia](https://en.wikipedia.org/wiki/Stevie%20Ray%20Vaughan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vaughan,Stevie_Ray](/_Standards/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.md) 

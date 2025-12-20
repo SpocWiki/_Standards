@@ -13,8 +13,6 @@ Manfred Mann's arrangement features classical Elements e.g. the "Fi-ga-ro"  [[..
 and the Keyboard Chopstick Harmonization before the finale, both with [[../../../Music_Theory/Syncopation]]. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Blinded_by_the_Light](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band/Blinded_by_the_Light.md) 

@@ -49,8 +49,6 @@ unit_symbol: °
 > [Wikipedia](https://en.wikipedia.org/wiki/Degree%20(angle)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Degree](/_Standards/Dimension/Angular_Dimension/Degree.md) 

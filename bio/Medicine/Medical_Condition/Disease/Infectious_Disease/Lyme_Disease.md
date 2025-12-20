@@ -108,8 +108,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lyme%20disease) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lyme_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.md) 

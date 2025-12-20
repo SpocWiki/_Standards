@@ -32,8 +32,6 @@ Wolfram_Language_entity_code: Entity["Concept", "SocialAction::289f8"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20action) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Action](/_Standards/Society/Anthropology/Sociology/Social_Action.md) 

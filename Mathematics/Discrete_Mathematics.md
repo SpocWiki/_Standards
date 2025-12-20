@@ -53,8 +53,6 @@ Baidu_Tieba_name: 离散数学
 > [Wikipedia](https://en.wikipedia.org/wiki/Discrete%20mathematics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Discrete_Mathematics](/_Standards/Mathematics/Discrete_Mathematics.md) 

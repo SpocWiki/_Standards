@@ -260,8 +260,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PAVEL_SV.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20the%20Apostle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paul_the_Apostle](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.md) 

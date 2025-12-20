@@ -108,8 +108,6 @@ official_website: https://www.oclc.org/en/dewey.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Dewey%20Decimal%20Classification) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dewey_Decimal_Classification](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.md) 

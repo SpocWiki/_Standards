@@ -9,8 +9,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Godparent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Godparent](/_Standards/Society/Agent/Community/Clan/Godparent.md) 

@@ -42,8 +42,6 @@ short_name: cv.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cultivar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cultivar](/_Standards/Society/Economics/Industry/Agriculture/Crop/Cultivar.md) 

@@ -63,8 +63,6 @@ Commons_category: Magnetic levitation trains
 > [Wikipedia](https://en.wikipedia.org/wiki/Maglev) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maglev_Train](/_Standards/Technology/Transport/Rail_Transport/Maglev_Train.md) 

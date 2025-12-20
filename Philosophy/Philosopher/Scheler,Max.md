@@ -80,8 +80,6 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Scheler
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Scheler) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scheler,Max](/_Standards/Philosophy/Philosopher/Scheler,Max.md) 

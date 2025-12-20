@@ -122,8 +122,6 @@ date_of_birth: 1910-06-22T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Konrad%20Zuse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zuse,Konrad](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Zuse,Konrad.md) 

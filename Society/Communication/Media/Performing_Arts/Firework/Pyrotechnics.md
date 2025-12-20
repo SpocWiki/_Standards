@@ -43,8 +43,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyrotechnics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pyrotechnics](/_Standards/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.md) 

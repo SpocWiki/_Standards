@@ -166,8 +166,6 @@ Amazon_Standard_Identification_Number: B005MLP8E0
 > [Wikipedia](https://en.wikipedia.org/wiki/Citizen%20Kane) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Citizen_Kane](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Welles,Orson/Citizen_Kane.md) 

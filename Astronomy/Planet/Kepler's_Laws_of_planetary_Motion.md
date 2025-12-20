@@ -55,8 +55,6 @@ Commons_category: Kepler motions
 > [Wikipedia](https://en.wikipedia.org/wiki/Kepler's%20laws%20of%20planetary%20motion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion](/_Standards/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.md) 

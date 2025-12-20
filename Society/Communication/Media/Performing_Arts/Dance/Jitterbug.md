@@ -34,8 +34,6 @@ instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jitterbug) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jitterbug](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.md) 

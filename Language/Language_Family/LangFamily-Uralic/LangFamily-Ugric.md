@@ -39,8 +39,6 @@ Linguist_List_code: ugri
 > [Wikipedia](https://en.wikipedia.org/wiki/Ugric%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily-Ugric](/_Standards/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.md) 

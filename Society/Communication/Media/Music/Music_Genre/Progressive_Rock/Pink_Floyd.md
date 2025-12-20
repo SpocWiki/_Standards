@@ -151,11 +151,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PINK_FLOD.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Pink%20Floyd)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pink_Floyd](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.md) 

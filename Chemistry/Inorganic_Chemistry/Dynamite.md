@@ -51,8 +51,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dynamite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dynamite](/_Standards/Chemistry/Inorganic_Chemistry/Dynamite.md) 

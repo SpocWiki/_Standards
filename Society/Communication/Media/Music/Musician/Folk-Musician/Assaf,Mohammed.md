@@ -32,10 +32,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mohammed%20Assaf)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Assaf,Mohammed](/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Assaf,Mohammed.md) 

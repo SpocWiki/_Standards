@@ -6,9 +6,6 @@
 type-safe and zero-cost abstraction for physical quantities, ensuring that units are correctly handled during calculations. It allows you to define custom units. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~dimensioned](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~dimensioned.md) 

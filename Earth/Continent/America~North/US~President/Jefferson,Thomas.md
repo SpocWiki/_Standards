@@ -208,9 +208,6 @@ Libris_URI: b8nqrxpv1v5qwk3
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Jefferson)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jefferson,Thomas](/_Standards/Earth/Continent/America~North/US~President/Jefferson,Thomas.md) 

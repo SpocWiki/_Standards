@@ -35,8 +35,6 @@ has_id_wikidata: Q728455
 > [Wikipedia](https://en.wikipedia.org/wiki/Pantheism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pantheism](/_Standards/Philosophy/Metaphysic/Religion/Pantheism.md) 

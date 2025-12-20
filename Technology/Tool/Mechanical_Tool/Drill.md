@@ -39,9 +39,6 @@ Iconclass_notation: 47D8(DRILL)
 > [Wikipedia](https://en.wikipedia.org/wiki/Drill) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Drill](/_Standards/Technology/Tool/Mechanical_Tool/Drill.md) 

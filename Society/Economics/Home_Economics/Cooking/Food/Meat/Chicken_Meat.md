@@ -66,8 +66,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Chicken"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Chicken%20as%20food) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chicken_Meat](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.md) 

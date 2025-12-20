@@ -56,8 +56,6 @@ instance_of: "[[_Standards/WikiData/WD~military_term,66740226]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Operational%20level%20of%20war) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Operational_Level_of_War](/_Standards/Society/Military/Military_Operation/Military_Strategy/Operational_Level_of_War.md) 

@@ -218,8 +218,6 @@ ISNI: "0000000121347589"
 > [Wikipedia](https://en.wikipedia.org/wiki/Woody%20Allen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Allen,Woody](/_Standards/Society/Communication/Media/Movie/Movie-Director/Allen,Woody.md) 

@@ -49,8 +49,6 @@ Dewey_Decimal_Classification: "511.3"
 > [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del's%20incompleteness%20theorems) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gödel's_Incompleteness_Theorems](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.md) 

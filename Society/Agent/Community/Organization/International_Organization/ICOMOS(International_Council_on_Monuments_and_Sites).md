@@ -69,8 +69,6 @@ coordinate_location: Point(2.405083333 48.821194444)
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Council%20on%20Monuments%20and%20Sites) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ICOMOS(International_Council_on_Monuments_and_Sites)](/_Standards/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).md) 

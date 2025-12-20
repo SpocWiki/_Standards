@@ -31,8 +31,6 @@ UMLS_CUI: C0998632
 > [Wikipedia](https://en.wikipedia.org/wiki/Leptinotarsa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leptinotarsa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa.md) 

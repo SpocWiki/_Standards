@@ -74,8 +74,6 @@ subreddit:
 > [Wikipedia](https://en.wikipedia.org/wiki/Urban%20planning) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Urban_Planning](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning.md) 

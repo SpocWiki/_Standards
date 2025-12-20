@@ -54,7 +54,6 @@ OpenStreetMap_tag: healthcare:speciality=otolaryngology
 > [Wikipedia](https://en.wikipedia.org/wiki/Otorhinolaryngology) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Otolaryngology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Otolaryngology.md) 

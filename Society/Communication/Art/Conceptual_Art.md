@@ -86,9 +86,6 @@ Krugosvet_article: zhivopis-i-grafika/konceptualizm
 > [Wikipedia](https://en.wikipedia.org/wiki/Conceptual%20art) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conceptual_Art](/_Standards/Society/Communication/Art/Conceptual_Art.md) 

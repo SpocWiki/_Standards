@@ -46,8 +46,6 @@ IPTC_NewsCode: mediatopic/20000115
 > [Wikipedia](https://en.wikipedia.org/wiki/Witness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Witness](/_Standards/Society/Law/Judiciary/Court/Evidence/Witness.md) 

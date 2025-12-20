@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ceres
+---
 
 # [[Ceres(Mythology)]] 
 
@@ -25,8 +29,6 @@
 > whose mythology was reinterpreted for Ceres in Roman art and literature.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceres%20(mythology)) 
-
-
 
 
 ## Confidential Links & Embeds: 

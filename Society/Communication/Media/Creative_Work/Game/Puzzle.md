@@ -39,8 +39,6 @@ Stack_Exchange_site_URL: https://puzzling.stackexchange.com
 > [Wikipedia](https://en.wikipedia.org/wiki/Puzzle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Puzzle](/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle.md) 

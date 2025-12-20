@@ -58,8 +58,6 @@ The supermassive black hole at the center of the Milky Way Galaxy.
 > [Wikipedia](https://en.wikipedia.org/wiki/Sagittarius%20A) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sagittarius_A](/_Standards/Astronomy/Black_Hole/Sagittarius_A.md) 

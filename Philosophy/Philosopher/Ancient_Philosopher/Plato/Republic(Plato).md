@@ -71,10 +71,6 @@ inception: -0379-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Republic%20(Plato)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Republic(Plato)](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato/Republic(Plato).md) 

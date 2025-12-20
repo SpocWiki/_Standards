@@ -21,10 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20literature) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chinese_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature.md) 

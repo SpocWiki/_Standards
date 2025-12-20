@@ -50,8 +50,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Senso
 > [Wikipedia](https://en.wikipedia.org/wiki/Sensor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sensor](/_Standards/Technology/Tool/Instrumentation/Sensor.md) 

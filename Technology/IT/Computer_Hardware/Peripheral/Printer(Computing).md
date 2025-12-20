@@ -54,9 +54,6 @@ OpenStreetMap_tag: amenity=printer
 > [Wikipedia](https://en.wikipedia.org/wiki/Printer%20(computing)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Printer(Computing)](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Printer(Computing).md) 

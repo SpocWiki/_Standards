@@ -38,8 +38,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2015%20launch.j
 > [Wikipedia](https://en.wikipedia.org/wiki/Launch%20vehicle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Launch_Vehicle](/_Standards/Technology/Spaceflight/Launch_Vehicle.md) 

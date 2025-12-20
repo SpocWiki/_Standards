@@ -56,8 +56,6 @@ Commons_category: Logical positivism
 > [Wikipedia](https://en.wikipedia.org/wiki/Logical%20positivism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Logical_Positivism](/_Standards/Philosophy/Logical_Positivism.md) 

@@ -33,9 +33,6 @@ Commons_category: Modern art
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20art) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1860-Modern_Art-1970](/_Standards/Society/Communication/Art/History_of_Art/1860-Modern_Art-1970.md) 

@@ -91,8 +91,6 @@ Instagram_username: reuters
 > [Wikipedia](https://en.wikipedia.org/wiki/Reuters) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reuters](/_Standards/Society/Communication/Media/Journalism/News_Agency/Reuters.md) 

@@ -72,8 +72,6 @@ inception: 1513-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Prince) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [The_Prince](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.md) 

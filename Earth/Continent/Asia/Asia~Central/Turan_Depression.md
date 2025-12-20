@@ -26,8 +26,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/NizinaTuranska2001grud
 > [Wikipedia](https://en.wikipedia.org/wiki/Turan%20Depression) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turan_Depression](/_Standards/Earth/Continent/Asia/Asia~Central/Turan_Depression.md) 

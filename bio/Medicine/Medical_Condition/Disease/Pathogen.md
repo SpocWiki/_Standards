@@ -53,8 +53,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shigella%20stool.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Pathogen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pathogen](/_Standards/bio/Medicine/Medical_Condition/Disease/Pathogen.md) 

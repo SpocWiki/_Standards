@@ -33,8 +33,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Crop%20rotation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crop_Rotation](/_Standards/Society/Economics/Industry/Agriculture/Crop/Crop_Rotation.md) 

@@ -76,8 +76,6 @@ Commons_category: Chemical weapons
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20weapon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Weapon](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.md) 

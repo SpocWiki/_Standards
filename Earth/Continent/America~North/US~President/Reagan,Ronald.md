@@ -243,10 +243,6 @@ ISNI: "0000000121400474"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Reagan)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reagan,Ronald](/_Standards/Earth/Continent/America~North/US~President/Reagan,Ronald.md) 

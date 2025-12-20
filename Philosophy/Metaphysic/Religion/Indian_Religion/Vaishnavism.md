@@ -54,8 +54,6 @@ OpenStreetMap_tag: denomination=vaishnavism
 > [Wikipedia](https://en.wikipedia.org/wiki/Vaishnavism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vaishnavism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vaishnavism.md) 

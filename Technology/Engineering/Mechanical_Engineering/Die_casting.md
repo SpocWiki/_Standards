@@ -41,8 +41,6 @@ Commons_category: Die casting
 > [Wikipedia](https://en.wikipedia.org/wiki/Die%20casting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Die_casting](/_Standards/Technology/Engineering/Mechanical_Engineering/Die_casting.md) 

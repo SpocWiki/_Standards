@@ -96,8 +96,6 @@ EPPO_Code: RHNDTY
 > [Wikipedia](https://en.wikipedia.org/wiki/Whale%20shark)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Whale_Shark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Whale_Shark.md) 

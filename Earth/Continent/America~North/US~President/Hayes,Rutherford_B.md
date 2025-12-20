@@ -32,8 +32,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]] ] [created:: 1877-03-04]  [cancelled:: 1881-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hayes,Rutherford_B](/_Standards/Earth/Continent/America~North/US~President/Hayes,Rutherford_B.md) 

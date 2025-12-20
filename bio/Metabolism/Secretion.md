@@ -17,8 +17,6 @@ has_id_wikidata: Q12334861
 > [Wikipedia](https://en.wikipedia.org/wiki/Secretion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Secretion](/_Standards/bio/Metabolism/Secretion.md) 

@@ -53,8 +53,6 @@ Commons_category: Investors
 > [Wikipedia](https://en.wikipedia.org/wiki/Investor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Investor](/_Standards/Society/Economics/Capital(Economics)/Investor.md) 

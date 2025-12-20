@@ -61,8 +61,6 @@ Commons_category: Pap test cytology
 > [Wikipedia](https://en.wikipedia.org/wiki/Pap%20test) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pap_Test](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Pap_Test.md) 

@@ -46,8 +46,6 @@ Commons_category: Millennia
 > [Wikipedia](https://en.wikipedia.org/wiki/Millennium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Millennium](/_Standards/ISO/Calendar/Millennium.md) 

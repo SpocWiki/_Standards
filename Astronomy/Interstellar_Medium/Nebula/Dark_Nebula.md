@@ -53,8 +53,6 @@ Commons_category: Dark nebulae
 > [Wikipedia](https://en.wikipedia.org/wiki/Dark%20nebula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dark_Nebula](/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.md) 

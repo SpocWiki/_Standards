@@ -47,8 +47,6 @@ Commons_category: Michelson-Morley experiment
 > [Wikipedia](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley%20experiment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Michelson–Morley_Experiment](/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity/Michelson–Morley_Experiment.md) 

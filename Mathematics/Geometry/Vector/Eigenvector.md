@@ -58,8 +58,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Eigenvalues%20and%20eigenvectors) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eigenvector](/_Standards/Mathematics/Geometry/Vector/Eigenvector.md) 

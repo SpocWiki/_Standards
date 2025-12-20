@@ -6,9 +6,6 @@ aliases:
 # [[Opera_Singer]] 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Opera_Singer](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer.md) 

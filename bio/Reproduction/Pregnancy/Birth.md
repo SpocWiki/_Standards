@@ -78,8 +78,6 @@ equivalent_class: http://pcp-on-web.de/ontology#Birth
 > [Wikipedia](https://en.wikipedia.org/wiki/Birth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Birth](/_Standards/bio/Reproduction/Pregnancy/Birth.md) 

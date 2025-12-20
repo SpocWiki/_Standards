@@ -153,8 +153,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Bergson::4hrwk"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Bergson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bergson,Henri](/_Standards/Philosophy/Philosopher/Bergson,Henri.md) 

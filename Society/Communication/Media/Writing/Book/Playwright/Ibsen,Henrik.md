@@ -194,8 +194,6 @@ date_of_death: 1906-05-23T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Henrik%20Ibsen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ibsen,Henrik](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.md) 

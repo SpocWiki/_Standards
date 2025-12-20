@@ -49,8 +49,6 @@ Krugosvet_article_archived_: geografiya/musson
 > [Wikipedia](https://en.wikipedia.org/wiki/Monsoon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monsoon](/_Standards/Earth/Climate/Season/Monsoon.md) 

@@ -30,9 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Linux%20kernel) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Linux_Kernel](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.md) 

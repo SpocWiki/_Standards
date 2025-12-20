@@ -41,8 +41,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Easy%20listening%20CD%
 > [Wikipedia](https://en.wikipedia.org/wiki/Easy%20listening) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Easy_Listening](/_Standards/Society/Communication/Media/Music/Music_Genre/Easy_Listening.md) 

@@ -26,8 +26,6 @@ publication_date: 2005-08-29T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Question!) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [SOAD~Question!](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Question!.md) 

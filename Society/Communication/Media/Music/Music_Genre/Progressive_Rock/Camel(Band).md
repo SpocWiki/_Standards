@@ -16,12 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Camel%20(band))
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Camel(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Camel(Band).md) 

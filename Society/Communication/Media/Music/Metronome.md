@@ -65,3 +65,22 @@ Commons_category: Metronomes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metronome) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metronome](/_Standards/Society/Communication/Media/Music/Metronome.md) 
+
+### #is_/same_as :: [Metronome.public](/_public/Society/Communication/Media/Music/Metronome.public.md) 
+
+### #is_/same_as :: [Metronome.internal](/_internal/Society/Communication/Media/Music/Metronome.internal.md) 
+
+### #is_/same_as :: [Metronome.protect](/_protect/Society/Communication/Media/Music/Metronome.protect.md) 
+
+### #is_/same_as :: [Metronome.private](/_private/Society/Communication/Media/Music/Metronome.private.md) 
+
+### #is_/same_as :: [Metronome.personal](/_personal/Society/Communication/Media/Music/Metronome.personal.md) 
+
+### #is_/same_as :: [Metronome.secret](/_secret/Society/Communication/Media/Music/Metronome.secret.md)
+

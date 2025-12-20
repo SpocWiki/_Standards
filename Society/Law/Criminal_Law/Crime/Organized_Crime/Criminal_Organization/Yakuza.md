@@ -50,8 +50,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/KanjiYakuza.gif
 > [Wikipedia](https://en.wikipedia.org/wiki/Yakuza)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Yakuza](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.md) 

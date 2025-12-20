@@ -58,9 +58,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pirate%20street%20vend
 > [Wikipedia](https://en.wikipedia.org/wiki/Copyright%20infringement) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Copyright_Infringement](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Copyright/Copyright_Infringement.md) 

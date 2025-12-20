@@ -33,8 +33,6 @@ Commons_category: Op art
 > [Wikipedia](https://en.wikipedia.org/wiki/Op%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Op_Art](/_Standards/Society/Communication/Art/Op_Art.md) 

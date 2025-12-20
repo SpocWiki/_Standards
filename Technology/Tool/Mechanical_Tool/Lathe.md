@@ -47,8 +47,6 @@ Commons_category: Lathes
 > [Wikipedia](https://en.wikipedia.org/wiki/Lathe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lathe](/_Standards/Technology/Tool/Mechanical_Tool/Lathe.md) 

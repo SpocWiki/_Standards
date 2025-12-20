@@ -108,8 +108,6 @@ Stack_Exchange_tag: https://islam.stackexchange.com/tags/sufism
 > [Wikipedia](https://en.wikipedia.org/wiki/Sufism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sufism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sufism.md) 

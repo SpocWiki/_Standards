@@ -24,8 +24,6 @@ ML can be referred to as an _impure_ functional language, because although it 
 > [Wikipedia](https://en.wikipedia.org/wiki/ML%20(programming%20language))
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~ML](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~ML.md) 

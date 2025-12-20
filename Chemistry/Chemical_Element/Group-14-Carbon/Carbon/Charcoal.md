@@ -33,8 +33,6 @@ has_id_wikidata: Q177463
 > [Wikipedia](https://en.wikipedia.org/wiki/Charcoal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Charcoal](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.md) 

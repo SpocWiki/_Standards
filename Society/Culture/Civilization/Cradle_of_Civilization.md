@@ -39,8 +39,6 @@ different_from: "[[_Standards/WikiData/WD~Four_Great_Ancient_Civilizations,11119
 > [Wikipedia](https://en.wikipedia.org/wiki/Cradle%20of%20civilization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cradle_of_Civilization](/_Standards/Society/Culture/Civilization/Cradle_of_Civilization.md) 

@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Deinococcota) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deinococcota](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Deinococcota.md) 

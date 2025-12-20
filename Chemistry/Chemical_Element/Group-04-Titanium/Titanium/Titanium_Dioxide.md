@@ -86,8 +86,6 @@ Commons_category: Titanium dioxide
 > [Wikipedia](https://en.wikipedia.org/wiki/Titanium%20dioxide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Titanium_Dioxide](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.md) 

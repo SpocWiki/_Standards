@@ -19,8 +19,6 @@ Instances are smaller:
 - briefer Virtual-Method-Table Reference 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inheritance_by_Class](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.md) 

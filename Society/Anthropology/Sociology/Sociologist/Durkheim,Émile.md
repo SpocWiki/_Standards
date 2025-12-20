@@ -113,8 +113,6 @@ ISNI: "0000000121339861"
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89mile%20Durkheim) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Durkheim,Émile](/_Standards/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.md) 

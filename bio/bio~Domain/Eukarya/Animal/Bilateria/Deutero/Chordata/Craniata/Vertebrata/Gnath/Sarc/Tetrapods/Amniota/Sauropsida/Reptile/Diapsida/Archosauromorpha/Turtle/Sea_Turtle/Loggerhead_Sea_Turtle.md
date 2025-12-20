@@ -113,8 +113,6 @@ NBN_System_Key: NBNSYS0000188641
 > [Wikipedia](https://en.wikipedia.org/wiki/Loggerhead%20sea%20turtle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Loggerhead_Sea_Turtle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Sea_Turtle/Loggerhead_Sea_Turtle.md) 

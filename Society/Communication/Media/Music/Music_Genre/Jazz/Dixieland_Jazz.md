@@ -25,8 +25,6 @@ inception: 1910-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Dixieland%20jazz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dixieland_Jazz](/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.md) 

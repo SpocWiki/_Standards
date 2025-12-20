@@ -84,8 +84,6 @@ Instagram_username: oea_oficial
 > [Wikipedia](https://en.wikipedia.org/wiki/Organization%20of%20American%20States) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OAS(Organization_of_American_States)](/_Standards/Society/Agent/Community/Organization/International_Organization/OAS(Organization_of_American_States).md) 

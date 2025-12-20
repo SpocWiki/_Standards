@@ -74,8 +74,6 @@ Commons_category: Julian calendars
 > [Wikipedia](https://en.wikipedia.org/wiki/Julian%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Julian_Calendar](/_Standards/ISO/Calendar/Julian_Calendar.md) 

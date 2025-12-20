@@ -58,8 +58,6 @@ Commons_category: Religious architecture
 > [Wikipedia](https://en.wikipedia.org/wiki/Sacral%20architecture)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sacral_Architecture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.md) 

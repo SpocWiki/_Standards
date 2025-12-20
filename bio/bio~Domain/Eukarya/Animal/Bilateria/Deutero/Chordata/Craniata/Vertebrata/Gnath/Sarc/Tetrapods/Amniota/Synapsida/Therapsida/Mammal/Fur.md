@@ -81,8 +81,6 @@ OpenStreetMap_tag_or_key: Tag:clothes=fur
 > [Wikipedia](https://en.wikipedia.org/wiki/Fur) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fur](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Fur.md) 

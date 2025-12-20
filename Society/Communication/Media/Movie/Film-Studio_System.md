@@ -70,8 +70,6 @@ subclass_of: "[[_Standards/WikiData/WD~filmmaking,932586]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Studio%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Film-Studio_System](/_Standards/Society/Communication/Media/Movie/Film-Studio_System.md) 

@@ -116,8 +116,6 @@ Libris_URI: dbqsmwnx06nfst5
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Ford) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ford,John](/_Standards/Society/Communication/Media/Movie/Movie-Director/Ford,John.md) 

@@ -65,8 +65,6 @@ Gujarati_Vishwakosh_entry: આર્ટ-નૂવો
 > [Wikipedia](https://en.wikipedia.org/wiki/Art%20Nouveau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1880-Art_Nouveau+1910](/_Standards/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.md) 

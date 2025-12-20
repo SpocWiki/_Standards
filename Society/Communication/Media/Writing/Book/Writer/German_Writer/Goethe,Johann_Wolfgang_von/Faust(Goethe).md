@@ -88,8 +88,6 @@ inception: 1774-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Faust) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Faust(Goethe)](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).md) 

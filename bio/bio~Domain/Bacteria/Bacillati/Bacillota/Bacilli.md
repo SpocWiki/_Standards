@@ -9,8 +9,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacilli) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bacilli](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli.md) 

@@ -53,8 +53,6 @@ time_of_earliest_written_record: 1925-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Gravity%20assist) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gravity_Assist](/_Standards/Technology/Spaceflight/Gravity_Assist.md) 

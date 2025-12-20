@@ -32,8 +32,6 @@ Commons_category: Low Earth orbit
 > [Wikipedia](https://en.wikipedia.org/wiki/Low%20Earth%20orbit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Low_Earth_Orbit](/_Standards/Earth/Earth-Orbit/Low_Earth_Orbit.md) 

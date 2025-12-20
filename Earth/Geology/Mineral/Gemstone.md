@@ -109,8 +109,6 @@ Munzinger_Sport_number: "01000000377"
 > [Wikipedia](https://en.wikipedia.org/wiki/Gemstone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gemstone](/_Standards/Earth/Geology/Mineral/Gemstone.md) 

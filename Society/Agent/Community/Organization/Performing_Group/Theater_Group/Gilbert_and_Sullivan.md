@@ -33,8 +33,6 @@ Commons_category: Gilbert and Sullivan
 > [Wikipedia](https://en.wikipedia.org/wiki/Gilbert%20and%20Sullivan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gilbert_and_Sullivan](/_Standards/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.md) 

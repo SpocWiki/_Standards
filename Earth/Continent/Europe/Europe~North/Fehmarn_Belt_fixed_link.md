@@ -70,8 +70,6 @@ date_of_official_opening: 2029-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Fehmarn%20Belt%20fixed%20link) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fehmarn_Belt_fixed_link](/_Standards/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.md) 

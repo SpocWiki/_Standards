@@ -333,8 +333,6 @@ ISNI: "0000000121462341"
 > [Wikipedia](https://en.wikipedia.org/wiki/Marc%20Chagall) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chagall,Marc](/_Standards/Society/Communication/Media/Painting/Painter/Chagall,Marc.md) 

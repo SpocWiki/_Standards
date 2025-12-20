@@ -4,7 +4,6 @@ aliases:
 ---
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [French_Writer](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer.md) 

@@ -107,8 +107,6 @@ Munzinger_Sport_number: "01000004405"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronaldo%20(Brazilian%20footballer)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ronaldo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Ronaldo.md) 

@@ -50,8 +50,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/King%20Arthur) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [King_Arthur](/_Standards/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.md) 

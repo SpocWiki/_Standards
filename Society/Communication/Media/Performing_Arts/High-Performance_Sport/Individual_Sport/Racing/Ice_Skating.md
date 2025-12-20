@@ -57,8 +57,6 @@ OpenStreetMap_tag: sport=ice_skating
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20skating) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ice_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.md) 

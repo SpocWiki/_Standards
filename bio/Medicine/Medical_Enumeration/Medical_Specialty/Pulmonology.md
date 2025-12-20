@@ -46,8 +46,6 @@ OpenStreetMap_tag: healthcare:speciality=pulmonology
 > [Wikipedia](https://en.wikipedia.org/wiki/Pulmonology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pulmonology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.md) 

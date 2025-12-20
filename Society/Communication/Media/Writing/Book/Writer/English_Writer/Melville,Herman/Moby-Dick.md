@@ -214,8 +214,6 @@ subtitle: or, The Whale
 > [Wikipedia](https://en.wikipedia.org/wiki/Moby-Dick) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moby-Dick](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Melville,Herman/Moby-Dick.md) 

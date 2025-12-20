@@ -38,8 +38,6 @@ Commons_category: Waveguides
 > [Wikipedia](https://en.wikipedia.org/wiki/Waveguide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Waveguide](/_Standards/Science/Physics/Wave/Optics/Waveguide.md) 

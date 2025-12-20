@@ -91,8 +91,6 @@ Commons_category: Ellipses
 > [Wikipedia](https://en.wikipedia.org/wiki/Ellipse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ellipse](/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse.md) 

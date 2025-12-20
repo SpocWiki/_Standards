@@ -66,8 +66,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ALEK
 > [Wikipedia](https://en.wikipedia.org/wiki/Lighthouse%20of%20Alexandria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lighthouse_of_Alexandria](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.md) 

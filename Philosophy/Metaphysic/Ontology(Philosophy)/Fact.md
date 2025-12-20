@@ -53,8 +53,6 @@ subreddit: todayilearned
 > [Wikipedia](https://en.wikipedia.org/wiki/Fact) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fact](/_Standards/Philosophy/Metaphysic/Ontology(Philosophy)/Fact.md) 

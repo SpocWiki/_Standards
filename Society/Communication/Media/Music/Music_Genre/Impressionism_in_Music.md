@@ -29,8 +29,6 @@ part_of: "[[_Standards/WikiData/WD~classical_music,9730]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Impressionism%20in%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Impressionism_in_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Impressionism_in_Music.md) 

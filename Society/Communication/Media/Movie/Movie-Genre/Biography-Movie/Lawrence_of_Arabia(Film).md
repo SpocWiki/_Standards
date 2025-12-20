@@ -212,10 +212,6 @@ EcuRed_article: Lawrence_de_Arabia_(película)
 > [Wikipedia](https://en.wikipedia.org/wiki/Lawrence%20of%20Arabia%20(film)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lawrence_of_Arabia(Film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film).md) 

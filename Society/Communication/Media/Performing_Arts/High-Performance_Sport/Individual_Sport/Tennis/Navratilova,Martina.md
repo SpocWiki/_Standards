@@ -128,8 +128,6 @@ birth_name: Martina Šubertová
 > [Wikipedia](https://en.wikipedia.org/wiki/Martina%20Navratilova) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Navratilova,Martina](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Navratilova,Martina.md) 

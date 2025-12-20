@@ -37,8 +37,6 @@ Dewey_Decimal_Classification: "599.642"
 > [Wikipedia](https://en.wikipedia.org/wiki/Bubalus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bubalus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Bubalus.md) 

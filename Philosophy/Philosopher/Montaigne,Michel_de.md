@@ -138,8 +138,6 @@ ISNI: "0000000121441268"
 > [Wikipedia](https://en.wikipedia.org/wiki/Michel%20de%20Montaigne) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Montaigne,Michel_de](/_Standards/Philosophy/Philosopher/Montaigne,Michel_de.md) 

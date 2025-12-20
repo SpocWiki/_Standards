@@ -50,8 +50,6 @@ has_characteristic: "[[_Standards/WikiData/WD~machine,11019]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Mechanization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mechanization](/_Standards/Society/Economics/Industry/Mechanization.md) 

@@ -101,9 +101,6 @@ different from the 1st Generation [[Machine-Language]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Assembly%20language)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Assembler](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.md) 

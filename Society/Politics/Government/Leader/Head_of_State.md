@@ -68,8 +68,6 @@ IPTC_NewsCode: mediatopic/20000610
 > [Wikipedia](https://en.wikipedia.org/wiki/Head%20of%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Head_of_State](/_Standards/Society/Politics/Government/Leader/Head_of_State.md) 

@@ -59,8 +59,6 @@ Krugosvet_article: geografiya/kompas
 > [Wikipedia](https://en.wikipedia.org/wiki/Compass) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Compass](/_Standards/Technology/Tool/Instrumentation/Compass.md) 

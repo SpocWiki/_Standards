@@ -45,8 +45,6 @@ described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceasefire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ceasefire](/_Standards/Society/Military/Military_Operation/Combat/War/Ceasefire.md) 

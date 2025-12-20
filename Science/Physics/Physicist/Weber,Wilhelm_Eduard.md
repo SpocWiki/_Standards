@@ -123,8 +123,6 @@ Libris_URI: wt7bgbpf0xdd2r0
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20Eduard%20Weber) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weber,Wilhelm_Eduard](/_Standards/Science/Physics/Physicist/Weber,Wilhelm_Eduard.md) 

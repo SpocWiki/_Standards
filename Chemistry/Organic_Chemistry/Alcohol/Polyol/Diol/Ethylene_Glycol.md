@@ -25,8 +25,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethylene%20glycol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ethylene_Glycol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.md) 

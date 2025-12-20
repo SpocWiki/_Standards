@@ -52,8 +52,6 @@ Commons_category: Weathering
 > [Wikipedia](https://en.wikipedia.org/wiki/Weathering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weathering](/_Standards/Earth/Geology/Weathering.md) 

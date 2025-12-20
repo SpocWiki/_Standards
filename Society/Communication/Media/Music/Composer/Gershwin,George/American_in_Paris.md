@@ -30,11 +30,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/An%20American%20in%20Paris) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [American_in_Paris](/_Standards/Society/Communication/Media/Music/Composer/Gershwin,George/American_in_Paris.md) 

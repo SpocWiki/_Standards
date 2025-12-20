@@ -40,8 +40,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Charge%20conservation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conservation_of_Charge](/_Standards/Science/Physics/Conservation_Law/Conservation_of_Charge.md) 

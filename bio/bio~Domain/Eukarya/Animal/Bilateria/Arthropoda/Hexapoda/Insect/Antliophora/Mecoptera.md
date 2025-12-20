@@ -47,8 +47,6 @@ NBN_System_Key: NBNSYS0000160388
 > [Wikipedia](https://en.wikipedia.org/wiki/Mecoptera) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mecoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.md) 

@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Logo%20(programming%20language))
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Logo](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Logo.md) 

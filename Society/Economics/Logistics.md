@@ -40,8 +40,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Logistics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Logistics](/_Standards/Society/Economics/Logistics.md) 

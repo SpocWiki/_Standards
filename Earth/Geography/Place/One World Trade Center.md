@@ -116,8 +116,6 @@ inception: 2014-11-03T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/One%20World%20Trade%20Center) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [One World Trade Center](/_Standards/Earth/Geography/Place/One World Trade Center.md) 

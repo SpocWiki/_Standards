@@ -27,8 +27,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernst%20Lubitsch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lubitsch,Ernst](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.md) 

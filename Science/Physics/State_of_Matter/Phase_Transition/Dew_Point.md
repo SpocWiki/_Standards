@@ -45,8 +45,6 @@ Commons_category: Dew point
 > [Wikipedia](https://en.wikipedia.org/wiki/Dew%20point) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dew_Point](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Dew_Point.md) 

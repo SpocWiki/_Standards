@@ -54,8 +54,6 @@ Library_of_Congress_Classification: JC352
 > [Wikipedia](https://en.wikipedia.org/wiki/City-state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [City-State](/_Standards/Earth/Geography/Place/Administrative_Area/City-State.md) 

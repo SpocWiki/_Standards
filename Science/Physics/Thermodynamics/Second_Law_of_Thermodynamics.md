@@ -59,8 +59,6 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "SecondLawOfThermodynamic
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20law%20of%20thermodynamics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Second_Law_of_Thermodynamics](/_Standards/Science/Physics/Thermodynamics/Second_Law_of_Thermodynamics.md) 

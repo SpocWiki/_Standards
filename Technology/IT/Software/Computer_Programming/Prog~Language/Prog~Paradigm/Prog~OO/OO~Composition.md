@@ -3,8 +3,6 @@ Since Composition delegates Work to Instances of a related Class-Hierarchy,
 it is more flexible, because the (Class of the) Instance can be freely varied at runtime.
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OO~Composition](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Composition.md) 

@@ -67,8 +67,6 @@ Commons_category: Water waves
 > [Wikipedia](https://en.wikipedia.org/wiki/Wind%20wave) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wind_Wave](/_Standards/Science/Physics/Wave/Surface_Wave/Wind_Wave.md) 

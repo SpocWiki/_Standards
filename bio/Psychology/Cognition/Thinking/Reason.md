@@ -83,8 +83,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/RAZUM.h
 > [Wikipedia](https://en.wikipedia.org/wiki/Reason) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reason](/_Standards/bio/Psychology/Cognition/Thinking/Reason.md) 

@@ -40,8 +40,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Abramowski-braterstwo-
 > [Wikipedia](https://en.wikipedia.org/wiki/Solidarity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solidarity](/_Standards/Society/Social_Relation/Solidarity.md) 

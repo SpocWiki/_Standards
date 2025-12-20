@@ -110,8 +110,6 @@ birth_name: Ferdinand Lewis Alcindor, Jr.
 > [Wikipedia](https://en.wikipedia.org/wiki/Kareem%20Abdul-Jabbar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Abdul-Jabbar,Kareem](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Abdul-Jabbar,Kareem.md) 

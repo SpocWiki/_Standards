@@ -50,8 +50,6 @@ Krugosvet_article: nauka_i_tehnika/fizika/GEOFIZIKA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Geophysics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geophysics](/_Standards/Earth/Geology/Geophysics.md) 

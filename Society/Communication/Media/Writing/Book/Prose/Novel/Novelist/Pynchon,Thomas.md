@@ -97,8 +97,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/PINCHON_TOMAS.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Pynchon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pynchon,Thomas](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.md) 

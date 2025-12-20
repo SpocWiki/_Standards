@@ -30,8 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Rugby%20sevens) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rugby_Sevens](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.md) 

@@ -34,8 +34,6 @@ subclass_of: "[[_Standards/WikiData/WD~kinematics,11476]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20kinematics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stellar_Kinematics](/_Standards/Astronomy/Stellar_Kinematics.md) 

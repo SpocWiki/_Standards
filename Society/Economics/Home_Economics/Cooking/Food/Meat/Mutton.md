@@ -36,8 +36,6 @@ UNII: XEN0DR371D
 > [Wikipedia](https://en.wikipedia.org/wiki/Lamb%20and%20mutton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mutton](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Mutton.md) 

@@ -60,8 +60,6 @@ Commons_category: Semantics
 > [Wikipedia](https://en.wikipedia.org/wiki/Semantics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Semantics](/_Standards/Language/Linguistics/Semiotics/Semantics.md) 

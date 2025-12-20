@@ -5,9 +5,6 @@ aliases:
 ---
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Renaissance_Composer](/_Standards/Society/Communication/Media/Music/Composer/Renaissance_Composer.md) 

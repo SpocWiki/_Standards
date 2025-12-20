@@ -132,8 +132,6 @@ ISNI: "0000000110201162"
 > [Wikipedia](https://en.wikipedia.org/wiki/Toshiro%20Mifune) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mifune,Toshirō](/_Standards/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.md) 

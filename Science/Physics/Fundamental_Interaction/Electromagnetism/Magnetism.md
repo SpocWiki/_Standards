@@ -45,8 +45,6 @@ has_id_wikidata: Q3294789
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.md) 

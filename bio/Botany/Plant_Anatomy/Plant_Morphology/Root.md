@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Root) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Root](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.md) 

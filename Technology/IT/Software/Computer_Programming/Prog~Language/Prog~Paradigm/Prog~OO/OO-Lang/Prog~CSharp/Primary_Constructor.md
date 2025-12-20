@@ -28,8 +28,6 @@ Syntax-Extensions to primary Constructors proposed by ChatGPT are not available,
 https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/primary-constructors
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Primary_Constructor](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/Primary_Constructor.md) 

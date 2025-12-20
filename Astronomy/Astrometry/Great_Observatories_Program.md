@@ -30,8 +30,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Observatories.
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Observatories%20program) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Great_Observatories_Program](/_Standards/Astronomy/Astrometry/Great_Observatories_Program.md) 

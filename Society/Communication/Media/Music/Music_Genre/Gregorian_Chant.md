@@ -77,8 +77,6 @@ Commons_category: Gregorian chant
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregorian%20chant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gregorian_Chant](/_Standards/Society/Communication/Media/Music/Music_Genre/Gregorian_Chant.md) 

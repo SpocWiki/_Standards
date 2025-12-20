@@ -91,8 +91,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Caruso::586p9"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Enrico%20Caruso) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Caruso,Enrico](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Caruso,Enrico.md) 

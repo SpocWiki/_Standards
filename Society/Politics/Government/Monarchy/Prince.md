@@ -82,8 +82,6 @@ applies_to_jurisdiction: http://www.wikidata.org/.well-known/genid/d85cd4d084870
 > [Wikipedia](https://en.wikipedia.org/wiki/Prince) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prince](/_Standards/Society/Politics/Government/Monarchy/Prince.md) 

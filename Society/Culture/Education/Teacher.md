@@ -172,8 +172,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Teacher::5wm23"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Teacher) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Teacher](/_Standards/Society/Culture/Education/Teacher.md) 

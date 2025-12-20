@@ -44,8 +44,6 @@ inception: 1904-12-21T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration%20Internationale%20de%20Motocyclisme) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Motorcycling_Federation](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Motorcycling_Federation.md) 

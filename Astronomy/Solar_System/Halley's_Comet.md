@@ -130,8 +130,6 @@ orbit_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Halley%27s%20C
 > [Wikipedia](https://en.wikipedia.org/wiki/Halley's%20Comet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Halley's_Comet](/_Standards/Astronomy/Solar_System/Halley's_Comet.md) 

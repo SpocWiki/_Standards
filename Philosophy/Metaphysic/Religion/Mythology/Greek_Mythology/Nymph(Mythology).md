@@ -44,8 +44,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Nymph) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nymph(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).md) 

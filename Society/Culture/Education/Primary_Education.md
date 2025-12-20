@@ -55,8 +55,6 @@ equivalent_class: http://pcp-on-web.de/ontology#PrimaryEducation
 > [Wikipedia](https://en.wikipedia.org/wiki/Primary%20education) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Primary_Education](/_Standards/Society/Culture/Education/Primary_Education.md) 

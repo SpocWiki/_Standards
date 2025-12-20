@@ -202,8 +202,6 @@ X_Twitter_username: mgorbachev
 > [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Gorbachev) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gorbachev,Mikhail](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.md) 

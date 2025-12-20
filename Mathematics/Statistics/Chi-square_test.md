@@ -48,8 +48,6 @@ name_in_kana: かいにじょうけんてい
 > [Wikipedia](https://en.wikipedia.org/wiki/Chi-squared%20test) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chi-square_test](/_Standards/Mathematics/Statistics/Chi-square_test.md) 

@@ -20,8 +20,6 @@ has_id_wikidata: Q326277
 > [Wikipedia](https://en.wikipedia.org/wiki/Ion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cation](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.md) 

@@ -28,7 +28,6 @@ This terminology **does _not_ include**:
 - Building materials or construction methods (e.g. [thatch](https://en.wikipedia.org/wiki/Thatch "Thatch")); refer to: [Category:Building materials](https://en.wikipedia.org/wiki/Category:Building_materials "Category:Building materials") 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Architectural_Element](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.md) 

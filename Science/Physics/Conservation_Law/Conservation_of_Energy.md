@@ -62,8 +62,6 @@ has_id_wikidata: Q11382
 > [Wikipedia](https://en.wikipedia.org/wiki/Conservation%20of%20energy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conservation_of_Energy](/_Standards/Science/Physics/Conservation_Law/Conservation_of_Energy.md) 

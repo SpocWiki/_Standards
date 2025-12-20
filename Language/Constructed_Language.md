@@ -45,8 +45,6 @@ Commons_category: Constructed languages
 > [Wikipedia](https://en.wikipedia.org/wiki/Constructed%20language) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Constructed_Language](/_Standards/Language/Constructed_Language.md) 

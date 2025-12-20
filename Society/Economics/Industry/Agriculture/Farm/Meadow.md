@@ -70,8 +70,6 @@ OpenStreetMap_tag: landuse=meadow
 > [Wikipedia](https://en.wikipedia.org/wiki/Meadow) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meadow](/_Standards/Society/Economics/Industry/Agriculture/Farm/Meadow.md) 

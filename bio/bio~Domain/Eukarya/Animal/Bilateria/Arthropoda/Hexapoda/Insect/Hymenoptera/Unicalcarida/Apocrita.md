@@ -37,8 +37,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Apocrita) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Apocrita](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita.md) 

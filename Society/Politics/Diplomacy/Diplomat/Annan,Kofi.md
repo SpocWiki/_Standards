@@ -174,8 +174,6 @@ RIA_Novosti_reference: "56818006"
 > [Wikipedia](https://en.wikipedia.org/wiki/Kofi%20Annan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Annan,Kofi](/_Standards/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.md) 

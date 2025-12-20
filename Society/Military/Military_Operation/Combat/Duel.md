@@ -66,8 +66,6 @@ Commons_category: Duels
 > [Wikipedia](https://en.wikipedia.org/wiki/Duel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Duel](/_Standards/Society/Military/Military_Operation/Combat/Duel.md) 

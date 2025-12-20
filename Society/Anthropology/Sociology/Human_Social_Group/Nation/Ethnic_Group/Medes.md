@@ -38,8 +38,6 @@ inception: -0677-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Medes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medes](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Medes.md) 

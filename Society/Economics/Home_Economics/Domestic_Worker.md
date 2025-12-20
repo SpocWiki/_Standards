@@ -94,8 +94,6 @@ Commons_gallery: Domestic worker
 > [Wikipedia](https://en.wikipedia.org/wiki/Domestic%20worker) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Domestic_Worker](/_Standards/Society/Economics/Home_Economics/Domestic_Worker.md) 

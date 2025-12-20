@@ -110,8 +110,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Entropy%20(information%20theory)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Information_Entropy](/_Standards/Dimension/Information_Entropy.md) 

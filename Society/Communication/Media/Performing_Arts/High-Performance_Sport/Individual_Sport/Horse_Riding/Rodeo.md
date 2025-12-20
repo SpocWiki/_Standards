@@ -18,8 +18,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Rodeo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rodeo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.md) 

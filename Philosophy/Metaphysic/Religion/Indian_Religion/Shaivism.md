@@ -42,8 +42,6 @@ OpenStreetMap_tag: denomination=shaivism
 > [Wikipedia](https://en.wikipedia.org/wiki/Shaivism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shaivism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.md) 

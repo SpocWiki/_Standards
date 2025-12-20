@@ -89,8 +89,6 @@ Commons_category: Vacuum tubes
 > [Wikipedia](https://en.wikipedia.org/wiki/Vacuum%20tube) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vacuum_Tube](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.md) 

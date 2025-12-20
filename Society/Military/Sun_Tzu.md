@@ -76,8 +76,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sun%20Tzu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sun_Tzu](/_Standards/Society/Military/Sun_Tzu.md) 

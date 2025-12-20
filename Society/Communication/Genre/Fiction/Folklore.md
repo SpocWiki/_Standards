@@ -70,10 +70,6 @@ Colon_Classification: Y:351
 > [Wikipedia](https://en.wikipedia.org/wiki/Folklore) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Folklore](/_Standards/Society/Communication/Genre/Fiction/Folklore.md) 

@@ -45,8 +45,6 @@ Commons_category: Cola drinks
 > [Wikipedia](https://en.wikipedia.org/wiki/Cola) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cola](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Cola.md) 

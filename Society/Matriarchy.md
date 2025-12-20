@@ -36,8 +36,6 @@ Commons_category: Matriarchy
 > [Wikipedia](https://en.wikipedia.org/wiki/Matriarchy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Matriarchy](/_Standards/Society/Matriarchy.md) 

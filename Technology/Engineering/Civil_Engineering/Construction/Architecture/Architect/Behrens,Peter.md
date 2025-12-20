@@ -161,8 +161,6 @@ ISNI: "0000000109165301"
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Behrens) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Behrens,Peter](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.md) 

@@ -33,7 +33,6 @@ has_id_wikidata: Q208617
 > [Wikipedia](https://en.wikipedia.org/wiki/Equatorial%20coordinate%20system) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Equatorial_Coordinate_System](/_Standards/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.md) 

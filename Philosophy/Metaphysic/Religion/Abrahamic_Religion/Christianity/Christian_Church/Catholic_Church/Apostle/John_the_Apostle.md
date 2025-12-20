@@ -98,8 +98,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/IOANN_BOGOSLOV_SV.ht
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20the%20Apostle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [John_the_Apostle](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.md) 

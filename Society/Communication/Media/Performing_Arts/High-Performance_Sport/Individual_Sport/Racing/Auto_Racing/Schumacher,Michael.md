@@ -118,8 +118,6 @@ Baidu_Tieba_name: 舒马赫
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Schumacher) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schumacher,Michael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.md) 

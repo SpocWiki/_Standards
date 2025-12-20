@@ -116,8 +116,6 @@ Commons_category: Pharmacists
 > [Wikipedia](https://en.wikipedia.org/wiki/Pharmacist) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pharmacist](/_Standards/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.md) 

@@ -39,8 +39,6 @@ Commons_gallery: Skirt
 > [Wikipedia](https://en.wikipedia.org/wiki/Skirt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Skirt](/_Standards/Technology/Tool/Clothing/Skirt.md) 

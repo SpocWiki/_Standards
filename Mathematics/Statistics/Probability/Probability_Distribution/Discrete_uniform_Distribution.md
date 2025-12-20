@@ -302,8 +302,6 @@ has_id_wikidata: Q3574718
 > [Wikipedia](https://en.wikipedia.org/wiki/Discrete%20uniform%20distribution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Discrete_uniform_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Discrete_uniform_Distribution.md) 

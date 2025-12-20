@@ -34,8 +34,6 @@ Iconclass_notation: "49E81"
 > [Wikipedia](https://en.wikipedia.org/wiki/Laboratory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Laboratory_Equipment](/_Standards/Science/Laboratory_Equipment.md) 

@@ -60,8 +60,6 @@ Dewey_Decimal_Classification: "621.453"
 > [Wikipedia](https://en.wikipedia.org/wiki/Windmill) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Windmill](/_Standards/Earth/Geography/Place/Civic_Structure/Windmill.md) 

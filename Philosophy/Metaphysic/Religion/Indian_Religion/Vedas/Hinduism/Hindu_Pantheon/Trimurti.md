@@ -46,8 +46,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TRIMURTI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Trimurti) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trimurti](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Trimurti.md) 

@@ -74,8 +74,6 @@ subreddit: PoliticalPhilosophy
 > [Wikipedia](https://en.wikipedia.org/wiki/Political%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Political_Philosophy](/_Standards/Society/Politics/Political_Philosophy.md) 

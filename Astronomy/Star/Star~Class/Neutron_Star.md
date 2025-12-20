@@ -138,8 +138,6 @@ Commons_category: Neutron stars
 > [Wikipedia](https://en.wikipedia.org/wiki/Neutron%20star) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neutron_Star](/_Standards/Astronomy/Star/Star~Class/Neutron_Star.md) 

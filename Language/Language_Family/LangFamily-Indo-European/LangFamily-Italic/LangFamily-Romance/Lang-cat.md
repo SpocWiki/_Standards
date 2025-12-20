@@ -155,9 +155,6 @@ GOST_7_75_97_code: кат 290
 > [Wikipedia](https://en.wikipedia.org/wiki/Catalan%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-cat](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.md) 

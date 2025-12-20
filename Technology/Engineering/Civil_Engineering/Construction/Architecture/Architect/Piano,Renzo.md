@@ -115,8 +115,6 @@ Royal_Academy_new_identifier: renzo-piano-hon-ra
 > [Wikipedia](https://en.wikipedia.org/wiki/Renzo%20Piano) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Piano,Renzo](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Piano,Renzo.md) 

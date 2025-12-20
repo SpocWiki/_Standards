@@ -57,10 +57,6 @@ PhilPapers_topic: constitutional-law
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitutional%20law) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Constitutional_Law](/_Standards/Society/Law/Constitutional_Law.md) 

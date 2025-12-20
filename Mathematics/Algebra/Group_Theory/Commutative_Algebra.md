@@ -30,8 +30,6 @@ has_id_wikidata: Q727659
 > [Wikipedia](https://en.wikipedia.org/wiki/Commutative%20algebra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Commutative_Algebra](/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Algebra.md) 

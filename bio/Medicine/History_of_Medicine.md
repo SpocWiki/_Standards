@@ -40,8 +40,6 @@ MeSH_tree_code: K01.400.552
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20medicine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Medicine](/_Standards/bio/Medicine/History_of_Medicine.md) 

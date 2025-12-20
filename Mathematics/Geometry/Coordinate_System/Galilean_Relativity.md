@@ -22,9 +22,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Galilean%20invariance) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galilean_Relativity](/_Standards/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.md) 

@@ -101,8 +101,6 @@ coordinates_of_southernmost_point: Point(11.969566111 54.55969)
 > [Wikipedia](https://en.wikipedia.org/wiki/Scandinavia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scandinavia](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia.md) 

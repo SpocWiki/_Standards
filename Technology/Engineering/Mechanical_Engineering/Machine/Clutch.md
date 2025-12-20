@@ -38,8 +38,6 @@ Commons_category: Clutches
 > [Wikipedia](https://en.wikipedia.org/wiki/Clutch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clutch](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.md) 

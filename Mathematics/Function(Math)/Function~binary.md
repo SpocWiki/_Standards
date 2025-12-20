@@ -14,10 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Binary%20function) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Function~binary](/_Standards/Mathematics/Function(Math)/Function~binary.md) 

@@ -51,9 +51,6 @@ native_label: ἴσογράμμα
 > [Wikipedia](https://en.wikipedia.org/wiki/Contour%20line) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Isoline](/_Standards/Earth/Geography/Cartography/Isoline.md) 

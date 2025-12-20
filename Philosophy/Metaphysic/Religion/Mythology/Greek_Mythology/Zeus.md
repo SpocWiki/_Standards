@@ -349,8 +349,6 @@ name_in_native_language: Ζεύς
 > [Wikipedia](https://en.wikipedia.org/wiki/Zeus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zeus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Zeus.md) 

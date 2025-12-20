@@ -34,8 +34,6 @@ Commons_gallery: Optical illusion
 > [Wikipedia](https://en.wikipedia.org/wiki/Optical%20illusion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Optical_Illusion](/_Standards/bio/Medicine/Anatomy/Sense/Visual_System/Optical_Illusion.md) 

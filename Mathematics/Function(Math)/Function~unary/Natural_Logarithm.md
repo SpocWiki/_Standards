@@ -71,8 +71,6 @@ power_series_expansion: <math class="mwe-math-element mwe-math-element-inline" x
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20logarithm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Natural_Logarithm](/_Standards/Mathematics/Function(Math)/Function~unary/Natural_Logarithm.md) 

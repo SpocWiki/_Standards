@@ -18,8 +18,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WebGPU](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGPU.md) 

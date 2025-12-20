@@ -51,8 +51,6 @@ Commons_category: Stoma
 > [Wikipedia](https://en.wikipedia.org/wiki/Stoma) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stomata](/_Standards/bio/Botany/Plant_Anatomy/Transpiration/Stomata.md) 

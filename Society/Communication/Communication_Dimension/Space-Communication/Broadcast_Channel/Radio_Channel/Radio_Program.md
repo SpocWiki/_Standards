@@ -42,9 +42,6 @@ Commons_category: Radio programmes
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio%20program) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Radio_Program](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.md) 

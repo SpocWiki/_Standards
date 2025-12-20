@@ -137,7 +137,6 @@ Facebook_username: Beckham
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Beckham)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Beckham,David](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckham,David.md) 

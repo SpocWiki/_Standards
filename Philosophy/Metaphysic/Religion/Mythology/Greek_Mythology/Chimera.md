@@ -38,8 +38,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chimera%20(mythology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chimera](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.md) 

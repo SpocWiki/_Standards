@@ -21,8 +21,6 @@ has_id_wikidata: Q368442
 > [Wikipedia](https://en.wikipedia.org/wiki/Compact%20object) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Compact_Star](/_Standards/Astronomy/Star/Compact_Star.md) 

@@ -22,9 +22,6 @@ Commons_category: Social philosophy
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20philosophy) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Philosophy](/_Standards/Philosophy/Social_Philosophy.md) 

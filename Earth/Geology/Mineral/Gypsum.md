@@ -90,8 +90,6 @@ Wolfram_Language_entity_code: Entity["Mineral", "Gypsum"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Gypsum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gypsum](/_Standards/Earth/Geology/Mineral/Gypsum.md) 

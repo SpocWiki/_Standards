@@ -50,8 +50,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Mercenary::fpnh8"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercenary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mercenary](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary.md) 

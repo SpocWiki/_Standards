@@ -97,8 +97,6 @@ markerFile: [[Mont_Saint-Michel]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Mont-Saint-Michel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mont_Saint-Michel](/_Standards/Earth/Geography/Place/Mont_Saint-Michel.md) 

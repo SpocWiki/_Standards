@@ -57,8 +57,6 @@ Amazon_com_browse_node: "16319881"
 > [Wikipedia](https://en.wikipedia.org/wiki/Mayonnaise) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mayonnaise](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Mayonnaise.md) 

@@ -103,8 +103,6 @@ ISNI: "0000000122767999"
 > [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Capra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Capra,Frank](/_Standards/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.md) 

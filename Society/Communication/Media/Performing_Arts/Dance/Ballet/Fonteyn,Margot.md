@@ -141,8 +141,6 @@ date_of_birth: 1919-05-18T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Margot%20Fonteyn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fonteyn,Margot](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.md) 

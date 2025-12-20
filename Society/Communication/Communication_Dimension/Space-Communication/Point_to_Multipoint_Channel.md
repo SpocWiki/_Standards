@@ -11,8 +11,6 @@ subclass_of: "[[_Standards/WikiData/WD~communication,11024]]"
 #is_/same_as :: [[WD~point-to-multipoint_communication,6554265]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Point_to_Multipoint_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Point_to_Multipoint_Channel.md) 

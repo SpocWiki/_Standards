@@ -64,8 +64,6 @@ Commons_category: Oscillation
 > [Wikipedia](https://en.wikipedia.org/wiki/Oscillation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oscillation](/_Standards/Science/Physics/Wave/Oscillation.md) 

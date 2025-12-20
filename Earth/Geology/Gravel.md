@@ -41,8 +41,6 @@ OpenStreetMap_tag_or_key: Tag:resource=gravel
 > [Wikipedia](https://en.wikipedia.org/wiki/Gravel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gravel](/_Standards/Earth/Geology/Gravel.md) 

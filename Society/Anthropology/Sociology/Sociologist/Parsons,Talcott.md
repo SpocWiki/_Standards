@@ -98,8 +98,6 @@ date_of_birth: 1902-12-13T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Talcott%20Parsons) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parsons,Talcott](/_Standards/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.md) 

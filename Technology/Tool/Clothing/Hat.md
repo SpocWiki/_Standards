@@ -52,8 +52,6 @@ OpenStreetMap_tag: clothes=hats
 > [Wikipedia](https://en.wikipedia.org/wiki/Hat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hat](/_Standards/Technology/Tool/Clothing/Hat.md) 

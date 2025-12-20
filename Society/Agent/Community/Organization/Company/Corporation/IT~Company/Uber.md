@@ -36,8 +36,6 @@ but since they don't incur negative Reviews, it is sufficient to serve a few act
 and provide excellent service on these. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Uber](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.md) 

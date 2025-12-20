@@ -55,8 +55,6 @@ PhilPapers_topic: philosophy-of-mind
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20mind) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Philosophy_of_Mind](/_Standards/bio/Psychology/Mind/Philosophy_of_Mind.md) 

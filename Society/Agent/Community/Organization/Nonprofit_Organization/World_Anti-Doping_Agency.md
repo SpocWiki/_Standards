@@ -60,8 +60,6 @@ YouTube_handle: wadamovies
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Anti-Doping%20Agency) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [World_Anti-Doping_Agency](/_Standards/Society/Agent/Community/Organization/Nonprofit_Organization/World_Anti-Doping_Agency.md) 

@@ -56,8 +56,6 @@ Krugosvet_article: fizika/kristally
 > [Wikipedia](https://en.wikipedia.org/wiki/Crystal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crystal](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal.md) 

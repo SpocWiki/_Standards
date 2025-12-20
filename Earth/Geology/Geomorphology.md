@@ -41,8 +41,6 @@ Basisklassifikation: "38.45"
 > [Wikipedia](https://en.wikipedia.org/wiki/Geomorphology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geomorphology](/_Standards/Earth/Geology/Geomorphology.md) 

@@ -28,8 +28,6 @@ has_id_wikidata: Q193603
 > [Wikipedia](https://en.wikipedia.org/wiki/Ontogeny) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ontogeny](/_Standards/bio/Reproduction/Developmental_Biology/Ontogeny.md) 

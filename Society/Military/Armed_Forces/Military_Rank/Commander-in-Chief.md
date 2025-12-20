@@ -43,8 +43,6 @@ female_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Commander-in-chief) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Commander-in-Chief](/_Standards/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.md) 

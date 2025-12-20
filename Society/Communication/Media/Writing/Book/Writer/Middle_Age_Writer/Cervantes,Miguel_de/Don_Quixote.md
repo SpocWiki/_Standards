@@ -151,8 +151,6 @@ catalog_code: 23:287039F
 > [Wikipedia](https://en.wikipedia.org/wiki/Don%20Quixote) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Don_Quixote](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.md) 

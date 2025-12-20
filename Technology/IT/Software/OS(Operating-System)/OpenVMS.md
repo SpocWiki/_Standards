@@ -68,9 +68,6 @@ software_version_identifier: V9.2-3
 > [Wikipedia](https://en.wikipedia.org/wiki/OpenVMS) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OpenVMS](/_Standards/Technology/IT/Software/OS(Operating-System)/OpenVMS.md) 

@@ -61,8 +61,6 @@ start_time: -235000000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hymenoptera) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hymenoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera.md) 

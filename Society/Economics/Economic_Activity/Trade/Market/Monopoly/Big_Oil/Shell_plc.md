@@ -202,8 +202,6 @@ official_name: Shell plc
 > [Wikipedia](https://en.wikipedia.org/wiki/Shell%20plc) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shell_plc](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.md) 

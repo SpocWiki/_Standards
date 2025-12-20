@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Good) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Good](/_Standards/Philosophy/Ethics/Good.md) 

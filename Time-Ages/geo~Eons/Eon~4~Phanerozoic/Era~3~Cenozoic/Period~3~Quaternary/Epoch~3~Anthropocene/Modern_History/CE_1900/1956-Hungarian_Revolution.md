@@ -71,8 +71,6 @@ Commons_category: Hungarian Revolution of 1956
 > [Wikipedia](https://en.wikipedia.org/wiki/Hungarian%20Revolution%20of%201956) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1956-Hungarian_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1956-Hungarian_Revolution.md) 

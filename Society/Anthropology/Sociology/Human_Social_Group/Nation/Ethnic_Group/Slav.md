@@ -83,8 +83,6 @@ Krugosvet_article_archived_: istoriya/SLAVYANE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Slavs) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Slav](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Slav.md) 

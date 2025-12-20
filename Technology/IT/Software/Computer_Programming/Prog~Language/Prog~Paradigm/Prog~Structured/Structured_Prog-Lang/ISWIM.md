@@ -12,8 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/ISWIM)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ISWIM](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/ISWIM.md) 

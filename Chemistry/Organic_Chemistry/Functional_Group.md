@@ -28,8 +28,6 @@ has_id_wikidata: Q170409
 > [Wikipedia](https://en.wikipedia.org/wiki/Functional%20group)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Functional_Group](/_Standards/Chemistry/Organic_Chemistry/Functional_Group.md) 

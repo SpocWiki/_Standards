@@ -54,8 +54,6 @@ non-classical state of matter.
 > [Wikipedia](https://en.wikipedia.org/wiki/Superfluidity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Superfluidity](/_Standards/Science/Physics/State_of_Matter/Superfluidity.md) 

@@ -112,8 +112,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Yakov%20Zeldovich%2C%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Yakov%20Zeldovich)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zeldovich,Yakov](/_Standards/Science/Physics/Physicist/Zeldovich,Yakov.md) 

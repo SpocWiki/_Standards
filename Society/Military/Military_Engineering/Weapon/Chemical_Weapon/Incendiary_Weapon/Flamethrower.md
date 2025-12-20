@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Flamethrower) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Flamethrower](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Flamethrower.md) 

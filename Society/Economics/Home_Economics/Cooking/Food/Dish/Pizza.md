@@ -88,8 +88,6 @@ Commons_category: Pizzas
 > [Wikipedia](https://en.wikipedia.org/wiki/Pizza)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pizza](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pizza.md) 

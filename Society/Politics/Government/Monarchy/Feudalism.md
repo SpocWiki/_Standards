@@ -36,8 +36,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Feudalism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Feudalism](/_Standards/Society/Politics/Government/Monarchy/Feudalism.md) 

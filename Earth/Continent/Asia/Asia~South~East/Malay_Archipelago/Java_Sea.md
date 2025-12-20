@@ -64,8 +64,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5863
 > [Wikipedia](https://en.wikipedia.org/wiki/Java%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Java_Sea](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.md) 

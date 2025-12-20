@@ -38,8 +38,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ern%C5%91%20Rubik) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rubik,Ernő](/_Standards/Science/Inventor/Rubik,Ernő.md) 

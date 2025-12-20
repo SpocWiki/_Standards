@@ -37,8 +37,6 @@ has_id_wikidata: Q177302
 > [Wikipedia](https://en.wikipedia.org/wiki/Phidias) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phidias](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Phidias.md) 

@@ -47,9 +47,6 @@ Commons_category: Hoes
 > [Wikipedia](https://en.wikipedia.org/wiki/Hoe%20(tool)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hoe](/_Standards/Society/Economics/Industry/Agriculture/Farm/Hoe.md) 

@@ -210,10 +210,6 @@ Social_Security_Death_Index_entry: 026-22-3747
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20F.%20Kennedy)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kennedy,John_F](/_Standards/Earth/Continent/America~North/US~President/Kennedy,John_F.md) 

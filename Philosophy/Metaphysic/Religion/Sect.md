@@ -21,8 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sect) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sect](/_Standards/Philosophy/Metaphysic/Religion/Sect.md) 

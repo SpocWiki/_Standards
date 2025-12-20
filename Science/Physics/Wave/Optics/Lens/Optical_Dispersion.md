@@ -58,8 +58,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Dispersion%20(optics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Optical_Dispersion](/_Standards/Science/Physics/Wave/Optics/Lens/Optical_Dispersion.md) 

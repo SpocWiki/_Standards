@@ -101,8 +101,6 @@ PhilPapers_topic: the-trinity
 > [Wikipedia](https://en.wikipedia.org/wiki/Trinity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Holy_Trinity](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Holy_Trinity.md) 

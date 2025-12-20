@@ -119,8 +119,6 @@ His father is a [Greek Cypriot](https://en.wikipedia.org/wiki/Greek_Cypriots "Gr
 and his mother is a [Chinese Singaporean](https://en.wikipedia.org/wiki/Chinese_Singaporean "Chinese Singaporean"). 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hassabis,Demis](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.md) 

@@ -34,8 +34,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Harmonic%20analysis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Harmonic_Analysis](/_Standards/Mathematics/Algebra/Linear_Algebra/Harmonic_Analysis.md) 

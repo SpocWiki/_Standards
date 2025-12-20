@@ -101,8 +101,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129
 > [Wikipedia](https://en.wikipedia.org/wiki/Hephaestus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hephaestus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.md) 

@@ -44,8 +44,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Mary,%20mother%20of%20Jesus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Virgin_Mary](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Virgin_Mary.md) 

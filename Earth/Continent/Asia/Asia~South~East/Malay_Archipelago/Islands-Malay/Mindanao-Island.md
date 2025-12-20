@@ -70,7 +70,6 @@ population: 27021036
 > [Wikipedia](https://en.wikipedia.org/wiki/Mindanao)  
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mindanao-Island](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.md) 

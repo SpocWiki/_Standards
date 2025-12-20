@@ -73,8 +73,6 @@ inception: 1494-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Tordesillas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1494-Treaty_of_Tordesillas](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas.md) 

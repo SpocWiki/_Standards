@@ -96,8 +96,6 @@ Archive_of_Our_Own_tag: Gunsmoke (TV *a* Movies 1955)
 > [Wikipedia](https://en.wikipedia.org/wiki/Gunsmoke) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gunsmoke](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.md) 

@@ -154,8 +154,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/TOMSON_DZHOZEF_DZHON.html
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20J.%20Thomson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thomson,J.J.](/_Standards/Science/Physics/Physicist/Thomson,J.J..md) 

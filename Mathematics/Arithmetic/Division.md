@@ -48,8 +48,6 @@ Commons_category: Division (mathematics)
 > [Wikipedia](https://en.wikipedia.org/wiki/Division%20(mathematics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Division](/_Standards/Mathematics/Arithmetic/Division.md) 

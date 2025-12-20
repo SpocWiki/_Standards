@@ -39,8 +39,6 @@ Commons_category: Molecular orbitals
 > [Wikipedia](https://en.wikipedia.org/wiki/Molecular%20orbital%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Molecular_Orbital_Theory](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.md) 

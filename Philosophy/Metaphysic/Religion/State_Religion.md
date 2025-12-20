@@ -60,8 +60,6 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/State%20Rel
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20religion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [State_Religion](/_Standards/Philosophy/Metaphysic/Religion/State_Religion.md) 

@@ -136,8 +136,6 @@ ISNI: "0000000121308926"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean%20le%20Rond%20d'Alembert) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [d'Alembert,Jean_le_Rond](/_Standards/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.md) 

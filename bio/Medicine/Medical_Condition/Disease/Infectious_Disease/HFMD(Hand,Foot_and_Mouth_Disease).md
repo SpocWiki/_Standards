@@ -83,8 +83,6 @@ Commons_category: Hand, foot and mouth disease
 > [Wikipedia](https://en.wikipedia.org/wiki/Hand,%20foot,%20and%20mouth%20disease) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [HFMD(Hand,Foot_and_Mouth_Disease)](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/HFMD(Hand,Foot_and_Mouth_Disease).md) 

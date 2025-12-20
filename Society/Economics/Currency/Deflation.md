@@ -35,8 +35,6 @@ IPTC_NewsCode: mediatopic/20000356
 > [Wikipedia](https://en.wikipedia.org/wiki/Deflation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deflation](/_Standards/Society/Economics/Currency/Deflation.md) 

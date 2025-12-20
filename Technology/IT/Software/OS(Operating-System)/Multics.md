@@ -92,9 +92,6 @@ software_version_identifier: MR12.7
 > [Wikipedia](https://en.wikipedia.org/wiki/Multics)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multics](/_Standards/Technology/IT/Software/OS(Operating-System)/Multics.md) 

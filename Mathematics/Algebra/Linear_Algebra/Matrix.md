@@ -85,8 +85,6 @@ Commons_category: Matrices
 > [Wikipedia](https://en.wikipedia.org/wiki/Matrix%20(mathematics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Matrix](/_Standards/Mathematics/Algebra/Linear_Algebra/Matrix.md) 

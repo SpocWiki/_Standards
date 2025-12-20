@@ -90,8 +90,6 @@ inception: 1921-10-21T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/PEN%20International) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [PEN_International](/_Standards/Society/Agent/Community/Organization/International_Organization/PEN_International.md) 

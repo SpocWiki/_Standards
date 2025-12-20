@@ -31,7 +31,6 @@
 Notably [[RabbitMQ]] is written in [[Prog~Erlang]]. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Erlang](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.md) 

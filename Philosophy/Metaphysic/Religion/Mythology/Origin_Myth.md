@@ -28,10 +28,6 @@ Library_of_Congress_Classification: BL325.C7
 > [Wikipedia](https://en.wikipedia.org/wiki/Origin%20myth) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Origin_Myth](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Origin_Myth.md) 

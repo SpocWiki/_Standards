@@ -74,8 +74,6 @@ GitHub_topic:
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20computing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quantum_Computer](/_Standards/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.md) 

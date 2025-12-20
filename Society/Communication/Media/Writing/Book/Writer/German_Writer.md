@@ -15,10 +15,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20German-language%20authors) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [German_Writer](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer.md) 

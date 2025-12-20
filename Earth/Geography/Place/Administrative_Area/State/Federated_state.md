@@ -71,8 +71,6 @@ OpenStreetMap_tag_or_key: Tag:place=state
 > [Wikipedia](https://en.wikipedia.org/wiki/Federated%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Federated_state](/_Standards/Earth/Geography/Place/Administrative_Area/State/Federated_state.md) 

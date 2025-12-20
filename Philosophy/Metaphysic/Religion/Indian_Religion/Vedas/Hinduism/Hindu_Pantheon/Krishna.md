@@ -161,8 +161,6 @@ name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Krishna) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Krishna](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Krishna.md) 

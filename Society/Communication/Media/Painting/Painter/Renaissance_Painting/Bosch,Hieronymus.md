@@ -191,8 +191,6 @@ ISNI: 000000012102478X
 > [Wikipedia](https://en.wikipedia.org/wiki/Hieronymus%20Bosch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bosch,Hieronymus](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.md) 

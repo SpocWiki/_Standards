@@ -31,8 +31,6 @@ Commons_category: Islamic sects
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamic%20schools%20and%20branches) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Islamic_Denomination](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Denomination.md) 

@@ -39,8 +39,6 @@ Commons_category: Fluid statics
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrostatics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hydrostatics](/_Standards/Science/Physics/Fluid_Mechanics/Hydrostatics.md) 

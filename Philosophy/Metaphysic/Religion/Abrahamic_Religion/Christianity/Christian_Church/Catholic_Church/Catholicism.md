@@ -66,7 +66,6 @@ short_name: kath.
 > [Wikipedia](https://en.wikipedia.org/wiki/Catholic%20Church) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Catholicism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism.md) 

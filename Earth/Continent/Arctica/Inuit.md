@@ -64,8 +64,6 @@ native_label: ᐃᓄᐃᑦ
 > [Wikipedia](https://en.wikipedia.org/wiki/Inuit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inuit](/_Standards/Earth/Continent/Arctica/Inuit.md) 

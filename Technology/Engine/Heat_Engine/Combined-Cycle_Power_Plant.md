@@ -55,10 +55,6 @@ OpenStreetMap_tag: generator:type=combined_cycle
 > [Wikipedia](https://en.wikipedia.org/wiki/Combined%20cycle%20power%20plant) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Combined-Cycle_Power_Plant](/_Standards/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.md) 

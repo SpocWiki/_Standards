@@ -57,8 +57,6 @@ Baidu_Tieba_name: 眼镜
 > [Wikipedia](https://en.wikipedia.org/wiki/Glasses) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glasses](/_Standards/Technology/Tool/Instrumentation/Glasses.md) 

@@ -68,8 +68,6 @@ Commons_category: Power supplies
 > [Wikipedia](https://en.wikipedia.org/wiki/Power%20supply) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Power_Supply](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Power_Supply.md) 

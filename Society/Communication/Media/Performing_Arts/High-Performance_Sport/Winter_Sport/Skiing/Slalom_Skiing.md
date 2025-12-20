@@ -27,10 +27,6 @@ Commons_category: Slalom skiing
 > [Wikipedia](https://en.wikipedia.org/wiki/Slalom%20skiing) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Slalom_Skiing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Slalom_Skiing.md) 

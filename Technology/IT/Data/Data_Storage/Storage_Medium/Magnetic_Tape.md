@@ -57,8 +57,6 @@ Commons_category: Magnetic tapes
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20tape) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnetic_Tape](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.md) 

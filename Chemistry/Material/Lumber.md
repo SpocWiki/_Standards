@@ -54,8 +54,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Diels%C3%A4gen%20auf%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Lumber) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lumber](/_Standards/Chemistry/Material/Lumber.md) 

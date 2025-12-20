@@ -127,9 +127,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Luc%20Godard) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Godard,Jean-Luc](/_Standards/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.md) 

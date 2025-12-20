@@ -61,8 +61,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pixella15551%20%282432
 > [Wikipedia](https://en.wikipedia.org/wiki/Phobia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phobia](/_Standards/bio/Psychology/Mental_Disorder/Phobia.md) 

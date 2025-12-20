@@ -50,8 +50,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/NIRVANA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Nirvana) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nirvana](/_Standards/Philosophy/Metaphysic/Religion/Nirvana.md) 

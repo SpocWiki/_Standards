@@ -120,8 +120,6 @@ Commons_category: Hijabs
 > [Wikipedia](https://en.wikipedia.org/wiki/Hijab) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hijab](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.md) 

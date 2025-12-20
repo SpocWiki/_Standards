@@ -41,8 +41,6 @@ part_of: "[[_Standards/WikiData/WD~international_law,4394526]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Customary%20international%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Customary_international_Law](/_Standards/Society/Law/International_Law/Customary_international_Law.md) 

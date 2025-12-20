@@ -64,8 +64,6 @@ TA98_Latin_term: ovarium
 > [Wikipedia](https://en.wikipedia.org/wiki/Ovary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ovary](/_Standards/bio/Reproduction/Ovary.md) 

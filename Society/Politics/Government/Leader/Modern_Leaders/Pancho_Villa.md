@@ -101,8 +101,6 @@ Wolfram_Language_entity_code: Entity["Person", "PanchoVilla::m8byc"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Pancho%20Villa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pancho_Villa](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.md) 

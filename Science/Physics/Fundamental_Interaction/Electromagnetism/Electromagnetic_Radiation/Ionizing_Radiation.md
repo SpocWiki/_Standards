@@ -41,8 +41,6 @@ ComputerLanguage_com_definition: ionizing+radiation
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionizing%20radiation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ionizing_Radiation](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Ionizing_Radiation.md) 

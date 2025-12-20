@@ -33,8 +33,6 @@ has_id_wikidata: Q178934
 > [Wikipedia](https://en.wikipedia.org/wiki/Occult) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Occultism](/_Standards/Philosophy/Metaphysic/Supernatural/Occultism.md) 

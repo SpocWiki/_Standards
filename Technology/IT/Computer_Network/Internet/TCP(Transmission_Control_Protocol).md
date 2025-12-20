@@ -38,8 +38,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Transmission%20Control%20Protocol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [TCP(Transmission_Control_Protocol)](/_Standards/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).md) 

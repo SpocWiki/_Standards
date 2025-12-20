@@ -102,8 +102,6 @@ MeSH_tree_code: D02.455.326.146.379
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethane) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ethane](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.md) 

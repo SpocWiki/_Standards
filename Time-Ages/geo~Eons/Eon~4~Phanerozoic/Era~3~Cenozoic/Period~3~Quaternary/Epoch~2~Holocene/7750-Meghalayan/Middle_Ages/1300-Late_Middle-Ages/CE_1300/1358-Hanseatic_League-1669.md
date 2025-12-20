@@ -102,8 +102,6 @@ inception: 1358-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hanseatic%20League) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1358-Hanseatic_League-1669](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1358-Hanseatic_League-1669.md) 

@@ -188,8 +188,6 @@ inception: 1800-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pride%20and%20Prejudice) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pride_and_Prejudice](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Austen,Jane/Pride_and_Prejudice.md) 

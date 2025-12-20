@@ -18,8 +18,6 @@ has_id_wikidata: Q1133779
 > [Wikipedia](https://en.wikipedia.org/wiki/Renaissance%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1350-Renaissance_Art+1620](/_Standards/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.md) 

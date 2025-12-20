@@ -109,3 +109,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/LI_VIVEN.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vivien%20Leigh) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leigh,Vivien](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Vivien.md) 
+
+### #is_/same_as :: [Leigh,Vivien.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Vivien.public.md) 
+
+### #is_/same_as :: [Leigh,Vivien.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Vivien.internal.md) 
+
+### #is_/same_as :: [Leigh,Vivien.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Vivien.protect.md) 
+
+### #is_/same_as :: [Leigh,Vivien.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Vivien.private.md) 
+
+### #is_/same_as :: [Leigh,Vivien.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Vivien.personal.md) 
+
+### #is_/same_as :: [Leigh,Vivien.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Vivien.secret.md)
+

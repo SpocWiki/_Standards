@@ -76,8 +76,6 @@ coordinate_location: Point(-8.170555555 76.668888888)
 > [Wikipedia](https://en.wikipedia.org/wiki/Greenland%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greenland_Sea](/_Standards/Earth/Ocean/Ocean~Arctic/Greenland_Sea.md) 

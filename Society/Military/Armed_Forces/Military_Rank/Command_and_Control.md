@@ -43,8 +43,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/SICCONA%20%28Command%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Command%20and%20control) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Command_and_Control](/_Standards/Society/Military/Armed_Forces/Military_Rank/Command_and_Control.md) 

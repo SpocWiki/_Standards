@@ -96,8 +96,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Tiger%20Woods) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tiger_Woods](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Golf/Tiger_Woods.md) 

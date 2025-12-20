@@ -56,8 +56,6 @@ Library_of_Congress_Classification: TA660.B4
 > [Wikipedia](https://en.wikipedia.org/wiki/Beam%20(structure)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Beam(Structure)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Beam(Structure).md) 

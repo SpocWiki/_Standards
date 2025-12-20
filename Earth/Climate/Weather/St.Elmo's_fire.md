@@ -53,8 +53,6 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20Saint%20Elmo%2
 > [Wikipedia](https://en.wikipedia.org/wiki/St.%20Elmo's%20fire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [St.Elmo's_fire](/_Standards/Earth/Climate/Weather/St.Elmo's_fire.md) 

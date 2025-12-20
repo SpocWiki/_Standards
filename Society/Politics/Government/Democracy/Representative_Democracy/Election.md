@@ -85,10 +85,6 @@ Colon_Classification: W:1
 > [Wikipedia](https://en.wikipedia.org/wiki/Election) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Election](/_Standards/Society/Politics/Government/Democracy/Representative_Democracy/Election.md) 

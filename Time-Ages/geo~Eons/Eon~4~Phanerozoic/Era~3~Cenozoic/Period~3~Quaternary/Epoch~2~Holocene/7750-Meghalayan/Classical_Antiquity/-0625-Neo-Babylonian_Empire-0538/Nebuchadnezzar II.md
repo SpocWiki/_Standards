@@ -78,8 +78,6 @@ Commons_category: Nebuchadnezzar II
 > [Wikipedia](https://en.wikipedia.org/wiki/Nebuchadnezzar%20II) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nebuchadnezzar II](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.md) 

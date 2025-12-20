@@ -42,10 +42,6 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/polar-coordinates
 > [Wikipedia](https://en.wikipedia.org/wiki/Polar%20coordinate%20system) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polar_Coordinate_System](/_Standards/Mathematics/Geometry/Coordinate_System/Polar_Coordinate_System.md) 

@@ -185,8 +185,6 @@ ISNI: "0000000121259810"
 > [Wikipedia](https://en.wikipedia.org/wiki/Lord%20Kelvin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [William_Thomson,Baron_Kelvin](/_Standards/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.md) 

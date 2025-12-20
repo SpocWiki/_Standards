@@ -46,10 +46,6 @@ Commons_category: Solutions
 > [Wikipedia](https://en.wikipedia.org/wiki/Solution%20(chemistry)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solution](/_Standards/Chemistry/Substance/Mixture/Solution.md) 

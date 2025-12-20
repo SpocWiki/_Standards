@@ -72,8 +72,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/AID.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Hades) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hades(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hades(Mythology).md) 

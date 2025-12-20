@@ -45,8 +45,6 @@ Commons_category: Phonology
 > [Wikipedia](https://en.wikipedia.org/wiki/Phonology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phonology](/_Standards/Language/Linguistics/Phonology.md) 

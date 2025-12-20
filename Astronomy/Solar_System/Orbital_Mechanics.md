@@ -32,8 +32,6 @@ Commons_category: Astrodynamics
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbital%20mechanics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orbital_Mechanics](/_Standards/Astronomy/Solar_System/Orbital_Mechanics.md) 

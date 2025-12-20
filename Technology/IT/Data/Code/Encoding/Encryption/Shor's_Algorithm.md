@@ -49,8 +49,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 > [Wikipedia](https://en.wikipedia.org/wiki/Shor's%20algorithm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shor's_Algorithm](/_Standards/Technology/IT/Data/Code/Encoding/Encryption/Shor's_Algorithm.md) 

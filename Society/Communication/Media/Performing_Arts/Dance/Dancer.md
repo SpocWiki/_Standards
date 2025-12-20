@@ -118,10 +118,6 @@ Provenio_UUID: c21608cf-5ae4-4e14-9ded-0d23bc3f18a9
 > [Wikipedia](https://en.wikipedia.org/wiki/Dance) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dancer](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer.md) 

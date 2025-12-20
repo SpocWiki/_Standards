@@ -24,8 +24,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Steward-ownership) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Steward-Ownership](/_Standards/Society/Law/Civil_Law/Steward-Ownership.md) 

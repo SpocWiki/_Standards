@@ -55,8 +55,6 @@ Commons_category: Tubular bells
 > [Wikipedia](https://en.wikipedia.org/wiki/Tubular%20bells) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tubular_Bell](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Tubular_Bell.md) 

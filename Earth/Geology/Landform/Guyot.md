@@ -37,8 +37,6 @@ GeoNames_feature_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Guyot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Guyot](/_Standards/Earth/Geology/Landform/Guyot.md) 

@@ -69,8 +69,6 @@ Commons_category: Fractions
 > [Wikipedia](https://en.wikipedia.org/wiki/Fraction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fraction](/_Standards/Mathematics/Algebra/Elementary_Algebra/Fraction.md) 

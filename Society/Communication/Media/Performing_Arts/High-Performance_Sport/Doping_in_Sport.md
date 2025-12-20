@@ -52,8 +52,6 @@ MeSH_tree_code: I01.880.735.265
 > [Wikipedia](https://en.wikipedia.org/wiki/Doping%20in%20sport) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Doping_in_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Doping_in_Sport.md) 

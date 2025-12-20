@@ -96,8 +96,6 @@ PermID: "5000880810"
 > [Wikipedia](https://en.wikipedia.org/wiki/NASCAR) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NASCAR](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/NASCAR.md) 

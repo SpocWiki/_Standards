@@ -117,8 +117,6 @@ EU_Corporate_body_code: UNSC
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Security%20Council) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [United_Nations_Security_Council](/_Standards/UN(United_Nations)/United_Nations_Security_Council.md) 

@@ -74,8 +74,6 @@ Baidu_Tieba_name: 蜥蜴
 > [Wikipedia](https://en.wikipedia.org/wiki/Lizard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lacertilia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Lacertilia.md) 

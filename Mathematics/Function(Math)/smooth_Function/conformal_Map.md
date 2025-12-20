@@ -51,11 +51,6 @@ Dewey_Decimal_Classification: "516.35"
 > [Wikipedia](https://en.wikipedia.org/wiki/Conformal%20map) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [conformal_Map](/_Standards/Mathematics/Function(Math)/smooth_Function/conformal_Map.md) 

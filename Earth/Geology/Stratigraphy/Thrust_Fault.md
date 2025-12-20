@@ -21,8 +21,6 @@ Commons_category: Thrust faults
 > [Wikipedia](https://en.wikipedia.org/wiki/Thrust%20fault) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thrust_Fault](/_Standards/Earth/Geology/Stratigraphy/Thrust_Fault.md) 

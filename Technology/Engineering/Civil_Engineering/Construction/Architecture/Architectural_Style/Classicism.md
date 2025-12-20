@@ -35,8 +35,6 @@ start_time: 1660-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Classicism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Classicism](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.md) 

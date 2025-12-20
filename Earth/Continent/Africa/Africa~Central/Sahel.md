@@ -96,8 +96,6 @@ demonym:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sahel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sahel](/_Standards/Earth/Continent/Africa/Africa~Central/Sahel.md) 

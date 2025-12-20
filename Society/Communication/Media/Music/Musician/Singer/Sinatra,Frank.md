@@ -184,8 +184,6 @@ Europeana_entity: agent/base/59981
 > [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Sinatra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sinatra,Frank](/_Standards/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.md) 

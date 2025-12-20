@@ -101,8 +101,6 @@ native_label: Reporters sans frontières
 > [Wikipedia](https://en.wikipedia.org/wiki/Reporters%20Without%20Borders) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reporters_without_Borders](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.md) 

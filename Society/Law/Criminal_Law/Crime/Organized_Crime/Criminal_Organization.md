@@ -57,8 +57,6 @@ IMDb_keyword: criminal-organization
 > [Wikipedia](https://en.wikipedia.org/wiki/Organized%20crime)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Criminal_Organization](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.md) 

@@ -71,8 +71,6 @@ Wikidata_SPARQL_query_equivalent: wd:Q531 p:P2370/psn:P2370 [wikibase:quantityAm
 > [Wikipedia](https://en.wikipedia.org/wiki/Light-year) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Light-Year](/_Standards/Dimension/Dim~Length/Light-Year.md) 

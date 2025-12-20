@@ -232,10 +232,6 @@ IMDb_keyword: reference-to-george-washington
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Washington)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Washington,George](/_Standards/Earth/Continent/America~North/US~President/Washington,George.md) 

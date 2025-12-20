@@ -52,8 +52,6 @@ Basisklassifikation: "48.36"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tillage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tillage](/_Standards/Society/Economics/Industry/Agriculture/Farm/Tillage.md) 

@@ -77,8 +77,6 @@ Commons_category: Circle geometry
 > [Wikipedia](https://en.wikipedia.org/wiki/Circle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Circle](/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse/Circle.md) 

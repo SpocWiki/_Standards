@@ -66,8 +66,6 @@ ISO_15924_alpha_4_code: Zsym
 > [Wikipedia](https://en.wikipedia.org/wiki/Symbol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Symbol](/_Standards/Language/Linguistics/Semiotics/Symbol.md) 

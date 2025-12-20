@@ -169,8 +169,6 @@ IPA_transcription: "[ˈmʌurɪt͡s kɔrˈneːlɪs ˈɛʃər]"
 > [Wikipedia](https://en.wikipedia.org/wiki/M.%20C.%20Escher) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Escher,M.C.](/_Standards/Society/Communication/Media/Painting/Painter/Escher,M.C..md) 

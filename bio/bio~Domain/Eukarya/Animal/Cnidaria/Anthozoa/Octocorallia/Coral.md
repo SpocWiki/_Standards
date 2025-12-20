@@ -59,8 +59,6 @@ Baidu_Tieba_name: 珊瑚
 > [Wikipedia](https://en.wikipedia.org/wiki/Coral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coral](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.md) 

@@ -96,8 +96,6 @@ start_time: 1941-06-22T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Eastern%20Front%20(World%20War%20II)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WWII~Eastern_Front](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/WWII~Eastern_Front.md) 

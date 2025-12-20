@@ -96,8 +96,6 @@ date_of_birth: 1914-07-31T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Louis%20de%20Fun%C3%A8s) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Funès,Louis_de](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.md) 

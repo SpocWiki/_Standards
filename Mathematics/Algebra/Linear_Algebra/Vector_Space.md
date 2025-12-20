@@ -81,9 +81,6 @@ Commons_category: Vector spaces
 > [Wikipedia](https://en.wikipedia.org/wiki/Vector%20space) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vector_Space](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space.md) 

@@ -59,8 +59,6 @@ Commons_category: Freethought
 > [Wikipedia](https://en.wikipedia.org/wiki/Freethought) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Freethought](/_Standards/Philosophy/Epistemology/Freethought.md) 

@@ -38,8 +38,6 @@ Commons_category: General topology
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20topology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [General_Topology](/_Standards/Mathematics/Topology/General_Topology.md) 

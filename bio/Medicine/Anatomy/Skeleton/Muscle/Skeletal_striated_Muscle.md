@@ -28,8 +28,6 @@ has_id_wikidata: Q1048687
 > [Wikipedia](https://en.wikipedia.org/wiki/Skeletal%20muscle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Skeletal_striated_Muscle](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.md) 

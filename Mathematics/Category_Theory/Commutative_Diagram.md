@@ -22,8 +22,6 @@ Commons_category: Commutative diagrams
 > [Wikipedia](https://en.wikipedia.org/wiki/Commutative%20diagram) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Commutative_Diagram](/_Standards/Mathematics/Category_Theory/Commutative_Diagram.md) 

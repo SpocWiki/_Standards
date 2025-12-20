@@ -42,8 +42,6 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_RAVNOVESIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20equilibrium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Equilibrium](/_Standards/Chemistry/Chemical_Reaction/Chemical_Equilibrium.md) 

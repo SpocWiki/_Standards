@@ -116,8 +116,6 @@ date_of_birth: 1924-04-16T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Mancini) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mancini,Henry](/_Standards/Society/Communication/Media/Music/Composer/Mancini,Henry.md) 

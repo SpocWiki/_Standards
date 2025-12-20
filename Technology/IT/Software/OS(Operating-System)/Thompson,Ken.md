@@ -28,8 +28,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ken%20Thompson)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thompson,Ken](/_Standards/Technology/IT/Software/OS(Operating-System)/Thompson,Ken.md) 

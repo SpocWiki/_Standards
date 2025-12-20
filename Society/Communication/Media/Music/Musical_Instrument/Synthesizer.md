@@ -62,8 +62,6 @@ Dewey_Decimal_Classification: "786.74"
 > [Wikipedia](https://en.wikipedia.org/wiki/Synthesizer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Synthesizer](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Synthesizer.md) 

@@ -28,9 +28,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade%20secret) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trade_Secret](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.md) 

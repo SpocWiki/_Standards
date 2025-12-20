@@ -9,8 +9,6 @@ Diese Leistungen wurden aus Steuern finanziert
 und haben einen großen Teil der Friedensdividende seit 1990 aufgefressen. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tax.internal](/_Standards/_internal/Society/Economics/Tax.internal.md) 

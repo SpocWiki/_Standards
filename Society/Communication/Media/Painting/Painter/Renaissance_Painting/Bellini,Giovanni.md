@@ -212,8 +212,6 @@ Europeana_entity: agent/base/62238
 > [Wikipedia](https://en.wikipedia.org/wiki/Giovanni%20Bellini) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bellini,Giovanni](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bellini,Giovanni.md) 

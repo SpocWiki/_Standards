@@ -39,8 +39,6 @@ Commons_category: Field Marshals
 > [Wikipedia](https://en.wikipedia.org/wiki/Field%20marshal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Field Marshal](/_Standards/Society/Military/Armed_Forces/Military_Rank/Field Marshal.md) 

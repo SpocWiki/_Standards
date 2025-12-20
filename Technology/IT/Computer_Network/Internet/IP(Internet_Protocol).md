@@ -52,9 +52,6 @@ Wolfram_Language_entity_code: Entity["Concept", "TCPIP::8s584"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Internet%20Protocol) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IP(Internet_Protocol)](/_Standards/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).md) 

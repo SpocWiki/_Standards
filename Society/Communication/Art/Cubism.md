@@ -45,8 +45,6 @@ inception: 1907-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Cubism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cubism](/_Standards/Society/Communication/Art/Cubism.md) 

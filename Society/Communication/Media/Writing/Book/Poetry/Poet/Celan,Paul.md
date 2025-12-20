@@ -108,8 +108,6 @@ Europeana_entity: agent/base/62523
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Celan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Celan,Paul](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.md) 

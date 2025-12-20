@@ -120,8 +120,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Prostitution%20-%20a%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Prostitution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prostitution](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.md) 

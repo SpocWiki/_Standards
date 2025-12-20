@@ -53,8 +53,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Villa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Villa](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Villa.md) 

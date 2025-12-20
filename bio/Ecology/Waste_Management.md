@@ -93,8 +93,6 @@ Commons_category: Waste management
 > [Wikipedia](https://en.wikipedia.org/wiki/Waste%20management) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Waste_Management](/_Standards/bio/Ecology/Waste_Management.md) 

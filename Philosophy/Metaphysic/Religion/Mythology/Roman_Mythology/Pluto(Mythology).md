@@ -82,10 +82,6 @@ Commons_category: Pluto (mythology)
 > [Wikipedia](https://en.wikipedia.org/wiki/Pluto%20(mythology)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pluto(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Pluto(Mythology).md) 

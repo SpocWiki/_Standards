@@ -47,8 +47,6 @@ Commons_category: Naval architecture
 > [Wikipedia](https://en.wikipedia.org/wiki/Naval%20architecture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Naval_Architecture](/_Standards/Technology/Engineering/Naval_Architecture.md) 

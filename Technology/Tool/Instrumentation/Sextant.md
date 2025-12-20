@@ -73,8 +73,6 @@ Commons_category: Sextants
 > [Wikipedia](https://en.wikipedia.org/wiki/Sextant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sextant](/_Standards/Technology/Tool/Instrumentation/Sextant.md) 

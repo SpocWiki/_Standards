@@ -37,8 +37,6 @@ has_id_wikidata: Q133212
 > [Wikipedia](https://en.wikipedia.org/wiki/Neoplasm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tumor](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Tumor.md) 

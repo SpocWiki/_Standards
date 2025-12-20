@@ -53,8 +53,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Ideal%20gas%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ideal_Gas_Law](/_Standards/Science/Physics/Thermodynamics/Ideal_Gas/Ideal_Gas_Law.md) 

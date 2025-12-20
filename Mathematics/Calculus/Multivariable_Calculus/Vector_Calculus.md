@@ -34,8 +34,6 @@ Commons_category: Vector calculus
 > [Wikipedia](https://en.wikipedia.org/wiki/Vector%20calculus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vector_Calculus](/_Standards/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.md) 

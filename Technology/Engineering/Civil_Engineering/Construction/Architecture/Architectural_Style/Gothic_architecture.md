@@ -70,8 +70,6 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GOTICHESKAYA_A
 > [Wikipedia](https://en.wikipedia.org/wiki/Gothic%20architecture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gothic_architecture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.md) 

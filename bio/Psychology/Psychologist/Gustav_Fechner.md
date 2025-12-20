@@ -91,7 +91,6 @@ birth_name: Gustav Theodor Fechner
 > [Wikipedia](https://en.wikipedia.org/wiki/Gustav%20Fechner) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gustav_Fechner](/_Standards/bio/Psychology/Psychologist/Gustav_Fechner.md) 

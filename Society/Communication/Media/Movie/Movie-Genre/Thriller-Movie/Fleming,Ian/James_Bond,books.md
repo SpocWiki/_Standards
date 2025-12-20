@@ -50,8 +50,6 @@ catchphrase: The name is Bond, James Bond
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Bond) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [James_Bond,books](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian/James_Bond,books.md) 

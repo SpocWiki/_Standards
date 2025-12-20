@@ -80,8 +80,6 @@ Commons_category: Enthalpy
 > [Wikipedia](https://en.wikipedia.org/wiki/Enthalpy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Enthalpy](/_Standards/Dimension/Energy/Enthalpy.md) 

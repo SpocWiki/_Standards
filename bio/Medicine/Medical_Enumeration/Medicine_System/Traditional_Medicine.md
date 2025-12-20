@@ -60,8 +60,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Medicinal%20herbs%20fr
 > [Wikipedia](https://en.wikipedia.org/wiki/Traditional%20medicine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Traditional_Medicine](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Medicine.md) 

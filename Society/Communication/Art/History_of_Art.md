@@ -38,8 +38,6 @@ Iconclass_notation: 49K2
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Art](/_Standards/Society/Communication/Art/History_of_Art.md) 

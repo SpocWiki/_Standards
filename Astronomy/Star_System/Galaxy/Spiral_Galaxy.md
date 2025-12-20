@@ -56,8 +56,6 @@ Commons_category: Spiral galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Spiral%20galaxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spiral_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy.md) 

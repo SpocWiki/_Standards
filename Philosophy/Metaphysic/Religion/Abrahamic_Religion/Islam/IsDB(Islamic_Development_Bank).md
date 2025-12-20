@@ -17,8 +17,6 @@ has_id_wikidata: Q41230
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamic%20Development%20Bank) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IsDB(Islamic_Development_Bank)](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).md) 

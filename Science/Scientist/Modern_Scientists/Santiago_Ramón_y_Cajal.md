@@ -144,8 +144,6 @@ ISNI: "0000000121194025"
 > [Wikipedia](https://en.wikipedia.org/wiki/Santiago%20Ram%C3%B3n%20y%20Cajal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Santiago_Ramón_y_Cajal](/_Standards/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.md) 

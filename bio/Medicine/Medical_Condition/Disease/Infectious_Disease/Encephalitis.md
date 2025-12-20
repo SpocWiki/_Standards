@@ -81,8 +81,6 @@ Krugosvet_article: medicina/ENTSEFALIT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Encephalitis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Encephalitis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Encephalitis.md) 

@@ -86,8 +86,6 @@ U_S_National_Archives_Identifier: "17366220"
 > [Wikipedia](https://en.wikipedia.org/wiki/Claudette%20Colbert) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Colbert,Claudette](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.md) 

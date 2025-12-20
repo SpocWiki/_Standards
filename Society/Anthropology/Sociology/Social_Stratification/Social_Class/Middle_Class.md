@@ -33,8 +33,6 @@ IMDb_keyword: middle-class
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20class) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Middle_Class](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.md) 

@@ -72,8 +72,6 @@ Commons_category: Speech synthesis
 > [Wikipedia](https://en.wikipedia.org/wiki/Speech%20synthesis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Speech_Synthesis](/_Standards/Language/Speech/Speech_Synthesis.md) 

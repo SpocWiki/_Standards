@@ -53,8 +53,6 @@ OpenStreetMap_tag: athletics=pole_vault
 > [Wikipedia](https://en.wikipedia.org/wiki/Pole%20vault) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pole_Vault](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Pole_Vault.md) 

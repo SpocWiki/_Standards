@@ -39,8 +39,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Gravitational%20lens) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gravitational_Lens](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.md) 

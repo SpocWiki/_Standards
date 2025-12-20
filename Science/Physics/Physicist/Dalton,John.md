@@ -107,8 +107,6 @@ date_of_birth: 1766-09-06T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Dalton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dalton,John](/_Standards/Science/Physics/Physicist/Dalton,John.md) 

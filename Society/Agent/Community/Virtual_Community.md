@@ -54,8 +54,6 @@ Dewey_Decimal_Classification: "302.30285"
 > [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20community) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Virtual_Community](/_Standards/Society/Agent/Community/Virtual_Community.md) 

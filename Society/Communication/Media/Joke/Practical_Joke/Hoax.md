@@ -47,8 +47,6 @@ Commons_category: Hoaxes
 > [Wikipedia](https://en.wikipedia.org/wiki/Hoax) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hoax](/_Standards/Society/Communication/Media/Joke/Practical_Joke/Hoax.md) 

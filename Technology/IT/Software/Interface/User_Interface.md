@@ -65,8 +65,6 @@ Commons_category: User interfaces
 > [Wikipedia](https://en.wikipedia.org/wiki/User%20interface) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [User_Interface](/_Standards/Technology/IT/Software/Interface/User_Interface.md) 

@@ -72,8 +72,6 @@ date_of_death: 1101-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Su%20Song) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Su_Song](/_Standards/Science/Polymath/Su_Song.md) 

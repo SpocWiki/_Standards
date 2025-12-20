@@ -39,8 +39,6 @@ Dewey_Decimal_Classification: "575.488"
 > [Wikipedia](https://en.wikipedia.org/wiki/Vascular%20cambium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vascular_Cambium](/_Standards/bio/Botany/Plant_Anatomy/Vascular_Tissue/Vascular_Cambium.md) 

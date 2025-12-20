@@ -60,8 +60,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Moai) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moai](/_Standards/Earth/Geography/Place/Moai.md) 

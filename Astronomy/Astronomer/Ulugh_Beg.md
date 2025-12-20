@@ -49,8 +49,6 @@ has_id_wikidata: Q486088
 > [Wikipedia](https://en.wikipedia.org/wiki/Ulugh%20Beg) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ulugh_Beg](/_Standards/Astronomy/Astronomer/Ulugh_Beg.md) 

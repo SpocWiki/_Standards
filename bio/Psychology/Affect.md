@@ -43,9 +43,6 @@ Colon_Classification: S:53
 > [Wikipedia](https://en.wikipedia.org/wiki/Affect%20(psychology)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Affect](/_Standards/bio/Psychology/Affect.md) 

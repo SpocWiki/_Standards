@@ -94,10 +94,6 @@ Wolfram_Language_entity_code: Entity["Concept", "ComputerScientist::n3qj3"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20scientist) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computer_Scientist](/_Standards/Technology/IT/Computer_Science/Computer_Scientist.md) 

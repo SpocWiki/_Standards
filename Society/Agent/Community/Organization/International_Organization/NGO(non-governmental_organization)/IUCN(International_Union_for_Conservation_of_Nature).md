@@ -151,8 +151,6 @@ Facebook_username: iucn.org
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Union%20for%20Conservation%20of%20Nature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IUCN(International_Union_for_Conservation_of_Nature)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUCN(International_Union_for_Conservation_of_Nature).md) 

@@ -59,8 +59,6 @@ Commons_category: Graph theory
 > [Wikipedia](https://en.wikipedia.org/wiki/Graph%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Graph_Theory](/_Standards/Mathematics/Graph_Theory.md) 

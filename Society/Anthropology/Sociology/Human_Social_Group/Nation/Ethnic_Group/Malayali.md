@@ -31,8 +31,6 @@ Commons_category: Malayali people
 > [Wikipedia](https://en.wikipedia.org/wiki/Malayalis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Malayali](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Malayali.md) 

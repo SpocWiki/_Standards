@@ -28,8 +28,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dennis%20Ritchie)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ritchie,Dennis](/_Standards/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.md) 

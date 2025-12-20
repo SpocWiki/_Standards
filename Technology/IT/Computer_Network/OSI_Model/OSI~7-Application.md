@@ -24,8 +24,6 @@ Commons_category: Application layer protocols
 > [Wikipedia](https://en.wikipedia.org/wiki/Application%20layer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSI~7-Application](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.md) 

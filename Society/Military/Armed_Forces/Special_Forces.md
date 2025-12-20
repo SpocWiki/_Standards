@@ -52,8 +52,6 @@ Commons_category: Special forces
 > [Wikipedia](https://en.wikipedia.org/wiki/Special%20forces) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Special_Forces](/_Standards/Society/Military/Armed_Forces/Special_Forces.md) 

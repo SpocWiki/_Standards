@@ -56,8 +56,6 @@ Facebook_username: TimesofIndia
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Times%20of%20India) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Times_of_India](/_Standards/Society/Communication/Media/Journalism/Newspaper/Times_of_India.md) 

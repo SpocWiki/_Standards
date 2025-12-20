@@ -85,8 +85,6 @@ MeSH_tree_code: L01.462.500.847.698.300
 > [Wikipedia](https://en.wikipedia.org/wiki/Mobile%20phone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mobile_Phone](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone/Mobile_Phone.md) 

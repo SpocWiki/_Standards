@@ -36,8 +36,6 @@ has_id_wikidata: Q602136
 > [Wikipedia](https://en.wikipedia.org/wiki/Coding%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coding_theory](/_Standards/Language/Writing_System/Coding_theory.md) 

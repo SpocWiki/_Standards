@@ -39,9 +39,6 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Babylone%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Old%20Babylonian%20Empire) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-1829-Old_Babylon-1749](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749.md) 

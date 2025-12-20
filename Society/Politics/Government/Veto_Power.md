@@ -57,8 +57,6 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Wi
 > [Wikipedia](https://en.wikipedia.org/wiki/Veto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Veto_Power](/_Standards/Society/Politics/Government/Veto_Power.md) 

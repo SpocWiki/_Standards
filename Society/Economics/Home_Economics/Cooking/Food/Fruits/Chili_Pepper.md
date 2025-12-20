@@ -71,8 +71,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "ChiliPepper"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Chili%20pepper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chili_Pepper](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Chili_Pepper.md) 

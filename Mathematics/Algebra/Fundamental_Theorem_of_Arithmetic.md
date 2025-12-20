@@ -56,8 +56,6 @@ Commons_category: Fundamental theorem of arithmetic
 > [Wikipedia](https://en.wikipedia.org/wiki/Fundamental%20theorem%20of%20arithmetic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fundamental_Theorem_of_Arithmetic](/_Standards/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.md) 

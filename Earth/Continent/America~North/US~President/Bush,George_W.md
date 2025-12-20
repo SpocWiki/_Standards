@@ -187,8 +187,6 @@ ISNI: 000000012102267X
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20W.%20Bush) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bush,George_W](/_Standards/Earth/Continent/America~North/US~President/Bush,George_W.md) 

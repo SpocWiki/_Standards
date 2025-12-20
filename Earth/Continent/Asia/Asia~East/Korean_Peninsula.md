@@ -56,8 +56,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Korea%202003-05-01%20N
 > [Wikipedia](https://en.wikipedia.org/wiki/Korea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Korean_Peninsula](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula.md) 

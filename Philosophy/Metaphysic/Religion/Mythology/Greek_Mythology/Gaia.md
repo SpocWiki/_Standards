@@ -152,8 +152,6 @@ name_in_native_language: Γαία
 > [Wikipedia](https://en.wikipedia.org/wiki/Gaia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gaia](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Gaia.md) 

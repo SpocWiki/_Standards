@@ -21,8 +21,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Herdwicks%20Lake%20Dis
 > [Wikipedia](https://en.wikipedia.org/wiki/Extensive%20farming) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Extensive_Farming](/_Standards/Society/Economics/Industry/Agriculture/Extensive_Farming.md) 

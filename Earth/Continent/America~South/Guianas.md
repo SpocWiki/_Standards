@@ -78,8 +78,6 @@ Krugosvet_article_archived_: Earth_sciences/geografiya/GVIANA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Guianas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Guianas](/_Standards/Earth/Continent/America~South/Guianas.md) 

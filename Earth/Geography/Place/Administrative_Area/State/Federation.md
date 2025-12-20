@@ -74,8 +74,6 @@ Commons_category: Federación
 > [Wikipedia](https://en.wikipedia.org/wiki/Federation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Federation](/_Standards/Earth/Geography/Place/Administrative_Area/State/Federation.md) 

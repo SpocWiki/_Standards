@@ -15,10 +15,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Monad%20(philosophy))
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monad(Philosophy)](/_Standards/Philosophy/Monad(Philosophy).md) 

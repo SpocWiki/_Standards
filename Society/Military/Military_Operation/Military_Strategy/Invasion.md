@@ -52,8 +52,6 @@ Gujarati_Vishwakosh_entry: આક્રમણ-આંતરરાષ્ટ્ર�
 > [Wikipedia](https://en.wikipedia.org/wiki/Invasion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Invasion](/_Standards/Society/Military/Military_Operation/Military_Strategy/Invasion.md) 

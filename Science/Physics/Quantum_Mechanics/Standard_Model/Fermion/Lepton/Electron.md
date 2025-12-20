@@ -99,7 +99,6 @@ The paradox vanishes once you adopt modern quantum field theory:
     
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.md) 

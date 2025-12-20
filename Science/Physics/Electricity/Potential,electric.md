@@ -66,8 +66,6 @@ Commons_category: Electric potential
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20potential) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Potential,electric](/_Standards/Science/Physics/Electricity/Potential,electric.md) 

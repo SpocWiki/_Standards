@@ -54,8 +54,6 @@ MeSH_tree_code: A17.600
 > [Wikipedia](https://en.wikipedia.org/wiki/Nail%20(anatomy)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nail](/_Standards/bio/Medicine/Anatomy/Skin/Nail.md) 

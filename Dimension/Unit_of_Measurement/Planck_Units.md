@@ -66,8 +66,6 @@ subclass_of: "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Planck%20units) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Planck_Units](/_Standards/Dimension/Unit_of_Measurement/Planck_Units.md) 

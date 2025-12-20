@@ -337,8 +337,6 @@ ISNI: "0000000107879191"
 > [Wikipedia](https://en.wikipedia.org/wiki/Titian) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Titian](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Titian.md) 

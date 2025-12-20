@@ -28,8 +28,6 @@ official_website: https://www.iso.org/ics/35.100.50/x/
 > [Wikipedia](https://en.wikipedia.org/wiki/Session%20layer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSI~5-Session](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.md) 

@@ -30,10 +30,6 @@ Krugosvet_article_archived_: istoriya/RUSSKO-LITOVSKIE_VONI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Muscovite%E2%80%93Lithuanian%20Wars) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1487-Muscovite-Lithuanian_Wars-1583](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.md) 

@@ -77,9 +77,6 @@ OpenStreetMap_tag_or_key: Tag:religion=confucian
 > [Wikipedia](https://en.wikipedia.org/wiki/Confucianism) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Confucianism](/_Standards/Philosophy/Ethics/Confucianism.md) 

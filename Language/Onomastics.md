@@ -38,8 +38,6 @@ Commons_category: Onomastics
 > [Wikipedia](https://en.wikipedia.org/wiki/Onomastics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Onomastics](/_Standards/Language/Onomastics.md) 

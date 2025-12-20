@@ -57,8 +57,6 @@ Baidu_Tieba_name: 台球
 > [Wikipedia](https://en.wikipedia.org/wiki/Cue%20sports) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cue_Sports](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.md) 

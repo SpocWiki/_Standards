@@ -78,9 +78,6 @@ Baidu_Tieba_name: 跑步
 > [Wikipedia](https://en.wikipedia.org/wiki/Running) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Running](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running.md) 

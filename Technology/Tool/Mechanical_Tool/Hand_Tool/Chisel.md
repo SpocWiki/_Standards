@@ -47,8 +47,6 @@ EAGLE_id: decor/lod/64
 > [Wikipedia](https://en.wikipedia.org/wiki/Chisel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chisel](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Chisel.md) 

@@ -42,8 +42,6 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/AVTOMATICHESKOE_
 > [Wikipedia](https://en.wikipedia.org/wiki/Control%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Control_Engineering](/_Standards/Technology/Engineering/Control_Engineering.md) 

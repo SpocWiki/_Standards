@@ -89,8 +89,6 @@ Commons_category: Monarchs
 > [Wikipedia](https://en.wikipedia.org/wiki/Monarch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monarch](/_Standards/Society/Politics/Government/Monarchy/Monarch.md) 

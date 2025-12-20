@@ -100,8 +100,6 @@ exact_match:
 > [Wikipedia](https://en.wikipedia.org/wiki/Diphtheria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diphtheria](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.md) 

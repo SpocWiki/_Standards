@@ -64,8 +64,6 @@ DFG_Science_Classification: 102-04
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20science) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Science](/_Standards/Science/History_of_Science.md) 

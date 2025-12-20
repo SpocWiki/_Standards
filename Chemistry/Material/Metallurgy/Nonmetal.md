@@ -19,8 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonmetal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nonmetal](/_Standards/Chemistry/Material/Metallurgy/Nonmetal.md) 

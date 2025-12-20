@@ -82,8 +82,6 @@ ISNI: "0000000121470034"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20G.%20Kemeny) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kemeny,John_George](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Kemeny,John_George.md) 

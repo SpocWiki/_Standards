@@ -37,8 +37,6 @@ described_at_URL: https://www.parool.nl/columns-opinie/regenbooggezin-is-voor-ve
 > [Wikipedia](https://en.wikipedia.org/wiki/Same-sex%20parenting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LGBT_Parenting](/_Standards/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.md) 

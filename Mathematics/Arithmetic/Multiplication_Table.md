@@ -28,8 +28,6 @@ Commons_category: Multiplication tables
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiplication%20table) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multiplication_Table](/_Standards/Mathematics/Arithmetic/Multiplication_Table.md) 

@@ -52,10 +52,6 @@ inception: 1920-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Surrealism) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Surrealism](/_Standards/Society/Communication/Art/Art_History/Surrealism.md) 

@@ -51,8 +51,6 @@ Commons_category: Mid-ocean ridges
 > [Wikipedia](https://en.wikipedia.org/wiki/Mid-ocean%20ridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mid-Ocean_Ridge](/_Standards/Earth/Ocean/Mid-Ocean_Ridge.md) 

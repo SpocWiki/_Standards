@@ -41,8 +41,6 @@ Commons_category: Human foetuses
 > [Wikipedia](https://en.wikipedia.org/wiki/Fetus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Human_Fetus](/_Standards/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.md) 

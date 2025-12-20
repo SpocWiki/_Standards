@@ -37,8 +37,6 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20semipres
 > [Wikipedia](https://en.wikipedia.org/wiki/Semi-presidential%20republic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Semi-presidential_System](/_Standards/Society/Politics/Government/Republic/Semi-presidential_System.md) 

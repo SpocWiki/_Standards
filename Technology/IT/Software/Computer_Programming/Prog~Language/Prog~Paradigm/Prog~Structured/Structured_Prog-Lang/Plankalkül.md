@@ -19,9 +19,6 @@ Unable to continue building computers
 Zuse devoted his time to the development of a higher-level programming model and language.
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plankalkül](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Plankalkül.md) 

@@ -170,8 +170,6 @@ booru_tag: osama_bin_laden
 > [Wikipedia](https://en.wikipedia.org/wiki/Osama%20bin%20Laden)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Osama_bin_Laden](/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism/Osama_bin_Laden.md) 

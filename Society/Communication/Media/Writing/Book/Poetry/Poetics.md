@@ -54,8 +54,6 @@ Provenio_UUID: 8514681b-affa-4ef7-9c88-a1c979215351
 > [Wikipedia](https://en.wikipedia.org/wiki/Poetics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poetics](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poetics.md) 

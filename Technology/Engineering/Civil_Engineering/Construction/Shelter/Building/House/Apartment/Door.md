@@ -92,8 +92,6 @@ OpenStreetMap_tag_or_key: Key:door
 > [Wikipedia](https://en.wikipedia.org/wiki/Door) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Door](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Door.md) 

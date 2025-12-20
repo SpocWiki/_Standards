@@ -56,8 +56,6 @@ Commons_category: History of North America
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20North%20America) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_North_America](/_Standards/Earth/Continent/America~North/History_of_North_America.md) 

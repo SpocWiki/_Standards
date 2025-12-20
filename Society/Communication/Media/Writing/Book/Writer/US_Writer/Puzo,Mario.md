@@ -77,8 +77,6 @@ date_of_birth: 1920-10-15T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Mario%20Puzo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Puzo,Mario](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Puzo,Mario.md) 

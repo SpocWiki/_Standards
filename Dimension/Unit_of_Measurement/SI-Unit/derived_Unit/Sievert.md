@@ -75,7 +75,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sievert) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sievert](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Sievert.md) 

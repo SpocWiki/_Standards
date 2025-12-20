@@ -44,8 +44,6 @@ Commons_category: Puppet states
 > [Wikipedia](https://en.wikipedia.org/wiki/Puppet%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Puppet_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Puppet_State.md) 

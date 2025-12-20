@@ -16,11 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Haskell)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Haskell](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Haskell.md) 

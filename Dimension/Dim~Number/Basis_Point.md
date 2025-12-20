@@ -43,8 +43,6 @@ unit_symbol: ‱
 > [Wikipedia](https://en.wikipedia.org/wiki/Basis%20point) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Basis_Point](/_Standards/Dimension/Dim~Number/Basis_Point.md) 

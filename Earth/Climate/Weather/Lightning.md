@@ -74,8 +74,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/MOLNIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Lightning) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lightning](/_Standards/Earth/Climate/Weather/Lightning.md) 

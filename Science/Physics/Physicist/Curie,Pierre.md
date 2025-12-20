@@ -124,8 +124,6 @@ Regensburg_Classification: UB 2555
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20Curie) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Curie,Pierre](/_Standards/Science/Physics/Physicist/Curie,Pierre.md) 

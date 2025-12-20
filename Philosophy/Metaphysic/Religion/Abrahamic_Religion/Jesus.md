@@ -359,8 +359,6 @@ ISNI: "0000000120370699"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jesus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jesus](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jesus.md) 

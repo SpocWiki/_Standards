@@ -61,8 +61,6 @@ Colon_Classification: S:4
 > [Wikipedia](https://en.wikipedia.org/wiki/Cognition) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cognition](/_Standards/bio/Psychology/Cognition.md) 

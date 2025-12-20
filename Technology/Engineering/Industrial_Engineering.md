@@ -69,8 +69,6 @@ Stack_Exchange_tag: https://engineering.stackexchange.com/tags/industrial-engine
 > [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Industrial_Engineering](/_Standards/Technology/Engineering/Industrial_Engineering.md) 

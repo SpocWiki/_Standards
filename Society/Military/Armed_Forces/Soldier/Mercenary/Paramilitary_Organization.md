@@ -25,8 +25,6 @@ Commons_category: Paramilitary organizations
 > [Wikipedia](https://en.wikipedia.org/wiki/Paramilitary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paramilitary_Organization](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary/Paramilitary_Organization.md) 

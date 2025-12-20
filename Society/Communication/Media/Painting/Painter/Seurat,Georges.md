@@ -156,8 +156,6 @@ ISNI: "0000000108559616"
 > [Wikipedia](https://en.wikipedia.org/wiki/Georges%20Seurat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seurat,Georges](/_Standards/Society/Communication/Media/Painting/Painter/Seurat,Georges.md) 

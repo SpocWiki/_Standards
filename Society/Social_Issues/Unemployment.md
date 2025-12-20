@@ -96,8 +96,6 @@ IMDb_keyword: unemployment
 > [Wikipedia](https://en.wikipedia.org/wiki/Unemployment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unemployment](/_Standards/Society/Social_Issues/Unemployment.md) 

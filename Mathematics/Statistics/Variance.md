@@ -83,8 +83,6 @@ Commons_category: Variance
 > [Wikipedia](https://en.wikipedia.org/wiki/Variance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Variance](/_Standards/Mathematics/Statistics/Variance.md) 

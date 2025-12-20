@@ -40,8 +40,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Drymud-IMG%202920.JPG
 > [Wikipedia](https://en.wikipedia.org/wiki/Soil%20mechanics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soil_Mechanics](/_Standards/Science/Physics/Fluid_Mechanics/Soil_Mechanics.md) 

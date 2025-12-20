@@ -58,8 +58,6 @@ mass: 20.006228252
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrofluoric%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hydrofluoric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.md) 

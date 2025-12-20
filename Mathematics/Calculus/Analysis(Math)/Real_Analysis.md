@@ -31,8 +31,6 @@ Basisklassifikation: "31.41"
 > [Wikipedia](https://en.wikipedia.org/wiki/Real%20analysis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Real_Analysis](/_Standards/Mathematics/Calculus/Analysis(Math)/Real_Analysis.md) 

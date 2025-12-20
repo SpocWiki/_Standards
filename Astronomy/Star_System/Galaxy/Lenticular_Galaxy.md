@@ -36,8 +36,6 @@ Commons_category: Lenticular galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Lenticular%20galaxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lenticular_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.md) 

@@ -32,8 +32,6 @@ Wolfram_Language_entity_code: Entity["Dinosaur", "Suborder:Thyreophora"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Thyreophora) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thyreophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Thyreophora.md) 

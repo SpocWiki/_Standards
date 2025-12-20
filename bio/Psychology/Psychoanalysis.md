@@ -54,8 +54,6 @@ Commons_category: Psychoanalysis
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychoanalysis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Psychoanalysis](/_Standards/bio/Psychology/Psychoanalysis.md) 

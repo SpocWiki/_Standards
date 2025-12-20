@@ -44,8 +44,6 @@ Commons_category: Ships of the line
 > [Wikipedia](https://en.wikipedia.org/wiki/Ship%20of%20the%20line) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ship_of_the_Line](/_Standards/Society/Military/Military_Organization/Navy/Ship_of_the_Line.md) 

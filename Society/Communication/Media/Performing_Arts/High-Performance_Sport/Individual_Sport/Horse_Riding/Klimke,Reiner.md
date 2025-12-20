@@ -68,8 +68,6 @@ name_in_native_language: Reiner Klimke
 > [Wikipedia](https://en.wikipedia.org/wiki/Reiner%20Klimke) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Klimke,Reiner](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Klimke,Reiner.md) 

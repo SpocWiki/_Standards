@@ -42,8 +42,6 @@ Commons_category: Abrahamic religions
 > [Wikipedia](https://en.wikipedia.org/wiki/Abrahamic%20religions) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Abrahamic_Religion](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion.md) 

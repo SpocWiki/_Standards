@@ -105,8 +105,6 @@ subreddit: SocialDemocracy
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20democracy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Democracy](/_Standards/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.md) 

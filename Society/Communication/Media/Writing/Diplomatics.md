@@ -19,8 +19,6 @@ has_id_wikidata: Q378426
 > [Wikipedia](https://en.wikipedia.org/wiki/Diplomatics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diplomatics](/_Standards/Society/Communication/Media/Writing/Diplomatics.md) 

@@ -29,8 +29,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Josef%20Land)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Franz_Josef_Land](/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.md) 

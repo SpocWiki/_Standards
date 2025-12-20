@@ -46,8 +46,6 @@ Krugosvet_article_archived_: medicina/NEVROZ.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Neurosis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neurosis](/_Standards/bio/Psychology/Mental_Disorder/Neurosis.md) 

@@ -37,8 +37,6 @@ vocalized_name: מְדִינַת שִׁלְטוֹן מָאֳחָד
 > [Wikipedia](https://en.wikipedia.org/wiki/Unitary%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unitary_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Unitary_State.md) 

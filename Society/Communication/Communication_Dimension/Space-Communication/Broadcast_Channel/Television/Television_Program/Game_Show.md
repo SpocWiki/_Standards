@@ -40,8 +40,6 @@ IMDb_keyword: quiz-game-show
 > [Wikipedia](https://en.wikipedia.org/wiki/Game%20show) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Game_Show](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Game_Show.md) 

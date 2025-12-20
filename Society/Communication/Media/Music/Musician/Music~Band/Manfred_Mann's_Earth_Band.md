@@ -10,8 +10,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Manfred%20Mann's%20Earth%20Band) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Manfred_Mann's_Earth_Band](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.md) 

@@ -34,8 +34,6 @@ has_id_wikidata: Q34467
 > [Wikipedia](https://en.wikipedia.org/wiki/Compact%20disc) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CD(Compact_Disc)](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).md) 

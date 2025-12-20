@@ -106,8 +106,6 @@ Libris_URI: 0xbfk45j01x4337
 > [Wikipedia](https://en.wikipedia.org/wiki/Rosalind%20Franklin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Franklin,Rosalind](/_Standards/Chemistry/Chemist/Franklin,Rosalind.md) 

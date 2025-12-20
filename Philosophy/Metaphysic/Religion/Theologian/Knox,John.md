@@ -79,8 +79,6 @@ image:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Knox) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Knox,John](/_Standards/Philosophy/Metaphysic/Religion/Theologian/Knox,John.md) 

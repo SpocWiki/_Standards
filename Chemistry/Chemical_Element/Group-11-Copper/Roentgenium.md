@@ -61,8 +61,6 @@ time_of_discovery_or_invention: 1994-12-08T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Roentgenium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roentgenium](/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.md) 

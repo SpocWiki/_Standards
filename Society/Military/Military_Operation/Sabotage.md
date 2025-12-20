@@ -70,8 +70,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sabotage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sabotage](/_Standards/Society/Military/Military_Operation/Sabotage.md) 

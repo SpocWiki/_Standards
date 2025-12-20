@@ -43,8 +43,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Engine%20Test%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Ion%20thruster)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ion_Thruster](/_Standards/Technology/Spaceflight/Ion_Thruster.md) 

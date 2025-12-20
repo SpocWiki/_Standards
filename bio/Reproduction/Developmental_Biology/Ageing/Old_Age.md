@@ -63,8 +63,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A1zasp%C3%A1r.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Old%20age) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Old_Age](/_Standards/bio/Reproduction/Developmental_Biology/Ageing/Old_Age.md) 

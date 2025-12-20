@@ -104,8 +104,6 @@ Commons_category: Ten Commandments
 > [Wikipedia](https://en.wikipedia.org/wiki/Ten%20Commandments) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ten_Commandments](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Ten_Commandments.md) 

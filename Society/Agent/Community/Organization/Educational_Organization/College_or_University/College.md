@@ -57,8 +57,6 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/College) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [College](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/College.md) 

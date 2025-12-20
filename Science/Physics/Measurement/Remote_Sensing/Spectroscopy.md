@@ -66,8 +66,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Spectroscopy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spectroscopy](/_Standards/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.md) 

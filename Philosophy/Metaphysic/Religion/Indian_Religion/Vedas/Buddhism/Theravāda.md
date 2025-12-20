@@ -45,8 +45,6 @@ Dewey_Decimal_Classification: "294.391"
 > [Wikipedia](https://en.wikipedia.org/wiki/Theravada) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theravāda](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.md) 

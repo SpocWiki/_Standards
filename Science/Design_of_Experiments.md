@@ -32,9 +32,6 @@ Commons_category: Design of experiments
 > [Wikipedia](https://en.wikipedia.org/wiki/Design%20of%20experiments) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Design_of_Experiments](/_Standards/Science/Design_of_Experiments.md) 

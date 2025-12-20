@@ -18,8 +18,6 @@ has_id_wikidata: Q851782
 > [Wikipedia](https://en.wikipedia.org/wiki/Tableware) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tableware](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware.md) 

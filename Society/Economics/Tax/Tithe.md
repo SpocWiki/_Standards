@@ -67,8 +67,6 @@ Dewey_Decimal_Classification: "248.6"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tithe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tithe](/_Standards/Society/Economics/Tax/Tithe.md) 

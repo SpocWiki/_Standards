@@ -48,8 +48,6 @@ Commons_category: Oxidizing agents
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxidizing%20agent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oxidizing_Agent](/_Standards/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.md) 

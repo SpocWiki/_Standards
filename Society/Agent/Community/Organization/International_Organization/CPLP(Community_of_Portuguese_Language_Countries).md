@@ -73,8 +73,6 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20da%
 > [Wikipedia](https://en.wikipedia.org/wiki/Community%20of%20Portuguese%20Language%20Countries) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CPLP(Community_of_Portuguese_Language_Countries)](/_Standards/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).md) 

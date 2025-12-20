@@ -35,8 +35,6 @@ which can eventually be used to change Societies and continuate Power Concentrat
 > [Wikipedia](https://en.wikipedia.org/wiki/Power%20(social%20and%20political)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Political_Power](/_Standards/Society/Politics/Political_Power.md) 

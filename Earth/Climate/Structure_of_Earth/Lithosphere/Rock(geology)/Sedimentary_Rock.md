@@ -64,8 +64,6 @@ EAGLE_id: material/lod/55
 > [Wikipedia](https://en.wikipedia.org/wiki/Sedimentary%20rock) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sedimentary_Rock](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.md) 

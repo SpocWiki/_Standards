@@ -113,8 +113,6 @@ ISNI: 000000011611940X
 > [Wikipedia](https://en.wikipedia.org/wiki/Theodoric%20the%20Great) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0454-Theoderic_the_Great+0526](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.md) 

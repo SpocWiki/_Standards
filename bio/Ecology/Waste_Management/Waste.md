@@ -73,8 +73,6 @@ IPTC_NewsCode: mediatopic/20000428
 > [Wikipedia](https://en.wikipedia.org/wiki/Waste) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Waste](/_Standards/bio/Ecology/Waste_Management/Waste.md) 

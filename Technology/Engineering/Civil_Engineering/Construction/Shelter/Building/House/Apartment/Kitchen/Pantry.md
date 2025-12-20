@@ -32,8 +32,6 @@ Commons_category: Pantries
 > [Wikipedia](https://en.wikipedia.org/wiki/Pantry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pantry](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Pantry.md) 

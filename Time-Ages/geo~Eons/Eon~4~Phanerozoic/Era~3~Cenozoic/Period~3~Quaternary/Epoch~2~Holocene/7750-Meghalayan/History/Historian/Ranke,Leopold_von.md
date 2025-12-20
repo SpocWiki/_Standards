@@ -110,7 +110,6 @@ Libris_URI: jgvx0dk20m72dfm
 > [Wikipedia](https://en.wikipedia.org/wiki/Leopold%20von%20Ranke) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ranke,Leopold_von](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.md) 

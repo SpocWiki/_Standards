@@ -137,8 +137,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Henryk%20Sienkiewicz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sienkiewicz,Henryk](/_Standards/Society/Communication/Media/Writing/Book/Writer/Sienkiewicz,Henryk.md) 

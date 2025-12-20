@@ -98,8 +98,6 @@ Commons_category: Trams
 > [Wikipedia](https://en.wikipedia.org/wiki/Tram) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tram](/_Standards/Technology/Transport/Rail_Transport/Tram.md) 

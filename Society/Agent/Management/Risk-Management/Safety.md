@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Safety) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Safety](/_Standards/Society/Agent/Management/Risk-Management/Safety.md) 

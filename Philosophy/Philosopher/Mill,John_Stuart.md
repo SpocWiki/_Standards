@@ -134,8 +134,6 @@ catchphrase: It is better to be a human being dissatisfied than a pig satisfied
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Stuart%20Mill)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mill,John_Stuart](/_Standards/Philosophy/Philosopher/Mill,John_Stuart.md) 

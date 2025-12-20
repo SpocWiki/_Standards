@@ -32,8 +32,6 @@ Commons_category: Legal history
 > [Wikipedia](https://en.wikipedia.org/wiki/Legal%20history) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Legal_History](/_Standards/Society/Law/Legal_History.md) 

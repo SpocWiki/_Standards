@@ -98,8 +98,6 @@ date_of_birth: 1765-11-14T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Fulton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fulton,Robert](/_Standards/Science/Inventor/Fulton,Robert.md) 

@@ -50,10 +50,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Kate%20Bush)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bush,Kate](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.md) 

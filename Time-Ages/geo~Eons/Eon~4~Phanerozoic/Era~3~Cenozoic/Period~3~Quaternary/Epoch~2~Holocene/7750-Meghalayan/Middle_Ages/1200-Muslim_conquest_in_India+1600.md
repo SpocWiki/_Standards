@@ -22,8 +22,6 @@ has_id_wikidata: Q2566899
 > [Wikipedia](https://en.wikipedia.org/wiki/Muslim%20conquests%20in%20the%20Indian%20subcontinent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1200-Muslim_conquest_in_India+1600](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.md) 

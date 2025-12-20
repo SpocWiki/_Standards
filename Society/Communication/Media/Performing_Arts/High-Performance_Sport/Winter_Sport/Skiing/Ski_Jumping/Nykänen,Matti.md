@@ -80,8 +80,6 @@ date_of_death: 2019-02-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Matti%20Nyk%C3%A4nen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nykänen,Matti](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.md) 

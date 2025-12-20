@@ -60,8 +60,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Cukor%20Allan
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Cukor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cukor,George](/_Standards/Society/Communication/Media/Movie/Movie-Director/Cukor,George.md) 

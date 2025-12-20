@@ -42,8 +42,6 @@ Commons_category: Oil-drop experiment
 > [Wikipedia](https://en.wikipedia.org/wiki/Oil%20drop%20experiment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oil_Drop_Experiment](/_Standards/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.md) 

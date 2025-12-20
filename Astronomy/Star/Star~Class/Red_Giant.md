@@ -44,9 +44,6 @@ A Star powered by fusion of hydrogen in shell with an inactive core of helium.
 > [Wikipedia](https://en.wikipedia.org/wiki/Red%20giant) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Red_Giant](/_Standards/Astronomy/Star/Star~Class/Red_Giant.md) 

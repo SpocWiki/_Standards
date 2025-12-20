@@ -28,8 +28,6 @@ UMLS_CUI: C1625732
 > [Wikipedia](https://en.wikipedia.org/wiki/BOP%20clade) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [BOP](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.md) 

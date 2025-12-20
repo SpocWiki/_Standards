@@ -73,8 +73,6 @@ IEV_number: 121-11-56
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20field) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dim~Magnetic_Field_Strength_H](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H.md) 

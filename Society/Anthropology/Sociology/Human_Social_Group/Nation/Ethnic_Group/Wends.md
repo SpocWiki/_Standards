@@ -53,8 +53,6 @@ Commons_category: Wends
 > [Wikipedia](https://en.wikipedia.org/wiki/Wends) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wends](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.md) 

@@ -59,8 +59,6 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Vermilion%20Bird) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zhuque](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Zhuque.md) 

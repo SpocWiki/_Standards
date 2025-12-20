@@ -83,8 +83,6 @@ ISNI: "0000000381760310"
 > [Wikipedia](https://en.wikipedia.org/wiki/Zeno%20of%20Citium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zeno_of_Citium](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.md) 

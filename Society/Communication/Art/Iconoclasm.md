@@ -36,8 +36,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Iconoclasm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Iconoclasm](/_Standards/Society/Communication/Art/Iconoclasm.md) 

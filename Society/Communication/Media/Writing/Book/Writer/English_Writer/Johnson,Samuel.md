@@ -124,8 +124,6 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Samuel%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Johnson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Johnson,Samuel](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Johnson,Samuel.md) 

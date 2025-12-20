@@ -30,8 +30,6 @@
 Similar to the [[Tor-Network]], VPNs operate Servers on most Continents and many Jurisdictions, allowing to access e.g. contents blocked by [[Geofence]].  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [VPN(Virtual_Private_Network)](/_Standards/Society/Agent/Management/Risk-Management/VPN(Virtual_Private_Network).md) 

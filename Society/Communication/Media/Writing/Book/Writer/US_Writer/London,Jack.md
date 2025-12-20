@@ -153,9 +153,6 @@ Regensburg_Classification: HU 4280
 > [Wikipedia](https://en.wikipedia.org/wiki/Jack%20London) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [London,Jack](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.md) 

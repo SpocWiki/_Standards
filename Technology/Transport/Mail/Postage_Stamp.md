@@ -133,8 +133,6 @@ UNSPSC_Code: "44121513"
 > [Wikipedia](https://en.wikipedia.org/wiki/Postage%20stamp) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Postage_Stamp](/_Standards/Technology/Transport/Mail/Postage_Stamp.md) 

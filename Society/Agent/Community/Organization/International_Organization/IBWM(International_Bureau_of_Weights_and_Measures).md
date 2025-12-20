@@ -67,8 +67,6 @@ official_name: BUREAU INTERNATIONAL POIDS ET MESURES
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Bureau%20of%20Weights%20and%20Measures) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures)](/_Standards/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).md) 

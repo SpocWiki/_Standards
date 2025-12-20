@@ -24,8 +24,6 @@ taxon_name: Herpestoidea
 > [Wikipedia](https://en.wikipedia.org/wiki/Herpestoidea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Herpestoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Viverroidea/Herpestoidea.md) 

@@ -64,8 +64,6 @@ short_name: Diss.
 > [Wikipedia](https://en.wikipedia.org/wiki/Thesis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Doctoral_Thesis](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.md) 

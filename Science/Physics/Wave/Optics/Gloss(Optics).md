@@ -43,8 +43,6 @@ IEV_number: 845-24-080
 > [Wikipedia](https://en.wikipedia.org/wiki/Gloss%20(optics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gloss(Optics)](/_Standards/Science/Physics/Wave/Optics/Gloss(Optics).md) 

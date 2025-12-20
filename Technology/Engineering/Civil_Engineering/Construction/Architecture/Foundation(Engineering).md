@@ -41,9 +41,6 @@ Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/FUNDAMENT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Foundation%20(engineering)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Foundation(Engineering)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Foundation(Engineering).md) 

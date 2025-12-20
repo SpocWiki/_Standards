@@ -94,8 +94,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/GERAKLIT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Heraclitus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heraclitus](/_Standards/Philosophy/Philosopher/Heraclitus.md) 

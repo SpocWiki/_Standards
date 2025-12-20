@@ -41,8 +41,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/VignetteEulerIdentity.
 > [Wikipedia](https://en.wikipedia.org/wiki/Euler's%20identity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euler's_Identity](/_Standards/Mathematics/Complex_Analysis/Euler's_Identity.md) 

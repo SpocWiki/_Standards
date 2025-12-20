@@ -90,8 +90,6 @@ IPTC_NewsCode: mediatopic/20000229
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20security) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computer_Security](/_Standards/Technology/IT/Computer_Security.md) 

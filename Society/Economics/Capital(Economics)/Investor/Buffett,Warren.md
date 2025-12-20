@@ -122,8 +122,6 @@ date_of_birth: 1930-08-30T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Warren%20Buffett) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Buffett,Warren](/_Standards/Society/Economics/Capital(Economics)/Investor/Buffett,Warren.md) 

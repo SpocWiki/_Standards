@@ -37,8 +37,6 @@ Commons_category: Data transmission
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20communication) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Data_Transmission](/_Standards/Technology/IT/Data/Data_Transmission.md) 

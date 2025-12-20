@@ -77,9 +77,6 @@ first_line: It is a little remarkable, that—though disinclined to talk overmuc
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Scarlet%20Letter) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scarlet_Letter](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel/Scarlet_Letter.md) 

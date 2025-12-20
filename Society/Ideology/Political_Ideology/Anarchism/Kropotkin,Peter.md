@@ -141,8 +141,6 @@ ISNI: 000000012281103X
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Kropotkin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kropotkin,Peter](/_Standards/Society/Ideology/Political_Ideology/Anarchism/Kropotkin,Peter.md) 

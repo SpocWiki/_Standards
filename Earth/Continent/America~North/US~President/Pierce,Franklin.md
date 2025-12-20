@@ -32,8 +32,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]] ] [created:: 1853-03-04]  [cancelled:: 1857-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pierce,Franklin](/_Standards/Earth/Continent/America~North/US~President/Pierce,Franklin.md) 

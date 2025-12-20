@@ -65,8 +65,6 @@ MeSH_tree_code: D05.750.078.875
 > [Wikipedia](https://en.wikipedia.org/wiki/Silk) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Silk](/_Standards/Technology/Tool/Clothing/Textile/Silk.md) 

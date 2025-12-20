@@ -113,9 +113,6 @@ ISNI: "0000000073755923"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Jacob%20Astor) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Astor,John_Jacob](/_Standards/Society/Economics/Capital(Economics)/Investor/Astor,John_Jacob.md) 

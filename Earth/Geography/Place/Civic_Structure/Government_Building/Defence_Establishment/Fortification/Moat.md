@@ -45,8 +45,6 @@ GeoNames_feature_code: U.MOTU
 > [Wikipedia](https://en.wikipedia.org/wiki/Moat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moat](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.md) 

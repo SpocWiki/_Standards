@@ -67,8 +67,6 @@ Unicode_character: 🪑
 > [Wikipedia](https://en.wikipedia.org/wiki/Chair) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chair](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Chair.md) 

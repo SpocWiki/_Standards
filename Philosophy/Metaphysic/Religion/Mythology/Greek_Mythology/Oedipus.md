@@ -72,8 +72,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/EDIP.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Oedipus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oedipus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Oedipus.md) 

@@ -38,8 +38,6 @@ end_time: 1905-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Post-Impressionism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Post-Impressionism](/_Standards/Society/Communication/Art/Art_History/Post-Impressionism.md) 

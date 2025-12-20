@@ -87,8 +87,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Metropolitan%20Opera%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Entertainment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Entertainment](/_Standards/Society/Communication/Media/Entertainment.md) 

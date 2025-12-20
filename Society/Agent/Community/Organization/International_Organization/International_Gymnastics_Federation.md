@@ -61,10 +61,6 @@ official_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Gymnastics%20Federation) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Gymnastics_Federation](/_Standards/Society/Agent/Community/Organization/International_Organization/International_Gymnastics_Federation.md) 

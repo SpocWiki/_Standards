@@ -46,8 +46,6 @@ NBN_System_Key: NHMSYS0000376850
 > [Wikipedia](https://en.wikipedia.org/wiki/Lynx) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lynx](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Lynx.md) 

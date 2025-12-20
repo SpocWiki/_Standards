@@ -69,8 +69,6 @@ official_name: 无产阶级文化大革命
 > [Wikipedia](https://en.wikipedia.org/wiki/Cultural%20Revolution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1966-Cultural_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.md) 

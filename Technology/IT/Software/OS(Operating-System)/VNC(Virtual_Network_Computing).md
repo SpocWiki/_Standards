@@ -29,9 +29,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/VNC)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [VNC(Virtual_Network_Computing)](/_Standards/Technology/IT/Software/OS(Operating-System)/VNC(Virtual_Network_Computing).md) 

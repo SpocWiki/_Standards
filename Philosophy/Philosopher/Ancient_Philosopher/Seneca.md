@@ -128,8 +128,6 @@ Libris_URI: jgvxtf7217j8051
 > [Wikipedia](https://en.wikipedia.org/wiki/Seneca%20the%20Younger) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seneca](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Seneca.md) 

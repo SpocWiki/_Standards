@@ -72,7 +72,6 @@ Krugosvet_article: istoriya/SEVERNAYA_VONA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Northern%20War) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1700-Great_Northern_War+1721](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.md) 

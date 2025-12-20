@@ -54,8 +54,6 @@ MeSH_tree_code: F01.658.642
 > [Wikipedia](https://en.wikipedia.org/wiki/Instinct)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Instinct](/_Standards/bio/Psychology/Behavior/Instinct.md) 

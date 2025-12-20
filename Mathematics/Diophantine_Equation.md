@@ -21,8 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Diophantine%20equation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diophantine_Equation](/_Standards/Mathematics/Diophantine_Equation.md) 

@@ -42,8 +42,6 @@ Commons_category: Militarism
 > [Wikipedia](https://en.wikipedia.org/wiki/Militarism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Militarism](/_Standards/Society/Ideology/Political_Ideology/Militarism.md) 

@@ -51,8 +51,6 @@ OpenStreetMap_tag: sport=mtb
 > [Wikipedia](https://en.wikipedia.org/wiki/Mountain%20bike) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mountain_Bike](/_Standards/Technology/Transport/Road_Transport/Bicycle/Mountain_Bike.md) 

@@ -40,8 +40,6 @@ taxon_range_map_image:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lemuriformes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lemuriformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuriformes.md) 

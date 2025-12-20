@@ -89,8 +89,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Liberty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Liberty](/_Standards/Society/Agent/Liberty.md) 

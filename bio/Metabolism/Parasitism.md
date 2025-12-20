@@ -65,8 +65,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/PARAZITIZM.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Parasitism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parasitism](/_Standards/bio/Metabolism/Parasitism.md) 

@@ -33,8 +33,6 @@ has_id_wikidata: Q104837
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20of%20matter) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phase](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Phase.md) 

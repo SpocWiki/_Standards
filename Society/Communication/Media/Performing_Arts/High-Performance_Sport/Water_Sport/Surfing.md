@@ -70,8 +70,6 @@ OpenStreetMap_tag: sport=surfing
 > [Wikipedia](https://en.wikipedia.org/wiki/Surfing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Surfing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.md) 

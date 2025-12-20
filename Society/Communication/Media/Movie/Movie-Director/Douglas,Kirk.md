@@ -69,33 +69,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-<<<<<<< HEAD:Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.md
-### #is_/same_as :: [Douglas,Kirk](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.md) 
+### #is_/same_as :: [Douglas,Kirk](/_Standards/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.md) 
 
-### #is_/same_as :: [Douglas,Kirk.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.public.md) 
+### #is_/same_as :: [Douglas,Kirk.public](/_public/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.public.md) 
 
-### #is_/same_as :: [Douglas,Kirk.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.internal.md) 
+### #is_/same_as :: [Douglas,Kirk.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.internal.md) 
 
-### #is_/same_as :: [Douglas,Kirk.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.protect.md) 
+### #is_/same_as :: [Douglas,Kirk.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.protect.md) 
 
-### #is_/same_as :: [Douglas,Kirk.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.private.md) 
+### #is_/same_as :: [Douglas,Kirk.private](/_private/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.private.md) 
 
-### #is_/same_as :: [Douglas,Kirk.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.personal.md) 
+### #is_/same_as :: [Douglas,Kirk.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.personal.md) 
 
-### #is_/same_as :: [Douglas,Kirk.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.secret.md)
-=======
-### #is_/same_as :: [Douglas,Kirk](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life/Douglas,Kirk.md) 
-
-### #is_/same_as :: [Douglas,Kirk.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life/Douglas,Kirk.public.md) 
-
-### #is_/same_as :: [Douglas,Kirk.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life/Douglas,Kirk.internal.md) 
-
-### #is_/same_as :: [Douglas,Kirk.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life/Douglas,Kirk.protect.md) 
-
-### #is_/same_as :: [Douglas,Kirk.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life/Douglas,Kirk.private.md) 
-
-### #is_/same_as :: [Douglas,Kirk.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life/Douglas,Kirk.personal.md) 
-
-### #is_/same_as :: [Douglas,Kirk.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life/Douglas,Kirk.secret.md)
->>>>>>> 33fe7f0871ab4a52ef00b08103f17dc379a1b7ce:Society/Communication/Media/Movie/Movie-Director/Lust_for_Life/Douglas,Kirk.md
+### #is_/same_as :: [Douglas,Kirk.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.secret.md)
 

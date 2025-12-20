@@ -51,8 +51,6 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 > [Wikipedia](https://en.wikipedia.org/wiki/Planck%20units) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Planck_Time](/_Standards/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.md) 

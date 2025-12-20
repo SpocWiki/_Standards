@@ -28,8 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Friendship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Friendship](/_Standards/bio/Psychology/Affect/Emotion/Friendship.md) 

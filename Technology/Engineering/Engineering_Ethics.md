@@ -27,8 +27,6 @@ facet_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Engineering%20ethics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Engineering_Ethics](/_Standards/Technology/Engineering/Engineering_Ethics.md) 

@@ -119,8 +119,6 @@ IPTC_NewsCode: mediatopic/20000126
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Law](/_Standards/Society/Law/International_Law.md) 

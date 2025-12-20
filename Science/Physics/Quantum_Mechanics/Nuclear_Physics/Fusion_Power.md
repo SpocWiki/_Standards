@@ -56,8 +56,6 @@ Commons_category: Nuclear fusion reactors
 > [Wikipedia](https://en.wikipedia.org/wiki/Fusion%20power) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fusion_Power](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.md) 

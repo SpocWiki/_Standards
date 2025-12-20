@@ -54,10 +54,6 @@ Baidu_Tieba_name: 花样滑冰
 > [Wikipedia](https://en.wikipedia.org/wiki/Figure%20skating) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Figure_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating.md) 

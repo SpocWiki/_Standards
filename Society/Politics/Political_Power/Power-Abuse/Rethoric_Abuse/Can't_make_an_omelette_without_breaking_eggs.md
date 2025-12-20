@@ -5,8 +5,6 @@ Even voluntary Sacrifices are often only
 the result of internalized Norms that benefit ruling Classes. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Can't_make_an_omelette_without_breaking_eggs](/_Standards/Society/Politics/Political_Power/Power-Abuse/Rethoric_Abuse/Can't_make_an_omelette_without_breaking_eggs.md) 

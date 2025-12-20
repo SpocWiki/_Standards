@@ -45,8 +45,6 @@ Commons_category: Periscopes
 > [Wikipedia](https://en.wikipedia.org/wiki/Periscope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Periscope](/_Standards/Technology/Tool/Instrumentation/Periscope.md) 

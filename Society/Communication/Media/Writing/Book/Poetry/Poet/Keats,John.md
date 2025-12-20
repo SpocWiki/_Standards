@@ -101,8 +101,6 @@ Libris_URI: 64jlmv9q3n1735f
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Keats) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Keats,John](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.md) 

@@ -87,9 +87,6 @@ Commons_category: Orion Nebula
 > [Wikipedia](https://en.wikipedia.org/wiki/Orion%20Nebula) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orion_Nebula](/_Standards/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.md) 

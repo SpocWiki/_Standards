@@ -111,8 +111,6 @@ Libris_URI: ljx01d641fffcg4
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20of%20Ockham) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ockham,William_of](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Ockham,William_of.md) 

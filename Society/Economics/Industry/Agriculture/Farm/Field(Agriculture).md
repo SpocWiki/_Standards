@@ -41,10 +41,6 @@ OpenStreetMap_tag: landuse=farmland
 > [Wikipedia](https://en.wikipedia.org/wiki/Field%20(agriculture)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Field(Agriculture)](/_Standards/Society/Economics/Industry/Agriculture/Farm/Field(Agriculture).md) 

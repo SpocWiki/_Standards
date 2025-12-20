@@ -31,8 +31,6 @@ has_id_wikidata: Q244761
 > [Wikipedia](https://en.wikipedia.org/wiki/Function%20composition) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Function_Composition](/_Standards/Mathematics/Function(Math)/Function_Composition.md) 

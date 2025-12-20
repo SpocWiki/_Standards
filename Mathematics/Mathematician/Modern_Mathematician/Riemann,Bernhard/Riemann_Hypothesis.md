@@ -48,8 +48,6 @@ Commons_category: Riemann hypothesis
 > [Wikipedia](https://en.wikipedia.org/wiki/Riemann%20hypothesis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Riemann_Hypothesis](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.md) 

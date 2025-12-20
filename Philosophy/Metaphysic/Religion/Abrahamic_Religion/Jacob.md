@@ -113,8 +113,6 @@ name_in_native_language: יַעֲקֹב
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacob) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jacob](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jacob.md) 

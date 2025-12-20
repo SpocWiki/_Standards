@@ -101,8 +101,6 @@ Iconclass_notation: 23I31
 > [Wikipedia](https://en.wikipedia.org/wiki/July) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [July](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/July.md) 

@@ -24,8 +24,6 @@ Commons_category: Petroleum companies
 > [Wikipedia](https://en.wikipedia.org/wiki/Petroleum%20industry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oil_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company.md) 

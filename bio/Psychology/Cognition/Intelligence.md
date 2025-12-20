@@ -39,8 +39,6 @@ has_id_wikidata: Q83500
 > [Wikipedia](https://en.wikipedia.org/wiki/Intelligence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Intelligence](/_Standards/bio/Psychology/Cognition/Intelligence.md) 

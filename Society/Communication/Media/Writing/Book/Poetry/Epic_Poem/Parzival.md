@@ -40,8 +40,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Parzival) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parzival](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.md) 

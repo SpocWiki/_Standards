@@ -63,8 +63,6 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Kindergarten) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kindergarten](/_Standards/Society/Culture/Education/Kindergarten.md) 

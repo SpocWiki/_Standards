@@ -56,8 +56,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D0%BC%D0%B1%D1%
 > [Wikipedia](https://en.wikipedia.org/wiki/Embryo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Embryo](/_Standards/bio/Reproduction/Developmental_Biology/Embryo.md) 

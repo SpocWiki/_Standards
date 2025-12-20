@@ -57,8 +57,6 @@ IMDb_keyword: lawnmower
 > [Wikipedia](https://en.wikipedia.org/wiki/Lawn%20mower) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lawn_Mower](/_Standards/Society/Economics/Industry/Agriculture/Lawn_Mower.md) 

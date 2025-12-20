@@ -63,9 +63,6 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Three%20Kingdoms%20of%20Korea) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-0017-Three_Kingdoms_of_Korea+0660](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.md) 

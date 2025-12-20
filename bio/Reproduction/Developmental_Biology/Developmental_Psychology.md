@@ -60,8 +60,6 @@ MeSH_tree_code: F04.096.628.270
 > [Wikipedia](https://en.wikipedia.org/wiki/Developmental%20psychology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Developmental_Psychology](/_Standards/bio/Reproduction/Developmental_Biology/Developmental_Psychology.md) 

@@ -94,8 +94,6 @@ native_label: South Asian Association for Regional Cooperation
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Asian%20Association%20for%20Regional%20Cooperation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [South_Asian_Association_for_Regional_Cooperation](/_Standards/Society/Agent/Community/Organization/International_Organization/South_Asian_Association_for_Regional_Cooperation.md) 

@@ -71,8 +71,6 @@ Unicode_character: 🛗
 > [Wikipedia](https://en.wikipedia.org/wiki/Elevator) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Elevator](/_Standards/Technology/Transport/Vertical_Transport/Elevator.md) 

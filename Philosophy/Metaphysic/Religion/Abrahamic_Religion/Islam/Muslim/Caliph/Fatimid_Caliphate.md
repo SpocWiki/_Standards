@@ -127,8 +127,6 @@ Commons_category: Fatimid Caliphate
 > [Wikipedia](https://en.wikipedia.org/wiki/Fatimid%20Caliphate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fatimid_Caliphate](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.md) 

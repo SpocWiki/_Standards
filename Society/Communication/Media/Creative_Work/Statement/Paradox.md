@@ -61,8 +61,6 @@ PhilPapers_topic: paradoxes
 > [Wikipedia](https://en.wikipedia.org/wiki/Paradox) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paradox](/_Standards/Society/Communication/Media/Creative_Work/Statement/Paradox.md) 

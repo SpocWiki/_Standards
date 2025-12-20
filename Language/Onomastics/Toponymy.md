@@ -30,8 +30,6 @@ Commons_category: Toponymy
 > [Wikipedia](https://en.wikipedia.org/wiki/Toponymy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Toponymy](/_Standards/Language/Onomastics/Toponymy.md) 

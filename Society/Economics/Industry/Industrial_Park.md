@@ -32,8 +32,6 @@ Commons_category: Industrial parks
 > [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20park) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Industrial_Park](/_Standards/Society/Economics/Industry/Industrial_Park.md) 

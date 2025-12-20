@@ -19,8 +19,6 @@ has_id_wikidata: Q14189
 > [Wikipedia](https://en.wikipedia.org/wiki/Cumulus%20cloud) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cumulus](/_Standards/Earth/Climate/Weather/Cloud/Cumulus.md) 

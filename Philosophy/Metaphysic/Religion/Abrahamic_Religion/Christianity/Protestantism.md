@@ -82,8 +82,6 @@ IPTC_NewsCode: mediatopic/20000664
 > [Wikipedia](https://en.wikipedia.org/wiki/Protestantism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Protestantism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism.md) 

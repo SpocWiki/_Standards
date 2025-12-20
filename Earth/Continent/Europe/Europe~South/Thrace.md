@@ -65,8 +65,6 @@ coordinate_location: Point(26.0 42.0)
 > [Wikipedia](https://en.wikipedia.org/wiki/Thrace) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thrace](/_Standards/Earth/Continent/Europe/Europe~South/Thrace.md) 

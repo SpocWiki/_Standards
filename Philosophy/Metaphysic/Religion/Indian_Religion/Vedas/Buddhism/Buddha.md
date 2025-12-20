@@ -153,8 +153,6 @@ Iconclass_notation: 12H13(BUDDHA)
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Buddha) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Buddha](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Buddha.md) 

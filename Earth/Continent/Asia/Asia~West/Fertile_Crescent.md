@@ -55,8 +55,6 @@ Commons_category: Fertile Crescent
 > [Wikipedia](https://en.wikipedia.org/wiki/Fertile%20Crescent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fertile_Crescent](/_Standards/Earth/Continent/Asia/Asia~West/Fertile_Crescent.md) 

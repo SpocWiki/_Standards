@@ -79,8 +79,6 @@ Iconclass_notation: 71A32113
 > [Wikipedia](https://en.wikipedia.org/wiki/Tigris) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tigris](/_Standards/Earth/Continent/Asia/Asia~West/Tigris.md) 

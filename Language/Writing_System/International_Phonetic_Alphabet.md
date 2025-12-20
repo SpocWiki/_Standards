@@ -183,8 +183,6 @@ Commons_category: IPA charts
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Phonetic_Alphabet](/_Standards/Language/Writing_System/International_Phonetic_Alphabet.md) 

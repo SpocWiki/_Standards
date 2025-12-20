@@ -133,9 +133,6 @@ name_in_native_language: 𐡔𐡌𐡏𐡅𐡍 𐡁𐡓 𐡉𐡅𐡍𐡄
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Peter) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saint_Peter](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.md) 

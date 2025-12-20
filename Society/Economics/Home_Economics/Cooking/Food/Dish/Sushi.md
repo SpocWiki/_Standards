@@ -62,8 +62,6 @@ Dewey_Decimal_Classification: "641.82"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sushi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sushi](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Sushi.md) 

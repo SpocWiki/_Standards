@@ -44,8 +44,6 @@ IMDb_keyword: armor
 > [Wikipedia](https://en.wikipedia.org/wiki/Armour) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Armor](/_Standards/Society/Military/Military_Engineering/Defense/Armor.md) 

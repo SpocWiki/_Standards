@@ -115,8 +115,6 @@ Commons_category: The Starry Night by van Gogh
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Starry%20Night) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Starry_Night(Painting)](/_Standards/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).md) 

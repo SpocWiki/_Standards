@@ -28,8 +28,6 @@ has_id_wikidata: Q8084905
 > [Wikipedia](https://en.wikipedia.org/wiki/Autoimmune%20disease) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Autoimmune_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.md) 

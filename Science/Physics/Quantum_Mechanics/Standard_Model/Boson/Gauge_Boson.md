@@ -32,8 +32,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%
 > [Wikipedia](https://en.wikipedia.org/wiki/Gauge%20boson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gauge_Boson](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.md) 

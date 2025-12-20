@@ -74,8 +74,6 @@ j = \frac{i\hbar}{2m}\left(
 $$
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Klein-Gordon_Equation](/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.md) 

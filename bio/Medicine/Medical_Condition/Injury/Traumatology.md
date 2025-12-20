@@ -36,8 +36,6 @@ Commons_category: Traumatology
 > [Wikipedia](https://en.wikipedia.org/wiki/Traumatology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Traumatology](/_Standards/bio/Medicine/Medical_Condition/Injury/Traumatology.md) 

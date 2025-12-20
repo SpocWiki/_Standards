@@ -100,8 +100,6 @@ Google_Doodle: celebrating-georges-melies
 > [Wikipedia](https://en.wikipedia.org/wiki/Georges%20M%C3%A9li%C3%A8s) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Méliès,Georges](/_Standards/Society/Communication/Media/Movie/Movie-Director/Méliès,Georges.md) 

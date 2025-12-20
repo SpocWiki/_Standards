@@ -236,8 +236,6 @@ MeSH_tree_code: F03.700.750
 > [Wikipedia](https://en.wikipedia.org/wiki/Schizophrenia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schizophrenia](/_Standards/bio/Psychology/Mental_Disorder/Schizophrenia.md) 

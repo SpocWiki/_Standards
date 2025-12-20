@@ -26,8 +26,6 @@ UMLS_CUI: C3135484
 > [Wikipedia](https://en.wikipedia.org/wiki/Cucurbiteae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cucurbiteae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae.md) 

@@ -51,8 +51,6 @@ Commons_category: Requiem Mass
 > [Wikipedia](https://en.wikipedia.org/wiki/Requiem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mass_for_the_dead](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.md) 

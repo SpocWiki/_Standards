@@ -55,8 +55,6 @@ MeSH_tree_code: I01.076.201.450.457
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethnology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ethnology](/_Standards/Society/Anthropology/Sociology/Ethnology.md) 

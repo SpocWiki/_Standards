@@ -96,8 +96,6 @@ official_name: 136199 Eris
 > [Wikipedia](https://en.wikipedia.org/wiki/Eris%20(dwarf%20planet)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eris](/_Standards/Astronomy/Planet/Dwarf_Planet/Eris.md) 

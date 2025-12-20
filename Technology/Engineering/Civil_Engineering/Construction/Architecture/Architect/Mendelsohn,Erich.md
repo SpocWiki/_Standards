@@ -85,8 +85,6 @@ name_in_native_language: Erich Mendelsohn
 > [Wikipedia](https://en.wikipedia.org/wiki/Erich%20Mendelsohn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mendelsohn,Erich](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mendelsohn,Erich.md) 

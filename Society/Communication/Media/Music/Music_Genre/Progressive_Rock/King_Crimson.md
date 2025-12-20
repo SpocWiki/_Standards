@@ -36,12 +36,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/King%20Crimson)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [King_Crimson](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.md) 

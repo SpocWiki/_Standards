@@ -45,9 +45,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Llave%20bronce.jpg
 > The act of opening a lock without a key is called lock picking.
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Key](/_Standards/Society/Agent/Management/Risk-Management/Security/Key.md) 

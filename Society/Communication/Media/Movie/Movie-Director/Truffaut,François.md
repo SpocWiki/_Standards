@@ -127,8 +127,6 @@ Libris_URI: 64jlnq3q1q4bds2
 > [Wikipedia](https://en.wikipedia.org/wiki/Fran%C3%A7ois%20Truffaut) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Truffaut,François](/_Standards/Society/Communication/Media/Movie/Movie-Director/Truffaut,François.md) 

@@ -29,8 +29,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Orden%2012
 > [Wikipedia](https://en.wikipedia.org/wiki/Northern%20Crusades) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1147-Northern_Crusades+1410](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1100/1147-Northern_Crusades+1410.md) 

@@ -91,8 +91,6 @@ Energy --> Electricity --> Work
 > [Wikipedia](https://en.wikipedia.org/wiki/Heat%20engine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heat_Engine](/_Standards/Technology/Engine/Heat_Engine.md) 

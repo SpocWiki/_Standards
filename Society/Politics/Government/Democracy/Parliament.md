@@ -26,8 +26,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Parliament) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parliament](/_Standards/Society/Politics/Government/Democracy/Parliament.md) 

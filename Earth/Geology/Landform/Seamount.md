@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Seamount) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seamount](/_Standards/Earth/Geology/Landform/Seamount.md) 

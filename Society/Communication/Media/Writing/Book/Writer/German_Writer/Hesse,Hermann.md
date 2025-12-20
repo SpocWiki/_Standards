@@ -160,8 +160,6 @@ NLC_authorities: "000148900"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Hesse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hesse,Hermann](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Hesse,Hermann.md) 

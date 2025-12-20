@@ -94,8 +94,6 @@ minZoom: 6
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Titicaca) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lake_Titicaca](/_Standards/Earth/Continent/America~South/Andes/Lake_Titicaca.md) 

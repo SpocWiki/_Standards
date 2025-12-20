@@ -29,8 +29,6 @@ These create typed
 ### Full Text Contents Search 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Search_Strategy](/_Standards/Mathematics/Algorithm/Search_Strategy.md) 

@@ -90,8 +90,6 @@ subreddit:
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20America) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Central_America](/_Standards/Earth/Continent/America~Central/Central_America.md) 

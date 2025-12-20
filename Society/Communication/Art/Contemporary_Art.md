@@ -33,8 +33,6 @@ Commons_category: Contemporary art
 > [Wikipedia](https://en.wikipedia.org/wiki/Contemporary%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Contemporary_Art](/_Standards/Society/Communication/Art/Contemporary_Art.md) 

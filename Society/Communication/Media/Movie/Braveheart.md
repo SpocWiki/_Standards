@@ -33,8 +33,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Braveheart) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Braveheart](/_Standards/Society/Communication/Media/Movie/Braveheart.md) 

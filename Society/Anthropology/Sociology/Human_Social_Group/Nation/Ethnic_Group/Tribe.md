@@ -59,8 +59,6 @@ Tribes are a smaller, more kinship-based kind of ethnic Group.
 > [Wikipedia](https://en.wikipedia.org/wiki/Tribe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tribe](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.md) 

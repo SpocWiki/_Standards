@@ -46,8 +46,6 @@ dissolved_abolished_or_demolished_date: 2011-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20European%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Western_European_Union](/_Standards/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.md) 

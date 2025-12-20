@@ -38,8 +38,6 @@ Commons_category: Relays
 > [Wikipedia](https://en.wikipedia.org/wiki/Relay) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Relay](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.md) 

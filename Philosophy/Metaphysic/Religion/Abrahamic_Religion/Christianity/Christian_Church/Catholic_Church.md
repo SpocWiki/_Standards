@@ -155,8 +155,6 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/RIMSKO-KATOLICHESKAYA_TSERKOV.
 > [Wikipedia](https://en.wikipedia.org/wiki/Catholic%20Church) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Catholic_Church](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church.md) 

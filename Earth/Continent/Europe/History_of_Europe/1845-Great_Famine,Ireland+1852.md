@@ -83,13 +83,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine%20(Ireland))
 
 
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1845-Great_Famine,Ireland+1852](/_Standards/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.md) 

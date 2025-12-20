@@ -102,8 +102,6 @@ birth_name: Gilbert Newton Lewis
 > [Wikipedia](https://en.wikipedia.org/wiki/Gilbert%20N.%20Lewis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lewis,Gilbert_N.](/_Standards/Chemistry/Chemist/Lewis,Gilbert_N..md) 

@@ -94,8 +94,6 @@ RIA_Novosti_reference: "55256456"
 > [Wikipedia](https://en.wikipedia.org/wiki/Halloween) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Halloween](/_Standards/ISO/Calendar/Halloween.md) 

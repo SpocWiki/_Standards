@@ -61,8 +61,6 @@ date_of_birth: 1909-08-10T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Leo%20Fender) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fender,Leo](/_Standards/Science/Inventor/Fender,Leo.md) 

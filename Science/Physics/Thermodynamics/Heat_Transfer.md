@@ -71,8 +71,6 @@ Commons_category: Heat transfer
 > [Wikipedia](https://en.wikipedia.org/wiki/Heat%20transfer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heat_Transfer](/_Standards/Science/Physics/Thermodynamics/Heat_Transfer.md) 

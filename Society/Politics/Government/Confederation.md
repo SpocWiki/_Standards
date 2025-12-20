@@ -45,8 +45,6 @@ Commons_category: Confederations
 > [Wikipedia](https://en.wikipedia.org/wiki/Confederation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Confederation](/_Standards/Society/Politics/Government/Confederation.md) 

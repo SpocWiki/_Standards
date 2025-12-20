@@ -43,8 +43,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Brush.tif
 > [Wikipedia](https://en.wikipedia.org/wiki/Brush) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brush](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush.md) 

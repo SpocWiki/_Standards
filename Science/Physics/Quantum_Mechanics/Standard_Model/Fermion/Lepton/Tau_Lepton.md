@@ -55,10 +55,6 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Feynman%20diag
 > [Wikipedia](https://en.wikipedia.org/wiki/Tau%20(particle)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tau_Lepton](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.md) 

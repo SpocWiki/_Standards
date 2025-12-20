@@ -114,8 +114,6 @@ Europeana_entity: agent/base/53157
 > [Wikipedia](https://en.wikipedia.org/wiki/Niccol%C3%B2%20Paganini) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Niccolò_Paganini](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.md) 

@@ -55,8 +55,6 @@ Gujarati_Vishwakosh_entry: રેતીખડક-sandstone
 > [Wikipedia](https://en.wikipedia.org/wiki/Sandstone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sandstone](/_Standards/Earth/Geology/Mineral/Sandstone.md) 

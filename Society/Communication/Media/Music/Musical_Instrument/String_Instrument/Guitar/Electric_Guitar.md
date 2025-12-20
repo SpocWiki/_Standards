@@ -61,8 +61,6 @@ Baidu_Tieba_name: 电吉他
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20guitar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electric_Guitar](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.md) 

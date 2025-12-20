@@ -42,8 +42,6 @@ but [[../Statement|Statement]]s need to be proven
 and [[Claim]]s of Facts are debatable.
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Opinion](/_Standards/Society/Communication/Media/Creative_Work/Statement/Opinion.md) 

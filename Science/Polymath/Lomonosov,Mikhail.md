@@ -133,8 +133,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/LOMONOSOV_MIHAIL_VASILEVICH.
 > [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Lomonosov) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lomonosov,Mikhail](/_Standards/Science/Polymath/Lomonosov,Mikhail.md) 

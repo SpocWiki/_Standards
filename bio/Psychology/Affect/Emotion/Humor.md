@@ -55,8 +55,6 @@ MeSH_tree_code: V02.540
 > [Wikipedia](https://en.wikipedia.org/wiki/Humour) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Humor](/_Standards/bio/Psychology/Affect/Emotion/Humor.md) 

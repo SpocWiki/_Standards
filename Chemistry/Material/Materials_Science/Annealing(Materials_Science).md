@@ -41,11 +41,6 @@ Commons_category: Annealing
 > [Wikipedia](https://en.wikipedia.org/wiki/Annealing%20(materials%20science)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Annealing(Materials_Science)](/_Standards/Chemistry/Material/Materials_Science/Annealing(Materials_Science).md) 

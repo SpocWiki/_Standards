@@ -144,8 +144,6 @@ Royal_Academy_new_identifier: jacob-berzelius
 > [Wikipedia](https://en.wikipedia.org/wiki/J%C3%B6ns%20Jacob%20Berzelius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Berzelius,Jöns_Jacob](/_Standards/Chemistry/Chemist/Berzelius,Jöns_Jacob.md) 

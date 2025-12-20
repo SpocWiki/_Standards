@@ -97,8 +97,6 @@ taxon_common_name: żyto zwyczajne
 > [Wikipedia](https://en.wikipedia.org/wiki/Rye) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rye](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae/Secale/Rye.md) 

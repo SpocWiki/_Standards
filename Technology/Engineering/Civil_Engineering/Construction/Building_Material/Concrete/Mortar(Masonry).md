@@ -58,9 +58,6 @@ Commons_category: Mortar (masonry)
 > [Wikipedia](https://en.wikipedia.org/wiki/Mortar%20(masonry)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mortar(Masonry)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).md) 

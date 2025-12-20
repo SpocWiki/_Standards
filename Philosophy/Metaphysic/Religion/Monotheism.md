@@ -53,8 +53,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MONOTEIZM.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Monotheism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monotheism](/_Standards/Philosophy/Metaphysic/Religion/Monotheism.md) 

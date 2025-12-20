@@ -60,8 +60,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/HKCEC%20Wan%20Chai%20N
 > [Wikipedia](https://en.wikipedia.org/wiki/Magazine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magazine](/_Standards/Society/Communication/Media/Journalism/Magazine.md) 

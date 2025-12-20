@@ -76,8 +76,6 @@ date_of_birth: -0514-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Parmenides) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parmenides](/_Standards/Philosophy/Philosopher/Parmenides.md) 

@@ -41,8 +41,6 @@ Commons_category: Reinforced concrete
 > [Wikipedia](https://en.wikipedia.org/wiki/Reinforced%20concrete) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reinforced_Concrete](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.md) 

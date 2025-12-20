@@ -53,8 +53,6 @@ Wolfram_Language_entity_code: Entity["Concept", "SubsistenceFarming::44wsw"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Subsistence%20agriculture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Subsistence_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/Subsistence_Agriculture.md) 

@@ -74,9 +74,6 @@ short_name: Kumquat
 > [Wikipedia](https://en.wikipedia.org/wiki/Kumquat) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kumquat](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Kumquat.md) 

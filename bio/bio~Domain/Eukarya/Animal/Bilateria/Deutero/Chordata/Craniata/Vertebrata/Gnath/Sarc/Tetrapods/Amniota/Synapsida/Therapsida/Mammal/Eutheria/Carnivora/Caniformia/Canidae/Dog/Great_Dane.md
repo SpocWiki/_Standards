@@ -41,8 +41,6 @@ subreddit: greatdanes
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Dane) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Great_Dane](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Great_Dane.md) 

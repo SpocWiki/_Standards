@@ -93,8 +93,6 @@ IEV_number: 601-01-10
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20power%20distribution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electric_Power_Distribution](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution.md) 

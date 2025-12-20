@@ -21,8 +21,6 @@ has_id_wikidata: Q7202
 > [Wikipedia](https://en.wikipedia.org/wiki/Molecular%20biology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Molecular_Biology](/_Standards/bio/Molecular_Biology.md) 

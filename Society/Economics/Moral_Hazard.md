@@ -37,8 +37,6 @@ studied_by:
 > [Wikipedia](https://en.wikipedia.org/wiki/Moral%20hazard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moral_Hazard](/_Standards/Society/Economics/Moral_Hazard.md) 

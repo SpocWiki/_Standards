@@ -35,8 +35,6 @@ has_id_wikidata: Q1402
 > [Wikipedia](https://en.wikipedia.org/wiki/Giovanni%20Boccaccio) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Boccaccio,Giovanni](/_Standards/Society/Communication/Media/Writing/Book/Writer/Italian_Writer/Boccaccio,Giovanni.md) 

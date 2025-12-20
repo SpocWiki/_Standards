@@ -35,8 +35,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jungle.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Jungle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jungle](/_Standards/bio/Ecology/Ecosystem/Jungle.md) 

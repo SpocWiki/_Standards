@@ -20,8 +20,6 @@ has_id_wikidata: Q206832
 > [Wikipedia](https://en.wikipedia.org/wiki/Gaspard%20Monge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monge,Gaspard](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Monge,Gaspard.md) 

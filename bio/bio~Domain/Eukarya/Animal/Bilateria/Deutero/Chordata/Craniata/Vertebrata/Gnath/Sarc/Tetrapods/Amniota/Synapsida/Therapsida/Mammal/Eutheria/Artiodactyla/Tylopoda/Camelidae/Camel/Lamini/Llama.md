@@ -69,8 +69,6 @@ taxon_common_name: lama andyjska
 > [Wikipedia](https://en.wikipedia.org/wiki/Llama) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Llama](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel/Lamini/Llama.md) 

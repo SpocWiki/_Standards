@@ -90,8 +90,6 @@ EPPO_Code: LIHCH
 > [Wikipedia](https://en.wikipedia.org/wiki/Lychee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Litchi_chinensis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.md) 

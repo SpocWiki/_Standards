@@ -28,8 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Commode) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Commode](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Cabinet(Furniture)/Commode.md) 

@@ -42,8 +42,6 @@ Commons_category: Golden rule
 > [Wikipedia](https://en.wikipedia.org/wiki/Golden%20Rule) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Golden_Rule](/_Standards/Philosophy/Ethics/Golden_Rule.md) 

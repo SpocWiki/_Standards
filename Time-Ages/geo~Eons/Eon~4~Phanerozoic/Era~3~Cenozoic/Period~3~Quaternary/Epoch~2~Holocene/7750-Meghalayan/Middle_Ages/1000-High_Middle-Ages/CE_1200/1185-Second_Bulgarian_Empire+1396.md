@@ -53,8 +53,6 @@ native_label: Второ българско царство
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20Bulgarian%20Empire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1185-Second_Bulgarian_Empire+1396](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1185-Second_Bulgarian_Empire+1396.md) 

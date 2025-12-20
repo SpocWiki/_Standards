@@ -31,8 +31,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Network%20layer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSI~3-Network](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.md) 

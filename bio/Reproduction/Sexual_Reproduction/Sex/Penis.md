@@ -57,8 +57,6 @@ Unicode_character: 𓂸
 > [Wikipedia](https://en.wikipedia.org/wiki/Penis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Penis](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Penis.md) 

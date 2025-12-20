@@ -23,10 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/SNOBOL)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~SNOBOL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~SNOBOL.md) 

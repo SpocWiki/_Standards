@@ -87,10 +87,6 @@ IPTC_NewsCode: mediatopic/09000000
 > [Wikipedia](https://en.wikipedia.org/wiki/Work%20(human%20activity)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Work](/_Standards/Society/Economics/Economic_Activity/Work.md) 

@@ -91,8 +91,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GORNOE
 > [Wikipedia](https://en.wikipedia.org/wiki/Mining) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mining](/_Standards/Society/Economics/Industry/Mining.md) 

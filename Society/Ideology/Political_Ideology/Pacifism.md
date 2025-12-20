@@ -45,8 +45,6 @@ hashtag: pacifism
 > [Wikipedia](https://en.wikipedia.org/wiki/Pacifism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pacifism](/_Standards/Society/Ideology/Political_Ideology/Pacifism.md) 

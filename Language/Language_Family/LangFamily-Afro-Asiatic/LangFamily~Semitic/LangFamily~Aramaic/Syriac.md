@@ -86,8 +86,6 @@ Dewey_Decimal_Classification: "492.3"
 > [Wikipedia](https://en.wikipedia.org/wiki/Suret%20language) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Syriac](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic/Syriac.md) 

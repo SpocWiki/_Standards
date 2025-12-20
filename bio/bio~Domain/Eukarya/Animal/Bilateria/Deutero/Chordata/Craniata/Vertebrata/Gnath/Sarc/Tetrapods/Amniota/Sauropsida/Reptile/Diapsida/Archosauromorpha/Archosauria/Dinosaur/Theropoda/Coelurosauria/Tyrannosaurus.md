@@ -97,8 +97,6 @@ start_time: -68000000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Tyrannosaurus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tyrannosaurus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Theropoda/Coelurosauria/Tyrannosaurus.md) 

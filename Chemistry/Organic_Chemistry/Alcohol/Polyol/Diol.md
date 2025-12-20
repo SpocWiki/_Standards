@@ -33,8 +33,6 @@ Commons_category: Diols
 > [Wikipedia](https://en.wikipedia.org/wiki/Diol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol.md) 

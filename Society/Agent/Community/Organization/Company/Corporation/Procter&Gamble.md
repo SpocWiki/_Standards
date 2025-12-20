@@ -168,8 +168,6 @@ native_label: Procter & Gamble
 > [Wikipedia](https://en.wikipedia.org/wiki/Procter%20&%20Gamble) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Procter&Gamble](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Procter&Gamble.md) 

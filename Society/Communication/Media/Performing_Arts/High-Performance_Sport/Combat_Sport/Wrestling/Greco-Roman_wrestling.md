@@ -34,8 +34,6 @@ Commons_category: Greco-Roman wrestling
 > [Wikipedia](https://en.wikipedia.org/wiki/Greco-Roman%20wrestling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greco-Roman_wrestling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Greco-Roman_wrestling.md) 

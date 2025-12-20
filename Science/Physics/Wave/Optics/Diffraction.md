@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Diffraction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diffraction](/_Standards/Science/Physics/Wave/Optics/Diffraction.md) 

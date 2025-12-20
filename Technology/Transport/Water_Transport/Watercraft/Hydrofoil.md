@@ -19,8 +19,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrofoil) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hydrofoil](/_Standards/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.md) 

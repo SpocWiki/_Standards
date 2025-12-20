@@ -70,8 +70,6 @@ Commons_category: Combustion
 > [Wikipedia](https://en.wikipedia.org/wiki/Combustion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Combustion](/_Standards/Chemistry/Chemical_Reaction/Combustion.md) 

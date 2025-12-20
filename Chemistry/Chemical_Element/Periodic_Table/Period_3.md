@@ -33,9 +33,6 @@ Commons_category: Periodic table row 3
 > [Wikipedia](https://en.wikipedia.org/wiki/Period%203%20element) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Period_3](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_3.md) 

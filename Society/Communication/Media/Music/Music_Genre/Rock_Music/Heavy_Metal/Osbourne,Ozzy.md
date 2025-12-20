@@ -66,8 +66,6 @@ has_id_wikidata: Q133151
 > [Wikipedia](https://en.wikipedia.org/wiki/Ozzy%20Osbourne) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Osbourne,Ozzy](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal/Osbourne,Ozzy.md) 

@@ -100,8 +100,6 @@ Commons_category: War on terror
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20on%20terror) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [2001-War_on_Terror+2021](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.md) 

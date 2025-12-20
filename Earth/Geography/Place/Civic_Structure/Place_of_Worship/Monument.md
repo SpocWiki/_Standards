@@ -85,8 +85,6 @@ OpenStreetMap_tag_or_key: Tag:historic=monument
 > [Wikipedia](https://en.wikipedia.org/wiki/Monument) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monument](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.md) 

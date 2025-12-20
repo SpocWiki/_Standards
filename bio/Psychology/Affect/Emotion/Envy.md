@@ -40,8 +40,6 @@ PhilPapers_topic: envy
 > [Wikipedia](https://en.wikipedia.org/wiki/Envy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Envy](/_Standards/bio/Psychology/Affect/Emotion/Envy.md) 

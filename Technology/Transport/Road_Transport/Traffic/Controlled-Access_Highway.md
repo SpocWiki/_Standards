@@ -63,8 +63,6 @@ Unicode_character: 🛣
 > [Wikipedia](https://en.wikipedia.org/wiki/Controlled-access%20highway) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Controlled-Access_Highway](/_Standards/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.md) 

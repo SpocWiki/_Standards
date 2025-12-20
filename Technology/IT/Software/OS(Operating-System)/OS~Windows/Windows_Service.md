@@ -41,8 +41,6 @@ These tools mainly handle the service configuration parameters such as the
 > [Wikipedia](https://en.wikipedia.org/wiki/Windows%20service) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Windows_Service](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.md) 

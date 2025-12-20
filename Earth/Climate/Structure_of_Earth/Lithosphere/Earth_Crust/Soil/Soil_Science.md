@@ -44,8 +44,6 @@ Commons_category: Soil science
 > [Wikipedia](https://en.wikipedia.org/wiki/Soil%20science) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soil_Science](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.md) 

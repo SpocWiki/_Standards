@@ -44,9 +44,6 @@ different_from: "[[_Standards/WikiData/WD~Q117350763,117350763]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth%20ellipsoid) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reference_Ellipsoid](/_Standards/Earth/Geography/Cartography/Reference_Ellipsoid.md) 

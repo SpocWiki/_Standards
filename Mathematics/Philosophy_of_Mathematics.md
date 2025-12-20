@@ -40,8 +40,6 @@ PhilPapers_topic: philosophy-of-mathematics
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20mathematics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Philosophy_of_Mathematics](/_Standards/Mathematics/Philosophy_of_Mathematics.md) 

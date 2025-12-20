@@ -34,10 +34,6 @@ Commons_category: Physical layer
 > [Wikipedia](https://en.wikipedia.org/wiki/Physical%20layer) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSI~1-Physical](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.md) 

@@ -104,8 +104,6 @@ Commons_category: Neutrino physics
 > [Wikipedia](https://en.wikipedia.org/wiki/Neutrino)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neutrino](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.md) 

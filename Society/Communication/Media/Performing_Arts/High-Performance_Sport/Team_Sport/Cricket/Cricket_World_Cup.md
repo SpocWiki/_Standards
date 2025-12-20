@@ -46,8 +46,6 @@ X_Twitter_username: cricketworldcup
 > [Wikipedia](https://en.wikipedia.org/wiki/Cricket%20World%20Cup) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cricket_World_Cup](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Cricket/Cricket_World_Cup.md) 

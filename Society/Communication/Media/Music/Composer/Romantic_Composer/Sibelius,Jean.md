@@ -34,8 +34,6 @@ has_id_wikidata: Q45682
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean%20Sibelius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sibelius,Jean](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.md) 

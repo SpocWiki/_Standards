@@ -48,10 +48,6 @@ The Tempo is slow, the riffs similar to AC/DC-s Hells Bells.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ghost%20(Swedish%20band))
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ghost(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Ghost(Band).md) 

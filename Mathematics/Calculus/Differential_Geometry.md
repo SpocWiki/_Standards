@@ -54,8 +54,6 @@ Krugosvet_article: nauka_i_tehnika/matematika/DIFFERENTSIALNAYA_GEOMETRIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Differential%20geometry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Differential_Geometry](/_Standards/Mathematics/Calculus/Differential_Geometry.md) 

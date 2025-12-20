@@ -29,8 +29,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Iceberg) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Iceberg](/_Standards/Earth/Geology/Landform/Glacier/Iceberg.md) 

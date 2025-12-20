@@ -36,10 +36,6 @@ Commons_category: Pipeline transport
 > [Wikipedia](https://en.wikipedia.org/wiki/Pipeline) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pipeline_Transport](/_Standards/Technology/Transport/Pipeline_Transport.md) 

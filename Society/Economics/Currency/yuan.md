@@ -47,8 +47,6 @@ Commons_category: Money of the People's Republic of China
 > [Wikipedia](https://en.wikipedia.org/wiki/Renminbi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [yuan](/_Standards/Society/Economics/Currency/yuan.md) 

@@ -50,8 +50,6 @@ Commons_category: Substitution reactions
 > [Wikipedia](https://en.wikipedia.org/wiki/Substitution%20reaction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Substitution_Reaction](/_Standards/Chemistry/Chemical_Reaction/Substitution_Reaction.md) 

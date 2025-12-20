@@ -43,8 +43,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/ExxonMobil) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Exxon_Mobil](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Exxon_Mobil.md) 

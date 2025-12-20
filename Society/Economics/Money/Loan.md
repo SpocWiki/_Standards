@@ -59,8 +59,6 @@ IPTC_NewsCode: mediatopic/20000393
 > [Wikipedia](https://en.wikipedia.org/wiki/Loan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Loan](/_Standards/Society/Economics/Money/Loan.md) 

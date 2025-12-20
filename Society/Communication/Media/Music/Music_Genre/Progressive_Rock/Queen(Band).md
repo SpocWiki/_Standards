@@ -61,9 +61,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Queen%20(band))
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Queen(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band).md) 

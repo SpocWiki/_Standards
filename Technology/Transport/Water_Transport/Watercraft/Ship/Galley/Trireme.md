@@ -28,8 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Trireme) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trireme](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.md) 

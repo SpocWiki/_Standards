@@ -36,8 +36,6 @@ has_id_wikidata: Q193217
 > [Wikipedia](https://en.wikipedia.org/wiki/Madrigal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Madrigal](/_Standards/Society/Communication/Media/Music/Music_Genre/Madrigal.md) 

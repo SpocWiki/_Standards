@@ -38,9 +38,6 @@ Commons_category: Public law
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20law) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Public_Law](/_Standards/Society/Law/Public_Law.md) 

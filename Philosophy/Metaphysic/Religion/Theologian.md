@@ -30,8 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Theology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theologian](/_Standards/Philosophy/Metaphysic/Religion/Theologian.md) 

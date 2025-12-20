@@ -72,8 +72,6 @@ Library_of_Congress_Classification: BH301.M54
 > [Wikipedia](https://en.wikipedia.org/wiki/Modernism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modernism](/_Standards/Society/Communication/Art/Art_History/Modernism.md) 

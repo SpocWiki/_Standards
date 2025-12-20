@@ -290,8 +290,6 @@ Stack_Exchange_tag: https://islam.stackexchange.com/tags/quran
 > [Wikipedia](https://en.wikipedia.org/wiki/Quran) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quran](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Quran.md) 

@@ -49,10 +49,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Angular%20momentum) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conservation_of_angular_Momentum](/_Standards/Science/Physics/Conservation_Law/Conservation_of_angular_Momentum.md) 

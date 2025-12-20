@@ -21,8 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Minor%20scale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Minor_Scale](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Minor_Scale.md) 

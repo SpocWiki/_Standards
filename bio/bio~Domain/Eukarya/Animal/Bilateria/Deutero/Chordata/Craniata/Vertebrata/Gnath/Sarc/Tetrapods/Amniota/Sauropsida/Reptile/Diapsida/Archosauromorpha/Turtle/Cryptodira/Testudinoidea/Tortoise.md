@@ -68,8 +68,6 @@ subreddit: Tortoises
 > [Wikipedia](https://en.wikipedia.org/wiki/Tortoise) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tortoise](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea/Tortoise.md) 

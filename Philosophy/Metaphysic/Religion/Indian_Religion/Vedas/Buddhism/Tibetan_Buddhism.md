@@ -62,8 +62,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Tibetan%20Buddhism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tibetan_Buddhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Tibetan_Buddhism.md) 

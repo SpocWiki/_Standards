@@ -41,8 +41,6 @@ Commons_category: Divisions
 > [Wikipedia](https://en.wikipedia.org/wiki/Division%20(military)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Division(Military)](/_Standards/Society/Military/Military_Organization/Division(Military).md) 

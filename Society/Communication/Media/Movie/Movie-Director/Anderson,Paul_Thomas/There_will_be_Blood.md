@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/There%20Will%20Be%20Blood) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [There_will_be_Blood](/_Standards/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.md) 

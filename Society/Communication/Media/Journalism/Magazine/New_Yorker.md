@@ -122,8 +122,6 @@ Instagram_username: newyorkermag
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20New%20Yorker) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [New_Yorker](/_Standards/Society/Communication/Media/Journalism/Magazine/New_Yorker.md) 

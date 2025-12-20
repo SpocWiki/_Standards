@@ -92,11 +92,6 @@ Reddit_username: peoplemagazine
 > [Wikipedia](https://en.wikipedia.org/wiki/People%20(magazine)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [People(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/People(Magazine).md) 

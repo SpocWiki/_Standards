@@ -63,8 +63,6 @@ Universal_Decimal_Classification: 82-9:76(520)
 > [Wikipedia](https://en.wikipedia.org/wiki/Manga) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Manga](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Manga.md) 

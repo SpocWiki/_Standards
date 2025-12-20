@@ -13,9 +13,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Deposition%20(phase%20transition)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deposition](/_Standards/Science/Physics/State_of_Matter/Solid/Deposition.md) 

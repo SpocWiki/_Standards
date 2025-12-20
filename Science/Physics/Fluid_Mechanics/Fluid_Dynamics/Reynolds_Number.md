@@ -56,8 +56,6 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 > [Wikipedia](https://en.wikipedia.org/wiki/Reynolds%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reynolds_Number](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Reynolds_Number.md) 

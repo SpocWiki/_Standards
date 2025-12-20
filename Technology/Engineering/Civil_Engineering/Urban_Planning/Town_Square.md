@@ -69,8 +69,6 @@ Dewey_Decimal_Classification: "711.55"
 > [Wikipedia](https://en.wikipedia.org/wiki/Town%20square) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Town_Square](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Town_Square.md) 

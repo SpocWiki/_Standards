@@ -71,8 +71,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/KVAZARI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Quasar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quasar](/_Standards/Astronomy/Black_Hole/Quasar.md) 

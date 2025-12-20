@@ -144,8 +144,6 @@ Colon_Classification: O111,3M04
 > [Wikipedia](https://en.wikipedia.org/wiki/Nathaniel%20Hawthorne) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hawthorne,Nathaniel](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.md) 

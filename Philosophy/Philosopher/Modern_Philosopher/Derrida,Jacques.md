@@ -133,8 +133,6 @@ NLC_authorities: "000128303"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacques%20Derrida) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Derrida,Jacques](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.md) 

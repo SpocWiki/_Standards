@@ -17,8 +17,6 @@
 > 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Microsoft_BASIC](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC.md) 

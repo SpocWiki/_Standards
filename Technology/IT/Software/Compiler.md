@@ -40,9 +40,6 @@ Commons_category: Compilers
 > [Wikipedia](https://en.wikipedia.org/wiki/Compiler) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Compiler](/_Standards/Technology/IT/Software/Compiler.md) 

@@ -74,8 +74,6 @@ Subsequently these T-Cells promulgate via cloning.
 > [Wikipedia](https://en.wikipedia.org/wiki/Thymus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thymus_Gland](/_Standards/bio/Medicine/Anatomy/Immune_System/Thymus_Gland.md) 

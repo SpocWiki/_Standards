@@ -46,8 +46,6 @@ Iconclass_notation: 51A1
 > [Wikipedia](https://en.wikipedia.org/wiki/Existence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Existence](/_Standards/Philosophy/Metaphysic/Ontology(Philosophy)/Existence.md) 

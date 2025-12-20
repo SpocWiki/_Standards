@@ -35,8 +35,6 @@ Commons_category: Geologic time scale
 > [Wikipedia](https://en.wikipedia.org/wiki/Geologic%20time%20scale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geologic_Time_Scale](/_Standards/Time-Ages/Geologic_Time_Scale.md) 

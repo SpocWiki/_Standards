@@ -69,8 +69,6 @@ start_time: 1941-12-07T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pacific%20War) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pacific_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.md) 

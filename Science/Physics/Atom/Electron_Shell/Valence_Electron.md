@@ -35,8 +35,6 @@ Commons_category: Electrons
 > [Wikipedia](https://en.wikipedia.org/wiki/Valence%20electron) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Valence_Electron](/_Standards/Science/Physics/Atom/Electron_Shell/Valence_Electron.md) 

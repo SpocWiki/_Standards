@@ -47,8 +47,6 @@ Commons_category: Reducing agents
 > [Wikipedia](https://en.wikipedia.org/wiki/Reducing%20agent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reducing_Agent](/_Standards/Chemistry/Chemical_Reaction/Redox/Reducing_Agent.md) 

@@ -26,11 +26,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Giuseppe%20Peano)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Peano,Giuseppe](/_Standards/Mathematics/Mathematician/Peano,Giuseppe.md) 

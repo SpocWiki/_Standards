@@ -80,8 +80,6 @@ Commons_category: Pali Canon
 > [Wikipedia](https://en.wikipedia.org/wiki/Pali%20Canon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pāli_Canon](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Pāli_Canon.md) 

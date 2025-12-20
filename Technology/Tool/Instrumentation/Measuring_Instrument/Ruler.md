@@ -47,8 +47,6 @@ Commons_category: Rulers
 > [Wikipedia](https://en.wikipedia.org/wiki/Ruler) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ruler](/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.md) 

@@ -76,8 +76,6 @@ short_name: LWL
 > [Wikipedia](https://en.wikipedia.org/wiki/Optical%20fiber) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Optical_Fiber](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Optical_Fiber.md) 

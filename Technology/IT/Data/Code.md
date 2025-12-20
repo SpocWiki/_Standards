@@ -46,8 +46,6 @@ Iconclass_notation: 49L72
 > [Wikipedia](https://en.wikipedia.org/wiki/Code) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Code](/_Standards/Technology/IT/Data/Code.md) 

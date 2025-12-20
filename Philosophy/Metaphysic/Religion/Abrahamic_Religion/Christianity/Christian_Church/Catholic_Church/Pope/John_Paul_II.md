@@ -242,8 +242,6 @@ Wolfram_Language_entity_code: Entity["Person", "PopeJohnPaulII::2v6d3"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Pope%20John%20Paul%20II) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [John_Paul_II](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/John_Paul_II.md) 

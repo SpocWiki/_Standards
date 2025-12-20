@@ -166,8 +166,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TARANTINO_KVENTI
 > [Wikipedia](https://en.wikipedia.org/wiki/Quentin%20Tarantino) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tarantino,Quentin](/_Standards/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin.md) 

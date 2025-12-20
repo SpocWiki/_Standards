@@ -51,8 +51,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Population%20transfer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Population_Exchange](/_Standards/Society/Military/Population_Exchange.md) 

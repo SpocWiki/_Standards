@@ -18,8 +18,6 @@ Commons_category: Kinematic pairs
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinematic%20pair) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kinematic_Pair](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Kinematic_Pair.md) 

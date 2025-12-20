@@ -218,8 +218,6 @@ ISNI: "0000000123215491"
 > [Wikipedia](https://en.wikipedia.org/wiki/Margaret%20Atwood) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Atwood,Margaret](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.md) 

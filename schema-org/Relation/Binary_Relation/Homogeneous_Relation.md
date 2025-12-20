@@ -34,9 +34,6 @@ instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Homogeneous%20relation) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Homogeneous_Relation](/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation.md) 

@@ -7,8 +7,6 @@ Therefore also [[OO-Lang/Prog~VB|Prog~VB]] is an OO-Language.
 [[OO~Inheritance]] is not essential, although it is useful. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OO-Lang](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang.md) 

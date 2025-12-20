@@ -61,8 +61,6 @@ Commons_category: Transition metals
 > [Wikipedia](https://en.wikipedia.org/wiki/Transition%20metal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Transition_Metal](/_Standards/Chemistry/Chemical_Element/Transition_Metal.md) 

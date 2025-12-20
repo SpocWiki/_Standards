@@ -68,8 +68,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shukla%20Kannada.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Kannada) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-kan](/_Standards/Language/Language_Family/LangFamily-Dravidian/Lang-kan.md) 

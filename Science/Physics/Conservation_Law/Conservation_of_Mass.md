@@ -33,8 +33,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20lavoisier.jp
 > [Wikipedia](https://en.wikipedia.org/wiki/Conservation%20of%20mass) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conservation_of_Mass](/_Standards/Science/Physics/Conservation_Law/Conservation_of_Mass.md) 

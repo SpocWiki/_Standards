@@ -37,8 +37,6 @@ start_time: 1908-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Rutherford%20scattering%20experiments) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geiger–Marsden_Experiment](/_Standards/Science/Physics/Atom/Geiger–Marsden_Experiment.md) 

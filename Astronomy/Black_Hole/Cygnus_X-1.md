@@ -25,8 +25,6 @@ has_id_wikidata: Q332674
 > [Wikipedia](https://en.wikipedia.org/wiki/Cygnus%20X-1) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cygnus_X-1](/_Standards/Astronomy/Black_Hole/Cygnus_X-1.md) 

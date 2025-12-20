@@ -49,8 +49,6 @@ OpenStreetMap_tag: power=insulator
 > [Wikipedia](https://en.wikipedia.org/wiki/Insulator%20(electricity)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Insulator](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Insulator.md) 

@@ -59,8 +59,6 @@ date_of_death: 1904-05-19T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jamsetji%20Tata) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tata,Jamsetji](/_Standards/Society/Economics/Industry/Industrialist/Tata,Jamsetji.md) 

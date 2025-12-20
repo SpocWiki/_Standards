@@ -35,8 +35,6 @@ has_id_wikidata: Q221706
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceiling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ceiling](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Ceiling.md) 

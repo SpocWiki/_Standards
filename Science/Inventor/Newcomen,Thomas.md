@@ -54,8 +54,6 @@ date_of_birth: 1664-02-28T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Newcomen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Newcomen,Thomas](/_Standards/Science/Inventor/Newcomen,Thomas.md) 

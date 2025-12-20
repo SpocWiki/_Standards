@@ -45,8 +45,6 @@ publication_date: 1911-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexander's%20Ragtime%20Band) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Alexander's_Ragtime_Band](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Alexander's_Ragtime_Band.md) 

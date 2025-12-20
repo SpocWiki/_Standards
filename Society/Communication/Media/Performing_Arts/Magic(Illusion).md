@@ -62,8 +62,6 @@ Baidu_Tieba_name: 魔术
 > [Wikipedia](https://en.wikipedia.org/wiki/Magic%20(illusion)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magic(Illusion)](/_Standards/Society/Communication/Media/Performing_Arts/Magic(Illusion).md) 

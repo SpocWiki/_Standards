@@ -55,8 +55,6 @@ Commons_category: Ice shelves
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20shelf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ice_Shelf](/_Standards/Earth/Geology/Landform/Glacier/Ice_Shelf.md) 

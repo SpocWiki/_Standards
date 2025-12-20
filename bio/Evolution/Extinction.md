@@ -65,8 +65,6 @@ MeSH_tree_code: G16.510
 > [Wikipedia](https://en.wikipedia.org/wiki/Extinction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Extinction](/_Standards/bio/Evolution/Extinction.md) 

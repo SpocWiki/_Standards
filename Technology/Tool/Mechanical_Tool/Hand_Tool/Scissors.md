@@ -68,8 +68,6 @@ MCN_code: 8213.00.00
 > [Wikipedia](https://en.wikipedia.org/wiki/Scissors) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scissors](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.md) 

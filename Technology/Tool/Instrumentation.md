@@ -62,8 +62,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/IZMERI
 > [Wikipedia](https://en.wikipedia.org/wiki/Instrumentation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Instrumentation](/_Standards/Technology/Tool/Instrumentation.md) 

@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Laser%20cutting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Laser_Cutting](/_Standards/Technology/Tool/Laser/Laser_Cutting.md) 

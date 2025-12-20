@@ -57,8 +57,6 @@ Commons_category: Lagrange points
 > [Wikipedia](https://en.wikipedia.org/wiki/Lagrange%20point) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lagrangian_Point](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.md) 

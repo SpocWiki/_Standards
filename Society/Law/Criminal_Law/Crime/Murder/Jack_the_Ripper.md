@@ -67,8 +67,6 @@ given_name: http://www.wikidata.org/.well-known/genid/2303255764bb538563772e915f
 > [Wikipedia](https://en.wikipedia.org/wiki/Jack%20the%20Ripper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jack_the_Ripper](/_Standards/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.md) 

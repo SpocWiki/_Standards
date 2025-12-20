@@ -148,8 +148,6 @@ IPI_name_number:
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89dith%20Piaf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Piaf,Édith](/_Standards/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.md) 

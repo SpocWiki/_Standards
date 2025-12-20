@@ -78,8 +78,6 @@ Know_Your_Meme_slug: schrodingers-cat
 > [Wikipedia](https://en.wikipedia.org/wiki/Schr%C3%B6dinger's%20cat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schrödinger's_Cat](/_Standards/Science/Physics/Quantum_Mechanics/Schrödinger's_Cat.md) 

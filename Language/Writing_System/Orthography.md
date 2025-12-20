@@ -45,8 +45,6 @@ Provenio_UUID: 422db0f8-6330-4d19-a0e2-fd08a83ded27
 > [Wikipedia](https://en.wikipedia.org/wiki/Orthography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orthography](/_Standards/Language/Writing_System/Orthography.md) 

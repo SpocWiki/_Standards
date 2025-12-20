@@ -28,9 +28,6 @@ Commons_category: Dwarf galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Dwarf%20galaxy) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dwarf_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.md) 

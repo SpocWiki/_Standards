@@ -18,8 +18,6 @@ has_id_wikidata: Q189753
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20paganism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modern_Paganism](/_Standards/Philosophy/Metaphysic/Religion/Modern_Paganism.md) 

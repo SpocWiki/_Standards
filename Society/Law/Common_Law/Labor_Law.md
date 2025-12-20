@@ -44,8 +44,6 @@ Commons_category: Labour law
 > [Wikipedia](https://en.wikipedia.org/wiki/Labour%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Labor_Law](/_Standards/Society/Law/Common_Law/Labor_Law.md) 

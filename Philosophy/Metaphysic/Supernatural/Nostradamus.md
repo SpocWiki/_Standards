@@ -124,8 +124,6 @@ Commons_gallery: Michel de Nostredame
 > [Wikipedia](https://en.wikipedia.org/wiki/Nostradamus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nostradamus](/_Standards/Philosophy/Metaphysic/Supernatural/Nostradamus.md) 

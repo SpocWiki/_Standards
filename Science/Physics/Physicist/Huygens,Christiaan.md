@@ -166,8 +166,6 @@ ISNI: "0000000108687618"
 > [Wikipedia](https://en.wikipedia.org/wiki/Christiaan%20Huygens) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Huygens,Christiaan](/_Standards/Science/Physics/Physicist/Huygens,Christiaan.md) 

@@ -24,8 +24,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Pangaea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pangaea](/_Standards/Earth/Continent/Pangaea.md) 

@@ -25,8 +25,6 @@ has_id_wikidata: Q16354816
 > [Wikipedia](https://en.wikipedia.org/wiki/Otherworld) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Otherworld](/_Standards/Philosophy/Metaphysic/Religion/Otherworld.md) 

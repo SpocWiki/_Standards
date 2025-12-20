@@ -39,8 +39,6 @@ Commons_category: Morality
 > [Wikipedia](https://en.wikipedia.org/wiki/Morality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Morality](/_Standards/Philosophy/Ethics/Morality.md) 

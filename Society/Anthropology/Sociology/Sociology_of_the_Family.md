@@ -23,8 +23,6 @@ is_the_study_of: "[[_Standards/WikiData/WD~family,8436]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sociology%20of%20the%20family) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sociology_of_the_Family](/_Standards/Society/Anthropology/Sociology/Sociology_of_the_Family.md) 

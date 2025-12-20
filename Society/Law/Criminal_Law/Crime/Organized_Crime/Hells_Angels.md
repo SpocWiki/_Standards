@@ -45,8 +45,6 @@ Instagram_username: hellsangelsmcworld_official
 > [Wikipedia](https://en.wikipedia.org/wiki/Hells%20Angels) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hells_Angels](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Hells_Angels.md) 

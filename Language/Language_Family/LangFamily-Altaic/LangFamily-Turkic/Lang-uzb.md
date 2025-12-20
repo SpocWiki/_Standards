@@ -108,10 +108,6 @@ GOST_7_75_97_code: узб 710
 > [Wikipedia](https://en.wikipedia.org/wiki/Uzbek%20language)  
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-uzb](/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.md) 

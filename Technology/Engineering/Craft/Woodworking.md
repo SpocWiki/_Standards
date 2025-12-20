@@ -46,8 +46,6 @@ Dewey_Decimal_Classification: "684.08"
 > [Wikipedia](https://en.wikipedia.org/wiki/Woodworking) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Woodworking](/_Standards/Technology/Engineering/Craft/Woodworking.md) 

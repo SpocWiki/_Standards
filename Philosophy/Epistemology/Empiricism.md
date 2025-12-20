@@ -48,8 +48,6 @@ MeSH_tree_code: K01.752.667.400
 > [Wikipedia](https://en.wikipedia.org/wiki/Empiricism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Empiricism](/_Standards/Philosophy/Epistemology/Empiricism.md) 

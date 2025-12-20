@@ -58,8 +58,6 @@ native_label: Socialist International
 > [Wikipedia](https://en.wikipedia.org/wiki/Socialist%20International) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Socialist_International](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.md) 

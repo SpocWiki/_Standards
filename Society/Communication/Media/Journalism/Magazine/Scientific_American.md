@@ -88,8 +88,6 @@ title: Scientific American
 > [Wikipedia](https://en.wikipedia.org/wiki/Scientific%20American) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scientific_American](/_Standards/Society/Communication/Media/Journalism/Magazine/Scientific_American.md) 

@@ -77,8 +77,6 @@ name_in_native_language: Tara Lipinski
 > [Wikipedia](https://en.wikipedia.org/wiki/Tara%20Lipinski) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tara_Lipinski](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating/Tara_Lipinski.md) 

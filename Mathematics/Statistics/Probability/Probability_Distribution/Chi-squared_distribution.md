@@ -128,8 +128,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Chi-squared%20distribution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chi-squared_distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Chi-squared_distribution.md) 

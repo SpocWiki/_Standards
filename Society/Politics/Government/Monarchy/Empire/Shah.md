@@ -49,8 +49,6 @@ Commons_category: Monarchs of Persia
 > [Wikipedia](https://en.wikipedia.org/wiki/Shah) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shah](/_Standards/Society/Politics/Government/Monarchy/Empire/Shah.md) 

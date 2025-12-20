@@ -69,10 +69,6 @@ name_in_native_language: Γανυμήδης
 > [Wikipedia](https://en.wikipedia.org/wiki/Ganymede%20(mythology)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ganymede(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ganymede(Mythology).md) 

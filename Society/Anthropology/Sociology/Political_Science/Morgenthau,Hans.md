@@ -87,8 +87,6 @@ ISNI: "0000000108553556"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Morgenthau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Morgenthau,Hans](/_Standards/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.md) 

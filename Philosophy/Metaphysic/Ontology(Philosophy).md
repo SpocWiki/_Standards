@@ -89,8 +89,6 @@ Library_of_Congress_Classification: BD300-BD450
 > [Wikipedia](https://en.wikipedia.org/wiki/Ontology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ontology(Philosophy)](/_Standards/Philosophy/Metaphysic/Ontology(Philosophy).md) 

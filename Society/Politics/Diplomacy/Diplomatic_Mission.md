@@ -35,8 +35,6 @@ OpenStreetMap_tag_or_key: Tag:office=diplomatic
 > [Wikipedia](https://en.wikipedia.org/wiki/Diplomatic%20mission) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diplomatic_Mission](/_Standards/Society/Politics/Diplomacy/Diplomatic_Mission.md) 

@@ -150,8 +150,6 @@ Provenio_UUID: faee69fa-5eb4-4493-a253-d630f0e5c620
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivan%20Turgenev) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turgenev,Ivan](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Turgenev,Ivan.md) 

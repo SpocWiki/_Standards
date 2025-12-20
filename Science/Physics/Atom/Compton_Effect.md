@@ -43,8 +43,6 @@ has_id_wikidata: Q171516
 > [Wikipedia](https://en.wikipedia.org/wiki/Compton%20scattering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Compton_Effect](/_Standards/Science/Physics/Atom/Compton_Effect.md) 

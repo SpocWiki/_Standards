@@ -70,8 +70,6 @@ OpenStreetMap_tag_or_key: Tag:place=farm
 > [Wikipedia](https://en.wikipedia.org/wiki/Farm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Farm](/_Standards/Society/Economics/Industry/Agriculture/Farm.md) 

@@ -38,8 +38,6 @@ Commons_category: Portuguese literature
 > [Wikipedia](https://en.wikipedia.org/wiki/Portuguese%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Portuguese_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Portuguese_Literature.md) 

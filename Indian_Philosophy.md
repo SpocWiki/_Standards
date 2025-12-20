@@ -44,8 +44,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/INDISKAYA_FILOSOFIYA
 > [Wikipedia](https://en.wikipedia.org/wiki/Indian%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Indian_Philosophy](/_Standards/Indian_Philosophy.md) 

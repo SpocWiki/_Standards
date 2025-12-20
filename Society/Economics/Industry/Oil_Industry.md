@@ -55,7 +55,6 @@ OpenStreetMap_tag: industrial=oil
 > [Wikipedia](https://en.wikipedia.org/wiki/Petroleum%20industry)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oil_Industry](/_Standards/Society/Economics/Industry/Oil_Industry.md) 

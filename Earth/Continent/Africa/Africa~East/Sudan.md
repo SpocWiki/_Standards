@@ -2,8 +2,6 @@
 #is_/same_as :: [[Sudan/Sudan~North|Sudan~North]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sudan](/_Standards/Earth/Continent/Africa/Africa~East/Sudan.md) 

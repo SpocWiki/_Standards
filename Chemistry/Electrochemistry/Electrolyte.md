@@ -32,8 +32,6 @@ has_id_wikidata: Q162908
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrolyte) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrolyte](/_Standards/Chemistry/Electrochemistry/Electrolyte.md) 

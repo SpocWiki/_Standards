@@ -58,8 +58,6 @@ Krugosvet_article_archived_: istoriya/GREKO-PERSIDSKIE_VONI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Greco-Persian%20Wars) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-0498-Greco-Persian_Wars-0448](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.md) 

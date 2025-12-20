@@ -151,8 +151,6 @@ father: "[[_Standards/WikiData/WD~Zeus,34201]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hermes](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.md) 

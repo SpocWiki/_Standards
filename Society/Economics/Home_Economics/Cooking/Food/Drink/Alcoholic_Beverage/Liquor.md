@@ -49,8 +49,6 @@ Commons_category: Distilled beverages
 > [Wikipedia](https://en.wikipedia.org/wiki/Liquor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Liquor](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor.md) 

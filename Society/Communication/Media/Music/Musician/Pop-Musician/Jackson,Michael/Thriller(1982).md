@@ -63,9 +63,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Thriller%20(album)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thriller(1982)](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).md) 

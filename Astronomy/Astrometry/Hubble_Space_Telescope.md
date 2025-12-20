@@ -134,8 +134,6 @@ Wolfram_Language_entity_code: Entity["Satellite", "20580"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Hubble%20Space%20Telescope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hubble_Space_Telescope](/_Standards/Astronomy/Astrometry/Hubble_Space_Telescope.md) 

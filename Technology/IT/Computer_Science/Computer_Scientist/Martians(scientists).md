@@ -38,7 +38,6 @@ Individuals considered members of _The Martians_ group include:
 - [Valentine Telegdi](https://en.wikipedia.org/wiki/Valentine_Telegdi "Valentine Telegdi") 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Martians(scientists)](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).md) 

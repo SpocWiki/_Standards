@@ -5,7 +5,6 @@ aliases:
 ---
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [French_Actor](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor.md) 

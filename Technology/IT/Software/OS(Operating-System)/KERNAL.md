@@ -20,9 +20,6 @@ The KERNAL ROM occupies the last 8 [KB](https://en.wikipedia.org/wiki/Kilobyte 
 The jump table can be modified to point to user-written routines, for example to integrate a [fast loader](https://en.wikipedia.org/wiki/Fast_loader "Fast loader") so that its fast replacement routines are used system-wide, or replacing the system text output routine with one that works in bitmapped mode rather than character mode. This use of a jump table was new to small computers at the time. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [KERNAL](/_Standards/Technology/IT/Software/OS(Operating-System)/KERNAL.md) 

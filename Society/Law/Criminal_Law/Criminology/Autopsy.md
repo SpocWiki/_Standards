@@ -55,10 +55,6 @@ Krugosvet_article_archived_: medicina/AUTOPSIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Autopsy) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Autopsy](/_Standards/Society/Law/Criminal_Law/Criminology/Autopsy.md) 

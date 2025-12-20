@@ -75,9 +75,6 @@ markerFolder: ./Severnaya_Zemlya/
 > [Wikipedia](https://en.wikipedia.org/wiki/Severnaya%20Zemlya) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Severnaya_Zemlya](/_Standards/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.md) 

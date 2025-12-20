@@ -6,8 +6,6 @@
 #has_/next_item :: [[WindowsXP]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Windows2000](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows2000.md) 

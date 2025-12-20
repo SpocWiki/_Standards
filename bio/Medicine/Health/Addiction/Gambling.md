@@ -74,8 +74,6 @@ OpenStreetMap_tag_or_key: Key:gambling
 > [Wikipedia](https://en.wikipedia.org/wiki/Gambling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gambling](/_Standards/bio/Medicine/Health/Addiction/Gambling.md) 

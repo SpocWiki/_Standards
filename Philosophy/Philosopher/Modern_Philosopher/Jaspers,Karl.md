@@ -95,8 +95,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/YASPERS_KARL.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Jaspers) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jaspers,Karl](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Jaspers,Karl.md) 

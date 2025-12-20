@@ -160,8 +160,6 @@ U_S_National_Archives_Identifier: "10580783"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pearl%20S.%20Buck) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Buck,Pearl_S.](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..md) 

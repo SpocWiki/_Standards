@@ -34,8 +34,6 @@ Commons_category: Civil rights and liberties
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20liberties) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Civil_Liberties](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.md) 

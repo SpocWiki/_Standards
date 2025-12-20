@@ -73,7 +73,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ISIDA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Isis) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Isis](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.md) 

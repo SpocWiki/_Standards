@@ -59,8 +59,6 @@ Baidu_Tieba_name: 萨克斯
 > [Wikipedia](https://en.wikipedia.org/wiki/Saxophone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saxophone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Saxophone.md) 

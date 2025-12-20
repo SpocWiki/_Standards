@@ -56,10 +56,6 @@ Commons_category: Permian–Triassic extinction event
 > [Wikipedia](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic%20extinction%20event) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Permian-Triassic_Extinction_Event](/_Standards/bio/Evolution/Extinction/Extinction_Event/Permian-Triassic_Extinction_Event.md) 

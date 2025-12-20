@@ -52,8 +52,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/PARODIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Parody) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parody](/_Standards/Society/Communication/Media/Creative_Work/Parody.md) 

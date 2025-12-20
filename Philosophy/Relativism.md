@@ -32,8 +32,6 @@ PhilPapers_topic: relativism
 > [Wikipedia](https://en.wikipedia.org/wiki/Relativism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Relativism](/_Standards/Philosophy/Relativism.md) 

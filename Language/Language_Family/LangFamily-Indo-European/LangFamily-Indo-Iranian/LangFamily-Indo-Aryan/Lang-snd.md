@@ -102,9 +102,6 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi-spea
 > [Wikipedia](https://en.wikipedia.org/wiki/Sindhi%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-snd](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-snd.md) 

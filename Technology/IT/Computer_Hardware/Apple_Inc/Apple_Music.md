@@ -74,9 +74,6 @@ On Twitter, Swift wrote "After the events of this week, I've decided to put _198
 She concluded saying it was "the first time it's felt right in my gut to stream my album". 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Apple_Music](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.md) 

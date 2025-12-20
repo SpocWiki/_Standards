@@ -71,8 +71,6 @@ Wikidata_SPARQL_query_equivalent: wd:Q48013 p:P2370/psn:P2370 [wikibase:quantity
 > [Wikipedia](https://en.wikipedia.org/wiki/Ounce) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ounce](/_Standards/Dimension/Mass/Ounce.md) 

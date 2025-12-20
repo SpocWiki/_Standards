@@ -27,8 +27,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Irish%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Irish_Sea](/_Standards/Earth/Continent/Europe/Europe~North/Irish_Sea.md) 

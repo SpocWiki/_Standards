@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Turbo%20Pascal)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turbo-Pascal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Turbo-Pascal.md) 

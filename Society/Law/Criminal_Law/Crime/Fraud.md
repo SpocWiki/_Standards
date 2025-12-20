@@ -67,8 +67,6 @@ IPTC_NewsCode: mediatopic/20000097
 > [Wikipedia](https://en.wikipedia.org/wiki/Fraud) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fraud](/_Standards/Society/Law/Criminal_Law/Crime/Fraud.md) 

@@ -47,8 +47,6 @@ Commons_category: Kolkhoz
 > [Wikipedia](https://en.wikipedia.org/wiki/Kolkhoz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kolkhoz](/_Standards/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.md) 

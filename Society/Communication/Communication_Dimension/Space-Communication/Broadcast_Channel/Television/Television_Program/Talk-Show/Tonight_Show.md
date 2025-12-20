@@ -88,8 +88,6 @@ Commons_category: The Tonight Show
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Tonight%20Show) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tonight_Show](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Tonight_Show.md) 

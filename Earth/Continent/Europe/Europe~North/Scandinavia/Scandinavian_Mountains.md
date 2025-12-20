@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Scandinavian%20Mountains) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scandinavian_Mountains](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.md) 

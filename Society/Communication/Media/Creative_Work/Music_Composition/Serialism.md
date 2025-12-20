@@ -40,8 +40,6 @@ has_id_wikidata: Q507246
 > [Wikipedia](https://en.wikipedia.org/wiki/Serialism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Serialism](/_Standards/Society/Communication/Media/Creative_Work/Music_Composition/Serialism.md) 

@@ -48,8 +48,6 @@ Colon_Classification: MV41
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20science) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_Science](/_Standards/Society/Military/Military_Science.md) 

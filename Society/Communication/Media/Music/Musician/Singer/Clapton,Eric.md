@@ -136,8 +136,6 @@ Plex_person_key: 5d7768377e9a3c0020c6d3a5
 > [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Clapton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clapton,Eric](/_Standards/Society/Communication/Media/Music/Musician/Singer/Clapton,Eric.md) 

@@ -52,16 +52,6 @@ Similar to [[#using `proptest!{...}`]] but persisted, so the same test is never 
 but for Testing you can set up a Schema-double in [[../../../../../../Knowledge/Languages/Data~Languages/Json-Format|Json-Format]]: 
 
 
-
-
-
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Testing](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Testing.md) 

@@ -18,9 +18,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Unary%20function) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Function~unary](/_Standards/Mathematics/Function(Math)/Function~unary.md) 

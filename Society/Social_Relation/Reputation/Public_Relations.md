@@ -59,8 +59,6 @@ IMDb_keyword: public-relations
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20relations) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Public_Relations](/_Standards/Society/Social_Relation/Reputation/Public_Relations.md) 

@@ -35,8 +35,6 @@ Commons_category: Constructivism
 > [Wikipedia](https://en.wikipedia.org/wiki/Constructivism%20(art)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Constructivism](/_Standards/Society/Communication/Art/Constructivism.md) 

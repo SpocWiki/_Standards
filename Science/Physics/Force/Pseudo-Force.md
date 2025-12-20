@@ -43,8 +43,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fictitious%20force) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pseudo-Force](/_Standards/Science/Physics/Force/Pseudo-Force.md) 

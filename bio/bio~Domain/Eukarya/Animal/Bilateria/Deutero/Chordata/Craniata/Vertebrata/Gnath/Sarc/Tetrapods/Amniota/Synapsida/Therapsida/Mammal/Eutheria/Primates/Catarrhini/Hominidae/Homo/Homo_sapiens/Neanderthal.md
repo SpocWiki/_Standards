@@ -105,8 +105,6 @@ short_name: H. neanderthalensis
 > [Wikipedia](https://en.wikipedia.org/wiki/Neanderthal)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neanderthal](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_sapiens/Neanderthal.md) 

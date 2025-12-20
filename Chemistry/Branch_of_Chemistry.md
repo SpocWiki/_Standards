@@ -16,7 +16,6 @@ described_at_URL: https://www.chemie.de/lexikon/Kategorie:Teilgebiet_der_Chemie.
 Just like [[../Chemistry|Chemistry]] is a Branch of [[../Science|Science]], its growing Size led to a split into different Specializations. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Branch_of_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry.md) 

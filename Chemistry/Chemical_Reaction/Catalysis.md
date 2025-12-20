@@ -58,8 +58,6 @@ Krugosvet_article: nauka_i_tehnika/himiya/KATALIZ.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Catalysis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Catalysis](/_Standards/Chemistry/Chemical_Reaction/Catalysis.md) 

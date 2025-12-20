@@ -76,10 +76,6 @@ Dewey_Decimal_Classification: "808.82512"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tragedy) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tragedy](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Tragedy.md) 

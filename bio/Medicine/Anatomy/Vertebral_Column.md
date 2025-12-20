@@ -60,8 +60,6 @@ Commons_category: Vertebral column
 > [Wikipedia](https://en.wikipedia.org/wiki/Spinal%20column) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vertebral_Column](/_Standards/bio/Medicine/Anatomy/Vertebral_Column.md) 

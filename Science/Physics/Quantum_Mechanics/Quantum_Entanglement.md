@@ -79,8 +79,6 @@ Commons_category: Quantum entanglement
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20entanglement) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quantum_Entanglement](/_Standards/Science/Physics/Quantum_Mechanics/Quantum_Entanglement.md) 

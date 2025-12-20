@@ -37,8 +37,6 @@ Colon_Classification: Q:45
 > [Wikipedia](https://en.wikipedia.org/wiki/Worship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Worship](/_Standards/Philosophy/Metaphysic/Religion/Worship.md) 

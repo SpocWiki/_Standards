@@ -31,8 +31,6 @@ Commons_category: Central European Free Trade Agreement
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20European%20Free%20Trade%20Agreement) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement)](/_Standards/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).md) 

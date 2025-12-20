@@ -74,8 +74,6 @@ Commons_category: Random variable
 > [Wikipedia](https://en.wikipedia.org/wiki/Random%20variable) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Random_Variable](/_Standards/Mathematics/Statistics/Random_Variable.md) 

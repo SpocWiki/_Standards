@@ -80,8 +80,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rick%20Wakeman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rick Wakeman](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.md) 

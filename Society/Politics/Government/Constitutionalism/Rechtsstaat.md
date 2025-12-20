@@ -55,8 +55,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rechtsstaat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rechtsstaat](/_Standards/Society/Politics/Government/Constitutionalism/Rechtsstaat.md) 

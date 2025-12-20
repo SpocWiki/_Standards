@@ -185,8 +185,6 @@ ISNI: "0000000122758822"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Simon%20Laplace) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Laplace,Pierre-Simon](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.md) 

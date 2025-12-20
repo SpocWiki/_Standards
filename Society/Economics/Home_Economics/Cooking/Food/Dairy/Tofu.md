@@ -60,8 +60,6 @@ Amazon_com_browse_node: "6507197011"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tofu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tofu](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.md) 

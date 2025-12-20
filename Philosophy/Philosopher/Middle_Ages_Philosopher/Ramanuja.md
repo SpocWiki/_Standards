@@ -58,8 +58,6 @@ Commons_category: Ramanujacharya
 > [Wikipedia](https://en.wikipedia.org/wiki/Ramanuja) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ramanuja](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Ramanuja.md) 

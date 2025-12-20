@@ -61,8 +61,6 @@ OpenStreetMap_tag_or_key: Key:cables
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20cable) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrical_Cable](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Cable.md) 

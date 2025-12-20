@@ -67,8 +67,6 @@ Krugosvet_article: voennoe-delo/kavaleriya
 > [Wikipedia](https://en.wikipedia.org/wiki/Cavalry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cavalry](/_Standards/Society/Military/Military_Organization/Cavalry.md) 

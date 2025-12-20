@@ -85,8 +85,6 @@ Commons_category: Sexually transmitted diseases and disorders
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexually%20transmitted%20infection) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [STI(Sexually_transmitted_Infection)](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/STI(Sexually_transmitted_Infection).md) 

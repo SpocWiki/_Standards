@@ -55,9 +55,6 @@ Commons_category: Numerical integration
 > [Wikipedia](https://en.wikipedia.org/wiki/Numerical%20integration) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Numerical_Integration](/_Standards/Mathematics/Calculus/Integral/Numerical_Integration.md) 

@@ -91,8 +91,6 @@ Unicode_character:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fairy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fairy](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.md) 

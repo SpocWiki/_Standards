@@ -45,8 +45,6 @@ Wikidata_usage_instructions:
 > [Wikipedia](https://en.wikipedia.org/wiki/Male) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Male_Organism](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Male_Organism.md) 

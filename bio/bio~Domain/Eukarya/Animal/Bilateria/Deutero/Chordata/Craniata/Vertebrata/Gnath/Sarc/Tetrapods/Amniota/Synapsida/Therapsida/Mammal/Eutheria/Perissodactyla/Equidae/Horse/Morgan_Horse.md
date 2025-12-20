@@ -24,8 +24,6 @@ Commons_category: Morgan horse
 > [Wikipedia](https://en.wikipedia.org/wiki/Morgan%20horse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Morgan_Horse](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Morgan_Horse.md) 

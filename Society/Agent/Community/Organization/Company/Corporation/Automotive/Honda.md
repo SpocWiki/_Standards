@@ -126,9 +126,6 @@ ISNI: "0000000417637120"
 > [Wikipedia](https://en.wikipedia.org/wiki/Honda) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Honda](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Honda.md) 

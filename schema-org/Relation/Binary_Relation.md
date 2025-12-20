@@ -67,8 +67,6 @@ has_id_wikidata: Q130901
 > [Wikipedia](https://en.wikipedia.org/wiki/Binary%20relation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Binary_Relation](/_Standards/schema-org/Relation/Binary_Relation.md) 

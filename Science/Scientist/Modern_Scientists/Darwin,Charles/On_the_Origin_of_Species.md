@@ -135,8 +135,6 @@ Commons_category: On the Origin of Species
 > [Wikipedia](https://en.wikipedia.org/wiki/On%20the%20Origin%20of%20Species) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [On_the_Origin_of_Species](/_Standards/Science/Scientist/Modern_Scientists/Darwin,Charles/On_the_Origin_of_Species.md) 

@@ -67,9 +67,6 @@ has_id_wikidata: Q494756
 > [Wikipedia](https://en.wikipedia.org/wiki/Data) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Data](/_Standards/Technology/IT/Data.md) 

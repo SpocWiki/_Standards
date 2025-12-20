@@ -49,8 +49,6 @@ Dewey_Decimal_Classification: "523.844"
 > [Wikipedia](https://en.wikipedia.org/wiki/Variable%20star) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Variable_Star](/_Standards/Astronomy/Star/Variable_Star.md) 

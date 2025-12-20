@@ -151,8 +151,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jane%20Goodall) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goodall,Jane](/_Standards/Society/Anthropology/Anthropologist/Goodall,Jane.md) 

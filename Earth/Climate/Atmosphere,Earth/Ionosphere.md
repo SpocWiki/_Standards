@@ -43,7 +43,6 @@ Commons_category: Ionosphere
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionosphere) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ionosphere](/_Standards/Earth/Climate/Atmosphere,Earth/Ionosphere.md) 

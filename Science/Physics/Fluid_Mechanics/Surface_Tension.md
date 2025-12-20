@@ -80,8 +80,6 @@ Dewey_Decimal_Classification: "530.427"
 > [Wikipedia](https://en.wikipedia.org/wiki/Surface%20tension) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Surface_Tension](/_Standards/Science/Physics/Fluid_Mechanics/Surface_Tension.md) 

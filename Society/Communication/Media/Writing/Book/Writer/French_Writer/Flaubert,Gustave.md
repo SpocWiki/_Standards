@@ -116,8 +116,6 @@ Europeana_entity: agent/base/59995
 > [Wikipedia](https://en.wikipedia.org/wiki/Gustave%20Flaubert) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Flaubert,Gustave](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Flaubert,Gustave.md) 

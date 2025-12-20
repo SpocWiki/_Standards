@@ -69,8 +69,6 @@ Commons_category: Radio modulation modes
 > [Wikipedia](https://en.wikipedia.org/wiki/Signal%20modulation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modulation](/_Standards/Technology/IT/Data/Code/Encoding/Modulation.md) 

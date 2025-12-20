@@ -46,9 +46,6 @@ subclass_of: "[[_Standards/WikiData/WD~textile_arts_tool,19394283]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacquard%20machine) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jacquard_Machine](/_Standards/Technology/IT/Computer_Hardware/Jacquard_Machine.md) 

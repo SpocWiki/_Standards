@@ -42,8 +42,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 > [Wikipedia](https://en.wikipedia.org/wiki/Sacredness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sacred](/_Standards/Philosophy/Metaphysic/Religion/Sacred.md) 

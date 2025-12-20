@@ -46,8 +46,6 @@ Commons_category: Phonetics
 > [Wikipedia](https://en.wikipedia.org/wiki/Phonetics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phonetics](/_Standards/Language/Linguistics/Phonetics.md) 

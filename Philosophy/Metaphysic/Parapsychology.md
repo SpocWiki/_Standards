@@ -41,8 +41,6 @@ Commons_category: Parapsychology
 > [Wikipedia](https://en.wikipedia.org/wiki/Parapsychology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parapsychology](/_Standards/Philosophy/Metaphysic/Parapsychology.md) 

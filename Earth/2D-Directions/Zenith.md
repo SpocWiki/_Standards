@@ -36,9 +36,6 @@ Commons_category: Zenith (topography)
 > [Wikipedia](https://en.wikipedia.org/wiki/Zenith) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zenith](/_Standards/Earth/2D-Directions/Zenith.md) 

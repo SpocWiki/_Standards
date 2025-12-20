@@ -15,8 +15,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Chloroflexota) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chloroflexota](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.md) 

@@ -40,8 +40,6 @@ OpenStreetMap_tag: landuse=quarry
 > [Wikipedia](https://en.wikipedia.org/wiki/Quarry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quarry](/_Standards/Society/Economics/Industry/Mining/Quarry.md) 

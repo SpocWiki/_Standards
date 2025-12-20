@@ -148,8 +148,6 @@ Facebook_username: lechwalesa
 > [Wikipedia](https://en.wikipedia.org/wiki/Lech%20Wa%C5%82%C4%99sa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lech_Wałęsa](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.md) 

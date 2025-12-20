@@ -26,8 +26,6 @@ Commons_category: Postmodern art
 > [Wikipedia](https://en.wikipedia.org/wiki/Postmodern%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Postmodern_Art](/_Standards/Society/Communication/Art/Art_History/Postmodern_Art.md) 

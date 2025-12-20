@@ -60,8 +60,6 @@ subreddit: OperationsResearch
 > [Wikipedia](https://en.wikipedia.org/wiki/Operations%20research) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Operations_Research](/_Standards/Mathematics/Optimization(Math)/Operations_Research.md) 

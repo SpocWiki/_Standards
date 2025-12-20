@@ -158,8 +158,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/SAMUELSON_POL.
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Samuelson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Samuelson,Paul](/_Standards/Society/Economics/Economist/Samuelson,Paul.md) 

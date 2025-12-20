@@ -21,8 +21,6 @@ Commons_category: Triols
 > [Wikipedia](https://en.wikipedia.org/wiki/Triol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Triol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.md) 

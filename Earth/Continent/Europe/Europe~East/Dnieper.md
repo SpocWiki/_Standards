@@ -213,8 +213,6 @@ Commons_category: Dnieper (river)
 > [Wikipedia](https://en.wikipedia.org/wiki/Dnieper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dnieper](/_Standards/Earth/Continent/Europe/Europe~East/Dnieper.md) 

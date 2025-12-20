@@ -19,8 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Pulsar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pulsar](/_Standards/Astronomy/Star/Star~Class/Pulsar.md) 

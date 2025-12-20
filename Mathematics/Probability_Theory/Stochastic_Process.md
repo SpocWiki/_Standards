@@ -56,8 +56,6 @@ Dewey_Decimal_Classification: "519.23"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stochastic%20process) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stochastic_Process](/_Standards/Mathematics/Probability_Theory/Stochastic_Process.md) 

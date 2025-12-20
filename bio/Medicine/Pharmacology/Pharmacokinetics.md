@@ -48,8 +48,6 @@ Commons_category: Pharmacokinetics
 > [Wikipedia](https://en.wikipedia.org/wiki/Pharmacokinetics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pharmacokinetics](/_Standards/bio/Medicine/Pharmacology/Pharmacokinetics.md) 

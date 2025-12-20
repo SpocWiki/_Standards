@@ -49,8 +49,6 @@ OpenStreetMap_tag_or_key: Tag:place=city_block
 > [Wikipedia](https://en.wikipedia.org/wiki/City%20block) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [City_Block](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/City_Block.md) 

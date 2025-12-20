@@ -51,8 +51,6 @@ start_time: 1919-02-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet%20War) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1919-Polish–Soviet_War+1921](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1919-Polish–Soviet_War+1921.md) 

@@ -52,8 +52,6 @@ Iconclass_notation: 57A21
 > [Wikipedia](https://en.wikipedia.org/wiki/Duty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Duty](/_Standards/Society/Law/Duty.md) 

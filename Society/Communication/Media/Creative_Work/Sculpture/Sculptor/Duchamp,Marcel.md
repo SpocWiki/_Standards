@@ -198,8 +198,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Marcel%20Duchamp) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Duchamp,Marcel](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.md) 

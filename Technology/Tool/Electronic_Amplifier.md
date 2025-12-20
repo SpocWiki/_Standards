@@ -41,8 +41,6 @@ Commons_category: Electronic amplifiers
 > [Wikipedia](https://en.wikipedia.org/wiki/Amplifier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electronic_Amplifier](/_Standards/Technology/Tool/Electronic_Amplifier.md) 

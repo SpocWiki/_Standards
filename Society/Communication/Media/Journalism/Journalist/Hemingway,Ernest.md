@@ -161,8 +161,6 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Hemingway%20T
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernest%20Hemingway) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hemingway,Ernest](/_Standards/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.md) 

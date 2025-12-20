@@ -32,8 +32,6 @@ PhilPapers_topic: gestalt-theory
 > [Wikipedia](https://en.wikipedia.org/wiki/Gestalt%20psychology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gestalt_Psychology](/_Standards/bio/Psychology/Gestalt_Psychology.md) 

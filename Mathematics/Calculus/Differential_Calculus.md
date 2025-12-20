@@ -41,8 +41,6 @@ Wolfram_Language_entity_code: Entity["Concept", "DifferentialCalculus::767tz"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Differential%20calculus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Differential_Calculus](/_Standards/Mathematics/Calculus/Differential_Calculus.md) 

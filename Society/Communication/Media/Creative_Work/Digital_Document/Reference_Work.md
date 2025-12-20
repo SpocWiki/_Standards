@@ -60,8 +60,6 @@ Commons_category: Reference works
 > [Wikipedia](https://en.wikipedia.org/wiki/Reference%20work) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reference_Work](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work.md) 

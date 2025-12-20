@@ -60,8 +60,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bauhaus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bauhaus](/_Standards/Society/Communication/Art/Art_History/Bauhaus.md) 

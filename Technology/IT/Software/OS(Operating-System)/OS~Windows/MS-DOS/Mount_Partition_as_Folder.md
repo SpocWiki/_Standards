@@ -4,7 +4,6 @@
 #has_/Cons :: Commit to fixed Partition Size 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mount_Partition_as_Folder](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/Mount_Partition_as_Folder.md) 

@@ -37,8 +37,6 @@ publication_date: 1946-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/There's%20No%20Business%20Like%20Show%20Business) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [There's_no_Business_like_Show_Business](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/There's_no_Business_like_Show_Business.md) 

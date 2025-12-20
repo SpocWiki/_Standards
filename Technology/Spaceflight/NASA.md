@@ -299,8 +299,6 @@ ISNI: "0000000449071619"
 > [Wikipedia](https://en.wikipedia.org/wiki/NASA) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NASA](/_Standards/Technology/Spaceflight/NASA.md) 

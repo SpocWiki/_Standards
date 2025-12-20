@@ -44,8 +44,6 @@ NBN_System_Key: NHMSYS0000458704
 > [Wikipedia](https://en.wikipedia.org/wiki/Fagopyrum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fagopyrum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.md) 

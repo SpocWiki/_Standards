@@ -51,8 +51,6 @@ Commons_category: Ham (food)
 > [Wikipedia](https://en.wikipedia.org/wiki/Ham) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ham](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Ham.md) 

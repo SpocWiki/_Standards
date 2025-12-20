@@ -41,8 +41,6 @@ described_at_URL: https://leanlogic.online/glossary/spirit
 > [Wikipedia](https://en.wikipedia.org/wiki/Mood%20(psychology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mood](/_Standards/bio/Psychology/Mood.md) 

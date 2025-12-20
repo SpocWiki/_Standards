@@ -12,8 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Noether's%20theorem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Noether's_Theorem](/_Standards/Science/Physics/Noether's_Theorem.md) 

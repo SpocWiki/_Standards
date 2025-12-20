@@ -51,8 +51,6 @@ Commons_category: Pupae
 > [Wikipedia](https://en.wikipedia.org/wiki/Pupa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pupa](/_Standards/bio/Metabolism/Pupa.md) 

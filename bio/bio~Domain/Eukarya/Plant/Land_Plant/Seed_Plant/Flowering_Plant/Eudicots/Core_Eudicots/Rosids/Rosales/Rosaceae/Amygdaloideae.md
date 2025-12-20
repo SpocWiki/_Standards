@@ -39,8 +39,6 @@ UMLS_CUI: C2818700
 > [Wikipedia](https://en.wikipedia.org/wiki/Amygdaloideae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Amygdaloideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae.md) 

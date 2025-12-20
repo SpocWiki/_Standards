@@ -28,10 +28,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rodolphe%20T%C3%B6pffer) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Töpffer,Rodolphe](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.md) 

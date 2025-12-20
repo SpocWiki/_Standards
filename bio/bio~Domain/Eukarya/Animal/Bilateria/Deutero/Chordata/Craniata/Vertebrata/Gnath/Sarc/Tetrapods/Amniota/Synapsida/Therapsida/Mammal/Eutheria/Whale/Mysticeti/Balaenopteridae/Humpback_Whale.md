@@ -19,8 +19,6 @@ has_id_wikidata: Q132905
 > [Wikipedia](https://en.wikipedia.org/wiki/Humpback%20whale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Humpback_Whale](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae/Humpback_Whale.md) 

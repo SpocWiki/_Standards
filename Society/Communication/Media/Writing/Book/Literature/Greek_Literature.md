@@ -46,8 +46,6 @@ Commons_category: Greek literature
 > [Wikipedia](https://en.wikipedia.org/wiki/Greek%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greek_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Greek_Literature.md) 

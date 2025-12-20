@@ -31,11 +31,6 @@ subclass_of: "[[_Standards/WikiData/WD~rotation_around_a_fixed_axis,2995427]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20rotation) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stellar_Rotation](/_Standards/Astronomy/Star/Stellar_Rotation.md) 

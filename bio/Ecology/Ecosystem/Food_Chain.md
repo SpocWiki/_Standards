@@ -60,8 +60,6 @@ Wolfram_Language_entity_code: Entity["Concept", "FoodChain::9f855"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Food%20chain) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Food_Chain](/_Standards/bio/Ecology/Ecosystem/Food_Chain.md) 

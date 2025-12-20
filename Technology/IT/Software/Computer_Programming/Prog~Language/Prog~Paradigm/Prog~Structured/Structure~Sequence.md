@@ -21,8 +21,6 @@ Graphical Representation:
 ![[Structogram#Code-Sequence]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structure~Sequence](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Sequence.md) 

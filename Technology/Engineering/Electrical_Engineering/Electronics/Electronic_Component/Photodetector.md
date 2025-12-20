@@ -34,8 +34,6 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "Photodetector"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Photodetector) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photodetector](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Photodetector.md) 

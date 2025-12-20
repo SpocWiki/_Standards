@@ -110,8 +110,6 @@ exact_match:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tetanus)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tetanus](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tetanus.md) 

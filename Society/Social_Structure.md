@@ -38,8 +38,6 @@ MeSH_tree_code: I01.880.761
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20structure) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Structure](/_Standards/Society/Social_Structure.md) 

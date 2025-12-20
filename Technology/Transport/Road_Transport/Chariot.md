@@ -54,8 +54,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B8%D1%81%D1%
 > [Wikipedia](https://en.wikipedia.org/wiki/Chariot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chariot](/_Standards/Technology/Transport/Road_Transport/Chariot.md) 

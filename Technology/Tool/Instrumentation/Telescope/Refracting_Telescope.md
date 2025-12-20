@@ -40,8 +40,6 @@ Commons_category: Refracting telescopes
 > [Wikipedia](https://en.wikipedia.org/wiki/Refracting%20telescope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Refracting_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Refracting_Telescope.md) 

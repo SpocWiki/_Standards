@@ -148,8 +148,6 @@ GitHub_topic: morse-code
 If you need a detailed explanation of any specific code, feel free to ask!
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Morse_Code](/_Standards/Language/Writing_System/Morse_Code.md) 

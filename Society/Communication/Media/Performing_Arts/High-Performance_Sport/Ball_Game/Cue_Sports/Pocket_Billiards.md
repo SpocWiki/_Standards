@@ -21,8 +21,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pool%20(cue%20sports)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pocket_Billiards](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.md) 

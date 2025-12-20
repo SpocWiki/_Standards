@@ -53,8 +53,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/IZOTOPI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Isotope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Isotope](/_Standards/Chemistry/Chemical_Element/Isotope.md) 

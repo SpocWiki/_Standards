@@ -42,8 +42,6 @@ Commons_category: Plant hormones
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20hormone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plant_Hormone](/_Standards/bio/Botany/Plant_Anatomy/Plant_Hormone.md) 

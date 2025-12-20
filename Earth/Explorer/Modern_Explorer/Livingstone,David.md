@@ -85,8 +85,6 @@ Krugosvet_article: Earth_sciences/geografiya/LIVINGSTON_DAVID.html
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Livingstone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Livingstone,David](/_Standards/Earth/Explorer/Modern_Explorer/Livingstone,David.md) 

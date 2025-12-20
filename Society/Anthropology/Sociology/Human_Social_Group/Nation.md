@@ -48,8 +48,6 @@ Commons_category: Nations
 > [Wikipedia](https://en.wikipedia.org/wiki/Nation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nation](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation.md) 

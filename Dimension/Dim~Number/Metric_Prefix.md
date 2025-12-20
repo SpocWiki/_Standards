@@ -12,8 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Metric%20prefix) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metric_Prefix](/_Standards/Dimension/Dim~Number/Metric_Prefix.md) 

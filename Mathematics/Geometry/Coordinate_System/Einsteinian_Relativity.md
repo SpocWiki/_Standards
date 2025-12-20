@@ -31,9 +31,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Theory%20of%20relativity) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Einsteinian_Relativity](/_Standards/Mathematics/Geometry/Coordinate_System/Einsteinian_Relativity.md) 

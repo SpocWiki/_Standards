@@ -33,11 +33,6 @@ This corresponds to a relational Design, AOP, SOA and Microservices.
 > [Wikipedia](https://en.wikipedia.org/wiki/Entity%20component%20system) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ECP(Entity Component System)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).md) 

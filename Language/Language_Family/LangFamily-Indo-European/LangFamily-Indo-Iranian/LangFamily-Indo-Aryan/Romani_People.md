@@ -111,8 +111,6 @@ Krugosvet_article_archived_: narody-i-yazyki/tsygane
 > [Wikipedia](https://en.wikipedia.org/wiki/Romani%20people) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Romani_People](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Romani_People.md) 

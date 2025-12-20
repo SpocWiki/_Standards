@@ -63,8 +63,6 @@ Debian_Wiki_article: fr/Keyboard
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20keyboard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computer_Keyboard](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.md) 

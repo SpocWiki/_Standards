@@ -260,8 +260,6 @@ Europeana_entity: agent/base/60307
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Blake) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Blake,William](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.md) 

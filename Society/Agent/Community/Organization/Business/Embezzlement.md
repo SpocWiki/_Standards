@@ -39,8 +39,6 @@ IPTC_NewsCode: mediatopic/20000090
 > [Wikipedia](https://en.wikipedia.org/wiki/Embezzlement) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Embezzlement](/_Standards/Society/Agent/Community/Organization/Business/Embezzlement.md) 

@@ -184,8 +184,6 @@ X_Twitter_username: NATO
 > [Wikipedia](https://en.wikipedia.org/wiki/NATO)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NATO](/_Standards/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.md) 

@@ -15,8 +15,6 @@ or, when giving the text directly:
 - [ #has_/text_of_/lyrics  :: Text ] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [has](/_Standards/schema-org/Relation/has.md) 

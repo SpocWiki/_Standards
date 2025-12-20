@@ -46,8 +46,6 @@ P8189: "987007511403305171"
 > [Wikipedia](https://en.wikipedia.org/wiki/College%20of%20Cardinals) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [College_of_Cardinals](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/College_of_Cardinals.md) 

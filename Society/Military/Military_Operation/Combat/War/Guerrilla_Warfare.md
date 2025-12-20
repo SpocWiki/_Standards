@@ -38,8 +38,6 @@ IPTC_NewsCode: mediatopic/20000057
 > [Wikipedia](https://en.wikipedia.org/wiki/Guerrilla%20warfare) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Guerrilla_Warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.md) 

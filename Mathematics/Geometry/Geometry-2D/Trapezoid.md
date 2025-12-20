@@ -43,8 +43,6 @@ Commons_category: Trapezoids
 > [Wikipedia](https://en.wikipedia.org/wiki/Trapezoid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trapezoid](/_Standards/Mathematics/Geometry/Geometry-2D/Trapezoid.md) 

@@ -75,8 +75,6 @@ U_S_National_Archives_Identifier: "10581376"
 > [Wikipedia](https://en.wikipedia.org/wiki/Joe%20Louis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Louis,Joe](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.md) 

@@ -32,8 +32,6 @@ has_id_wikidata: Q180453
 > [Wikipedia](https://en.wikipedia.org/wiki/Dolly%20Parton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parton,Dolly](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.md) 

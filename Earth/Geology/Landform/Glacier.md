@@ -84,8 +84,6 @@ Commons_category: Glaciers
 > [Wikipedia](https://en.wikipedia.org/wiki/Glacier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glacier](/_Standards/Earth/Geology/Landform/Glacier.md) 

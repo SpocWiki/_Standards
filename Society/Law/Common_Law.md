@@ -75,8 +75,6 @@ Commons_category: Common law
 > [Wikipedia](https://en.wikipedia.org/wiki/Common%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Common_Law](/_Standards/Society/Law/Common_Law.md) 

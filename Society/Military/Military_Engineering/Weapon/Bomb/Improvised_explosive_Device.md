@@ -32,8 +32,6 @@ Commons_category: Improvised explosive devices
 > [Wikipedia](https://en.wikipedia.org/wiki/Improvised%20explosive%20device) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Improvised_explosive_Device](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.md) 

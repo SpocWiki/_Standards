@@ -19,8 +19,6 @@ has_id_wikidata: Q245418
 > [Wikipedia](https://en.wikipedia.org/wiki/Foxtrot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Foxtrot](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Foxtrot.md) 

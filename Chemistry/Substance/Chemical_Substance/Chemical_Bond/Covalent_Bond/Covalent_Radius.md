@@ -29,8 +29,6 @@ Commons_category: Covalent radius
 > [Wikipedia](https://en.wikipedia.org/wiki/Covalent%20radius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Covalent_Radius](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.md) 

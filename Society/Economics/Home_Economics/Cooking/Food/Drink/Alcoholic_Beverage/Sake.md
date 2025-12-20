@@ -27,8 +27,6 @@ has_id_wikidata: Q170219
 > [Wikipedia](https://en.wikipedia.org/wiki/Sake) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sake](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Sake.md) 

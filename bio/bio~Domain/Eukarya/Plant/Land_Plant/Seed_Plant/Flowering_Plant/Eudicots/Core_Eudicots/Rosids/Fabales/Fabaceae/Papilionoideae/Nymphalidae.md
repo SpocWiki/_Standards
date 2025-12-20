@@ -69,8 +69,6 @@ Library_of_Congress_Classification: QL561.N9
 > [Wikipedia](https://en.wikipedia.org/wiki/Nymphalidae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nymphalidae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Nymphalidae.md) 

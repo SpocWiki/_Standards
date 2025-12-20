@@ -43,8 +43,6 @@ subclass_of:
 > [Wikipedia](https://en.wikipedia.org/wiki/Microbial%20cyst) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Microbial_Cyst](/_Standards/bio/bio~Domain/Bacteria/Microbial_Cyst.md) 

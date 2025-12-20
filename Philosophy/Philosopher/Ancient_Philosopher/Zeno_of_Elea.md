@@ -89,8 +89,6 @@ ISNI: "0000000103952451"
 > [Wikipedia](https://en.wikipedia.org/wiki/Zeno%20of%20Elea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zeno_of_Elea](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Elea.md) 

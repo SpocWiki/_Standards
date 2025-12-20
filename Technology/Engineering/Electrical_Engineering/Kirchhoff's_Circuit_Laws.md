@@ -40,8 +40,6 @@ Commons_category: Kirchhoff's circuit laws
 > [Wikipedia](https://en.wikipedia.org/wiki/Kirchhoff's%20circuit%20laws) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kirchhoff's_Circuit_Laws](/_Standards/Technology/Engineering/Electrical_Engineering/Kirchhoff's_Circuit_Laws.md) 

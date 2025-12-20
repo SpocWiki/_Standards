@@ -52,8 +52,6 @@ subclass_of:
 > [Wikipedia](https://en.wikipedia.org/wiki/Equation%20solving) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Equation_Solving](/_Standards/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.md) 

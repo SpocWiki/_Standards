@@ -61,8 +61,6 @@ Commons_category: Electric motors
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20motor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electric_Motor](/_Standards/Technology/Engine/Electric_Motor.md) 

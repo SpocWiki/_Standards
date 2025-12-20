@@ -108,8 +108,6 @@ Provenio_UUID: 77e4a429-53a8-4689-9298-bcc7634c5bc2
 > [Wikipedia](https://en.wikipedia.org/wiki/Hippocrates) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hippocrates](/_Standards/bio/Medicine/Medical_Business/Physician/Hippocrates.md) 

@@ -48,8 +48,6 @@ Commons_category: Diplomas
 > [Wikipedia](https://en.wikipedia.org/wiki/Diploma) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diploma](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Diploma.md) 

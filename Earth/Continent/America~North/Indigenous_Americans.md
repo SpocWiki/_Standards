@@ -111,8 +111,6 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Eagle%20Song%20of%20th
 > [Wikipedia](https://en.wikipedia.org/wiki/Indigenous%20peoples%20of%20the%20Americas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Indigenous_Americans](/_Standards/Earth/Continent/America~North/Indigenous_Americans.md) 

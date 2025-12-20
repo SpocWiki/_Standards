@@ -88,11 +88,6 @@ start_time: 1932-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Holodomor)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1932-Holodomor-1933](/_Standards/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.md) 

@@ -57,8 +57,6 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Scandinavi
 > [Wikipedia](https://en.wikipedia.org/wiki/Scandinavian%20Peninsula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scandinavian_Peninsula](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.md) 

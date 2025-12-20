@@ -51,8 +51,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/NAVIGATSIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Navigation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Navigation](/_Standards/Earth/Geography/Cartography/Geodesy/Navigation.md) 

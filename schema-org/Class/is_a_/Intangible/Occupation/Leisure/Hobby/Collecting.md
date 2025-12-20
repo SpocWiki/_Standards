@@ -33,8 +33,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Collecting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Collecting](/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.md) 

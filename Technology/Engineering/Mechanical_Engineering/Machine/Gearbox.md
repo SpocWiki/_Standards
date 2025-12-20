@@ -37,8 +37,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Speed1c.png
 > [Wikipedia](https://en.wikipedia.org/wiki/Transmission%20(mechanical%20device)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gearbox](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox.md) 

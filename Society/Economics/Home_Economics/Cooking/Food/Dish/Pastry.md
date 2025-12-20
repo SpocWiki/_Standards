@@ -50,8 +50,6 @@ Amazon_com_browse_node: "18770272011"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pastry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pastry](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Pastry.md) 

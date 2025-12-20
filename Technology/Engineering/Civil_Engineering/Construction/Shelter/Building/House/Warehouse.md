@@ -56,8 +56,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/IKEA%20Anderlecht%20se
 > [Wikipedia](https://en.wikipedia.org/wiki/Warehouse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Warehouse](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Warehouse.md) 

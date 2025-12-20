@@ -88,8 +88,6 @@ Baidu_Tieba_name: 冰淇淋
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20cream) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ice_Cream](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.md) 

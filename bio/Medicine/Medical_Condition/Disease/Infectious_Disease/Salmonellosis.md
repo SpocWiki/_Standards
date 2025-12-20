@@ -120,8 +120,6 @@ Commons_category: Salmonellosis
 > [Wikipedia](https://en.wikipedia.org/wiki/Salmonellosis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Salmonellosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Salmonellosis.md) 

@@ -160,8 +160,6 @@ date_of_birth: 1903-09-25T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Mark%20Rothko) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rothko,Mark](/_Standards/Society/Communication/Media/Painting/Painter/Rothko,Mark.md) 

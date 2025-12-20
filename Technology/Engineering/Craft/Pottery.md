@@ -79,8 +79,6 @@ OpenStreetMap_tag: shop=pottery
 > [Wikipedia](https://en.wikipedia.org/wiki/Pottery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pottery](/_Standards/Technology/Engineering/Craft/Pottery.md) 

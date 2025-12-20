@@ -107,8 +107,6 @@ Iconclass_notation: 98B(EPICURUS)
 > [Wikipedia](https://en.wikipedia.org/wiki/Epicurus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Epicurus](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Epicurus.md) 

@@ -66,8 +66,6 @@ start_time: 1100-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Guild) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Guild](/_Standards/Society/Agent/Community/Organization/Guild.md) 

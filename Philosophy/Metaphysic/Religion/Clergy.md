@@ -32,8 +32,6 @@ has_id_wikidata: Q177826
 > [Wikipedia](https://en.wikipedia.org/wiki/Clergy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clergy](/_Standards/Philosophy/Metaphysic/Religion/Clergy.md) 

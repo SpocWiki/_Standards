@@ -45,8 +45,6 @@ subreddit: JusticeServed
 > [Wikipedia](https://en.wikipedia.org/wiki/Justice) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Justice](/_Standards/Society/Law/Justice.md) 

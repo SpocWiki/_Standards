@@ -32,10 +32,6 @@ video:
 > [Wikipedia](https://en.wikipedia.org/wiki/Reflecting%20telescope)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reflecting_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Reflecting_Telescope.md) 

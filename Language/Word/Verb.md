@@ -76,7 +76,6 @@ Commons_category: Verbs
 > [Wikipedia](https://en.wikipedia.org/wiki/Verb)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Verb](/_Standards/Language/Word/Verb.md) 

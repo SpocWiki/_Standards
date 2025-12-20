@@ -131,9 +131,6 @@ street_address:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pantheon,%20Rome) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pantheon,Rome](/_Standards/Earth/Geography/Place/Pantheon,Rome.md) 

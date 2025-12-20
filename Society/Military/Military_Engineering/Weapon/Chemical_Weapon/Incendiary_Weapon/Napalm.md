@@ -52,8 +52,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20riverboat%20using
 > [Wikipedia](https://en.wikipedia.org/wiki/Napalm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Napalm](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.md) 

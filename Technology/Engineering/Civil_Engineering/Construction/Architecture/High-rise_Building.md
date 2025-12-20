@@ -75,8 +75,6 @@ Commons_category: High-rises
 > [Wikipedia](https://en.wikipedia.org/wiki/Tower%20block) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [High-rise_Building](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.md) 

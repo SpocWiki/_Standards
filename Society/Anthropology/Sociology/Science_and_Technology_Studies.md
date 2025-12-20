@@ -24,8 +24,6 @@ Commons_category: Science and technology studies
 > [Wikipedia](https://en.wikipedia.org/wiki/Science%20and%20technology%20studies) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Science_and_Technology_Studies](/_Standards/Society/Anthropology/Sociology/Science_and_Technology_Studies.md) 

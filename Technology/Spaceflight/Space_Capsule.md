@@ -34,8 +34,6 @@ Commons_category: Space capsules
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20capsule) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Space_Capsule](/_Standards/Technology/Spaceflight/Space_Capsule.md) 

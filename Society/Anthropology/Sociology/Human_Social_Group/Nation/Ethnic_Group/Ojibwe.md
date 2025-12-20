@@ -89,8 +89,6 @@ Library_of_Congress_Classification: E99.C6
 > [Wikipedia](https://en.wikipedia.org/wiki/Ojibwe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ojibwe](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.md) 

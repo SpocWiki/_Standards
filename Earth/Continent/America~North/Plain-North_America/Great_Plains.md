@@ -72,9 +72,6 @@ Commons_category: Great Plains
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Plains) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Great_Plains](/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains.md) 

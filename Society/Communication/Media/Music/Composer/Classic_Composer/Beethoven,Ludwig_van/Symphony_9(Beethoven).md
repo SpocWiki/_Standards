@@ -82,10 +82,6 @@ musical_quotation_or_excerpt: '{\set Staff.instrumentName=#"Vc."\set Staff.midiI
 > [Wikipedia](https://en.wikipedia.org/wiki/Symphony%20No.%209%20(Beethoven)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Symphony_9(Beethoven)](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_9(Beethoven).md) 

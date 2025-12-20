@@ -125,8 +125,6 @@ birth_name: Richard Charles Nicholas Branson
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Branson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Branson,Richard](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Branson,Richard.md) 

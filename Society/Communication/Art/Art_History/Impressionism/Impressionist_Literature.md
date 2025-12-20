@@ -38,8 +38,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Impressionism%20(literature)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Impressionist_Literature](/_Standards/Society/Communication/Art/Art_History/Impressionism/Impressionist_Literature.md) 

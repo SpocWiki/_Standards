@@ -60,8 +60,6 @@ Commons_category: The Goon Show
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Goon%20Show) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goon_Show](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/Goon_Show.md) 

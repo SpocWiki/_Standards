@@ -25,8 +25,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Practical%20joke) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Practical_Joke](/_Standards/Society/Communication/Media/Joke/Practical_Joke.md) 

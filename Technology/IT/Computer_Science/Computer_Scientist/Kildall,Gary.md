@@ -64,8 +64,6 @@ name_in_native_language: Gary Kildall
 > [Wikipedia](https://en.wikipedia.org/wiki/Gary%20Kildall) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kildall,Gary](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Kildall,Gary.md) 

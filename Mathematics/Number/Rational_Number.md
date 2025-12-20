@@ -80,8 +80,6 @@ Commons_category: Rational numbers
 > [Wikipedia](https://en.wikipedia.org/wiki/Rational%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rational_Number](/_Standards/Mathematics/Number/Rational_Number.md) 

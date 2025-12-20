@@ -144,8 +144,6 @@ Libris_URI: mkz12s654bq4w57
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20David%20Thoreau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thoreau,Henry_David](/_Standards/Philosophy/Philosopher/Thoreau,Henry_David.md) 

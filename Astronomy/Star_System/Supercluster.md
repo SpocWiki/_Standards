@@ -31,8 +31,6 @@ Commons_category: Superclusters of galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Supercluster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Supercluster](/_Standards/Astronomy/Star_System/Supercluster.md) 

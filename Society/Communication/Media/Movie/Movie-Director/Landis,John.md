@@ -42,11 +42,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Landis) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Landis,John](/_Standards/Society/Communication/Media/Movie/Movie-Director/Landis,John.md) 

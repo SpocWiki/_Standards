@@ -18,8 +18,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sublimation%20(phase%20transition)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sublimation](/_Standards/Science/Physics/State_of_Matter/Solid/Sublimation.md) 

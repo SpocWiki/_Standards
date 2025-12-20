@@ -58,8 +58,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/INTEGR
 > [Wikipedia](https://en.wikipedia.org/wiki/Integrated%20circuit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Integrated_Circuit](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.md) 

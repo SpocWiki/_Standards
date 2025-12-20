@@ -25,8 +25,6 @@ has_id_wikidata: Q177625
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic%20field) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electromagnetic_Field](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.md) 

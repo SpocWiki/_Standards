@@ -89,8 +89,6 @@ Mozilla_Developer_Network_article:
 > [Wikipedia](https://en.wikipedia.org/wiki/HTTP) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [HTTP](/_Standards/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.md) 

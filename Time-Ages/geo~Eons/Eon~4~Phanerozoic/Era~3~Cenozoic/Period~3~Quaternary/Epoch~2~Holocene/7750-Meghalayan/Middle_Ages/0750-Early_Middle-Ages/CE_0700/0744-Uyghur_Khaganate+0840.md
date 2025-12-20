@@ -34,8 +34,6 @@ Commons_category: Uyghur Khaganate
 > [Wikipedia](https://en.wikipedia.org/wiki/Uyghur%20Khaganate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0744-Uyghur_Khaganate+0840](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.md) 

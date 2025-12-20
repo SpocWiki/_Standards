@@ -681,8 +681,6 @@ Commons_category: Linoleic acid
 > [Wikipedia](https://en.wikipedia.org/wiki/Linoleic%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Linoleic_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.md) 

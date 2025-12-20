@@ -260,12 +260,6 @@ DSSTOX_compound_identifier: DTXCID501030562
 > [Wikipedia](https://en.wikipedia.org/wiki/Cocaine)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cocaine](/_Standards/bio/Medicine/Drug/Drug-Dealing/Cocaine.md) 

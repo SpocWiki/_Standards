@@ -40,8 +40,6 @@ dissolved_abolished_or_demolished_date: 2002-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Organisation%20of%20African%20Unity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Organisation_of_African_Unity](/_Standards/Society/Agent/Community/Organization/International_Organization/Organisation_of_African_Unity.md) 

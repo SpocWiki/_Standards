@@ -5,8 +5,6 @@ aliases:
 ---
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medieval_Composer](/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composer.md) 

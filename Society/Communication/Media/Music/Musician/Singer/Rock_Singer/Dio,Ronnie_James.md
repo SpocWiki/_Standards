@@ -114,8 +114,6 @@ Plex_person_key: 5d77682b8a7581001f12c40a
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronnie%20James%20Dio) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dio,Ronnie_James](/_Standards/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.md) 

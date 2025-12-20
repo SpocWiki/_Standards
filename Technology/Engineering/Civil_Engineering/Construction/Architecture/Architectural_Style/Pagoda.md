@@ -71,8 +71,6 @@ OpenStreetMap_tag: building=pagoda
 > [Wikipedia](https://en.wikipedia.org/wiki/Pagoda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pagoda](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Pagoda.md) 

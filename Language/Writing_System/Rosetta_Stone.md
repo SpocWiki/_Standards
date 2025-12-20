@@ -117,8 +117,6 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rosetta%20Stone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rosetta_Stone](/_Standards/Language/Writing_System/Rosetta_Stone.md) 

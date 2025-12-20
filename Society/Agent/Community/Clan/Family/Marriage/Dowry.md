@@ -44,8 +44,6 @@ Commons_category: Dowry
 > [Wikipedia](https://en.wikipedia.org/wiki/Dowry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dowry](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Dowry.md) 

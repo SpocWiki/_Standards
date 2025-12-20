@@ -41,8 +41,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Muscle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Muscle_Tissue](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Muscle_Tissue.md) 

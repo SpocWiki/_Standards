@@ -48,10 +48,6 @@ Dewey_Decimal_Classification: "387.245"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tanker%20(ship)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tanker(Ship)](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Tanker(Ship).md) 

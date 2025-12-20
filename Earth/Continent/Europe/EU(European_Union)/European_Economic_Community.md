@@ -53,8 +53,6 @@ dissolved_abolished_or_demolished_date: 2024-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Economic%20Community) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Economic_Community](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.md) 

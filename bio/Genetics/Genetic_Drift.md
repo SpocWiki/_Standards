@@ -28,9 +28,6 @@ Commons_category: Genetic drift
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetic%20drift) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Genetic_Drift](/_Standards/bio/Genetics/Genetic_Drift.md) 

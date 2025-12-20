@@ -85,8 +85,6 @@ short_name: B. napus
 > [Wikipedia](https://en.wikipedia.org/wiki/Rapeseed) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rapeseed](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Rapeseed.md) 

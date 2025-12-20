@@ -137,8 +137,6 @@ This technique employs  [[#open,dynamic_Type-Polymorphism]] to implement Multi-P
 i.e. the dynamic selection of a Method based on 2 or more Parameters. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polymorphism](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Polymorphism.md) 

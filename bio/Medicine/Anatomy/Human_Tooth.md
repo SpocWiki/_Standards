@@ -49,8 +49,6 @@ Commons_category: Human teeth
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20tooth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Human_Tooth](/_Standards/bio/Medicine/Anatomy/Human_Tooth.md) 

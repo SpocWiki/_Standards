@@ -59,8 +59,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Inertial%20frame%20of%20reference) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inertial_Reference_Frame](/_Standards/Mathematics/Geometry/Coordinate_System/Inertial_Reference_Frame.md) 

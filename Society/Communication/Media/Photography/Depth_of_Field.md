@@ -23,8 +23,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Depth%20of%20field%20f
 > [Wikipedia](https://en.wikipedia.org/wiki/Depth%20of%20field) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Depth_of_Field](/_Standards/Society/Communication/Media/Photography/Depth_of_Field.md) 

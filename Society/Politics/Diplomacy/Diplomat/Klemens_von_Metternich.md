@@ -157,8 +157,6 @@ Royal_Academy_new_identifier: clemens-lothar-wenzel-prince-metternich
 > [Wikipedia](https://en.wikipedia.org/wiki/Klemens%20von%20Metternich) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Klemens_von_Metternich](/_Standards/Society/Politics/Diplomacy/Diplomat/Klemens_von_Metternich.md) 

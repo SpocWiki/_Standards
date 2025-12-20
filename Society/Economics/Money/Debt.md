@@ -44,8 +44,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/1979%20%2410%2C000%20T
 > [Wikipedia](https://en.wikipedia.org/wiki/Debt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Debt](/_Standards/Society/Economics/Money/Debt.md) 

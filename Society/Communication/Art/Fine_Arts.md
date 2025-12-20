@@ -18,7 +18,6 @@ Fine Arts refers specifically to disciplines that are pursued primarily for thei
 - poetry
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fine_Arts](/_Standards/Society/Communication/Art/Fine_Arts.md) 

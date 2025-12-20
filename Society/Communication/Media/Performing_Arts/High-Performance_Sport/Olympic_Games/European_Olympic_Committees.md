@@ -95,8 +95,6 @@ X_Twitter_username: eocmedia
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Olympic%20Committees) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Olympic_Committees](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/European_Olympic_Committees.md) 

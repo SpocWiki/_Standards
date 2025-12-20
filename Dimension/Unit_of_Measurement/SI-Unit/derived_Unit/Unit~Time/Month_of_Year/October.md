@@ -113,8 +113,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/October-banner-0
 > [Wikipedia](https://en.wikipedia.org/wiki/October) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [October](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.md) 

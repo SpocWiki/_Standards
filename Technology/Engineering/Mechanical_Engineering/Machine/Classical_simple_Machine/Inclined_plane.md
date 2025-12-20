@@ -47,8 +47,6 @@ Commons_category: Inclined planes
 > [Wikipedia](https://en.wikipedia.org/wiki/Inclined%20plane) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inclined_plane](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.md) 

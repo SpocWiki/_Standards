@@ -119,8 +119,6 @@ CYT_CCS: AC000207483
 > [Wikipedia](https://en.wikipedia.org/wiki/Kang%20Youwei) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kang,Youwei](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.md) 

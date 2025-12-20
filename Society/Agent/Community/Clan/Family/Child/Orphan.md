@@ -55,8 +55,6 @@ male_form_of_label: našlaitis
 > [Wikipedia](https://en.wikipedia.org/wiki/Orphan)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orphan](/_Standards/Society/Agent/Community/Clan/Family/Child/Orphan.md) 

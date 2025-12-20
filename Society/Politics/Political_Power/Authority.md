@@ -50,7 +50,6 @@ Authority was derived from the [[../Social_Contract]] in which each Participant 
 [[../../../Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas]] and [[../../../../../_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques]] 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Authority](/_Standards/Society/Politics/Political_Power/Authority.md) 

@@ -185,8 +185,6 @@ Libris_URI: 75kmnddr3xgq0wt
 > [Wikipedia](https://en.wikipedia.org/wiki/Friedrich%20Schiller) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schiller,Friedrich](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Schiller,Friedrich.md) 

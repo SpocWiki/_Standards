@@ -72,8 +72,6 @@ has_id_wikidata: Q81365
 > [Wikipedia](https://en.wikipedia.org/wiki/Decimal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decimal_numeral_System](/_Standards/Mathematics/Number/Numeral_System/Decimal_numeral_System.md) 

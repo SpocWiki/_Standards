@@ -123,8 +123,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Mead%20%281
 > [Wikipedia](https://en.wikipedia.org/wiki/Margaret%20Mead) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mead,Margaret](/_Standards/Society/Anthropology/Anthropologist/Mead,Margaret.md) 

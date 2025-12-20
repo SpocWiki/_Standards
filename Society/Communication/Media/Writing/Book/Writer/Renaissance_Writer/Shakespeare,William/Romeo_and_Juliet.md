@@ -58,8 +58,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Romeo%20and%20Juliet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Romeo_and_Juliet](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.md) 

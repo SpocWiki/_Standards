@@ -83,8 +83,6 @@ Commons_category: Prime ministers
 > [Wikipedia](https://en.wikipedia.org/wiki/Prime%20minister) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prime_Minister](/_Standards/Society/Politics/Government/Republic/Prime_Minister.md) 

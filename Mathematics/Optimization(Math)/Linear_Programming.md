@@ -60,9 +60,6 @@ name_in_kana: せんけいけいかくほう
 > [Wikipedia](https://en.wikipedia.org/wiki/Linear%20programming) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Linear_Programming](/_Standards/Mathematics/Optimization(Math)/Linear_Programming.md) 

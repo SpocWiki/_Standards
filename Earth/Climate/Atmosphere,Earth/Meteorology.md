@@ -71,8 +71,6 @@ Krugosvet_article_archived_: Earth_sciences/geografiya/METEOROLOGIYA_I_KLIMATOLO
 > [Wikipedia](https://en.wikipedia.org/wiki/Meteorology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meteorology](/_Standards/Earth/Climate/Atmosphere,Earth/Meteorology.md) 

@@ -35,8 +35,6 @@ Dewey_Decimal_Classification: "551.5512"
 > [Wikipedia](https://en.wikipedia.org/wiki/Weather%20front) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weather_Front](/_Standards/Earth/Climate/Weather/Weather_Front.md) 

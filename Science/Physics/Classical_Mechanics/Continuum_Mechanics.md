@@ -32,8 +32,6 @@ Commons_category: Continuum mechanics
 > [Wikipedia](https://en.wikipedia.org/wiki/Continuum%20mechanics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Continuum_Mechanics](/_Standards/Science/Physics/Classical_Mechanics/Continuum_Mechanics.md) 

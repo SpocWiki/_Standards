@@ -53,8 +53,6 @@ Commons_category: Sovereign states
 > [Wikipedia](https://en.wikipedia.org/wiki/Sovereign%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sovereign_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.md) 

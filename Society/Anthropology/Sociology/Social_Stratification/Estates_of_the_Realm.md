@@ -60,8 +60,6 @@ Commons_category: Estates of the realm
 > [Wikipedia](https://en.wikipedia.org/wiki/Estates%20of%20the%20realm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Estates_of_the_Realm](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Estates_of_the_Realm.md) 

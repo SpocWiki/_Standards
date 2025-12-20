@@ -54,8 +54,6 @@ Commons_category: Sea ice
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20ice) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sea_Ice](/_Standards/Earth/Climate/Sea_Ice.md) 

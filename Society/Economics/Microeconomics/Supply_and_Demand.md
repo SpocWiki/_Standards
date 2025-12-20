@@ -32,8 +32,6 @@ Dewey_Decimal_Classification: "338.521"
 > [Wikipedia](https://en.wikipedia.org/wiki/Supply%20and%20demand) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Supply_and_Demand](/_Standards/Society/Economics/Microeconomics/Supply_and_Demand.md) 

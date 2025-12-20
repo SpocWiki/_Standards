@@ -30,8 +30,6 @@ Commons_category: Gels
 > [Wikipedia](https://en.wikipedia.org/wiki/Gel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gel](/_Standards/Science/Physics/State_of_Matter/Gel.md) 

@@ -85,8 +85,6 @@ Wolfram_Language_entity_code: Entity["Mineral", "Graphite"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Graphite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Graphite](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.md) 

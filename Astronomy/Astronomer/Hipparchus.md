@@ -83,8 +83,6 @@ ISNI: "0000000107855341"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hipparchus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hipparchus](/_Standards/Astronomy/Astronomer/Hipparchus.md) 

@@ -27,8 +27,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Acronym) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Acronym](/_Standards/Language/Acronym.md) 

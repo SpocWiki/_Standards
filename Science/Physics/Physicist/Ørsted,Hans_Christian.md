@@ -119,8 +119,6 @@ date_of_birth: 1777-08-14T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Christian%20%C3%98rsted) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ørsted,Hans_Christian](/_Standards/Science/Physics/Physicist/Ørsted,Hans_Christian.md) 

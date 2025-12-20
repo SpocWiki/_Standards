@@ -45,8 +45,6 @@ hashtag_: household
 > [Wikipedia](https://en.wikipedia.org/wiki/Household) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Household](/_Standards/Society/Agent/Community/Clan/Household.md) 

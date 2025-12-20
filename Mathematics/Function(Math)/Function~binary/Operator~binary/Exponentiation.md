@@ -92,8 +92,6 @@ Commons_category: Exponentiation
 > [Wikipedia](https://en.wikipedia.org/wiki/Exponentiation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Exponentiation](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/Exponentiation.md) 

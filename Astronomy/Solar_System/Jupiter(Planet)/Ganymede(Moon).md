@@ -28,21 +28,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ganymede%20(moon)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ganymede](/_Standards/Astronomy/Solar_System/Jupiter/Ganymede.md) 
+### #is_/same_as :: [Ganymede(Moon)](/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).md) 
 
-### #is_/same_as :: [Ganymede.public](/_public/Astronomy/Solar_System/Jupiter/Ganymede.public.md) 
+### #is_/same_as :: [Ganymede(Moon).public](/_public/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).public.md) 
 
-### #is_/same_as :: [Ganymede.internal](/_internal/Astronomy/Solar_System/Jupiter/Ganymede.internal.md) 
+### #is_/same_as :: [Ganymede(Moon).internal](/_internal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).internal.md) 
 
-### #is_/same_as :: [Ganymede.protect](/_protect/Astronomy/Solar_System/Jupiter/Ganymede.protect.md) 
+### #is_/same_as :: [Ganymede(Moon).protect](/_protect/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).protect.md) 
 
-### #is_/same_as :: [Ganymede.private](/_private/Astronomy/Solar_System/Jupiter/Ganymede.private.md) 
+### #is_/same_as :: [Ganymede(Moon).private](/_private/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).private.md) 
 
-### #is_/same_as :: [Ganymede.personal](/_personal/Astronomy/Solar_System/Jupiter/Ganymede.personal.md) 
+### #is_/same_as :: [Ganymede(Moon).personal](/_personal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).personal.md) 
 
-### #is_/same_as :: [Ganymede.secret](/_secret/Astronomy/Solar_System/Jupiter/Ganymede.secret.md)
+### #is_/same_as :: [Ganymede(Moon).secret](/_secret/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).secret.md)
 

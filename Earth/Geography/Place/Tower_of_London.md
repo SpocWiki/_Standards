@@ -44,8 +44,6 @@ has_id_wikidata: Q62378
 > [Wikipedia](https://en.wikipedia.org/wiki/Tower%20of%20London) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tower_of_London](/_Standards/Earth/Geography/Place/Tower_of_London.md) 

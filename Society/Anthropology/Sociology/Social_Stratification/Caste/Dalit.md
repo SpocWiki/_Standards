@@ -38,8 +38,6 @@ Commons_category: Dalit
 > [Wikipedia](https://en.wikipedia.org/wiki/Dalit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dalit](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Caste/Dalit.md) 

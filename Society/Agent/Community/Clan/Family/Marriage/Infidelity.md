@@ -44,8 +44,6 @@ PhilPapers_topic: infidelity
 > [Wikipedia](https://en.wikipedia.org/wiki/Infidelity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Infidelity](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Infidelity.md) 

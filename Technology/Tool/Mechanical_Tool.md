@@ -10,11 +10,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hand%20tool) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mechanical_Tool](/_Standards/Technology/Tool/Mechanical_Tool.md) 

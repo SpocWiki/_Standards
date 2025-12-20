@@ -57,8 +57,6 @@ Commons_category: Skyscrapers
 > [Wikipedia](https://en.wikipedia.org/wiki/Skyscraper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Skyscraper](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.md) 

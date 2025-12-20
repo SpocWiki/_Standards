@@ -51,8 +51,6 @@ Provenio_UUID: b9aa3389-7c1c-4ac3-b840-b8386e500382
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20officer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [General](/_Standards/Society/Military/Armed_Forces/Military_Rank/General.md) 

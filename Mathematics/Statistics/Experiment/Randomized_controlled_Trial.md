@@ -20,8 +20,6 @@ has_id_wikidata: Q1436668
 > [Wikipedia](https://en.wikipedia.org/wiki/Randomized%20controlled%20trial) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Randomized_controlled_Trial](/_Standards/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.md) 

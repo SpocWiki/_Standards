@@ -89,8 +89,6 @@ Wolfram_Language_entity_code: Entity["Person", "Fatimah::drf95"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Fatima) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fatima](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muhammad/Fatima.md) 

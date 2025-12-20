@@ -41,8 +41,6 @@ Commons_category: Condensation
 > [Wikipedia](https://en.wikipedia.org/wiki/Condensation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Condensation](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Condensation.md) 

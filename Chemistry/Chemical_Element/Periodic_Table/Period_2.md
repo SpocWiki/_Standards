@@ -37,8 +37,6 @@ has_part_s_: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Period%202%20element) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Period_2](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_2.md) 

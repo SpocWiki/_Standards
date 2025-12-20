@@ -163,8 +163,6 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/NSDAP-Logo.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Nazi%20Party) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nazi_Party](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazi_Party.md) 

@@ -63,8 +63,6 @@ female_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sergeant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sergeant](/_Standards/Society/Military/Armed_Forces/Military_Rank/Sergeant.md) 

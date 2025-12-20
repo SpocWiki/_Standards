@@ -30,8 +30,6 @@ Stack_Exchange_tag: https://or.stackexchange.com/tags/nonlinear-programming
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonlinear%20programming) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nonlinear_Programming](/_Standards/Mathematics/Optimization(Math)/Nonlinear_Programming.md) 

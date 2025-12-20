@@ -32,8 +32,6 @@ has_id_wikidata: Q13703
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesoamerica) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mesoamerica](/_Standards/Earth/Continent/America~Central/Mesoamerica.md) 

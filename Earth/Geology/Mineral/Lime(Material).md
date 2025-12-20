@@ -19,8 +19,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lime%20(material)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lime(Material)](/_Standards/Earth/Geology/Mineral/Lime(Material).md) 

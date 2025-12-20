@@ -120,8 +120,6 @@ Google_Doodle: vladmir-vysotskys-74th-birthday
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Vysotsky) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vysotsky,Vladimir](/_Standards/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.md) 

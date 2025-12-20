@@ -72,10 +72,6 @@ Facebook_username: odedguam
 > [Wikipedia](https://en.wikipedia.org/wiki/GUAM%20Organization%20for%20Democracy%20and%20Economic%20Development) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development](/_Standards/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.md) 

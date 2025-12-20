@@ -52,8 +52,6 @@ Dewey_Decimal_Classification: "636.7538"
 > [Wikipedia](https://en.wikipedia.org/wiki/Dachshund) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dachshund](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dachshund.md) 

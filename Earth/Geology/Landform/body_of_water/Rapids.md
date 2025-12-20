@@ -31,8 +31,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000034
 > [Wikipedia](https://en.wikipedia.org/wiki/Rapids) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rapids](/_Standards/Earth/Geology/Landform/body_of_water/Rapids.md) 

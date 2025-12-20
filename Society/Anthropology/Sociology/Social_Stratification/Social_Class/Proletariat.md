@@ -39,8 +39,6 @@ named_after: "[[_Standards/WikiData/WD~proletarii,1775730]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Proletariat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Proletariat](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.md) 

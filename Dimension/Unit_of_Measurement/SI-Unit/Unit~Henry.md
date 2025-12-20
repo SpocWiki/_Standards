@@ -17,9 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20(unit)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~Henry](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Henry.md) 

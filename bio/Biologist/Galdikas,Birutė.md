@@ -24,8 +24,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Birut%C3%A9%20Galdikas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galdikas,Birutė](/_Standards/bio/Biologist/Galdikas,Birutė.md) 

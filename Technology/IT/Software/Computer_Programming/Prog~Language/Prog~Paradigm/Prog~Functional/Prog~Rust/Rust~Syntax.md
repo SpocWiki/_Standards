@@ -91,9 +91,6 @@ With `use` you can bring `struct`s and `fn` into scope;
 otherwise you would have to always fully Namespace-qualified. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Syntax](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Syntax.md) 

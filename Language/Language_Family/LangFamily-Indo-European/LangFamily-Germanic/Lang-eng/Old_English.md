@@ -80,8 +80,6 @@ native_label: Ænglisc sprǣc
 > [Wikipedia](https://en.wikipedia.org/wiki/Old%20English) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Old_English](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng/Old_English.md) 

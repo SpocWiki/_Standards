@@ -34,8 +34,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gram-positive%20bacteria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gram-positive](/_Standards/bio/bio~Domain/Bacteria/Gram-positive.md) 

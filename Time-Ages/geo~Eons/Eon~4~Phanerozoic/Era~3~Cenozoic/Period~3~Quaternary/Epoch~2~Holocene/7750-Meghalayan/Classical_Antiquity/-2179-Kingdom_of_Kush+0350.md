@@ -95,9 +95,6 @@ inception: -2179-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Kingdom%20of%20Kush)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-2179-Kingdom_of_Kush+0350](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.md) 

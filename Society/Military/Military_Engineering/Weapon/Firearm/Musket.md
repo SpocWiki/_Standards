@@ -41,8 +41,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Flintl%C3%A5sstudsare%
 > [Wikipedia](https://en.wikipedia.org/wiki/Musket) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Musket](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Musket.md) 

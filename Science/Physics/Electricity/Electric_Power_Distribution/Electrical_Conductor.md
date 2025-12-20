@@ -42,8 +42,6 @@ Commons_category: Electrical conductors
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20conductor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrical_Conductor](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Conductor.md) 

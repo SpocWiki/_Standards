@@ -102,9 +102,6 @@ publication_date: 1812-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Snow%20White) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Snow_White](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Grimm,Brothers/Snow_White.md) 

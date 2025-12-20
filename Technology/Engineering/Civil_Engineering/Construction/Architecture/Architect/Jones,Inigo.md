@@ -87,8 +87,6 @@ work_period_end_: 1652-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Inigo%20Jones) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jones,Inigo](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Jones,Inigo.md) 

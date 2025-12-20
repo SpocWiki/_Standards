@@ -147,9 +147,6 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Paran%C3%A1%20River) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paraná_River](/_Standards/Earth/Continent/America~South/Paraná_River.md) 

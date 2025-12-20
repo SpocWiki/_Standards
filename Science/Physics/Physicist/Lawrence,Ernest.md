@@ -112,8 +112,6 @@ birth_name: Ernest Orlando Lawrence
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernest%20Lawrence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lawrence,Ernest](/_Standards/Science/Physics/Physicist/Lawrence,Ernest.md) 

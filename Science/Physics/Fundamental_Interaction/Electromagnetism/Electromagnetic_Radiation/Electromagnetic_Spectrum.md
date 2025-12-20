@@ -47,8 +47,6 @@ Commons_category: Electromagnetic spectrum
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic%20spectrum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electromagnetic_Spectrum](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Electromagnetic_Spectrum.md) 

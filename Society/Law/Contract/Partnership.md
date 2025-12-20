@@ -39,8 +39,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Partnership) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Partnership](/_Standards/Society/Law/Contract/Partnership.md) 

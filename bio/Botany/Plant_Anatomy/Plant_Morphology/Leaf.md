@@ -85,8 +85,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Leaf%20Varieties%20%28
 > [Wikipedia](https://en.wikipedia.org/wiki/Leaf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leaf](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.md) 

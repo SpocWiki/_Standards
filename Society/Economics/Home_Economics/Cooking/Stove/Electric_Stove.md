@@ -38,8 +38,6 @@ Commons_category: Electrical stoves
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20stove) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electric_Stove](/_Standards/Society/Economics/Home_Economics/Cooking/Stove/Electric_Stove.md) 

@@ -36,8 +36,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Machete%20knife%20blad
 > [Wikipedia](https://en.wikipedia.org/wiki/Machete) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Machete](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Machete.md) 

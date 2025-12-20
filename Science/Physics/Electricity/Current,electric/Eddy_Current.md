@@ -35,8 +35,6 @@ has_id_wikidata: Q208598
 > [Wikipedia](https://en.wikipedia.org/wiki/Eddy%20current) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eddy_Current](/_Standards/Science/Physics/Electricity/Current,electric/Eddy_Current.md) 

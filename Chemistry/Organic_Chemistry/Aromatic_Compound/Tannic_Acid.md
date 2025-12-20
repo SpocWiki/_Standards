@@ -116,8 +116,6 @@ UNII: 28F9E0DJY6
 > [Wikipedia](https://en.wikipedia.org/wiki/Tannic%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tannic_Acid](/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.md) 

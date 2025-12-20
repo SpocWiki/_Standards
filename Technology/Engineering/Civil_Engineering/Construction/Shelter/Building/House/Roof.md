@@ -59,8 +59,6 @@ Iconclass_notation: 41A36
 > [Wikipedia](https://en.wikipedia.org/wiki/Roof)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roof](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Roof.md) 

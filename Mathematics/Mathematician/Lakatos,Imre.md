@@ -78,8 +78,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Imre%20Lak
 > [Wikipedia](https://en.wikipedia.org/wiki/Imre%20Lakatos) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lakatos,Imre](/_Standards/Mathematics/Mathematician/Lakatos,Imre.md) 

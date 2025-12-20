@@ -33,9 +33,6 @@ a programming paradigm which eschew[[../Prog~Imperative/GOTO-Statement|GOTO-Stat
 and exclusively uses subroutines, sequences, selection and iteration.
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structured_program_theorem](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_program_theorem.md) 

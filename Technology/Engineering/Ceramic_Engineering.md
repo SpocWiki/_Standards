@@ -28,8 +28,6 @@ Commons_category: Ceramic engineering
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceramic%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ceramic_Engineering](/_Standards/Technology/Engineering/Ceramic_Engineering.md) 

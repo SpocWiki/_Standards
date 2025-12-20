@@ -45,8 +45,6 @@ taxon_common_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Caryophyllales) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Caryophyllales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales.md) 

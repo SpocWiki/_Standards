@@ -39,8 +39,6 @@ Commons_category: Container ships
 > [Wikipedia](https://en.wikipedia.org/wiki/Container%20ship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Container_Ship](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Container_Ship.md) 

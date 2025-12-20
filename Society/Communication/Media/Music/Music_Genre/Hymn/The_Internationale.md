@@ -96,8 +96,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/La%20Internacio%20en%2
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Internationale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [The_Internationale](/_Standards/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.md) 

@@ -60,8 +60,6 @@ Library_of_Congress_Classification: GV1201.5
 > [Wikipedia](https://en.wikipedia.org/wiki/Hobby) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hobby](/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.md) 

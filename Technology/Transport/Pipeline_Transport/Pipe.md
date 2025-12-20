@@ -74,8 +74,6 @@ Commons_gallery: Pipe (material)
 > [Wikipedia](https://en.wikipedia.org/wiki/Pipe%20(fluid%20conveyance)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pipe](/_Standards/Technology/Transport/Pipeline_Transport/Pipe.md) 

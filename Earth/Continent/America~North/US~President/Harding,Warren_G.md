@@ -31,8 +31,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]] ] [created:: 1921-03-04]  [cancelled:: 1923-08-02]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Harding,Warren_G](/_Standards/Earth/Continent/America~North/US~President/Harding,Warren_G.md) 

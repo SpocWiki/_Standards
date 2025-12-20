@@ -57,12 +57,6 @@ native_label: Pop-music
 > [Wikipedia](https://en.wikipedia.org/wiki/Pop%20music) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pop_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Pop_Music.md) 

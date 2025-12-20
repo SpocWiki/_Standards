@@ -41,7 +41,6 @@ MeSH_tree_code: I01.880.853.300
 > [Wikipedia](https://en.wikipedia.org/wiki/Minority%20group) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Minority_Group](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.md) 

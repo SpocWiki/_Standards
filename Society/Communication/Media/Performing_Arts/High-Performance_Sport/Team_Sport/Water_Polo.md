@@ -62,8 +62,6 @@ Dewey_Decimal_Classification: "797.25"
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20polo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Water_Polo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Water_Polo.md) 

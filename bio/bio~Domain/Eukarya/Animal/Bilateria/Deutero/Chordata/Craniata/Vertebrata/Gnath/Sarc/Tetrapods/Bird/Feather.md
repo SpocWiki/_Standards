@@ -58,8 +58,6 @@ ATC_code: V01AA01
 > [Wikipedia](https://en.wikipedia.org/wiki/Feather) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Feather](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Feather.md) 

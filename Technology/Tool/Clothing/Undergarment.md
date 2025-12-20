@@ -60,8 +60,6 @@ Dewey_Decimal_Classification: "391.42"
 > [Wikipedia](https://en.wikipedia.org/wiki/Underwear) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Undergarment](/_Standards/Technology/Tool/Clothing/Undergarment.md) 

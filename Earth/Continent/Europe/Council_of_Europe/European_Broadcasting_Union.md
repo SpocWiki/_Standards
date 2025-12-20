@@ -88,8 +88,6 @@ Facebook_username: EBU.HQ
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Broadcasting%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Broadcasting_Union](/_Standards/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.md) 

@@ -61,8 +61,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiplication) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multiplication](/_Standards/Mathematics/Arithmetic/Multiplication.md) 

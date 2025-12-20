@@ -30,8 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Vespidae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vespidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Vespidae.md) 

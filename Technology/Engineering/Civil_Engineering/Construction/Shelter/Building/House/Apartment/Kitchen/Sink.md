@@ -52,8 +52,6 @@ Commons_category: Sinks
 > [Wikipedia](https://en.wikipedia.org/wiki/Sink) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sink](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.md) 

@@ -87,8 +87,6 @@ X_Twitter_username: TourCNTower
 > [Wikipedia](https://en.wikipedia.org/wiki/CN%20Tower) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CN_Tower](/_Standards/Earth/Geography/Place/CN_Tower.md) 

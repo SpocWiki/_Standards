@@ -36,8 +36,6 @@ Library_of_Congress_Classification: QA402.5-QA402.6
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20optimization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Optimization(Math)](/_Standards/Mathematics/Optimization(Math).md) 

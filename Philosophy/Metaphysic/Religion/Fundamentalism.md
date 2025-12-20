@@ -42,8 +42,6 @@ subclass_of: "[[_Standards/WikiData/WD~world_view,49447]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Fundamentalism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fundamentalism](/_Standards/Philosophy/Metaphysic/Religion/Fundamentalism.md) 

@@ -69,8 +69,6 @@ Commons_category: Olive oil
 > [Wikipedia](https://en.wikipedia.org/wiki/Olive%20oil) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Olive_Oil](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil/Olive_Oil.md) 

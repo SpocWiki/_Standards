@@ -116,8 +116,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Oregon%20vs.%20Washing
 > [Wikipedia](https://en.wikipedia.org/wiki/American%20football) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [American Football](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football.md) 

@@ -18,8 +18,6 @@ subclass_of: "[[_Standards/WikiData/WD~belief,34394]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nontheism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nontheism](/_Standards/Philosophy/Metaphysic/Religion/Nontheism.md) 

@@ -32,8 +32,6 @@ has_id_wikidata: Q584205
 > [Wikipedia](https://en.wikipedia.org/wiki/Nontrinitarianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nontrinitarianism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Nontrinitarianism.md) 

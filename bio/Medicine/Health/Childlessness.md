@@ -25,8 +25,6 @@ Commons_category: Childlessness
 > [Wikipedia](https://en.wikipedia.org/wiki/Childlessness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Childlessness](/_Standards/bio/Medicine/Health/Childlessness.md) 

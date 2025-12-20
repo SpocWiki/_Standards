@@ -156,8 +156,6 @@ GitHub_topic: prostate-cancer
 > [Wikipedia](https://en.wikipedia.org/wiki/Prostate%20cancer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prostate_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.md) 

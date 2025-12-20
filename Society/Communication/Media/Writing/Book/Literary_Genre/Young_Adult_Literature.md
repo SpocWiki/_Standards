@@ -46,9 +46,6 @@ Commons_category: Young adult fiction
 > [Wikipedia](https://en.wikipedia.org/wiki/Young%20adult%20literature)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Young_Adult_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.md) 

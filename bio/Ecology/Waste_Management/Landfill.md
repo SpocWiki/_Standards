@@ -55,8 +55,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%CE%A7%CF%89%CE%BC%CE%
 > [Wikipedia](https://en.wikipedia.org/wiki/Landfill) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Landfill](/_Standards/bio/Ecology/Waste_Management/Landfill.md) 

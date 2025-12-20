@@ -155,10 +155,6 @@ who claimed that the natural state is peaceful.
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Hobbes)  
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hobbes,Thomas](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.md) 

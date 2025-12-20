@@ -138,8 +138,6 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/JOSEPH%20CONRAD
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Conrad) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conrad,Joseph](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.md) 

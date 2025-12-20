@@ -64,8 +64,6 @@ Iconclass_notation: 46B4711
 > [Wikipedia](https://en.wikipedia.org/wiki/Interest) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Interest_Payment](/_Standards/Society/Economics/Money/Debt/Interest_Payment.md) 

@@ -84,8 +84,6 @@ EPPO_Code: CERVEL
 > [Wikipedia](https://en.wikipedia.org/wiki/Red%20deer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Red_Deer](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus/Red_Deer.md) 

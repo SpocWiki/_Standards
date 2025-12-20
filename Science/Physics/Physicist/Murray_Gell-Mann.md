@@ -135,8 +135,6 @@ date_of_death: 2019-05-24T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Murray%20Gell-Mann) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Murray_Gell-Mann](/_Standards/Science/Physics/Physicist/Murray_Gell-Mann.md) 

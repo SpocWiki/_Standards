@@ -50,8 +50,6 @@ Commons_category: Gamma and related functions
 > [Wikipedia](https://en.wikipedia.org/wiki/Gamma%20function) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gamma_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Gamma_Function.md) 

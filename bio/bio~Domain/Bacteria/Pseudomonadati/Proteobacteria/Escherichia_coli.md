@@ -198,8 +198,6 @@ EPPO_Code: ESCHCO
 > [Wikipedia](https://en.wikipedia.org/wiki/Escherichia%20coli) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Escherichia_coli](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria/Escherichia_coli.md) 

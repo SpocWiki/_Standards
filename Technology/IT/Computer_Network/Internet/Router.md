@@ -59,8 +59,6 @@ Baidu_Tieba_name: 路由器
 > [Wikipedia](https://en.wikipedia.org/wiki/Router%20(computing))  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Router](/_Standards/Technology/IT/Computer_Network/Internet/Router.md) 

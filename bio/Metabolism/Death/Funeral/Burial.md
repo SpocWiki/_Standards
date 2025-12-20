@@ -65,8 +65,6 @@ EAGLE_id: objtyp/lod/227
 > [Wikipedia](https://en.wikipedia.org/wiki/Burial) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Burial](/_Standards/bio/Metabolism/Death/Funeral/Burial.md) 

@@ -20,11 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Extinction%20(astronomy)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Extinction(Astronomy)](/_Standards/Astronomy/Interstellar_Medium/Extinction(Astronomy).md) 

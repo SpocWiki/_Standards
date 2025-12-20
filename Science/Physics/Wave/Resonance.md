@@ -37,8 +37,6 @@ IEV_number:
 > [Wikipedia](https://en.wikipedia.org/wiki/Resonance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Resonance](/_Standards/Science/Physics/Wave/Resonance.md) 

@@ -58,8 +58,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/NASLAZHDENIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Pleasure) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pleasure](/_Standards/bio/Psychology/Affect/Emotion/Pleasure.md) 

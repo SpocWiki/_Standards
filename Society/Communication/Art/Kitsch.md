@@ -20,8 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Kitsch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kitsch](/_Standards/Society/Communication/Art/Kitsch.md) 

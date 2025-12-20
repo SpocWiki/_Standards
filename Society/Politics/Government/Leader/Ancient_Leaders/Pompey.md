@@ -117,8 +117,6 @@ date_of_birth: -0105-09-26T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pompey) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pompey](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Pompey.md) 

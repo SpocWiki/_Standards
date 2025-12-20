@@ -8,9 +8,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/CP/M)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OS~CP~M](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~CP~M.md) 

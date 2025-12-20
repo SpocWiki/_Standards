@@ -130,8 +130,6 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/20365
 > [Wikipedia](https://en.wikipedia.org/wiki/Nero) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nero](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Nero.md) 

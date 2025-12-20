@@ -37,8 +37,6 @@ Commons_category: Curfews
 > [Wikipedia](https://en.wikipedia.org/wiki/Curfew) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Curfew](/_Standards/Society/Politics/Curfew.md) 

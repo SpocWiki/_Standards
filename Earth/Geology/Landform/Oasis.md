@@ -36,8 +36,6 @@ Commons_category: Oases
 > [Wikipedia](https://en.wikipedia.org/wiki/Oasis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oasis](/_Standards/Earth/Geology/Landform/Oasis.md) 

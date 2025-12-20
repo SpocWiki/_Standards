@@ -19,10 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Can%20(band))
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Can(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Can(Band).md) 

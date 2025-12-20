@@ -119,8 +119,6 @@ AGORHA_UUID: 4e26d120-95fb-46be-ad5d-e66882a8bf66
 > [Wikipedia](https://en.wikipedia.org/wiki/Maurice%20Ravel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ravel,Maurice](/_Standards/Society/Communication/Media/Music/Composer/Ravel,Maurice.md) 

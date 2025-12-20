@@ -77,8 +77,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/PODZHELUDOCHNAYA_ZHELEZA.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pancreas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pancreas](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.md) 

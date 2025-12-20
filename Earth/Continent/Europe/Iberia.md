@@ -67,8 +67,6 @@ Colon_Classification: SG--54
 > [Wikipedia](https://en.wikipedia.org/wiki/Iberian%20Peninsula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Iberia](/_Standards/Earth/Continent/Europe/Iberia.md) 

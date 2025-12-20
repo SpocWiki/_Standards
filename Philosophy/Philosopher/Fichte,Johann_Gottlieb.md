@@ -131,8 +131,6 @@ Europeana_entity: agent/base/145317
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Gottlieb%20Fichte) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fichte,Johann_Gottlieb](/_Standards/Philosophy/Philosopher/Fichte,Johann_Gottlieb.md) 

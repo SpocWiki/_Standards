@@ -37,8 +37,6 @@ inception: 1945-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Slinky) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Slinky](/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Slinky.md) 

@@ -40,8 +40,6 @@ has_id_wikidata: Q81054
 > [Wikipedia](https://en.wikipedia.org/wiki/Storm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Storm](/_Standards/Earth/Climate/Weather/Storm.md) 

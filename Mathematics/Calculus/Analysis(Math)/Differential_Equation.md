@@ -2,8 +2,6 @@
 Differential Equations describe a Function by its derivatives and can have multiple Solutions. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Differential_Equation](/_Standards/Mathematics/Calculus/Analysis(Math)/Differential_Equation.md) 

@@ -58,8 +58,6 @@ MeSH_tree_code: B01.050.150.900.493.817.750.825
 > [Wikipedia](https://en.wikipedia.org/wiki/Trout) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trout](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.md) 

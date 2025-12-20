@@ -70,8 +70,6 @@ Provenio_UUID: 6cbd8be3-3284-4cbb-ae0b-c5f83d4691aa
 > [Wikipedia](https://en.wikipedia.org/wiki/Demon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Demon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Demon.md) 

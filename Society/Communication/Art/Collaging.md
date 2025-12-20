@@ -49,8 +49,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Colla
 > [Wikipedia](https://en.wikipedia.org/wiki/Collage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Collaging](/_Standards/Society/Communication/Art/Collaging.md) 

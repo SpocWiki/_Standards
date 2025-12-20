@@ -121,7 +121,6 @@ used to write most Operating Systems like [[../../../../../OS(Operating-System)/
 - 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~C](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~C.md) 

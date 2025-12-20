@@ -170,8 +170,6 @@ Plex_person_key: 5d776826961905001eb91144
 > [Wikipedia](https://en.wikipedia.org/wiki/Ray%20Charles) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ray_Charles](/_Standards/Society/Communication/Media/Music/Musician/Jazz-Musician/Ray_Charles.md) 

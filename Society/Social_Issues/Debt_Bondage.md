@@ -55,8 +55,6 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_
 > [Wikipedia](https://en.wikipedia.org/wiki/Debt%20bondage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Debt_Bondage](/_Standards/Society/Social_Issues/Debt_Bondage.md) 

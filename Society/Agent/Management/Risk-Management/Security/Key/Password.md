@@ -63,8 +63,6 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/passwords
 > [Wikipedia](https://en.wikipedia.org/wiki/Password) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Password](/_Standards/Society/Agent/Management/Risk-Management/Security/Key/Password.md) 

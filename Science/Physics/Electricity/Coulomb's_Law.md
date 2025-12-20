@@ -56,8 +56,6 @@ has_id_wikidata: Q83152
 > [Wikipedia](https://en.wikipedia.org/wiki/Coulomb's%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coulomb's_Law](/_Standards/Science/Physics/Electricity/Coulomb's_Law.md) 

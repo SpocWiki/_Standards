@@ -77,8 +77,6 @@ the **EM-DAT International Disaster Database**, **UNDRR**, **WHO**, and peer-rev
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20disaster)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Natural_Disaster](/_Standards/Society/Disaster/Natural_Disaster.md) 

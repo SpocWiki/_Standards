@@ -141,8 +141,6 @@ Libris_URI: c9prrjvw4ngfp1p
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Boltzmann) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Boltzmann,Ludwig](/_Standards/Science/Physics/Physicist/Boltzmann,Ludwig.md) 

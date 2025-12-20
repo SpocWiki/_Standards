@@ -190,8 +190,6 @@ date_of_death: 1920-08-31T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20Wundt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wundt,Wilhelm](/_Standards/bio/Psychology/Psychologist/Wundt,Wilhelm.md) 

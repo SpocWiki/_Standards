@@ -52,8 +52,6 @@ Commons_category: Vedanta
 > [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vedanta](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.md) 

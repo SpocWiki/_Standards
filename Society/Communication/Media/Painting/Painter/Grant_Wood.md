@@ -112,8 +112,6 @@ date_of_death:
 > [Wikipedia](https://en.wikipedia.org/wiki/Grant%20Wood) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grant_Wood](/_Standards/Society/Communication/Media/Painting/Painter/Grant_Wood.md) 

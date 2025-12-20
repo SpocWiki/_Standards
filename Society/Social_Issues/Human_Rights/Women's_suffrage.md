@@ -53,8 +53,6 @@ Commons_category: Women's suffrage
 > [Wikipedia](https://en.wikipedia.org/wiki/Women's%20suffrage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Women's_suffrage](/_Standards/Society/Social_Issues/Human_Rights/Women's_suffrage.md) 

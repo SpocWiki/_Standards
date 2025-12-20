@@ -16,8 +16,6 @@ has_id_wikidata: Q76687
 > [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Bednorz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bednorz,Georg](/_Standards/Science/Physics/Physicist/Bednorz,Georg.md) 

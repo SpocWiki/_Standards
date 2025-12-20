@@ -57,8 +57,6 @@ IMDb_keyword: hymn
 > [Wikipedia](https://en.wikipedia.org/wiki/Hymn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hymn](/_Standards/Society/Communication/Media/Music/Music_Genre/Hymn.md) 

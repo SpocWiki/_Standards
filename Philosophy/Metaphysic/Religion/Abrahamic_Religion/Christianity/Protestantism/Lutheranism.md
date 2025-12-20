@@ -118,8 +118,6 @@ OpenStreetMap_tag: denomination=lutheran
 > [Wikipedia](https://en.wikipedia.org/wiki/Lutheranism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lutheranism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.md) 

@@ -45,8 +45,6 @@ MeSH_tree_code: D26.355
 > [Wikipedia](https://en.wikipedia.org/wiki/Essential%20medicines) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Essential_Medicine](/_Standards/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.md) 

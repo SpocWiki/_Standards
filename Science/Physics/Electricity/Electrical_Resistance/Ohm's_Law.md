@@ -52,8 +52,6 @@ Commons_category: Ohm's law
 > [Wikipedia](https://en.wikipedia.org/wiki/Ohm's%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ohm's_Law](/_Standards/Science/Physics/Electricity/Electrical_Resistance/Ohm's_Law.md) 

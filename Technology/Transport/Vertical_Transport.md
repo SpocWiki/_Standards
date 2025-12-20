@@ -2,7 +2,6 @@
 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vertical_Transport](/_Standards/Technology/Transport/Vertical_Transport.md) 

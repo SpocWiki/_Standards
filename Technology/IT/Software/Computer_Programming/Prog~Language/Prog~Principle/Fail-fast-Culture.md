@@ -28,11 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Fail%20fast%20(business))
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fail-fast-Culture](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.md) 

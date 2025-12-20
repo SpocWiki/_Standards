@@ -48,9 +48,6 @@ for specific outcomes
 > [Wikipedia](https://en.wikipedia.org/wiki/Urban%20design) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Urban_Design](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Design.md) 

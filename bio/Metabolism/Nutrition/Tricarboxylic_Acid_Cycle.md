@@ -110,8 +110,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/TRIKARBONOVIH_KISLOT_TSIKL.h
 > [Wikipedia](https://en.wikipedia.org/wiki/Citric%20acid%20cycle)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tricarboxylic_Acid_Cycle](/_Standards/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.md) 

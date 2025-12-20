@@ -23,8 +23,6 @@ Commons_category: History of geography
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20geography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Geography](/_Standards/Earth/Geography/History_of_Geography.md) 

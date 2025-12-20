@@ -62,8 +62,6 @@ Dewey_Decimal_Classification: "530.13"
 > [Wikipedia](https://en.wikipedia.org/wiki/Statistical%20mechanics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Statistical_Mechanics](/_Standards/Science/Physics/Thermodynamics/Statistical_Mechanics.md) 

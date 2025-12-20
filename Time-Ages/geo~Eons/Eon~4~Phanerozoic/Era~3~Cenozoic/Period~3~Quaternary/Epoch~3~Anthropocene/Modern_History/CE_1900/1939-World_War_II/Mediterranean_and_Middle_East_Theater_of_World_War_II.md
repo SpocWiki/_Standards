@@ -48,9 +48,6 @@ Commons_category: Mediterranean, Middle Eastern and African theatre of World War
 > [Wikipedia](https://en.wikipedia.org/wiki/Mediterranean%20and%20Middle%20East%20theatre%20of%20World%20War%20II) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mediterranean_and_Middle_East_Theater_of_World_War_II](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.md) 

@@ -40,8 +40,6 @@ subclass_of: "[[_Standards/WikiData/WD~atom,9121]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen-like%20atom) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hydrogen-like_Atom](/_Standards/Chemistry/Material/Hydrogen-like_Atom.md) 

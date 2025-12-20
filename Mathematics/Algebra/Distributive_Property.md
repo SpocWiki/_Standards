@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Distributive%20property) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Distributive_Property](/_Standards/Mathematics/Algebra/Distributive_Property.md) 

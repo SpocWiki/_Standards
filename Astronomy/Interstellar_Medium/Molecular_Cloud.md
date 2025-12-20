@@ -42,8 +42,6 @@ Commons_category: Molecular clouds
 > [Wikipedia](https://en.wikipedia.org/wiki/Molecular%20cloud) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Molecular_Cloud](/_Standards/Astronomy/Interstellar_Medium/Molecular_Cloud.md) 

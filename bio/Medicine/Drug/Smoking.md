@@ -76,8 +76,6 @@ MeSH_tree_code: F01.145.805
 > [Wikipedia](https://en.wikipedia.org/wiki/Smoking) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Smoking](/_Standards/bio/Medicine/Drug/Smoking.md) 

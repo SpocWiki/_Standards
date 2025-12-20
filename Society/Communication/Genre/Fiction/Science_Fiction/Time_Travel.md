@@ -55,8 +55,6 @@ Baidu_Tieba_name: 穿越
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20travel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Time_Travel](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Time_Travel.md) 

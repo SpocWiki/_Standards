@@ -55,8 +55,6 @@ Commons_category: Flat irons
 > [Wikipedia](https://en.wikipedia.org/wiki/Clothes%20iron) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clothes_iron](/_Standards/Technology/Tool/Clothing/Clothes_iron.md) 

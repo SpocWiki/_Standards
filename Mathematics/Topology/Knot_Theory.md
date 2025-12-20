@@ -27,8 +27,6 @@ has_id_wikidata: Q849798
 > [Wikipedia](https://en.wikipedia.org/wiki/Knot%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Knot_Theory](/_Standards/Mathematics/Topology/Knot_Theory.md) 

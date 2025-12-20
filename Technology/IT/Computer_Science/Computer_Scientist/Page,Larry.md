@@ -85,8 +85,6 @@ Instagram_username: larry_page
 > [Wikipedia](https://en.wikipedia.org/wiki/Larry%20Page)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Page,Larry](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.md) 

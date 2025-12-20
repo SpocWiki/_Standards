@@ -75,9 +75,6 @@ ISNI: "0000000049272569"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernest%20Walton) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Walton,Ernest](/_Standards/Science/Physics/Physicist/Walton,Ernest.md) 

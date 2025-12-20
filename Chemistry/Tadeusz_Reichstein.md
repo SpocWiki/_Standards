@@ -91,8 +91,6 @@ date_of_death: 1996-08-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Tadeusz%20Reichstein) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tadeusz_Reichstein](/_Standards/Chemistry/Tadeusz_Reichstein.md) 

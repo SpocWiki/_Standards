@@ -51,8 +51,6 @@ OpenStreetMap_tag: denomination=shaktism
 > [Wikipedia](https://en.wikipedia.org/wiki/Shaktism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shaktism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.md) 

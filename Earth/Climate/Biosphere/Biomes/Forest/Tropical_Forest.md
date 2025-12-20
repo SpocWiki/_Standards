@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Tropical%20forest) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tropical_Forest](/_Standards/Earth/Climate/Biosphere/Biomes/Forest/Tropical_Forest.md) 

@@ -41,8 +41,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%94%
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20disobedience) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Civil_Disobedience](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.md) 

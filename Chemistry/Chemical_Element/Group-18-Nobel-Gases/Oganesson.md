@@ -75,8 +75,6 @@ time_of_discovery_or_invention: 2002-06-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Oganesson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oganesson](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.md) 

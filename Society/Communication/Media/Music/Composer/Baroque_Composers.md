@@ -5,8 +5,6 @@ aliases:
 ---
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Baroque_Composers](/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers.md) 

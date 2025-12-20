@@ -27,8 +27,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Algebraic%20integer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Algebraic_Integer](/_Standards/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.md) 

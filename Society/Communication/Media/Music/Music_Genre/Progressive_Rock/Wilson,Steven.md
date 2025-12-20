@@ -41,10 +41,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Steven%20Wilson)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wilson,Steven](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Wilson,Steven.md) 

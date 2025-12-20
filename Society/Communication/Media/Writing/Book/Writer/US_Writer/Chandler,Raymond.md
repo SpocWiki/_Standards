@@ -96,8 +96,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/CHANDLER_REMOND.ht
 > [Wikipedia](https://en.wikipedia.org/wiki/Raymond%20Chandler) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chandler,Raymond](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Chandler,Raymond.md) 

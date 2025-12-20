@@ -120,8 +120,6 @@ Commons_gallery: Tour de France
 > [Wikipedia](https://en.wikipedia.org/wiki/Tour%20de%20France) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tour_de_France](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.md) 

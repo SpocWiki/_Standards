@@ -158,8 +158,6 @@ Facebook_username: PeterGabriel
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Gabriel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gabriel,Peter](/_Standards/Society/Communication/Media/Music/Musician/Singer/Gabriel,Peter.md) 

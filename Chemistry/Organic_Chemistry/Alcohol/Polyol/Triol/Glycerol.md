@@ -212,8 +212,6 @@ H-O-C-C-C-O-H
 > [Wikipedia](https://en.wikipedia.org/wiki/Glycerol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glycerol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.md) 

@@ -54,8 +54,6 @@ native_label: Council of the Baltic Sea States
 > [Wikipedia](https://en.wikipedia.org/wiki/Council%20of%20the%20Baltic%20Sea%20States) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CBSS(Council_of_the_Baltic_Sea_States)](/_Standards/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).md) 

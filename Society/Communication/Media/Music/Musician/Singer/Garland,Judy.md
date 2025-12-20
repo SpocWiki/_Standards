@@ -178,8 +178,6 @@ Europeana_entity: agent/base/147075
 > [Wikipedia](https://en.wikipedia.org/wiki/Judy%20Garland) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Garland,Judy](/_Standards/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.md) 

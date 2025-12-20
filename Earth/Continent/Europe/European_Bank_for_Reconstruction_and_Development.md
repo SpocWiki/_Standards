@@ -69,8 +69,6 @@ native_label: European Bank for Reconstruction and Development
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Bank%20for%20Reconstruction%20and%20Development) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Bank_for_Reconstruction_and_Development](/_Standards/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.md) 

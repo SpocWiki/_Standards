@@ -45,8 +45,6 @@ MeSH_tree_code: J01.576.655.437
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20industry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Industry](/_Standards/Society/Economics/Industry/Chemical_Industry.md) 

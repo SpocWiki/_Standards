@@ -12,8 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Centrifuge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Centrifuge](/_Standards/Science/Physics/Force/Centrifuge.md) 

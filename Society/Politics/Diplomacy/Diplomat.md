@@ -81,8 +81,6 @@ Commons_category: Diplomats
 > [Wikipedia](https://en.wikipedia.org/wiki/Diplomat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diplomat](/_Standards/Society/Politics/Diplomacy/Diplomat.md) 

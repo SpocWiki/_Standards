@@ -405,8 +405,6 @@ ISNI: 000000012126066X
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Auguste%20Renoir) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Renoir,Pierre-Auguste](/_Standards/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.md) 

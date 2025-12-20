@@ -70,8 +70,6 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/AKKORD.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Chord%20(music)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chord](/_Standards/Society/Communication/Media/Music/Chord.md) 

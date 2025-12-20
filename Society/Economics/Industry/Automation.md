@@ -64,9 +64,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RobotMintCanb.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Automation) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Automation](/_Standards/Society/Economics/Industry/Automation.md) 

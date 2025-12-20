@@ -44,8 +44,6 @@ Commons_category: Chart of nuclides
 > [Wikipedia](https://en.wikipedia.org/wiki/Table%20of%20nuclides) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Table_of_Nuclides](/_Standards/Chemistry/Chemical_Element/Table_of_Nuclides.md) 

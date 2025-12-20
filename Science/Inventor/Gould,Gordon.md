@@ -59,8 +59,6 @@ date_of_birth: 1920-07-17T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Gordon%20Gould) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gould,Gordon](/_Standards/Science/Inventor/Gould,Gordon.md) 

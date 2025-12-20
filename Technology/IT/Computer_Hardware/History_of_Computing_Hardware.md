@@ -49,8 +49,6 @@ Commons_category: Mechanical calculators
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20computing%20hardware) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Computing_Hardware](/_Standards/Technology/IT/Computer_Hardware/History_of_Computing_Hardware.md) 

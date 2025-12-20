@@ -35,8 +35,6 @@ Dewey_Decimal_Classification: "398.2454"
 > [Wikipedia](https://en.wikipedia.org/wiki/Legendary%20creature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mythical_Creature](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.md) 

@@ -38,8 +38,6 @@ Commons_category: Gaskets
 > [Wikipedia](https://en.wikipedia.org/wiki/Gasket) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gasket](/_Standards/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.md) 

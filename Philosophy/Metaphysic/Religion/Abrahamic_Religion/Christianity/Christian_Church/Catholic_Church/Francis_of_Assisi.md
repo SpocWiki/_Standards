@@ -147,8 +147,6 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/FRANTSISK_ASSIZSKI_SV.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20of%20Assisi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Francis_of_Assisi](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Francis_of_Assisi.md) 

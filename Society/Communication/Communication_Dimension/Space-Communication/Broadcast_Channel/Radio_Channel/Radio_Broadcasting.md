@@ -57,11 +57,6 @@ IPTC_NewsCode: mediatopic/20000050
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio%20broadcasting) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Radio_Broadcasting](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Broadcasting.md) 

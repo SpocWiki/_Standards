@@ -58,8 +58,6 @@ OpenStreetMap_tag: industrial=refinery
 > [Wikipedia](https://en.wikipedia.org/wiki/Oil%20refinery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oil_Refinery](/_Standards/Society/Economics/Industry/Oil_Industry/Oil_Refinery.md) 

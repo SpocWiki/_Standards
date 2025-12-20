@@ -28,8 +28,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20circle%20hemis
 This is the circle with a maximum Radius R on the Sphere with Radius R. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Great_Circle](/_Standards/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.md) 

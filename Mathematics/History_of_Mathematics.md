@@ -39,8 +39,6 @@ Krugosvet_article_archived_: matematika/matematiki-istoriya
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20mathematics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Mathematics](/_Standards/Mathematics/History_of_Mathematics.md) 

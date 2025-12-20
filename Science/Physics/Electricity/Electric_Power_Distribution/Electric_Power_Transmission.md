@@ -52,8 +52,6 @@ described_at_URL: https://www.osha.gov/etools/electric-power/illustrated-glossar
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20power%20transmission) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electric_Power_Transmission](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.md) 

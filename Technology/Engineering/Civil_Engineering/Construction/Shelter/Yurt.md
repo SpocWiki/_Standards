@@ -50,8 +50,6 @@ Commons_category: Yurts
 > [Wikipedia](https://en.wikipedia.org/wiki/Yurt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Yurt](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.md) 

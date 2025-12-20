@@ -219,3 +219,22 @@ Legal_Entity_Identifier: 969500F7JLTX36OUI695
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Renault) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Renault_Group](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Renault_Group.md) 
+
+### #is_/same_as :: [Renault_Group.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Renault_Group.public.md) 
+
+### #is_/same_as :: [Renault_Group.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Renault_Group.internal.md) 
+
+### #is_/same_as :: [Renault_Group.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Renault_Group.protect.md) 
+
+### #is_/same_as :: [Renault_Group.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Renault_Group.private.md) 
+
+### #is_/same_as :: [Renault_Group.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Renault_Group.personal.md) 
+
+### #is_/same_as :: [Renault_Group.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Renault_Group.secret.md)
+

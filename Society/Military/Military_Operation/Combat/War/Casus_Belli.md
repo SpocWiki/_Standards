@@ -24,8 +24,6 @@ has_id_wikidata: Q45635
 > [Wikipedia](https://en.wikipedia.org/wiki/Casus%20belli) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Casus_Belli](/_Standards/Society/Military/Military_Operation/Combat/War/Casus_Belli.md) 

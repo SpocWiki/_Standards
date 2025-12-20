@@ -29,8 +29,6 @@ PhilPapers_topic: european-philosophy
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Western_Philosophy](/_Standards/Philosophy/Western_Philosophy.md) 

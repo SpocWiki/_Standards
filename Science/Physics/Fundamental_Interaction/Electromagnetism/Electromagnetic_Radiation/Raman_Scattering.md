@@ -34,8 +34,6 @@ Commons_category: Raman spectroscopy
 > [Wikipedia](https://en.wikipedia.org/wiki/Raman%20scattering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Raman_Scattering](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Raman_Scattering.md) 

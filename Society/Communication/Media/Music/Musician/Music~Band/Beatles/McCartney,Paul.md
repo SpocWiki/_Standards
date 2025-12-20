@@ -253,8 +253,6 @@ Wolfram_Language_entity_code: Entity["MusicAct", "PaulMcCartney::35xtf"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20McCartney) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [McCartney,Paul](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.md) 

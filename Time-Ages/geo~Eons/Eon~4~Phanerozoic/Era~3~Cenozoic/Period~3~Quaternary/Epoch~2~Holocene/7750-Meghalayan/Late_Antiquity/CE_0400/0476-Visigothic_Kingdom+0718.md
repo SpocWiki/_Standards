@@ -73,8 +73,6 @@ OpenStreetMap_tag: historic:civilization=visigothic_kingdom
 > [Wikipedia](https://en.wikipedia.org/wiki/Visigothic%20Kingdom) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0476-Visigothic_Kingdom+0718](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.md) 

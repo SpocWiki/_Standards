@@ -54,8 +54,6 @@ MeSH_tree_code: F01.100.787
 > [Wikipedia](https://en.wikipedia.org/wiki/Optimism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Optimism](/_Standards/bio/Psychology/Mind/Mental_State/Optimism.md) 

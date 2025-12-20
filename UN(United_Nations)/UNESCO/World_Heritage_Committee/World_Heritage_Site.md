@@ -65,8 +65,6 @@ OpenStreetMap_tag: heritage:operator=whc
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Heritage%20Site) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [World_Heritage_Site](/_Standards/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.md) 

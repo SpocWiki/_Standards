@@ -57,9 +57,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/GIDROAEROMEHANIKA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Fluid%20mechanics) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fluid_Mechanics](/_Standards/Science/Physics/Fluid_Mechanics.md) 

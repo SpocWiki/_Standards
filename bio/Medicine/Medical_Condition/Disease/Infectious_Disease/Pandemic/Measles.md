@@ -88,8 +88,6 @@ Commons_gallery: Measles
 > [Wikipedia](https://en.wikipedia.org/wiki/Measles) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Measles](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Measles.md) 

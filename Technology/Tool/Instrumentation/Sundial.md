@@ -63,8 +63,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sundial) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sundial](/_Standards/Technology/Tool/Instrumentation/Sundial.md) 

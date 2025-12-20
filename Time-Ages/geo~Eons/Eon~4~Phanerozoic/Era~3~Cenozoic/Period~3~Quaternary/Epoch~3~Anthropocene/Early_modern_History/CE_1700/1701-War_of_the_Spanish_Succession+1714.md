@@ -72,8 +72,6 @@ Dewey_Decimal_Classification: "940.2526"
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20of%20the%20Spanish%20Succession) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1701-War_of_the_Spanish_Succession+1714](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.md) 

@@ -309,7 +309,6 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roosevelt,Theodore](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Theodore.md) 

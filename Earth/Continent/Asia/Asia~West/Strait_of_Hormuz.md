@@ -77,8 +77,6 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Strait%20of%20Hormuz)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Strait_of_Hormuz](/_Standards/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.md) 

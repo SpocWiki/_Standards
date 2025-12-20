@@ -35,11 +35,6 @@ TTL is less sensitive to damage from [electrostatic discharge](https://en.wikipe
 > [Wikipedia](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor%20logic) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [TTL(Transistor–Transistor_Logic)](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).md) 

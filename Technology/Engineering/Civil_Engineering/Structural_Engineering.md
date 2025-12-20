@@ -37,8 +37,6 @@ Commons_category: Structural engineering
 > [Wikipedia](https://en.wikipedia.org/wiki/Structural%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structural_Engineering](/_Standards/Technology/Engineering/Civil_Engineering/Structural_Engineering.md) 

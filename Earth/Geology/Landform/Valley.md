@@ -71,8 +71,6 @@ OpenStreetMap_tag: natural=valley
 > [Wikipedia](https://en.wikipedia.org/wiki/Valley) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Valley](/_Standards/Earth/Geology/Landform/Valley.md) 

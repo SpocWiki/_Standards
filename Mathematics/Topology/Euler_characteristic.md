@@ -39,8 +39,6 @@ named_after: "[[_Standards/WikiData/WD~Leonhard_Euler,7604]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Euler%20characteristic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euler_characteristic](/_Standards/Mathematics/Topology/Euler_characteristic.md) 

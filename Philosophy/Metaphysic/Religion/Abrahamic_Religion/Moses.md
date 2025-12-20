@@ -182,8 +182,6 @@ Libris_URI: 53hklwpp31dtkfd
 > [Wikipedia](https://en.wikipedia.org/wiki/Moses) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moses](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Moses.md) 

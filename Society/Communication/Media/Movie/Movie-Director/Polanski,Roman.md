@@ -188,8 +188,6 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Polanski%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20Polanski) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polanski,Roman](/_Standards/Society/Communication/Media/Movie/Movie-Director/Polanski,Roman.md) 

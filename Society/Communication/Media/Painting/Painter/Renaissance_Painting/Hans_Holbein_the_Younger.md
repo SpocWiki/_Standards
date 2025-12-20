@@ -224,8 +224,6 @@ ISNI: "0000000120987816"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Holbein%20the%20Younger) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hans_Holbein_the_Younger](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.md) 

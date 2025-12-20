@@ -56,8 +56,6 @@ Commons_category: Extrusion
 > [Wikipedia](https://en.wikipedia.org/wiki/Extrusion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Extrusion](/_Standards/Technology/Engineering/Civil_Engineering/Forming/Extrusion.md) 

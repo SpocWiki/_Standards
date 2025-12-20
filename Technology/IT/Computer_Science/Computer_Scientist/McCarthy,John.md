@@ -31,7 +31,6 @@ has_id_wikidata: Q92739
 ![John McCarthy (computer scientist) - Wikipedia](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [McCarthy,John](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/McCarthy,John.md) 

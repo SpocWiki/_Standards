@@ -31,8 +31,6 @@ Prolog is a [[../Prog~Logic|Prog~Logic]] Programming Language
 > [Wikipedia](https://en.wikipedia.org/wiki/Prolog)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Prolog](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Prolog.md) 

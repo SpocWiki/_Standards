@@ -77,8 +77,6 @@ Commons_category: Voyager program
 > [Wikipedia](https://en.wikipedia.org/wiki/Voyager%20program) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Voyager_Program](/_Standards/Technology/Spaceflight/NASA/Voyager_Program.md) 

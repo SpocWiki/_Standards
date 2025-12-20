@@ -53,8 +53,6 @@ hashtag: feudartifice
 > [Wikipedia](https://en.wikipedia.org/wiki/Fireworks) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Firework](/_Standards/Society/Communication/Media/Performing_Arts/Firework.md) 

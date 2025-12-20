@@ -54,8 +54,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MESSIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Messiah) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Messiah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.md) 

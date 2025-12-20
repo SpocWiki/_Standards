@@ -10,8 +10,6 @@ Works only on DOS & Windows.
 #has_/Cons :: File-Path length is limited. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [SUBST-DOS](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.md) 

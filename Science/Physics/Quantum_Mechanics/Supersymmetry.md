@@ -79,8 +79,6 @@ Dewey_Decimal_Classification: "539.725"
 > [Wikipedia](https://en.wikipedia.org/wiki/Supersymmetry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Supersymmetry](/_Standards/Science/Physics/Quantum_Mechanics/Supersymmetry.md) 

@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Syncopation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Syncopation](/_Standards/Society/Communication/Media/Music/Music_Theory/Syncopation.md) 

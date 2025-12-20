@@ -183,8 +183,6 @@ subreddit: MultipleSclerosis
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiple%20sclerosis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multiple_Sclerosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.md) 

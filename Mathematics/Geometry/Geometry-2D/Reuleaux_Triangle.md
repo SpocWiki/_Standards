@@ -82,8 +82,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ReuleauxTriangle%20onl
 > [Wikipedia](https://en.wikipedia.org/wiki/Reuleaux%20triangle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reuleaux_Triangle](/_Standards/Mathematics/Geometry/Geometry-2D/Reuleaux_Triangle.md) 

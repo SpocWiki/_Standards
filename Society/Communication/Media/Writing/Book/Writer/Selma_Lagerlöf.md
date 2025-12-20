@@ -142,8 +142,6 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/17230
 > [Wikipedia](https://en.wikipedia.org/wiki/Selma%20Lagerl%C3%B6f) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Selma_Lagerlöf](/_Standards/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.md) 

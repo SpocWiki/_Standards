@@ -64,8 +64,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Existentialism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Existentialism](/_Standards/Philosophy/Existentialism.md) 

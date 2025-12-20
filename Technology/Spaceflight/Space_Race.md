@@ -51,8 +51,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Space%20Ra
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20Race) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Space_Race](/_Standards/Technology/Spaceflight/Space_Race.md) 

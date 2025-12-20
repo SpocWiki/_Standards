@@ -76,10 +76,6 @@ MeSH_tree_code: G01.358.500.249.277.350
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20impedance) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electric_Impedance](/_Standards/Science/Physics/Electricity/Electric_Impedance.md) 

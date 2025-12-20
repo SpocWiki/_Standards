@@ -39,8 +39,6 @@ Commons_category: Seabirds
 > [Wikipedia](https://en.wikipedia.org/wiki/Seabird) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seabird](/_Standards/Seabird.md) 

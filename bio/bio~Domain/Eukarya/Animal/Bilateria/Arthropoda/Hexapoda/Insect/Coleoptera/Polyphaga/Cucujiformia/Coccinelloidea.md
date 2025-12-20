@@ -10,8 +10,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Coccinelloidea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coccinelloidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea.md) 

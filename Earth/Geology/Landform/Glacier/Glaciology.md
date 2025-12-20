@@ -47,8 +47,6 @@ Commons_category: Glaciology
 > [Wikipedia](https://en.wikipedia.org/wiki/Glaciology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glaciology](/_Standards/Earth/Geology/Landform/Glacier/Glaciology.md) 

@@ -48,8 +48,6 @@ Commons_category: Mythology of China
 > [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20mythology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chinese_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology.md) 

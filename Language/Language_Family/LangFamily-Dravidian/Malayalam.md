@@ -85,8 +85,6 @@ GOST_7_75_97_code: мал 425
 > [Wikipedia](https://en.wikipedia.org/wiki/Malayalam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Malayalam](/_Standards/Language/Language_Family/LangFamily-Dravidian/Malayalam.md) 

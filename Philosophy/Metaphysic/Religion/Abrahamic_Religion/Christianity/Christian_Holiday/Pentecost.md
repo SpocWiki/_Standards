@@ -38,8 +38,6 @@ has_id_wikidata: Q39864
 > [Wikipedia](https://en.wikipedia.org/wiki/Pentecost) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pentecost](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Pentecost.md) 

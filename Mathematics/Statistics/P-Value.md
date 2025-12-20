@@ -46,8 +46,6 @@ Commons_category: P-value
 > [Wikipedia](https://en.wikipedia.org/wiki/P-value) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [P-Value](/_Standards/Mathematics/Statistics/P-Value.md) 

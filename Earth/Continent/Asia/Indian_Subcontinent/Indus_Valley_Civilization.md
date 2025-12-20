@@ -60,10 +60,6 @@ subreddit: IndusValley
 > [Wikipedia](https://en.wikipedia.org/wiki/Indus%20Valley%20Civilisation) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Indus_Valley_Civilization](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.md) 

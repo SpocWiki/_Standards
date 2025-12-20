@@ -20,8 +20,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Purchasing%20power%20parity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [PPP(Purchasing_Power_Parity)](/_Standards/Society/Economics/PPP(Purchasing_Power_Parity).md) 

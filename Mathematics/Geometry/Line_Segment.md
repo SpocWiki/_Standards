@@ -49,8 +49,6 @@ Commons_category: Line segment
 > [Wikipedia](https://en.wikipedia.org/wiki/Line%20segment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Line_Segment](/_Standards/Mathematics/Geometry/Line_Segment.md) 

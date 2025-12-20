@@ -170,8 +170,6 @@ ISNI: "0000000374984682"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pythagoras) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pythagoras](/_Standards/Science/Polymath/Pythagoras.md) 

@@ -158,8 +158,6 @@ Libris_URI: ljx01tz42rwzzmt
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20More) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [More,Thomas](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/More,Thomas.md) 

@@ -33,8 +33,6 @@ subreddit: StockMarket
 > [Wikipedia](https://en.wikipedia.org/wiki/Stock%20market) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stock_Market](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market.md) 

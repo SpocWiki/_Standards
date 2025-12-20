@@ -25,8 +25,6 @@ country: "[[_Standards/WikiData/WD~Italy,38]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Transavantgarde) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Transavantgarde](/_Standards/Society/Communication/Art/Art_History/Transavantgarde.md) 

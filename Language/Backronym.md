@@ -33,8 +33,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Backronym) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Backronym](/_Standards/Language/Backronym.md) 

@@ -77,8 +77,6 @@ GitHub_topic: isomorphism
 > [Wikipedia](https://en.wikipedia.org/wiki/Isomorphism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Isomorphism](/_Standards/Mathematics/Isomorphism.md) 

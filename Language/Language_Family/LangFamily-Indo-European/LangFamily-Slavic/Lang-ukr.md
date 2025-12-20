@@ -164,9 +164,6 @@ Dewey_Decimal_Classification: "491.79"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ukrainian%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-ukr](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.md) 

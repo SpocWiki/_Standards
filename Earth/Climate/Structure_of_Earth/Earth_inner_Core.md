@@ -43,8 +43,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCnyan%C4%B1n%20i
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20inner%20core) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Earth_inner_Core](/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core.md) 

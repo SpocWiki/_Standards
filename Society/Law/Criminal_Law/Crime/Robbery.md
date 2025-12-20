@@ -65,8 +65,6 @@ MIL_STD_2525_Symbol_Identification_Code: "10014000001101160000"
 > [Wikipedia](https://en.wikipedia.org/wiki/Robbery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Robbery](/_Standards/Society/Law/Criminal_Law/Crime/Robbery.md) 

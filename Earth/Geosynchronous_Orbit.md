@@ -36,8 +36,6 @@ Commons_category: Geosynchronous orbit
 > [Wikipedia](https://en.wikipedia.org/wiki/Geosynchronous%20orbit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geosynchronous_Orbit](/_Standards/Earth/Geosynchronous_Orbit.md) 

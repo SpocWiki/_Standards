@@ -37,8 +37,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Franciscans) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Franciscan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Franciscan.md) 

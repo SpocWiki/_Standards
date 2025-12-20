@@ -26,9 +26,6 @@ different_from: "[[_Standards/WikiData/WD~infradivision,23759835]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Subphylum) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [InfraPhylum](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.md) 

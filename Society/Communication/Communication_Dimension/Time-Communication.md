@@ -8,8 +8,6 @@ Only Film and News on Celluloid and, starting in the 1960s later on Magnetic Tap
 Most Radio and TV Broadcasts from earlier times were not recorded. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Time-Communication](/_Standards/Society/Communication/Communication_Dimension/Time-Communication.md) 

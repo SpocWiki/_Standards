@@ -104,9 +104,6 @@ Gujarati_Vishwakosh_entry: ઊડિયા-ભાષા-અને-સાહિ�
 > [Wikipedia](https://en.wikipedia.org/wiki/Odia%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [lang-ori](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.md) 

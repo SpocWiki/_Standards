@@ -100,8 +100,6 @@ street_address: Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - 
 > [Wikipedia](https://en.wikipedia.org/wiki/Christ%20the%20Redeemer%20(statue)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Christ_the_Redeemer](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.md) 

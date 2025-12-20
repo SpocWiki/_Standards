@@ -25,9 +25,6 @@ has_id_wikidata: Q6452502
 > [Wikipedia](https://en.wikipedia.org/wiki/Vaporization) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vaporization](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.md) 

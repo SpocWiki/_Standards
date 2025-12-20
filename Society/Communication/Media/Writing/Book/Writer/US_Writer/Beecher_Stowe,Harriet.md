@@ -133,8 +133,6 @@ U_S_National_Archives_Identifier: "10580997"
 > [Wikipedia](https://en.wikipedia.org/wiki/Harriet%20Beecher%20Stowe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Beecher_Stowe,Harriet](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet.md) 

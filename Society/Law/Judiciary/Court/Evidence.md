@@ -45,8 +45,6 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~evidential_value,110953222]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Evidence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Evidence](/_Standards/Society/Law/Judiciary/Court/Evidence.md) 

@@ -26,8 +26,6 @@ Commons_category: Galaxy morphological classification
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy%20morphological%20classification) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galaxy_morphological_Classification](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.md) 

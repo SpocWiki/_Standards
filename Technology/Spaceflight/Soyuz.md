@@ -48,8 +48,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Soyuz%20TMA-7%20spacec
 > [Wikipedia](https://en.wikipedia.org/wiki/Soyuz%20programme) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soyuz](/_Standards/Technology/Spaceflight/Soyuz.md) 

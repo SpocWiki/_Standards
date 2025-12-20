@@ -65,8 +65,6 @@ Libris_URI: zw9cg96h2hpqkmw
 > [Wikipedia](https://en.wikipedia.org/wiki/Paralympic%20Games) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paralympics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Paralympics.md) 

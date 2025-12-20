@@ -35,8 +35,6 @@ instance_of: "[[_Standards/WikiData/WD~type_of_war,124867660]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Total%20war) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Total_War](/_Standards/Society/Military/Military_Operation/Combat/War/Total_War.md) 

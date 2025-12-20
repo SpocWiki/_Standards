@@ -294,8 +294,6 @@ Europeana_entity: agent/base/60316
 > [Wikipedia](https://en.wikipedia.org/wiki/Wassily%20Kandinsky) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kandinsky,Wassily](/_Standards/Society/Communication/Media/Painting/Painter/Kandinsky,Wassily.md) 

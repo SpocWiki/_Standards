@@ -31,8 +31,6 @@ parent_taxon: "[[../Cryptodira|Cryptodira]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Testudinoidea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Testudinoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea.md) 

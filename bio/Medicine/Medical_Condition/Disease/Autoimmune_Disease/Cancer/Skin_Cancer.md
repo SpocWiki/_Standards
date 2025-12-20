@@ -84,8 +84,6 @@ Commons_category: Skin cancers
 > [Wikipedia](https://en.wikipedia.org/wiki/Skin%20cancer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Skin_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.md) 

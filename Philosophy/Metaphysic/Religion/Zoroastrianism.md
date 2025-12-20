@@ -144,8 +144,6 @@ OpenStreetMap_tag_or_key: Tag:religion=zoroastrian
 > [Wikipedia](https://en.wikipedia.org/wiki/Zoroastrianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zoroastrianism](/_Standards/Philosophy/Metaphysic/Religion/Zoroastrianism.md) 

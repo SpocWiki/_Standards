@@ -79,8 +79,6 @@ Commons_category: Sultans
 > [Wikipedia](https://en.wikipedia.org/wiki/Sultan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sultan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sultan.md) 

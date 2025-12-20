@@ -44,8 +44,6 @@ Commons_category: Kumbh Mela
 > [Wikipedia](https://en.wikipedia.org/wiki/Kumbh%20Mela) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kumbh_Mela](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.md) 

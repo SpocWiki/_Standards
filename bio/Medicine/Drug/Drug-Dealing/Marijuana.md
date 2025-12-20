@@ -88,9 +88,6 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/Cannabis%20(drug))
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marijuana](/_Standards/bio/Medicine/Drug/Drug-Dealing/Marijuana.md) 

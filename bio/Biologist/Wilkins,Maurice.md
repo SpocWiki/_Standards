@@ -101,8 +101,6 @@ ISNI: "0000000055436881"
 > [Wikipedia](https://en.wikipedia.org/wiki/Maurice%20Wilkins) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wilkins,Maurice](/_Standards/bio/Biologist/Wilkins,Maurice.md) 

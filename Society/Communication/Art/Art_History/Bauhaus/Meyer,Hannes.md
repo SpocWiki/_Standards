@@ -52,8 +52,6 @@ ISNI: "0000000083628880"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hannes%20Meyer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meyer,Hannes](/_Standards/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.md) 

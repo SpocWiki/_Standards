@@ -156,8 +156,6 @@ ISNI: "0000000122820227"
 > [Wikipedia](https://en.wikipedia.org/wiki/G.%20H.%20Hardy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hardy,G.H.](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hardy,G.H..md) 

@@ -116,9 +116,6 @@ name_in_native_language: Sydney Pollack
 > [Wikipedia](https://en.wikipedia.org/wiki/Sydney%20Pollack) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pollack,Sydney](/_Standards/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.md) 

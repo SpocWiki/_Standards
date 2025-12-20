@@ -71,7 +71,6 @@ XML has the broadest Definition of Unicode Whitespace Characters:
 | [zero width non-breaking space](https://en.wikipedia.org/wiki/Word_joiner "Word joiner")             |     |
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Whitespace](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.md) 

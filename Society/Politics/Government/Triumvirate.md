@@ -38,8 +38,6 @@ OmegaWiki_Defined_Meaning: "1186968"
 > [Wikipedia](https://en.wikipedia.org/wiki/Triumvirate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Triumvirate](/_Standards/Society/Politics/Government/Triumvirate.md) 

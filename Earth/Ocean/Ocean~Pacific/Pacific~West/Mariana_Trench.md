@@ -60,8 +60,6 @@ coordinate_location: Point(142.2 11.35)
 > [Wikipedia](https://en.wikipedia.org/wiki/Mariana%20Trench) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mariana_Trench](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.md) 

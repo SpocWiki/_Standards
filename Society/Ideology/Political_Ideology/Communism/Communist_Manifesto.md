@@ -115,8 +115,6 @@ Libris_URI: fcrv0rzz4cdz0x0
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Communist%20Manifesto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Communist_Manifesto](/_Standards/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.md) 

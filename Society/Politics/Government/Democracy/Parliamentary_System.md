@@ -53,7 +53,6 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20parlamen
 > [Wikipedia](https://en.wikipedia.org/wiki/Parliamentary%20system) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parliamentary_System](/_Standards/Society/Politics/Government/Democracy/Parliamentary_System.md) 

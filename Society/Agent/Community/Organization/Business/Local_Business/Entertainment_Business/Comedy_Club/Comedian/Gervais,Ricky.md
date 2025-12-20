@@ -142,8 +142,6 @@ birth_name: Ricky Dene Gervais
 > [Wikipedia](https://en.wikipedia.org/wiki/Ricky%20Gervais) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gervais,Ricky](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.md) 

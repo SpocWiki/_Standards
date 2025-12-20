@@ -52,12 +52,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Styx%20(band))
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Styx(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band).md) 

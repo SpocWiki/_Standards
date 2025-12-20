@@ -79,8 +79,6 @@ IPTC_NewsCode: mediatopic/20000801
 > [Wikipedia](https://en.wikipedia.org/wiki/Poverty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poverty](/_Standards/Society/Economics/Poverty.md) 

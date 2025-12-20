@@ -46,8 +46,6 @@ Commons_category: Merovingians
 > [Wikipedia](https://en.wikipedia.org/wiki/Merovingian%20dynasty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Merovingian_Dynasty](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0500/Merovingian_Dynasty.md) 

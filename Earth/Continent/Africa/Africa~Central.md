@@ -88,10 +88,6 @@ minZoom: 3
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20Africa) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Africa~Central](/_Standards/Earth/Continent/Africa/Africa~Central.md) 

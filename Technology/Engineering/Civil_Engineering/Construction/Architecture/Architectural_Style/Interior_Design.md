@@ -44,8 +44,6 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/DIZAN_INTEREROV.
 > [Wikipedia](https://en.wikipedia.org/wiki/Interior%20design) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Interior_Design](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.md) 

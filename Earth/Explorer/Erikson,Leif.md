@@ -71,8 +71,6 @@ date_of_birth: 0972-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Leif%20Erikson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Erikson,Leif](/_Standards/Earth/Explorer/Erikson,Leif.md) 

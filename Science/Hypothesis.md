@@ -53,8 +53,6 @@ Commons_category: Hypotheses
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypothesis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hypothesis](/_Standards/Science/Hypothesis.md) 

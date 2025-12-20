@@ -42,8 +42,6 @@ Commons_category: Peroxides
 > [Wikipedia](https://en.wikipedia.org/wiki/Peroxide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Peroxide](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.md) 

@@ -75,8 +75,6 @@ title: Братья Карамазовыk
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Brothers%20Karamazov) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brothers_Karamazov](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Brothers_Karamazov.md) 

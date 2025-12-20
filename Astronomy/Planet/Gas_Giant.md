@@ -35,8 +35,6 @@ Commons_gallery: Jovian planet
 > [Wikipedia](https://en.wikipedia.org/wiki/Gas%20giant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gas_Giant](/_Standards/Astronomy/Planet/Gas_Giant.md) 

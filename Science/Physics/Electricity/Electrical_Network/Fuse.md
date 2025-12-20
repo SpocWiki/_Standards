@@ -56,8 +56,6 @@ Commons_category: Electrical fuses
 > [Wikipedia](https://en.wikipedia.org/wiki/Fuse%20(electrical)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fuse](/_Standards/Science/Physics/Electricity/Electrical_Network/Fuse.md) 

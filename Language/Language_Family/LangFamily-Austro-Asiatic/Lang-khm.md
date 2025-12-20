@@ -90,8 +90,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/KHMERSKI_YAZIK.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Khmer%20language) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-khm](/_Standards/Language/Language_Family/LangFamily-Austro-Asiatic/Lang-khm.md) 

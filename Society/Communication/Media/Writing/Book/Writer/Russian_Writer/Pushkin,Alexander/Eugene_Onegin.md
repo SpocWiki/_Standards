@@ -57,8 +57,6 @@ subtitle: Роман в стихах
 > [Wikipedia](https://en.wikipedia.org/wiki/Eugene%20Onegin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eugene_Onegin](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Pushkin,Alexander/Eugene_Onegin.md) 

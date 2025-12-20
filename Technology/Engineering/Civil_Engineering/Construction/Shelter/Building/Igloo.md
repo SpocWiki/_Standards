@@ -34,8 +34,6 @@ Commons_category: Igloos
 > [Wikipedia](https://en.wikipedia.org/wiki/Igloo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Igloo](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Igloo.md) 

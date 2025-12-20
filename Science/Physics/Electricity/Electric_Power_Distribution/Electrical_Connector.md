@@ -73,8 +73,6 @@ Commons_category: Electrical connectors
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20connector) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrical_Connector](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.md) 

@@ -86,10 +86,6 @@ work_period_end_: 1997-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Deacon)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deacon,John](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Deacon,John.md) 

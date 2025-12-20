@@ -160,8 +160,6 @@ By <a href="https://fr.wikipedia.org/wiki/Utilisateur:G_CHP" class="extiw" title
 > [Wikipedia](https://en.wikipedia.org/wiki/Palace%20of%20Versailles) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Palace_of_Versailles](/_Standards/Earth/Geography/Place/Palace_of_Versailles.md) 

@@ -52,8 +52,6 @@ Commons_category: Congruence
 > [Wikipedia](https://en.wikipedia.org/wiki/Congruence%20(geometry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Congruence](/_Standards/Mathematics/Geometry/Congruence.md) 

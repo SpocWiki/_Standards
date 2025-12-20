@@ -21,8 +21,6 @@ but materials, heat transfer rates, and engineering limitations prevent this fro
 > [Wikipedia](https://en.wikipedia.org/wiki/External%20combustion%20engine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [External_Combustion_Engine](/_Standards/Technology/Engine/Heat_Engine/External_Combustion_Engine.md) 

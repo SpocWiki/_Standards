@@ -67,8 +67,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Marchalianus%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Septuagint) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Septuagint](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Septuagint.md) 

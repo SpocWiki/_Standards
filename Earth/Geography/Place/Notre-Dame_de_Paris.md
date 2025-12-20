@@ -130,8 +130,6 @@ official_website:
 > [Wikipedia](https://en.wikipedia.org/wiki/Notre-Dame%20de%20Paris) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Notre-Dame_de_Paris](/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris.md) 

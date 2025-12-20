@@ -7,9 +7,6 @@ You have Sprite, Mesh, Material and Camera for 2D and 3D Rendering.
 [[WebGPU]] is targeted, so you don't have to migrate your apps. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Bevy](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/Rust~Bevy.md) 

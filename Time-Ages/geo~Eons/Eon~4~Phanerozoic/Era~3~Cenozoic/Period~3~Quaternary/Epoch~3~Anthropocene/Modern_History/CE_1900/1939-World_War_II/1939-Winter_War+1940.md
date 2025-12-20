@@ -90,8 +90,6 @@ Dewey_Decimal_Classification: "948.97032"
 > [Wikipedia](https://en.wikipedia.org/wiki/Winter%20War) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1939-Winter_War+1940](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Winter_War+1940.md) 

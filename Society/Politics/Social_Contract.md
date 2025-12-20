@@ -41,8 +41,6 @@ PhilPapers_topic: social-contract
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20contract) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Contract](/_Standards/Society/Politics/Social_Contract.md) 

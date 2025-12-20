@@ -65,8 +65,6 @@ start_time: -145000000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Mantis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mantis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera/Mantis.md) 

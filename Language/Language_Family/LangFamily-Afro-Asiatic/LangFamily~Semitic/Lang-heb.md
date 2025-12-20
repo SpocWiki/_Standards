@@ -105,8 +105,6 @@ Linguasphere_code: 12-AAB-a
 > [Wikipedia](https://en.wikipedia.org/wiki/Hebrew%20language)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-heb](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-heb.md) 

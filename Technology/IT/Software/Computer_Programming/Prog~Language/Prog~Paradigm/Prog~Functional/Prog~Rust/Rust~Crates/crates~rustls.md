@@ -8,8 +8,6 @@ written in the Rust programming language.
 It is designed to be easy to use and provides a secure way to implement SSL/TLS in Rust applications. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~rustls](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~rustls.md) 

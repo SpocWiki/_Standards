@@ -9,8 +9,6 @@ Function-Parameters [[../../../../../../../schema-org/Class/has_sub_classes|sub_
 i.e. they can be more general without breaking the [[Liskov_Substitution-Principle]].  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Contravariance,OO](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Contravariance,OO.md) 

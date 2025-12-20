@@ -62,10 +62,6 @@ Commons_category: Mode (statistics)
 > [Wikipedia](https://en.wikipedia.org/wiki/Mode%20(statistics)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mode](/_Standards/Mathematics/Statistics/Probability/Mode.md) 

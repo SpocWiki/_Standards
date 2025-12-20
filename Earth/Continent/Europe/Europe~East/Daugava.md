@@ -153,8 +153,6 @@ Wolfram_Language_entity_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Daugava) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Daugava](/_Standards/Earth/Continent/Europe/Europe~East/Daugava.md) 

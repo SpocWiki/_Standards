@@ -63,8 +63,6 @@ inception: 1912-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20pentathlon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modern_Pentathlon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Modern_Pentathlon.md) 

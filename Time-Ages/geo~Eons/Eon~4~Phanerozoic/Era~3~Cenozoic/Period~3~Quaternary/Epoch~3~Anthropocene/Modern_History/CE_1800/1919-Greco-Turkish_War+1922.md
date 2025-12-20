@@ -48,8 +48,6 @@ start_time: 1919-05-15T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Greco-Turkish%20War%20(1919%E2%80%931922)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1919-Greco-Turkish_War+1922](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.md) 

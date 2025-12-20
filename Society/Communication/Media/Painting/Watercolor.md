@@ -69,8 +69,6 @@ Dewey_Decimal_Classification: "751.422"
 > [Wikipedia](https://en.wikipedia.org/wiki/Watercolor%20painting)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Watercolor](/_Standards/Society/Communication/Media/Painting/Watercolor.md) 

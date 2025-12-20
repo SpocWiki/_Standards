@@ -69,8 +69,6 @@ Commons_category: Om (symbol)
 > [Wikipedia](https://en.wikipedia.org/wiki/Om) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Om](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Om.md) 

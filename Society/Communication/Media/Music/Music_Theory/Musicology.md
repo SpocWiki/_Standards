@@ -47,8 +47,6 @@ Commons_category: Musicology
 > [Wikipedia](https://en.wikipedia.org/wiki/Musicology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Musicology](/_Standards/Society/Communication/Media/Music/Music_Theory/Musicology.md) 

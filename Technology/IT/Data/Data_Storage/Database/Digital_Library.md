@@ -59,8 +59,6 @@ name_in_kana: でんしとしょかん
 > [Wikipedia](https://en.wikipedia.org/wiki/Digital%20library) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Digital_Library](/_Standards/Technology/IT/Data/Data_Storage/Database/Digital_Library.md) 

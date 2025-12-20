@@ -32,8 +32,6 @@ Stack_Exchange_tag: https://earthscience.stackexchange.com/tags/geochemistry
 > [Wikipedia](https://en.wikipedia.org/wiki/Geochemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geochemistry](/_Standards/Earth/Geology/Geochemistry.md) 

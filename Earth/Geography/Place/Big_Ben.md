@@ -34,8 +34,6 @@ has_id_wikidata: Q41225
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Ben) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Big_Ben](/_Standards/Earth/Geography/Place/Big_Ben.md) 

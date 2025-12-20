@@ -21,8 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Harm%20principle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Harm_Principle](/_Standards/Society/Social_Issues/Human_Rights/Harm_Principle.md) 

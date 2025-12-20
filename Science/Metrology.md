@@ -65,8 +65,6 @@ Commons_category: Metrology
 > [Wikipedia](https://en.wikipedia.org/wiki/Metrology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metrology](/_Standards/Science/Metrology.md) 

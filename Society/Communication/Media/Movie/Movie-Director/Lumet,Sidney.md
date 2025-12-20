@@ -132,8 +132,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/LYUMET_SIDNE.htm
 > [Wikipedia](https://en.wikipedia.org/wiki/Sidney%20Lumet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lumet,Sidney](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lumet,Sidney.md) 

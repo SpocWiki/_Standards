@@ -53,8 +53,6 @@ IPTC_NewsCode: mediatopic/20000748
 > [Wikipedia](https://en.wikipedia.org/wiki/Information%20science) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Information_Science](/_Standards/Philosophy/Epistemology/Information/Information_Science.md) 

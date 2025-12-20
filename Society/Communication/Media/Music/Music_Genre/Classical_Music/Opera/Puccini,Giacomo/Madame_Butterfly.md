@@ -69,8 +69,6 @@ production_date: 1903-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Madama%20Butterfly) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Madame_Butterfly](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.md) 

@@ -30,8 +30,6 @@ video:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mie%20scattering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mie_Scattering](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Mie_Scattering.md) 

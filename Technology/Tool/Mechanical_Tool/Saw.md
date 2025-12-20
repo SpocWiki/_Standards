@@ -47,8 +47,6 @@ Unicode_character: 🪚
 > [Wikipedia](https://en.wikipedia.org/wiki/Saw) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saw](/_Standards/Technology/Tool/Mechanical_Tool/Saw.md) 

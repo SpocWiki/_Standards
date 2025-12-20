@@ -11,7 +11,6 @@ Up to .NET5 you could add an Attribute to catch this, but this was deprecated in
 # 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NET_Exception-Handling](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling/NET_Exception-Handling.md) 

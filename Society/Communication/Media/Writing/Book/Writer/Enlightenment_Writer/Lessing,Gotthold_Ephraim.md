@@ -110,8 +110,6 @@ ISNI: "0000000122762514"
 > [Wikipedia](https://en.wikipedia.org/wiki/Gotthold%20Ephraim%20Lessing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lessing,Gotthold_Ephraim](/_Standards/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.md) 

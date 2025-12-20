@@ -45,8 +45,6 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Music-GClef.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Record%20chart) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Music_Chart](/_Standards/Society/Communication/Media/Music/Music_Chart.md) 

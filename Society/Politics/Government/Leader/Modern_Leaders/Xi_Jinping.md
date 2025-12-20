@@ -147,8 +147,6 @@ Libris_URI: 97mqzgkt38m1m50
 > [Wikipedia](https://en.wikipedia.org/wiki/Xi%20Jinping) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Xi_Jinping](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.md) 

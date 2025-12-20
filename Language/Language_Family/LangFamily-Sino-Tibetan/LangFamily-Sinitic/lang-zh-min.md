@@ -38,8 +38,6 @@ Glottolog_code: minn1248
 > [Wikipedia](https://en.wikipedia.org/wiki/Min%20Chinese) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [lang-zh-min](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/lang-zh-min.md) 

@@ -68,10 +68,6 @@ OpenStreetMap_tag: amenity=table
 > [Wikipedia](https://en.wikipedia.org/wiki/Table%20(furniture)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Table(Furniture)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).md) 

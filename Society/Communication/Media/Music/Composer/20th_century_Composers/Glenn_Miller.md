@@ -111,8 +111,6 @@ date_of_birth: 1904-03-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Glenn%20Miller) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glenn_Miller](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Glenn_Miller.md) 

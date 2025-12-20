@@ -103,8 +103,6 @@ time_of_discovery_or_invention: 0964-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Large%20Magellanic%20Cloud) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Large_Magellanic_Cloud](/_Standards/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.md) 

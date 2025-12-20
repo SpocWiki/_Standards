@@ -67,8 +67,6 @@ Dewey_Decimal_Classification: "530.122"
 > [Wikipedia](https://en.wikipedia.org/wiki/Uncertainty%20principle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Uncertainty_Principle](/_Standards/Science/Physics/Quantum_Mechanics/Uncertainty_Principle.md) 

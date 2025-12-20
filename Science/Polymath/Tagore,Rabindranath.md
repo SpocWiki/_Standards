@@ -174,9 +174,6 @@ Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2236194
 > [Wikipedia](https://en.wikipedia.org/wiki/Rabindranath%20Tagore) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tagore,Rabindranath](/_Standards/Science/Polymath/Tagore,Rabindranath.md) 

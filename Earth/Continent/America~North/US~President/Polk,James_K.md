@@ -117,8 +117,6 @@ date_of_birth: 1795-11-02T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20K.%20Polk) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polk,James_K](/_Standards/Earth/Continent/America~North/US~President/Polk,James_K.md) 

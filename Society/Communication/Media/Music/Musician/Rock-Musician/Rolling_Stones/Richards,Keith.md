@@ -122,8 +122,6 @@ date_of_birth: 1943-12-18T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Keith%20Richards) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Richards,Keith](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Richards,Keith.md) 

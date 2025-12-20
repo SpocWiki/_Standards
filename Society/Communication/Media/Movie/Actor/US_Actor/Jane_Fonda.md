@@ -130,8 +130,6 @@ U_S_National_Archives_Identifier: "75444106"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jane%20Fonda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jane_Fonda](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jane_Fonda.md) 

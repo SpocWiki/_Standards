@@ -43,8 +43,6 @@ Commons_category: Fall of Communism
 > [Wikipedia](https://en.wikipedia.org/wiki/Revolutions%20of%201989) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1989_Revolutions](/_Standards/Society/Politics/Government/Revolution/1989_Revolutions.md) 

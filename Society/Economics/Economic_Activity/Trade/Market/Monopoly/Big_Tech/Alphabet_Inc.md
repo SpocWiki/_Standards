@@ -120,8 +120,6 @@ Commons_category: Alphabet Inc.
 > [Wikipedia](https://en.wikipedia.org/wiki/Alphabet%20Inc.) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Alphabet_Inc](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.md) 

@@ -197,7 +197,6 @@ film_poster: http://commons.wikimedia.org/wiki/Special:FilePath/CasablancaPoster
 > [Wikipedia](https://en.wikipedia.org/wiki/Casablanca%20(film))
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Casablanca(Film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Romance-Movie/Casablanca(Film).md) 

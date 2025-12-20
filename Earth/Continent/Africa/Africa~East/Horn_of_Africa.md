@@ -48,8 +48,6 @@ GitHub_topic: horn-of-africa
 > [Wikipedia](https://en.wikipedia.org/wiki/Horn%20of%20Africa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Horn_of_Africa](/_Standards/Earth/Continent/Africa/Africa~East/Horn_of_Africa.md) 

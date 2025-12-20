@@ -29,8 +29,6 @@ has_id_wikidata: Q134183
 > [Wikipedia](https://en.wikipedia.org/wiki/Magic%20Johnson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magic_Johnson](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.md) 

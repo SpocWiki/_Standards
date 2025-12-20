@@ -39,8 +39,6 @@ Commons_gallery: Land mine
 > [Wikipedia](https://en.wikipedia.org/wiki/Land%20mine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Land_Mine](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.md) 

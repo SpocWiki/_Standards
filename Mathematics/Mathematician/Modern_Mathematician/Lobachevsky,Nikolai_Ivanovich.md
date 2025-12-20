@@ -99,8 +99,6 @@ ISNI: "0000000121208220"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nikolai%20Lobachevsky) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.md) 

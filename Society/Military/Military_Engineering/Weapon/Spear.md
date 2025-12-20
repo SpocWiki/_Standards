@@ -41,8 +41,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Spear)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spear](/_Standards/Society/Military/Military_Engineering/Weapon/Spear.md) 

@@ -55,8 +55,6 @@ By <a href="//commons.wikimedia.org/wiki/User:%E0%AE%8E%E0%AE%B8%E0%AF%8D%E0%AE%
 > [Wikipedia](https://en.wikipedia.org/wiki/Meenakshi%20Temple) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meenakshi_Temple](/_Standards/Earth/Geography/Place/Meenakshi_Temple.md) 

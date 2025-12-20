@@ -29,8 +29,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Schmeling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schmeling,Max](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.md) 

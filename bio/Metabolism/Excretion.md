@@ -48,8 +48,6 @@ Commons_category: Excretion
 > [Wikipedia](https://en.wikipedia.org/wiki/Excretion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Excretion](/_Standards/bio/Metabolism/Excretion.md) 

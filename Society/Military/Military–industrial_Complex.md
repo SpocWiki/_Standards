@@ -49,8 +49,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Military-industrialComplex::77v
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%E2%80%93industrial%20complex) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military–industrial_Complex](/_Standards/Society/Military/Military–industrial_Complex.md) 

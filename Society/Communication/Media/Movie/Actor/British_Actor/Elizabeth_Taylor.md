@@ -192,8 +192,6 @@ date_of_death: 2011-03-23T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Elizabeth%20Taylor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Elizabeth_Taylor](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Elizabeth_Taylor.md) 

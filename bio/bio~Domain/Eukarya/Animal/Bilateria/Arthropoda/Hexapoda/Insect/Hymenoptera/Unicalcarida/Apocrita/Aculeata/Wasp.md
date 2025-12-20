@@ -59,8 +59,6 @@ Krugosvet_article: nauka_i_tehnika/biologiya/OSI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Wasp) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wasp](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Wasp.md) 

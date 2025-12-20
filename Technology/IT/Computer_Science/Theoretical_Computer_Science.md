@@ -47,8 +47,6 @@ Dewey_Decimal_Classification: "004.0151"
 > [Wikipedia](https://en.wikipedia.org/wiki/Theoretical%20computer%20science) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theoretical_Computer_Science](/_Standards/Technology/IT/Computer_Science/Theoretical_Computer_Science.md) 

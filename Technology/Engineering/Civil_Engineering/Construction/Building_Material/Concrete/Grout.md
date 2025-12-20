@@ -32,8 +32,6 @@ has_id_wikidata: Q4580104
 > [Wikipedia](https://en.wikipedia.org/wiki/Grout) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grout](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Grout.md) 

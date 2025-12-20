@@ -39,8 +39,6 @@ Commons_category: Planetary systems
 > [Wikipedia](https://en.wikipedia.org/wiki/Planetary%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Planetary_System](/_Standards/Astronomy/Universe/Planetary_System.md) 

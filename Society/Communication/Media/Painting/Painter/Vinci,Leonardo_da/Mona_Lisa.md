@@ -109,8 +109,6 @@ depicts_Iconclass_notation: 61BB2(Lisa del Giocondo)11
 > [Wikipedia](https://en.wikipedia.org/wiki/Mona%20Lisa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mona_Lisa](/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.md) 

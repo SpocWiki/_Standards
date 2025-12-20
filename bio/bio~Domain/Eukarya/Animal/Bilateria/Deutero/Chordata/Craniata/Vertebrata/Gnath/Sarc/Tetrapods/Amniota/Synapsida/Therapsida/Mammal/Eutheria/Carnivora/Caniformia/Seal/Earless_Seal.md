@@ -51,8 +51,6 @@ taxon_common_name: selfamilien
 > [Wikipedia](https://en.wikipedia.org/wiki/Earless%20seal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Earless_Seal](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Earless_Seal.md) 

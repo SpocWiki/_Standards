@@ -173,8 +173,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/BETE_HANS_ALBREHT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Bethe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bethe,Hans](/_Standards/Science/Physics/Physicist/Bethe,Hans.md) 

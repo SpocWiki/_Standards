@@ -79,8 +79,6 @@ OpenStreetMap_tag: railway=subway
 > [Wikipedia](https://en.wikipedia.org/wiki/Rapid%20transit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rapid_Transit](/_Standards/Technology/Transport/Public_Transport/Rapid_Transit.md) 

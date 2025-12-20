@@ -57,8 +57,6 @@ inception: 1637-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Fermat's%20Last%20Theorem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fermat's_Last_Theorem](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.md) 

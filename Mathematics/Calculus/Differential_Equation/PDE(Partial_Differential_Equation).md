@@ -32,8 +32,6 @@ Wolfram_Language_entity_type: PartialDifferentialEquation
 > [Wikipedia](https://en.wikipedia.org/wiki/Partial%20differential%20equation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [PDE(Partial_Differential_Equation)](/_Standards/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).md) 

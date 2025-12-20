@@ -33,8 +33,6 @@ Commons_category: Homotopy
 > [Wikipedia](https://en.wikipedia.org/wiki/Homotopy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Homotopy](/_Standards/Mathematics/Topology/Homotopy.md) 

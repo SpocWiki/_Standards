@@ -65,8 +65,6 @@ Unicode_character: 🧦
 > [Wikipedia](https://en.wikipedia.org/wiki/Sock) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sock](/_Standards/Technology/Tool/Clothing/Sock.md) 

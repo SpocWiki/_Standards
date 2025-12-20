@@ -99,8 +99,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/June-banner-01.j
 > [Wikipedia](https://en.wikipedia.org/wiki/June) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [June](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/June.md) 

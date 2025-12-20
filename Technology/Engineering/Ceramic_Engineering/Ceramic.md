@@ -59,8 +59,6 @@ Library_of_Congress_Classification: TA455.C43
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceramic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ceramic](/_Standards/Technology/Engineering/Ceramic_Engineering/Ceramic.md) 

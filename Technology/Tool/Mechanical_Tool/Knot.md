@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Knot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Knot](/_Standards/Technology/Tool/Mechanical_Tool/Knot.md) 

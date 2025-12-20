@@ -49,8 +49,6 @@ quantity_symbol_LaTeX_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Right%20ascension) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Right_Ascension](/_Standards/Astronomy/Astrometry/Right_Ascension.md) 

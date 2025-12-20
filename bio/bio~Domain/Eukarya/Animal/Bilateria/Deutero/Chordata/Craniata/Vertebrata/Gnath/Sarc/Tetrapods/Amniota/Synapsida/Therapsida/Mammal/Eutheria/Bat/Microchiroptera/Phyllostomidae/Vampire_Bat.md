@@ -37,8 +37,6 @@ UMLS_CUI: C1008736
 > [Wikipedia](https://en.wikipedia.org/wiki/Vampire%20bat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vampire_Bat](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Phyllostomidae/Vampire_Bat.md) 

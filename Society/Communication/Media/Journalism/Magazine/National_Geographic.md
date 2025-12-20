@@ -123,8 +123,6 @@ Regensburg_Classification_works_and_editions_: HD 184
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Geographic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [National_Geographic](/_Standards/Society/Communication/Media/Journalism/Magazine/National_Geographic.md) 

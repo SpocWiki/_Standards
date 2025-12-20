@@ -3,7 +3,6 @@ But URL length is quite restricted by Browsers to a few kB.
 With in JavaScript often [[blob-URL]] is used, which uses a GUID and stores the Data within the Browser-RAM. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [data-URL](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/data-URL.md) 

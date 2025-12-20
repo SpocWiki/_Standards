@@ -54,8 +54,6 @@ Commons_category: Operational amplifiers
 > [Wikipedia](https://en.wikipedia.org/wiki/Operational%20amplifier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Operational_Amplifier](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.md) 

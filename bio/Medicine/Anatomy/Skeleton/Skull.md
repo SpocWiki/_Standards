@@ -73,8 +73,6 @@ Commons_category: Skulls
 > [Wikipedia](https://en.wikipedia.org/wiki/Skull)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Skull](/_Standards/bio/Medicine/Anatomy/Skeleton/Skull.md) 

@@ -38,8 +38,6 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/38%20Molotov-koktelo.sv
 > [Wikipedia](https://en.wikipedia.org/wiki/Incendiary%20device) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Incendiary_Weapon](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon.md) 

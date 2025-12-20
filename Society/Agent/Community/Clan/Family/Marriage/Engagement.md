@@ -46,8 +46,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Love%20Zambia.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Engagement) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Engagement](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Engagement.md) 

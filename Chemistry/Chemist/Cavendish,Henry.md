@@ -84,8 +84,6 @@ ISNI: "0000000108149043"
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Cavendish) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cavendish,Henry](/_Standards/Chemistry/Chemist/Cavendish,Henry.md) 

@@ -46,9 +46,6 @@ IPTC_NewsCode: mediatopic/20001067
 > [Wikipedia](https://en.wikipedia.org/wiki/Speed%20skating) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Speed_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Speed_Skating.md) 

@@ -70,8 +70,6 @@ Common thresholds are
 > [Wikipedia](https://en.wikipedia.org/wiki/Decibel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decibel](/_Standards/Dimension/Dim~Ratio/Decibel.md) 

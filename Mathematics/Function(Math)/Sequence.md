@@ -73,8 +73,6 @@ IPTC_NewsCode: mediatopic/20001179
 > [Wikipedia](https://en.wikipedia.org/wiki/Sequence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sequence](/_Standards/Mathematics/Function(Math)/Sequence.md) 

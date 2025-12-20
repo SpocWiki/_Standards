@@ -40,8 +40,6 @@ Krugosvet_article_archived_: Earth_sciences/geologiya/ZEMLI_STROENIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Internal%20structure%20of%20Earth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structure_of_Earth](/_Standards/Earth/Climate/Structure_of_Earth.md) 

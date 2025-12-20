@@ -29,8 +29,6 @@ subreddit: continentaltheory
 > [Wikipedia](https://en.wikipedia.org/wiki/Continental%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Continental_Philosophy](/_Standards/Philosophy/Continental_Philosophy.md) 

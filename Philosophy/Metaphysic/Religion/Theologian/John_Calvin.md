@@ -148,8 +148,6 @@ ISNI: "0000000121030063"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Calvin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [John_Calvin](/_Standards/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.md) 

@@ -47,8 +47,6 @@ Commons_category: Polymerase chain reaction
 > [Wikipedia](https://en.wikipedia.org/wiki/Polymerase%20chain%20reaction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [PCR(Polymerase_Chain_Reaction)](/_Standards/bio/Genetics/Nucleic_Acid/PCR(Polymerase_Chain_Reaction).md) 

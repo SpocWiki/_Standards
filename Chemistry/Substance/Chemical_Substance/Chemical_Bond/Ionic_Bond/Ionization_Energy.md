@@ -58,8 +58,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionization%20energy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ionization_Energy](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.md) 

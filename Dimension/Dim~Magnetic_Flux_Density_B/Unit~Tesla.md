@@ -51,8 +51,6 @@ Wikidata_SPARQL_query_equivalent: wd:Q163343 p:P2370/psn:P2370 [wikibase:quantit
 > [Wikipedia](https://en.wikipedia.org/wiki/Tesla%20(unit)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~Tesla](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.md) 

@@ -45,8 +45,6 @@ Dewey_Decimal_Classification: "595.44"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tarantula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tarantula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.md) 

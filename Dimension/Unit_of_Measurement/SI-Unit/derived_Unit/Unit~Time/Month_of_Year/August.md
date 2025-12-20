@@ -109,8 +109,6 @@ Iconclass_notation: 23I32
 > [Wikipedia](https://en.wikipedia.org/wiki/August) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [August](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/August.md) 

@@ -219,9 +219,6 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/11692
 > [Wikipedia](https://en.wikipedia.org/wiki/Ulysses%20S.%20Grant) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grant,Ulysses_S](/_Standards/Earth/Continent/America~North/US~President/Grant,Ulysses_S.md) 

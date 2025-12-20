@@ -66,8 +66,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20compression) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Data_Compression](/_Standards/Technology/IT/IT-Algorithm/Data_Compression.md) 

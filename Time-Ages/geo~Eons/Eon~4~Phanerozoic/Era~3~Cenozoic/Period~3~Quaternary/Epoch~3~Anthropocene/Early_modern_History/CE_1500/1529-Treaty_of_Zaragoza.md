@@ -51,8 +51,6 @@ point_in_time: 1529-05-02T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Zaragoza) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1529-Treaty_of_Zaragoza](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.md) 

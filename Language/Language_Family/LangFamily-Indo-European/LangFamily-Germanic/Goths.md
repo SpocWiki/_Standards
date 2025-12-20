@@ -79,8 +79,6 @@ Krugosvet_article: istoriya/GOTI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Goths) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goths](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.md) 

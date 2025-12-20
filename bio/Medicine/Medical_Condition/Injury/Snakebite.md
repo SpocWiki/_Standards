@@ -59,8 +59,6 @@ ICD_10_CM: T63.0
 > [Wikipedia](https://en.wikipedia.org/wiki/Snakebite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Snakebite](/_Standards/bio/Medicine/Medical_Condition/Injury/Snakebite.md) 

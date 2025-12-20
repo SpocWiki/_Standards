@@ -39,8 +39,6 @@ native_label: 打刀
 > [Wikipedia](https://en.wikipedia.org/wiki/Katana) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Katana](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Katana.md) 

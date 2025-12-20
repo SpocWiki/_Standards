@@ -68,9 +68,6 @@ Library_of_Congress_Classification: B829.5.A-B829.5.Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Phenomenology%20(philosophy)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phenomenology](/_Standards/Philosophy/Phenomenology.md) 

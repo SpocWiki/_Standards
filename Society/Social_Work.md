@@ -35,8 +35,6 @@ Commons_category: Social work
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20work)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Work](/_Standards/Society/Social_Work.md) 

@@ -30,8 +30,6 @@ Commons_category: Industrial agriculture
 > [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20agriculture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Industrial_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/Industrial_Agriculture.md) 

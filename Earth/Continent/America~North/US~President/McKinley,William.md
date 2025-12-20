@@ -32,8 +32,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]] ] [created:: 1897-03-04]  [cancelled:: 1901-09-14]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [McKinley,William](/_Standards/Earth/Continent/America~North/US~President/McKinley,William.md) 

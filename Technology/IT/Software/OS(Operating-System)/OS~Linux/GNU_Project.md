@@ -189,7 +189,6 @@ search_formatter_URL: https://www.gnu.org/cgi-bin/estseek.cgi?phrase=$1
 > [Wikipedia](https://en.wikipedia.org/wiki/GNU%20Project)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GNU_Project](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU_Project.md) 

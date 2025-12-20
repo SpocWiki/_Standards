@@ -75,8 +75,6 @@ native_label: ᚱᚢᚾᛟ
 > [Wikipedia](https://en.wikipedia.org/wiki/Runes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rune](/_Standards/Language/Writing_System/Rune.md) 

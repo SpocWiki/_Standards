@@ -55,8 +55,6 @@ NBN_System_Key: NHMSYS0000459069
 > [Wikipedia](https://en.wikipedia.org/wiki/Gladiolus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gladiolus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Gladiolus.md) 

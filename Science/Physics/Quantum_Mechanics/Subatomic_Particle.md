@@ -56,8 +56,6 @@ Commons_category: Subatomic particles
 > [Wikipedia](https://en.wikipedia.org/wiki/Subatomic%20particle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Subatomic_Particle](/_Standards/Science/Physics/Quantum_Mechanics/Subatomic_Particle.md) 

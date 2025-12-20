@@ -40,8 +40,6 @@ Commons_category: Celestial equator
 > [Wikipedia](https://en.wikipedia.org/wiki/Celestial%20equator) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Celestial_Equator](/_Standards/Astronomy/Solar_System/Celestial_Equator.md) 

@@ -40,8 +40,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Convex%20set) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Convex_Set](/_Standards/Mathematics/Algebra/Linear_Algebra/Convex_Set.md) 

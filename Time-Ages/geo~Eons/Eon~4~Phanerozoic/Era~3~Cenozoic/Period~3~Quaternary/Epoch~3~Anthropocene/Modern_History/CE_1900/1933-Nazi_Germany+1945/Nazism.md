@@ -131,8 +131,6 @@ start_time: 1920-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Nazism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nazism](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.md) 

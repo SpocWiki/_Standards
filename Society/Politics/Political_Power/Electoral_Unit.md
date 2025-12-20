@@ -53,11 +53,6 @@ OpenStreetMap_tag_or_key: Tag:boundary=political
 > [Wikipedia](https://en.wikipedia.org/wiki/Electoral%20district) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electoral_Unit](/_Standards/Society/Politics/Political_Power/Electoral_Unit.md) 

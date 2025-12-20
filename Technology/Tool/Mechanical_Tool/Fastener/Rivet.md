@@ -37,8 +37,6 @@ Commons_category: Rivets
 > [Wikipedia](https://en.wikipedia.org/wiki/Rivet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rivet](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Rivet.md) 

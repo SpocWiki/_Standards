@@ -31,8 +31,6 @@ language_used: "[[_Standards/WikiData/WD~Proto_Indo_European,37178]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Proto-Indo-Europeans) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Proto-Indo-European_People](/_Standards/Language/Language_Family/LangFamily-Indo-European/Proto-Indo-European_People.md) 

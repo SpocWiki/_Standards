@@ -126,8 +126,6 @@ Europeana_entity: agent/base/145435
 > [Wikipedia](https://en.wikipedia.org/wiki/Paracelsus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paracelsus](/_Standards/bio/Medicine/Medical_Business/Physician/Paracelsus.md) 

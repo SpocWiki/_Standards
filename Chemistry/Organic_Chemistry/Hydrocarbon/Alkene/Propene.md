@@ -69,8 +69,6 @@ RTECS_number: UC6740000
 > [Wikipedia](https://en.wikipedia.org/wiki/Propylene) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Propene](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Propene.md) 

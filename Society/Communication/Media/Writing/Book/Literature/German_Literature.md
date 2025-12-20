@@ -46,8 +46,6 @@ Library_of_Congress_Classification: PT1-4897
 > [Wikipedia](https://en.wikipedia.org/wiki/German%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [German_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/German_Literature.md) 

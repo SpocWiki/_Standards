@@ -65,8 +65,6 @@ Library_of_Congress_Classification: Q179.9-Q180.7
 > [Wikipedia](https://en.wikipedia.org/wiki/Research) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Research](/_Standards/Science/Research.md) 

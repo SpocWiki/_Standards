@@ -132,8 +132,6 @@ ISNI: "0000000073586496"
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitus%20Bering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bering,Vitus](/_Standards/Earth/Explorer/Age_of_Discovery/Bering,Vitus.md) 

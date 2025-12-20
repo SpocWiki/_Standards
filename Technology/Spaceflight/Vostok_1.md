@@ -66,8 +66,6 @@ call_sign: Кедр
 > [Wikipedia](https://en.wikipedia.org/wiki/Vostok%201) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vostok_1](/_Standards/Technology/Spaceflight/Vostok_1.md) 

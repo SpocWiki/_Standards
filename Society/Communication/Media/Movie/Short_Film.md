@@ -30,8 +30,6 @@ Commons_category: Short films
 > [Wikipedia](https://en.wikipedia.org/wiki/Short%20film) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Short_Film](/_Standards/Society/Communication/Media/Movie/Short_Film.md) 

@@ -46,8 +46,6 @@ UNII: W2ZU1RY8B0
 > [Wikipedia](https://en.wikipedia.org/wiki/Green%20tea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Green_tea](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.md) 

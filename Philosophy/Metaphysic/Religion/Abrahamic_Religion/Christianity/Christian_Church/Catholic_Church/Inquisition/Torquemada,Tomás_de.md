@@ -75,8 +75,6 @@ Commons_category: Tomás de Torquemada
 > [Wikipedia](https://en.wikipedia.org/wiki/Tom%C3%A1s%20de%20Torquemada) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Torquemada,Tomás_de](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.md) 

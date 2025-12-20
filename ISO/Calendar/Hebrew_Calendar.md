@@ -47,8 +47,6 @@ Commons_category: Hebrew calendar
 > [Wikipedia](https://en.wikipedia.org/wiki/Hebrew%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hebrew_Calendar](/_Standards/ISO/Calendar/Hebrew_Calendar.md) 

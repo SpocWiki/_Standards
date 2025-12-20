@@ -65,8 +65,6 @@ birth_name: Gerd Karl Binnig
 > [Wikipedia](https://en.wikipedia.org/wiki/Gerd%20Binnig) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Binnig,Gerd](/_Standards/Science/Physics/Physicist/Binnig,Gerd.md) 

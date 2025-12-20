@@ -35,8 +35,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Trans-New%20Guinea%20l
 > [Wikipedia](https://en.wikipedia.org/wiki/Trans%E2%80%93New%20Guinea%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trans–New_Guinea](/_Standards/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.md) 

@@ -40,9 +40,6 @@ disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,237664
 > [Wikipedia](https://en.wikipedia.org/wiki/Smoothness) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [smooth_Function](/_Standards/Mathematics/Function(Math)/smooth_Function.md) 

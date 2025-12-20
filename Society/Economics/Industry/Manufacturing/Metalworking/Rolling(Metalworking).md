@@ -62,8 +62,6 @@ Commons_category: Rolling (metalworking)
 > [Wikipedia](https://en.wikipedia.org/wiki/Rolling%20(metalworking)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rolling(Metalworking)](/_Standards/Society/Economics/Industry/Manufacturing/Metalworking/Rolling(Metalworking).md) 

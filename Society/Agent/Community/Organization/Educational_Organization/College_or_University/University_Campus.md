@@ -40,8 +40,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000467
 > [Wikipedia](https://en.wikipedia.org/wiki/Campus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [University_Campus](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.md) 

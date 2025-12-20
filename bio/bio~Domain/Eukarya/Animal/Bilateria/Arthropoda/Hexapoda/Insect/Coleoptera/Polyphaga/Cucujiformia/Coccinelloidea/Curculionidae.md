@@ -44,8 +44,6 @@ NBN_System_Key: NHMSYS0020151946
 > [Wikipedia](https://en.wikipedia.org/wiki/Curculionidae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Curculionidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Curculionidae.md) 

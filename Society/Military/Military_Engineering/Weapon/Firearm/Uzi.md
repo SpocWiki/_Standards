@@ -58,8 +58,6 @@ Commons_category: IMI Uzi
 > [Wikipedia](https://en.wikipedia.org/wiki/Uzi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Uzi](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.md) 

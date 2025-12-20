@@ -83,8 +83,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2025%20-%20Ken%20Burns
 > [Wikipedia](https://en.wikipedia.org/wiki/Ken%20Burns) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Burns,Ken](/_Standards/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.md) 

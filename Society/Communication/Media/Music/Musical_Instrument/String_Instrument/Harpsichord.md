@@ -74,8 +74,6 @@ inception: 1500-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Harpsichord) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Harpsichord](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harpsichord.md) 

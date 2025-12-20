@@ -19,8 +19,6 @@ has_id_wikidata: Q54050
 > [Wikipedia](https://en.wikipedia.org/wiki/Hill) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hill](/_Standards/Earth/Geology/Landform/Hill.md) 

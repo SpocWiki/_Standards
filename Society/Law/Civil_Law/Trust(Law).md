@@ -34,8 +34,6 @@ three-party, quarternary fiduciary relationship.
 > [Wikipedia](https://en.wikipedia.org/wiki/Trust%20(law)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trust(Law)](/_Standards/Society/Law/Civil_Law/Trust(Law).md) 

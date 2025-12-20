@@ -46,8 +46,6 @@ Terminologia_Histologica: H2.00.02.0.00002
 > [Wikipedia](https://en.wikipedia.org/wiki/Epithelium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Epithelium](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Epithelium.md) 

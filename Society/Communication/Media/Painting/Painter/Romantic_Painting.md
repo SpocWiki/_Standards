@@ -5,7 +5,6 @@ aliases:
 ---
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Romantic_Painting](/_Standards/Society/Communication/Media/Painting/Painter/Romantic_Painting.md) 

@@ -31,9 +31,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/FIFA) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [FIFA](/_Standards/Society/Agent/Community/Organization/Sports_Organization/FIFA.md) 

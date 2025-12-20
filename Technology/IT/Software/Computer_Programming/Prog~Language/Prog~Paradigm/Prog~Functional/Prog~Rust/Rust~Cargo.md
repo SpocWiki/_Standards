@@ -32,7 +32,6 @@ cargo install bacon #continuously checks code with better linter!
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Cargo](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Cargo.md) 

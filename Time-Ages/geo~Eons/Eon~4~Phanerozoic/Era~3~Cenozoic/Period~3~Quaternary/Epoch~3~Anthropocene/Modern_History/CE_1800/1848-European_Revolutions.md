@@ -28,10 +28,6 @@ has_id_wikidata: Q3588
 > [Wikipedia](https://en.wikipedia.org/wiki/Revolutions%20of%201848)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1848-European_Revolutions](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1848-European_Revolutions.md) 

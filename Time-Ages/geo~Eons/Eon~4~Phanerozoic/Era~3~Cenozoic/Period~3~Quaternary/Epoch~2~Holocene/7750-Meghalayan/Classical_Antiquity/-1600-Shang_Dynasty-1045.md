@@ -71,8 +71,6 @@ coordinate_location: Point(114.325 36.12083333)
 > [Wikipedia](https://en.wikipedia.org/wiki/Shang%20dynasty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-1600-Shang_Dynasty-1045](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.md) 

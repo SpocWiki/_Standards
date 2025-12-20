@@ -184,12 +184,6 @@ composed Music for
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Williams)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Williams,John(Composer)](/_Standards/Society/Communication/Media/Music/Composer/Williams,John(Composer).md) 

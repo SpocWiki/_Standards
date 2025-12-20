@@ -5,10 +5,6 @@ They were an immediate success, which led to the Creation of Fortran and Algol s
 Followed by the interpreted LISP and Cobol. 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Compilers](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Compilers.md) 

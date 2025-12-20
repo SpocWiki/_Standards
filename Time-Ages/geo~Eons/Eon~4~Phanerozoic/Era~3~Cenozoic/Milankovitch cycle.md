@@ -19,9 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Milankovitch%20cycles) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Milankovitch cycle](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.md) 

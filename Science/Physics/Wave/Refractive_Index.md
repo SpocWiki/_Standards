@@ -62,8 +62,6 @@ IEV_number: 845-24-109
 > [Wikipedia](https://en.wikipedia.org/wiki/Refractive%20index) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Refractive_Index](/_Standards/Science/Physics/Wave/Refractive_Index.md) 

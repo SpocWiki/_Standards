@@ -62,8 +62,6 @@ Amazon_com_browse_node: "6502934011"
 > [Wikipedia](https://en.wikipedia.org/wiki/Noodle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Noodle](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Noodle.md) 

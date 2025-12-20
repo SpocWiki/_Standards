@@ -74,8 +74,6 @@ Dewey_Decimal_Classification: "338.927"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sustainable%20development) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sustainable_Development](/_Standards/Society/Social_Issues/Sustainable_Development.md) 

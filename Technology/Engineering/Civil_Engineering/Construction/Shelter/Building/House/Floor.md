@@ -56,8 +56,6 @@ Commons_category: Floors
 > [Wikipedia](https://en.wikipedia.org/wiki/Floor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Floor](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor.md) 

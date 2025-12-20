@@ -34,8 +34,6 @@ Commons_category: Tensors
 > [Wikipedia](https://en.wikipedia.org/wiki/Tensor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tensor](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.md) 

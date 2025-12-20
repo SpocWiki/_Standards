@@ -42,8 +42,6 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Observatory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Observatory](/_Standards/Astronomy/Astrometry/Observatory.md) 

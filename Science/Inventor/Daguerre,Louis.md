@@ -105,8 +105,6 @@ Google_Doodle: louis-daguerres-224th-birthday
 > [Wikipedia](https://en.wikipedia.org/wiki/Louis%20Daguerre) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Daguerre,Louis](/_Standards/Science/Inventor/Daguerre,Louis.md) 

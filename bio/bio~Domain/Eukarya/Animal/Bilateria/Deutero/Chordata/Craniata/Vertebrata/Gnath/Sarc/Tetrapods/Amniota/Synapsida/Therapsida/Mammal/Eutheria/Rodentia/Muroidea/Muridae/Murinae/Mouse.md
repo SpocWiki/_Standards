@@ -55,8 +55,6 @@ NBN_System_Key: NBNSYS0000135345
 > [Wikipedia](https://en.wikipedia.org/wiki/Mouse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mouse](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Muridae/Murinae/Mouse.md) 

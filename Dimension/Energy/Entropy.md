@@ -62,8 +62,6 @@ MeSH_tree_code: G01.906.345
 > [Wikipedia](https://en.wikipedia.org/wiki/Entropy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Entropy](/_Standards/Dimension/Energy/Entropy.md) 

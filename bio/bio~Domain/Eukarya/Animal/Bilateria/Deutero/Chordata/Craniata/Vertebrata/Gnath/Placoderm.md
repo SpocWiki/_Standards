@@ -58,8 +58,6 @@ end_time: -358900000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Placoderm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Placoderm](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Placoderm.md) 

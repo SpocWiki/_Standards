@@ -90,8 +90,6 @@ Colon_Classification: Y:356
 > [Wikipedia](https://en.wikipedia.org/wiki/Tradition) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tradition](/_Standards/Society/Culture/Tradition.md) 

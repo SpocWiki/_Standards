@@ -88,8 +88,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fredmeyer%20edit%201.j
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trade](/_Standards/Society/Economics/Economic_Activity/Trade.md) 

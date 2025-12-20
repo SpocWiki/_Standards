@@ -54,8 +54,6 @@ OpenStreetMap_tag: denomination=mormon
 > [Wikipedia](https://en.wikipedia.org/wiki/Mormonism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mormonism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.md) 

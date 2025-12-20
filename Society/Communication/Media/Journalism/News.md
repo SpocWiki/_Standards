@@ -62,10 +62,6 @@ Baidu_Tieba_name: 新闻
 > [Wikipedia](https://en.wikipedia.org/wiki/News) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [News](/_Standards/Society/Communication/Media/Journalism/News.md) 

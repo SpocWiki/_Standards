@@ -44,10 +44,6 @@ Library_of_Congress_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20control) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Control](/_Standards/Society/Culture/Social_Control.md) 

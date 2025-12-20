@@ -49,8 +49,6 @@ Commons_category: Couriers
 > [Wikipedia](https://en.wikipedia.org/wiki/Courier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Courier](/_Standards/Society/Agent/Community/Organization/Role/Organization_Role/Courier.md) 

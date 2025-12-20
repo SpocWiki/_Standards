@@ -39,7 +39,6 @@ name_in_native_language: Κασσιόπη
 #is_/same_as :: [[/_Standards/WikiData/WD~Cassiopeia,207681]]
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cassiopeia(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Cassiopeia(Mythology).md) 

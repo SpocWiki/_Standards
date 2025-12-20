@@ -49,17 +49,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/HD%2071567.webm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Occultation](Occultation.md) 
+### #is_/same_as :: [Occultation](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation.md) 
 
-### #is_/same_as :: [Occultation.public](/_public/Astronomy/Solar_System/Occultation.public.md) 
+### #is_/same_as :: [Occultation.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation.public.md) 
 
-### #is_/same_as :: [Occultation.internal](/_internal/Astronomy/Solar_System/Occultation.internal.md) 
+### #is_/same_as :: [Occultation.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation.internal.md) 
 
-### #is_/same_as :: [Occultation.protect](/_protect/Astronomy/Solar_System/Occultation.protect.md) 
+### #is_/same_as :: [Occultation.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation.protect.md) 
 
-### #is_/same_as :: [Occultation.private](/_private/Astronomy/Solar_System/Occultation.private.md) 
+### #is_/same_as :: [Occultation.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation.private.md) 
 
-### #is_/same_as :: [Occultation.personal](/_personal/Astronomy/Solar_System/Occultation.personal.md) 
+### #is_/same_as :: [Occultation.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation.personal.md) 
 
-### #is_/same_as :: [Occultation.secret](/_secret/Astronomy/Solar_System/Occultation.secret.md)
+### #is_/same_as :: [Occultation.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation.secret.md)
 

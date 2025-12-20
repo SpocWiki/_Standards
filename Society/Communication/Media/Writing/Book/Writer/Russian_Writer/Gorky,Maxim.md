@@ -140,8 +140,6 @@ Europeana_entity: agent/base/60863
 > [Wikipedia](https://en.wikipedia.org/wiki/Maxim%20Gorky) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gorky,Maxim](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.md) 

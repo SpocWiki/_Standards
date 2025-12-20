@@ -38,9 +38,6 @@ Commons_category: Photochemistry
 > [Wikipedia](https://en.wikipedia.org/wiki/Photochemistry) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photochemistry](/_Standards/Chemistry/Photochemistry.md) 

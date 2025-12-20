@@ -84,10 +84,6 @@ NBN_System_Key: NHMSYS0020824558
 > [Wikipedia](https://en.wikipedia.org/wiki/Asparagaceae) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Asparagaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.md) 

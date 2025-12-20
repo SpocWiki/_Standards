@@ -46,11 +46,6 @@ Commons_category: Geological stacks
 > [Wikipedia](https://en.wikipedia.org/wiki/Stack%20(geology)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stack(Geology)](/_Standards/Earth/Geology/Landform/Stack(Geology).md) 

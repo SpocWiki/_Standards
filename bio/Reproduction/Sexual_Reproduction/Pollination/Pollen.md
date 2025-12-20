@@ -60,8 +60,6 @@ UMLS_CUI: C0032385
 > [Wikipedia](https://en.wikipedia.org/wiki/Pollen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pollen](/_Standards/bio/Reproduction/Sexual_Reproduction/Pollination/Pollen.md) 

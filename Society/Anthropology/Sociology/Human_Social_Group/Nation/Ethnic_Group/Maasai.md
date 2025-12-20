@@ -53,9 +53,6 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Maasai%20people) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maasai](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Maasai.md) 

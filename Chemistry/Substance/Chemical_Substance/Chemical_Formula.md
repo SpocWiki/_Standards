@@ -90,8 +90,6 @@ Commons_category: Chemical formulas
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20formula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Formula](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula.md) 

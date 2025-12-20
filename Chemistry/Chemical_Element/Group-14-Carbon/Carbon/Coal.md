@@ -74,8 +74,6 @@ IPTC_NewsCode: mediatopic/20000258
 > [Wikipedia](https://en.wikipedia.org/wiki/Coal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coal](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.md) 

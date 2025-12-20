@@ -36,8 +36,6 @@ taxon_name: Rhincodon
 > [Wikipedia](https://en.wikipedia.org/wiki/Whale%20shark) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rhincodon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Rhincodon.md) 

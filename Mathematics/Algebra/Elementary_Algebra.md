@@ -49,8 +49,6 @@ Commons_category: Elementary algebra
 > [Wikipedia](https://en.wikipedia.org/wiki/Elementary%20algebra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Elementary_Algebra](/_Standards/Mathematics/Algebra/Elementary_Algebra.md) 

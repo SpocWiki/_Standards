@@ -72,8 +72,6 @@ name_in_native_language: Victor Franz Hess
 > [Wikipedia](https://en.wikipedia.org/wiki/Victor%20Hess) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hess,Victor_Francis](/_Standards/Science/Physics/Physicist/Hess,Victor_Francis.md) 

@@ -165,8 +165,6 @@ birth_name: Sir Lord Robert Cecil Stephenson Smith Baden Powell Of Gilwell
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Baden-Powell,%201st%20Baron%20Baden-Powell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Baden-Powell,Robert](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Baden-Powell,Robert.md) 

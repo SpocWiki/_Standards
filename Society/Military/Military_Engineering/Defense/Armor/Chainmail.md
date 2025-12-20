@@ -29,8 +29,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chain%20mail) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chainmail](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Chainmail.md) 

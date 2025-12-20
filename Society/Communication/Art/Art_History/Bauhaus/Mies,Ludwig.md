@@ -172,9 +172,6 @@ ISNI: 000000012144125X
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Mies%20van%20der%20Rohe) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mies,Ludwig](/_Standards/Society/Communication/Art/Art_History/Bauhaus/Mies,Ludwig.md) 

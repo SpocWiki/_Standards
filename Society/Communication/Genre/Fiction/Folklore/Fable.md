@@ -54,8 +54,6 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/BASNYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Fable) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fable](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fable.md) 

@@ -29,8 +29,6 @@ Commons_category: Portmanteau
 > [Wikipedia](https://en.wikipedia.org/wiki/Portmanteau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Portmanteau](/_Standards/Language/Portmanteau.md) 

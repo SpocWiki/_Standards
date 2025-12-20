@@ -47,8 +47,6 @@ Commons_category: Watering cans
 > [Wikipedia](https://en.wikipedia.org/wiki/Watering%20can) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Watering_Can](/_Standards/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.md) 

@@ -60,8 +60,6 @@ Commons_category: Mandolins
 > [Wikipedia](https://en.wikipedia.org/wiki/Mandolin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mandolin](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.md) 

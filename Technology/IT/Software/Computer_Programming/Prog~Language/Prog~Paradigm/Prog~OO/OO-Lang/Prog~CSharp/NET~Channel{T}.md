@@ -1,7 +1,6 @@
 New .NET Mechanism for fast in-memory Queueing
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NET~Channel{T}](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/NET~Channel{T}.md) 

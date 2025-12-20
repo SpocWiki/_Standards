@@ -46,8 +46,6 @@ Wikidata_usage_instructions: Not all hovercraft are watercraft, so add watercraf
 > [Wikipedia](https://en.wikipedia.org/wiki/Hovercraft) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hovercraft](/_Standards/Technology/Transport/Hovercraft.md) 

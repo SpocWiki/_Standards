@@ -39,8 +39,6 @@ Dewey_Decimal_Classification: "693.6"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stucco) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stucco](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Stucco.md) 

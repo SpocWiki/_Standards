@@ -4,8 +4,6 @@
 ## [[Algebraic_Data-Types/Sum-Type]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Algebraic_Data-Types](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types.md) 

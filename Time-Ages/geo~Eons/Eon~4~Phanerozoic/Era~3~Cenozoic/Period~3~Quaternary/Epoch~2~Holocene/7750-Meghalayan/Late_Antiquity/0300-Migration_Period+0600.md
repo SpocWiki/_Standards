@@ -46,8 +46,6 @@ end_time: 0568-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Migration%20Period) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0300-Migration_Period+0600](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600.md) 

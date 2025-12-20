@@ -68,8 +68,6 @@ ISNI: "0000000423366849"
 > [Wikipedia](https://en.wikipedia.org/wiki/Diophantus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diophantus_of_Alexandria](/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria.md) 

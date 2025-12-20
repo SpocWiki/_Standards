@@ -76,8 +76,6 @@ ISNI: "0000000083793990"
 > [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Goldwyn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goldwyn,Samuel](/_Standards/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.md) 

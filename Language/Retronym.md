@@ -10,8 +10,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Retronym) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Retronym](/_Standards/Language/Retronym.md) 

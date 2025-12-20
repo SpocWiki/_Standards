@@ -55,8 +55,6 @@ Iconclass_notation: 49L642
 > [Wikipedia](https://en.wikipedia.org/wiki/Papyrus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Papyrus](/_Standards/Chemistry/Material/Papyrus.md) 

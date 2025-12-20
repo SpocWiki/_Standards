@@ -36,8 +36,6 @@ has_id_wikidata: Q39017
 > [Wikipedia](https://en.wikipedia.org/wiki/Retriever) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Retriever](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Retriever.md) 

@@ -91,8 +91,6 @@ Commons_category: Scientific theories
 > [Wikipedia](https://en.wikipedia.org/wiki/Scientific%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scientific_Theory](/_Standards/Science/Scientific_Theory.md) 

@@ -59,8 +59,6 @@ Commons_category: Zithers
 > [Wikipedia](https://en.wikipedia.org/wiki/Zither) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zither](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.md) 

@@ -97,8 +97,6 @@ date_of_death: 2023-03-03T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Kenzabur%C5%8D%20%C5%8Ce) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kenzaburō_Ōe](/_Standards/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.md) 

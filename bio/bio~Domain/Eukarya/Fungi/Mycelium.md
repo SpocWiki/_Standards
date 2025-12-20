@@ -38,8 +38,6 @@ Commons_category: Mycelium
 > [Wikipedia](https://en.wikipedia.org/wiki/Mycelium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mycelium](/_Standards/bio/bio~Domain/Eukarya/Fungi/Mycelium.md) 

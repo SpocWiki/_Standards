@@ -35,8 +35,6 @@ OpenStreetMap_tag_or_key: Tag:athletics=discus_throw
 > [Wikipedia](https://en.wikipedia.org/wiki/Discus%20throw) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Discus_Throw](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.md) 

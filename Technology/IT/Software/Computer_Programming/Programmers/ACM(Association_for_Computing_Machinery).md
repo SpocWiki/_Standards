@@ -111,9 +111,6 @@ official_website: https://www.acm.org
 > [Wikipedia](https://en.wikipedia.org/wiki/Association%20for%20Computing%20Machinery)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ACM(Association_for_Computing_Machinery)](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/ACM(Association_for_Computing_Machinery).md) 

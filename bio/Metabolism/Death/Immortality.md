@@ -31,8 +31,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Immortality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Immortality](/_Standards/bio/Metabolism/Death/Immortality.md) 

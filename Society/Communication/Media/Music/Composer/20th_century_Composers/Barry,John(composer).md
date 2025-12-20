@@ -114,9 +114,6 @@ date_of_death: 2011-01-30T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Barry%20(composer)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Barry,John(composer)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).md) 

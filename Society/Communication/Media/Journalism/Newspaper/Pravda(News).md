@@ -97,8 +97,6 @@ inception: 1912-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pravda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pravda(News)](/_Standards/Society/Communication/Media/Journalism/Newspaper/Pravda(News).md) 

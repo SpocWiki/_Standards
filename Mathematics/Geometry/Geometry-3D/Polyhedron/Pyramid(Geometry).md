@@ -49,8 +49,6 @@ Schläfli_symbol: ()∨{n}
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyramid%20(geometry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pyramid(Geometry)](/_Standards/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).md) 

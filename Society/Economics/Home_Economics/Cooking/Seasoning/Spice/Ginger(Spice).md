@@ -72,8 +72,6 @@ Gujarati_Vishwakosh_entry: આદું
 > [Wikipedia](https://en.wikipedia.org/wiki/Ginger) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ginger(Spice)](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Ginger(Spice).md) 

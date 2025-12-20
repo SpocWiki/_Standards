@@ -181,8 +181,6 @@ Munzinger_Sport_number: "01000003272"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pel%C3%A9) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pelé](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Pelé.md) 

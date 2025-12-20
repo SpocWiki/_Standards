@@ -54,8 +54,6 @@ Baidu_Tieba_name: 西点
 > [Wikipedia](https://en.wikipedia.org/wiki/Dessert) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dessert](/_Standards/Society/Economics/Home_Economics/Meal/Dessert.md) 

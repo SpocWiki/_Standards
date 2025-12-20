@@ -37,8 +37,6 @@ Commons_category: Free-electron lasers
 > [Wikipedia](https://en.wikipedia.org/wiki/Free-electron%20laser) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Free-Electron_Laser](/_Standards/Technology/Tool/Laser/Free-Electron_Laser.md) 

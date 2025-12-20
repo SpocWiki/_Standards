@@ -60,9 +60,6 @@ This is about Instances of Construction
 |  **Usage Focus**       | Focuses on _process itself_                                           | Focuses on _economic classification/statistics_   |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Construction(Process)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).md) 

@@ -39,8 +39,6 @@ Commons_category: Theory of computation
 > [Wikipedia](https://en.wikipedia.org/wiki/Theory%20of%20computation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theory_of_Computation](/_Standards/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.md) 

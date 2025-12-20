@@ -169,8 +169,6 @@ Europeana_entity: agent/base/147204
 > [Wikipedia](https://en.wikipedia.org/wiki/Cher) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cher](/_Standards/Society/Communication/Media/Music/Musician/Singer/Cher.md) 

@@ -44,8 +44,6 @@ MeSH_tree_code: I02.195
 > [Wikipedia](https://en.wikipedia.org/wiki/Distance%20education) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Distance_Education](/_Standards/Society/Culture/Education/Distance_Education.md) 

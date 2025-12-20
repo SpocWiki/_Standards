@@ -123,8 +123,6 @@ PeerTube_channel_address: fsf@framatube.org
 > [Wikipedia](https://en.wikipedia.org/wiki/Free%20Software%20Foundation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Free_Software_Foundation](/_Standards/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.md) 

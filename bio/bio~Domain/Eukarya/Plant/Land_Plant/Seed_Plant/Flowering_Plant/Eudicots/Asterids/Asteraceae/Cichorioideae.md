@@ -31,8 +31,6 @@ taxon_name: Cichorioideae
 > [Wikipedia](https://en.wikipedia.org/wiki/Cichorioideae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cichorioideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae.md) 

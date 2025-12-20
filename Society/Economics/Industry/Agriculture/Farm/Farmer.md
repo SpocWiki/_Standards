@@ -117,8 +117,6 @@ UMLS_CUI: C0221460
 > [Wikipedia](https://en.wikipedia.org/wiki/Farmer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Farmer](/_Standards/Society/Economics/Industry/Agriculture/Farm/Farmer.md) 

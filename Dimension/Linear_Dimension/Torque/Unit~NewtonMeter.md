@@ -36,3 +36,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~NewtonMeter](/_Standards/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.md) 
+
+### #is_/same_as :: [Unit~NewtonMeter.public](/_public/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.public.md) 
+
+### #is_/same_as :: [Unit~NewtonMeter.internal](/_internal/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.internal.md) 
+
+### #is_/same_as :: [Unit~NewtonMeter.protect](/_protect/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.protect.md) 
+
+### #is_/same_as :: [Unit~NewtonMeter.private](/_private/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.private.md) 
+
+### #is_/same_as :: [Unit~NewtonMeter.personal](/_personal/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.personal.md) 
+
+### #is_/same_as :: [Unit~NewtonMeter.secret](/_secret/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.secret.md)
+

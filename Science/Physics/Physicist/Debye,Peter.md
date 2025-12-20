@@ -182,8 +182,6 @@ ISNI: "0000000110810865"
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Debye) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Debye,Peter](/_Standards/Science/Physics/Physicist/Debye,Peter.md) 

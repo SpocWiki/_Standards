@@ -144,8 +144,6 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/St%20Michael%
 > [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Taylor%20Coleridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coleridge,Samuel_Taylor](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Coleridge,Samuel_Taylor.md) 

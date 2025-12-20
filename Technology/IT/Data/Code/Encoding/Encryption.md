@@ -79,11 +79,6 @@ GitHub_topic: encryption
 > [Wikipedia](https://en.wikipedia.org/wiki/Encryption)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Encryption](/_Standards/Technology/IT/Data/Code/Encoding/Encryption.md) 

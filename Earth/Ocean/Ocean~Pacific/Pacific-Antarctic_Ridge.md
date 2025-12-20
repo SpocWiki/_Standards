@@ -39,8 +39,6 @@ coordinate_location: Point(-157.000165 -61.999555)
 > [Wikipedia](https://en.wikipedia.org/wiki/Pacific%E2%80%93Antarctic%20Ridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pacific-Antarctic_Ridge](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.md) 

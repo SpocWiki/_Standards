@@ -97,8 +97,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PersianGulf%20vue%20sa
 > [Wikipedia](https://en.wikipedia.org/wiki/Persian%20Gulf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Persian_Gulf](/_Standards/Earth/Ocean/Ocean~Indian/Persian_Gulf.md) 

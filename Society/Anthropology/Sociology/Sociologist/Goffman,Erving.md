@@ -23,8 +23,6 @@ has_id_wikidata: Q314471
 > [Wikipedia](https://en.wikipedia.org/wiki/Erving%20Goffman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goffman,Erving](/_Standards/Society/Anthropology/Sociology/Sociologist/Goffman,Erving.md) 

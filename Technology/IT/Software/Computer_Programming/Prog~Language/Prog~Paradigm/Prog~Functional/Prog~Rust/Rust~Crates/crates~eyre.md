@@ -10,8 +10,6 @@ fn get_cluster_info() -> Result<String> {
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~eyre](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~eyre.md) 

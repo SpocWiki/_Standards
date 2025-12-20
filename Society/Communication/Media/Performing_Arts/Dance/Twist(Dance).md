@@ -35,9 +35,6 @@ Commons_category: Twist (dance)
 > [Wikipedia](https://en.wikipedia.org/wiki/Twist%20(dance)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Twist(Dance)](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Twist(Dance).md) 

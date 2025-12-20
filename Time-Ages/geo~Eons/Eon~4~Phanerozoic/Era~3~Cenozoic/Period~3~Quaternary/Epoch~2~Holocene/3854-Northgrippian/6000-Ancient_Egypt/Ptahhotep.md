@@ -34,8 +34,6 @@ date_of_birth: -2450-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Ptahhotep) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ptahhotep](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.md) 

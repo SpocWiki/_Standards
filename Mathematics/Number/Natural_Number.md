@@ -77,8 +77,6 @@ Wikidata_usage_instructions: A mathematical statement about natural numbers shou
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Natural_Number](/_Standards/Mathematics/Number/Natural_Number.md) 

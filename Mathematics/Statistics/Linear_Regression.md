@@ -58,8 +58,6 @@ Commons_category: Linear regression
 > [Wikipedia](https://en.wikipedia.org/wiki/Linear%20regression) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Linear_Regression](/_Standards/Mathematics/Statistics/Linear_Regression.md) 

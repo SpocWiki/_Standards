@@ -46,8 +46,6 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/MIKROSKOP.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Microscope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Microscope](/_Standards/Technology/Tool/Instrumentation/Microscope.md) 

@@ -52,8 +52,6 @@ IPTC_NewsCode: mediatopic/20000444
 > [Wikipedia](https://en.wikipedia.org/wiki/Invasive%20species) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Invasive_Species](/_Standards/bio/Ecology/Ecosystem/Invasive_Species.md) 

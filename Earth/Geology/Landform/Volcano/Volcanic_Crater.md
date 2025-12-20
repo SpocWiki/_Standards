@@ -46,8 +46,6 @@ Commons_category: Volcanic craters
 > [Wikipedia](https://en.wikipedia.org/wiki/Volcanic%20crater) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Volcanic_Crater](/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Crater.md) 

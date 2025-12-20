@@ -36,8 +36,6 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cushitic%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Cushitic%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily~Cushitic](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic.md) 

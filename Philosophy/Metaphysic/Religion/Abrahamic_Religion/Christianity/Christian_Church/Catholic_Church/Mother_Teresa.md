@@ -141,8 +141,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MAT_TEREZA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Mother%20Teresa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mother_Teresa](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mother_Teresa.md) 

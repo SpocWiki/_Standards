@@ -54,8 +54,6 @@ image:
 > [Wikipedia](https://en.wikipedia.org/wiki/Frost) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Frost](/_Standards/Science/Physics/State_of_Matter/Solid/Frost.md) 

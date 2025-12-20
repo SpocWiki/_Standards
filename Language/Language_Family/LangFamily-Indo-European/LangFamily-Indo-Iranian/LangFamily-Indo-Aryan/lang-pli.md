@@ -73,8 +73,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pali%20language.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Pali) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [lang-pli](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-pli.md) 

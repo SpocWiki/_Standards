@@ -95,8 +95,6 @@ Royal_Academy_new_identifier: girolamo-savonarola
 > [Wikipedia](https://en.wikipedia.org/wiki/Girolamo%20Savonarola) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Savonarola,Girolamo](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Savonarola,Girolamo.md) 

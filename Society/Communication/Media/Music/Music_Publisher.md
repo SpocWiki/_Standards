@@ -19,8 +19,6 @@ In 2025 70% of all music is published by the big three:
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20publisher) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Music_Publisher](/_Standards/Society/Communication/Media/Music/Music_Publisher.md) 

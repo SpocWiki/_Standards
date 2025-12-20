@@ -34,8 +34,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%A1%D0%AD1.%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Pitchfork) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pitchfork](/_Standards/Society/Economics/Industry/Agriculture/Pitchfork.md) 

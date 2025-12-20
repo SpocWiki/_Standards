@@ -123,8 +123,6 @@ official_shop_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20Trek) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Star_Trek](/_Standards/Society/Communication/Media/Media_Franchise/Star_Trek.md) 

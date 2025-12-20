@@ -37,11 +37,6 @@ Commons_category: Jet engines
 > [Wikipedia](https://en.wikipedia.org/wiki/Jet%20engine) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jet_Engine](/_Standards/Technology/Engine/Heat_Engine/Jet_Engine.md) 

@@ -59,8 +59,6 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Limestone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Limestone](/_Standards/Earth/Geology/Mineral/Limestone.md) 

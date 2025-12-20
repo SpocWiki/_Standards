@@ -46,8 +46,6 @@ Dewey_Decimal_Classification: "597.81392"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tadpole) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tadpole](/_Standards/bio/Metabolism/Larva/Tadpole.md) 

@@ -20,9 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Nut%20(hardware)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nut(Fastener)](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).md) 

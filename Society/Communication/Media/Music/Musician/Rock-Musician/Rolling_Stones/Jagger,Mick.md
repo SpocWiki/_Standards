@@ -168,8 +168,6 @@ IPI_name_number:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mick%20Jagger) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jagger,Mick](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones/Jagger,Mick.md) 

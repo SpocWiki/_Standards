@@ -21,8 +21,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Polyphaga) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polyphaga](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga.md) 

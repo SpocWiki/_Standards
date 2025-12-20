@@ -130,8 +130,6 @@ Krugosvet_article_archived_: istoriya/POL_POT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Pol%20Pot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pol_Pot](/_Standards/Society/Politics/Government/Dictatorship/Dictator/Pol_Pot.md) 

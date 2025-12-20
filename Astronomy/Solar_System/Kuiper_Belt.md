@@ -27,8 +27,6 @@ has_id_wikidata: Q427
 > [Wikipedia](https://en.wikipedia.org/wiki/Kuiper%20belt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kuiper_Belt](/_Standards/Astronomy/Solar_System/Kuiper_Belt.md) 

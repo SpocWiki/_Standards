@@ -48,8 +48,6 @@ subreddit: MilitaryHistory
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20history) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_History](/_Standards/Society/Military/Military_History.md) 

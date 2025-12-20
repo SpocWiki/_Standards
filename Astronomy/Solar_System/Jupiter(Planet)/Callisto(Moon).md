@@ -92,17 +92,17 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Callisto,21789613]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Callisto](/_Standards/Astronomy/Solar_System/Jupiter/Callisto.md) 
+### #is_/same_as :: [Callisto(Moon)](/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).md) 
 
-### #is_/same_as :: [Callisto.public](/_public/Astronomy/Solar_System/Jupiter/Callisto.public.md) 
+### #is_/same_as :: [Callisto(Moon).public](/_public/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).public.md) 
 
-### #is_/same_as :: [Callisto.internal](/_internal/Astronomy/Solar_System/Jupiter/Callisto.internal.md) 
+### #is_/same_as :: [Callisto(Moon).internal](/_internal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).internal.md) 
 
-### #is_/same_as :: [Callisto.protect](/_protect/Astronomy/Solar_System/Jupiter/Callisto.protect.md) 
+### #is_/same_as :: [Callisto(Moon).protect](/_protect/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).protect.md) 
 
-### #is_/same_as :: [Callisto.private](/_private/Astronomy/Solar_System/Jupiter/Callisto.private.md) 
+### #is_/same_as :: [Callisto(Moon).private](/_private/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).private.md) 
 
-### #is_/same_as :: [Callisto.personal](/_personal/Astronomy/Solar_System/Jupiter/Callisto.personal.md) 
+### #is_/same_as :: [Callisto(Moon).personal](/_personal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).personal.md) 
 
-### #is_/same_as :: [Callisto.secret](/_secret/Astronomy/Solar_System/Jupiter/Callisto.secret.md)
+### #is_/same_as :: [Callisto(Moon).secret](/_secret/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).secret.md)
 

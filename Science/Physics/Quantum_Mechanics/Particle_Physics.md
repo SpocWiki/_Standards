@@ -49,8 +49,6 @@ GitHub_topic: particle-physics
 > [Wikipedia](https://en.wikipedia.org/wiki/Particle%20physics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Particle_Physics](/_Standards/Science/Physics/Quantum_Mechanics/Particle_Physics.md) 

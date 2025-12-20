@@ -64,8 +64,6 @@ Colon_Classification: Q:4192
 > [Wikipedia](https://en.wikipedia.org/wiki/Ritual) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ritual](/_Standards/Society/Culture/Tradition/Ritual.md) 

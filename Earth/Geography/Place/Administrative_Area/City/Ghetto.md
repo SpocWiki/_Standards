@@ -34,8 +34,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20N%20157
 > [Wikipedia](https://en.wikipedia.org/wiki/Ghetto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ghetto](/_Standards/Earth/Geography/Place/Administrative_Area/City/Ghetto.md) 

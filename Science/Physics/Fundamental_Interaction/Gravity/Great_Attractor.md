@@ -62,8 +62,6 @@ catalog_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Attractor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Great_Attractor](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Great_Attractor.md) 

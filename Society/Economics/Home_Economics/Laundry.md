@@ -65,8 +65,6 @@ MeSH_tree_code: J01.576.549
 > [Wikipedia](https://en.wikipedia.org/wiki/Laundry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Laundry](/_Standards/Society/Economics/Home_Economics/Laundry.md) 

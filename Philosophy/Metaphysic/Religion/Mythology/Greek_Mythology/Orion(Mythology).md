@@ -42,11 +42,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Orion%20(mythology)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orion(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Orion(Mythology).md) 

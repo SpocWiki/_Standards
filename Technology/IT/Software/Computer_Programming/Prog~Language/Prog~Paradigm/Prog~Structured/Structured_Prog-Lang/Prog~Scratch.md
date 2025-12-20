@@ -43,8 +43,6 @@ Scratch uses 2 Notches to compose Blocks.
 - 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Scratch](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Scratch.md) 

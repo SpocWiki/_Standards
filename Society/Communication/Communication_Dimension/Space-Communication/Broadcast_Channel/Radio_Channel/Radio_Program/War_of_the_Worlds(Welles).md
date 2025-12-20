@@ -66,9 +66,6 @@ Commons_category: The War of the Worlds (radio drama)
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20War%20of%20the%20Worlds%20(1938%20radio%20drama)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [War_of_the_Worlds(Welles)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).md) 

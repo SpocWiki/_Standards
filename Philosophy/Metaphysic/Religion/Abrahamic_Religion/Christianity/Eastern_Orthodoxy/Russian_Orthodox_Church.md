@@ -116,8 +116,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RUSSKAYA_PRAVOSLAVNA
 > [Wikipedia](https://en.wikipedia.org/wiki/Russian%20Orthodox%20Church) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Russian_Orthodox_Church](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.md) 

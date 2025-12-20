@@ -48,8 +48,6 @@ Commons_category: Polarization (waves)
 > [Wikipedia](https://en.wikipedia.org/wiki/Polarization%20(waves)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polarization(Waves)](/_Standards/Science/Physics/Wave/Polarization(Waves).md) 

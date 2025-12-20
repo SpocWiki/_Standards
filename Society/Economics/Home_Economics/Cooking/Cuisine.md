@@ -42,8 +42,6 @@ pronunciation_audio:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cuisine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cuisine](/_Standards/Society/Economics/Home_Economics/Cooking/Cuisine.md) 

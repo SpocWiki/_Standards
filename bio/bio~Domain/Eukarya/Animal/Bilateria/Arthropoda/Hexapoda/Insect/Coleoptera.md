@@ -27,8 +27,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Beetle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coleoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera.md) 

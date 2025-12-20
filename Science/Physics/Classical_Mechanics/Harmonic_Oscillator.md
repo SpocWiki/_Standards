@@ -44,9 +44,6 @@ Commons_category: Harmonic oscillators
 > [Wikipedia](https://en.wikipedia.org/wiki/Harmonic%20oscillator) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Harmonic_Oscillator](/_Standards/Science/Physics/Classical_Mechanics/Harmonic_Oscillator.md) 

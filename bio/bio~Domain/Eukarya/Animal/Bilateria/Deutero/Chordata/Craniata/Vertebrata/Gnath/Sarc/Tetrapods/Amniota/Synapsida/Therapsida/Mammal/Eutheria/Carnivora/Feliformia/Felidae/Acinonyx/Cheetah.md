@@ -125,8 +125,6 @@ taxon_common_name: gepard grzywiasty
 > [Wikipedia](https://en.wikipedia.org/wiki/Cheetah) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cheetah](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Acinonyx/Cheetah.md) 

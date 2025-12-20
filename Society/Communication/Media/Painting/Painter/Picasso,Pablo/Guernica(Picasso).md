@@ -58,8 +58,6 @@ inception: 1937-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Guernica%20(Picasso)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Guernica(Picasso)](/_Standards/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).md) 

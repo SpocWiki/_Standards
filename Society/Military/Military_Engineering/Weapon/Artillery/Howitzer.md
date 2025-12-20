@@ -43,8 +43,6 @@ It was designed to fire into masses of infantry in the [[../../../../../Time-Age
 > [Wikipedia](https://en.wikipedia.org/wiki/Howitzer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Howitzer](/_Standards/Society/Military/Military_Engineering/Weapon/Artillery/Howitzer.md) 

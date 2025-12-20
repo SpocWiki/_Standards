@@ -29,8 +29,6 @@ has_id_wikidata: Q23387
 > [Wikipedia](https://en.wikipedia.org/wiki/Week) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~Week](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.md) 

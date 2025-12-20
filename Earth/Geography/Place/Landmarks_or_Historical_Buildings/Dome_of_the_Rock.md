@@ -114,8 +114,6 @@ demonym:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dome%20of%20the%20Rock)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dome_of_the_Rock](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.md) 

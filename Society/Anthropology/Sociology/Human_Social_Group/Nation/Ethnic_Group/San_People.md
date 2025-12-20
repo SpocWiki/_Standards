@@ -62,10 +62,6 @@ Commons_category: San people
 > [Wikipedia](https://en.wikipedia.org/wiki/San%20people) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [San_People](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/San_People.md) 

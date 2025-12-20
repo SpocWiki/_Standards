@@ -65,8 +65,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/18th%20National%20Cong
 > [Wikipedia](https://en.wikipedia.org/wiki/One-party%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Single-Party_System](/_Standards/Society/Politics/Government/Single-Party_System.md) 

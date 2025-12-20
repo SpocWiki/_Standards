@@ -52,8 +52,6 @@ OpenStreetMap_tag_or_key: Tag:source=GPS
 > [Wikipedia](https://en.wikipedia.org/wiki/Global%20Positioning%20System) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GPS(Global_Positioning_System)](/_Standards/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).md) 

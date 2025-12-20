@@ -59,8 +59,6 @@ Commons_category: H II regions
 > [Wikipedia](https://en.wikipedia.org/wiki/H%20II%20region) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [H_II_Region](/_Standards/Astronomy/Interstellar_Medium/H_II_Region.md) 

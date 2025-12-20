@@ -34,11 +34,6 @@ has_id_wikidata: Q201405
 > [Wikipedia](https://en.wikipedia.org/wiki/Renaissance%20music) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1450-Renaissance_Music+1550](/_Standards/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550.md) 

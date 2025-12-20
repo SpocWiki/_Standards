@@ -60,8 +60,6 @@ Dewey_Decimal_Classification: "516.246"
 > [Wikipedia](https://en.wikipedia.org/wiki/Trigonometric%20functions) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trigonometric_Function](/_Standards/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry/Trigonometric_Function.md) 

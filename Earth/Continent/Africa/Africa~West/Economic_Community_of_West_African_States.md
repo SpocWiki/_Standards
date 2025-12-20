@@ -119,8 +119,6 @@ native_label: Westafrikanische Wirtschaftsgemeinschaft
 > [Wikipedia](https://en.wikipedia.org/wiki/ECOWAS) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Economic_Community_of_West_African_States](/_Standards/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.md) 

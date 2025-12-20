@@ -54,8 +54,6 @@ EU_VAT_number: TR5090025968
 > [Wikipedia](https://en.wikipedia.org/wiki/Organization%20of%20the%20Black%20Sea%20Economic%20Cooperation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)](/_Standards/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).md) 

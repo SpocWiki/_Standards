@@ -73,8 +73,6 @@ Commons_category: Hydrochloric acid
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrochloric%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hydrochloric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.md) 

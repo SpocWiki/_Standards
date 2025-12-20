@@ -54,8 +54,6 @@ Commons_category: Emirs
 > [Wikipedia](https://en.wikipedia.org/wiki/Emir) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Emir](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.md) 

@@ -43,8 +43,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cognitive%20psychology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cognitive_Psychology](/_Standards/bio/Psychology/Cognition/Cognitive_Psychology.md) 

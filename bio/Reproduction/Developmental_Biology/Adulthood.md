@@ -56,8 +56,6 @@ female_form_of_label: доросла
 > [Wikipedia](https://en.wikipedia.org/wiki/Adult) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Adulthood](/_Standards/bio/Reproduction/Developmental_Biology/Adulthood.md) 

@@ -125,8 +125,6 @@ date_of_birth: 1368-02-22T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Sigismund,%20Holy%20Roman%20Emperor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sigismund,Holy_Roman_Emperor](/_Standards/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.md) 

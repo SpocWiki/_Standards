@@ -121,8 +121,6 @@ date_of_birth: 1805-08-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Rowan%20Hamilton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hamilton,William_Rowan](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hamilton,William_Rowan.md) 

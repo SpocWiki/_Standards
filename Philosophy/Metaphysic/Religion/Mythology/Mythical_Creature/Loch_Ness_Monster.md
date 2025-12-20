@@ -45,8 +45,6 @@ coordinate_location: Point(-4.57059 57.2144)
 > [Wikipedia](https://en.wikipedia.org/wiki/Loch%20Ness%20Monster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Loch_Ness_Monster](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.md) 

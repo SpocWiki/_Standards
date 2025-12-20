@@ -28,8 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Similarity%20(geometry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Similarity](/_Standards/Mathematics/Geometry/Similarity.md) 

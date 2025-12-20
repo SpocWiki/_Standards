@@ -47,8 +47,6 @@ Commons_category: Euphoniums
 > [Wikipedia](https://en.wikipedia.org/wiki/Euphonium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euphonium](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.md) 

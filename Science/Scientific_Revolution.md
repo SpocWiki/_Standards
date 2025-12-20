@@ -25,8 +25,6 @@ Commons_category: Scientific revolution
 > [Wikipedia](https://en.wikipedia.org/wiki/Scientific%20Revolution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scientific_Revolution](/_Standards/Science/Scientific_Revolution.md) 

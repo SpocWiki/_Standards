@@ -159,8 +159,6 @@ ISNI: "0000000122810969"
 > [Wikipedia](https://en.wikipedia.org/wiki/Rainer%20Werner%20Fassbinder) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fassbinder,Rainer_Werner](/_Standards/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.md) 

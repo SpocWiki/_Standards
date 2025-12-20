@@ -90,8 +90,6 @@ Commons_category: Gears
 > [Wikipedia](https://en.wikipedia.org/wiki/Gear) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cogwheel](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.md) 

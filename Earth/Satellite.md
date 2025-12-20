@@ -66,8 +66,6 @@ With P the first letter of the Planet it orbits.
 > [Wikipedia](https://en.wikipedia.org/wiki/Satellite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Satellite](/_Standards/Earth/Satellite.md) 

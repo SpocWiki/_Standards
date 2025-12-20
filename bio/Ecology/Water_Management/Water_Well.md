@@ -109,8 +109,6 @@ OpenStreetMap_tag: man_made=water_well
 > [Wikipedia](https://en.wikipedia.org/wiki/Well) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Water_Well](/_Standards/bio/Ecology/Water_Management/Water_Well.md) 

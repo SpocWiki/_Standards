@@ -55,8 +55,6 @@ Commons_category: Ostrogoths
 > [Wikipedia](https://en.wikipedia.org/wiki/Ostrogoths) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ostrogoth](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.md) 

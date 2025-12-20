@@ -34,8 +34,6 @@ UMLS_CUI: C1902798
 > [Wikipedia](https://en.wikipedia.org/wiki/Solanaceae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solaneae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae.md) 

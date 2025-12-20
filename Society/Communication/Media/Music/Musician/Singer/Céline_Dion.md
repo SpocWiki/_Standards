@@ -55,8 +55,6 @@ has_id_wikidata: Q5105
 > [Wikipedia](https://en.wikipedia.org/wiki/Celine%20Dion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Céline_Dion](/_Standards/Society/Communication/Media/Music/Musician/Singer/Céline_Dion.md) 

@@ -66,9 +66,6 @@ date_of_death: 1929-11-17T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Herman%20Hollerith) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hollerith,Herman](/_Standards/Technology/IT/Computer_Hardware/Hollerith,Herman.md) 

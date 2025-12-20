@@ -110,8 +110,6 @@ domain_name: stellantis.com
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellantis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stellantis](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Stellantis.md) 

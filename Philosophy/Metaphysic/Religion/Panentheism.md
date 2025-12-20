@@ -27,8 +27,6 @@ PhilPapers_topic: panentheism
 > [Wikipedia](https://en.wikipedia.org/wiki/Panentheism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Panentheism](/_Standards/Philosophy/Metaphysic/Religion/Panentheism.md) 

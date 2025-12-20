@@ -59,8 +59,6 @@ Commons_category: Choirs
 > [Wikipedia](https://en.wikipedia.org/wiki/Choir) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Choir](/_Standards/Society/Communication/Media/Music/Musician/Choir.md) 

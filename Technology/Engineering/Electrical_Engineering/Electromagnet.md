@@ -37,8 +37,6 @@ Commons_gallery: Electromagnet
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electromagnet](/_Standards/Technology/Engineering/Electrical_Engineering/Electromagnet.md) 

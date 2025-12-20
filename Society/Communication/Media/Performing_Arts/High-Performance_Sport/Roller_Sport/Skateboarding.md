@@ -53,8 +53,6 @@ OpenStreetMap_tag: sport=skateboard
 > [Wikipedia](https://en.wikipedia.org/wiki/Skateboarding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Skateboarding](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Skateboarding.md) 

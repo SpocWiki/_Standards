@@ -49,8 +49,6 @@ coordinate_location: Point(-28.4 38.466667)
 > [Wikipedia](https://en.wikipedia.org/wiki/Mid-Atlantic%20Ridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mid-Atlantic_Ridge](/_Standards/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.md) 

@@ -31,8 +31,6 @@ Commons_category: Petroleum engineering
 > [Wikipedia](https://en.wikipedia.org/wiki/Petroleum%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Petroleum_Engineering](/_Standards/Society/Economics/Industry/Oil_Industry/Petroleum_Engineering.md) 

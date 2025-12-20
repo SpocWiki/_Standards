@@ -63,8 +63,6 @@ Wolfram_Language_entity_type: PlanetaryMoon
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20satellite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Natural_Satellite](/_Standards/Earth/Satellite/Natural_Satellite.md) 

@@ -61,8 +61,6 @@ Dewey_Decimal_Classification: "573.655"
 > [Wikipedia](https://en.wikipedia.org/wiki/Testicle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Testicle](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex_Organ/Testicle.md) 

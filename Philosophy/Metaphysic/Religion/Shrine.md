@@ -40,8 +40,6 @@ OpenStreetMap_tag: building=shrine
 > [Wikipedia](https://en.wikipedia.org/wiki/Shrine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shrine](/_Standards/Philosophy/Metaphysic/Religion/Shrine.md) 

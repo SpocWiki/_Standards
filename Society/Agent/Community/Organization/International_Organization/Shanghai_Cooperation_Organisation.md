@@ -30,8 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Shanghai%20Cooperation%20Organisation)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shanghai_Cooperation_Organisation](/_Standards/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.md) 

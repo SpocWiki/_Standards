@@ -51,8 +51,6 @@ IPTC_NewsCode: mediatopic/20000779
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sexism](/_Standards/Society/Social_Issues/Discrimination/Sexism.md) 

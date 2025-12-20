@@ -123,8 +123,6 @@ OpenStreetMap_tag: route=railway
 > [Wikipedia](https://en.wikipedia.org/wiki/Rail%20transport) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Railway](/_Standards/Technology/Transport/Rail_Transport/Railway.md) 

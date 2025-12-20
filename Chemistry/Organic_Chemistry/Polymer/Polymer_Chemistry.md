@@ -15,8 +15,6 @@ has_id_wikidata: Q750446
 > [Wikipedia](https://en.wikipedia.org/wiki/Polymer%20chemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polymer_Chemistry](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.md) 

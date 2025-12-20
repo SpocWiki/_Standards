@@ -12,10 +12,6 @@ let _local: DateTime<Local> = Local::now();
 ```
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~chrono](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~chrono.md) 

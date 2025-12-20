@@ -49,8 +49,6 @@ Commons_category: Precipitation (weather)
 > [Wikipedia](https://en.wikipedia.org/wiki/Precipitation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Precipitation](/_Standards/Earth/Climate/Weather/Precipitation.md) 

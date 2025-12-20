@@ -101,8 +101,6 @@ Commons_category: Dental caries
 > [Wikipedia](https://en.wikipedia.org/wiki/Tooth%20decay) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dental_Caries](/_Standards/bio/Medicine/Dentistry/Dental_Caries.md) 

@@ -39,8 +39,6 @@ Krugosvet_article_archived_: istoriya/ostrakizm
 > [Wikipedia](https://en.wikipedia.org/wiki/Ostracism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ostracism](/_Standards/Society/Law/Ostracism.md) 

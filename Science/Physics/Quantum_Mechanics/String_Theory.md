@@ -99,8 +99,6 @@ Commons_category: String theory
 > [Wikipedia](https://en.wikipedia.org/wiki/String%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [String_Theory](/_Standards/Science/Physics/Quantum_Mechanics/String_Theory.md) 

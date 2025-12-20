@@ -26,10 +26,6 @@ Commons_category: Laminar flow
 > [Wikipedia](https://en.wikipedia.org/wiki/Laminar%20flow) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Laminar_Flow](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Laminar_Flow.md) 

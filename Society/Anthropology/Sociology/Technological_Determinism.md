@@ -27,8 +27,6 @@ Commons_category: Technology
 > [Wikipedia](https://en.wikipedia.org/wiki/Technological%20determinism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Technological_Determinism](/_Standards/Society/Anthropology/Sociology/Technological_Determinism.md) 

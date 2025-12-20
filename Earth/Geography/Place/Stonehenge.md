@@ -92,8 +92,6 @@ Dewey_Decimal_Classification: "936.231"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stonehenge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stonehenge](/_Standards/Earth/Geography/Place/Stonehenge.md) 

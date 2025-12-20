@@ -75,8 +75,6 @@ Baidu_Tieba_name: 婚礼
 > [Wikipedia](https://en.wikipedia.org/wiki/Wedding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wedding](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Wedding.md) 

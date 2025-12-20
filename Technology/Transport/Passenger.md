@@ -53,8 +53,6 @@ Wolfram_Language_unit_code: '"Passengers"'
 > [Wikipedia](https://en.wikipedia.org/wiki/Passenger)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Passenger](/_Standards/Technology/Transport/Passenger.md) 

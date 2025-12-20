@@ -57,8 +57,6 @@ short_name: OTASE
 > [Wikipedia](https://en.wikipedia.org/wiki/Southeast%20Asia%20Treaty%20Organization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Southeast_Asia_Treaty_Organization](/_Standards/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.md) 

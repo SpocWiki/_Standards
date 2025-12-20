@@ -67,8 +67,6 @@ OpenStreetMap_key: traffic_sign
 > [Wikipedia](https://en.wikipedia.org/wiki/Traffic%20sign) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Traffic_Sign](/_Standards/Technology/Transport/Road_Transport/Traffic/Traffic_Sign.md) 

@@ -63,8 +63,6 @@ GenBank_assembly_accession_number: GCA_000004335.1
 > [Wikipedia](https://en.wikipedia.org/wiki/Giant%20panda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Giant_Panda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae/Giant_Panda.md) 

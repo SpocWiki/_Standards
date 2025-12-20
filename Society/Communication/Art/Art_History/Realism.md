@@ -50,8 +50,6 @@ Commons_category: Realism
 > [Wikipedia](https://en.wikipedia.org/wiki/Realism%20(arts)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Realism](/_Standards/Society/Communication/Art/Art_History/Realism.md) 

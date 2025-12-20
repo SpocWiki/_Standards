@@ -137,17 +137,17 @@ Wolfram_Language_entity_code: "Entity[\"MinorPlanet\", \"Pluto\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pluto(Planet)](Pluto(Planet).md) 
+### #is_/same_as :: [Pluto(Planet)](/_Standards/Astronomy/Solar_System/Pluto(Planet).md) 
 
-### #is_/same_as :: [Pluto.public](/_public/Astronomy/Solar_System/Pluto.public.md) 
+### #is_/same_as :: [Pluto(Planet).public](/_public/Astronomy/Solar_System/Pluto(Planet).public.md) 
 
-### #is_/same_as :: [Pluto.internal](/_internal/Astronomy/Solar_System/Pluto.internal.md) 
+### #is_/same_as :: [Pluto(Planet).internal](/_internal/Astronomy/Solar_System/Pluto(Planet).internal.md) 
 
-### #is_/same_as :: [Pluto.protect](/_protect/Astronomy/Solar_System/Pluto.protect.md) 
+### #is_/same_as :: [Pluto(Planet).protect](/_protect/Astronomy/Solar_System/Pluto(Planet).protect.md) 
 
-### #is_/same_as :: [Pluto.private](/_private/Astronomy/Solar_System/Pluto.private.md) 
+### #is_/same_as :: [Pluto(Planet).private](/_private/Astronomy/Solar_System/Pluto(Planet).private.md) 
 
-### #is_/same_as :: [Pluto.personal](/_personal/Astronomy/Solar_System/Pluto.personal.md) 
+### #is_/same_as :: [Pluto(Planet).personal](/_personal/Astronomy/Solar_System/Pluto(Planet).personal.md) 
 
-### #is_/same_as :: [Pluto.secret](/_secret/Astronomy/Solar_System/Pluto.secret.md)
+### #is_/same_as :: [Pluto(Planet).secret](/_secret/Astronomy/Solar_System/Pluto(Planet).secret.md)
 

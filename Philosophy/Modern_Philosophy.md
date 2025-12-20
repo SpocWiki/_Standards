@@ -29,8 +29,6 @@ Provenio_UUID: af3bd97e-9be8-4c91-ad5e-f5b1826d2335
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20philosophy)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modern_Philosophy](/_Standards/Philosophy/Modern_Philosophy.md) 

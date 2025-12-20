@@ -144,8 +144,6 @@ Legal_Entity_Identifier: 253400QS6NB20B1EVG74
 > [Wikipedia](https://en.wikipedia.org/wiki/Yandex) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Yandex](/_Standards/Technology/IT/Software/Search_Engine/Yandex.md) 

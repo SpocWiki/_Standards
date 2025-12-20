@@ -41,8 +41,6 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/icons
 > [Wikipedia](https://en.wikipedia.org/wiki/Icon%20(computing)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Icon(Computing)](/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing).md) 

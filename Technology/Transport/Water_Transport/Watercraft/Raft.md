@@ -39,8 +39,6 @@ Commons_category: Rafts
 > [Wikipedia](https://en.wikipedia.org/wiki/Raft) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Raft](/_Standards/Technology/Transport/Water_Transport/Watercraft/Raft.md) 

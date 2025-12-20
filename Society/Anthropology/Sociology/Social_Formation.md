@@ -38,9 +38,6 @@ facet_of: "[[_Standards/WikiData/WD~society,8425]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20formation) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Formation](/_Standards/Society/Anthropology/Sociology/Social_Formation.md) 

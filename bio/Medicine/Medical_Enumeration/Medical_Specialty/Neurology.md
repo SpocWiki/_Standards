@@ -56,8 +56,6 @@ OpenStreetMap_tag: healthcare:speciality=neurology
 > [Wikipedia](https://en.wikipedia.org/wiki/Neurology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neurology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.md) 

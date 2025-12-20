@@ -44,8 +44,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Shamanism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shamanism](/_Standards/Philosophy/Metaphysic/Supernatural/Shamanism.md) 

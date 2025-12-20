@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cosmology](/_Standards/Astronomy/Universe/Cosmology.md) 

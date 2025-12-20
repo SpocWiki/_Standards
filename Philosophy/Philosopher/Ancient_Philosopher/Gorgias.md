@@ -16,8 +16,6 @@ has_id_wikidata: Q179785
 > [Wikipedia](https://en.wikipedia.org/wiki/Gorgias) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gorgias](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Gorgias.md) 

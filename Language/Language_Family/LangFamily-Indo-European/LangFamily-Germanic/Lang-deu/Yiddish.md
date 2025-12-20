@@ -156,8 +156,6 @@ described_at_URL: https://www.oxfordbibliographies.com/display/document/obo-9780
 > [Wikipedia](https://en.wikipedia.org/wiki/Yiddish) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Yiddish](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu/Yiddish.md) 

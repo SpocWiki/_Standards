@@ -45,8 +45,6 @@ image:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lintel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lintel](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.md) 

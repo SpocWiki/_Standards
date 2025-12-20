@@ -28,11 +28,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Arnold%20Vosloo) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vosloo,Arnold](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.md) 

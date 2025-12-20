@@ -64,8 +64,6 @@ Commons_category: Scalar product
 > [Wikipedia](https://en.wikipedia.org/wiki/Dot%20product) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scalar_Product](/_Standards/Mathematics/Geometry/Vector/Scalar_Product.md) 

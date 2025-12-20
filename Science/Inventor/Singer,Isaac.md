@@ -78,8 +78,6 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/27389
 > [Wikipedia](https://en.wikipedia.org/wiki/Isaac%20Singer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Singer,Isaac](/_Standards/Science/Inventor/Singer,Isaac.md) 

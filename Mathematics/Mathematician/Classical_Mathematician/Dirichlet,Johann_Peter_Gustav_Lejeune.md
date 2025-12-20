@@ -127,8 +127,6 @@ birth_name: Johann Peter Gustav Lejeune Dirichlet
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Gustav%20Lejeune%20Dirichlet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dirichlet,Johann_Peter_Gustav_Lejeune](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Dirichlet,Johann_Peter_Gustav_Lejeune.md) 

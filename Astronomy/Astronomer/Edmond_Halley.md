@@ -37,8 +37,6 @@ has_id_wikidata: Q47434
 > [Wikipedia](https://en.wikipedia.org/wiki/Edmond%20Halley) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Edmond_Halley](/_Standards/Astronomy/Astronomer/Edmond_Halley.md) 

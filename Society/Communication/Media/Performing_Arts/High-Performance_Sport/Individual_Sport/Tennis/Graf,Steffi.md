@@ -109,8 +109,6 @@ doubles_record: 173–72
 > [Wikipedia](https://en.wikipedia.org/wiki/Steffi%20Graf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Graf,Steffi](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Graf,Steffi.md) 

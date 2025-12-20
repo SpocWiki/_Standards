@@ -91,8 +91,6 @@ official_website: https://lindaronstadt.com/
 > [Wikipedia](https://en.wikipedia.org/wiki/Linda%20Ronstadt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ronstadt,Linda](/_Standards/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.md) 

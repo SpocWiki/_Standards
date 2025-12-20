@@ -33,8 +33,6 @@ has_part_s_of_the_class: "[[_Standards/WikiData/WD~star,523]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20association) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stellar_Association](/_Standards/Astronomy/Star_System/Star_Cluster/Stellar_Association.md) 

@@ -39,8 +39,6 @@ has_id_wikidata: Q2377336
 > [Wikipedia](https://en.wikipedia.org/wiki/Multivector) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [MultiVector](/_Standards/Mathematics/Geometry/Geometric_Algebra/MultiVector.md) 

@@ -50,8 +50,6 @@ Commons_category: Herbivores
 > [Wikipedia](https://en.wikipedia.org/wiki/Herbivore) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Herbivore](/_Standards/bio/Metabolism/Herbivore.md) 

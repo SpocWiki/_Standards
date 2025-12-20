@@ -56,8 +56,6 @@ IMDb_keyword: special-effects
 > [Wikipedia](https://en.wikipedia.org/wiki/Special%20effect) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Special_Effects](/_Standards/Society/Communication/Media/Movie/Special_Effects.md) 

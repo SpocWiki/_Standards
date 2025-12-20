@@ -89,10 +89,6 @@ street_address: Neuschwansteinstraße 20, 87645 Hohenschwangau
 > [Wikipedia](https://en.wikipedia.org/wiki/Neuschwanstein%20Castle) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neuschwanstein_Castle](/_Standards/Earth/Geography/Place/Neuschwanstein_Castle.md) 

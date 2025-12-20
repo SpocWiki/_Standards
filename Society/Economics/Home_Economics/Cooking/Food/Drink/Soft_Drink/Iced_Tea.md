@@ -44,8 +44,6 @@ Commons_category: Iced tea
 > [Wikipedia](https://en.wikipedia.org/wiki/Iced%20tea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Iced_Tea](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.md) 

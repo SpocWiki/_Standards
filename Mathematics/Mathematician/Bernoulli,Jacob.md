@@ -111,8 +111,6 @@ date_of_birth:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacob%20Bernoulli) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bernoulli,Jacob](/_Standards/Mathematics/Mathematician/Bernoulli,Jacob.md) 

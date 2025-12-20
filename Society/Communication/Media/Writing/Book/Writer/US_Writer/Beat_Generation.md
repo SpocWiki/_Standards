@@ -70,8 +70,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ginsberg-leary-lilly.j
 > [Wikipedia](https://en.wikipedia.org/wiki/Beat%20Generation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Beat_Generation](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.md) 

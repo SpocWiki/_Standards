@@ -67,8 +67,6 @@ Unicode_character: 🪁
 > [Wikipedia](https://en.wikipedia.org/wiki/Kite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kite](/_Standards/Technology/Aviation/Kite.md) 

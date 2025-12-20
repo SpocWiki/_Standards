@@ -27,8 +27,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Handels
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade%20war) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trade_War](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_War.md) 

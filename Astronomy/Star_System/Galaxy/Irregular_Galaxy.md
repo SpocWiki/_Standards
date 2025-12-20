@@ -21,8 +21,6 @@ Commons_category: Irregular galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Irregular%20galaxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Irregular_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Irregular_Galaxy.md) 

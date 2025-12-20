@@ -61,8 +61,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ANTROPONIMIKA.html
 | South Slavic           | -ić / -vić     | “descendant of” | Petrović ("descendant of Petar") | Serbia, Croatia, Bosnia |  1300 |
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Anthroponymy](/_Standards/Language/Onomastics/Anthroponymy.md) 

@@ -28,7 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Command-line%20interface)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CLI(Command-Line_Interface)](/_Standards/Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/CLI(Command-Line_Interface).md) 

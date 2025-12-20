@@ -83,8 +83,6 @@ Wolfram_Language_entity_code: Entity["AnatomicalStructure", "Clitoris"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Clitoris) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clitoris](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.md) 

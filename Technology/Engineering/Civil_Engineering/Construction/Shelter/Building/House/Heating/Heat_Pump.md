@@ -57,8 +57,6 @@ subreddit: heatpumps
 > [Wikipedia](https://en.wikipedia.org/wiki/Heat%20pump) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heat_Pump](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating/Heat_Pump.md) 

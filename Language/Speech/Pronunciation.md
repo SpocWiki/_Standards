@@ -41,9 +41,6 @@ Commons_category: Pronunciation
 > [Wikipedia](https://en.wikipedia.org/wiki/Pronunciation) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pronunciation](/_Standards/Language/Speech/Pronunciation.md) 

@@ -1,8 +1,6 @@
 Affected by Quantum Algorithm 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Elliptic_Curve](/_Standards/Technology/IT/Data/Code/Encoding/Encryption/Elliptic_Curve.md) 

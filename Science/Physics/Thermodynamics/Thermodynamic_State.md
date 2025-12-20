@@ -28,8 +28,6 @@ has_characteristic: "[[_Standards/WikiData/WD~thermodynamic_equilibrium,51363]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermodynamic%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thermodynamic_State](/_Standards/Science/Physics/Thermodynamics/Thermodynamic_State.md) 

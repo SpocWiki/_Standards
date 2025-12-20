@@ -40,8 +40,6 @@ Dewey_Decimal_Classification: "784.1843"
 > [Wikipedia](https://en.wikipedia.org/wiki/Symphonic%20poem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Symphonic_Poem](/_Standards/Society/Communication/Media/Music/Music_Genre/Symphonic_Poem.md) 

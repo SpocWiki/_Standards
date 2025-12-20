@@ -83,8 +83,6 @@ Commons_gallery: Sierra Nevada, USA
 > [Wikipedia](https://en.wikipedia.org/wiki/Sierra%20Nevada) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sierra_Nevada](/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.md) 

@@ -66,8 +66,6 @@ Wikidata_usage_instructions: brukes for menneske Q5 med verdi har rolle  P12868
 > [Wikipedia](https://en.wikipedia.org/wiki/Refugee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Refugee](/_Standards/UN(United_Nations)/UNHCR/Refugee.md) 

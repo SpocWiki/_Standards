@@ -36,8 +36,6 @@ PhilPapers_topic: history-of-psychology
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20psychology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Psychology](/_Standards/bio/Psychology/History_of_Psychology.md) 

@@ -117,8 +117,6 @@ official_name: arab
 > [Wikipedia](https://en.wikipedia.org/wiki/Ramadan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ramadan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ramadan.md) 

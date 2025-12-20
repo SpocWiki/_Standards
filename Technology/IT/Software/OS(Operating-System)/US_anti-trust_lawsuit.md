@@ -49,8 +49,6 @@ into seven [regional Bell operating companies](https://en.wikipedia.org/wiki/Reg
 and a much smaller new version of [AT&T](https://en.wikipedia.org/wiki/AT%26T "AT&T"). 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [US_anti-trust_lawsuit](/_Standards/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.md) 

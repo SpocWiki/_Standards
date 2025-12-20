@@ -37,12 +37,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Adam%20Lambert)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lambert,Adam](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Lambert,Adam.md) 

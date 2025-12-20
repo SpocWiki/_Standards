@@ -31,8 +31,6 @@ Commons_category: Rationalism
 > [Wikipedia](https://en.wikipedia.org/wiki/Rationalism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rationalism](/_Standards/Philosophy/Epistemology/Rationalism.md) 

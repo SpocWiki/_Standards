@@ -42,9 +42,6 @@ Gujarati_Vishwakosh_entry: અક્ષાંશ-રેખાંશ
 > [Wikipedia](https://en.wikipedia.org/wiki/Geographic%20coordinate%20system) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geographic_Coordinate_System](/_Standards/Earth/Geography/Geographic_Coordinate_System.md) 

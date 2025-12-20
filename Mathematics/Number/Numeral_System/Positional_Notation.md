@@ -31,8 +31,6 @@ Commons_category: Positional numeral systems
 > [Wikipedia](https://en.wikipedia.org/wiki/Positional%20notation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Positional_Notation](/_Standards/Mathematics/Number/Numeral_System/Positional_Notation.md) 

@@ -34,8 +34,6 @@ Commons_category: Turkish coffee
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20coffee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turkish_Coffee](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.md) 

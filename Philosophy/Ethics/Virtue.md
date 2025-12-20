@@ -66,8 +66,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Virtue) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Virtue](/_Standards/Philosophy/Ethics/Virtue.md) 

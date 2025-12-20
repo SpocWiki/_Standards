@@ -80,8 +80,6 @@ Commons_category: Mosaics
 > [Wikipedia](https://en.wikipedia.org/wiki/Mosaic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mosaic](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Mosaic.md) 

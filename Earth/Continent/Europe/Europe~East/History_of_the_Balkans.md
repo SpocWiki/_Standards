@@ -26,8 +26,6 @@ Commons_category: History of the Balkans
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20Balkans) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_the_Balkans](/_Standards/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.md) 

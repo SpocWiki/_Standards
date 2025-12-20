@@ -96,7 +96,6 @@ now require 3 Delegates to handle the alternatives
 and all implementations have to be re-compiled. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sum-Type](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.md) 

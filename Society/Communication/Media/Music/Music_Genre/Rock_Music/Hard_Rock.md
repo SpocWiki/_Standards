@@ -35,8 +35,6 @@ native_label: Hard rock
 > [Wikipedia](https://en.wikipedia.org/wiki/Hard%20rock) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hard_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Hard_Rock.md) 

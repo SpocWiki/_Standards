@@ -80,8 +80,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Parallax::p39b8"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Parallax) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parallax](/_Standards/Science/Physics/Wave/Optics/Camera/Parallax.md) 

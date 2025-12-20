@@ -153,8 +153,6 @@ ISNI: "0000000120955240"
 > [Wikipedia](https://en.wikipedia.org/wiki/Grace%20Kelly) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grace_Kelly](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.md) 

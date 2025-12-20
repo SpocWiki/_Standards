@@ -96,8 +96,6 @@ noteOnly: true
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Apple_Inc](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc.md) 

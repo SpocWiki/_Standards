@@ -52,9 +52,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GIROSK
 > [Wikipedia](https://en.wikipedia.org/wiki/Gyroscope) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gyroscope](/_Standards/Technology/Tool/Instrumentation/Gyroscope.md) 

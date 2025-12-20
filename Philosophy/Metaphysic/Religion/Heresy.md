@@ -54,8 +54,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ERES.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Heresy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heresy](/_Standards/Philosophy/Metaphysic/Religion/Heresy.md) 

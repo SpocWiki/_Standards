@@ -80,8 +80,6 @@ name_in_native_language: Wallace Hume Carothers
 > [Wikipedia](https://en.wikipedia.org/wiki/Wallace%20Carothers) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Carothers,Wallace](/_Standards/Chemistry/Chemist/Carothers,Wallace.md) 

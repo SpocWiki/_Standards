@@ -97,22 +97,19 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Triton"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Triton%20(moon)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triton(Moon)](Triton(Moon).md) 
+### #is_/same_as :: [Triton(Moon)](/_Standards/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).md) 
 
-### #is_/same_as :: [Triton(Moon).public](/_public/Astronomy/Solar_System/Neptune/Triton(Moon).public.md) 
+### #is_/same_as :: [Triton(Moon).public](/_public/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).public.md) 
 
-### #is_/same_as :: [Triton(Moon).internal](/_internal/Astronomy/Solar_System/Neptune/Triton(Moon).internal.md) 
+### #is_/same_as :: [Triton(Moon).internal](/_internal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).internal.md) 
 
-### #is_/same_as :: [Triton(Moon).protect](/_protect/Astronomy/Solar_System/Neptune/Triton(Moon).protect.md) 
+### #is_/same_as :: [Triton(Moon).protect](/_protect/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).protect.md) 
 
-### #is_/same_as :: [Triton(Moon).private](/_private/Astronomy/Solar_System/Neptune/Triton(Moon).private.md) 
+### #is_/same_as :: [Triton(Moon).private](/_private/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).private.md) 
 
-### #is_/same_as :: [Triton(Moon).personal](/_personal/Astronomy/Solar_System/Neptune/Triton(Moon).personal.md) 
+### #is_/same_as :: [Triton(Moon).personal](/_personal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).personal.md) 
 
-### #is_/same_as :: [Triton(Moon).secret](/_secret/Astronomy/Solar_System/Neptune/Triton(Moon).secret.md)
+### #is_/same_as :: [Triton(Moon).secret](/_secret/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).secret.md)
 

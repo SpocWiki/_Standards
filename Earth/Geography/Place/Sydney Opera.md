@@ -101,8 +101,6 @@ Commons_gallery: Sydney Opera House
 > [Wikipedia](https://en.wikipedia.org/wiki/Sydney%20Opera%20House) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sydney Opera](/_Standards/Earth/Geography/Place/Sydney Opera.md) 

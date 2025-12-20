@@ -25,8 +25,6 @@ Commons_category: Cell wall
 > [Wikipedia](https://en.wikipedia.org/wiki/Cell%20wall) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cell_Wall](/_Standards/bio/Cell(Biology)/Cell_Wall.md) 

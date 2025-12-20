@@ -152,9 +152,6 @@ It increases Brain Plasticity and thus allows to resolve ruminations.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ketamine) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ketamine](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia/Ketamine.md) 

@@ -74,8 +74,6 @@ Commons_category: Prime numbers
 > [Wikipedia](https://en.wikipedia.org/wiki/Prime%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prime_Number](/_Standards/Mathematics/Number_Theory/Prime_Number.md) 

@@ -46,8 +46,6 @@ Iconclass_notation: 41C119
 > [Wikipedia](https://en.wikipedia.org/wiki/Hunger) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hunger](/_Standards/bio/Metabolism/Nutrition/Hunger.md) 

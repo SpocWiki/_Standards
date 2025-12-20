@@ -27,9 +27,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Magical%20Number%20Seven,%20Plus%20or%20Minus%20Two)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magical_Number_Seven](/_Standards/bio/Psychology/Cognition/Magical_Number_Seven.md) 

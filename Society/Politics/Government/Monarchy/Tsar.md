@@ -83,9 +83,6 @@ native_label: Цьръ
 > [Wikipedia](https://en.wikipedia.org/wiki/Tsar) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tsar](/_Standards/Society/Politics/Government/Monarchy/Tsar.md) 

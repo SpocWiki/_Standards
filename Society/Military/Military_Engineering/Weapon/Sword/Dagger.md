@@ -56,9 +56,6 @@ Unicode_character: 🗡
 > [Wikipedia](https://en.wikipedia.org/wiki/Dagger) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dagger](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Dagger.md) 

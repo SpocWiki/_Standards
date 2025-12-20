@@ -35,8 +35,6 @@ Commons_category: Solar calendars
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Solar_Calendar](/_Standards/ISO/Calendar/Solar_Calendar.md) 

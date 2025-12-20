@@ -48,8 +48,6 @@ Commons_gallery: National anthem
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20anthem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [National_Anthem](/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Anthem.md) 

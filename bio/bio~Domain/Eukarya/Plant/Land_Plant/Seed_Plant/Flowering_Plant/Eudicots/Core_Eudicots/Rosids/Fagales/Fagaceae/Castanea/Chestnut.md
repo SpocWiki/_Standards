@@ -17,8 +17,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chestnut) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chestnut](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea/Chestnut.md) 

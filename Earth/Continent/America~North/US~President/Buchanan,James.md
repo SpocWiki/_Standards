@@ -32,8 +32,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]] ] [created:: 1857-03-04]  [cancelled:: 1861-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Buchanan,James](/_Standards/Earth/Continent/America~North/US~President/Buchanan,James.md) 

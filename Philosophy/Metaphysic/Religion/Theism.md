@@ -26,8 +26,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Theism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theism](/_Standards/Philosophy/Metaphysic/Religion/Theism.md) 

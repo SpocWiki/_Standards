@@ -41,8 +41,6 @@ Commons_category: Geologic formations
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20rock%20formations) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rock_Formation](/_Standards/Earth/Geology/Rock_Formation.md) 

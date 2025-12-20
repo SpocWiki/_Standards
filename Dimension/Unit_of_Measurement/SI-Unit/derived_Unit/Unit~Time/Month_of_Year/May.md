@@ -105,8 +105,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/May-banner-01.jp
 > [Wikipedia](https://en.wikipedia.org/wiki/May) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [May](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/May.md) 

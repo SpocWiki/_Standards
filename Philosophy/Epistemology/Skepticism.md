@@ -57,8 +57,6 @@ Commons_category: Skepticism
 > [Wikipedia](https://en.wikipedia.org/wiki/Skepticism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Skepticism](/_Standards/Philosophy/Epistemology/Skepticism.md) 

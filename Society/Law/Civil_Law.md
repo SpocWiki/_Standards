@@ -46,8 +46,6 @@ P8189: "987007283805505171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20law%20(common%20law)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Civil_Law](/_Standards/Society/Law/Civil_Law.md) 

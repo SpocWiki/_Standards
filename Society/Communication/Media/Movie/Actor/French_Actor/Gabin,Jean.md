@@ -90,8 +90,6 @@ date_of_birth: 1904-05-17T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean%20Gabin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gabin,Jean](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Gabin,Jean.md) 

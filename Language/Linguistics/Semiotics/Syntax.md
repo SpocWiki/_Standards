@@ -46,8 +46,6 @@ Krugosvet_article_archived_: lingvistika/sintaksis
 > [Wikipedia](https://en.wikipedia.org/wiki/Syntax) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Syntax](/_Standards/Language/Linguistics/Semiotics/Syntax.md) 

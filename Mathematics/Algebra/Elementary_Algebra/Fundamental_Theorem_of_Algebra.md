@@ -49,8 +49,6 @@ Commons_category: Fundamental theorem of algebra
 > [Wikipedia](https://en.wikipedia.org/wiki/Fundamental%20theorem%20of%20algebra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fundamental_Theorem_of_Algebra](/_Standards/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.md) 

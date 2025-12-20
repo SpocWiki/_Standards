@@ -90,7 +90,6 @@ Markets offer a way for the State to raise Taxes.
 The other way is Wealth Tax. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Market](/_Standards/Society/Economics/Economic_Activity/Trade/Market.md) 

@@ -53,8 +53,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Habitat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Habitat](/_Standards/bio/Ecology/Habitat.md) 

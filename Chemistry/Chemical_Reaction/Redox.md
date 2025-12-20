@@ -49,8 +49,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Redox) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Redox](/_Standards/Chemistry/Chemical_Reaction/Redox.md) 

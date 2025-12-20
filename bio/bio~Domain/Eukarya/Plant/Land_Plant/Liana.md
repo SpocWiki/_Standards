@@ -37,8 +37,6 @@ Commons_category: Lianas
 > [Wikipedia](https://en.wikipedia.org/wiki/Liana) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Liana](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liana.md) 

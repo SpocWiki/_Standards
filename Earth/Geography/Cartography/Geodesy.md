@@ -48,8 +48,6 @@ Commons_category: Geodesy
 > [Wikipedia](https://en.wikipedia.org/wiki/Geodesy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geodesy](/_Standards/Earth/Geography/Cartography/Geodesy.md) 

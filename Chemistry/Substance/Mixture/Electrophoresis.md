@@ -51,8 +51,6 @@ Commons_category: Electrophoresis
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrophoresis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrophoresis](/_Standards/Chemistry/Substance/Mixture/Electrophoresis.md) 

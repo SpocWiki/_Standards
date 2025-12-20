@@ -69,8 +69,6 @@ OpenStreetMap_tag: resource=sand
 > [Wikipedia](https://en.wikipedia.org/wiki/Sand)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sand](/_Standards/Earth/Geology/Mineral/Sand.md) 

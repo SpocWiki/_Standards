@@ -45,8 +45,6 @@ Dewey_Decimal_Classification: "332.645"
 > [Wikipedia](https://en.wikipedia.org/wiki/Economic%20bubble) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Economic_Bubble](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.md) 

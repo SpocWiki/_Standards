@@ -60,8 +60,6 @@ described_at_URL: https://wikispooks.com/wiki/Nation_state
 > [Wikipedia](https://en.wikipedia.org/wiki/Nation%20state) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nation_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State.md) 

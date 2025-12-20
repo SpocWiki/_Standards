@@ -25,8 +25,6 @@ has_id_wikidata: Q72755
 > [Wikipedia](https://en.wikipedia.org/wiki/Schwarzschild%20radius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schwarzschild_Radius](/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.md) 

@@ -44,8 +44,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Krill) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Krill](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Krill.md) 

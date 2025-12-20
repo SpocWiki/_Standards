@@ -76,8 +76,6 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Uto-Aztecan
 > [Wikipedia](https://en.wikipedia.org/wiki/Uto-Aztecan%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily~Uto-Aztecan](/_Standards/Language/Language_Family/LangFamily~Uto-Aztecan.md) 

@@ -75,9 +75,6 @@ inception: 1904-06-20T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration%20Internationale%20de%20l'Automobile) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fédération_Internationale_de_l'Automobile](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Fédération_Internationale_de_l'Automobile.md) 

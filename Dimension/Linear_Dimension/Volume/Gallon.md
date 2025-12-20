@@ -42,8 +42,6 @@ unit_symbol: gal
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gallon](/_Standards/Dimension/Linear_Dimension/Volume/Gallon.md) 

@@ -39,8 +39,6 @@ Unicode_character: 🧣
 > [Wikipedia](https://en.wikipedia.org/wiki/Scarf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scarf](/_Standards/Technology/Tool/Clothing/Scarf.md) 

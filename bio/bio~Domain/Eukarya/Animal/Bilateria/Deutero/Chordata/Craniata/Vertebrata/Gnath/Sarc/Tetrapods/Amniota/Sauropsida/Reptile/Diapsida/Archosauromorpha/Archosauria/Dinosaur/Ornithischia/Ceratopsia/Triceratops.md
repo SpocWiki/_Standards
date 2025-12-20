@@ -78,8 +78,6 @@ Dewey_Decimal_Classification: "567.9158"
 > [Wikipedia](https://en.wikipedia.org/wiki/Triceratops) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Triceratops](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosaur/Ornithischia/Ceratopsia/Triceratops.md) 

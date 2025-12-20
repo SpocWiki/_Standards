@@ -44,8 +44,6 @@ Commons_category: Dyes
 > [Wikipedia](https://en.wikipedia.org/wiki/Dye) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dye](/_Standards/Society/Communication/Media/Painting/Dye.md) 

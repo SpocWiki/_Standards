@@ -19,13 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Nicholas%20Roosevelt%20(1658%E2%80%931742)) 
 
 
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roosevelt,Nicholas](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Nicholas.md) 

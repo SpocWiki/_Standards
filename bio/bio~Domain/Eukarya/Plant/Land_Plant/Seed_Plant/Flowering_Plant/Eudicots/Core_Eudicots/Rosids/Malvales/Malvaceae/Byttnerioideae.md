@@ -26,8 +26,6 @@ UMLS_CUI: C1228150
 > [Wikipedia](https://en.wikipedia.org/wiki/Byttnerioideae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Byttnerioideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae.md) 

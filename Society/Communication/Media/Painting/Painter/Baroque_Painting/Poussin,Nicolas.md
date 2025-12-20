@@ -243,8 +243,6 @@ ISNI: "0000000120999120"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nicolas%20Poussin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poussin,Nicolas](/_Standards/Society/Communication/Media/Painting/Painter/Baroque_Painting/Poussin,Nicolas.md) 

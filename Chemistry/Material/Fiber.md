@@ -47,8 +47,6 @@ Commons_category: Fibers
 > [Wikipedia](https://en.wikipedia.org/wiki/Fiber) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fiber](/_Standards/Chemistry/Material/Fiber.md) 

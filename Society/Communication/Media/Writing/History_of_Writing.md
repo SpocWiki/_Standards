@@ -23,8 +23,6 @@ Library_of_Congress_Classification: P211-P211.7
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20writing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Writing](/_Standards/Society/Communication/Media/Writing/History_of_Writing.md) 

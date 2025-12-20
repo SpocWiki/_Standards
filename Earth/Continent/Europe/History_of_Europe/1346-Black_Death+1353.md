@@ -94,8 +94,6 @@ Krugosvet_article_archived_: istoriya/CHERNAYA_SMERT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Black%20Death)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1346-Black_Death+1353](/_Standards/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.md) 

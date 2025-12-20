@@ -94,8 +94,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Category%20SVG.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Classification) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Category(Math)](/_Standards/Mathematics/Category_Theory/Category(Math).md) 

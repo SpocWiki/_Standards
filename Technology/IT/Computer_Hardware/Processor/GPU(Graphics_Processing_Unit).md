@@ -9,10 +9,6 @@ also because they use 4Byte Float Numbers, unlike NPUs which use 1Byte signed.
 > [Wikipedia](https://en.wikipedia.org/wiki/Graphics%20processing%20unit)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GPU(Graphics_Processing_Unit)](/_Standards/Technology/IT/Computer_Hardware/Processor/GPU(Graphics_Processing_Unit).md) 

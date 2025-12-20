@@ -26,8 +26,6 @@ Commons_category: Plant cuticles
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20cuticle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plant_Cuticle](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.md) 

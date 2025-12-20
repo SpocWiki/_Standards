@@ -65,8 +65,6 @@ Commons_category: Sphinxes
 > [Wikipedia](https://en.wikipedia.org/wiki/Sphinx) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sphinx](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Sphinx.md) 

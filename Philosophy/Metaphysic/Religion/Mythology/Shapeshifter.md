@@ -36,8 +36,6 @@ Commons_category: Shapeshifting
 > [Wikipedia](https://en.wikipedia.org/wiki/Shapeshifting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shapeshifter](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.md) 

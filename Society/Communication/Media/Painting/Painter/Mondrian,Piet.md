@@ -239,8 +239,6 @@ ISNI: "0000000121334032"
 > [Wikipedia](https://en.wikipedia.org/wiki/Piet%20Mondrian)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mondrian,Piet](/_Standards/Society/Communication/Media/Painting/Painter/Mondrian,Piet.md) 

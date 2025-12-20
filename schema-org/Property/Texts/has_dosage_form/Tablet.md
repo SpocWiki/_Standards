@@ -49,8 +49,6 @@ MeSH_tree_code: D26.255.830
 > [Wikipedia](https://en.wikipedia.org/wiki/Tablet%20(pharmacy)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tablet](/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet.md) 

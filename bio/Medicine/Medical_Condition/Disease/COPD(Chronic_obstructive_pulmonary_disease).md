@@ -155,8 +155,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chronic%20obstructive%20pulmonary%20disease) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease)](/_Standards/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).md) 

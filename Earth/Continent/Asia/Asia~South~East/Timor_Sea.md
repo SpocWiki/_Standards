@@ -64,8 +64,6 @@ Commons_category: Timor Sea
 > [Wikipedia](https://en.wikipedia.org/wiki/Timor%20Sea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Timor_Sea](/_Standards/Earth/Continent/Asia/Asia~South~East/Timor_Sea.md) 

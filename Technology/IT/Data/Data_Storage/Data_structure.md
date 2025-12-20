@@ -24,8 +24,6 @@ especially in Databases where Indices and BTrees are used.
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20structure) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Data_structure](/_Standards/Technology/IT/Data/Data_Storage/Data_structure.md) 

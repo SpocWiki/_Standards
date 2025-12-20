@@ -66,8 +66,6 @@ Commons_category: Nobility
 > [Wikipedia](https://en.wikipedia.org/wiki/Nobility) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nobility](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.md) 

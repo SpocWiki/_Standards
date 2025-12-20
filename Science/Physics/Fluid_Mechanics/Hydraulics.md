@@ -45,8 +45,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20of%20Hydraulic
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydraulics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hydraulics](/_Standards/Science/Physics/Fluid_Mechanics/Hydraulics.md) 

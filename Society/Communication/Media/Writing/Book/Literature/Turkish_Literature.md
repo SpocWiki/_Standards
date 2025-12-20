@@ -27,9 +27,6 @@ Dewey_Decimal_Classification: "894.35"
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20literature) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turkish_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Turkish_Literature.md) 

@@ -68,8 +68,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio%20wave) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Radio_Wave](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Radio_Wave.md) 

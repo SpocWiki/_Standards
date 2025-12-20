@@ -78,11 +78,6 @@ publication_date: 2014-12-03T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Wire%20(software)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wire(Messenger)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Wire(Messenger).md) 

@@ -35,8 +35,6 @@ WALS_family_code: taikadai
 > [Wikipedia](https://en.wikipedia.org/wiki/Kra%E2%80%93Dai%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily-Kra-Dai](/_Standards/Language/Language_Family/LangFamily-Kra-Dai.md) 

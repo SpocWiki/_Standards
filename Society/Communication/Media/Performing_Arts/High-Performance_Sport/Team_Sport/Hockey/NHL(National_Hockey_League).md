@@ -210,8 +210,6 @@ topic_has_template:
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Hockey%20League) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NHL(National_Hockey_League)](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/NHL(National_Hockey_League).md) 

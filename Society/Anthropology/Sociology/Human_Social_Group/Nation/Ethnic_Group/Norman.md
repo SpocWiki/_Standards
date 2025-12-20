@@ -108,8 +108,6 @@ native_label: Normaunds
 > [Wikipedia](https://en.wikipedia.org/wiki/Normans) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Norman](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Norman.md) 

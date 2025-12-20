@@ -30,8 +30,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Malayo-Polynesian%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily-Malayo-Polynesian](/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.md) 

@@ -40,8 +40,6 @@ inception: 1913-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Suprematism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Suprematism](/_Standards/Society/Communication/Art/Art_History/Suprematism.md) 

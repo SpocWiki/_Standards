@@ -65,8 +65,6 @@ Krugosvet_article: matematika/topologiya
 > [Wikipedia](https://en.wikipedia.org/wiki/Topology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Topology](/_Standards/Mathematics/Topology.md) 

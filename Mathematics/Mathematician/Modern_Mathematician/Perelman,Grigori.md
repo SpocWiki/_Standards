@@ -111,8 +111,6 @@ ISNI: "0000000055592454"
 > [Wikipedia](https://en.wikipedia.org/wiki/Grigori%20Perelman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Perelman,Grigori](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.md) 

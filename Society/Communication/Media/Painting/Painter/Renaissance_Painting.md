@@ -23,9 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Renaissance%20art) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Renaissance_Painting](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting.md) 

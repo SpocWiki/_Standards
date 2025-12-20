@@ -73,8 +73,6 @@ coordinate_location: Point(21.63 37.637861111)
 > [Wikipedia](https://en.wikipedia.org/wiki/Statue%20of%20Zeus%20at%20Olympia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Statue_of_Zeus_at_Olympia](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.md) 

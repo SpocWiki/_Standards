@@ -141,8 +141,6 @@ Plex_person_key: 5d776824103a2d001f563a8c
 > [Wikipedia](https://en.wikipedia.org/wiki/Pedro%20Almod%C3%B3var) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Almodóvar,Pedro](/_Standards/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.md) 

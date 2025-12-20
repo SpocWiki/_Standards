@@ -33,8 +33,6 @@ Commons_category: Clothes dryers
 > [Wikipedia](https://en.wikipedia.org/wiki/Clothes%20dryer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clothes_Dryer](/_Standards/Technology/Tool/Clothing/Clothes_Dryer.md) 

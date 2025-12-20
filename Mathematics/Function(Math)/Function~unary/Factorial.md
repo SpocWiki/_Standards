@@ -62,8 +62,6 @@ Commons_category: Factorial (function)
 > [Wikipedia](https://en.wikipedia.org/wiki/Factorial) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Factorial](/_Standards/Mathematics/Function(Math)/Function~unary/Factorial.md) 

@@ -80,8 +80,6 @@ Library_of_Congress_Classification: QK495.F14
 > [Wikipedia](https://en.wikipedia.org/wiki/Chestnut) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Castanea](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Fagaceae/Castanea.md) 

@@ -65,8 +65,6 @@ GitHub_topic: meditation
 > [Wikipedia](https://en.wikipedia.org/wiki/Meditation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meditation](/_Standards/bio/Psychology/Mind/Meditation.md) 

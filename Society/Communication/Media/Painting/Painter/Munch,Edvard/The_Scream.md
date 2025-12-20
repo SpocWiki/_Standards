@@ -70,8 +70,6 @@ native_label: '"Skrik"'
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Scream) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [The_Scream](/_Standards/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.md) 

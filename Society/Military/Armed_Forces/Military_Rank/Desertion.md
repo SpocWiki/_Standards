@@ -37,8 +37,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Desertion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Desertion](/_Standards/Society/Military/Armed_Forces/Military_Rank/Desertion.md) 

@@ -53,8 +53,6 @@ Commons_category: Military operations
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20operation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_Operation](/_Standards/Society/Military/Military_Operation.md) 

@@ -32,8 +32,6 @@ Commons_category: Inverse trigonometric functions
 > [Wikipedia](https://en.wikipedia.org/wiki/Inverse%20trigonometric%20functions) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inverse_trigonometric_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.md) 

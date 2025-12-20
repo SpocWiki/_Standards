@@ -122,8 +122,6 @@ Christianized the Kievan Rus
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20the%20Great) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0958-Vladimir_the_Great+1015](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0900/0958-Vladimir_the_Great+1015.md) 

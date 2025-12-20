@@ -44,8 +44,6 @@ Commons_gallery: Rainforest
 > [Wikipedia](https://en.wikipedia.org/wiki/Rainforest) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rainforest](/_Standards/bio/Ecology/Ecosystem/Rainforest.md) 

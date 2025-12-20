@@ -40,8 +40,6 @@ primitive Values are stored directly
 [[Reference-Type]]s are stored as Pointers/References 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Types](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Types.md) 

@@ -45,8 +45,6 @@ Dewey_Decimal_Classification: "541.224"
 > [Wikipedia](https://en.wikipedia.org/wiki/Valence%20(chemistry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Valence(Chemistry)](/_Standards/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).md) 

@@ -43,8 +43,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Probability%20density%20function) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Probability_Density_Function](/_Standards/Mathematics/Statistics/Probability/Probability_Density_Function.md) 

@@ -135,8 +135,6 @@ NLC_authorities: "000244550"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Steinbeck) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Steinbeck,John](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.md) 

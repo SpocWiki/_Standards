@@ -46,8 +46,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/BESPOZVONOCHNIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Invertebrate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Invertebrate](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta/Invertebrate.md) 

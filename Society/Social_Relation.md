@@ -26,8 +26,6 @@ Commons_category: Social interaction
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20relation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Relation](/_Standards/Society/Social_Relation.md) 

@@ -120,8 +120,6 @@ Bluesky_handle:
 > [Wikipedia](https://en.wikipedia.org/wiki/Council%20of%20the%20European%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Council_of_the_European_Union](/_Standards/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.md) 

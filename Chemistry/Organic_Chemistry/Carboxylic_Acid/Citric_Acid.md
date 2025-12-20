@@ -47,8 +47,6 @@ HO   O
 > [Wikipedia](https://en.wikipedia.org/wiki/Citric%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Citric_Acid](/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.md) 

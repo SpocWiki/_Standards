@@ -30,8 +30,6 @@ instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Statism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Statism](/_Standards/Society/Anthropology/Sociology/Political_Science/Statism.md) 

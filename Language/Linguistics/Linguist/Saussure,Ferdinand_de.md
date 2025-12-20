@@ -105,8 +105,6 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/SOSSYUR_FERDINAND.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Ferdinand%20de%20Saussure) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saussure,Ferdinand_de](/_Standards/Language/Linguistics/Linguist/Saussure,Ferdinand_de.md) 

@@ -102,8 +102,6 @@ taxon_name: Rumex
 > [Wikipedia](https://en.wikipedia.org/wiki/Rumex) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rumex](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex.md) 

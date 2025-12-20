@@ -285,9 +285,6 @@ pseudonym: Theotocopuli, Dominico
 > [Wikipedia](https://en.wikipedia.org/wiki/El%20Greco) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [El_Greco](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.md) 

@@ -71,8 +71,6 @@ NBN_System_Key: NBNSYS0000033981
 > [Wikipedia](https://en.wikipedia.org/wiki/Kohlrabi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kohlrabi](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Kohlrabi.md) 

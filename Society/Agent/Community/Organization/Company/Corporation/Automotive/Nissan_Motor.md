@@ -150,9 +150,6 @@ inception: 1933-12-26T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Nissan) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nissan_Motor](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Nissan_Motor.md) 

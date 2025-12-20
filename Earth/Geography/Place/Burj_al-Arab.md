@@ -58,8 +58,6 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/j
 > [Wikipedia](https://en.wikipedia.org/wiki/Burj%20Al%20Arab) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Burj_al-Arab](/_Standards/Earth/Geography/Place/Burj_al-Arab.md) 

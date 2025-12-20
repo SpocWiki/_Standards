@@ -64,8 +64,6 @@ Commons_category: Theory of relativity
 > [Wikipedia](https://en.wikipedia.org/wiki/Theory%20of%20relativity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theory_of_Relativity](/_Standards/Science/Physics/Theory_of_Relativity.md) 

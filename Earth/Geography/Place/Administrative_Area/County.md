@@ -61,8 +61,6 @@ OpenStreetMap_tag_or_key:
 > [Wikipedia](https://en.wikipedia.org/wiki/County) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [County](/_Standards/Earth/Geography/Place/Administrative_Area/County.md) 

@@ -26,8 +26,6 @@ has_id_wikidata: Q26844385
 > [Wikipedia](https://en.wikipedia.org/wiki/Collective%20farming) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Collectivization](/_Standards/Society/Ideology/Political_Ideology/Communism/Collectivization.md) 

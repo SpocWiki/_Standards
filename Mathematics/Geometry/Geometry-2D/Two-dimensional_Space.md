@@ -32,8 +32,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2D%20Cartesian.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Two-dimensional%20space) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Two-dimensional_Space](/_Standards/Mathematics/Geometry/Geometry-2D/Two-dimensional_Space.md) 

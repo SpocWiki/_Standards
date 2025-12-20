@@ -50,8 +50,6 @@ RTECS_number: VV9275000
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20metasilicate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sodium_Metasilicate](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.md) 

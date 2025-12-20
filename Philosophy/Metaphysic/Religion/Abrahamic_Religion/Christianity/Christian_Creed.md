@@ -38,9 +38,6 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/SIMVOL_VERI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Creed) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Christian_Creed](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Creed.md) 

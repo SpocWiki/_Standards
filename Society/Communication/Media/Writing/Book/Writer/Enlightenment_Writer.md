@@ -2,8 +2,6 @@
 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Enlightenment_Writer](/_Standards/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer.md) 

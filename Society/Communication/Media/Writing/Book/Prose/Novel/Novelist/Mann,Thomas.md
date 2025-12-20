@@ -225,8 +225,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/MANN_TOMAS.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Mann) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mann,Thomas](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Mann,Thomas.md) 

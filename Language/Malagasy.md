@@ -70,8 +70,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Malagasy%20language) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Malagasy](/_Standards/Language/Malagasy.md) 

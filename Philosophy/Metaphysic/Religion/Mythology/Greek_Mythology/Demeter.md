@@ -52,8 +52,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Demeter) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Demeter](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.md) 

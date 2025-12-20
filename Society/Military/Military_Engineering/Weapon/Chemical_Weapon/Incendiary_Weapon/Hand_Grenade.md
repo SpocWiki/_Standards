@@ -83,8 +83,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Victory%20Show%20Cosby
 > [Wikipedia](https://en.wikipedia.org/wiki/Grenade) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hand_Grenade](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Hand_Grenade.md) 

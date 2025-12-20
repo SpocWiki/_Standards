@@ -54,8 +54,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/GOBO.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Oboe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oboe](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Oboe.md) 

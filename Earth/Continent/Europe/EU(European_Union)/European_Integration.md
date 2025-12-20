@@ -57,8 +57,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/European%20Spaces%20Ma
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20integration) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Integration](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration.md) 

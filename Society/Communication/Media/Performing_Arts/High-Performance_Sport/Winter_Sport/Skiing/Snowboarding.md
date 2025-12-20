@@ -49,8 +49,6 @@ Krugosvet_article_archived_: sport/SNOUBORDING.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Snowboarding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Snowboarding](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.md) 

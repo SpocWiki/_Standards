@@ -172,8 +172,6 @@ SPLASH:
 > [Wikipedia](https://en.wikipedia.org/wiki/Methanol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Methanol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Methanol.md) 

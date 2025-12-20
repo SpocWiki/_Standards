@@ -138,8 +138,6 @@ title: Καινή Διαθήκη
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Testament)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [New_Testament](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/New_Testament.md) 

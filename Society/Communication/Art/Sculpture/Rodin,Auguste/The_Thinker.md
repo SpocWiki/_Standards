@@ -80,8 +80,6 @@ Commons_category: Le Penseur
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Thinker) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [The_Thinker](/_Standards/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.md) 

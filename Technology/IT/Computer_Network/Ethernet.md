@@ -28,8 +28,6 @@ has_id_wikidata: Q79984
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethernet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ethernet](/_Standards/Technology/IT/Computer_Network/Ethernet.md) 

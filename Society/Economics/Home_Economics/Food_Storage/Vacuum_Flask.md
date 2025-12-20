@@ -52,8 +52,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Thermos
 > [Wikipedia](https://en.wikipedia.org/wiki/Vacuum%20flask)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vacuum_Flask](/_Standards/Society/Economics/Home_Economics/Food_Storage/Vacuum_Flask.md) 

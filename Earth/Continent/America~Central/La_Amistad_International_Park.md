@@ -39,8 +39,6 @@ coordinate_location: Point(-82.936111111 9.405)
 > [Wikipedia](https://en.wikipedia.org/wiki/La%20Amistad%20International%20Park) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [La_Amistad_International_Park](/_Standards/Earth/Continent/America~Central/La_Amistad_International_Park.md) 

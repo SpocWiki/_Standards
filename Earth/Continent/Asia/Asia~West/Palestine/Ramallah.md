@@ -113,10 +113,6 @@ inception: 1501-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Ramallah) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ramallah](/_Standards/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.md) 

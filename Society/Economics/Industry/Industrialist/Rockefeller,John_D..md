@@ -112,9 +112,6 @@ ISNI: "0000000121197891"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20D.%20Rockefeller) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rockefeller,John_D.](/_Standards/Society/Economics/Industry/Industrialist/Rockefeller,John_D..md) 

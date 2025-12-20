@@ -57,8 +57,6 @@ Facebook_username: MADMagazine
 > [Wikipedia](https://en.wikipedia.org/wiki/Mad%20(magazine)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mad(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Mad(Magazine).md) 

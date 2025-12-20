@@ -29,8 +29,6 @@ Commons_category: Rupees
 > [Wikipedia](https://en.wikipedia.org/wiki/Rupee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rupee](/_Standards/Society/Economics/Currency/Rupee.md) 

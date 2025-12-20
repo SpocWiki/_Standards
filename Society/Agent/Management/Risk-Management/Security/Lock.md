@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Lock%20and%20key) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lock](/_Standards/Society/Agent/Management/Risk-Management/Security/Lock.md) 

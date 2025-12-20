@@ -20,8 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Aculeata) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Aculeata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.md) 

@@ -98,8 +98,6 @@ Europeana_entity: agent/base/60086
 > [Wikipedia](https://en.wikipedia.org/wiki/Janis%20Joplin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Janis_Joplin](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Janis_Joplin.md) 

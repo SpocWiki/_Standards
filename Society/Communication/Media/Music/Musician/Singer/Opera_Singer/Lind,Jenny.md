@@ -101,8 +101,6 @@ nickname: Swedish Nightingale
 > [Wikipedia](https://en.wikipedia.org/wiki/Jenny%20Lind) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lind,Jenny](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Lind,Jenny.md) 

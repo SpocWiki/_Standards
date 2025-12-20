@@ -104,10 +104,6 @@ coordinate_location: Point(-77.055 38.870833333)
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Pentagon) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [The_Pentagon](/_Standards/Earth/Geography/Place/The_Pentagon.md) 

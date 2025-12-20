@@ -69,8 +69,6 @@ Commons_category: Competition law
 > [Wikipedia](https://en.wikipedia.org/wiki/Competition%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Competition_Law](/_Standards/Society/Economics/Competition_Law.md) 

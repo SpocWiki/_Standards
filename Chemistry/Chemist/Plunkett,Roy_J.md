@@ -43,8 +43,6 @@ date_of_birth: 1910-06-26T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Roy%20J.%20Plunkett) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plunkett,Roy_J](/_Standards/Chemistry/Chemist/Plunkett,Roy_J.md) 

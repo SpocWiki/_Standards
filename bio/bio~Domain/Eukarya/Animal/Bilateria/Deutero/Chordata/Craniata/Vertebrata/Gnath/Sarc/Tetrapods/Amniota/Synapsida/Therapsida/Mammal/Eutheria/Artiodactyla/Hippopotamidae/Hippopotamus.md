@@ -69,8 +69,6 @@ short_name: H. amphibius
 > [Wikipedia](https://en.wikipedia.org/wiki/Hippopotamus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hippopotamus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Hippopotamidae/Hippopotamus.md) 

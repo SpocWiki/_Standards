@@ -47,8 +47,6 @@ Commons_category: Southern African Development Community
 > [Wikipedia](https://en.wikipedia.org/wiki/Southern%20African%20Development%20Community) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Southern_African_Development_Community](/_Standards/Society/Agent/Community/Organization/International_Organization/Southern_African_Development_Community.md) 

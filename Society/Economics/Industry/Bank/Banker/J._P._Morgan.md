@@ -121,8 +121,6 @@ date_of_death: 1913-03-31T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20P.%20Morgan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [J._P._Morgan](/_Standards/Society/Economics/Industry/Bank/Banker/J._P._Morgan.md) 

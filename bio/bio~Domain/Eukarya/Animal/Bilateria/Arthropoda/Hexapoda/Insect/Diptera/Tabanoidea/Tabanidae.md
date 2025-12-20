@@ -57,8 +57,6 @@ taxon_name: Tabanidae
 > [Wikipedia](https://en.wikipedia.org/wiki/Tabanidae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tabanidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea/Tabanidae.md) 

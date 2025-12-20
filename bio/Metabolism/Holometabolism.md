@@ -35,8 +35,6 @@ OmegaWiki_Defined_Meaning: "1085116"
 > [Wikipedia](https://en.wikipedia.org/wiki/Holometabolism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Holometabolism](/_Standards/bio/Metabolism/Holometabolism.md) 

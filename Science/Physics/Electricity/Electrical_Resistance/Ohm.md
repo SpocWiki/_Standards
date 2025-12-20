@@ -69,8 +69,6 @@ Wikidata_SPARQL_query_equivalent: wd:Q47083 p:P2370/psn:P2370 [wikibase:quantity
 > [Wikipedia](https://en.wikipedia.org/wiki/Ohm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ohm](/_Standards/Science/Physics/Electricity/Electrical_Resistance/Ohm.md) 

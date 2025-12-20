@@ -60,8 +60,6 @@ motto_text: Museums have no borders, they have a network
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Council%20of%20Museums) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ICOM(International_Council_of_Museums)](/_Standards/Society/Agent/Community/Organization/International_Organization/ICOM(International_Council_of_Museums).md) 

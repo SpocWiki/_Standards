@@ -107,8 +107,6 @@ IPTC_NewsCode: mediatopic/20000110
 > [Wikipedia](https://en.wikipedia.org/wiki/Judge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Judge](/_Standards/Society/Law/Judiciary/Court/Judge.md) 

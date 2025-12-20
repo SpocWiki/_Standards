@@ -72,8 +72,6 @@ IPTC_NewsCode: mediatopic/20000344
 > [Wikipedia](https://en.wikipedia.org/wiki/Economy)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Economy](/_Standards/Society/Economics/Economy.md) 

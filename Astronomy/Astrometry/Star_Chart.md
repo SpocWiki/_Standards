@@ -34,8 +34,6 @@ Iconclass_notation: "49E12"
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20chart) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Star_Chart](/_Standards/Astronomy/Astrometry/Star_Chart.md) 

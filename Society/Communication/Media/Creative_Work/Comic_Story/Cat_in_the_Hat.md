@@ -65,8 +65,6 @@ last_line: Well, what would you do if your mother asked you?
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Cat%20in%20the%20Hat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cat_in_the_Hat](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.md) 

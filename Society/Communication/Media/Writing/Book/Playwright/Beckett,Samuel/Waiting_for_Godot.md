@@ -104,8 +104,6 @@ last_line: Estragon — Allons-y. [Il ne bougent pas.]
 > [Wikipedia](https://en.wikipedia.org/wiki/Waiting%20for%20Godot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Waiting_for_Godot](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.md) 

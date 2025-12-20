@@ -50,8 +50,6 @@ OpenStreetMap_tag: healthcare:speciality=haematology
 > [Wikipedia](https://en.wikipedia.org/wiki/Hematology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hematology](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.md) 

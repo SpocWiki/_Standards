@@ -81,8 +81,6 @@ name_in_native_language: Μήδεια
 > [Wikipedia](https://en.wikipedia.org/wiki/Medea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medea](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.md) 

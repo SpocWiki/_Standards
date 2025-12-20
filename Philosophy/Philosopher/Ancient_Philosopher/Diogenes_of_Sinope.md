@@ -22,8 +22,6 @@ has_id_wikidata: Q59180
 > [Wikipedia](https://en.wikipedia.org/wiki/Diogenes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diogenes_of_Sinope](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.md) 

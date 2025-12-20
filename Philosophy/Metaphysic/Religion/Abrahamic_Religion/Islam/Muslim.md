@@ -123,8 +123,6 @@ Iconclass_notation: 12I24
 > [Wikipedia](https://en.wikipedia.org/wiki/Muslims) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Muslim](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim.md) 

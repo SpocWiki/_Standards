@@ -55,8 +55,6 @@ UNSPSC_Code: "32101608"
 > [Wikipedia](https://en.wikipedia.org/wiki/Read-only%20memory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ROM(Read-only_Memory)](/_Standards/Technology/IT/Computer_Hardware/ROM(Read-only_Memory).md) 

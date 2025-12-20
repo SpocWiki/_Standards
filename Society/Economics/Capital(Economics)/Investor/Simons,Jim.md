@@ -115,8 +115,6 @@ date_of_death: 2024-05-10T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jim%20Simons) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Simons,Jim](/_Standards/Society/Economics/Capital(Economics)/Investor/Simons,Jim.md) 

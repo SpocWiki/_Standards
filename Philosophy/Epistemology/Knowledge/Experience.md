@@ -56,8 +56,6 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ornette%20at%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Experience) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Experience](/_Standards/Philosophy/Epistemology/Knowledge/Experience.md) 

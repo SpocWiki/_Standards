@@ -28,8 +28,6 @@ Commons_category: Trade routes
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade%20route) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trade_Route](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_Route.md) 

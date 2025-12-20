@@ -56,8 +56,6 @@ Commons_category: Human sexuality
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20sexuality) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Human_Sexuality](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.md) 

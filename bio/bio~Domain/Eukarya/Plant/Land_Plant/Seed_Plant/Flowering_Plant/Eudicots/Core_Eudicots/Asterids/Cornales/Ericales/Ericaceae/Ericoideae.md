@@ -29,8 +29,6 @@ UMLS_CUI: C1229168
 > [Wikipedia](https://en.wikipedia.org/wiki/Ericoideae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ericoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Ericoideae.md) 

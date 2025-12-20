@@ -48,11 +48,6 @@ Commons_category: Shock (circulatory)
 > [Wikipedia](https://en.wikipedia.org/wiki/Shock%20(circulatory)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shock(Circulatory)](/_Standards/bio/Medicine/Medical_Condition/Shock(Circulatory).md) 

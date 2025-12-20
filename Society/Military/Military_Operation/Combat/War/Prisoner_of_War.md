@@ -67,8 +67,6 @@ male_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Prisoner%20of%20war)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prisoner_of_War](/_Standards/Society/Military/Military_Operation/Combat/War/Prisoner_of_War.md) 

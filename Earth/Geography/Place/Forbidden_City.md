@@ -126,9 +126,6 @@ O. [Palace of Tranquil Longevity](https://en.wikipedia.org/wiki/Palace_of_Tranq
 > [Wikipedia](https://en.wikipedia.org/wiki/Forbidden%20City) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Forbidden_City](/_Standards/Earth/Geography/Place/Forbidden_City.md) 

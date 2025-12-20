@@ -71,8 +71,6 @@ Mithril, Valar, Palantir etc.
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Thiel)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thiel,Peter](/_Standards/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.md) 

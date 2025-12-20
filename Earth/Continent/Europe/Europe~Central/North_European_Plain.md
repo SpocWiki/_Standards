@@ -57,8 +57,6 @@ Commons_category: North European Plain
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20European%20Plain) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [North_European_Plain](/_Standards/Earth/Continent/Europe/Europe~Central/North_European_Plain.md) 

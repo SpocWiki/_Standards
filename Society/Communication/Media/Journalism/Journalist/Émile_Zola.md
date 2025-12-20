@@ -131,8 +131,6 @@ Provenio_UUID: 5424a98a-e493-47a1-bdf9-e11be7cf810f
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89mile%20Zola) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Émile_Zola](/_Standards/Society/Communication/Media/Journalism/Journalist/Émile_Zola.md) 

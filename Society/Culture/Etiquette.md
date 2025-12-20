@@ -50,7 +50,6 @@ Krugosvet_article: istoriya/ETIKET.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Etiquette) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Etiquette](/_Standards/Society/Culture/Etiquette.md) 

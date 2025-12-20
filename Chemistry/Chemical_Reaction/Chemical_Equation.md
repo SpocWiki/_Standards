@@ -38,8 +38,6 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_URAVNENIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20equation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Equation](/_Standards/Chemistry/Chemical_Reaction/Chemical_Equation.md) 

@@ -131,8 +131,6 @@ Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2271404
 > [Wikipedia](https://en.wikipedia.org/wiki/Yasser%20Arafat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Arafat,Yasser](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.md) 

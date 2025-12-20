@@ -44,8 +44,6 @@ Commons_category: Fresnel lenses
 > [Wikipedia](https://en.wikipedia.org/wiki/Fresnel%20lens) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fresnel_Lens](/_Standards/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.md) 

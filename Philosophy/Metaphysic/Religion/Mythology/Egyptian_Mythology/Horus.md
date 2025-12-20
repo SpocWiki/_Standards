@@ -71,8 +71,6 @@ Hederich_encyclopedia_article: Horvs
 > [Wikipedia](https://en.wikipedia.org/wiki/Horus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Horus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.md) 

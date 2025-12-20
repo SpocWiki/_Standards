@@ -57,8 +57,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lieut%20goverr%20Gall-
 > [Wikipedia](https://en.wikipedia.org/wiki/Imagination) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Imagination](/_Standards/bio/Psychology/Cognition/Imagination.md) 

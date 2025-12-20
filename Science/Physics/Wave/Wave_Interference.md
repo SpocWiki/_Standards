@@ -37,8 +37,6 @@ IEV_number:
 > [Wikipedia](https://en.wikipedia.org/wiki/Wave%20interference) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wave_Interference](/_Standards/Science/Physics/Wave/Wave_Interference.md) 

@@ -25,8 +25,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jainism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jainism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Jainism.md) 

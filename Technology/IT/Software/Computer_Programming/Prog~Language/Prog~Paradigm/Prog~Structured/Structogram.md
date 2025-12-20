@@ -181,7 +181,6 @@ This is __not__ [[../Prog~Imperative/GOTO-Statement]]]], but a Loop-Exit
 ![[../../../../../IT/Data/Data~Graphics/Text-Diagrams/Diagram~Mermaid/MMD~Flowchart-Diagram#Function-Call|MMD~Function-Call]]]
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structogram](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structogram.md) 

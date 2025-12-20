@@ -42,8 +42,6 @@ has_id_wikidata: Q186393
 > [Wikipedia](https://en.wikipedia.org/wiki/Counterpoint) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Counterpoint](/_Standards/Society/Communication/Media/Music/Music_Genre/Counterpoint.md) 

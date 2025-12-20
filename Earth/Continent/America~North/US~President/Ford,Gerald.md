@@ -31,8 +31,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]] ] [created:: 1974-08-09]  [cancelled:: 1977-01-20]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ford,Gerald](/_Standards/Earth/Continent/America~North/US~President/Ford,Gerald.md) 

@@ -142,8 +142,6 @@ Plex_person_key: 5d776825880197001ec9050e
 > [Wikipedia](https://en.wikipedia.org/wiki/Oliver%20Stone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stone,Oliver](/_Standards/Society/Communication/Media/Movie/Movie-Director/Stone,Oliver.md) 

@@ -62,8 +62,6 @@ Colon_Classification: Δ:86
 > [Wikipedia](https://en.wikipedia.org/wiki/Prophecy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prophecy](/_Standards/Philosophy/Metaphysic/Religion/Prophecy.md) 

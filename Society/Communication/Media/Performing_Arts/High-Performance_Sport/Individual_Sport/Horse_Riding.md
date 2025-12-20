@@ -63,8 +63,6 @@ IPTC_NewsCode: mediatopic/20000923
 > [Wikipedia](https://en.wikipedia.org/wiki/Equestrianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Horse_Riding](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding.md) 

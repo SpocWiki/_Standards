@@ -82,8 +82,6 @@ Commons_category: Military officers
 > [Wikipedia](https://en.wikipedia.org/wiki/Officer%20(armed%20forces)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Officer(Military)](/_Standards/Society/Military/Armed_Forces/Military_Rank/Officer(Military).md) 

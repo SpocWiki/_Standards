@@ -37,10 +37,6 @@ Commons_category: Schist
 > [Wikipedia](https://en.wikipedia.org/wiki/Schist) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crystalline_Schist](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.md) 

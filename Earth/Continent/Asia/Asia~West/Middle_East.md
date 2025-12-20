@@ -138,7 +138,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Colorful%20shaded%20ma
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20East) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Middle_East](/_Standards/Earth/Continent/Asia/Asia~West/Middle_East.md) 

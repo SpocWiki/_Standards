@@ -32,8 +32,6 @@ studied_by: "[[_Standards/WikiData/WD~popular_and_genre_literature_studies,11312
 > [Wikipedia](https://en.wikipedia.org/wiki/Genre%20fiction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Genre_Fiction](/_Standards/Society/Communication/Genre/Fiction/Genre_Fiction.md) 

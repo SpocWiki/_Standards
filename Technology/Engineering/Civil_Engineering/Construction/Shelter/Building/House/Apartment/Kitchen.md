@@ -50,8 +50,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Keuken%
 > [Wikipedia](https://en.wikipedia.org/wiki/Kitchen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kitchen](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.md) 

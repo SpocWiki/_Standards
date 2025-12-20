@@ -98,8 +98,6 @@ directions: between Ohiopyle and Mill Run, several miles north of town
 > [Wikipedia](https://en.wikipedia.org/wiki/Fallingwater) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fallingwater](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd/Fallingwater.md) 

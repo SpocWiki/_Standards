@@ -113,8 +113,6 @@ service_entry: 1994-11-14T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Channel%20Tunnel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Channel_Tunnel](/_Standards/Earth/Continent/Europe/Europe~West/Channel_Tunnel.md) 

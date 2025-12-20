@@ -15,8 +15,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/BCPL)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~BCPL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~BCPL.md) 

@@ -40,8 +40,6 @@ instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Enlightened%20absolutism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Enlightened_Absolutism](/_Standards/Society/Politics/Government/Monarchy/Absolute_Monarchy/Enlightened_Absolutism.md) 

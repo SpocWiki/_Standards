@@ -71,8 +71,6 @@ date_of_birth: 1913-12-11T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean%20Marais) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marais,Jean](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Marais,Jean.md) 

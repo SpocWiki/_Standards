@@ -61,9 +61,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GRAF
 > [Wikipedia](https://en.wikipedia.org/wiki/Graphics) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Graphics](/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.md) 

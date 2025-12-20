@@ -108,8 +108,6 @@ Archive_of_Our_Own_tag: Substance Abuse
 > [Wikipedia](https://en.wikipedia.org/wiki/Substance%20abuse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Substance_Abuse](/_Standards/Society/Law/Criminal_Law/Crime/Substance_Abuse.md) 

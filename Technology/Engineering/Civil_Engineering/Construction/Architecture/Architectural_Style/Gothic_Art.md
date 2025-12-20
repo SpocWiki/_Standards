@@ -50,8 +50,6 @@ end_time: 1530-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Gothic%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gothic_Art](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.md) 

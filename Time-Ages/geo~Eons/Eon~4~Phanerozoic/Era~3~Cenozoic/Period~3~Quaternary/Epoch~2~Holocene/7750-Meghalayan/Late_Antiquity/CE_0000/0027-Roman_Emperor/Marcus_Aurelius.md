@@ -182,8 +182,6 @@ date_of_death: 0180-03-16T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Marcus%20Aurelius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marcus_Aurelius](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Marcus_Aurelius.md) 

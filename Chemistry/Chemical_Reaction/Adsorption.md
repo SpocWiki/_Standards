@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Adsorption) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Adsorption](/_Standards/Chemistry/Chemical_Reaction/Adsorption.md) 

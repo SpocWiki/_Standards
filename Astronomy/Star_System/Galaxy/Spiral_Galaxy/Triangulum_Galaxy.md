@@ -79,8 +79,6 @@ right_ascension: 23.46206906218
 > [Wikipedia](https://en.wikipedia.org/wiki/Triangulum%20Galaxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Triangulum_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.md) 

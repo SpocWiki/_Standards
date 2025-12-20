@@ -37,8 +37,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/3%20Clydesdale%20horse
 > [Wikipedia](https://en.wikipedia.org/wiki/Clydesdale%20horse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clydesdale_Horse](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Clydesdale_Horse.md) 

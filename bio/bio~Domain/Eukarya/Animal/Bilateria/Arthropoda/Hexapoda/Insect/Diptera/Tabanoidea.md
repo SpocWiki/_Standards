@@ -26,8 +26,6 @@ taxon_name: Tabanoidea
 > [Wikipedia](https://en.wikipedia.org/wiki/Tabanoidea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tabanoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea.md) 

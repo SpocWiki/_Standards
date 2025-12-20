@@ -55,9 +55,6 @@ Dewey_Decimal_Classification: "338.476151"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pharmaceutical%20industry) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Big_Pharma](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Pharma.md) 

@@ -59,8 +59,6 @@ Commons_category: Tocharians
 > [Wikipedia](https://en.wikipedia.org/wiki/Tocharians) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tocharians](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.md) 

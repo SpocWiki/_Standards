@@ -48,8 +48,6 @@ OpenStreetMap_tag: sport=bowling
 > [Wikipedia](https://en.wikipedia.org/wiki/Bowling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bowling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bowling.md) 

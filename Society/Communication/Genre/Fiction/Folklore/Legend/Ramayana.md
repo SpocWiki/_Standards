@@ -112,8 +112,6 @@ title: रामायण
 > [Wikipedia](https://en.wikipedia.org/wiki/Ramayana) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ramayana](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.md) 

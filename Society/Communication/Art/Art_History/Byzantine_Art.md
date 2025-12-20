@@ -52,8 +52,6 @@ hashtag_: Byzantineart
 > [Wikipedia](https://en.wikipedia.org/wiki/Byzantine%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Byzantine_Art](/_Standards/Society/Communication/Art/Art_History/Byzantine_Art.md) 

@@ -74,8 +74,6 @@ Commons_category: Poisons
 > [Wikipedia](https://en.wikipedia.org/wiki/Poison) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poison](/_Standards/bio/Medicine/Medical_Condition/Poisoning/Poison.md) 

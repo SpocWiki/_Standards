@@ -19,7 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Perl)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Perl](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Perl.md) 

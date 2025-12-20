@@ -58,7 +58,6 @@ type: private_note
 > [Wikipedia](https://en.wikipedia.org/wiki/Andrew%20Jackson) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jackson,Andrew](/_Standards/Earth/Continent/America~North/US~President/Jackson,Andrew.md) 

@@ -67,8 +67,6 @@ Unicode_character: 🏅
 > [Wikipedia](https://en.wikipedia.org/wiki/Medal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medallion](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Medallion.md) 

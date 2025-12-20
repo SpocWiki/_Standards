@@ -66,8 +66,6 @@ name_in_native_language: John Stossel
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Stossel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stossel,John](/_Standards/Society/Communication/Media/Journalism/Journalist/Stossel,John.md) 

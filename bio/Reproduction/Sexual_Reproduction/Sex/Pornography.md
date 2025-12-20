@@ -72,8 +72,6 @@ Archive_of_Our_Own_tag: Porn
 > [Wikipedia](https://en.wikipedia.org/wiki/Pornography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pornography](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.md) 

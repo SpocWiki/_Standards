@@ -70,8 +70,6 @@ MIC_market_code: XNAS
 > [Wikipedia](https://en.wikipedia.org/wiki/Nasdaq) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nasdaq](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Nasdaq.md) 

@@ -171,8 +171,6 @@ Europeana_entity: agent/base/60101
 > [Wikipedia](https://en.wikipedia.org/wiki/Joni%20Mitchell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mitchell,Joni](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.md) 

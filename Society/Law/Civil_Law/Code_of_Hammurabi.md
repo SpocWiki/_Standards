@@ -86,8 +86,6 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "CodeHammurabi"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Code%20of%20Hammurabi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Code_of_Hammurabi](/_Standards/Society/Law/Civil_Law/Code_of_Hammurabi.md) 

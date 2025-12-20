@@ -132,8 +132,6 @@ Regensburg_Classification: IG 7250
 > [Wikipedia](https://en.wikipedia.org/wiki/Stendhal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stendhal](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.md) 

@@ -118,8 +118,6 @@ date_of_birth: 1910-06-11T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacques%20Cousteau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cousteau,Jacques](/_Standards/Science/Inventor/Cousteau,Jacques.md) 

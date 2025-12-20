@@ -89,8 +89,6 @@ date_of_official_opening: 2008-10-21T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Large%20Hadron%20Collider) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Large_Hadron_Collider](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Large_Hadron_Collider.md) 

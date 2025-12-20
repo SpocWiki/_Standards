@@ -26,8 +26,6 @@ has_id_wikidata: Q92624
 > [Wikipedia](https://en.wikipedia.org/wiki/Dan%20Bricklin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bricklin,Dan](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.md) 

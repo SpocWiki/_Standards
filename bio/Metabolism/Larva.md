@@ -58,8 +58,6 @@ reference_illustration: http://commons.wikimedia.org/wiki/Special:FilePath/LEPI%
 > [Wikipedia](https://en.wikipedia.org/wiki/Larva) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Larva](/_Standards/bio/Metabolism/Larva.md) 

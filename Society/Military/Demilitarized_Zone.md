@@ -43,8 +43,6 @@ image:
 > [Wikipedia](https://en.wikipedia.org/wiki/Demilitarized%20zone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Demilitarized_Zone](/_Standards/Society/Military/Demilitarized_Zone.md) 

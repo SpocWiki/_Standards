@@ -26,8 +26,6 @@ Commons_category: Twine
 > [Wikipedia](https://en.wikipedia.org/wiki/Twine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Twine](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Twine.md) 

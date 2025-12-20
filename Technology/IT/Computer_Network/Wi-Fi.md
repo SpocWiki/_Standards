@@ -59,8 +59,6 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/wifi
 > [Wikipedia](https://en.wikipedia.org/wiki/Wi-Fi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wi-Fi](/_Standards/Technology/IT/Computer_Network/Wi-Fi.md) 

@@ -59,8 +59,6 @@ IPTC_NewsCode: mediatopic/20000925
 > [Wikipedia](https://en.wikipedia.org/wiki/Dressage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dressage](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Dressage.md) 

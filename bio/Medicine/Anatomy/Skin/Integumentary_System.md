@@ -47,8 +47,6 @@ Commons_category: Integumentary system
 > [Wikipedia](https://en.wikipedia.org/wiki/Integumentary%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Integumentary_System](/_Standards/bio/Medicine/Anatomy/Skin/Integumentary_System.md) 

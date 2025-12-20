@@ -50,8 +50,6 @@ name_in_native_language: Hermann Heinrich Gossen
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Heinrich%20Gossen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gossen,Hermann_Heinrich](/_Standards/Society/Economics/Economist/Gossen,Hermann_Heinrich.md) 

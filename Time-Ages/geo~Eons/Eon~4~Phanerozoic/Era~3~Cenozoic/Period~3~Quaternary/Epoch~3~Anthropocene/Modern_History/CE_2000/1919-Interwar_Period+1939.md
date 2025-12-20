@@ -46,8 +46,6 @@ start_time: 1918-11-11T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Interwar%20period) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1919-Interwar_Period+1939](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.md) 

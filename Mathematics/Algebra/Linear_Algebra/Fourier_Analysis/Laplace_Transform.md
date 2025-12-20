@@ -87,8 +87,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Laplace%20transform) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Laplace_Transform](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.md) 

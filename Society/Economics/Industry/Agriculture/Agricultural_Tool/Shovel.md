@@ -53,8 +53,6 @@ Commons_category: Shovels
 > [Wikipedia](https://en.wikipedia.org/wiki/Shovel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shovel](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.md) 

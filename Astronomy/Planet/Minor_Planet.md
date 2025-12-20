@@ -49,8 +49,6 @@ Wolfram_Language_entity_type: MinorPlanet
 > [Wikipedia](https://en.wikipedia.org/wiki/Minor%20planet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Minor_Planet](/_Standards/Astronomy/Planet/Minor_Planet.md) 

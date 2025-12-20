@@ -75,9 +75,6 @@ GitHub_topic: category-theory
 > [Wikipedia](https://en.wikipedia.org/wiki/Category%20theory)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Category_Theory](/_Standards/Mathematics/Category_Theory.md) 

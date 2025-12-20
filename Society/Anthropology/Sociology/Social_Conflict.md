@@ -28,8 +28,6 @@ Library_of_Congress_Classification: HM497
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20conflict) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Conflict](/_Standards/Society/Anthropology/Sociology/Social_Conflict.md) 

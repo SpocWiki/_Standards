@@ -133,8 +133,6 @@ date_of_birth: 1778-12-06T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Louis%20Gay-Lussac) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gay-Lussac,Joseph_Louis](/_Standards/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.md) 

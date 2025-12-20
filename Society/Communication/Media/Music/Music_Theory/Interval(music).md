@@ -53,12 +53,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Inter
 > [Wikipedia](https://en.wikipedia.org/wiki/Interval%20(music)) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Interval(music)](/_Standards/Society/Communication/Media/Music/Music_Theory/Interval(music).md) 

@@ -51,9 +51,6 @@ MIL_STD_2525_Symbol_Identification_Code: "10013000001401140000"
 > [Wikipedia](https://en.wikipedia.org/wiki/Junk%20(ship)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Junk(Ship)](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Junk(Ship).md) 

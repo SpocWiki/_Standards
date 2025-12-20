@@ -72,8 +72,6 @@ Baidu_Tieba_name: 浏览器
 > [Wikipedia](https://en.wikipedia.org/wiki/Web%20browser) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Web_Browser](/_Standards/Technology/IT/Software/Software_Category/Web_Browser.md) 

@@ -46,8 +46,6 @@ Commons_gallery: 折り紙
 > [Wikipedia](https://en.wikipedia.org/wiki/Origami) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Origami](/_Standards/Society/Communication/Art/Origami.md) 

@@ -105,8 +105,6 @@ Europeana_entity: agent/base/147047
 > [Wikipedia](https://en.wikipedia.org/wiki/Cole%20Porter) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Porter,Cole](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Porter,Cole.md) 

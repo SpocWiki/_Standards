@@ -137,8 +137,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Takeshi%20Kitano)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kitano,Takeshi](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.md) 

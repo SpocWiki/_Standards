@@ -183,8 +183,6 @@ Know_Your_Meme_slug: zensursula
 > [Wikipedia](https://en.wikipedia.org/wiki/Ursula%20von%20der%20Leyen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ursula_von_der_Leyen](/_Standards/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.md) 

@@ -25,8 +25,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Vapor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vapor](/_Standards/Science/Physics/State_of_Matter/Vapor.md) 

@@ -60,8 +60,6 @@ native_label: Lex Salica
 > [Wikipedia](https://en.wikipedia.org/wiki/Salic%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Salic_Law](/_Standards/Society/Law/Salic_Law.md) 

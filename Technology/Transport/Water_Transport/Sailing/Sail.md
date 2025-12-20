@@ -33,8 +33,6 @@ has_id_wikidata: Q25999
 > [Wikipedia](https://en.wikipedia.org/wiki/Sail) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sail](/_Standards/Technology/Transport/Water_Transport/Sailing/Sail.md) 

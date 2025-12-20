@@ -82,8 +82,6 @@ native_label: Nordic Council
 > [Wikipedia](https://en.wikipedia.org/wiki/Nordic%20Council) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nordic_Council](/_Standards/Society/Agent/Community/Organization/International_Organization/Nordic_Council.md) 

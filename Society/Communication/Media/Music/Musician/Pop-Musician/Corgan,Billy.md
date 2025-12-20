@@ -40,11 +40,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Billy%20Corgan)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Corgan,Billy](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Corgan,Billy.md) 

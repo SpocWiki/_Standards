@@ -144,8 +144,6 @@ name_in_native_language: Gustavo Robert Kirchhoff
 > [Wikipedia](https://en.wikipedia.org/wiki/Gustav%20Kirchhoff) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kirchhoff,Gustav](/_Standards/Science/Physics/Physicist/Kirchhoff,Gustav.md) 

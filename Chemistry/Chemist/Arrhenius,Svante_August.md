@@ -157,8 +157,6 @@ ISNI: 000000008084414X
 > [Wikipedia](https://en.wikipedia.org/wiki/Svante%20Arrhenius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Arrhenius,Svante_August](/_Standards/Chemistry/Chemist/Arrhenius,Svante_August.md) 

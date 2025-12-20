@@ -29,8 +29,6 @@ has_id_wikidata: Q131246
 > [Wikipedia](https://en.wikipedia.org/wiki/Oedipus%20complex) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oedipus_Complex](/_Standards/bio/Psychology/Psychoanalysis/Oedipus_Complex.md) 

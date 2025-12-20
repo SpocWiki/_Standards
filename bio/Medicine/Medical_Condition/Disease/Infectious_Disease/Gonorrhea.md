@@ -139,8 +139,6 @@ Commons_gallery: Gonorrhoea
 > [Wikipedia](https://en.wikipedia.org/wiki/Gonorrhea) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gonorrhea](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Gonorrhea.md) 

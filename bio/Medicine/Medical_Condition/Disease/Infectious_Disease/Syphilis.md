@@ -93,8 +93,6 @@ UMLS_CUI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Syphilis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Syphilis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.md) 

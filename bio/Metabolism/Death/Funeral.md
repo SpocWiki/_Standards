@@ -88,8 +88,6 @@ Krugosvet_article: religiya/pogrebalnye-obychai-i-obryady
 > [Wikipedia](https://en.wikipedia.org/wiki/Funeral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Funeral](/_Standards/bio/Metabolism/Death/Funeral.md) 

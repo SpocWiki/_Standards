@@ -55,8 +55,6 @@ Commons_category: Laws of war
 > [Wikipedia](https://en.wikipedia.org/wiki/Law%20of%20war) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Law_of_War](/_Standards/Society/Military/Law_of_War.md) 

@@ -44,8 +44,6 @@ PhilPapers_topic: thomism
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thomism](/_Standards/Philosophy/Thomism.md) 

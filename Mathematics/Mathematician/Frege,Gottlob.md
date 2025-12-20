@@ -102,12 +102,6 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Gottlob%20Frege)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Frege,Gottlob](/_Standards/Mathematics/Mathematician/Frege,Gottlob.md) 

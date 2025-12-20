@@ -76,8 +76,6 @@ Libris_URI: ljx0zgn45n53f5s
 > [Wikipedia](https://en.wikipedia.org/wiki/Eurasia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eurasia](/_Standards/Earth/Continent/Eurasia.md) 

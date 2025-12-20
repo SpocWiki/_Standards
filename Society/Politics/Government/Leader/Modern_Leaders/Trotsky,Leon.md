@@ -171,8 +171,6 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Trotsky%20S
 > [Wikipedia](https://en.wikipedia.org/wiki/Leon%20Trotsky) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trotsky,Leon](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Trotsky,Leon.md) 

@@ -31,8 +31,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Consciousness)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Consciousness](/_Standards/bio/Psychology/Consciousness.md) 

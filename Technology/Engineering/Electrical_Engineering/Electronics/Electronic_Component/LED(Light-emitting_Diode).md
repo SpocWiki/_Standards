@@ -58,8 +58,6 @@ Commons_category: Light-emitting diodes
 > [Wikipedia](https://en.wikipedia.org/wiki/Light-emitting%20diode) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LED(Light-emitting_Diode)](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/LED(Light-emitting_Diode).md) 

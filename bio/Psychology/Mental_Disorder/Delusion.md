@@ -46,8 +46,6 @@ Krugosvet_article: meditsina/bred
 > [Wikipedia](https://en.wikipedia.org/wiki/Delusion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Delusion](/_Standards/bio/Psychology/Mental_Disorder/Delusion.md) 

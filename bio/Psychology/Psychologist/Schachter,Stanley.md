@@ -72,8 +72,6 @@ date_of_birth: 1922-04-15T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Stanley%20Schachter) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schachter,Stanley](/_Standards/bio/Psychology/Psychologist/Schachter,Stanley.md) 

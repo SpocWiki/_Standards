@@ -50,8 +50,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 > [Wikipedia](https://en.wikipedia.org/wiki/Satellite%20navigation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Global_Navigation_Satellite_System](/_Standards/Earth/Geography/Cartography/Global_Navigation_Satellite_System.md) 

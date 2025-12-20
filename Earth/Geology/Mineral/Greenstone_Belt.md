@@ -20,8 +20,6 @@ Commons_category: Greenstone belts
 > [Wikipedia](https://en.wikipedia.org/wiki/Greenstone%20belt)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greenstone_Belt](/_Standards/Earth/Geology/Mineral/Greenstone_Belt.md) 

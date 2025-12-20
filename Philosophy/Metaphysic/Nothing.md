@@ -42,8 +42,6 @@ native_label: Anyen
 > [Wikipedia](https://en.wikipedia.org/wiki/Nothing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nothing](/_Standards/Philosophy/Metaphysic/Nothing.md) 

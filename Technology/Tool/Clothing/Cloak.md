@@ -34,8 +34,6 @@ Commons_category: Cloaks
 > [Wikipedia](https://en.wikipedia.org/wiki/Cloak) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cloak](/_Standards/Technology/Tool/Clothing/Cloak.md) 

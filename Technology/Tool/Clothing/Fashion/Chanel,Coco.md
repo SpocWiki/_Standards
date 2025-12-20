@@ -115,10 +115,6 @@ Libris_URI: tr5774gc3th392d
 > [Wikipedia](https://en.wikipedia.org/wiki/Coco%20Chanel)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chanel,Coco](/_Standards/Technology/Tool/Clothing/Fashion/Chanel,Coco.md) 

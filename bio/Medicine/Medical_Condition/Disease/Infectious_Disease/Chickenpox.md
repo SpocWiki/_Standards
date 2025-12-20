@@ -24,8 +24,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Chickenpox) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chickenpox](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Chickenpox.md) 

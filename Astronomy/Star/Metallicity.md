@@ -31,8 +31,6 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/metallicity
 > [Wikipedia](https://en.wikipedia.org/wiki/Metallicity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metallicity](/_Standards/Astronomy/Star/Metallicity.md) 

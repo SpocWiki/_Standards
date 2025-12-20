@@ -140,8 +140,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3423
 > [Wikipedia](https://en.wikipedia.org/wiki/Christmas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Christmas](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christmas.md) 

@@ -102,8 +102,6 @@ last_line: This heauie Act, with heauie heart relate.
 > [Wikipedia](https://en.wikipedia.org/wiki/Othello) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Othello](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Othello.md) 

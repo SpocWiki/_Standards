@@ -33,9 +33,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rick%20Rubin)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rubin,Rick](/_Standards/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.md) 

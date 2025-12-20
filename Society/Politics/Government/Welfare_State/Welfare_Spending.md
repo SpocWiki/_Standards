@@ -46,8 +46,6 @@ Dewey_Decimal_Classification: "368.4"
 > [Wikipedia](https://en.wikipedia.org/wiki/Welfare%20spending) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Welfare_Spending](/_Standards/Society/Politics/Government/Welfare_State/Welfare_Spending.md) 

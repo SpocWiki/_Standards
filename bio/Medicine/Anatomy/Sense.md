@@ -49,9 +49,6 @@ Commons_category: Senses
 > [Wikipedia](https://en.wikipedia.org/wiki/Sense)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sense](/_Standards/bio/Medicine/Anatomy/Sense.md) 

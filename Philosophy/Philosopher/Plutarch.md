@@ -101,8 +101,6 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/53787
 > [Wikipedia](https://en.wikipedia.org/wiki/Plutarch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plutarch](/_Standards/Philosophy/Philosopher/Plutarch.md) 

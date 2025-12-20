@@ -176,8 +176,6 @@ ISNI: "0000000120966345"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Updike) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Updike,John](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Updike,John.md) 

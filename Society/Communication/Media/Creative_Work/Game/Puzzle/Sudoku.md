@@ -60,8 +60,6 @@ Baidu_Tieba_name: 数独
 > [Wikipedia](https://en.wikipedia.org/wiki/Sudoku) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sudoku](/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.md) 

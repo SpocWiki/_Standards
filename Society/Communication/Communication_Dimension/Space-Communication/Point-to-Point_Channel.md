@@ -21,8 +21,6 @@ subclass_of: "[[_Standards/WikiData/WD~communication,11024]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Point-to-point%20(telecommunications)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Point-to-Point_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Point-to-Point_Channel.md) 

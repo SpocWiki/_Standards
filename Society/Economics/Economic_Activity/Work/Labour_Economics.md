@@ -44,8 +44,6 @@ Commons_category: Work
 > [Wikipedia](https://en.wikipedia.org/wiki/Labour%20economics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Labour_Economics](/_Standards/Society/Economics/Economic_Activity/Work/Labour_Economics.md) 

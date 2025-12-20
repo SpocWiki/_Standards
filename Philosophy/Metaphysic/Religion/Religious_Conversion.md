@@ -29,8 +29,6 @@ has_id_wikidata: Q904756
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20conversion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Religious_Conversion](/_Standards/Philosophy/Metaphysic/Religion/Religious_Conversion.md) 

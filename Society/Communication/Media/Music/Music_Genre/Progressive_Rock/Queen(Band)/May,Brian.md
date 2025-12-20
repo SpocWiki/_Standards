@@ -188,10 +188,6 @@ X_Twitter_username: DrBrianMay
 > [Wikipedia](https://en.wikipedia.org/wiki/Brian%20May)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [May,Brian](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/May,Brian.md) 

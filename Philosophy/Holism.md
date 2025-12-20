@@ -44,9 +44,6 @@ Commons_category: Holism
 > [Wikipedia](https://en.wikipedia.org/wiki/Holism) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Holism](/_Standards/Philosophy/Holism.md) 

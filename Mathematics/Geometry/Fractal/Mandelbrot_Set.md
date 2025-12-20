@@ -60,8 +60,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot%20set) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mandelbrot_Set](/_Standards/Mathematics/Geometry/Fractal/Mandelbrot_Set.md) 

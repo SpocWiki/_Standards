@@ -72,8 +72,6 @@ MeSH_tree_code: F01.658.780
 > [Wikipedia](https://en.wikipedia.org/wiki/Power%20(social%20and%20political)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Power(social)](/_Standards/Society/Anthropology/Sociology/Power(social).md) 

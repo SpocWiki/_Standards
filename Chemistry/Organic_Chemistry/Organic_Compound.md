@@ -64,9 +64,6 @@ Commons_category: Organic compounds
 > [Wikipedia](https://en.wikipedia.org/wiki/Organic%20compound) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Organic_Compound](/_Standards/Chemistry/Organic_Chemistry/Organic_Compound.md) 

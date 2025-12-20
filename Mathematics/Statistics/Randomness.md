@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Randomness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Randomness](/_Standards/Mathematics/Statistics/Randomness.md) 

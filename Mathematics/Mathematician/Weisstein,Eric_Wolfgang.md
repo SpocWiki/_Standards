@@ -13,8 +13,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Eric%20W.%20Weisstein)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weisstein,Eric_Wolfgang](/_Standards/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.md) 

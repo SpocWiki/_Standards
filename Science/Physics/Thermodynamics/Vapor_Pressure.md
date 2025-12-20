@@ -37,8 +37,6 @@ MeSH_tree_code: G01.374.715.951
 > [Wikipedia](https://en.wikipedia.org/wiki/Vapor%20pressure) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vapor_Pressure](/_Standards/Science/Physics/Thermodynamics/Vapor_Pressure.md) 

@@ -41,8 +41,6 @@ Dewey_Decimal_Classification: "781.654"
 > [Wikipedia](https://en.wikipedia.org/wiki/Swing%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Swing_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Swing_Music.md) 

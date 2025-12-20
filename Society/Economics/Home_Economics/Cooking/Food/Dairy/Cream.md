@@ -41,8 +41,6 @@ Commons_category: Cream
 > [Wikipedia](https://en.wikipedia.org/wiki/Cream) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cream](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cream.md) 

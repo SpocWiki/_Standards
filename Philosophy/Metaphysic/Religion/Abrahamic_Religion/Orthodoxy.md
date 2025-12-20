@@ -41,8 +41,6 @@ Commons_category: Orthodoxy
 > [Wikipedia](https://en.wikipedia.org/wiki/Orthodoxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orthodoxy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Orthodoxy.md) 

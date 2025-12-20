@@ -70,8 +70,6 @@ TA98_Latin_term: pili
 > [Wikipedia](https://en.wikipedia.org/wiki/Hair) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hair](/_Standards/bio/Medicine/Anatomy/Skin/Hair.md) 

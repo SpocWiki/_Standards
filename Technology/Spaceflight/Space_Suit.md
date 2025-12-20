@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20suit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Space_Suit](/_Standards/Technology/Spaceflight/Space_Suit.md) 

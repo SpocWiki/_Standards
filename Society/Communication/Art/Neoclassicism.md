@@ -49,8 +49,6 @@ OpenStreetMap_tag: building:architecture=neoclassicism
 > [Wikipedia](https://en.wikipedia.org/wiki/Neoclassicism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neoclassicism](/_Standards/Society/Communication/Art/Neoclassicism.md) 

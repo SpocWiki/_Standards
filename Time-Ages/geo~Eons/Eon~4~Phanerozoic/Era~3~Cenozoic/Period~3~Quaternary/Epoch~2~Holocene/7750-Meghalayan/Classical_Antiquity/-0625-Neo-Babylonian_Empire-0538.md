@@ -51,8 +51,6 @@ dissolved_abolished_or_demolished_date: -0538-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Neo-Babylonian%20Empire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-0625-Neo-Babylonian_Empire-0538](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538.md) 

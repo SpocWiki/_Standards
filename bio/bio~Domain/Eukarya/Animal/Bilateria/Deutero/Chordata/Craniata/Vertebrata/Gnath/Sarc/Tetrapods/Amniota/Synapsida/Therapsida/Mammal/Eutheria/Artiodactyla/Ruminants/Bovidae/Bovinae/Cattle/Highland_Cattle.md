@@ -34,8 +34,6 @@ Commons_category: Highland cattle
 > [Wikipedia](https://en.wikipedia.org/wiki/Highland%20cattle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Highland_Cattle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle/Highland_Cattle.md) 

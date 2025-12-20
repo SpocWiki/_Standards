@@ -157,9 +157,6 @@ You should rather use the (more expensive) ImmutableStack for this purpose
 (and eventually revert the order). 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Functional](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional.md) 

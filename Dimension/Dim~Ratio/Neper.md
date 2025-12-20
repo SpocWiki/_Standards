@@ -47,8 +47,6 @@ time_of_discovery_or_invention: 1922-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Neper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neper](/_Standards/Dimension/Dim~Ratio/Neper.md) 

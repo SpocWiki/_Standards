@@ -73,8 +73,6 @@ Europeana_entity: agent/base/148536
 > [Wikipedia](https://en.wikipedia.org/wiki/Jaron%20Lanier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jaron_Lanier](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.md) 

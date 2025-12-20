@@ -97,8 +97,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Ancient
 > [Wikipedia](https://en.wikipedia.org/wiki/Odysseus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Odysseus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Odysseus.md) 

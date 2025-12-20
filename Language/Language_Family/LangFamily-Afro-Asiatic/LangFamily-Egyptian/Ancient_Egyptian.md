@@ -63,10 +63,6 @@ GOST_7_75_97_code: дре 187
 > [Wikipedia](https://en.wikipedia.org/wiki/Egyptian%20language) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ancient_Egyptian](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.md) 

@@ -101,8 +101,6 @@ Know_Your_Meme_slug: the-adventures-of-tintin
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Adventures%20of%20Tintin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tintin](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.md) 

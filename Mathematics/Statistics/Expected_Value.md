@@ -56,8 +56,6 @@ IEV_number: 103-08-10
 > [Wikipedia](https://en.wikipedia.org/wiki/Expected%20value) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Expected_Value](/_Standards/Mathematics/Statistics/Expected_Value.md) 

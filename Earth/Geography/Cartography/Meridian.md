@@ -58,8 +58,6 @@ line between the Earth's poles with the same longitude.
 > [Wikipedia](https://en.wikipedia.org/wiki/Meridian%20(geography))  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meridian](/_Standards/Earth/Geography/Cartography/Meridian.md) 

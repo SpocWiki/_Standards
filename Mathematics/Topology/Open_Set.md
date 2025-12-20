@@ -51,8 +51,6 @@ studied_by: "[[_Standards/WikiData/WD~topology,42989]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Open%20set) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Open_Set](/_Standards/Mathematics/Topology/Open_Set.md) 

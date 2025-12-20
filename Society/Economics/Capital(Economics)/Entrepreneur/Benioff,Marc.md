@@ -18,8 +18,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Marc%20Benioff)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Benioff,Marc](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Benioff,Marc.md) 

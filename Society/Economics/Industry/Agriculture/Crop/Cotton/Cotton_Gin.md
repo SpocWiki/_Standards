@@ -23,8 +23,6 @@ has_id_wikidata: Q1136790
 > [Wikipedia](https://en.wikipedia.org/wiki/Cotton%20gin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cotton_Gin](/_Standards/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.md) 

@@ -39,8 +39,6 @@ Dewey_Decimal_Classification: "632.5"
 > [Wikipedia](https://en.wikipedia.org/wiki/Weed) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weed](/_Standards/Society/Economics/Industry/Agriculture/Crop/Weed.md) 

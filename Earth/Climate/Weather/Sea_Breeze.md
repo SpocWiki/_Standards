@@ -46,8 +46,6 @@ Commons_category: Sea and land breezes
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20breeze) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sea_Breeze](/_Standards/Earth/Climate/Weather/Sea_Breeze.md) 

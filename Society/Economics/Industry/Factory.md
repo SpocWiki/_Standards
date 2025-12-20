@@ -82,8 +82,6 @@ OpenStreetMap_tag_or_key:
 > [Wikipedia](https://en.wikipedia.org/wiki/Factory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Factory](/_Standards/Society/Economics/Industry/Factory.md) 

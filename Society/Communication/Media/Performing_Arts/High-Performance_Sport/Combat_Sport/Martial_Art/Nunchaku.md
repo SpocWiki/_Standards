@@ -52,8 +52,6 @@ IMDb_keyword: nunchaku
 > [Wikipedia](https://en.wikipedia.org/wiki/Nunchaku) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nunchaku](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Nunchaku.md) 

@@ -64,8 +64,6 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Poblamient
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleo-Indians) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paleo-Indian](/_Standards/Earth/Continent/America~North/Paleo-Indian.md) 

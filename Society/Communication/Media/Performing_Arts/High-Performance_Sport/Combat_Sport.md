@@ -58,8 +58,6 @@ IMDb_keyword: combat-sport
 > [Wikipedia](https://en.wikipedia.org/wiki/Combat%20sport) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Combat_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport.md) 

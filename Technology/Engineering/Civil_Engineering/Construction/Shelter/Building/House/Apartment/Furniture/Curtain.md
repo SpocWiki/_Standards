@@ -51,8 +51,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q49005-a
 > [Wikipedia](https://en.wikipedia.org/wiki/Curtain) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Curtain](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Curtain.md) 

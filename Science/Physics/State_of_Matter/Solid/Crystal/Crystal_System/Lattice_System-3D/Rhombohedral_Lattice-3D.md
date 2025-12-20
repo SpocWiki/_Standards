@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hexagonal%20crystal%20family) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rhombohedral_Lattice-3D](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System/Lattice_System-3D/Rhombohedral_Lattice-3D.md) 

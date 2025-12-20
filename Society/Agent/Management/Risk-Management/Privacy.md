@@ -80,8 +80,6 @@ Colon_Classification: W:56
 > [Wikipedia](https://en.wikipedia.org/wiki/Privacy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Privacy](/_Standards/Society/Agent/Management/Risk-Management/Privacy.md) 

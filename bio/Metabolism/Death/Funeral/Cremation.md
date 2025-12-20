@@ -51,8 +51,6 @@ earliest_date: -40000-06
 > [Wikipedia](https://en.wikipedia.org/wiki/Cremation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cremation](/_Standards/bio/Metabolism/Death/Funeral/Cremation.md) 

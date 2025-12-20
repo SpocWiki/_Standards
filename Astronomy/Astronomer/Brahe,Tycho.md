@@ -165,8 +165,6 @@ ISNI: "0000000117701389"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tycho%20Brahe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brahe,Tycho](/_Standards/Astronomy/Astronomer/Brahe,Tycho.md) 

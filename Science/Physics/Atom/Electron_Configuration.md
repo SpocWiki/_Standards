@@ -35,8 +35,6 @@ has_id_wikidata: Q53859
 > [Wikipedia](https://en.wikipedia.org/wiki/Electron%20configuration) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electron_Configuration](/_Standards/Science/Physics/Atom/Electron_Configuration.md) 

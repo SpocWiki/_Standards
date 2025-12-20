@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Escalator) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Escalator](/_Standards/Technology/Transport/Vertical_Transport/Escalator.md) 

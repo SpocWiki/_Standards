@@ -37,8 +37,6 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Standarte%20Adolf
 > [Wikipedia](https://en.wikipedia.org/wiki/F%C3%BChrer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Führer](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.md) 

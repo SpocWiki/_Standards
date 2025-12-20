@@ -27,8 +27,6 @@ APA_Dictionary_of_Psychology_entry: group-dynamics
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20dynamics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Group_Dynamics](/_Standards/Society/Social_Relation/Group_Dynamics.md) 

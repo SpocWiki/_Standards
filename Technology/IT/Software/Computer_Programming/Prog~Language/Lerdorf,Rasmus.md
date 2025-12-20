@@ -46,8 +46,6 @@ Mastodon_address: rasmus@phpc.social
 > [Wikipedia](https://en.wikipedia.org/wiki/Rasmus%20Lerdorf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lerdorf,Rasmus](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Lerdorf,Rasmus.md) 

@@ -29,8 +29,6 @@ MeSH_tree_code: H01.181.590
 > [Wikipedia](https://en.wikipedia.org/wiki/Computational%20chemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computational_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Computational_Chemistry.md) 

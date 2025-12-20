@@ -32,8 +32,6 @@ has_id_wikidata: Q1065742
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Religious_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Religious_Music.md) 

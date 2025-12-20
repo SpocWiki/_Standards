@@ -43,8 +43,6 @@ Commons_category: Mohs scale
 > [Wikipedia](https://en.wikipedia.org/wiki/Mohs%20scale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~Mohs](/_Standards/Dimension/Unit~Mohs.md) 

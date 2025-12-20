@@ -47,8 +47,6 @@ Dewey_Decimal_Classification: "617.14"
 > [Wikipedia](https://en.wikipedia.org/wiki/Wound) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wound](/_Standards/bio/Medicine/Medical_Condition/Injury/Wound.md) 

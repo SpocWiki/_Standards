@@ -41,8 +41,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Helmet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Helmet](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Helmet.md) 

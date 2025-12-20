@@ -56,8 +56,6 @@ Unicode_character: 🌭
 > [Wikipedia](https://en.wikipedia.org/wiki/Hot%20dog) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hot_Dog](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.md) 

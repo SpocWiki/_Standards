@@ -56,9 +56,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Ketchup"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Ketchup) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ketchup](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.md) 

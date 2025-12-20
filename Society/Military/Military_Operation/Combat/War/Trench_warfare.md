@@ -38,8 +38,6 @@ Commons_category: Trench warfare
 > [Wikipedia](https://en.wikipedia.org/wiki/Trench%20warfare) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trench_warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Trench_warfare.md) 

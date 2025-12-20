@@ -44,9 +44,6 @@ Commons_category: Computational complexity theory
 > [Wikipedia](https://en.wikipedia.org/wiki/Computational%20complexity%20theory)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computational_Complexity_Theory](/_Standards/Mathematics/Algorithm/Computational_Complexity_Theory.md) 

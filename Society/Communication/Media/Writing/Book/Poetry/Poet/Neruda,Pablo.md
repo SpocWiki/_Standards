@@ -164,3 +164,22 @@ Google_Doodle: pablo-nerudas-birthday
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pablo%20Neruda) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Neruda,Pablo](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.md) 
+
+### #is_/same_as :: [Neruda,Pablo.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.public.md) 
+
+### #is_/same_as :: [Neruda,Pablo.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.internal.md) 
+
+### #is_/same_as :: [Neruda,Pablo.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.protect.md) 
+
+### #is_/same_as :: [Neruda,Pablo.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.private.md) 
+
+### #is_/same_as :: [Neruda,Pablo.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.personal.md) 
+
+### #is_/same_as :: [Neruda,Pablo.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Neruda,Pablo.secret.md)
+

@@ -65,8 +65,6 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/FANK.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Funk) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Funk_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Funk_Music.md) 

@@ -48,8 +48,6 @@ equivalent_class: http://dbpedia.org/ontology/Letter
 > [Wikipedia](https://en.wikipedia.org/wiki/Letter%20(alphabet)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Letter](/_Standards/Language/Writing_System/Letter.md) 

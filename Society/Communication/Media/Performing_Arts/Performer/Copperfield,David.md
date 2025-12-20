@@ -86,9 +86,6 @@ X_Twitter_username: D_Copperfield
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Copperfield%20(illusionist)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Copperfield,David](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.md) 

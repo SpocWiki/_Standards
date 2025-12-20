@@ -58,8 +58,6 @@ Commons_category: Saxons
 > [Wikipedia](https://en.wikipedia.org/wiki/Saxons) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saxon](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Saxon.md) 

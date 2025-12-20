@@ -79,8 +79,6 @@ Commons_category: Mikhail Alexandrovich Ulyanov
 > [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Ulyanov%20(actor))  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ulyanov,Mikhail](/_Standards/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.md) 

@@ -45,8 +45,6 @@ Commons_category: Porridges
 > [Wikipedia](https://en.wikipedia.org/wiki/Porridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Porridge](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Porridge.md) 

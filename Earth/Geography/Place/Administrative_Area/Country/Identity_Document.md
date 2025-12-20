@@ -40,8 +40,6 @@ has_id_wikidata: Q47988
 > [Wikipedia](https://en.wikipedia.org/wiki/Identity%20document) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Identity_Document](/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.md) 

@@ -36,8 +36,6 @@ Baidu_Tieba_name: 天才
 > [Wikipedia](https://en.wikipedia.org/wiki/Genius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Genius](/_Standards/bio/Psychology/Mind/Genius.md) 

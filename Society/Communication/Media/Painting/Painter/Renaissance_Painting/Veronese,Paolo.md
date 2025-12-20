@@ -272,7 +272,6 @@ Libris_URI: pm148zw7138dng9
 > [Wikipedia](https://en.wikipedia.org/wiki/Paolo%20Veronese) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Veronese,Paolo](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Veronese,Paolo.md) 

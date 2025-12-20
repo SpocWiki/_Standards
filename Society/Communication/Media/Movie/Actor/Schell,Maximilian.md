@@ -101,8 +101,6 @@ date_of_death: 2014-02-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Maximilian%20Schell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schell,Maximilian](/_Standards/Society/Communication/Media/Movie/Actor/Schell,Maximilian.md) 

@@ -54,8 +54,6 @@ Commons_category: Tevatron
 > [Wikipedia](https://en.wikipedia.org/wiki/Tevatron) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tevatron](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Particle_Accelerator/Tevatron.md) 

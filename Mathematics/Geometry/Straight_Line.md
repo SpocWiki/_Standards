@@ -58,8 +58,6 @@ IEV_number: 102-04-02
 > [Wikipedia](https://en.wikipedia.org/wiki/Line%20(geometry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Straight_Line](/_Standards/Mathematics/Geometry/Straight_Line.md) 

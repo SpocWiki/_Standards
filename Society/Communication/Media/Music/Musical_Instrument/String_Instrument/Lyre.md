@@ -46,8 +46,6 @@ Commons_category: Lyres
 > [Wikipedia](https://en.wikipedia.org/wiki/Lyre) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lyre](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lyre.md) 

@@ -48,8 +48,6 @@ Commons_category: Saints Cyril and Methodius
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyril%20and%20Methodius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Saints_Cyril_and_Methodius](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saints_Cyril_and_Methodius.md) 

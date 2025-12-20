@@ -24,8 +24,6 @@ Commons_category: Worm gears
 > [Wikipedia](https://en.wikipedia.org/wiki/Worm%20drive) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Worm_Drive](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.md) 

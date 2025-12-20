@@ -79,8 +79,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Touchscreen)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Touchscreen](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Touchscreen.md) 

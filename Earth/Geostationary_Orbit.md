@@ -28,8 +28,6 @@ Commons_category: Geostationary orbit
 > [Wikipedia](https://en.wikipedia.org/wiki/Geostationary%20orbit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geostationary_Orbit](/_Standards/Earth/Geostationary_Orbit.md) 

@@ -83,8 +83,6 @@ first_line: Les Représentans du Peuple François, constitués en Assemblée Nat
 > [Wikipedia](https://en.wikipedia.org/wiki/Declaration%20of%20the%20Rights%20of%20Man%20and%20of%20the%20Citizen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Declaration_of_the_Rights_of_Man_and_of_the_Citizen](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.md) 

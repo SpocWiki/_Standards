@@ -1,8 +1,6 @@
 Dimensionless Numbers typically express [[Ratio]]s. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dim~Number](/_Standards/Dimension/Dim~Number.md) 

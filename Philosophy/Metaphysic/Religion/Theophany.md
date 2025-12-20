@@ -38,8 +38,6 @@ Stack_Exchange_tag: https://hermeneutics.stackexchange.com/tags/theophany
 > [Wikipedia](https://en.wikipedia.org/wiki/Theophany) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theophany](/_Standards/Philosophy/Metaphysic/Religion/Theophany.md) 

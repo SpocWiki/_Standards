@@ -28,8 +28,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Manis.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Manis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Manis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae/Manis.md) 

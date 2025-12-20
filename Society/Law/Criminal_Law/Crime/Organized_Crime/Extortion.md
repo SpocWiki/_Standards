@@ -81,8 +81,6 @@ Commons_category: Extortion
 > [Wikipedia](https://en.wikipedia.org/wiki/Extortion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Extortion](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.md) 

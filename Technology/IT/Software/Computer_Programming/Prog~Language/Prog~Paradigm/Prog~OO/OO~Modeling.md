@@ -83,8 +83,6 @@ The only way to encode this is to throw a Runtime Exception like the NotSupporte
 Example: `Penguins` are `Birds`, but they can not `Fly()`.  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OO~Modeling](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.md) 

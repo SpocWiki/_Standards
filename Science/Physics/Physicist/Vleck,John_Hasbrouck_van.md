@@ -20,8 +20,6 @@ has_id_wikidata: Q193655
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Hasbrouck%20Van%20Vleck) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vleck,John_Hasbrouck_van](/_Standards/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.md) 

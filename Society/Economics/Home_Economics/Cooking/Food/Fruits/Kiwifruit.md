@@ -59,8 +59,6 @@ Unicode_character: 🥝
 > [Wikipedia](https://en.wikipedia.org/wiki/Kiwifruit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kiwifruit](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Kiwifruit.md) 

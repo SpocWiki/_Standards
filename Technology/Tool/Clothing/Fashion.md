@@ -75,10 +75,6 @@ Krugosvet_article_archived_: psikhologiya-i-pedagogika/moda
 > [Wikipedia](https://en.wikipedia.org/wiki/Fashion)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fashion](/_Standards/Technology/Tool/Clothing/Fashion.md) 

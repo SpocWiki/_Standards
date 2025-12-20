@@ -186,8 +186,6 @@ IPA_transcription: sælˈmɑːn ˈrʊʃdi
 > [Wikipedia](https://en.wikipedia.org/wiki/Salman%20Rushdie) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Salman_Rushdie](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Salman_Rushdie.md) 

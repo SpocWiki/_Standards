@@ -60,9 +60,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnitude%20(astronomy)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnitude(Astronomy)](/_Standards/Astronomy/Magnitude(Astronomy).md) 

@@ -5,8 +5,6 @@
 #has_/next_item :: [[Windows7Vista]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WindowsXP](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsXP.md) 

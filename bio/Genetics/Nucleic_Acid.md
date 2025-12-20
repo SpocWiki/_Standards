@@ -46,8 +46,6 @@ Commons_category: Nucleic acids
 > [Wikipedia](https://en.wikipedia.org/wiki/Nucleic%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nucleic_Acid](/_Standards/bio/Genetics/Nucleic_Acid.md) 

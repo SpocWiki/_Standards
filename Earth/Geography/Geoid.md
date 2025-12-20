@@ -35,11 +35,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 > [Wikipedia](https://en.wikipedia.org/wiki/Geoid)  
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geoid](/_Standards/Earth/Geography/Geoid.md) 

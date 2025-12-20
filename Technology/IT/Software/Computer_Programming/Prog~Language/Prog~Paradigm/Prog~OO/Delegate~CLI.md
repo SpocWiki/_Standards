@@ -31,8 +31,6 @@ And only in later Versions of C#9.0 (2020) Sub-Interface Methods can be variant,
 - return __more specific Results__ [[Covariance,OO]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Delegate~CLI](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.md) 

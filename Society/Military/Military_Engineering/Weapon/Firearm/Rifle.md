@@ -20,8 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Rifle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rifle](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.md) 

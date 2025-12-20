@@ -60,8 +60,6 @@ has_id_wikidata: Q22657
 > [Wikipedia](https://en.wikipedia.org/wiki/Concrete) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Concrete](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete.md) 

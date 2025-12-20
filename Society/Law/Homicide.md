@@ -59,8 +59,6 @@ time_of_earliest_written_record: -1751-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Homicide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Homicide](/_Standards/Society/Law/Homicide.md) 

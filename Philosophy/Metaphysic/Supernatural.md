@@ -30,8 +30,6 @@ Baidu_Tieba_name: 超自然
 > [Wikipedia](https://en.wikipedia.org/wiki/Supernatural) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Supernatural](/_Standards/Philosophy/Metaphysic/Supernatural.md) 

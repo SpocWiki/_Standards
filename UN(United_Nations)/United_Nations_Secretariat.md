@@ -68,8 +68,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Headquarters%20of%20th
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Secretariat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [United_Nations_Secretariat](/_Standards/UN(United_Nations)/United_Nations_Secretariat.md) 

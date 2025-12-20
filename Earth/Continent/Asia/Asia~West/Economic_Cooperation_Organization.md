@@ -82,8 +82,6 @@ official_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Economic%20Cooperation%20Organization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Economic_Cooperation_Organization](/_Standards/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.md) 

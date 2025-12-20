@@ -38,8 +38,6 @@ Commons_category: Hexagons
 > [Wikipedia](https://en.wikipedia.org/wiki/Hexagon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hexagon](/_Standards/Mathematics/Geometry/Hexagon.md) 

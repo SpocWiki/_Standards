@@ -72,8 +72,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/X-ray) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [X-Ray](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/X-Ray.md) 

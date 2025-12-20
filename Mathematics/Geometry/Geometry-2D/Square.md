@@ -103,8 +103,6 @@ Dewey_Decimal_Classification: "516.154"
 > [Wikipedia](https://en.wikipedia.org/wiki/Square)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Square](/_Standards/Mathematics/Geometry/Geometry-2D/Square.md) 

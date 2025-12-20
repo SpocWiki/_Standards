@@ -52,8 +52,6 @@ Wolfram_Language_entity_code: Entity["Concept", "GaloisTheory::dbyz3"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Galois%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galois_Theory](/_Standards/Mathematics/Algebra/Galois_Theory.md) 

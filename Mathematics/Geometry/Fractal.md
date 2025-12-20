@@ -53,8 +53,6 @@ subreddit: fractals
 > [Wikipedia](https://en.wikipedia.org/wiki/Fractal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fractal](/_Standards/Mathematics/Geometry/Fractal.md) 

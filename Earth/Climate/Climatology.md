@@ -59,8 +59,6 @@ Commons_category: Climatology
 > [Wikipedia](https://en.wikipedia.org/wiki/Climatology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Climatology](/_Standards/Earth/Climate/Climatology.md) 

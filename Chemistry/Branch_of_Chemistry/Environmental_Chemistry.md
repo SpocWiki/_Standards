@@ -27,8 +27,6 @@ Commons_category: Environmental chemistry
 > [Wikipedia](https://en.wikipedia.org/wiki/Environmental%20chemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Environmental_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.md) 

@@ -47,8 +47,6 @@ Krugosvet_article_archived_: istoriya/MAMLYUK.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Mamluk) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mamluk](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Mamluk.md) 

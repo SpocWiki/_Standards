@@ -59,8 +59,6 @@ Iconclass_notation: "49E2511"
 > [Wikipedia](https://en.wikipedia.org/wiki/Lens) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lens](/_Standards/Science/Physics/Wave/Optics/Lens.md) 

@@ -49,8 +49,6 @@ Commons_category: Theoretical physics
 > [Wikipedia](https://en.wikipedia.org/wiki/Theoretical%20physics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theoretical_Physics](/_Standards/Science/Physics/Theoretical_Physics.md) 

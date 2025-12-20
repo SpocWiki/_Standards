@@ -33,8 +33,6 @@ Commons_category: Nitrates
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nitrate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.md) 

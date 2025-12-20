@@ -40,8 +40,6 @@ Commons_category: Rhombi
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhombus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rhombus](/_Standards/Mathematics/Geometry/Geometry-2D/Rhombus.md) 

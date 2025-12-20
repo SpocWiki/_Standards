@@ -49,8 +49,6 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/MAYATNIK_FUKO.ht
 > [Wikipedia](https://en.wikipedia.org/wiki/Foucault%20pendulum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Foucault_Pendulum](/_Standards/Science/Physics/Classical_Mechanics/Foucault_Pendulum.md) 

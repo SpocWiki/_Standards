@@ -47,8 +47,6 @@ Colon_Classification: Q:36
 > [Wikipedia](https://en.wikipedia.org/wiki/Eschatology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eschatology](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.md) 

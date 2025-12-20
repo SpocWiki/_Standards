@@ -45,8 +45,6 @@ Commons_category: Crusader states
 > [Wikipedia](https://en.wikipedia.org/wiki/Crusader%20states) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1098-Crusader_States](/_Standards/Earth/Continent/Asia/Asia~West/1098-Crusader_States.md) 

@@ -133,8 +133,6 @@ Europeana_entity: agent/base/146849
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Wayne) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wayne,John](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.md) 

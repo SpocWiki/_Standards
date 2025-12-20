@@ -40,8 +40,6 @@ Commons_category: Computer animations
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20animation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Computer_Animation](/_Standards/Society/Communication/Media/Movie/Computer_Animation.md) 

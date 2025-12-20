@@ -89,8 +89,6 @@ UMLS_CUI: C0020157
 > [Wikipedia](https://en.wikipedia.org/wiki/Humanities) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Humanities](/_Standards/Society/Anthropology/Humanities.md) 

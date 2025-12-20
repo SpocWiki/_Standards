@@ -50,8 +50,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Noise) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Noise](/_Standards/Science/Physics/Wave/Acoustics/Noise.md) 

@@ -62,8 +62,6 @@ Dewey_Decimal_Classification: "621.45"
 > [Wikipedia](https://en.wikipedia.org/wiki/Wind%20turbine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wind_Turbine](/_Standards/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.md) 

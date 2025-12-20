@@ -29,8 +29,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hayflick%20limit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hayflick_Limit](/_Standards/bio/Metabolism/Hayflick_Limit.md) 

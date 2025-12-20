@@ -115,8 +115,6 @@ work_period_start_: 1909-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Ezra%20Pound) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pound,Ezra](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.md) 

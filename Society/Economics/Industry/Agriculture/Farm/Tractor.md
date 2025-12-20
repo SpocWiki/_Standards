@@ -51,8 +51,6 @@ Commons_category: Tractors
 > [Wikipedia](https://en.wikipedia.org/wiki/Tractor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tractor](/_Standards/Society/Economics/Industry/Agriculture/Farm/Tractor.md) 

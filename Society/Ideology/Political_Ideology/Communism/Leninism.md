@@ -65,8 +65,6 @@ official_website: https://leninism.su
 > [Wikipedia](https://en.wikipedia.org/wiki/Leninism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leninism](/_Standards/Society/Ideology/Political_Ideology/Communism/Leninism.md) 

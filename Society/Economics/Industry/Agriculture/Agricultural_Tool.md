@@ -27,7 +27,6 @@ Commons_gallery: Agricultural equipment
 tool used for farming
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Agricultural_Tool](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool.md) 

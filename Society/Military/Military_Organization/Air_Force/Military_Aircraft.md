@@ -51,8 +51,6 @@ Unicode_character: 🛦
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20aircraft) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_Aircraft](/_Standards/Society/Military/Military_Organization/Air_Force/Military_Aircraft.md) 

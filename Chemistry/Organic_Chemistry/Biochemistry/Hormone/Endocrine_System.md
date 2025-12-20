@@ -52,8 +52,6 @@ Library_of_Congress_Classification: QP187.A1-QP187.Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Endocrine%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Endocrine_System](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.md) 

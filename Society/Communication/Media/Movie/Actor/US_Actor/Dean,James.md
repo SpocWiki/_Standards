@@ -96,8 +96,6 @@ birth_name: James Byron Dean
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Dean) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dean,James](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Dean,James.md) 

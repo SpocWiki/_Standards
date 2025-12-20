@@ -114,8 +114,6 @@ date_of_birth: 1946-03-12T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Liza%20Minnelli) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Minnelli,Liza](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.md) 

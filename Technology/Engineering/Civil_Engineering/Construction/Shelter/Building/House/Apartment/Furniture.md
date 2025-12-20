@@ -27,10 +27,6 @@ has_id_wikidata: Q14745
 > [Wikipedia](https://en.wikipedia.org/wiki/Furniture) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Furniture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture.md) 

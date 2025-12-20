@@ -40,8 +40,6 @@ Commons_category: Sampling (statistics)
 > [Wikipedia](https://en.wikipedia.org/wiki/Sampling%20(signal%20processing)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sampling](/_Standards/Mathematics/Statistics/Experiment/Sampling.md) 

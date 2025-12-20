@@ -33,8 +33,6 @@ has_id_wikidata: Q204260
 > [Wikipedia](https://en.wikipedia.org/wiki/Plane%20(tool)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plane(Tool)](/_Standards/Technology/Tool/Plane(Tool).md) 

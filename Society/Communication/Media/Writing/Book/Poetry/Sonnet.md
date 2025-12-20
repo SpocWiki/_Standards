@@ -47,8 +47,6 @@ Commons_category: Sonnets
 > [Wikipedia](https://en.wikipedia.org/wiki/Sonnet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sonnet](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Sonnet.md) 

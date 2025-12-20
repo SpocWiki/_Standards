@@ -42,9 +42,6 @@ Commons_category: Critical point (thermodynamics)
 > [Wikipedia](https://en.wikipedia.org/wiki/Critical%20point%20(thermodynamics)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Critical_Point](/_Standards/Science/Physics/State_of_Matter/Critical_Point.md) 

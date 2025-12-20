@@ -106,8 +106,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Tourism::n8dyv"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Tourism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tourism](/_Standards/Technology/Transport/Travel/Tourism.md) 

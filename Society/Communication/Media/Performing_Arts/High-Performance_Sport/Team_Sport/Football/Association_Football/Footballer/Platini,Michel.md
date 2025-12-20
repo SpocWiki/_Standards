@@ -100,8 +100,6 @@ ISNI: "0000000110300013"
 > [Wikipedia](https://en.wikipedia.org/wiki/Michel%20Platini) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Platini,Michel](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Platini,Michel.md) 

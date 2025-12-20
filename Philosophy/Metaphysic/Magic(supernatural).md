@@ -67,8 +67,6 @@ Colon_Classification: Δ:87
 > [Wikipedia](https://en.wikipedia.org/wiki/Magic%20(supernatural)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magic(supernatural)](/_Standards/Philosophy/Metaphysic/Magic(supernatural).md) 

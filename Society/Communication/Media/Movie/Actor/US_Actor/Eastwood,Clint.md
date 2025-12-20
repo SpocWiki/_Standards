@@ -167,8 +167,6 @@ date_of_birth: 1930-05-31T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Clint%20Eastwood) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eastwood,Clint](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.md) 

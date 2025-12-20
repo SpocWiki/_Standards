@@ -45,8 +45,6 @@ has_id_wikidata: Q847109
 > [Wikipedia](https://en.wikipedia.org/wiki/Dreadnought) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dreadnought](/_Standards/Society/Military/Military_Organization/Navy/Dreadnought.md) 

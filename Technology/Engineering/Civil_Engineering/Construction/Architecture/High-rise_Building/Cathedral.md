@@ -56,8 +56,6 @@ OpenStreetMap_tag_or_key: Tag:building=cathedral
 > [Wikipedia](https://en.wikipedia.org/wiki/Cathedral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cathedral](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.md) 

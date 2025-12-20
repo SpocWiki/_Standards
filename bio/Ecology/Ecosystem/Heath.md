@@ -44,8 +44,6 @@ OpenStreetMap_tag: natural=heath
 > [Wikipedia](https://en.wikipedia.org/wiki/Heath) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heath](/_Standards/bio/Ecology/Ecosystem/Heath.md) 

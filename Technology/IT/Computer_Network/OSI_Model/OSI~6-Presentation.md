@@ -21,8 +21,6 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/presentation-layer
 > [Wikipedia](https://en.wikipedia.org/wiki/Presentation%20layer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSI~6-Presentation](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~6-Presentation.md) 

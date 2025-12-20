@@ -47,8 +47,6 @@ Commons_category: Magellanic Clouds
 > [Wikipedia](https://en.wikipedia.org/wiki/Magellanic%20Clouds) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magellanic_Clouds](/_Standards/Astronomy/Star_System/Galaxy/Magellanic_Clouds.md) 

@@ -60,11 +60,6 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/EMPATIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Empathy) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Empathy](/_Standards/bio/Psychology/Affect/Emotion/Empathy.md) 

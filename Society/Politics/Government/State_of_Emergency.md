@@ -38,8 +38,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Police%20nationale%20e
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20of%20emergency) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [State_of_Emergency](/_Standards/Society/Politics/Government/State_of_Emergency.md) 

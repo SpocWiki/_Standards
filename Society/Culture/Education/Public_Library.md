@@ -50,8 +50,6 @@ Iconclass_notation: 49M9
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20library) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Public_Library](/_Standards/Society/Culture/Education/Public_Library.md) 

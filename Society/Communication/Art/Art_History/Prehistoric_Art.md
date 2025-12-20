@@ -43,10 +43,6 @@ Commons_category: Prehistoric art
 > [Wikipedia](https://en.wikipedia.org/wiki/Prehistoric%20art) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prehistoric_Art](/_Standards/Society/Communication/Art/Art_History/Prehistoric_Art.md) 

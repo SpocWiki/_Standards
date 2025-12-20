@@ -54,8 +54,6 @@ name_in_kana: しっくい
 > [Wikipedia](https://en.wikipedia.org/wiki/Plaster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plaster](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Plaster.md) 

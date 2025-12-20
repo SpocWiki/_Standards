@@ -26,8 +26,6 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiple%20integral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multiple_Integral](/_Standards/Mathematics/Calculus/Integral/Multiple_Integral.md) 

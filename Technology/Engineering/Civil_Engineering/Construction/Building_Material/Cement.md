@@ -56,8 +56,6 @@ P8189: "987007284980005171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Cement) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cement](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.md) 

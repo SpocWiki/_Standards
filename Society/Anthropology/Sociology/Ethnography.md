@@ -44,8 +44,6 @@ Commons_category: Ethnography
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethnography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ethnography](/_Standards/Society/Anthropology/Sociology/Ethnography.md) 

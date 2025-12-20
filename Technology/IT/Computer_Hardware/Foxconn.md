@@ -42,8 +42,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Foxconn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Foxconn](/_Standards/Technology/IT/Computer_Hardware/Foxconn.md) 

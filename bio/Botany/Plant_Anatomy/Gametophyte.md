@@ -31,8 +31,6 @@ Commons_category: Gametophytes
 > [Wikipedia](https://en.wikipedia.org/wiki/Gametophyte) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gametophyte](/_Standards/bio/Botany/Plant_Anatomy/Gametophyte.md) 

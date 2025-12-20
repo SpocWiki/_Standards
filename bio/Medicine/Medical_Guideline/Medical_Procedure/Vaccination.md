@@ -153,12 +153,6 @@ Vaccination has played a critical role in public health by preventing the spread
 > [Wikipedia](https://en.wikipedia.org/wiki/Vaccination)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vaccination](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.md) 

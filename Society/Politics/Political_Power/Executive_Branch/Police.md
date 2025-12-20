@@ -92,11 +92,6 @@ and become a common colloquial term used both by the public and police officers
 to refer to their profession. 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Police](/_Standards/Society/Politics/Political_Power/Executive_Branch/Police.md) 

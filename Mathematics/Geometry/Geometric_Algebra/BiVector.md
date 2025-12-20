@@ -35,9 +35,6 @@ Commons_category: Bivectors
 > [Wikipedia](https://en.wikipedia.org/wiki/Bivector) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [BiVector](/_Standards/Mathematics/Geometry/Geometric_Algebra/BiVector.md) 

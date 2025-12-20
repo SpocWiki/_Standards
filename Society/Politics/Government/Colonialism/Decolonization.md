@@ -25,8 +25,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Decolonisation::m4z75"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Decolonization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decolonization](/_Standards/Society/Politics/Government/Colonialism/Decolonization.md) 

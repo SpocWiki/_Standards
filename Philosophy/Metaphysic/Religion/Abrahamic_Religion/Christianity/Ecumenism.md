@@ -56,8 +56,6 @@ IPTC_NewsCode: mediatopic/20000660
 > [Wikipedia](https://en.wikipedia.org/wiki/Ecumenism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ecumenism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.md) 

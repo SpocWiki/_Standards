@@ -90,8 +90,6 @@ NBN_System_Key: NHMSYS0020152403
 > [Wikipedia](https://en.wikipedia.org/wiki/Colorado%20potato%20beetle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Potato_Beetle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.md) 

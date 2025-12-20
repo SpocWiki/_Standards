@@ -64,12 +64,6 @@ This allows faster searching and Comparison!
 > [Wikipedia](https://en.wikipedia.org/wiki/Commutative%20property)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [commutative](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.md) 

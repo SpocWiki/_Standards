@@ -66,8 +66,6 @@ has_id_wikidata: Q332880
 > [Wikipedia](https://en.wikipedia.org/wiki/Common%20sense) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Common_Sense](/_Standards/bio/Psychology/Cognition/Common_Sense.md) 

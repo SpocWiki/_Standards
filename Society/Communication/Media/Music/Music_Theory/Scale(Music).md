@@ -38,9 +38,6 @@ Commons_category: Musical scales
 > [Wikipedia](https://en.wikipedia.org/wiki/Scale%20(music)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scale(Music)](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music).md) 

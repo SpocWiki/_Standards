@@ -44,8 +44,6 @@ Commons_category: Ancient Roman art
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roman_Art](/_Standards/Society/Communication/Art/Art_History/Roman_Art.md) 

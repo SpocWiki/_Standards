@@ -81,8 +81,6 @@ Commons_category: Rape
 > [Wikipedia](https://en.wikipedia.org/wiki/Rape) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rape](/_Standards/Society/Law/Criminal_Law/Crime/Rape.md) 

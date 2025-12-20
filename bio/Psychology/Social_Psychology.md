@@ -43,8 +43,6 @@ Library_of_Congress_Classification: HM1001-HM1281
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20psychology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Psychology](/_Standards/bio/Psychology/Social_Psychology.md) 

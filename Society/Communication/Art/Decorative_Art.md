@@ -48,9 +48,6 @@ Commons_category: Decorative arts
 > [Wikipedia](https://en.wikipedia.org/wiki/Decorative%20arts) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decorative_Art](/_Standards/Society/Communication/Art/Decorative_Art.md) 

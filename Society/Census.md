@@ -72,8 +72,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Census) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Census](/_Standards/Society/Census.md) 

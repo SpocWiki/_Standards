@@ -48,8 +48,6 @@ Commons_category: Sexual attraction
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20attraction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sexual_Attraction](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.md) 

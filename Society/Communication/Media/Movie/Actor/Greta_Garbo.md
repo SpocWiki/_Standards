@@ -151,8 +151,6 @@ Libris_URI: 53hkl4hp2j75sxp
 > [Wikipedia](https://en.wikipedia.org/wiki/Greta%20Garbo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greta_Garbo](/_Standards/Society/Communication/Media/Movie/Actor/Greta_Garbo.md) 

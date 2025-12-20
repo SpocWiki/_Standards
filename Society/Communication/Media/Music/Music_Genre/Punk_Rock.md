@@ -50,8 +50,6 @@ native_label: Punk rock
 > [Wikipedia](https://en.wikipedia.org/wiki/Punk%20rock) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Punk_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Punk_Rock.md) 

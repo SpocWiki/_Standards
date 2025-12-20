@@ -57,8 +57,6 @@ Krugosvet_article_archived_: istoriya/ellinizm
 > [Wikipedia](https://en.wikipedia.org/wiki/Hellenistic%20period) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-0322-Hellenistic_Period-0029](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.md) 

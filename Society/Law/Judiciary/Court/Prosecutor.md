@@ -87,8 +87,6 @@ OpenStreetMap_tag: government=prosecutor
 > [Wikipedia](https://en.wikipedia.org/wiki/Prosecutor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prosecutor](/_Standards/Society/Law/Judiciary/Court/Prosecutor.md) 

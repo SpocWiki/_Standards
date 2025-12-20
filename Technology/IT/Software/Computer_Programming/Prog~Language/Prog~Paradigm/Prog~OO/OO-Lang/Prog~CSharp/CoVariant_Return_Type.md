@@ -3,8 +3,6 @@ which allows to restrict the Return Types in Subclasses,
 leading to better typed Code:
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CoVariant_Return_Type](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CoVariant_Return_Type.md) 

@@ -99,10 +99,6 @@ GOST_7_75_97_code: неп 485
 > [Wikipedia](https://en.wikipedia.org/wiki/Nepali%20language) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nepali](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Nepali.md) 

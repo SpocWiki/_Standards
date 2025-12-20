@@ -60,8 +60,6 @@ PhilPapers_topic: quantum-chemistry
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20chemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quantum_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.md) 

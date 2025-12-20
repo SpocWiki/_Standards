@@ -55,8 +55,6 @@ Commons_category: Holy Alliance
 > [Wikipedia](https://en.wikipedia.org/wiki/Holy%20Alliance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Holy_Alliance](/_Standards/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.md) 

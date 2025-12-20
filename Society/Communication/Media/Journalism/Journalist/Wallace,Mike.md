@@ -69,8 +69,6 @@ date_of_birth: 1918-05-09T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Mike%20Wallace) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wallace,Mike](/_Standards/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.md) 

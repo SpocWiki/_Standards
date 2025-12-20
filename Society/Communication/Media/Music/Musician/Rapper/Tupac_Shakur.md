@@ -155,8 +155,6 @@ Know_Your_Meme_slug: tupac-hologram
 > [Wikipedia](https://en.wikipedia.org/wiki/Tupac%20Shakur) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tupac_Shakur](/_Standards/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.md) 

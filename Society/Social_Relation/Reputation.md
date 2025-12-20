@@ -28,8 +28,6 @@ IMDb_keyword: reputation
 > [Wikipedia](https://en.wikipedia.org/wiki/Reputation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reputation](/_Standards/Society/Social_Relation/Reputation.md) 

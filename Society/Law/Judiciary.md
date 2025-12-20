@@ -55,8 +55,6 @@ IPTC_NewsCode: mediatopic/20000106
 > [Wikipedia](https://en.wikipedia.org/wiki/Judiciary) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Judiciary](/_Standards/Society/Law/Judiciary.md) 

@@ -72,9 +72,6 @@ name: ꠄꠘ꠆ꠒꠣ
 > [Wikipedia](https://en.wikipedia.org/wiki/Egg) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Egg](/_Standards/bio/Reproduction/Sexual_Reproduction/Egg.md) 

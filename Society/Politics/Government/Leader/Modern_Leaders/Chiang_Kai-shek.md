@@ -28,8 +28,6 @@ has_id_wikidata: Q16574
 > [Wikipedia](https://en.wikipedia.org/wiki/Chiang%20Kai-shek)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chiang_Kai-shek](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.md) 

@@ -36,8 +36,6 @@ PhilPapers_topic: history-of-economics
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20economic%20thought) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_economic_Thought](/_Standards/Society/Economics/History_of_economic_Thought.md) 

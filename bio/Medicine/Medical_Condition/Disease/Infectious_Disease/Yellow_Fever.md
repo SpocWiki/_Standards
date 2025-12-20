@@ -198,8 +198,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yellow%20fever) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Yellow_Fever](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Yellow_Fever.md) 

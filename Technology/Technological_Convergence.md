@@ -27,8 +27,6 @@ Commons_category: Technological convergence
 > [Wikipedia](https://en.wikipedia.org/wiki/Technological%20convergence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Technological_Convergence](/_Standards/Technology/Technological_Convergence.md) 

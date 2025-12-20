@@ -35,8 +35,6 @@ Archive_of_Our_Own_tag: technophobia
 > [Wikipedia](https://en.wikipedia.org/wiki/Technophobia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Technophobia](/_Standards/bio/Psychology/Mental_Disorder/Phobia/Technophobia.md) 

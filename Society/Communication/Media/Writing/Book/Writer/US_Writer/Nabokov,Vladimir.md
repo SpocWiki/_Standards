@@ -195,8 +195,6 @@ Libris_URI: b8nqlrsv277d1qd
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Nabokov) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nabokov,Vladimir](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir.md) 

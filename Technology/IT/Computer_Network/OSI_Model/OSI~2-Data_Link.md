@@ -34,8 +34,6 @@ Commons_category: Data link layer
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20link%20layer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSI~2-Data_Link](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.md) 

@@ -128,9 +128,6 @@ start_time: 1933-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Deal) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [New_Deal](/_Standards/Earth/Continent/America~North/US~President/New_Deal.md) 

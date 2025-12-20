@@ -111,8 +111,6 @@ Commons_category: Northern Ireland Troubles
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Troubles) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1960-Northern_Ireland_Conflict+1998](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.md) 

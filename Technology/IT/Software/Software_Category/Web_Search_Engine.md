@@ -66,8 +66,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Search-engine-diagram-
 > [Wikipedia](https://en.wikipedia.org/wiki/Search%20engine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Web_Search_Engine](/_Standards/Technology/IT/Software/Software_Category/Web_Search_Engine.md) 

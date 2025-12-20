@@ -64,7 +64,6 @@ X_Twitter_username: PeterOHearn12
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20logic)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Logic(Math)](/_Standards/Philosophy/Logic/Logic(Math).md) 

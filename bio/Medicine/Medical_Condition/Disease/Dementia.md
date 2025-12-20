@@ -24,8 +24,6 @@ has_id_wikidata: Q83030
 > [Wikipedia](https://en.wikipedia.org/wiki/Dementia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dementia](/_Standards/bio/Medicine/Medical_Condition/Disease/Dementia.md) 

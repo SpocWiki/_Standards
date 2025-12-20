@@ -90,8 +90,6 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Georg%
 > [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Ohm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ohm,Georg_Simon](/_Standards/Science/Physics/Physicist/Ohm,Georg_Simon.md) 

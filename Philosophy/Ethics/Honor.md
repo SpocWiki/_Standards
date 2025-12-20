@@ -31,8 +31,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q207333-
 > [Wikipedia](https://en.wikipedia.org/wiki/Honour) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Honor](/_Standards/Philosophy/Ethics/Honor.md) 

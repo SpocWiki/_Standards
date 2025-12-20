@@ -57,8 +57,6 @@ independent of the history of the system.
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20function) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [State_Function](/_Standards/Science/Physics/Thermodynamics/State_Function.md) 

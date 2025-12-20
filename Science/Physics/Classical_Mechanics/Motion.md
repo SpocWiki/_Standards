@@ -41,8 +41,6 @@ MeSH_tree_code: G01.482
 > [Wikipedia](https://en.wikipedia.org/wiki/Motion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Motion](/_Standards/Science/Physics/Classical_Mechanics/Motion.md) 

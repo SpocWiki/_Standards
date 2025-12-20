@@ -109,8 +109,6 @@ date_of_birth: 1397-08-21T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Guillaume%20Du%20Fay) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Guillaume_Dufay](/_Standards/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.md) 

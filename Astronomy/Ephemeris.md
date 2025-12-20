@@ -49,8 +49,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tablas%20alfonsies.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Ephemeris) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ephemeris](/_Standards/Astronomy/Ephemeris.md) 

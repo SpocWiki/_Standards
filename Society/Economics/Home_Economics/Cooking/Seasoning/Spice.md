@@ -61,8 +61,6 @@ Commons_category: Spices
 > [Wikipedia](https://en.wikipedia.org/wiki/Spice) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spice](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.md) 

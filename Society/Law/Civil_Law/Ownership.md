@@ -20,10 +20,6 @@ An [[../../../_Standards/schema-org/Class/is_a_/Agent|Agent]] ist the owner of [
 #has_/owner [[Owner]]  
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ownership](/_Standards/Society/Law/Civil_Law/Ownership.md) 

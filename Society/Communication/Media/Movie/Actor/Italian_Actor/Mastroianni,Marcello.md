@@ -117,8 +117,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/MASTROYANNI_MARC
 > [Wikipedia](https://en.wikipedia.org/wiki/Marcello%20Mastroianni) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mastroianni,Marcello](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Mastroianni,Marcello.md) 

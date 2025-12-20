@@ -83,8 +83,6 @@ name_in_kana: コボル
 > [Wikipedia](https://en.wikipedia.org/wiki/COBOL)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [COBOL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/COBOL.md) 

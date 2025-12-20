@@ -79,8 +79,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NAUCHENIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Learning) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Learning](/_Standards/Society/Culture/Education/Learning.md) 

@@ -73,8 +73,6 @@ work_period_start_: 1918-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Enzo%20Ferrari) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ferrari,Enzo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Ferrari,Enzo.md) 

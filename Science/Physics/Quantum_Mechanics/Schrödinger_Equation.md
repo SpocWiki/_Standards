@@ -116,8 +116,6 @@ Some theories beyond the Standard Model propose more scalar (spin-0) particles:
 | **Moduli fields**                                   | String theory                       | Scalar fields determining geometry of extra dimensions |
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schrödinger_Equation](/_Standards/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.md) 

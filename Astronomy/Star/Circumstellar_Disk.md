@@ -29,8 +29,6 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Circumstellar%
 > [Wikipedia](https://en.wikipedia.org/wiki/Circumstellar%20disc) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Circumstellar_Disk](/_Standards/Astronomy/Star/Circumstellar_Disk.md) 

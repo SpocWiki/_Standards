@@ -43,8 +43,6 @@ Commons_category: Neckties
 > [Wikipedia](https://en.wikipedia.org/wiki/Necktie) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Necktie](/_Standards/Technology/Tool/Clothing/Fashion/Necktie.md) 

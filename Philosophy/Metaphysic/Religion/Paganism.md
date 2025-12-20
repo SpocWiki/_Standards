@@ -44,8 +44,6 @@ subreddit: paganism
 > [Wikipedia](https://en.wikipedia.org/wiki/Paganism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Paganism](/_Standards/Philosophy/Metaphysic/Religion/Paganism.md) 

@@ -63,8 +63,6 @@ OpenStreetMap_tag: genus=Platanus
 > [Wikipedia](https://en.wikipedia.org/wiki/Platanus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Platanus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Platanaceae/Platanus.md) 

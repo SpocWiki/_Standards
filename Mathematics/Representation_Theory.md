@@ -72,8 +72,6 @@ Commons_category: Representation theory
 > [Wikipedia](https://en.wikipedia.org/wiki/Representation%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Representation_Theory](/_Standards/Mathematics/Representation_Theory.md) 

@@ -97,8 +97,6 @@ date_of_birth: 1929-02-10T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jerry%20Goldsmith) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goldsmith,Jerry](/_Standards/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.md) 

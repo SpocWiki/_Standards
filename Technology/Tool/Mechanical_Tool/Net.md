@@ -39,8 +39,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Netz.
 > [Wikipedia](https://en.wikipedia.org/wiki/Net%20(device)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Net](/_Standards/Technology/Tool/Mechanical_Tool/Net.md) 

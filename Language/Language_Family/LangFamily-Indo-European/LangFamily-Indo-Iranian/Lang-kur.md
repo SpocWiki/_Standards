@@ -95,9 +95,6 @@ Krugosvet_article_archived_: narody-i-yazyki/kurdskiy-yazyk
 > [Wikipedia](https://en.wikipedia.org/wiki/Kurdish%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-kur](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-kur.md) 

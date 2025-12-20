@@ -43,8 +43,6 @@ Krugosvet_article: istoriya/DIKTATURA_PROLETARIATA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictatorship%20of%20the%20proletariat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dictatorship_of_the_Proletariat](/_Standards/Society/Politics/Government/Dictatorship/Dictatorship_of_the_Proletariat.md) 

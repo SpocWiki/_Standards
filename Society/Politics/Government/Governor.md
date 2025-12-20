@@ -60,8 +60,6 @@ equivalent_class: http://dbpedia.org/ontology/Governor
 > [Wikipedia](https://en.wikipedia.org/wiki/Governor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Governor](/_Standards/Society/Politics/Government/Governor.md) 

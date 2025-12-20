@@ -11,8 +11,6 @@ They consist of
 ![[Structogram#while- and for-Loop]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Strucure~Loop](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Strucure~Loop.md) 

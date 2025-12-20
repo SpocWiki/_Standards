@@ -61,8 +61,6 @@ name_in_native_language: Ferdinand Gotthold Max Eisenstein
 > [Wikipedia](https://en.wikipedia.org/wiki/Gotthold%20Eisenstein) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eisenstein,Gotthold](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.md) 

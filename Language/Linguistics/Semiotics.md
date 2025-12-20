@@ -47,8 +47,6 @@ Commons_category: Semiotics
 > [Wikipedia](https://en.wikipedia.org/wiki/Semiotics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Semiotics](/_Standards/Language/Linguistics/Semiotics.md) 

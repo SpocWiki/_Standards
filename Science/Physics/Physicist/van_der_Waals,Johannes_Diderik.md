@@ -148,7 +148,6 @@ ISNI: "0000000110406491"
 > [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Diderik%20van%20der%20Waals)  
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [van_der_Waals,Johannes_Diderik](/_Standards/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.md) 

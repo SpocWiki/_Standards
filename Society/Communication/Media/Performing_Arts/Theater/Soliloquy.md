@@ -45,8 +45,6 @@ OmegaWiki_Defined_Meaning: "687700"
 > [Wikipedia](https://en.wikipedia.org/wiki/Soliloquy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soliloquy](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Soliloquy.md) 

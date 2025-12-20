@@ -61,8 +61,6 @@ Library_of_Congress_Classification: CS1-CS3090
 > [Wikipedia](https://en.wikipedia.org/wiki/Genealogy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Genealogy](/_Standards/Society/Agent/Community/Clan/Genealogy.md) 

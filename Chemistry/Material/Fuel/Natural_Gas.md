@@ -79,8 +79,6 @@ Commons_gallery: Natural gas
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20gas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Natural_Gas](/_Standards/Chemistry/Material/Fuel/Natural_Gas.md) 

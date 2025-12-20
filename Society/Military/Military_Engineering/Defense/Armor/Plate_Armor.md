@@ -41,8 +41,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rustning%2C%20Gustav%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Plate%20armour) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plate_Armor](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.md) 

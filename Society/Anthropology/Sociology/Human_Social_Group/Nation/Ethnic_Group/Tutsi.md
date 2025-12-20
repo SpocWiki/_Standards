@@ -45,8 +45,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Chifu%20Kaware%20safar
 > [Wikipedia](https://en.wikipedia.org/wiki/Tutsi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tutsi](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tutsi.md) 

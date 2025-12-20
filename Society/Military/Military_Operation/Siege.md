@@ -69,8 +69,6 @@ Commons_category: Sieges
 > [Wikipedia](https://en.wikipedia.org/wiki/Siege) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Siege](/_Standards/Society/Military/Military_Operation/Siege.md) 

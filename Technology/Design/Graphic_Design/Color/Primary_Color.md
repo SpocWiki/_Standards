@@ -79,8 +79,6 @@ Commons_category: Primary colors
 > [Wikipedia](https://en.wikipedia.org/wiki/Primary%20color)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Primary_Color](/_Standards/Technology/Design/Graphic_Design/Color/Primary_Color.md) 

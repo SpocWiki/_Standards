@@ -34,8 +34,6 @@ inception: 1950-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pop%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pop_Art](/_Standards/Society/Communication/Art/Pop_Art.md) 

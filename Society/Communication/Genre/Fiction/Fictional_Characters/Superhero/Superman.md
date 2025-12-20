@@ -374,8 +374,6 @@ Libris_URI: 0xbfnmbj1k6mgxz
 > [Wikipedia](https://en.wikipedia.org/wiki/Superman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Superman](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Superman.md) 

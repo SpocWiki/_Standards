@@ -435,8 +435,6 @@ ISO_9362_SWIFT_BIC_code: TOMCJP22XXX
 > [Wikipedia](https://en.wikipedia.org/wiki/Toyota)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Toyota](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota.md) 

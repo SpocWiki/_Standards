@@ -49,8 +49,6 @@ instance_of: "[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Traumatic%20bonding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Traumatic_Bonding](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding.md) 

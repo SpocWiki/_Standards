@@ -61,8 +61,6 @@ BHCL_UUID: 4ca534b3-1a0c-438e-982f-6563583effe1
 > [Wikipedia](https://en.wikipedia.org/wiki/Pappus%20of%20Alexandria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pappus_of_Alexandria](/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Pappus_of_Alexandria.md) 

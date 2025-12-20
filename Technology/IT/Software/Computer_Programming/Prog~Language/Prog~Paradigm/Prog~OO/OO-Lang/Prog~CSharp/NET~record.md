@@ -12,8 +12,6 @@ C#11 introduced `record struct`
 `public readonly record struct Point(double X, double Y, double Z);`  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [NET~record](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/NET~record.md) 

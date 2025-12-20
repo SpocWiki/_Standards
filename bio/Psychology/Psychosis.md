@@ -109,8 +109,6 @@ Krugosvet_article_archived_: meditsina/psikhozy
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychosis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Psychosis](/_Standards/bio/Psychology/Psychosis.md) 

@@ -29,8 +29,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Pran%20(actor)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pran(Actor)](/_Standards/Society/Communication/Media/Movie/Actor/Pran(Actor).md) 

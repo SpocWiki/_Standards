@@ -62,8 +62,6 @@ Commons_category: Freyja
 > [Wikipedia](https://en.wikipedia.org/wiki/Freyja) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Freyja](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Freyja.md) 

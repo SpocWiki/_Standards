@@ -68,8 +68,6 @@ Baidu_Tieba_name: 鸟神星
 > [Wikipedia](https://en.wikipedia.org/wiki/Makemake) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Makemake](/_Standards/Astronomy/Planet/Dwarf_Planet/Makemake.md) 

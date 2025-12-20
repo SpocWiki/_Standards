@@ -79,8 +79,6 @@ NBN_System_Key: NBNSYS0000159836
 > [Wikipedia](https://en.wikipedia.org/wiki/Earwig) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dermaptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dermaptera.md) 

@@ -127,8 +127,6 @@ date_of_birth: 1921-07-18T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Glenn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glenn,John](/_Standards/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.md) 

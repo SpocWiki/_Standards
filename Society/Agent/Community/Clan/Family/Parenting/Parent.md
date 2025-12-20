@@ -112,8 +112,6 @@ inverse label for the Subject of property P40
 > [Wikipedia](https://en.wikipedia.org/wiki/Parent) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parent](/_Standards/Society/Agent/Community/Clan/Family/Parenting/Parent.md) 

@@ -33,8 +33,6 @@ start_time: -0273-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Syrian%20Wars) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-0274-Syrian_Wars-0168](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0274-Syrian_Wars-0168.md) 

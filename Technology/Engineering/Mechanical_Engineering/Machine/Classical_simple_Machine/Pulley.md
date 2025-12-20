@@ -43,8 +43,6 @@ Commons_category: Pulleys
 > [Wikipedia](https://en.wikipedia.org/wiki/Pulley) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pulley](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Pulley.md) 

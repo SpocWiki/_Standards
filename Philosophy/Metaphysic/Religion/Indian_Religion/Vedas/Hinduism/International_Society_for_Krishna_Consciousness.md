@@ -63,8 +63,6 @@ short_name: ISKCON
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Society%20for%20Krishna%20Consciousness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Society_for_Krishna_Consciousness](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/International_Society_for_Krishna_Consciousness.md) 

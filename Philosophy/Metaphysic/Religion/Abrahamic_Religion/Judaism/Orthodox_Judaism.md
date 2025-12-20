@@ -32,8 +32,6 @@ OpenStreetMap_tag: denomination=orthodox
 > [Wikipedia](https://en.wikipedia.org/wiki/Orthodox%20Judaism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orthodox_Judaism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Orthodox_Judaism.md) 

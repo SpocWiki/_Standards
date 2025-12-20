@@ -40,8 +40,6 @@ Commons_category: Micrometers
 > [Wikipedia](https://en.wikipedia.org/wiki/Micrometer%20(device)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Micrometer](/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.md) 

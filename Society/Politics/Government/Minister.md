@@ -101,8 +101,6 @@ Dewey_Decimal_Classification: "352.293"
 > [Wikipedia](https://en.wikipedia.org/wiki/Minister%20(government)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Minister](/_Standards/Society/Politics/Government/Minister.md) 

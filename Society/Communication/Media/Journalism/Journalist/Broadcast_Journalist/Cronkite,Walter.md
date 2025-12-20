@@ -108,8 +108,6 @@ P1015: "97020450"
 > [Wikipedia](https://en.wikipedia.org/wiki/Walter%20Cronkite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cronkite,Walter](/_Standards/Society/Communication/Media/Journalism/Journalist/Broadcast_Journalist/Cronkite,Walter.md) 

@@ -17,8 +17,6 @@ instance_of: "[[_Standards/WikiData/WD~literary_theory,459381]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Criticism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [New_Criticism](/_Standards/Society/Communication/Media/Writing/Book/Literature/New_Criticism.md) 

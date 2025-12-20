@@ -50,8 +50,6 @@ taxon_common_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Galliformes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galliformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Galliformes.md) 

@@ -37,8 +37,6 @@ has_id_wikidata: Q43412
 > [Wikipedia](https://en.wikipedia.org/wiki/Apostle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Apostle](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle.md) 

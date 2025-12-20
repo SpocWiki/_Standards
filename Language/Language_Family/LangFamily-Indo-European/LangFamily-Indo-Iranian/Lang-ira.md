@@ -34,8 +34,6 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Iranian_languages,8084951
 > [Wikipedia](https://en.wikipedia.org/wiki/Iranian%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-ira](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.md) 

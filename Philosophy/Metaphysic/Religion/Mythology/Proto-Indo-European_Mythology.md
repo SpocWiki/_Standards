@@ -57,8 +57,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Proto-Indo-European%20mythology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Proto-Indo-European_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Proto-Indo-European_Mythology.md) 

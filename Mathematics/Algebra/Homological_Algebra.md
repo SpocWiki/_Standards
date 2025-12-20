@@ -33,8 +33,6 @@ Commons_category: Homological algebra
 > [Wikipedia](https://en.wikipedia.org/wiki/Homological%20algebra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Homological_Algebra](/_Standards/Mathematics/Algebra/Homological_Algebra.md) 

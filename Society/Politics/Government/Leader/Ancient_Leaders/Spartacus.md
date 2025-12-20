@@ -105,8 +105,6 @@ Krugosvet_article_archived_: istoriya/SPARTAK.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Spartacus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spartacus](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.md) 

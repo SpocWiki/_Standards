@@ -83,9 +83,6 @@ IEV_number: 171-09-21
 > [Wikipedia](https://en.wikipedia.org/wiki/Database) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Database](/_Standards/Technology/IT/Data/Data_Storage/Database.md) 

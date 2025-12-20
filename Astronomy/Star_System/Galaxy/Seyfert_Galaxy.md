@@ -47,8 +47,6 @@ Commons_category: Seyfert galaxies
 > [Wikipedia](https://en.wikipedia.org/wiki/Seyfert%20galaxy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seyfert_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.md) 

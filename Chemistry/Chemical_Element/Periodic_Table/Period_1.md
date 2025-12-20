@@ -38,8 +38,6 @@ Commons_category: Periodic table row 1
 > [Wikipedia](https://en.wikipedia.org/wiki/Period%201%20element) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Period_1](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_1.md) 

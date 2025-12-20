@@ -39,9 +39,6 @@ Commons_category: Penthouses
 > [Wikipedia](https://en.wikipedia.org/wiki/Penthouse%20apartment) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Penthouse_Apartment](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.md) 

@@ -61,8 +61,6 @@ OpenStreetMap_tag: healthcare:speciality=hypnosis
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypnosis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hypnosis](/_Standards/bio/Psychology/Mind/Mental_State/Hypnosis.md) 

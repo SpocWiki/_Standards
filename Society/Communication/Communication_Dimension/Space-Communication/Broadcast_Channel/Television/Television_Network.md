@@ -27,8 +27,6 @@ Commons_category: Television channels
 > [Wikipedia](https://en.wikipedia.org/wiki/Television%20broadcaster)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Television_Network](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network.md) 

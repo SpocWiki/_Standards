@@ -47,8 +47,6 @@ Colon_Classification: Q:4198
 > [Wikipedia](https://en.wikipedia.org/wiki/Pilgrimage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pilgrimage](/_Standards/Philosophy/Metaphysic/Religion/Pilgrimage.md) 

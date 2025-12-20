@@ -48,8 +48,6 @@ markerFile: [[Timor]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Timor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Timor](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.md) 

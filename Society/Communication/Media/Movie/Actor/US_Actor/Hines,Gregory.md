@@ -83,8 +83,6 @@ Plex_person_key: 5d7768374de0ee001fccc07a
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregory%20Hines) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hines,Gregory](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Hines,Gregory.md) 

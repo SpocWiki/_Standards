@@ -53,8 +53,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%
 > [Wikipedia](https://en.wikipedia.org/wiki/Colony) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Colony](/_Standards/Society/Politics/Government/Colonialism/Colony.md) 

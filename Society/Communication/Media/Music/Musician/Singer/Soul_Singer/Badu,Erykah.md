@@ -53,9 +53,6 @@ Her music is very funky and soulful.
 > [Wikipedia](https://en.wikipedia.org/wiki/Erykah%20Badu)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Badu,Erykah](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Badu,Erykah.md) 

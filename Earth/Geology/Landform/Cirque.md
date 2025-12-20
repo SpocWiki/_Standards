@@ -51,8 +51,6 @@ GeoNames_feature_code: T.CRQS
 > [Wikipedia](https://en.wikipedia.org/wiki/Cirque) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cirque](/_Standards/Earth/Geology/Landform/Cirque.md) 

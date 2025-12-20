@@ -36,7 +36,6 @@ cost 86M€
 > [Wikipedia](https://en.wikipedia.org/wiki/Windows%20NT)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WindowsNT](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.md) 

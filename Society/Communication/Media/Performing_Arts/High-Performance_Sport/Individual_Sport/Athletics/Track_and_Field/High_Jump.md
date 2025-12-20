@@ -45,8 +45,6 @@ OpenStreetMap_tag: athletics=high_jump
 > [Wikipedia](https://en.wikipedia.org/wiki/High%20jump) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [High_Jump](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/High_Jump.md) 

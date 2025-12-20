@@ -46,8 +46,6 @@ OmegaWiki_Defined_Meaning: "799006"
 > [Wikipedia](https://en.wikipedia.org/wiki/Protectorate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Protectorate](/_Standards/Earth/Geography/Place/Administrative_Area/State/Protectorate.md) 

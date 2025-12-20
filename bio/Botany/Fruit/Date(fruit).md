@@ -71,8 +71,6 @@ UNII: H3O7QI5HY7
 > [Wikipedia](https://en.wikipedia.org/wiki/Date%20palm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Date(fruit)](/_Standards/bio/Botany/Fruit/Date(fruit).md) 

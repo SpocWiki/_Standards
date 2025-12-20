@@ -59,8 +59,6 @@ name_in_native_language: לִװײָתָן
 > [Wikipedia](https://en.wikipedia.org/wiki/Leviathan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leviathan](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible/Leviathan.md) 

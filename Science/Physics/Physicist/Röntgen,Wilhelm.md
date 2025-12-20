@@ -148,8 +148,6 @@ Libris_URI: hftwzrl14nx7948
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20R%C3%B6ntgen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Röntgen,Wilhelm](/_Standards/Science/Physics/Physicist/Röntgen,Wilhelm.md) 

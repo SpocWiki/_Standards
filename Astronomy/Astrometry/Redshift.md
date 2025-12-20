@@ -74,8 +74,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Redshift.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Redshift) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Redshift](/_Standards/Astronomy/Astrometry/Redshift.md) 

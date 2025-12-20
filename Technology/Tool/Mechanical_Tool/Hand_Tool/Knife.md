@@ -80,8 +80,6 @@ subreddit: knives
 > [Wikipedia](https://en.wikipedia.org/wiki/Knife) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Knife](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Knife.md) 

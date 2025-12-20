@@ -23,8 +23,6 @@ has_id_wikidata: Q182559
 > [Wikipedia](https://en.wikipedia.org/wiki/Mermaid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mermaid](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.md) 

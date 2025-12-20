@@ -13,9 +13,6 @@
 | Examples        | SQL, SPARQL, XPath, JSON Schema       | Python, C#, Java, C++                         |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Data_Language](/_Standards/Technology/IT/Data/Data_Language.md) 

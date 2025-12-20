@@ -51,8 +51,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Stove)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stove](/_Standards/Society/Economics/Home_Economics/Cooking/Stove.md) 

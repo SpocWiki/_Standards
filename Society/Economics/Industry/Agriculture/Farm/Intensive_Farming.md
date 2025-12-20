@@ -44,8 +44,6 @@ Commons_category: Industrial agriculture
 > [Wikipedia](https://en.wikipedia.org/wiki/Intensive%20farming) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Intensive_Farming](/_Standards/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.md) 

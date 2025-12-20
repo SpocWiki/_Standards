@@ -16,8 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Planner%20(programming%20language))
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Planner](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Planner.md) 

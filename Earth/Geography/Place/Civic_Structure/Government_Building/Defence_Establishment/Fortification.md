@@ -84,8 +84,6 @@ GeoNames_feature_code: S.FT
 > [Wikipedia](https://en.wikipedia.org/wiki/Fortification) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fortification](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.md) 

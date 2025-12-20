@@ -82,8 +82,6 @@ X_Twitter_username: simongarfunkel
 > [Wikipedia](https://en.wikipedia.org/wiki/Simon%20&%20Garfunkel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Simon_&_Garfunkel](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Simon_&_Garfunkel.md) 

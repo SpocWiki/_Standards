@@ -52,8 +52,6 @@ Commons_category: Rayleigh scattering
 > [Wikipedia](https://en.wikipedia.org/wiki/Rayleigh%20scattering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rayleigh_Scattering](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.md) 

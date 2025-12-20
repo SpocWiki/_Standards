@@ -131,8 +131,6 @@ date_of_birth: 1781-06-21T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%A9on%20Denis%20Poisson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poisson,Siméon_Denis](/_Standards/Mathematics/Mathematician/Poisson,Siméon_Denis.md) 

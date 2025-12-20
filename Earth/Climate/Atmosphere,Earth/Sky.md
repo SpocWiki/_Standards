@@ -31,8 +31,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sky) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sky](/_Standards/Earth/Climate/Atmosphere,Earth/Sky.md) 

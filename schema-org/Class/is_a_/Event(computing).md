@@ -34,8 +34,6 @@ These are notoriously difficult, because
 The best solution to this is a generic Scheduling Solution like [Hangfire](https://www.hangfire.io/). 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Event(computing)](/_Standards/schema-org/Class/is_a_/Event(computing).md) 

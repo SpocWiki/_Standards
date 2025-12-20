@@ -70,8 +70,6 @@ name_in_native_language: Nolan Bushnell
 > [Wikipedia](https://en.wikipedia.org/wiki/Nolan%20Bushnell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bushnell,Nolan](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.md) 

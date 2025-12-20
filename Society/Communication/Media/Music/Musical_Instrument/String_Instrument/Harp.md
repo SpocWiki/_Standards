@@ -65,8 +65,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/ARFA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Harp) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Harp](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Harp.md) 

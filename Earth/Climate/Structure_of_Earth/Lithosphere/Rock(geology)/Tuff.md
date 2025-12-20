@@ -41,8 +41,6 @@ Commons_category: Tuff
 > [Wikipedia](https://en.wikipedia.org/wiki/Tuff) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tuff](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.md) 

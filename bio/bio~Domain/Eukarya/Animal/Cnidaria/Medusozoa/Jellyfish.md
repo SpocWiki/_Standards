@@ -56,8 +56,6 @@ subreddit: Hammyfish
 > [Wikipedia](https://en.wikipedia.org/wiki/Jellyfish) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jellyfish](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa/Jellyfish.md) 

@@ -48,8 +48,6 @@ A function is bijective
 > [Wikipedia](https://en.wikipedia.org/wiki/Bijection)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [bijective](/_Standards/Mathematics/Function(Math)/bijective.md) 

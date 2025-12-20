@@ -35,8 +35,6 @@ Wolfram_Language_entity_code: Entity["Concept", "CivilUnion::m6653"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Civil_Union](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Civil_Union.md) 

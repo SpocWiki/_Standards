@@ -182,8 +182,6 @@ NLC_authorities: "000198060"
 > [Wikipedia](https://en.wikipedia.org/wiki/Lev%20Landau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Landau,Lev](/_Standards/Science/Physics/Physicist/Landau,Lev.md) 

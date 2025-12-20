@@ -167,8 +167,6 @@ ISNI: 000000011023110X
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Born) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Born,Max](/_Standards/Science/Physics/Physicist/Born,Max.md) 

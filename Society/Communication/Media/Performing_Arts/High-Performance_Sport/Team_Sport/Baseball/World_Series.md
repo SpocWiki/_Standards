@@ -21,8 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Series) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [World_Series](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.md) 

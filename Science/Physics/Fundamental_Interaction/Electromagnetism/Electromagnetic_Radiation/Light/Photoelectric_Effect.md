@@ -43,8 +43,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/FOTOELEKTRICHESKI_EFFEKT.htm
 > [Wikipedia](https://en.wikipedia.org/wiki/Photoelectric%20effect) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photoelectric_Effect](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.md) 

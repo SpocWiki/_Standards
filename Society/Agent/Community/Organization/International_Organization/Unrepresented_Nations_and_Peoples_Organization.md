@@ -23,8 +23,6 @@ has_id_wikidata: Q215613
 > [Wikipedia](https://en.wikipedia.org/wiki/Unrepresented%20Nations%20and%20Peoples%20Organization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unrepresented_Nations_and_Peoples_Organization](/_Standards/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.md) 

@@ -66,8 +66,6 @@ Commons_category: Palaeography
 > [Wikipedia](https://en.wikipedia.org/wiki/Palaeography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Palaeography](/_Standards/Language/Writing_System/Palaeography.md) 

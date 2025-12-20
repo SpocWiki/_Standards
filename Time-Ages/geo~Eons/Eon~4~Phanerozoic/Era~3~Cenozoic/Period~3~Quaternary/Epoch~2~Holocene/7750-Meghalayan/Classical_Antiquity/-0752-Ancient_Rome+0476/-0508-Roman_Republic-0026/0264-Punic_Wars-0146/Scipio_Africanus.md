@@ -105,8 +105,6 @@ ISNI: "0000000436552990"
 > [Wikipedia](https://en.wikipedia.org/wiki/Scipio%20Africanus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scipio_Africanus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/0264-Punic_Wars-0146/Scipio_Africanus.md) 

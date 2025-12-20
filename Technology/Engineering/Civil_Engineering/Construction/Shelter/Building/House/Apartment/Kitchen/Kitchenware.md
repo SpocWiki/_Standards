@@ -18,8 +18,6 @@ has_id_wikidata: Q1521410
 > [Wikipedia](https://en.wikipedia.org/wiki/Kitchenware) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kitchenware](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.md) 

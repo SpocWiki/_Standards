@@ -36,8 +36,6 @@ described_by_source:
 > [Wikipedia](https://en.wikipedia.org/wiki/Egocentrism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Egocentrism](/_Standards/bio/Psychology/Mind/Egocentrism.md) 

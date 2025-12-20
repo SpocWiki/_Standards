@@ -57,8 +57,6 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Strait%20of%20Malacca) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Strait_of_Malacca](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.md) 

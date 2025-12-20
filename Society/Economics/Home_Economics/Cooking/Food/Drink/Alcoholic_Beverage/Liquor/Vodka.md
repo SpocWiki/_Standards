@@ -67,8 +67,6 @@ The word _vodka_ is a [diminutive](https://en.wikipedia.org/wiki/Diminutive "Dim
 > [Wikipedia](https://en.wikipedia.org/wiki/Vodka)   
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vodka](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.md) 

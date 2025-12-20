@@ -55,8 +55,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Melting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Melting](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Melting.md) 

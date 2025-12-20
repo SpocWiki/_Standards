@@ -58,8 +58,6 @@ inception: 1908-05-15T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Ice%20Hockey%20Federation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Ice_Hockey_Federation](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.md) 

@@ -80,8 +80,6 @@ Dewey_Decimal_Classification: "629.224"
 > [Wikipedia](https://en.wikipedia.org/wiki/Truck) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Truck](/_Standards/Technology/Transport/Road_Transport/Truck.md) 

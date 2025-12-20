@@ -115,8 +115,6 @@ date_of_death: 2015-05-23T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Forbes%20Nash%20Jr.) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nash,John_Forbes](/_Standards/Mathematics/Mathematician/Nash,John_Forbes.md) 

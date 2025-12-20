@@ -40,8 +40,6 @@ Commons_category: Symbols for binary operations
 > [Wikipedia](https://en.wikipedia.org/wiki/Unary%20operation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Operator~unary](/_Standards/Mathematics/Function(Math)/Function~unary/Operator~unary.md) 

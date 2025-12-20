@@ -53,8 +53,6 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "PlumPuddingModel"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Plum%20pudding%20model) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plum_Pudding_Model](/_Standards/Science/Physics/Atom/Atomic_Models/Plum_Pudding_Model.md) 

@@ -19,8 +19,6 @@ has_id_wikidata: Q11387
 > [Wikipedia](https://en.wikipedia.org/wiki/Open%20cluster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Open_Cluster](/_Standards/Astronomy/Star_System/Star_Cluster/Open_Cluster.md) 

@@ -26,8 +26,6 @@ subclass_of: "[[_Standards/WikiData/WD~war,198]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Conventional%20warfare) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conventional_Warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.md) 

@@ -73,8 +73,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schal
 > [Wikipedia](https://en.wikipedia.org/wiki/Speed%20of%20sound) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Speed_of_Sound](/_Standards/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.md) 

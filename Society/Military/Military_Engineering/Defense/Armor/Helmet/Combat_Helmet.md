@@ -19,8 +19,6 @@ Unicode_character: 🪖
 #is_/same_as :: [[../../../../../../WikiData/WD~Combat_helmet,3579211|WD~Combat_helmet,3579211]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Combat_Helmet](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Helmet/Combat_Helmet.md) 

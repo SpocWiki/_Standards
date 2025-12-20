@@ -51,8 +51,6 @@ Commons_category: Laplace's equation
 > [Wikipedia](https://en.wikipedia.org/wiki/Laplace's%20equation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Laplace's_Equation](/_Standards/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.md) 

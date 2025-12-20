@@ -48,8 +48,6 @@ MeSH_tree_code: N06.230.132.644.186
 > [Wikipedia](https://en.wikipedia.org/wiki/Geothermal%20energy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geothermal_Energy](/_Standards/Technology/Energy-Technology/Geothermal_Energy.md) 

@@ -130,8 +130,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TSVINGLI_HULDRIH.htm
 > [Wikipedia](https://en.wikipedia.org/wiki/Huldrych%20Zwingli) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zwingli,Huldrych](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Zwingli,Huldrych.md) 

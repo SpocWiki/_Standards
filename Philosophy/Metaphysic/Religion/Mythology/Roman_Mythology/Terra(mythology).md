@@ -34,8 +34,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Terra%20(mythology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Terra(mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Terra(mythology).md) 

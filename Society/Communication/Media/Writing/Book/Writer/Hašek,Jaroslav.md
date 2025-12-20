@@ -126,8 +126,6 @@ Libris_URI: 20dgbs1l3s9nrw4
 > [Wikipedia](https://en.wikipedia.org/wiki/Jaroslav%20Ha%C5%A1ek) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hašek,Jaroslav](/_Standards/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav.md) 

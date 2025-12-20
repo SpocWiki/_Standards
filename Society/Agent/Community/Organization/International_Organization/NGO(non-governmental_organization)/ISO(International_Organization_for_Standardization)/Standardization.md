@@ -46,8 +46,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 > [Wikipedia](https://en.wikipedia.org/wiki/Standardization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Standardization](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)/Standardization.md) 

@@ -119,8 +119,6 @@ Libris_URI: xv8bd78g15kpl3r
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Hermite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hermite,Charles](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Hermite,Charles.md) 

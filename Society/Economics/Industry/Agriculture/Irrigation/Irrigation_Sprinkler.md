@@ -32,8 +32,6 @@ Commons_gallery: Irrigation sprinkler
 > [Wikipedia](https://en.wikipedia.org/wiki/Irrigation%20sprinkler) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Irrigation_Sprinkler](/_Standards/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.md) 

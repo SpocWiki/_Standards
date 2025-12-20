@@ -198,8 +198,6 @@ Instagram_username: salvationarmyus
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Salvation%20Army) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Salvation_Army](/_Standards/Society/Agent/Community/Organization/International_Organization/Salvation_Army.md) 

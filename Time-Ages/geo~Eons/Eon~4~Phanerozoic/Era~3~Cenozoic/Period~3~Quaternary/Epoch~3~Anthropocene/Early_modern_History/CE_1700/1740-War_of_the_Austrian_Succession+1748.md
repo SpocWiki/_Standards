@@ -56,8 +56,6 @@ Commons_category: War of the Austrian Succession
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20of%20the%20Austrian%20Succession) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1740-War_of_the_Austrian_Succession+1748](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.md) 

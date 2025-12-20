@@ -38,8 +38,6 @@ GeoNames_feature_code: L.GRAZ
 > [Wikipedia](https://en.wikipedia.org/wiki/Pasture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pasture](/_Standards/Society/Economics/Industry/Agriculture/Pasture.md) 

@@ -28,8 +28,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Helen%20of%20Troy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Helen_of_Troy](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.md) 

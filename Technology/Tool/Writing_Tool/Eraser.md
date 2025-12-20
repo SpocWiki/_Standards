@@ -49,8 +49,6 @@ image:
 > [Wikipedia](https://en.wikipedia.org/wiki/Eraser) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eraser](/_Standards/Technology/Tool/Writing_Tool/Eraser.md) 

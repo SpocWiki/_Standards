@@ -50,7 +50,6 @@ Commons_category: Humidity
 > [Wikipedia](https://en.wikipedia.org/wiki/Humidity) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Humidity](/_Standards/Earth/Climate/Atmosphere,Earth/Humidity.md) 

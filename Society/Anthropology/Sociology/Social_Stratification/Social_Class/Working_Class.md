@@ -43,8 +43,6 @@ Commons_category: Working class
 > [Wikipedia](https://en.wikipedia.org/wiki/Working%20class) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Working_Class](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Working_Class.md) 

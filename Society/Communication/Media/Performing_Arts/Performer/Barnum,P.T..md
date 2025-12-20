@@ -123,8 +123,6 @@ ISNI: "0000000110351945"
 > [Wikipedia](https://en.wikipedia.org/wiki/P.%20T.%20Barnum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Barnum,P.T.](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Barnum,P.T..md) 

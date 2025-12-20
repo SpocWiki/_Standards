@@ -32,3 +32,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Period%20(periodic%20table)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Period(periodic_Table)](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).md) 
+
+### #is_/same_as :: [Period(periodic_Table).public](/_public/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).public.md) 
+
+### #is_/same_as :: [Period(periodic_Table).internal](/_internal/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).internal.md) 
+
+### #is_/same_as :: [Period(periodic_Table).protect](/_protect/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).protect.md) 
+
+### #is_/same_as :: [Period(periodic_Table).private](/_private/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).private.md) 
+
+### #is_/same_as :: [Period(periodic_Table).personal](/_personal/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).personal.md) 
+
+### #is_/same_as :: [Period(periodic_Table).secret](/_secret/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).secret.md)
+

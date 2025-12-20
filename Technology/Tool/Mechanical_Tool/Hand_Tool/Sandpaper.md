@@ -46,9 +46,6 @@ Commons_category: Sandpaper
 > [Wikipedia](https://en.wikipedia.org/wiki/Sandpaper)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sandpaper](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.md) 

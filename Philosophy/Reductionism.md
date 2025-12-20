@@ -38,8 +38,6 @@ Commons_category: Reductionism
 > [Wikipedia](https://en.wikipedia.org/wiki/Reductionism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reductionism](/_Standards/Philosophy/Reductionism.md) 

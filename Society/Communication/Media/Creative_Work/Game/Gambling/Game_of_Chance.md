@@ -32,7 +32,6 @@ different_from: "[[_Standards/WikiData/WD~gambling,11416]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Game%20of%20chance)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Game_of_Chance](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.md) 

@@ -60,8 +60,6 @@ IMA_Mineral_Symbol: Tpz
 > [Wikipedia](https://en.wikipedia.org/wiki/Topaz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Topaz](/_Standards/Earth/Geology/Mineral/Gemstone/Topaz.md) 

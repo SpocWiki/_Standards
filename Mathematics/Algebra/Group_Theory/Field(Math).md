@@ -52,8 +52,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Anillo%20c%C3%ADclico.
 > [Wikipedia](https://en.wikipedia.org/wiki/Field%20(mathematics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Field(Math)](/_Standards/Mathematics/Algebra/Group_Theory/Field(Math).md) 

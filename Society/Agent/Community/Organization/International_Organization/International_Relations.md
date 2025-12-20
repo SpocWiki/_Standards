@@ -61,8 +61,6 @@ IPTC_NewsCode: mediatopic/20000638
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20relations) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Relations](/_Standards/Society/Agent/Community/Organization/International_Organization/International_Relations.md) 

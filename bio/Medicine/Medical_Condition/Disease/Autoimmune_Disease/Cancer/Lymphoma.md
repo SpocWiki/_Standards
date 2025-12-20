@@ -107,8 +107,6 @@ Commons_category: Lymphomas
 > [Wikipedia](https://en.wikipedia.org/wiki/Lymphoma) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lymphoma](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lymphoma.md) 

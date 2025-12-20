@@ -52,8 +52,6 @@ Commons_category: Rebellions
 > [Wikipedia](https://en.wikipedia.org/wiki/Rebellion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rebellion](/_Standards/Society/Anthropology/Sociology/Social_Conflict/Rebellion.md) 

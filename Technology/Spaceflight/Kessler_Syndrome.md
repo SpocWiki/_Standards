@@ -44,8 +44,6 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "KesslerSyndrome"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Kessler%20syndrome) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kessler_Syndrome](/_Standards/Technology/Spaceflight/Kessler_Syndrome.md) 

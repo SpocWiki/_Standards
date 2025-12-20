@@ -109,9 +109,6 @@ Plex_person_key: 5d7768aa374a5b001fecc9c4
 > [Wikipedia](https://en.wikipedia.org/wiki/Gordon%20Ramsay) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ramsay,Gordon](/_Standards/Society/Economics/Home_Economics/Cooking/Cook/Ramsay,Gordon.md) 

@@ -35,8 +35,6 @@ Library_of_Congress_Classification: JC337
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20society) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Civil_Society](/_Standards/Society/Civil_Society.md) 

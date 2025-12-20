@@ -127,8 +127,6 @@ date_of_birth: 1905-12-24T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Howard%20Hughes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hughes,Howard](/_Standards/Technology/Aviation/History_of_Aviation/Hughes,Howard.md) 

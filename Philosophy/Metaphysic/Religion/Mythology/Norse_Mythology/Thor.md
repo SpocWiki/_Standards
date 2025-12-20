@@ -61,8 +61,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Thor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thor](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.md) 

@@ -45,8 +45,6 @@ native_label: Rhythm and blues
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhythm%20and%20blues) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rhythm_and_Blues](/_Standards/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues.md) 

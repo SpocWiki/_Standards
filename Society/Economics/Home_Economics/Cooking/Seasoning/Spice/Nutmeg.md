@@ -70,7 +70,6 @@ Its color changes to pale yellow, orange, or tan.
 Whole dry mace consists of flat pieces—smooth, horn-like, and brittle—about 40 mm (1+1⁄2 in) long.
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nutmeg](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Nutmeg.md) 

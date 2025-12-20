@@ -70,8 +70,6 @@ U_S_National_Archives_Identifier: "10664383"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pistol) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pistol](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Pistol.md) 

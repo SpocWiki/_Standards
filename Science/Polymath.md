@@ -105,10 +105,6 @@ Commons_category: Polymaths
 > [Wikipedia](https://en.wikipedia.org/wiki/Polymath) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polymath](/_Standards/Science/Polymath.md) 

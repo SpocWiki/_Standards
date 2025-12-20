@@ -52,9 +52,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindustani%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hindustani](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Hindustani.md) 

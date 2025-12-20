@@ -35,8 +35,6 @@ UMLS_CUI: C0525034
 > [Wikipedia](https://en.wikipedia.org/wiki/Medical%20diagnosis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medical_Diagnosis](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Diagnosis.md) 

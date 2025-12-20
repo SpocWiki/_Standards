@@ -88,9 +88,6 @@ IEV_number: 171-04-05
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20processing%20unit) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CPU(Central_Processing_Unit)](/_Standards/Technology/IT/Computer_Hardware/Processor/CPU(Central_Processing_Unit).md) 

@@ -43,8 +43,6 @@ Commons_gallery: Respiration (physiology)
 > [Wikipedia](https://en.wikipedia.org/wiki/Cellular%20respiration) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Respiration](/_Standards/bio/Metabolism/Respiration.md) 

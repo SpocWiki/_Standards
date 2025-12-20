@@ -27,8 +27,6 @@ making it a popular choice for building web applications, especially for beginne
 If you're looking for a Python web framework that's easy to learn, flexible, and has a large community, Flask is a great option.
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Python~Flask](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~Python/Python~Flask.md) 

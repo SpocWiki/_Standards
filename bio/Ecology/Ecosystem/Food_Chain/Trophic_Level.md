@@ -30,8 +30,6 @@ different_from: "[[_Standards/WikiData/WD~Trophic_level_index,7845626]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Trophic%20level)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trophic_Level](/_Standards/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.md) 

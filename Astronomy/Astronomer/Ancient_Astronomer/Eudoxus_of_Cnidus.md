@@ -64,8 +64,6 @@ ISNI: "0000000108697437"
 > [Wikipedia](https://en.wikipedia.org/wiki/Eudoxus%20of%20Cnidus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eudoxus_of_Cnidus](/_Standards/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.md) 

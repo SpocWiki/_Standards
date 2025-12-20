@@ -61,9 +61,6 @@ Commons_category: Pampa fields
 > [Wikipedia](https://en.wikipedia.org/wiki/Pampas) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pampas](/_Standards/Earth/Continent/America~South/Southern_Cone/Pampas.md) 

@@ -20,9 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Germanic%20peoples) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Germanic_Peoples](/_Standards/Earth/Continent/Europe/Germanic_Peoples.md) 

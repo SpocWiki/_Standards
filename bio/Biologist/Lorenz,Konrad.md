@@ -128,8 +128,6 @@ Libris_URI: 20dhm4zl5783jxz
 > [Wikipedia](https://en.wikipedia.org/wiki/Konrad%20Lorenz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lorenz,Konrad](/_Standards/bio/Biologist/Lorenz,Konrad.md) 

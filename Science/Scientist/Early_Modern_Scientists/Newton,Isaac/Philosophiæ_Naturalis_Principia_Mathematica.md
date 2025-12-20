@@ -80,8 +80,6 @@ work_available_at_URL: https://en.wikisource.org/wiki/The_Mathematical_Principle
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophi%C3%A6%20Naturalis%20Principia%20Mathematica) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Philosophiæ_Naturalis_Principia_Mathematica](/_Standards/Science/Scientist/Early_Modern_Scientists/Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica.md) 

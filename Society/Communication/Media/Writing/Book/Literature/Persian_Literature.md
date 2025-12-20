@@ -68,8 +68,6 @@ Commons_category: Persian-language literature
 > [Wikipedia](https://en.wikipedia.org/wiki/Persian%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Persian_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Persian_Literature.md) 

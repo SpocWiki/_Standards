@@ -117,8 +117,6 @@ ISNI: 000000012125127X
 > [Wikipedia](https://en.wikipedia.org/wiki/Jack%20Kerouac) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kerouac,Jack](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.md) 

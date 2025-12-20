@@ -66,8 +66,6 @@ date_of_death: 1919-12-28T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Rydberg) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rydberg,Johannes](/_Standards/Science/Physics/Physicist/Rydberg,Johannes.md) 

@@ -40,11 +40,6 @@ Commons_category: Musical improvisation
 > [Wikipedia](https://en.wikipedia.org/wiki/Musical%20improvisation) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Musical_Improvisation](/_Standards/Society/Communication/Media/Music/Musical_Improvisation.md) 

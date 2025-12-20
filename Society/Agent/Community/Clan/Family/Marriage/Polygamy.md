@@ -62,8 +62,6 @@ Commons_category: Polygamy
 > [Wikipedia](https://en.wikipedia.org/wiki/Polygamy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polygamy](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Polygamy.md) 

@@ -86,8 +86,6 @@ Thus, **QED simultaneously describes**:
 Neutral fermions (like neutrinos) are **not** described by QED, as they lack electric charge.
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [QED(Quantum_Electrodynamics)](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/QED(Quantum_Electrodynamics).md) 

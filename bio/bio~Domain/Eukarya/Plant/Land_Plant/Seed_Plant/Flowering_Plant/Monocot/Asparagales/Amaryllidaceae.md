@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Amaryllidaceae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Amaryllidaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae.md) 

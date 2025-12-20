@@ -70,8 +70,6 @@ Universal_Decimal_Classification: 341.226.11
 > [Wikipedia](https://en.wikipedia.org/wiki/Treason) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Treason](/_Standards/Society/Law/Criminal_Law/Crime/Treason.md) 

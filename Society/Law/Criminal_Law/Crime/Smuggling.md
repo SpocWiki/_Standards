@@ -50,8 +50,6 @@ Commons_category: Smuggling
 > [Wikipedia](https://en.wikipedia.org/wiki/Smuggling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Smuggling](/_Standards/Society/Law/Criminal_Law/Crime/Smuggling.md) 

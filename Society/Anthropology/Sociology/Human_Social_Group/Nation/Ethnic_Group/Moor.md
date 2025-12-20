@@ -48,8 +48,6 @@ Krugosvet_article_archived_: istoriya/MAVRI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Moors) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moor](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Moor.md) 

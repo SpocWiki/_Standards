@@ -32,8 +32,6 @@ Commons_category: Minimal music
 > [Wikipedia](https://en.wikipedia.org/wiki/Minimal%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Minimalist_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Minimalist_Music.md) 

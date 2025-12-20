@@ -34,8 +34,6 @@ IEV_number: 881-03-26
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electromagnetic_Interaction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Interaction.md) 

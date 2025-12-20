@@ -91,8 +91,6 @@ ISNI: "0000000483327585"
 > [Wikipedia](https://en.wikipedia.org/wiki/Eve) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eve](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.md) 

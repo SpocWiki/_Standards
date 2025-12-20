@@ -24,8 +24,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Siren%20(mythology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Siren(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Siren(Mythology).md) 

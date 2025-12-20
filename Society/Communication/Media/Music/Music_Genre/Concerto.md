@@ -53,8 +53,6 @@ Krugosvet_article: muzyka/koncert-muzykalnaya-forma
 > [Wikipedia](https://en.wikipedia.org/wiki/Concerto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Concerto](/_Standards/Society/Communication/Media/Music/Music_Genre/Concerto.md) 

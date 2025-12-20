@@ -67,8 +67,6 @@ Stack_Exchange_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/P%20versus%20NP%20problem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [P_versus_NP_Problem](/_Standards/Technology/IT/Computer_Science/P_versus_NP_Problem.md) 

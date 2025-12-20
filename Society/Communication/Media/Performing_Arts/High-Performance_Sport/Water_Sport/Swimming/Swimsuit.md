@@ -61,8 +61,6 @@ OpenStreetMap_tag: clothing=swimwear
 > [Wikipedia](https://en.wikipedia.org/wiki/Swimsuit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Swimsuit](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.md) 

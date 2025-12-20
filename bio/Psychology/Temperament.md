@@ -28,8 +28,6 @@ Commons_category: Temperaments
 > [Wikipedia](https://en.wikipedia.org/wiki/Temperament) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Temperament](/_Standards/bio/Psychology/Temperament.md) 

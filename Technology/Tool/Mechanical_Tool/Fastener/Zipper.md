@@ -46,8 +46,6 @@ Dewey_Decimal_Classification: "687.8"
 > [Wikipedia](https://en.wikipedia.org/wiki/Zipper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zipper](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Zipper.md) 

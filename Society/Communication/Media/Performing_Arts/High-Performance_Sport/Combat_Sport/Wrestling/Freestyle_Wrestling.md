@@ -55,8 +55,6 @@ IPTC_NewsCode: mediatopic/20001099
 > [Wikipedia](https://en.wikipedia.org/wiki/Freestyle%20wrestling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Freestyle_Wrestling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Freestyle_Wrestling.md) 

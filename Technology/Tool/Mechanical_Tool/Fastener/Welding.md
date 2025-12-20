@@ -62,8 +62,6 @@ Any fabrication process for joining workpieces **without adding a dissimilar adh
 > [Wikipedia](https://en.wikipedia.org/wiki/Welding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Welding](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Welding.md) 

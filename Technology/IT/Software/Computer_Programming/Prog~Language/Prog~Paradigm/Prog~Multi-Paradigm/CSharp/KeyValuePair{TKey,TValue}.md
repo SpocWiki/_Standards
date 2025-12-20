@@ -6,8 +6,6 @@ The Value is passive, similar to the former COM-Property `Tag`
 A Set of these Claims can form a Dictionary or an Entity. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [KeyValuePair{TKey,TValue}](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/KeyValuePair{TKey,TValue}.md) 

@@ -27,8 +27,6 @@ Commons_category: History of literature
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20literature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/History_of_Literature.md) 

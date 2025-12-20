@@ -246,8 +246,6 @@ Libris_URI: 86lnr28s2htm865
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20von%20Helmholtz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hermann_von_Helmholtz](/_Standards/Science/Physics/Physicist/Hermann_von_Helmholtz.md) 

@@ -109,8 +109,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/December-banner-
 > [Wikipedia](https://en.wikipedia.org/wiki/December) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [December](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/December.md) 

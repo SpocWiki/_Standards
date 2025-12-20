@@ -147,8 +147,6 @@ CYT_CCS: AC000004889
 > [Wikipedia](https://en.wikipedia.org/wiki/Steven%20Chu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Steven_Chu](/_Standards/Science/Physics/Physicist/Steven_Chu.md) 

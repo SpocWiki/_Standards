@@ -113,8 +113,6 @@ Baidu_Tieba_name: 三国演义
 > [Wikipedia](https://en.wikipedia.org/wiki/Romance%20of%20the%20Three%20Kingdoms) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Romance_of_the_Three_Kingdoms](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Romance_of_the_Three_Kingdoms.md) 

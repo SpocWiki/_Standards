@@ -53,8 +53,6 @@ Glottolog_code: narr1281
 > [Wikipedia](https://en.wikipedia.org/wiki/Bantu%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily~Bantu](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu.md) 

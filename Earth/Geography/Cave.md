@@ -17,8 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Cave) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cave](/_Standards/Earth/Geography/Cave.md) 

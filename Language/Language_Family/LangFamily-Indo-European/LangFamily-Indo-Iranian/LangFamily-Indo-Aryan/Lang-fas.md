@@ -135,11 +135,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/PERSIDSKI_YAZIK.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Persian%20language) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-fas](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-fas.md) 

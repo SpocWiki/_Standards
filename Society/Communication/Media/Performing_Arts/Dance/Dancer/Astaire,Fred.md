@@ -22,8 +22,6 @@ has_id_wikidata: Q100937
 > [Wikipedia](https://en.wikipedia.org/wiki/Fred%20Astaire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Astaire,Fred](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.md) 

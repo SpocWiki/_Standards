@@ -73,8 +73,6 @@ date_of_birth: 1921-05-03T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Sugar%20Ray%20Robinson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Robinson,Sugar_Ray](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.md) 

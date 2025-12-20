@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Interferometry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Interferometry](/_Standards/Technology/Tool/Instrumentation/Interferometry.md) 

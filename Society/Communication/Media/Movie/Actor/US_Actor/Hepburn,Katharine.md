@@ -116,8 +116,6 @@ Plex_person_key: 5d7768263c3c2a001fbcafb0
 > [Wikipedia](https://en.wikipedia.org/wiki/Katharine%20Hepburn) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hepburn,Katharine](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.md) 

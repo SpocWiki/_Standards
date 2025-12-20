@@ -73,8 +73,6 @@ Commons_category: African World War
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20Congo%20War) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1998-Second_Congo_War+2003](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1998-Second_Congo_War+2003.md) 

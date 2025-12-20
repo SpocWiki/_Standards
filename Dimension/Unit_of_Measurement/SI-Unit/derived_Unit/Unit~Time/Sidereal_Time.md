@@ -28,8 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sidereal%20time) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sidereal_Time](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.md) 

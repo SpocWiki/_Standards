@@ -67,8 +67,6 @@ native_label: jūris prūdentia
 > [Wikipedia](https://en.wikipedia.org/wiki/Jurisprudence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jurisprudence](/_Standards/Society/Law/Jurisprudence.md) 

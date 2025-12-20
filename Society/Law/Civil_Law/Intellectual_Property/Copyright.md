@@ -74,8 +74,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Copyright) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Copyright](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Copyright.md) 

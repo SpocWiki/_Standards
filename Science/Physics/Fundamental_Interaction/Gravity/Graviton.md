@@ -32,9 +32,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Graviton) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Graviton](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Graviton.md) 

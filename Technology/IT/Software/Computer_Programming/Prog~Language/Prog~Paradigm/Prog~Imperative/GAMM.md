@@ -7,8 +7,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gesellschaft%20f%C3%BCr%20Angewandte%20Mathematik%20und%20Mechanik)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GAMM](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GAMM.md) 

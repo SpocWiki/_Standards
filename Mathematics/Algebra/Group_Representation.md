@@ -30,8 +30,6 @@ topic_s_main_category: "[[_Standards/WikiData/WD~Q32516772,32516772]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20representation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Group_Representation](/_Standards/Mathematics/Algebra/Group_Representation.md) 

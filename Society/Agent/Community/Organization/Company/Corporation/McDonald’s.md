@@ -238,8 +238,6 @@ hashtag: mcdonald's
 > [Wikipedia](https://en.wikipedia.org/wiki/McDonald's) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [McDonald’s](/_Standards/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.md) 

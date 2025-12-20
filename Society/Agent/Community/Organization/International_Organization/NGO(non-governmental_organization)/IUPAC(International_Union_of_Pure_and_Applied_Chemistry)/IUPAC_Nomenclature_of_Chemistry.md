@@ -16,8 +16,6 @@ subclass_of: "[[_Standards/WikiData/WD~chemical_nomenclature,6503924]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/IUPAC%20nomenclature%20of%20chemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IUPAC_Nomenclature_of_Chemistry](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry)/IUPAC_Nomenclature_of_Chemistry.md) 

@@ -149,8 +149,6 @@ EPPO_Code: RIBNI
 > [Wikipedia](https://en.wikipedia.org/wiki/Blackcurrant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cassis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.md) 

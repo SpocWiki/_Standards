@@ -122,8 +122,6 @@ birth_name: Charles-Pierre Baudelaire
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Baudelaire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Baudelaire,Charles](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.md) 

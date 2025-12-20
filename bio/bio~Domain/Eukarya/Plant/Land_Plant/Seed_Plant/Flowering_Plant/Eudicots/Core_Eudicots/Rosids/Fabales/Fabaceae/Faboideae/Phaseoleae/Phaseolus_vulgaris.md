@@ -116,8 +116,6 @@ sequenced_genome_URL: https://plants.ensembl.org/Phaseolus_vulgaris
 > [Wikipedia](https://en.wikipedia.org/wiki/Phaseolus%20vulgaris) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Phaseolus_vulgaris](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Phaseoleae/Phaseolus_vulgaris.md) 

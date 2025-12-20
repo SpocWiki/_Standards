@@ -23,8 +23,6 @@ inception: 1960-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Free%20jazz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Free_Jazz](/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.md) 

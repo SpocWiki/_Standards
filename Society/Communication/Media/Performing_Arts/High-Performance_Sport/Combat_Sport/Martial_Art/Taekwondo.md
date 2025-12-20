@@ -25,8 +25,6 @@ has_id_wikidata: Q36389
 > [Wikipedia](https://en.wikipedia.org/wiki/Taekwondo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taekwondo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Taekwondo.md) 

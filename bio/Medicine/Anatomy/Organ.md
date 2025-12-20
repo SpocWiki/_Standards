@@ -70,8 +70,6 @@ Commons_category: Organs (anatomy)
 > [Wikipedia](https://en.wikipedia.org/wiki/Organ%20(biology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Organ](/_Standards/bio/Medicine/Anatomy/Organ.md) 

@@ -19,8 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20reactor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nuclear_Reactor](/_Standards/Technology/Energy-Technology/Nuclear_Power/Nuclear_Reactor.md) 

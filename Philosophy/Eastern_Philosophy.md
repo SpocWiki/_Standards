@@ -34,8 +34,6 @@ Commons_category: Eastern philosophy
 > [Wikipedia](https://en.wikipedia.org/wiki/Eastern%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eastern_Philosophy](/_Standards/Philosophy/Eastern_Philosophy.md) 

@@ -144,11 +144,6 @@ Ausprägung des [Rock](g:3) in Richtung [Avantgarde](g:115), zu dessen Pionieren
 | Yours Is No Disgrace                                                                                                                                 |[[Progressive_Rock/Yes(Band)\|Yes(Band)]]]                 | The Yes Album (Deluxe Edition)                                      | 1971-02-19 | 9:40  |     |
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Progressive_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.md) 

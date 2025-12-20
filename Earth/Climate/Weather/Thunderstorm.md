@@ -122,8 +122,6 @@ Dewey_Decimal_Classification: "551.554"
 > [Wikipedia](https://en.wikipedia.org/wiki/Thunderstorm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thunderstorm](/_Standards/Earth/Climate/Weather/Thunderstorm.md) 

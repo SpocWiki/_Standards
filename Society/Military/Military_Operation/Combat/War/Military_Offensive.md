@@ -50,8 +50,6 @@ has_id_wikidata: Q2001676
 > [Wikipedia](https://en.wikipedia.org/wiki/Offensive%20(military)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_Offensive](/_Standards/Society/Military/Military_Operation/Combat/War/Military_Offensive.md) 

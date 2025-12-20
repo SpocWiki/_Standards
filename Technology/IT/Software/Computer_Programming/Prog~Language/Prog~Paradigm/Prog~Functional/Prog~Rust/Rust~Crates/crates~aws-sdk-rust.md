@@ -15,9 +15,6 @@ async fn print_tables() -> Result<(), Error> {
 ```
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~aws-sdk-rust](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.md) 

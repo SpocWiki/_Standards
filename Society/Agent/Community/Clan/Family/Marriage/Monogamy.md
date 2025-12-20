@@ -30,8 +30,6 @@ has_id_wikidata: Q184211
 > [Wikipedia](https://en.wikipedia.org/wiki/Monogamy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monogamy](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Monogamy.md) 

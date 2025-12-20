@@ -19,8 +19,6 @@ has_id_wikidata: Q193526
 > [Wikipedia](https://en.wikipedia.org/wiki/Conscience) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conscience](/_Standards/bio/Psychology/Affect/Emotion/Conscience.md) 

@@ -233,9 +233,6 @@ NLC_authorities: "038192850"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hannah%20Arendt) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Arendt,Hannah](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.md) 

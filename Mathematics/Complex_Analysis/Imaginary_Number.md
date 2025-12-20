@@ -45,8 +45,6 @@ Commons_category: Imaginary numbers
 > [Wikipedia](https://en.wikipedia.org/wiki/Imaginary%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Imaginary_Number](/_Standards/Mathematics/Complex_Analysis/Imaginary_Number.md) 

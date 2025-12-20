@@ -43,8 +43,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorentzian%20Wormhole.
 > [Wikipedia](https://en.wikipedia.org/wiki/Wormhole) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wormhole](/_Standards/Astronomy/Astronomical_Object/Wormhole.md) 

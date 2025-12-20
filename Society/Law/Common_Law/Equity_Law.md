@@ -34,8 +34,6 @@ OmegaWiki_Defined_Meaning: "478075"
 > [Wikipedia](https://en.wikipedia.org/wiki/Equity%20(law)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Equity_Law](/_Standards/Society/Law/Common_Law/Equity_Law.md) 

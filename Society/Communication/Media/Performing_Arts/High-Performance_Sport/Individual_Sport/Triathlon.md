@@ -55,8 +55,6 @@ Dewey_Decimal_Classification: "796.4257"
 > [Wikipedia](https://en.wikipedia.org/wiki/Triathlon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Triathlon](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Triathlon.md) 

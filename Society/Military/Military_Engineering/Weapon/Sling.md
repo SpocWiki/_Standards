@@ -27,8 +27,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sling%20(weapon)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sling](/_Standards/Society/Military/Military_Engineering/Weapon/Sling.md) 

@@ -252,17 +252,17 @@ Wolfram_Language_entity_code: Entity["Planet", "Saturn"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saturn(Planet)](Saturn(Planet).md) 
+### #is_/same_as :: [Saturn(Planet)](/_Standards/Astronomy/Solar_System/Saturn(Planet).md) 
 
-### #is_/same_as :: [Saturn.public](/_public/Astronomy/Solar_System/Saturn.public.md) 
+### #is_/same_as :: [Saturn(Planet).public](/_public/Astronomy/Solar_System/Saturn(Planet).public.md) 
 
-### #is_/same_as :: [Saturn.internal](/_internal/Astronomy/Solar_System/Saturn.internal.md) 
+### #is_/same_as :: [Saturn(Planet).internal](/_internal/Astronomy/Solar_System/Saturn(Planet).internal.md) 
 
-### #is_/same_as :: [Saturn.protect](/_protect/Astronomy/Solar_System/Saturn.protect.md) 
+### #is_/same_as :: [Saturn(Planet).protect](/_protect/Astronomy/Solar_System/Saturn(Planet).protect.md) 
 
-### #is_/same_as :: [Saturn.private](/_private/Astronomy/Solar_System/Saturn.private.md) 
+### #is_/same_as :: [Saturn(Planet).private](/_private/Astronomy/Solar_System/Saturn(Planet).private.md) 
 
-### #is_/same_as :: [Saturn.personal](/_personal/Astronomy/Solar_System/Saturn.personal.md) 
+### #is_/same_as :: [Saturn(Planet).personal](/_personal/Astronomy/Solar_System/Saturn(Planet).personal.md) 
 
-### #is_/same_as :: [Saturn.secret](/_secret/Astronomy/Solar_System/Saturn.secret.md)
+### #is_/same_as :: [Saturn(Planet).secret](/_secret/Astronomy/Solar_System/Saturn(Planet).secret.md)
 

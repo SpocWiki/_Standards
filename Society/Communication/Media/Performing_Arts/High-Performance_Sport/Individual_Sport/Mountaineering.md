@@ -55,8 +55,6 @@ Commons_category: Mountaineering
 > [Wikipedia](https://en.wikipedia.org/wiki/Mountaineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mountaineering](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.md) 

@@ -57,8 +57,6 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "Microphone"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Microphone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Microphone](/_Standards/Technology/Tool/Instrumentation/Sensor/Microphone.md) 

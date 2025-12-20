@@ -67,9 +67,6 @@ Dewey_Decimal_Classification: "573.49"
 > [Wikipedia](https://en.wikipedia.org/wiki/Bladder)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Urinary_Bladder](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Urinary_Bladder.md) 

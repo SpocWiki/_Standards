@@ -51,8 +51,6 @@ image:
 > [Wikipedia](https://en.wikipedia.org/wiki/Prism%20(geometry)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prism(Geometry)](/_Standards/Mathematics/Geometry/Prism(Geometry).md) 

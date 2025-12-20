@@ -66,8 +66,6 @@ IMA_Mineral_Symbol: Tlc
 > [Wikipedia](https://en.wikipedia.org/wiki/Talc) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Talc](/_Standards/Earth/Geology/Mineral/Talc.md) 

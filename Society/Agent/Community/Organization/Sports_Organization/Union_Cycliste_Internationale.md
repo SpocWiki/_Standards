@@ -260,8 +260,6 @@ official_name: Union cycliste internationale
 > [Wikipedia](https://en.wikipedia.org/wiki/Union%20Cycliste%20Internationale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Union_Cycliste_Internationale](/_Standards/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.md) 

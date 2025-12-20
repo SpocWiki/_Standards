@@ -48,8 +48,6 @@ Commons_category: Philately
 > [Wikipedia](https://en.wikipedia.org/wiki/Philately) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Philately](/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.md) 

@@ -64,8 +64,6 @@ date_of_birth: 1500-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hernando%20de%20Soto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soto,Hernando_de](/_Standards/Earth/Explorer/Age_of_Discovery/Soto,Hernando_de.md) 

@@ -50,8 +50,6 @@ exact_match: https://ontology.londisizwe.org/mola#Dialect
 > [Wikipedia](https://en.wikipedia.org/wiki/Dialect) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dialect](/_Standards/Language/Dialect.md) 

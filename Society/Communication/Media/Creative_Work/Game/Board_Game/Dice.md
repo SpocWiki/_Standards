@@ -71,8 +71,6 @@ Library_of_Congress_Classification: GV1303
 > [Wikipedia](https://en.wikipedia.org/wiki/Dice) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dice](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Dice.md) 

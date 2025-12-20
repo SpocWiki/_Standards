@@ -7,7 +7,6 @@ When using lowest-Level Constructs, this Paradigm does not scale, because of Vol
 The next Level is [[Prog~Paradigm/Prog~Structured]], which allows to build higher-Level Routines. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Imperative](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative.md) 

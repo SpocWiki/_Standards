@@ -67,8 +67,6 @@ Commons_category: Grain elevators
 > [Wikipedia](https://en.wikipedia.org/wiki/Grain%20elevator) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Grain_Elevator](/_Standards/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.md) 

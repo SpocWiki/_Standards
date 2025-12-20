@@ -73,8 +73,6 @@ Commons_category: Theorems
 > [Wikipedia](https://en.wikipedia.org/wiki/Theorem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theorem](/_Standards/Mathematics/Theorem.md) 

@@ -218,9 +218,6 @@ Danbooru_tag: joe_biden
 > [Wikipedia](https://en.wikipedia.org/wiki/Joe%20Biden)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Biden,Joe](/_Standards/Earth/Continent/America~North/US~President/Biden,Joe.md) 

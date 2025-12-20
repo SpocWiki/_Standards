@@ -65,9 +65,6 @@ ComputerLanguage_com_definition: risk+management
 > [Wikipedia](https://en.wikipedia.org/wiki/Risk%20management) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Risk-Management](/_Standards/Society/Agent/Management/Risk-Management.md) 

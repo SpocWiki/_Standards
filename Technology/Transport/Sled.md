@@ -52,8 +52,6 @@ Unicode_character: 🛷
 > [Wikipedia](https://en.wikipedia.org/wiki/Sled) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sled](/_Standards/Technology/Transport/Sled.md) 

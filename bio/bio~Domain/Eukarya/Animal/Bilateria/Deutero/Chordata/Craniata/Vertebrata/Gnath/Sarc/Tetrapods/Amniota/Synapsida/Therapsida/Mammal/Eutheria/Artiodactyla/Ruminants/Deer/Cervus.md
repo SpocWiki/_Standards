@@ -34,8 +34,6 @@ NBN_System_Key: NBNSYS0000131445
 > [Wikipedia](https://en.wikipedia.org/wiki/Cervus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cervus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer/Cervus.md) 

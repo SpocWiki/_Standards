@@ -221,8 +221,6 @@ birth_name: Stephen Edwin King
 > [Wikipedia](https://en.wikipedia.org/wiki/Stephen%20King) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [King,Stephen](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.md) 

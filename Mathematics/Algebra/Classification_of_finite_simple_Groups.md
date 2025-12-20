@@ -31,8 +31,6 @@ main_subject: "[[_Standards/WikiData/WD~finite_simple_group,45033382]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Classification%20of%20finite%20simple%20groups) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Classification_of_finite_simple_Groups](/_Standards/Mathematics/Algebra/Classification_of_finite_simple_Groups.md) 

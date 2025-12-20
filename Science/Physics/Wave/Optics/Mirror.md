@@ -20,8 +20,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Mirror) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mirror](/_Standards/Science/Physics/Wave/Optics/Mirror.md) 

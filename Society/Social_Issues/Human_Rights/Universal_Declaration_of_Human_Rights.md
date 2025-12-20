@@ -194,9 +194,6 @@ Commons_category: Universal Declaration of Human Rights
 > [Wikipedia](https://en.wikipedia.org/wiki/Universal%20Declaration%20of%20Human%20Rights)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Universal_Declaration_of_Human_Rights](/_Standards/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.md) 

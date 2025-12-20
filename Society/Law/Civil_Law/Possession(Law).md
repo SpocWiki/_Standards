@@ -16,8 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Possession%20(law)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Possession(Law)](/_Standards/Society/Law/Civil_Law/Possession(Law).md) 

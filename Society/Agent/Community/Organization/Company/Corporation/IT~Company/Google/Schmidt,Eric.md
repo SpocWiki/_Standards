@@ -142,10 +142,6 @@ Plex_person_key: 5d7769d4594b2b001e6ab46a
 > [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Schmidt) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schmidt,Eric](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.md) 

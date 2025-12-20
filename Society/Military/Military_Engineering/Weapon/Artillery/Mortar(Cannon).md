@@ -50,8 +50,6 @@ Artillery weapon that launches explosive projectiles at high angles.
 > [Wikipedia](https://en.wikipedia.org/wiki/Mortar%20(weapon))  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mortar(Cannon)](/_Standards/Society/Military/Military_Engineering/Weapon/Artillery/Mortar(Cannon).md) 

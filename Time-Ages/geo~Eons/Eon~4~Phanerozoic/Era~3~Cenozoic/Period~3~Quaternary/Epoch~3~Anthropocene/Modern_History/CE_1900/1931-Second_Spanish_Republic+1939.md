@@ -65,8 +65,6 @@ inception: 1931-04-14T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20Spanish%20Republic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1931-Second_Spanish_Republic+1939](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.md) 

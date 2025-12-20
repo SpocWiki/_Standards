@@ -36,8 +36,6 @@ Commons_category: Faraday's law of induction
 > [Wikipedia](https://en.wikipedia.org/wiki/Faraday's%20law%20of%20induction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Faraday's_law_of_induction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.md) 

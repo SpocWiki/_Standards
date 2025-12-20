@@ -42,8 +42,6 @@ Commons_category: Uniform distribution
 > [Wikipedia](https://en.wikipedia.org/wiki/Continuous%20uniform%20distribution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Continuous_uniform_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Continuous_uniform_Distribution.md) 

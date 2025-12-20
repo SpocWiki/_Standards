@@ -76,8 +76,6 @@ Commons_category: Quadratic equation
 > [Wikipedia](https://en.wikipedia.org/wiki/Quadratic%20equation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Quadratic_Equation](/_Standards/Mathematics/Algebra/Polynomial/Quadratic_Equation.md) 

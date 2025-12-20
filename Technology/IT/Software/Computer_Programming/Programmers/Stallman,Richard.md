@@ -160,8 +160,6 @@ birth_name: Richard Matthew Stallman
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Stallman)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stallman,Richard](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.md) 

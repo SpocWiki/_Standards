@@ -39,8 +39,6 @@ P8189: "987007285613905171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Choreography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Choreography](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Choreography.md) 

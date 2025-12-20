@@ -28,8 +28,6 @@ Commons_category: History of linguistics
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20linguistics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Linguistics](/_Standards/Language/Linguistics/History_of_Linguistics.md) 

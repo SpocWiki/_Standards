@@ -96,8 +96,6 @@ MeSH_tree_code: F01.510
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20nature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Human_Nature](/_Standards/Society/Anthropology/Human_Nature.md) 

@@ -312,8 +312,6 @@ ISNI: "0000000121287379"
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20C%C3%A9zanne) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cézanne,Paul](/_Standards/Society/Communication/Media/Painting/Painter/Cézanne,Paul.md) 

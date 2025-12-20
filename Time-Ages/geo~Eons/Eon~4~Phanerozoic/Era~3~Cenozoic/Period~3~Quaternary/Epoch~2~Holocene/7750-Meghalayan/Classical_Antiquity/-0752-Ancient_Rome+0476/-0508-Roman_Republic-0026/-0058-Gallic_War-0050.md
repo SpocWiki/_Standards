@@ -61,8 +61,6 @@ Commons_category: Gallic War
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallic%20Wars) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [-0058-Gallic_War-0050](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.md) 

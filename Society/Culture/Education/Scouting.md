@@ -75,8 +75,6 @@ inception: 1907-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Scouting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scouting](/_Standards/Society/Culture/Education/Scouting.md) 

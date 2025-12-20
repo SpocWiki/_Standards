@@ -57,8 +57,6 @@ Commons_category: Percentages
 > [Wikipedia](https://en.wikipedia.org/wiki/Percentage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Unit~Percent](/_Standards/Dimension/Dim~Number/Unit~Percent.md) 

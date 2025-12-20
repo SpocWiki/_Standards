@@ -46,8 +46,6 @@ IMA_Mineral_Symbol: Kln
 > [Wikipedia](https://en.wikipedia.org/wiki/Kaolinite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kaolinite](/_Standards/Earth/Geology/Mineral/Kaolinite.md) 

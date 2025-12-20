@@ -42,8 +42,6 @@ Commons_category: Raised bogs
 > [Wikipedia](https://en.wikipedia.org/wiki/Raised%20bog) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Raised_Bog](/_Standards/bio/Ecology/Ecosystem/Raised_Bog.md) 

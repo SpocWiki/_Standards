@@ -69,8 +69,6 @@ name_in_native_language: Ward Cunningham
 The best way to get the right answer on the Internet is not to ask a question; It's to post the wrong answer. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cunningham,Ward](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Cunningham,Ward.md) 

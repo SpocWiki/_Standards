@@ -69,8 +69,6 @@ ISNI: 000000011874695X
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Eastman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eastman,George](/_Standards/Science/Inventor/Eastman,George.md) 

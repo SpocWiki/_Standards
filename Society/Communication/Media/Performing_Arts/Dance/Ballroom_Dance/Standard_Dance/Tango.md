@@ -12,8 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Tango) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tango](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.md) 

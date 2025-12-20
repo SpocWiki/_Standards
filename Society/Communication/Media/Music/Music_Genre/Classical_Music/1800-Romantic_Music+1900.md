@@ -39,8 +39,6 @@ Europeana_entity: agent/base/146915
 > [Wikipedia](https://en.wikipedia.org/wiki/Romantic%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1800-Romantic_Music+1900](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/1800-Romantic_Music+1900.md) 

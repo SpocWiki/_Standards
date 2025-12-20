@@ -49,8 +49,6 @@ female_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Video%20game%20developer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Video_Game_Developer](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.md) 

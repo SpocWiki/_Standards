@@ -34,8 +34,6 @@ Commons_category: Plant reproduction
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20reproduction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plant_Reproduction](/_Standards/bio/Botany/Plant_Anatomy/Plant_Reproduction.md) 

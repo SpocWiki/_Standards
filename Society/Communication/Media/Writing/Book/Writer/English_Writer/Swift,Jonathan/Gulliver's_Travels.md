@@ -24,8 +24,6 @@ has_id_wikidata: Q181488
 > [Wikipedia](https://en.wikipedia.org/wiki/Gulliver's%20Travels) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gulliver's_Travels](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.md) 

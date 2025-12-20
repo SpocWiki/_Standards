@@ -30,8 +30,6 @@ has_id_wikidata: Q207645
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20tactics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Military_Tactics](/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.md) 

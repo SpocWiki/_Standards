@@ -26,8 +26,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Happiness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Happiness](/_Standards/bio/Psychology/Affect/Emotion/Happiness.md) 

@@ -43,8 +43,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Letter%20of%20marque) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Letter_of_Marque](/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.md) 

@@ -96,8 +96,6 @@ Commons_gallery: Incandescent light bulb
 > [Wikipedia](https://en.wikipedia.org/wiki/Incandescent%20light%20bulb) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Incandescent_Light_Bulb](/_Standards/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.md) 

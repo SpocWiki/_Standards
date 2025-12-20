@@ -52,8 +52,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/How%20%28and%20when%29
 > [Wikipedia](https://en.wikipedia.org/wiki/Control%20of%20fire%20by%20early%20humans) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Control_of_fire_by_early_humans](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.md) 

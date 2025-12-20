@@ -233,8 +233,6 @@ ISNI: "0000000121379687"
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Klee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Klee,Paul](/_Standards/Society/Communication/Media/Painting/Painter/Klee,Paul.md) 

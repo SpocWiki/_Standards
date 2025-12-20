@@ -42,8 +42,6 @@ Commons_category: Green politics
 > [Wikipedia](https://en.wikipedia.org/wiki/Green%20politics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Green_Politics](/_Standards/Society/Ideology/Political_Ideology/Green_Politics.md) 

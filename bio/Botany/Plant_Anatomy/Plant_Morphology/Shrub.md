@@ -79,8 +79,6 @@ OpenStreetMap_tag: natural=shrub
 > [Wikipedia](https://en.wikipedia.org/wiki/Shrub) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shrub](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Shrub.md) 

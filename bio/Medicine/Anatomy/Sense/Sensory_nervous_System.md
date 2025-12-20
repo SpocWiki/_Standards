@@ -46,8 +46,6 @@ Commons_category: Sensory system
 > [Wikipedia](https://en.wikipedia.org/wiki/Sensory%20nervous%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sensory_nervous_System](/_Standards/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.md) 

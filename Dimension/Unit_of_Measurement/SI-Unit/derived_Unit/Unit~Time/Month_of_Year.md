@@ -17,8 +17,6 @@ has_id_wikidata: Q5151
 > [Wikipedia](https://en.wikipedia.org/wiki/Month) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Month_of_Year](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year.md) 

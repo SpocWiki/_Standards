@@ -55,8 +55,6 @@ The name derives from the fact that most Stars in the [[../../Star~Constellation
 > [Wikipedia](https://en.wikipedia.org/wiki/Cepheid%20variable) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cepheid_Variable](/_Standards/Astronomy/Star/Cepheid_Variable.md) 

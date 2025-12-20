@@ -43,8 +43,6 @@ Commons_category: Optical discs
 > [Wikipedia](https://en.wikipedia.org/wiki/Optical%20disc) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Optical_Disc](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Optical_Disc.md) 

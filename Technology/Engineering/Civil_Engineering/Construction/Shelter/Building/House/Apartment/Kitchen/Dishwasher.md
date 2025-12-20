@@ -40,7 +40,6 @@ Commons_category: Dishwashers
 > [Wikipedia](https://en.wikipedia.org/wiki/Dishwasher) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dishwasher](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.md) 

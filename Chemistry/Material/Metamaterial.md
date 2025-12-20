@@ -45,8 +45,6 @@ Commons_category: Metamaterials
 > [Wikipedia](https://en.wikipedia.org/wiki/Metamaterial) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metamaterial](/_Standards/Chemistry/Material/Metamaterial.md) 

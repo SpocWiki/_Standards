@@ -177,8 +177,6 @@ end_time: 2009-09-18T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Guiding%20Light) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Guiding_Light](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.md) 

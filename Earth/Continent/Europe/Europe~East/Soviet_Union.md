@@ -324,8 +324,6 @@ Krugosvet_article_archived_: istoriya/SOYUZ_SOVETSKIH_SOTSIALISTICHESKIH_RESPUBL
 > [Wikipedia](https://en.wikipedia.org/wiki/Soviet%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Soviet_Union](/_Standards/Earth/Continent/Europe/Europe~East/Soviet_Union.md) 

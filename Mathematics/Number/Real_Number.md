@@ -72,8 +72,6 @@ Commons_category: Real numbers
 > [Wikipedia](https://en.wikipedia.org/wiki/Real%20number) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Real_Number](/_Standards/Mathematics/Number/Real_Number.md) 

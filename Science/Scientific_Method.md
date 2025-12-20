@@ -84,8 +84,6 @@ PhilPapers_topic: scientific-method
 > [Wikipedia](https://en.wikipedia.org/wiki/Scientific%20method) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scientific_Method](/_Standards/Science/Scientific_Method.md) 

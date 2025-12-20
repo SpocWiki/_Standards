@@ -191,8 +191,6 @@ Plex_person_key: 5d7768254de0ee001fcc832d
 > [Wikipedia](https://en.wikipedia.org/wiki/Oprah%20Winfrey) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Winfrey,Oprah](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.md) 

@@ -54,8 +54,6 @@ Commons_category: Visual system
 > [Wikipedia](https://en.wikipedia.org/wiki/Visual%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Visual_System](/_Standards/bio/Medicine/Anatomy/Sense/Visual_System.md) 

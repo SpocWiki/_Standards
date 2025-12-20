@@ -44,8 +44,6 @@ Commons_category: Turbines (turbomachine component)
 > [Wikipedia](https://en.wikipedia.org/wiki/Turbine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turbine](/_Standards/Technology/Engine/Turbine.md) 

@@ -88,8 +88,6 @@ RTECS_number: TT3700000
 > [Wikipedia](https://en.wikipedia.org/wiki/Potassium%20nitrate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Potassium_Nitrate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.md) 

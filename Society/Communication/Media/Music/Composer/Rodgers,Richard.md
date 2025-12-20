@@ -107,8 +107,6 @@ Europeana_entity: agent/base/60508
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Rodgers) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rodgers,Richard](/_Standards/Society/Communication/Media/Music/Composer/Rodgers,Richard.md) 

@@ -50,8 +50,6 @@ male_form_of_label: Matrous
 > [Wikipedia](https://en.wikipedia.org/wiki/Sailor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seaman](/_Standards/Technology/Transport/Water_Transport/Seaman.md) 

@@ -32,8 +32,6 @@ Wolfram_Language_entity_type: CrystalSystem
 > [Wikipedia](https://en.wikipedia.org/wiki/Crystal%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crystal_System](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.md) 

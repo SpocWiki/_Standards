@@ -85,8 +85,6 @@ ISNI: "0000000121417057"
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Fisk) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fisk,Robert](/_Standards/Society/Communication/Media/Journalism/Journalist/Fisk,Robert.md) 

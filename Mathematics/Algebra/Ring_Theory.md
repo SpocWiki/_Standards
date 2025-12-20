@@ -68,8 +68,6 @@ Commons_category: Ring theory
 > [Wikipedia](https://en.wikipedia.org/wiki/Ring%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ring_Theory](/_Standards/Mathematics/Algebra/Ring_Theory.md) 

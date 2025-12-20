@@ -64,3 +64,22 @@ inception: 1921-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Good%20Soldier%20%C5%A0vejk) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Good_Soldier_Švejk](/_Standards/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.md) 
+
+### #is_/same_as :: [Good_Soldier_Švejk.public](/_public/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.public.md) 
+
+### #is_/same_as :: [Good_Soldier_Švejk.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.internal.md) 
+
+### #is_/same_as :: [Good_Soldier_Švejk.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.protect.md) 
+
+### #is_/same_as :: [Good_Soldier_Švejk.private](/_private/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.private.md) 
+
+### #is_/same_as :: [Good_Soldier_Švejk.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.personal.md) 
+
+### #is_/same_as :: [Good_Soldier_Švejk.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.secret.md)
+

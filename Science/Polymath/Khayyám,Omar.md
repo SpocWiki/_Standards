@@ -103,8 +103,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/HAYAM_OMAR.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Omar%20Khayyam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Khayyám,Omar](/_Standards/Science/Polymath/Khayyám,Omar.md) 

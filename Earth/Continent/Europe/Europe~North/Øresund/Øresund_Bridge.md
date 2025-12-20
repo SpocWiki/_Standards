@@ -83,8 +83,6 @@ Commons_gallery: Øresund bridge
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%98resund%20Bridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Øresund_Bridge](/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.md) 

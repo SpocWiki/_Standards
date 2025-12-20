@@ -53,8 +53,6 @@ OpenStreetMap_tag: healthcare:speciality=surgery
 > [Wikipedia](https://en.wikipedia.org/wiki/Surgery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Surgery](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.md) 

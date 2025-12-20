@@ -56,8 +56,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinetic%20energy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kinetic_Energy](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.md) 

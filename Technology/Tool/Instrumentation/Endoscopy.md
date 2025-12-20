@@ -29,8 +29,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Endoscope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Endoscopy](/_Standards/Technology/Tool/Instrumentation/Endoscopy.md) 

@@ -83,8 +83,6 @@ Commons_category: Hooke's law
 > [Wikipedia](https://en.wikipedia.org/wiki/Hooke's%20law)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hooke's_Law](/_Standards/Science/Physics/Classical_Mechanics/Hooke's_Law.md) 

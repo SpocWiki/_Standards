@@ -132,8 +132,6 @@ ISNI: "0000000120968885"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Huston) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Huston,John](/_Standards/Society/Communication/Media/Movie/Movie-Director/Huston,John.md) 

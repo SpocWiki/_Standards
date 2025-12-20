@@ -78,8 +78,6 @@ Munzinger_Sport_number: "01000000725"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jack%20Dempsey) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dempsey,Jack](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.md) 

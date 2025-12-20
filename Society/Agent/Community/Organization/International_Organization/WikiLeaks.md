@@ -68,8 +68,6 @@ inception: 2006-10-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/WikiLeaks) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WikiLeaks](/_Standards/Society/Agent/Community/Organization/International_Organization/WikiLeaks.md) 

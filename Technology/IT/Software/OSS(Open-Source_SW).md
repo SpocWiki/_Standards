@@ -59,8 +59,6 @@ subreddit: OpenSource
 > [Wikipedia](https://en.wikipedia.org/wiki/Open-source%20software) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OSS(Open-Source_SW)](/_Standards/Technology/IT/Software/OSS(Open-Source_SW).md) 

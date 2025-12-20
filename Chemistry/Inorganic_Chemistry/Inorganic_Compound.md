@@ -42,8 +42,6 @@ Commons_category: Inorganic compounds
 > [Wikipedia](https://en.wikipedia.org/wiki/Inorganic%20compound)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inorganic_Compound](/_Standards/Chemistry/Inorganic_Chemistry/Inorganic_Compound.md) 

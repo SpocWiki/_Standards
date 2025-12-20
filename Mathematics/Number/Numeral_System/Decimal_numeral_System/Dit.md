@@ -40,9 +40,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hartley%20(unit)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dit](/_Standards/Mathematics/Number/Numeral_System/Decimal_numeral_System/Dit.md) 

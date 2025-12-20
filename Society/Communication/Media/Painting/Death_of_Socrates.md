@@ -81,8 +81,6 @@ inception: 1787-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Death%20of%20Socrates) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Death_of_Socrates](/_Standards/Society/Communication/Media/Painting/Death_of_Socrates.md) 

@@ -37,10 +37,6 @@ Commons_category: Writing tools
 > [Wikipedia](https://en.wikipedia.org/wiki/Writing%20implement) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Writing_Tool](/_Standards/Technology/Tool/Writing_Tool.md) 

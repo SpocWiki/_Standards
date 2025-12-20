@@ -38,8 +38,6 @@ taxon_author_citation: Cuvier, 1837
 > [Wikipedia](https://en.wikipedia.org/wiki/Sarcophilus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sarcophilus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.md) 

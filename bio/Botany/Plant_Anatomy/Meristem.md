@@ -48,8 +48,6 @@ Commons_gallery: Méristème
 > [Wikipedia](https://en.wikipedia.org/wiki/Meristem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Meristem](/_Standards/bio/Botany/Plant_Anatomy/Meristem.md) 

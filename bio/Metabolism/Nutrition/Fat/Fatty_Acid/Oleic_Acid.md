@@ -672,8 +672,6 @@ SPLASH:
 > [Wikipedia](https://en.wikipedia.org/wiki/Oleic%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Oleic_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.md) 

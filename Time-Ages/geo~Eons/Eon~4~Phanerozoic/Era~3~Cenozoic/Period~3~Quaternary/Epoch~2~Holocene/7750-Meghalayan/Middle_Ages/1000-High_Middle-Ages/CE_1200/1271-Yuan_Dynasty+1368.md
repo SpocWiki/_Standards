@@ -115,8 +115,6 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Yuen%20Dyn
 > [Wikipedia](https://en.wikipedia.org/wiki/Yuan%20dynasty)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1271-Yuan_Dynasty+1368](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/1271-Yuan_Dynasty+1368.md) 

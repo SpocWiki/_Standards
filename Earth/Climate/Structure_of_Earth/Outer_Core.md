@@ -22,8 +22,6 @@ instance_of: "[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20outer%20core) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Outer_Core](/_Standards/Earth/Climate/Structure_of_Earth/Outer_Core.md) 

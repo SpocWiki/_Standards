@@ -39,8 +39,6 @@ Commons_category: Scorched earth (military)
 > [Wikipedia](https://en.wikipedia.org/wiki/Scorched%20earth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scorched_Earth](/_Standards/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.md) 

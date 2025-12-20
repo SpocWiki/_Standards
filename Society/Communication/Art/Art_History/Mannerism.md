@@ -55,8 +55,6 @@ start_time: 1520-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Mannerism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mannerism](/_Standards/Society/Communication/Art/Art_History/Mannerism.md) 

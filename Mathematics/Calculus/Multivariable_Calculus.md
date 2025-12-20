@@ -27,8 +27,6 @@ Commons_category: Multivariate calculus
 > [Wikipedia](https://en.wikipedia.org/wiki/Multivariable%20calculus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multivariable_Calculus](/_Standards/Mathematics/Calculus/Multivariable_Calculus.md) 

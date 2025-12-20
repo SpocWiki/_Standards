@@ -87,8 +87,6 @@ date_of_birth: 1909-02-11T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20L.%20Mankiewicz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mankiewicz,Joseph_L.](/_Standards/Society/Communication/Media/Movie/Movie-Director/Mankiewicz,Joseph_L..md) 

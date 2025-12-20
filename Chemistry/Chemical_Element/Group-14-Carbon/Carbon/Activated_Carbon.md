@@ -37,8 +37,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Activated%20carbon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Activated_Carbon](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.md) 

@@ -38,8 +38,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Shoe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shoe](/_Standards/Technology/Tool/Clothing/Shoe.md) 

@@ -66,8 +66,6 @@ name_in_hiero_markup: r:D36-ra:Z1-C2
 > [Wikipedia](https://en.wikipedia.org/wiki/Ra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ra](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Ra.md) 

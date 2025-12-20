@@ -38,8 +38,6 @@ short_name: ударные
 > [Wikipedia](https://en.wikipedia.org/wiki/Percussion%20instrument) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Percussion_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument.md) 

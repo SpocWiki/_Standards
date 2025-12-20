@@ -48,8 +48,6 @@ Dewey_Decimal_Classification: "133.32424"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tarot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tarot](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot.md) 

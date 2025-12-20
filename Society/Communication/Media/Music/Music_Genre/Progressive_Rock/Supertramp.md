@@ -39,11 +39,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Supertramp)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Supertramp](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.md) 

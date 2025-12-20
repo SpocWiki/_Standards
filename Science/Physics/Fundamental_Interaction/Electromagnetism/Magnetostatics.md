@@ -20,8 +20,6 @@ Commons_category: Magnetostatics
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetostatics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnetostatics](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.md) 

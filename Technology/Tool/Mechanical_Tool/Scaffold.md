@@ -61,8 +61,6 @@ OpenStreetMap_tag: support=scaffold
 > [Wikipedia](https://en.wikipedia.org/wiki/Scaffolding) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scaffold](/_Standards/Technology/Tool/Mechanical_Tool/Scaffold.md) 

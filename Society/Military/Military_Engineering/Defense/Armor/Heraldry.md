@@ -74,8 +74,6 @@ Regensburg_Classification: ND 5400 - ND 5830
 > [Wikipedia](https://en.wikipedia.org/wiki/Heraldry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heraldry](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Heraldry.md) 

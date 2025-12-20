@@ -18,8 +18,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Income%20distribution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Income_Inequality](/_Standards/Society/Social_Issues/Social_Inequality/Income_Inequality.md) 

@@ -46,8 +46,6 @@ Commons_category: Postmodernism
 > [Wikipedia](https://en.wikipedia.org/wiki/Postmodernism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Postmodernism](/_Standards/Society/Communication/Art/Art_History/Postmodernism.md) 

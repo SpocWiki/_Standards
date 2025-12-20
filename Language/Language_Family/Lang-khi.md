@@ -46,8 +46,6 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Khoi-San.pn
 > [Wikipedia](https://en.wikipedia.org/wiki/Khoisan%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-khi](/_Standards/Language/Language_Family/Lang-khi.md) 

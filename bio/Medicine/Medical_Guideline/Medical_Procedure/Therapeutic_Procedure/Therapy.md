@@ -48,8 +48,6 @@ Commons_category: Therapies
 > [Wikipedia](https://en.wikipedia.org/wiki/Therapy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Therapy](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy.md) 

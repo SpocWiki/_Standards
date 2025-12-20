@@ -37,7 +37,6 @@ has_id_wikidata: Q133544
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Logie%20Baird) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Baird,John_Logie](/_Standards/Science/Inventor/Baird,John_Logie.md) 

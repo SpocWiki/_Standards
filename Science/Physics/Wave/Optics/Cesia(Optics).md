@@ -22,8 +22,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Cesia%20(visual%20appearance)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cesia(Optics)](/_Standards/Science/Physics/Wave/Optics/Cesia(Optics).md) 

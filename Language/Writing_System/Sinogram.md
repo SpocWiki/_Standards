@@ -28,7 +28,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20characters)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sinogram](/_Standards/Language/Writing_System/Sinogram.md) 

@@ -84,12 +84,6 @@ UMLS_CUI: C0949248
 > [Wikipedia](https://en.wikipedia.org/wiki/Cannabis)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cannabis](/_Standards/bio/Medicine/Drug/Drug-Dealing/Cannabis.md) 

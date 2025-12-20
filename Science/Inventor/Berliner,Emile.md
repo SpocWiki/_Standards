@@ -96,8 +96,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Emile%20Berliner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Berliner,Emile](/_Standards/Science/Inventor/Berliner,Emile.md) 

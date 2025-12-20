@@ -119,10 +119,6 @@ Dewey_Decimal_Classification: "363.125"
 > [Wikipedia](https://en.wikipedia.org/wiki/Traffic%20collision) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Traffic_Collision](/_Standards/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.md) 

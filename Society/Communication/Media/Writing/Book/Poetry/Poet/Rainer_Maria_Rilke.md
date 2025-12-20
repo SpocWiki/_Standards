@@ -155,8 +155,6 @@ Regensburg_Classification: GM 5162
 > [Wikipedia](https://en.wikipedia.org/wiki/Rainer%20Maria%20Rilke) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rainer_Maria_Rilke](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Rainer_Maria_Rilke.md) 

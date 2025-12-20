@@ -50,8 +50,6 @@ time_of_discovery_or_invention: 1905-11-21T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Mass%E2%80%93energy%20equivalence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mass–Energy_Equivalence](/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.md) 

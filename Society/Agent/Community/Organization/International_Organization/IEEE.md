@@ -173,8 +173,6 @@ X_Twitter_username: ieeeorg
 > [Wikipedia](https://en.wikipedia.org/wiki/Institute%20of%20Electrical%20and%20Electronics%20Engineers) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IEEE](/_Standards/Society/Agent/Community/Organization/International_Organization/IEEE.md) 

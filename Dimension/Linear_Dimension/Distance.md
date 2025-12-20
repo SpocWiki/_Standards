@@ -51,8 +51,6 @@ OpenStreetMap_tag_or_key: Key:distance
 > [Wikipedia](https://en.wikipedia.org/wiki/Distance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Distance](/_Standards/Dimension/Linear_Dimension/Distance.md) 

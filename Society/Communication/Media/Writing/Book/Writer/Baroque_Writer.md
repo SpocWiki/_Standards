@@ -2,8 +2,6 @@
 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Baroque_Writer](/_Standards/Society/Communication/Media/Writing/Book/Writer/Baroque_Writer.md) 

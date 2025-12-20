@@ -54,8 +54,6 @@ IPTC_NewsCode: mediatopic/20000732
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electromagnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism.md) 

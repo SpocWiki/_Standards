@@ -15,8 +15,6 @@ has_id_wikidata: "773108"
 > [Wikipedia](https://en.wikipedia.org/wiki/Seasoning) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seasoning](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning.md) 

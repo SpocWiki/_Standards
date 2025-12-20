@@ -139,9 +139,6 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20di%20pi
 > [Wikipedia](https://en.wikipedia.org/wiki/Leaning%20Tower%20of%20Pisa) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leaning_Tower_of_Pisa](/_Standards/Earth/Geography/Place/Leaning_Tower_of_Pisa.md) 

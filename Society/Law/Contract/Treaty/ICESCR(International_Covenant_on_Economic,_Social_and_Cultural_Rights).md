@@ -88,8 +88,6 @@ title:
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Covenant%20on%20Economic,%20Social%20and%20Cultural%20Rights) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights)](/_Standards/Society/Law/Contract/Treaty/ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights).md) 

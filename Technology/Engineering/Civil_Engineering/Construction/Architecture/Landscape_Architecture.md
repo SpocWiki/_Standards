@@ -34,8 +34,6 @@ subreddit: LandscapeArchitecture
 > [Wikipedia](https://en.wikipedia.org/wiki/Landscape%20architecture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Landscape_Architecture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Landscape_Architecture.md) 

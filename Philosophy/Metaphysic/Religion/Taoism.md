@@ -113,8 +113,6 @@ IPTC_NewsCode: mediatopic/20000685
 > [Wikipedia](https://en.wikipedia.org/wiki/Taoism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taoism](/_Standards/Philosophy/Metaphysic/Religion/Taoism.md) 

@@ -73,8 +73,6 @@ official_name: DIN Deutsches Institut für Normung e.V.
 > [Wikipedia](https://en.wikipedia.org/wiki/Deutsches%20Institut%20f%C3%BCr%20Normung) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [DIN(Deutsches_Institut_für_Normung)](/_Standards/ISO/DIN(Deutsches_Institut_für_Normung).md) 

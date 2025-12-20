@@ -33,7 +33,6 @@ Instead you run the risk of obtaining inconsistent Implementations
 depending on the Interface you use to access the Method. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multiple-Inheritance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.md) 

@@ -73,9 +73,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Five%20personality%20traits)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Personality~Big5](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5.md) 

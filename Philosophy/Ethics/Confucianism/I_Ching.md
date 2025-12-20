@@ -89,8 +89,6 @@ first_line: 乾 ䷀ 元亨利貞
 > [Wikipedia](https://en.wikipedia.org/wiki/I%20Ching) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [I_Ching](/_Standards/Philosophy/Ethics/Confucianism/I_Ching.md) 

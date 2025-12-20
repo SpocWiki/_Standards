@@ -42,8 +42,6 @@ inception: 2010-04-18T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pirate%20Parties%20International) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pirate_Parties_International](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.md) 

@@ -61,8 +61,6 @@ Krugosvet_article_archived_: istoriya/SAMURA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Samurai) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Samurai](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.md) 

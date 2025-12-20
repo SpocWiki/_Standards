@@ -54,8 +54,6 @@ Commons_category: Tree trunks
 > [Wikipedia](https://en.wikipedia.org/wiki/Trunk%20(botany)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trunk(Botany)](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).md) 

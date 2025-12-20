@@ -55,8 +55,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Econometrics::t8984"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Econometrics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Econometrics](/_Standards/Society/Economics/Econometrics.md) 

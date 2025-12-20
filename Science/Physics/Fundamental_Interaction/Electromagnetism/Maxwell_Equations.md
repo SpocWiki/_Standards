@@ -487,8 +487,6 @@ IEV_number: 121-11-62
 > [Wikipedia](https://en.wikipedia.org/wiki/Maxwell's%20equations) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maxwell_Equations](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.md) 

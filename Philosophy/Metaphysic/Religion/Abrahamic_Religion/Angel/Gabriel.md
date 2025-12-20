@@ -63,8 +63,6 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/GAVRIIL.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Gabriel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gabriel](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel/Gabriel.md) 

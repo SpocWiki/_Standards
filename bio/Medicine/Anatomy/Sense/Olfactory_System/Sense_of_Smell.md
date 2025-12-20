@@ -72,8 +72,6 @@ Commons_category: Smell
 > [Wikipedia](https://en.wikipedia.org/wiki/Sense%20of%20smell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sense_of_Smell](/_Standards/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.md) 

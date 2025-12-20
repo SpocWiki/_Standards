@@ -56,8 +56,6 @@ Commons_category: Surfactants
 > [Wikipedia](https://en.wikipedia.org/wiki/Surfactant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Surfactant](/_Standards/Science/Physics/Fluid_Mechanics/Surface_Tension/Surfactant.md) 

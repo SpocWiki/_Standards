@@ -21,8 +21,6 @@ has_id_wikidata: "40754"
 > [Wikipedia](https://en.wikipedia.org/wiki/Subtraction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Subtraction](/_Standards/Mathematics/Arithmetic/Subtraction.md) 

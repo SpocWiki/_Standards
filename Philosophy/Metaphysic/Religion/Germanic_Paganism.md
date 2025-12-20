@@ -18,8 +18,6 @@ has_id_wikidata: Q1122452
 > [Wikipedia](https://en.wikipedia.org/wiki/Germanic%20paganism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Germanic_Paganism](/_Standards/Philosophy/Metaphysic/Religion/Germanic_Paganism.md) 

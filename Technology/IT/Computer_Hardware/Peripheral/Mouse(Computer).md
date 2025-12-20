@@ -70,9 +70,6 @@ Baidu_Tieba_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20mouse) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mouse(Computer)](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).md) 

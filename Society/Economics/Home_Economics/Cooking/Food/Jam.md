@@ -40,8 +40,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Jam"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Fruit%20preserves) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jam](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Jam.md) 

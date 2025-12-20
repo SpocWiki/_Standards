@@ -27,12 +27,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Alex%20Krizhevsky)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Krizhevsky,Alex](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Krizhevsky,Alex.md) 

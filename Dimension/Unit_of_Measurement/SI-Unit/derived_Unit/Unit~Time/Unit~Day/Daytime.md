@@ -48,8 +48,6 @@ Commons_category: Daytime (astronomy)
 > [Wikipedia](https://en.wikipedia.org/wiki/Daytime) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Daytime](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.md) 

@@ -79,10 +79,6 @@ Commons_category: Counts
 > [Wikipedia](https://en.wikipedia.org/wiki/Graf) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Count](/_Standards/Society/Politics/Government/Monarchy/Count.md) 

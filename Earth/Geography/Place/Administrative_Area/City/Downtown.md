@@ -37,8 +37,6 @@ Commons_category: Downtowns and city centers
 > [Wikipedia](https://en.wikipedia.org/wiki/Downtown) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Downtown](/_Standards/Earth/Geography/Place/Administrative_Area/City/Downtown.md) 

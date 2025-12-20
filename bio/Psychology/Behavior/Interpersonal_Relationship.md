@@ -48,8 +48,6 @@ MeSH_tree_code: F01.829.401
 > [Wikipedia](https://en.wikipedia.org/wiki/Interpersonal%20relationship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Interpersonal_Relationship](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship.md) 

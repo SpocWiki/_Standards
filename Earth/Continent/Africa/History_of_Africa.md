@@ -45,8 +45,6 @@ has_id_wikidata: Q149813
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Africa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Africa](/_Standards/Earth/Continent/Africa/History_of_Africa.md) 

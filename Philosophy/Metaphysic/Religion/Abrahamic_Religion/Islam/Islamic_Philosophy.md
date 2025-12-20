@@ -44,8 +44,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ARABSKAYA_FILOSOFIYA
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamic%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Islamic_Philosophy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.md) 

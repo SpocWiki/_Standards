@@ -55,8 +55,6 @@ OpenStreetMap_tag: denomination=sunni
 > [Wikipedia](https://en.wikipedia.org/wiki/Sunni%20Islam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sunni_Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.md) 

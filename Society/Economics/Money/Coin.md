@@ -103,8 +103,6 @@ P8189: "987007283907105171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Coin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coin](/_Standards/Society/Economics/Money/Coin.md) 

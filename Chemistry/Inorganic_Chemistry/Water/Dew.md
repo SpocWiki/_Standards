@@ -42,8 +42,6 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20dew%20proper%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Dew) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dew](/_Standards/Chemistry/Inorganic_Chemistry/Water/Dew.md) 

@@ -52,8 +52,6 @@ Commons_category: Summer Olympics
 > [Wikipedia](https://en.wikipedia.org/wiki/Summer%20Olympic%20Games) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Summer_Olympics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.md) 

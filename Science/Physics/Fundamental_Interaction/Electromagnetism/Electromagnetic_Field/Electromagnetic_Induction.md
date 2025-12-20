@@ -50,9 +50,6 @@ IEV_number: 121-11-30
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic%20induction) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electromagnetic_Induction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Electromagnetic_Induction.md) 

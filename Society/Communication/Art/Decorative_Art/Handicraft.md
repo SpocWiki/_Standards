@@ -88,8 +88,6 @@ Provenio_UUID: 028f33dc-266f-4632-bfb7-e897333039a2
 > [Wikipedia](https://en.wikipedia.org/wiki/Handicraft) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Handicraft](/_Standards/Society/Communication/Art/Decorative_Art/Handicraft.md) 

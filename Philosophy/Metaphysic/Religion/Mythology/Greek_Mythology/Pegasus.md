@@ -76,8 +76,6 @@ name_in_native_language: Πήγασος
 > [Wikipedia](https://en.wikipedia.org/wiki/Pegasus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pegasus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.md) 

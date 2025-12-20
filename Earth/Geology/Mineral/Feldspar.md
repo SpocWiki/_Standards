@@ -48,8 +48,6 @@ IMA_Mineral_Symbol: Fsp
 > [Wikipedia](https://en.wikipedia.org/wiki/Feldspar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Feldspar](/_Standards/Earth/Geology/Mineral/Feldspar.md) 

@@ -36,8 +36,6 @@ has_part_s_: "[[_Standards/WikiData/WD~National_Sports_governing_body,130405942]
 > [Wikipedia](https://en.wikipedia.org/wiki/Sports%20governing%20body) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Sports_Federation](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation.md) 

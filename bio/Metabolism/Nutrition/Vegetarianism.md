@@ -59,8 +59,6 @@ Library_of_Congress_Classification: TX392-TX392.8
 > [Wikipedia](https://en.wikipedia.org/wiki/Vegetarianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vegetarianism](/_Standards/bio/Metabolism/Nutrition/Vegetarianism.md) 

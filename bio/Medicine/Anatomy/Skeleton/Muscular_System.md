@@ -37,8 +37,6 @@ TA98_Latin_term: systema musculare
 > [Wikipedia](https://en.wikipedia.org/wiki/Muscular%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Muscular_System](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscular_System.md) 

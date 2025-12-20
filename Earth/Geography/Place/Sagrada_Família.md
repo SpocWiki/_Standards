@@ -108,8 +108,6 @@ Commons_category: Sagrada Família
 > [Wikipedia](https://en.wikipedia.org/wiki/Sagrada%20Fam%C3%ADlia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sagrada_Família](/_Standards/Earth/Geography/Place/Sagrada_Família.md) 

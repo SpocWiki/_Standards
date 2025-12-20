@@ -41,8 +41,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Reed%E2%80%93Solomon%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Error%20detection%20and%20correction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Error_Detection_and_Correction](/_Standards/Technology/IT/Data/Code/Error_Detection_and_Correction.md) 

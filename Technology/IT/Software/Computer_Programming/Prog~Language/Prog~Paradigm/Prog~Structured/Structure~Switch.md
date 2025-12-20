@@ -42,8 +42,6 @@ Vice versa, also Switch Statements can be constructed by nesting [[IF-Statements
 ![[Structogram#switch-case-Structure]]
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structure~Switch](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Switch.md) 

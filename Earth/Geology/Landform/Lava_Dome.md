@@ -38,8 +38,6 @@ Commons_category: Lava domes
 > [Wikipedia](https://en.wikipedia.org/wiki/Lava%20dome) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lava_Dome](/_Standards/Earth/Geology/Landform/Lava_Dome.md) 

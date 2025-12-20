@@ -67,8 +67,6 @@ UMLS_CUI: C0242270
 > [Wikipedia](https://en.wikipedia.org/wiki/Compassion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Compassion](/_Standards/bio/Psychology/Affect/Emotion/Compassion.md) 

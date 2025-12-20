@@ -35,8 +35,6 @@ native_label: יהדות רפורמית
 > [Wikipedia](https://en.wikipedia.org/wiki/Reform%20Judaism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reform_Judaism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.md) 

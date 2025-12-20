@@ -54,8 +54,6 @@ Wolfram_Language_entity_code: Entity["Concept", "ClassStruggle::t55f5"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Class%20struggle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Class_Struggle](/_Standards/Society/Civil_Society/Class_Struggle.md) 

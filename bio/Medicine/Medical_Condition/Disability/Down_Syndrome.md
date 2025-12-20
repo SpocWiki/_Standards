@@ -85,8 +85,6 @@ Krugosvet_article: medicina/DAUNA_SINDROM.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Down%20syndrome) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Down_Syndrome](/_Standards/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.md) 

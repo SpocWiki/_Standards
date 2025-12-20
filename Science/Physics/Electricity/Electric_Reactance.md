@@ -32,8 +32,6 @@ has_id_wikidata: Q193972
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20reactance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electric_Reactance](/_Standards/Science/Physics/Electricity/Electric_Reactance.md) 

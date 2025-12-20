@@ -81,8 +81,6 @@ Commons_category: Square root
 > [Wikipedia](https://en.wikipedia.org/wiki/Square%20root) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Square_Root](/_Standards/Mathematics/Function(Math)/Square_Root.md) 

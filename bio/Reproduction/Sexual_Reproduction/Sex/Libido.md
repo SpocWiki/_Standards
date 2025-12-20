@@ -77,8 +77,6 @@ MeSH_tree_code: F02.739.794.511
 > [Wikipedia](https://en.wikipedia.org/wiki/Libido) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Libido](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Libido.md) 

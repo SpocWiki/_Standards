@@ -232,8 +232,6 @@ ISNI: "0000000120994768"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sandro%20Botticelli) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sandro_Botticelli](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.md) 

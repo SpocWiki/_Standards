@@ -56,8 +56,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Conghua%20toweroftropi
 > [Wikipedia](https://en.wikipedia.org/wiki/Tropic%20of%20Cancer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tropic_of_Cancer](/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.md) 

@@ -96,8 +96,6 @@ Commons_category: Wright brothers
 > [Wikipedia](https://en.wikipedia.org/wiki/Wright%20brothers) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wright_Brothers](/_Standards/Science/Inventor/Wright_Brothers.md) 

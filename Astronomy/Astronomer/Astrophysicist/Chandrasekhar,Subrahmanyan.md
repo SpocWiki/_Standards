@@ -160,8 +160,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Subrahmanyan%20Chandra
 > [Wikipedia](https://en.wikipedia.org/wiki/Subrahmanyan%20Chandrasekhar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chandrasekhar,Subrahmanyan](/_Standards/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.md) 

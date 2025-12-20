@@ -43,8 +43,6 @@ Dewey_Decimal_Classification: "294.5"
 > [Wikipedia](https://en.wikipedia.org/wiki/Historical%20Vedic%20religion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brahmanism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Brahmanism.md) 

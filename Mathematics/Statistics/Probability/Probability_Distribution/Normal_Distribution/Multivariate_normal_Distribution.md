@@ -39,8 +39,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Multivariate%20normal%20distribution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multivariate_normal_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.md) 

@@ -111,8 +111,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TAMPLIERI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Knights%20Templar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1118-Knights_Templars-1317](/_Standards/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.md) 

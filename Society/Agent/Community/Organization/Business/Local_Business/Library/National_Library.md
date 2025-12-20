@@ -50,9 +50,6 @@ Commons_category: National libraries
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20library) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [National_Library](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/National_Library.md) 

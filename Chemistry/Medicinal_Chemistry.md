@@ -35,8 +35,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/HIMIYA_LEKARSTV.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Medicinal%20chemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Medicinal_Chemistry](/_Standards/Chemistry/Medicinal_Chemistry.md) 

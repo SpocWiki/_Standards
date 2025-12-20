@@ -176,7 +176,6 @@ Stadtwiki_Dresden_article: Dmitri_Schostakowitsch
 > [Wikipedia](https://en.wikipedia.org/wiki/Dmitri%20Shostakovich) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shostakovich,Dmitri](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.md) 

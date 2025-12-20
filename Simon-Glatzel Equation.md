@@ -25,10 +25,6 @@ has_id_wikidata: Q7520530
 > [Wikipedia](https://en.wikipedia.org/wiki/Simon%E2%80%93Glatzel%20equation) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Simon-Glatzel Equation](/_Standards/Simon-Glatzel Equation.md) 

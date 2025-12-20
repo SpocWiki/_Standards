@@ -63,8 +63,6 @@ Commons_category: Fall of Constantinople (1453)
 > [Wikipedia](https://en.wikipedia.org/wiki/Fall%20of%20Constantinople) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1453-Fall_of_Constantinople](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.md) 

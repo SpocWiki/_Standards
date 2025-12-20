@@ -98,8 +98,6 @@ Commons_category: Tagalog language
 > [Wikipedia](https://en.wikipedia.org/wiki/Tagalog%20language) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-tgl](/_Standards/Language/Language_Family/LangFamily-Austronesian/Lang-tgl.md) 

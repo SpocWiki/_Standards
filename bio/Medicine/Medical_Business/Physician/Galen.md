@@ -102,8 +102,6 @@ ISNI: "0000000121302401"
 > [Wikipedia](https://en.wikipedia.org/wiki/Galen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Galen](/_Standards/bio/Medicine/Medical_Business/Physician/Galen.md) 

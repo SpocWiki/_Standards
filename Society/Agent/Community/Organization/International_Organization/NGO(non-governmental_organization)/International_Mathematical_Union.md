@@ -46,8 +46,6 @@ domain_name: mathunion.org
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Mathematical%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Mathematical_Union](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.md) 

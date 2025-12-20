@@ -142,8 +142,6 @@ IEV_number: 102-03-19
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20space) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euclidean_Space](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Space.md) 

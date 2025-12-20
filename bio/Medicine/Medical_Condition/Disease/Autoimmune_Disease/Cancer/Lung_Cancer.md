@@ -106,8 +106,6 @@ UMLS_CUI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lung%20cancer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lung_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Lung_Cancer.md) 

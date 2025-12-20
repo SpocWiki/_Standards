@@ -71,9 +71,6 @@ MCN_code: 8704.32.30
 > [Wikipedia](https://en.wikipedia.org/wiki/Refrigerator) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Refrigerator](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.md) 

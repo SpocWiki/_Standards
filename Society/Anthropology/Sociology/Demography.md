@@ -53,8 +53,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Demography) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Demography](/_Standards/Society/Anthropology/Sociology/Demography.md) 

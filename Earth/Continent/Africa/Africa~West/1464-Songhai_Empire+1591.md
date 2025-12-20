@@ -53,8 +53,6 @@ coordinate_location: Point(-0.05 16.26666667)
 > [Wikipedia](https://en.wikipedia.org/wiki/Songhai%20Empire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1464-Songhai_Empire+1591](/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.md) 

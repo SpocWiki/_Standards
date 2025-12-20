@@ -47,8 +47,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Signed%20Pong%20Cabine
 > [Wikipedia](https://en.wikipedia.org/wiki/Pong) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pong](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Pong.md) 

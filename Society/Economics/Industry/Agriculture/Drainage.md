@@ -36,8 +36,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Drainbankstown.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Storm%20drain) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Drainage](/_Standards/Society/Economics/Industry/Agriculture/Drainage.md) 

@@ -58,8 +58,6 @@ IEV_number: 171-08-10
 > [Wikipedia](https://en.wikipedia.org/wiki/Encryption) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decryption](/_Standards/Technology/IT/Data/Code/Decoding/Decryption.md) 

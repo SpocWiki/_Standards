@@ -19,8 +19,6 @@ has_id_wikidata: Q190507
 > [Wikipedia](https://en.wikipedia.org/wiki/Hope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hope](/_Standards/bio/Psychology/Affect/Emotion/Hope.md) 

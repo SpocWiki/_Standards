@@ -48,8 +48,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Widow) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Widowhood](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Widowhood.md) 

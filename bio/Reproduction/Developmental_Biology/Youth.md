@@ -49,9 +49,6 @@ Dewey_Decimal_Classification: "305.235"
 > [Wikipedia](https://en.wikipedia.org/wiki/Youth) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Youth](/_Standards/bio/Reproduction/Developmental_Biology/Youth.md) 

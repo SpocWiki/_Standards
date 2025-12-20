@@ -31,8 +31,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]] ] [created:: 1989-01-20]  [cancelled:: 1993-01-20]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bush,George_H_W](/_Standards/Earth/Continent/America~North/US~President/Bush,George_H_W.md) 

@@ -45,8 +45,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TOTEMIZM.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Totem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Totemism](/_Standards/Philosophy/Metaphysic/Religion/Totemism.md) 

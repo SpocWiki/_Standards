@@ -105,8 +105,6 @@ Libris_URI: zw9cdfph4tx0msv
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20Louis%20Maupertuis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maupertuis,Pierre-Louis_Moreau_de](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Maupertuis,Pierre-Louis_Moreau_de.md) 

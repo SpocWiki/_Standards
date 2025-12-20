@@ -24,10 +24,6 @@ Bedient sich eine Bundesbehörde zur Erfüllung ihrer Aufgaben einer juristische
 Trotz des umfangreichen Katalogs von Ausnahmetatbeständen gilt seit dem 1. Januar 2006 der Grundsatz, dass die Gewährung von Zugang zu behördlichen Informationen die Regel ist und die Verwehrung des Zugangs die Ausnahme.
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Informationsfreiheitsgesetz](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Transparency/Informationsfreiheitsgesetz.md) 

@@ -55,8 +55,6 @@ coordinate_location: Point(14.0 42.0)
 > [Wikipedia](https://en.wikipedia.org/wiki/Italian%20Peninsula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Italian_Peninsula](/_Standards/Earth/Continent/Europe/Italian_Peninsula.md) 

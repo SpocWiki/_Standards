@@ -61,8 +61,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Egyptian%20soldi
 > [Wikipedia](https://en.wikipedia.org/wiki/Combat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Combat](/_Standards/Society/Military/Military_Operation/Combat.md) 

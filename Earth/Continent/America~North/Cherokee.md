@@ -83,8 +83,6 @@ P8189: "987007285056005171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Cherokee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cherokee](/_Standards/Earth/Continent/America~North/Cherokee.md) 

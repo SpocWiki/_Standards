@@ -63,8 +63,6 @@ Dewey_Decimal_Classification: "636.132"
 > [Wikipedia](https://en.wikipedia.org/wiki/Thoroughbred) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thoroughbred](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse/Thoroughbred.md) 

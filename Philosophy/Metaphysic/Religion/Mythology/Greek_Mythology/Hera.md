@@ -93,8 +93,6 @@ native_label: Ἥρα
 > [Wikipedia](https://en.wikipedia.org/wiki/Hera) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hera](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hera.md) 

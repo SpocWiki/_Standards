@@ -92,8 +92,6 @@ chemical_formula:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulfate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sulfate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.md) 

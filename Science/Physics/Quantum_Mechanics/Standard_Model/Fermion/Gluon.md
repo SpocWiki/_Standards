@@ -27,10 +27,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gluon) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gluon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Gluon.md) 

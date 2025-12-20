@@ -108,8 +108,6 @@ inception: 1642-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Night%20Watch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Night_Watch(Rembrandt)](/_Standards/Society/Communication/Media/Painting/Painter/Rembrandt/Night_Watch(Rembrandt).md) 

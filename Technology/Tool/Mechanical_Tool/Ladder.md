@@ -40,8 +40,6 @@ Unicode_character: 🪜
 > [Wikipedia](https://en.wikipedia.org/wiki/Ladder) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ladder](/_Standards/Technology/Tool/Mechanical_Tool/Ladder.md) 

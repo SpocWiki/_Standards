@@ -32,8 +32,6 @@ has_id_wikidata: Q5283
 > [Wikipedia](https://en.wikipedia.org/wiki/Diamond) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diamond](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Diamond.md) 

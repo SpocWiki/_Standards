@@ -233,8 +233,6 @@ Europeana_entity: agent/base/85053
 > [Wikipedia](https://en.wikipedia.org/wiki/Elton%20John) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [John,Elton](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.md) 

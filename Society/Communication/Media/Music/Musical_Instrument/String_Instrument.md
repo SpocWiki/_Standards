@@ -48,8 +48,6 @@ Commons_category: String instruments
 > [Wikipedia](https://en.wikipedia.org/wiki/String%20instrument) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [String_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument.md) 

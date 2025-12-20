@@ -35,8 +35,6 @@ image:
 > [Wikipedia](https://en.wikipedia.org/wiki/Carnivore) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Carnivore](/_Standards/bio/Metabolism/Carnivore.md) 

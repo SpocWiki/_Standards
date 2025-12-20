@@ -115,8 +115,6 @@ birth_name: Erich Seligmann Fromm
 > [Wikipedia](https://en.wikipedia.org/wiki/Erich%20Fromm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fromm,Erich](/_Standards/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.md) 

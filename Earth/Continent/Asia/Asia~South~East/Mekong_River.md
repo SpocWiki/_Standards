@@ -87,8 +87,6 @@ Wolfram_Language_entity_code: Entity["River", "Mekong::3b95f"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Mekong) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mekong_River](/_Standards/Earth/Continent/Asia/Asia~South~East/Mekong_River.md) 

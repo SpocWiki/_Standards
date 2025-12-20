@@ -69,8 +69,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiener%20Staatsoper%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Swan%20Lake) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Swan_Lake](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.md) 

@@ -26,10 +26,6 @@ main_subject:
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20atomic%20theory) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Atomic_Models](/_Standards/Science/Physics/Atom/Atomic_Models.md) 

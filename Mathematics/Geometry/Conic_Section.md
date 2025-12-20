@@ -114,8 +114,6 @@ defining_formula: |-
 > [Wikipedia](https://en.wikipedia.org/wiki/Conic%20section) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conic_Section](/_Standards/Mathematics/Geometry/Conic_Section.md) 

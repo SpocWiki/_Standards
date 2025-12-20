@@ -25,3 +25,22 @@ has_id_wikidata:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Universality(Philosophy)](/_Standards/Philosophy/Universality(Philosophy).md) 
+
+### #is_/same_as :: [Universality(Philosophy).public](/_public/Philosophy/Universality(Philosophy).public.md) 
+
+### #is_/same_as :: [Universality(Philosophy).internal](/_internal/Philosophy/Universality(Philosophy).internal.md) 
+
+### #is_/same_as :: [Universality(Philosophy).protect](/_protect/Philosophy/Universality(Philosophy).protect.md) 
+
+### #is_/same_as :: [Universality(Philosophy).private](/_private/Philosophy/Universality(Philosophy).private.md) 
+
+### #is_/same_as :: [Universality(Philosophy).personal](/_personal/Philosophy/Universality(Philosophy).personal.md) 
+
+### #is_/same_as :: [Universality(Philosophy).secret](/_secret/Philosophy/Universality(Philosophy).secret.md)
+

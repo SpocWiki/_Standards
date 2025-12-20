@@ -55,8 +55,6 @@ Commons_category: Dresses
 > [Wikipedia](https://en.wikipedia.org/wiki/Dress) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dress](/_Standards/Technology/Tool/Clothing/Dress.md) 

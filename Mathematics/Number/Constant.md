@@ -45,8 +45,6 @@ opposite_of: "[[_Standards/WikiData/WD~variable,50701]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Constant%20(mathematics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Constant](/_Standards/Mathematics/Number/Constant.md) 

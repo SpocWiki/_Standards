@@ -44,10 +44,6 @@ Commons_category: Strategic management
 > [Wikipedia](https://en.wikipedia.org/wiki/Strategic%20management) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Economic_Strategy](/_Standards/Society/Economics/Economic_Strategy.md) 

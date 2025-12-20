@@ -120,8 +120,6 @@ Krugosvet_article_archived_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Odin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Odin](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Odin.md) 

@@ -26,8 +26,6 @@ Commons_category: Multilinear algebra
 > [Wikipedia](https://en.wikipedia.org/wiki/Multilinear%20algebra) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Multilinear_Algebra](/_Standards/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.md) 

@@ -105,8 +105,6 @@ work_period_start_: 1907-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20Paul%20Getty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Getty,J._Paul](/_Standards/Society/Economics/Industry/Oil_Industry/Getty,J._Paul.md) 

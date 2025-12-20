@@ -108,8 +108,6 @@ Reddit_username: mlbofficial
 > [Wikipedia](https://en.wikipedia.org/wiki/Major%20League%20Baseball) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Major_League_Baseball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.md) 

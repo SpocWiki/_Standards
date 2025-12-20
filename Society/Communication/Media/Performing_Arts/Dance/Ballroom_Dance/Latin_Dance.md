@@ -52,8 +52,6 @@ has_id_wikidata: Q1457972
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin%20dance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Latin_Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance.md) 

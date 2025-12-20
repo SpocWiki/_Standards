@@ -88,8 +88,6 @@ inception: 1919-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Union%20of%20Pure%20and%20Applied%20Chemistry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IUPAC(International_Union_of_Pure_and_Applied_Chemistry)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/IUPAC(International_Union_of_Pure_and_Applied_Chemistry).md) 

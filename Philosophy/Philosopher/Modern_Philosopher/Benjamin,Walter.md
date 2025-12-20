@@ -159,8 +159,6 @@ NLC_authorities: "038174713"
 > [Wikipedia](https://en.wikipedia.org/wiki/Walter%20Benjamin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Benjamin,Walter](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.md) 

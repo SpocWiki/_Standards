@@ -214,8 +214,6 @@ Europeana_entity: agent/base/60831
 > [Wikipedia](https://en.wikipedia.org/wiki/Tina%20Turner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Turner,Tina](/_Standards/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Turner,Tina.md) 

@@ -21,9 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Object%20Pascal)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Object-Pascal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Object-Pascal.md) 

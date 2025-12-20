@@ -86,8 +86,6 @@ name_in_native_language: Dieter Hallervorden
 > [Wikipedia](https://en.wikipedia.org/wiki/Dieter%20Hallervorden) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hallervorden,Dieter](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Hallervorden,Dieter.md) 

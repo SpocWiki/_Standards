@@ -55,8 +55,6 @@ start_time: 1953-07-26T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Cuban%20Revolution) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1959-Cuban_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.md) 

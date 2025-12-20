@@ -48,8 +48,6 @@ Commons_category: Enthalpy of vaporization
 > [Wikipedia](https://en.wikipedia.org/wiki/Enthalpy%20of%20vaporization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Enthalpy_of_Vaporization](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.md) 

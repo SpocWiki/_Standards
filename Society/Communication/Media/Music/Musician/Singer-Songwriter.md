@@ -82,8 +82,6 @@ Commons_category: Singer-songwriters
 > [Wikipedia](https://en.wikipedia.org/wiki/Singer-songwriter) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Singer-Songwriter](/_Standards/Society/Communication/Media/Music/Musician/Singer-Songwriter.md) 

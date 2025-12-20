@@ -38,8 +38,6 @@ Provenio_UUID: 601b0c48-39e1-4249-a279-952a87e3439b
 > [Wikipedia](https://en.wikipedia.org/wiki/Literary%20modernism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modernist_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Modernist_Literature.md) 

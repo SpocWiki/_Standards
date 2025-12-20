@@ -83,8 +83,6 @@ time_of_discovery_or_invention: 1924-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Internal%20combustion%20engine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Internal_Combustion_Engine](/_Standards/Technology/Engine/Heat_Engine/Internal_Combustion_Engine.md) 

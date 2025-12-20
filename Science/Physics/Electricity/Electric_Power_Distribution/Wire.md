@@ -60,8 +60,6 @@ OpenStreetMap_key: wires
 > [Wikipedia](https://en.wikipedia.org/wiki/Wire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wire](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Wire.md) 

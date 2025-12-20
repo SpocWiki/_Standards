@@ -148,8 +148,6 @@ Libris_URI: c9prrslw4c5cjq8
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Fisher) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fisher,Ronald](/_Standards/Science/Polymath/Fisher,Ronald.md) 

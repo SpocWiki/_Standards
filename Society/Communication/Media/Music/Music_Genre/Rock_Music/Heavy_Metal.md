@@ -59,8 +59,6 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Metalmania%20%28ISRC%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Heavy%20metal%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heavy_Metal](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.md) 

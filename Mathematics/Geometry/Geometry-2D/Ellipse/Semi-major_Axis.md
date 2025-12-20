@@ -38,8 +38,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Semimajoraxis.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Semi-major%20and%20semi-minor%20axes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Semi-major_Axis](/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.md) 

@@ -38,8 +38,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Control%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Control_Theory](/_Standards/Technology/Engineering/Control_Engineering/Control_Theory.md) 

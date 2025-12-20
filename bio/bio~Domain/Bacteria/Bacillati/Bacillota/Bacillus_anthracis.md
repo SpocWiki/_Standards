@@ -15,8 +15,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacillus%20anthracis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bacillus_anthracis](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacillus_anthracis.md) 

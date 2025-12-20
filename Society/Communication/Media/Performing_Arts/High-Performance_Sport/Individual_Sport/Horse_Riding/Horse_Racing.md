@@ -23,9 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Horse%20racing) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Horse_Racing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Horse_Racing.md) 

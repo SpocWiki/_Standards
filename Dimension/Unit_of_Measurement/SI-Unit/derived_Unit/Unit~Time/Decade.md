@@ -39,8 +39,6 @@ Iconclass_notation: 23B7
 > [Wikipedia](https://en.wikipedia.org/wiki/Decade) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decade](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Decade.md) 

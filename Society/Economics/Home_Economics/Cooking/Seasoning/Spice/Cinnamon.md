@@ -76,8 +76,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Cinnamon"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Cinnamon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cinnamon](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.md) 

@@ -73,8 +73,6 @@ first_flight: 2019-05-24T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Starlink) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Starlink](/_Standards/Earth/Satellite/Starlink.md) 

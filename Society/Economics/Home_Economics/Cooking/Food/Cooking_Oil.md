@@ -43,8 +43,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Oil"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Cooking%20oil) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cooking_Oil](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cooking_Oil.md) 

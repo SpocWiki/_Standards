@@ -44,8 +44,6 @@ name_in_kana: コール・アングレ
 > [Wikipedia](https://en.wikipedia.org/wiki/Cor%20anglais) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cor_anglais](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Cor_anglais.md) 

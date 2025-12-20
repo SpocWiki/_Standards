@@ -29,8 +29,6 @@ has_id_wikidata: Q200263
 > [Wikipedia](https://en.wikipedia.org/wiki/Parsis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parsi](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Parsi.md) 

@@ -48,8 +48,6 @@ GeoNames_feature_code: H.GYSR
 > [Wikipedia](https://en.wikipedia.org/wiki/Geyser) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geyser](/_Standards/Earth/Geology/Landform/Geyser.md) 

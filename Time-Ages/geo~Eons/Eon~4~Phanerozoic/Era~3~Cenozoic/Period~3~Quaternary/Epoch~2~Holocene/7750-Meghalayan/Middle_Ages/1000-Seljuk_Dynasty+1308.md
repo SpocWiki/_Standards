@@ -48,8 +48,6 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Double-he
 > [Wikipedia](https://en.wikipedia.org/wiki/Seljuk%20dynasty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1000-Seljuk_Dynasty+1308](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-Seljuk_Dynasty+1308.md) 

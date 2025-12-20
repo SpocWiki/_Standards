@@ -53,8 +53,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Energy%20drink) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Energy_Drink](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Energy_Drink.md) 

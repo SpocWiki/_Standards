@@ -68,8 +68,6 @@ Commons_category: Orgasms
 > [Wikipedia](https://en.wikipedia.org/wiki/Orgasm)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orgasm](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.md) 

@@ -13,8 +13,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermotogati) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thermotogati](/_Standards/bio/bio~Domain/Bacteria/Thermotogati.md) 

@@ -46,8 +46,6 @@ Commons_category: Sonar
 > [Wikipedia](https://en.wikipedia.org/wiki/Sonar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sonar](/_Standards/Science/Physics/Measurement/Remote_Sensing/Sonar.md) 

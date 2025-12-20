@@ -65,8 +65,6 @@ birth_name: Peter Douglas Molyneux
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Molyneux) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Molyneux,Peter](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer/Molyneux,Peter.md) 

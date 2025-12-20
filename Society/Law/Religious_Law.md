@@ -27,8 +27,6 @@ Commons_category: Religious law
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Religious_Law](/_Standards/Society/Law/Religious_Law.md) 

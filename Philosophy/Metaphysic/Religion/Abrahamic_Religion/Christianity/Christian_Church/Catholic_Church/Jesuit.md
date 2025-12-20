@@ -125,8 +125,6 @@ OpenStreetMap_tag: community=SJ
 > [Wikipedia](https://en.wikipedia.org/wiki/Jesuits) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jesuit](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit.md) 

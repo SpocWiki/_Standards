@@ -74,8 +74,6 @@ Commons_category: Pipe organs
 > [Wikipedia](https://en.wikipedia.org/wiki/Pipe%20organ) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pipe_Organ](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Pipe_Organ.md) 

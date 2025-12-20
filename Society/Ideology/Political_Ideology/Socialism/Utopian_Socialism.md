@@ -26,8 +26,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/New%20harmony%20vision
 > [Wikipedia](https://en.wikipedia.org/wiki/Utopian%20socialism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Utopian_Socialism](/_Standards/Society/Ideology/Political_Ideology/Socialism/Utopian_Socialism.md) 

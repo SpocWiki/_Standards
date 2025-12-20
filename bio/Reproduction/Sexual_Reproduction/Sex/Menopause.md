@@ -65,8 +65,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Menopause) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Menopause](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.md) 

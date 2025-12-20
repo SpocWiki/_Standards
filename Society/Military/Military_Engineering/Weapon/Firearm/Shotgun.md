@@ -53,8 +53,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Repeterhagelgev%C3%A4r
 > [Wikipedia](https://en.wikipedia.org/wiki/Shotgun) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shotgun](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Shotgun.md) 

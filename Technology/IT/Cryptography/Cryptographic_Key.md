@@ -12,3 +12,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Key%20(cryptography)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cryptographic_Key](/_Standards/Technology/IT/Cryptography/Cryptographic_Key.md) 
+
+### #is_/same_as :: [Cryptographic_Key.public](/_public/Technology/IT/Cryptography/Cryptographic_Key.public.md) 
+
+### #is_/same_as :: [Cryptographic_Key.internal](/_internal/Technology/IT/Cryptography/Cryptographic_Key.internal.md) 
+
+### #is_/same_as :: [Cryptographic_Key.protect](/_protect/Technology/IT/Cryptography/Cryptographic_Key.protect.md) 
+
+### #is_/same_as :: [Cryptographic_Key.private](/_private/Technology/IT/Cryptography/Cryptographic_Key.private.md) 
+
+### #is_/same_as :: [Cryptographic_Key.personal](/_personal/Technology/IT/Cryptography/Cryptographic_Key.personal.md) 
+
+### #is_/same_as :: [Cryptographic_Key.secret](/_secret/Technology/IT/Cryptography/Cryptographic_Key.secret.md)
+

@@ -116,8 +116,6 @@ name_in_native_language: Geoffrey Ingram Taylor
 > [Wikipedia](https://en.wikipedia.org/wiki/G.%20I.%20Taylor) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taylor,Geoffrey_Ingram](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.md) 

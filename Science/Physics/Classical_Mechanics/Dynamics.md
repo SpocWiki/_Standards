@@ -37,8 +37,6 @@ Krugosvet_article: nauka_i_tehnika/fizika/DINAMIKA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Dynamics%20(mechanics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dynamics](/_Standards/Science/Physics/Classical_Mechanics/Dynamics.md) 

@@ -145,8 +145,6 @@ name_in_native_language: சந்திரசேகர வெங்கட ர�
 > [Wikipedia](https://en.wikipedia.org/wiki/C.%20V.%20Raman) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Raman,Chandrasekhara_Venkata](/_Standards/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.md) 

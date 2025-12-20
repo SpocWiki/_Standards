@@ -50,8 +50,6 @@ Commons_category: Riots
 > [Wikipedia](https://en.wikipedia.org/wiki/Riot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Riot](/_Standards/Society/Politics/Government/Revolution/Riot.md) 

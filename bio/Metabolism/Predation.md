@@ -42,8 +42,6 @@ Commons_category: Predation
 > [Wikipedia](https://en.wikipedia.org/wiki/Predation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Predation](/_Standards/bio/Metabolism/Predation.md) 

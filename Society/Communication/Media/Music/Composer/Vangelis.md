@@ -138,11 +138,6 @@ Europeana_entity: agent/base/60300
 > [Wikipedia](https://en.wikipedia.org/wiki/Vangelis) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vangelis](/_Standards/Society/Communication/Media/Music/Composer/Vangelis.md) 

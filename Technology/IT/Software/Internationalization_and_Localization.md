@@ -42,8 +42,6 @@ Commons_category: Internationalization and localization
 > [Wikipedia](https://en.wikipedia.org/wiki/Internationalization%20and%20localization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Internationalization_and_Localization](/_Standards/Technology/IT/Software/Internationalization_and_Localization.md) 

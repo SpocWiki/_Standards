@@ -65,8 +65,6 @@ coordinate_location: Point(-82.3885 23.1166)
 > [Wikipedia](https://en.wikipedia.org/wiki/Cuban%20Missile%20Crisis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1962-Cuban_Missile_Crisis](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.md) 

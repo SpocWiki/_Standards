@@ -132,8 +132,6 @@ ISNI: "0000000111509871"
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Ford) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ford,Henry](/_Standards/Science/Inventor/Ford,Henry.md) 

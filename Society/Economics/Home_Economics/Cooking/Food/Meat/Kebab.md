@@ -55,8 +55,6 @@ Amazon_com_browse_node: "6518160011"
 > [Wikipedia](https://en.wikipedia.org/wiki/Kebab) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kebab](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Kebab.md) 

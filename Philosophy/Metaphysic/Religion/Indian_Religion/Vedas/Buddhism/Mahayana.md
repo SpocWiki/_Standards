@@ -61,8 +61,6 @@ Library_of_Congress_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mahayana) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mahayana](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.md) 

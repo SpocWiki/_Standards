@@ -32,8 +32,6 @@ that enabled more efficient use of computing resources
 and facilitated interactive computing for multiple users.
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System)](/_Standards/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).md) 

@@ -13,8 +13,6 @@ type: folder_brief_live
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [HW~Companies](/_Standards/Technology/IT/Computer_Hardware/HW~Companies.md) 

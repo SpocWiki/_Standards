@@ -46,8 +46,6 @@ IEV_number: 102-05-12
 > [Wikipedia](https://en.wikipedia.org/wiki/Field%20(physics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Field(Physics)](/_Standards/Science/Physics/Field(Physics).md) 

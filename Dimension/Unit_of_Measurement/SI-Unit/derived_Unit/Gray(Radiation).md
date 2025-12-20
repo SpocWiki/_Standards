@@ -58,8 +58,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Gray%20(unit)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gray(Radiation)](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Gray(Radiation).md) 

@@ -31,8 +31,6 @@ has_id_wikidata: Q41291
 > [Wikipedia](https://en.wikipedia.org/wiki/Rocket) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rocket](/_Standards/Technology/Spaceflight/Rocket.md) 

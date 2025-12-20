@@ -55,8 +55,6 @@ quantity_symbol_string_: ρ
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20resistivity%20and%20conductivity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrical_Resistivity](/_Standards/Science/Physics/Electricity/Electrical_Resistivity.md) 

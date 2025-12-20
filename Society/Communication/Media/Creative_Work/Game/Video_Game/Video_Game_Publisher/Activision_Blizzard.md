@@ -111,8 +111,6 @@ ISIN: US00507V1098
 > [Wikipedia](https://en.wikipedia.org/wiki/Activision%20Blizzard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Activision_Blizzard](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.md) 

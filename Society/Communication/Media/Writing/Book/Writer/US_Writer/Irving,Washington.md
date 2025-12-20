@@ -155,8 +155,6 @@ ISNI: "0000000400156574"
 > [Wikipedia](https://en.wikipedia.org/wiki/Washington%20Irving) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Irving,Washington](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.md) 

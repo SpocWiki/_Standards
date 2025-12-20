@@ -37,11 +37,6 @@ publication_date: 1946-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Anything%20You%20Can%20Do%20(I%20Can%20Do%20Better)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Anything_You_can_do](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Anything_You_can_do.md) 

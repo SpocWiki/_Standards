@@ -151,8 +151,6 @@ YouTube_handle: SerenaWilliams
 > [Wikipedia](https://en.wikipedia.org/wiki/Serena%20Williams) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Williams,Serena](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.md) 

@@ -49,8 +49,6 @@ Commons_category: Polygons
 > [Wikipedia](https://en.wikipedia.org/wiki/Polygon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polygon](/_Standards/Mathematics/Geometry/Polygon.md) 

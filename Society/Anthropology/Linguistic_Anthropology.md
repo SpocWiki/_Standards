@@ -35,8 +35,6 @@ subclass_of:
 > [Wikipedia](https://en.wikipedia.org/wiki/Linguistic%20anthropology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Linguistic_Anthropology](/_Standards/Society/Anthropology/Linguistic_Anthropology.md) 

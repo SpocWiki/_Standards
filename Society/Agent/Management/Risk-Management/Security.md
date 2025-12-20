@@ -93,8 +93,6 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/security
 > [Wikipedia](https://en.wikipedia.org/wiki/Security) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Security](/_Standards/Society/Agent/Management/Risk-Management/Security.md) 

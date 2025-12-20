@@ -59,10 +59,6 @@ native_label: Singer Corporation
 > [Wikipedia](https://en.wikipedia.org/wiki/Singer%20Corporation) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Singer_Sewing_Machine_Company](/_Standards/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.md) 

@@ -51,8 +51,6 @@ Commons_category: News agencies
 > [Wikipedia](https://en.wikipedia.org/wiki/News%20agency) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [News_Agency](/_Standards/Society/Communication/Media/Journalism/News_Agency.md) 

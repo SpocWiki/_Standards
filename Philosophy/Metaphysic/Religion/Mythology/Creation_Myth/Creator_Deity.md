@@ -38,8 +38,6 @@ female_form_of_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Creator%20deity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Creator_Deity](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth/Creator_Deity.md) 

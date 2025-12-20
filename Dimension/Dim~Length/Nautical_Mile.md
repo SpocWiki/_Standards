@@ -54,8 +54,6 @@ Wikidata_SPARQL_query_equivalent: wd:Q93318 p:P2370/psn:P2370 [wikibase:quantity
 > [Wikipedia](https://en.wikipedia.org/wiki/Nautical%20mile) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nautical_Mile](/_Standards/Dimension/Dim~Length/Nautical_Mile.md) 

@@ -152,8 +152,6 @@ Plex_person_key: 5d776826103a2d001f563f4e
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Fonda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fonda,Henry](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Fonda,Henry.md) 

@@ -18,9 +18,6 @@ $npm run dev #compiles the main.ts into main.js and runs it.
 add a `debugger;` Statement where you want to start debugging. 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [npm](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm.md) 

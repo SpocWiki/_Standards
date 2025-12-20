@@ -112,8 +112,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SVYASHCHENNIK.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Priest) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Priest](/_Standards/Philosophy/Metaphysic/Religion/Priest.md) 

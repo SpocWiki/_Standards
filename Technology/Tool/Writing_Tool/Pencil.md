@@ -83,8 +83,6 @@ Commons_category: Pencils
 > [Wikipedia](https://en.wikipedia.org/wiki/Pencil) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pencil](/_Standards/Technology/Tool/Writing_Tool/Pencil.md) 

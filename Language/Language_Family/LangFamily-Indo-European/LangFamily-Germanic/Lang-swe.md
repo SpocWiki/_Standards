@@ -140,9 +140,6 @@ Dewey_Decimal_Classification: "439.7"
 > [Wikipedia](https://en.wikipedia.org/wiki/Swedish%20language)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-swe](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-swe.md) 

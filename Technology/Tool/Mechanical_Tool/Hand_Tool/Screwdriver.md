@@ -38,8 +38,6 @@ Unicode_character: 🪛
 > [Wikipedia](https://en.wikipedia.org/wiki/Screwdriver) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Screwdriver](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.md) 

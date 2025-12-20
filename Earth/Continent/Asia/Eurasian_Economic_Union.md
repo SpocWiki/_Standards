@@ -77,8 +77,6 @@ inception: 2015-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Eurasian%20Economic%20Union) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eurasian_Economic_Union](/_Standards/Earth/Continent/Asia/Eurasian_Economic_Union.md) 

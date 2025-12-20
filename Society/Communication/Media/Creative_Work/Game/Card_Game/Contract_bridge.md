@@ -34,8 +34,6 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Contract%20bridge%20pic
 > [Wikipedia](https://en.wikipedia.org/wiki/Contract%20bridge) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Contract_bridge](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Contract_bridge.md) 

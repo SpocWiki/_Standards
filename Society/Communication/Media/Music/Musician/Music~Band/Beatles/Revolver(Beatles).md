@@ -88,8 +88,6 @@ _Revolver_ cemented the idea of the pop album as an intricate, labored-over stud
 Ozzy Osbourne
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Revolver(Beatles)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Revolver(Beatles).md) 

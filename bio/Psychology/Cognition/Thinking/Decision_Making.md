@@ -49,7 +49,6 @@ MeSH_tree_code: F02.463.785.373
 > [Wikipedia](https://en.wikipedia.org/wiki/Decision-making) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Decision_Making](/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making.md) 

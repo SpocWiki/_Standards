@@ -196,8 +196,6 @@ Colon_Classification: Q6:22
 > [Wikipedia](https://en.wikipedia.org/wiki/Old%20Testament) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Old_Testament](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.md) 

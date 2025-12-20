@@ -68,8 +68,6 @@ When writing a low-level `byte` or `string` Interface,
 parse and validate early, so you can use Extension Methods early to to find applicable Trafos. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [CSharp~Nullable](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp/CSharp~Nullable.md) 

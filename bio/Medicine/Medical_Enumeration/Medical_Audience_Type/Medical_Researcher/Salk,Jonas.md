@@ -127,8 +127,6 @@ U_S_National_Archives_Identifier: "10583118"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jonas%20Salk) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Salk,Jonas](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Salk,Jonas.md) 

@@ -129,8 +129,6 @@ external_data_available_at_URL: https://www.gbif.org/dataset/93725bf2-6ada-47f9-
 > [Wikipedia](https://en.wikipedia.org/wiki/Eggplant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eggplant](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.md) 

@@ -105,8 +105,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Georges%20Bizet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bizet,Georges](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Bizet,Georges.md) 

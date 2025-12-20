@@ -91,8 +91,6 @@ Wikidata_SPARQL_query_equivalent: wd:Q218593 p:P2370/psn:P2370 [wikibase:quantit
 > [Wikipedia](https://en.wikipedia.org/wiki/Inch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inch](/_Standards/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.md) 

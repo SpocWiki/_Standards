@@ -31,8 +31,6 @@ Commons_category: Geocentric model
 > [Wikipedia](https://en.wikipedia.org/wiki/Geocentrism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geocentric_Model](/_Standards/Astronomy/Astronomer/Ptolemy/Geocentric_Model.md) 

@@ -67,8 +67,6 @@ NBN_System_Key: NHMSYS0000457753
 > [Wikipedia](https://en.wikipedia.org/wiki/Cucumis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cucumis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis.md) 

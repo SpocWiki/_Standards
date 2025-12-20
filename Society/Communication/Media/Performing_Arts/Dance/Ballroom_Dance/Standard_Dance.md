@@ -10,7 +10,6 @@ instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
 #is_/same_as :: [[WD~Standard_Dance,11900060]] 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Standard_Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance.md) 

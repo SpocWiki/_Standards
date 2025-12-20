@@ -54,8 +54,6 @@ has_id_wikidata: Q2115026
 > [Wikipedia](https://en.wikipedia.org/wiki/Presentation%20program) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [SW~Presentation](/_Standards/Technology/IT/Software/Software_Category/SW~Presentation.md) 

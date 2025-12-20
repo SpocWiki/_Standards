@@ -67,7 +67,6 @@ part_of: "[[_Standards/WikiData/WD~organization,43229]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Juridical%20person)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Juridical_Person](/_Standards/Society/Agent/Juridical_Person.md) 

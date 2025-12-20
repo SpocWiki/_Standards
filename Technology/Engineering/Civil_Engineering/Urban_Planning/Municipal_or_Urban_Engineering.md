@@ -25,8 +25,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 > [Wikipedia](https://en.wikipedia.org/wiki/Municipal%20or%20urban%20engineering) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Municipal_or_Urban_Engineering](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Municipal_or_Urban_Engineering.md) 

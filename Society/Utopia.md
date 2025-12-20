@@ -62,8 +62,6 @@ Dewey_Decimal_Classification: "321.07"
 > [Wikipedia](https://en.wikipedia.org/wiki/Utopia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Utopia](/_Standards/Society/Utopia.md) 

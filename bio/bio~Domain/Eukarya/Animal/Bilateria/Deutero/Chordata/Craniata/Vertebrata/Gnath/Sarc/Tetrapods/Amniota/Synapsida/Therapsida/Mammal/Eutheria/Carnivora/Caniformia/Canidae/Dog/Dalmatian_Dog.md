@@ -43,9 +43,6 @@ subreddit: dalmatians
 > [Wikipedia](https://en.wikipedia.org/wiki/Dalmatian%20dog) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dalmatian_Dog](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Dalmatian_Dog.md) 

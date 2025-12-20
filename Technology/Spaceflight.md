@@ -89,8 +89,6 @@ Krugosvet_article_archived_: voennoe-delo/kosmosa-issledovanie-i-ispolzovanie
 > [Wikipedia](https://en.wikipedia.org/wiki/Space%20exploration) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spaceflight](/_Standards/Technology/Spaceflight.md) 

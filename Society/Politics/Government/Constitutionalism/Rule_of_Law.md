@@ -56,8 +56,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20mosaic%20%22LAW%22
 > [Wikipedia](https://en.wikipedia.org/wiki/Rule%20of%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rule_of_Law](/_Standards/Society/Politics/Government/Constitutionalism/Rule_of_Law.md) 

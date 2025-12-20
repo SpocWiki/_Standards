@@ -52,9 +52,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Injective%20function)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [injective](/_Standards/Mathematics/Function(Math)/injective.md) 

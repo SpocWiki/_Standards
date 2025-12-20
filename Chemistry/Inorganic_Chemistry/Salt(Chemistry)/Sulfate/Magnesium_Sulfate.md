@@ -91,8 +91,6 @@ RTECS_number: OM4500000
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnesium%20sulfate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnesium_Sulfate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Magnesium_Sulfate.md) 

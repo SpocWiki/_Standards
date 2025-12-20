@@ -25,8 +25,6 @@ has_id_wikidata: Q3245116
 > [Wikipedia](https://en.wikipedia.org/wiki/Circuit%20design) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Circuit_Design](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Design.md) 

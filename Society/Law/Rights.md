@@ -39,8 +39,6 @@ equivalent_property: http://purl.org/dc/terms/rights
 > [Wikipedia](https://en.wikipedia.org/wiki/Rights) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rights](/_Standards/Society/Law/Rights.md) 

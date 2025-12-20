@@ -29,8 +29,6 @@ Krugosvet_article: nauka_i_tehnika/biologiya/DNK-IDENTIFIKATSIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/DNA%20profiling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [DNA_Profiling](/_Standards/Society/Law/Criminal_Law/Criminology/DNA_Profiling.md) 

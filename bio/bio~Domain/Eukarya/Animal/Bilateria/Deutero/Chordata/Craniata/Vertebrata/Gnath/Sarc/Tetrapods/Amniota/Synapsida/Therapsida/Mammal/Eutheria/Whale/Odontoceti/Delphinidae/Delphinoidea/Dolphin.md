@@ -57,8 +57,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/DELFINI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Dolphin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dolphin](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Dolphin.md) 

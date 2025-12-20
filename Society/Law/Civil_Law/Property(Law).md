@@ -79,8 +79,6 @@ U_S_National_Archives_Identifier: "10642012"
 > [Wikipedia](https://en.wikipedia.org/wiki/Property) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Property(Law)](/_Standards/Society/Law/Civil_Law/Property(Law).md) 

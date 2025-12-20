@@ -58,8 +58,6 @@ Commons_category: Legislatures
 > [Wikipedia](https://en.wikipedia.org/wiki/Legislature) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Legislature](/_Standards/Society/Politics/Government/Democracy/Legislature.md) 

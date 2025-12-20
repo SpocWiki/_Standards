@@ -123,8 +123,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Claus%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Santa%20Claus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Santa_Claus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.md) 

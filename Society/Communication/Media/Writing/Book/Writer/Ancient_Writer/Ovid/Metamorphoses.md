@@ -156,10 +156,6 @@ inception: 0001-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Metamorphoses) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metamorphoses](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid/Metamorphoses.md) 

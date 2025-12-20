@@ -95,8 +95,6 @@ male_form_of_label: Pharao
 > [Wikipedia](https://en.wikipedia.org/wiki/Pharaoh) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pharaoh](/_Standards/Society/Politics/Government/Monarchy/Absolute_Monarchy/Pharaoh.md) 

@@ -127,8 +127,6 @@ U_S_National_Archives_Identifier: "10664110"
 > [Wikipedia](https://en.wikipedia.org/wiki/Leprosy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leprosy](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.md) 

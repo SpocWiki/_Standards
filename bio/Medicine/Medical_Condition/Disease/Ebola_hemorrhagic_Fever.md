@@ -114,8 +114,6 @@ Krugosvet_article: meditsina/ebola
 > [Wikipedia](https://en.wikipedia.org/wiki/Ebola) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ebola_hemorrhagic_Fever](/_Standards/bio/Medicine/Medical_Condition/Disease/Ebola_hemorrhagic_Fever.md) 

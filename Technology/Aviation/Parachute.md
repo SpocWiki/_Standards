@@ -86,8 +86,6 @@ Unicode_character: 🪂
 > [Wikipedia](https://en.wikipedia.org/wiki/Parachute) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Parachute](/_Standards/Technology/Aviation/Parachute.md) 

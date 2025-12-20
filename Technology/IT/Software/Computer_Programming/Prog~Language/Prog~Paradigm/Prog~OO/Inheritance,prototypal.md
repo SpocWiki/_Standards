@@ -22,7 +22,6 @@ This blurs the distinction between both,
 so each Object can be considered a class of its own and Class boundaries can be arbitrary. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Inheritance,prototypal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.md) 

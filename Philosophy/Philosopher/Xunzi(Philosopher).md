@@ -16,10 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Xunzi%20(philosopher)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Xunzi(Philosopher)](/_Standards/Philosophy/Philosopher/Xunzi(Philosopher).md) 

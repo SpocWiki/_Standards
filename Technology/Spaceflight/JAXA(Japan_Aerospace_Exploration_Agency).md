@@ -60,3 +60,22 @@ inception: 2003-10-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/JAXA) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency)](/_Standards/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).md) 
+
+### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).public](/_public/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).public.md) 
+
+### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).internal](/_internal/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).internal.md) 
+
+### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).protect](/_protect/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).protect.md) 
+
+### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).private](/_private/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).private.md) 
+
+### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).personal](/_personal/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).personal.md) 
+
+### #is_/same_as :: [JAXA(Japan_Aerospace_Exploration_Agency).secret](/_secret/Technology/Spaceflight/JAXA(Japan_Aerospace_Exploration_Agency).secret.md)
+

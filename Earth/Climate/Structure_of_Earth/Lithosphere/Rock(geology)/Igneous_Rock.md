@@ -32,9 +32,6 @@ Commons_category: Igneous rocks
 > [Wikipedia](https://en.wikipedia.org/wiki/Igneous%20rock) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Igneous_Rock](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.md) 

@@ -82,11 +82,6 @@ OpenStreetMap_tag: man_made=column
 > [Wikipedia](https://en.wikipedia.org/wiki/Column) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Column(Structure)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).md) 

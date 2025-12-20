@@ -216,8 +216,6 @@ ISNI: "0000000120993749"
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Hogarth)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hogarth,William](/_Standards/Society/Communication/Media/Painting/Painter/Hogarth,William.md) 

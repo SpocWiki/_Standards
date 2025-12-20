@@ -19,8 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Corrosion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Corrosion](/_Standards/Chemistry/Chemical_Reaction/Corrosion.md) 

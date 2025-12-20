@@ -89,8 +89,6 @@ IPTC_NewsCode: mediatopic/20000415
 > [Wikipedia](https://en.wikipedia.org/wiki/Student) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Student](/_Standards/Society/Culture/Education/Student.md) 

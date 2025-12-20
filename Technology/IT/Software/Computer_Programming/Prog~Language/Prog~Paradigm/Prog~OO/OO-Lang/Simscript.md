@@ -13,9 +13,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/SIMSCRIPT)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Simscript](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Simscript.md) 

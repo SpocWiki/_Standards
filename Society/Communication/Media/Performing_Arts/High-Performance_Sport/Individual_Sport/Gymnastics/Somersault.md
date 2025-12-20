@@ -28,8 +28,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Ground%20flip%202023-0
 > [Wikipedia](https://en.wikipedia.org/wiki/Somersault) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Somersault](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Somersault.md) 

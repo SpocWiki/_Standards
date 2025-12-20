@@ -149,8 +149,6 @@ Plex_person_key: 5d77682a6f4521001ea99e20
 > [Wikipedia](https://en.wikipedia.org/wiki/Stevie%20Wonder) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stevie_Wonder](/_Standards/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.md) 

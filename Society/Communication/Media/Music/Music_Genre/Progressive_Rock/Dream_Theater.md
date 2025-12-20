@@ -41,11 +41,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Dream%20Theater)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dream_Theater](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Dream_Theater.md) 

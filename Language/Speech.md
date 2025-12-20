@@ -78,8 +78,6 @@ Unicode_character: 🗣
 > [Wikipedia](https://en.wikipedia.org/wiki/Speech)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Speech](/_Standards/Language/Speech.md) 

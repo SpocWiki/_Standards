@@ -75,8 +75,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/AVTORIT
 > [Wikipedia](https://en.wikipedia.org/wiki/Authoritarianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Authoritarianism](/_Standards/Society/Politics/Government/Dictatorship/Authoritarianism.md) 

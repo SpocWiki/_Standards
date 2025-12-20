@@ -175,8 +175,6 @@ EPPO_Code: PNTHPA
 > [Wikipedia](https://en.wikipedia.org/wiki/Leopard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leopard](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Panthera/Leopard.md) 

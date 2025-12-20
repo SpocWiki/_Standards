@@ -50,8 +50,6 @@ Dewey_Decimal_Classification: "796.4806"
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Olympic%20Committee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [National_Olympic_Committee](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/National_Olympic_Committee.md) 

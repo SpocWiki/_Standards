@@ -2,7 +2,6 @@
 [[../Prog~Structured]] is propagated instead.
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GOTO-Statement](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/GOTO-Statement.md) 

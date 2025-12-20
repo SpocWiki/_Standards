@@ -28,8 +28,6 @@ Changing the Code of any base-class is very powerful, because it can also change
 but this Power comes great Responsibility. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [OO~Inheritance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.md) 

@@ -23,8 +23,6 @@ Commons_category: Coastal management
 > [Wikipedia](https://en.wikipedia.org/wiki/Coastal%20management) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Coastal_Management](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management.md) 

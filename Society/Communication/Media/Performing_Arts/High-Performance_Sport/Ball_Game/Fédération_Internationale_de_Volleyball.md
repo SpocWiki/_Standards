@@ -52,8 +52,6 @@ official_name: Fédération Internationale de Volleyball
 > [Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration%20Internationale%20de%20Volleyball) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fédération_Internationale_de_Volleyball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Fédération_Internationale_de_Volleyball.md) 

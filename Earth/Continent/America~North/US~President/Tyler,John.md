@@ -36,8 +36,6 @@ type: private_note
 -  [has_role :: [[../US~President]] ] [created:: 1841-04-04]  [cancelled:: 1845-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tyler,John](/_Standards/Earth/Continent/America~North/US~President/Tyler,John.md) 

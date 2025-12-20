@@ -39,8 +39,6 @@ Library_of_Congress_Classification: B841.4.A-B841.4.Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Structuralism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Structuralism](/_Standards/Society/Social_Science/Structuralism.md) 

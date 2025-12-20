@@ -54,8 +54,6 @@ Commons_category: Southern Cone
 > [Wikipedia](https://en.wikipedia.org/wiki/Southern%20Cone) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Southern_Cone](/_Standards/Earth/Continent/America~South/Southern_Cone.md) 

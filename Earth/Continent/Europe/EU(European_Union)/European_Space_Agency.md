@@ -137,8 +137,6 @@ Facebook_username: EuropeanSpaceAgency
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Space%20Agency) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Space_Agency](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.md) 

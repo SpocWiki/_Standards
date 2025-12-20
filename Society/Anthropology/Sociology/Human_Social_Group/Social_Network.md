@@ -40,8 +40,6 @@ MeSH_tree_code: L01.143.910
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20network)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Network](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.md) 

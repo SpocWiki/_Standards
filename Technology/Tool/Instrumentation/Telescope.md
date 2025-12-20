@@ -66,8 +66,6 @@ Commons_gallery: Telescope
 > [Wikipedia](https://en.wikipedia.org/wiki/Telescope) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope.md) 

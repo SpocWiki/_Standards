@@ -70,8 +70,6 @@ Krugosvet_article: matematika/chislo-e
 > [Wikipedia](https://en.wikipedia.org/wiki/E%20(mathematical%20constant)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euler's_Number](/_Standards/Mathematics/Complex_Analysis/Euler's_Number.md) 

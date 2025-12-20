@@ -191,11 +191,6 @@ official_website: http://www.freddiemercury.com
 > [Wikipedia](https://en.wikipedia.org/wiki/Freddie%20Mercury)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mercury,Freddie](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Mercury,Freddie.md) 

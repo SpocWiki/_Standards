@@ -126,8 +126,6 @@ X_Twitter_username: Kasparov63
 > [Wikipedia](https://en.wikipedia.org/wiki/Garry%20Kasparov) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kasparov,Garry](/_Standards/Society/Communication/Media/Creative_Work/Game/Chess/Kasparov,Garry.md) 

@@ -89,8 +89,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Photon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Photon.md) 

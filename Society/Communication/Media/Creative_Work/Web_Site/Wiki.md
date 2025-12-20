@@ -66,8 +66,6 @@ start_time: 1995-03-16T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Wiki) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wiki](/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Wiki.md) 

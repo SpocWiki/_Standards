@@ -20,7 +20,6 @@ Message::ChangeColor(200, 255, 255)
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rust~Tuple](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Tuple.md) 

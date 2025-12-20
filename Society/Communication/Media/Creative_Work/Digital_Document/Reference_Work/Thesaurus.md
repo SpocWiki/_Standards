@@ -50,8 +50,6 @@ native_label: linguistic thesaurus
 > [Wikipedia](https://en.wikipedia.org/wiki/Thesaurus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thesaurus](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Thesaurus.md) 

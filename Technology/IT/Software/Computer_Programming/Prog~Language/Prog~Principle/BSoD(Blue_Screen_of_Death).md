@@ -22,7 +22,6 @@ Seen often in the 1990s and early 2000s it has become rare in the 2010s, mostly 
 > [Wikipedia](https://en.wikipedia.org/wiki/Blue%20screen%20of%20death)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [BSoD(Blue_Screen_of_Death)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).md) 

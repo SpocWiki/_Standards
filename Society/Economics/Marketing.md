@@ -71,8 +71,6 @@ MeSH_tree_code: J01.219.687
 > [Wikipedia](https://en.wikipedia.org/wiki/Marketing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marketing](/_Standards/Society/Economics/Marketing.md) 

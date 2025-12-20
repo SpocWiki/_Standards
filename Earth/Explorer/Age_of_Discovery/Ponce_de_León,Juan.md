@@ -79,8 +79,6 @@ date_of_death: 1521-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Juan%20Ponce%20de%20Le%C3%B3n)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ponce_de_León,Juan](/_Standards/Earth/Explorer/Age_of_Discovery/Ponce_de_León,Juan.md) 

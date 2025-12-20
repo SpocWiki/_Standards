@@ -18,7 +18,6 @@ The A-0 system was followed by the A-1, A-2, A-3 (released as [ARITH-MATIC](htt
 [[COBOL]]s Design is heavily influenced by this. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [FLOW-MATIC](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/FLOW-MATIC.md) 

@@ -41,8 +41,6 @@ Commons_category: Pugwash Conferences on Science and World Affairs
 > [Wikipedia](https://en.wikipedia.org/wiki/Pugwash%20Conferences%20on%20Science%20and%20World%20Affairs) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pugwash_Conferences_on_Science_and_World_Affairs](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pugwash_Conferences_on_Science_and_World_Affairs.md) 

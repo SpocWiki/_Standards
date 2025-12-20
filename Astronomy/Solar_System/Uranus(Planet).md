@@ -211,17 +211,17 @@ Wolfram_Language_entity_code: Entity["Planet", "Uranus"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uranus(Planet)](Uranus(Planet).md) 
+### #is_/same_as :: [Uranus(Planet)](/_Standards/Astronomy/Solar_System/Uranus(Planet).md) 
 
-### #is_/same_as :: [Uranus.public](/_public/Astronomy/Solar_System/Uranus.public.md) 
+### #is_/same_as :: [Uranus(Planet).public](/_public/Astronomy/Solar_System/Uranus(Planet).public.md) 
 
-### #is_/same_as :: [Uranus.internal](/_internal/Astronomy/Solar_System/Uranus.internal.md) 
+### #is_/same_as :: [Uranus(Planet).internal](/_internal/Astronomy/Solar_System/Uranus(Planet).internal.md) 
 
-### #is_/same_as :: [Uranus.protect](/_protect/Astronomy/Solar_System/Uranus.protect.md) 
+### #is_/same_as :: [Uranus(Planet).protect](/_protect/Astronomy/Solar_System/Uranus(Planet).protect.md) 
 
-### #is_/same_as :: [Uranus.private](/_private/Astronomy/Solar_System/Uranus.private.md) 
+### #is_/same_as :: [Uranus(Planet).private](/_private/Astronomy/Solar_System/Uranus(Planet).private.md) 
 
-### #is_/same_as :: [Uranus.personal](/_personal/Astronomy/Solar_System/Uranus.personal.md) 
+### #is_/same_as :: [Uranus(Planet).personal](/_personal/Astronomy/Solar_System/Uranus(Planet).personal.md) 
 
-### #is_/same_as :: [Uranus.secret](/_secret/Astronomy/Solar_System/Uranus.secret.md)
+### #is_/same_as :: [Uranus(Planet).secret](/_secret/Astronomy/Solar_System/Uranus(Planet).secret.md)
 

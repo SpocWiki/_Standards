@@ -17,9 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20plane)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euclidean_Plane](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclidean_Plane.md) 

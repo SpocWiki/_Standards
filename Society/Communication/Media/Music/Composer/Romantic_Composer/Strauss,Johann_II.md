@@ -138,8 +138,6 @@ panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Monumento%20a
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Strauss%20II) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Strauss,Johann_II](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_II.md) 

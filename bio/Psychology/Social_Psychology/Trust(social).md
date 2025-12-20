@@ -61,11 +61,6 @@ MeSH_tree_code: F01.829.401.825
 > [Wikipedia](https://en.wikipedia.org/wiki/Trust%20(social%20science)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trust(social)](/_Standards/bio/Psychology/Social_Psychology/Trust(social).md) 

@@ -45,8 +45,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Euler's%20formula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euler's_Formula](/_Standards/Mathematics/Complex_Analysis/Euler's_Formula.md) 

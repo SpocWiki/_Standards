@@ -82,8 +82,6 @@ Dewey_Decimal_Classification: "320.53"
 > [Wikipedia](https://en.wikipedia.org/wiki/Totalitarianism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Totalitarianism](/_Standards/Society/Politics/Government/Dictatorship/Totalitarianism.md) 

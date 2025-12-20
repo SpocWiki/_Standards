@@ -86,8 +86,6 @@ Commons_category: Euphrates
 > [Wikipedia](https://en.wikipedia.org/wiki/Euphrates) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euphrates](/_Standards/Earth/Continent/Asia/Asia~West/Euphrates.md) 

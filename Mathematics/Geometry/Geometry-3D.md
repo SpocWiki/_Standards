@@ -68,9 +68,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 > [Wikipedia](https://en.wikipedia.org/wiki/Three-dimensional%20space) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geometry-3D](/_Standards/Mathematics/Geometry/Geometry-3D.md) 

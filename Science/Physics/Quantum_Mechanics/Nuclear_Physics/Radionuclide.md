@@ -49,8 +49,6 @@ Commons_category: Radionuclides
 > [Wikipedia](https://en.wikipedia.org/wiki/Radionuclide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Radionuclide](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radionuclide.md) 

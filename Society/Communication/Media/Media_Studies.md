@@ -38,8 +38,6 @@ Commons_category: Media studies
 > [Wikipedia](https://en.wikipedia.org/wiki/Media%20studies) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Media_Studies](/_Standards/Society/Communication/Media/Media_Studies.md) 

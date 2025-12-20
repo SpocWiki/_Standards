@@ -112,8 +112,6 @@ Stack_Exchange_site_URL: https://judaism.stackexchange.com
 > [Wikipedia](https://en.wikipedia.org/wiki/Judaism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Judaism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism.md) 

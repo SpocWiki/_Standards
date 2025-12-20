@@ -34,8 +34,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Charon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Charon(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Charon(Mythology).md) 

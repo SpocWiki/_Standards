@@ -35,8 +35,6 @@ Commons_category: Hadley cells
 > [Wikipedia](https://en.wikipedia.org/wiki/Hadley%20cell) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hadley_Cell](/_Standards/Earth/Climate/Hadley_Cell.md) 

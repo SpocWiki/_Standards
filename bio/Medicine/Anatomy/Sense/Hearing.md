@@ -59,8 +59,6 @@ Colon_Classification: S:23
 > [Wikipedia](https://en.wikipedia.org/wiki/Hearing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hearing](/_Standards/bio/Medicine/Anatomy/Sense/Hearing.md) 

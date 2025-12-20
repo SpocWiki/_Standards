@@ -36,9 +36,6 @@ has_id_wikidata: Q191600
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20and%20political%20rights) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Civil_and_political_Rights](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights.md) 

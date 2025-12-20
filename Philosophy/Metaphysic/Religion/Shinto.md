@@ -88,8 +88,6 @@ OpenStreetMap_tag: religion=shinto
 > [Wikipedia](https://en.wikipedia.org/wiki/Shinto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shinto](/_Standards/Philosophy/Metaphysic/Religion/Shinto.md) 

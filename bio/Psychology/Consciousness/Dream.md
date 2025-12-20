@@ -16,8 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Dream) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dream](/_Standards/bio/Psychology/Consciousness/Dream.md) 

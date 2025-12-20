@@ -48,8 +48,6 @@ time_of_discovery_or_invention: 1994-11-09T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Darmstadtium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Darmstadtium](/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.md) 

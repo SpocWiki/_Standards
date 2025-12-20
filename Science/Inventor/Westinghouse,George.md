@@ -73,8 +73,6 @@ date_of_death: 1914-03-12T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Westinghouse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Westinghouse,George](/_Standards/Science/Inventor/Westinghouse,George.md) 

@@ -26,8 +26,6 @@ has_id_wikidata: Q334645
 > [Wikipedia](https://en.wikipedia.org/wiki/Surrogacy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Surrogacy](/_Standards/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.md) 

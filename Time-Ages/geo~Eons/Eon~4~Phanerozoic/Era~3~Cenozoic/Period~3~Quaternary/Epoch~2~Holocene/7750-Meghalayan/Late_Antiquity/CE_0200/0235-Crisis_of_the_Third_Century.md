@@ -33,8 +33,6 @@ end_time: 0284-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Crisis%20of%20the%20Third%20Century) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [0235-Crisis_of_the_Third_Century](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.md) 

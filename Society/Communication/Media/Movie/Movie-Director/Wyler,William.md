@@ -141,8 +141,6 @@ U_S_National_Archives_Identifier: "10581335"
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Wyler) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wyler,William](/_Standards/Society/Communication/Media/Movie/Movie-Director/Wyler,William.md) 

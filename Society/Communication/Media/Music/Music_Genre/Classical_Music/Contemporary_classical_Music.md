@@ -21,8 +21,6 @@ Commons_category: Contemporary classical music
 > [Wikipedia](https://en.wikipedia.org/wiki/Contemporary%20classical%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Contemporary_classical_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.md) 

@@ -56,8 +56,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Phoenix-Fabelwesen.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Resurrection) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Resurrection](/_Standards/Philosophy/Metaphysic/Supernatural/Resurrection.md) 

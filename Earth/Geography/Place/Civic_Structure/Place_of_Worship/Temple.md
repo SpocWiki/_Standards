@@ -35,8 +35,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Temple) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Temple](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.md) 

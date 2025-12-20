@@ -103,9 +103,6 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/University) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [University](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University.md) 

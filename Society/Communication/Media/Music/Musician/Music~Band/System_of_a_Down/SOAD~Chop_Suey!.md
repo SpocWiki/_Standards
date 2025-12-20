@@ -42,8 +42,6 @@ publication_date: 2001-11-06T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Chop%20Suey!) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [SOAD~Chop_Suey!](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down/SOAD~Chop_Suey!.md) 

@@ -25,8 +25,6 @@ has_id_wikidata: Q170472
 > [Wikipedia](https://en.wikipedia.org/wiki/Origen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Origen](/_Standards/Philosophy/Metaphysic/Religion/Theologian/Origen.md) 

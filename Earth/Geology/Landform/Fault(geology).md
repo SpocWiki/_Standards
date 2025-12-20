@@ -44,8 +44,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Faille%20des%20Causses
 > [Wikipedia](https://en.wikipedia.org/wiki/Fault%20(geology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fault(geology)](/_Standards/Earth/Geology/Landform/Fault(geology).md) 

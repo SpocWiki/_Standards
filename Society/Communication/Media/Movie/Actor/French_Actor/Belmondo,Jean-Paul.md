@@ -120,8 +120,6 @@ RIA_Novosti_reference:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Paul%20Belmondo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Belmondo,Jean-Paul](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Belmondo,Jean-Paul.md) 

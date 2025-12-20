@@ -69,8 +69,6 @@ OpenStreetMap_tag: sport=ice_hockey
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20hockey) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ice_Hockey](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.md) 

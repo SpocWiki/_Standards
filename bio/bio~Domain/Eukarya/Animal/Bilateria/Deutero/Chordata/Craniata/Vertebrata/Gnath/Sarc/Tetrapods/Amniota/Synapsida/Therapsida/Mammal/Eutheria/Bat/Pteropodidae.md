@@ -48,8 +48,6 @@ Library_of_Congress_Classification: QL737.C575
 > [Wikipedia](https://en.wikipedia.org/wiki/Megabat) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pteropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Pteropodidae.md) 

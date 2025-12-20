@@ -35,8 +35,6 @@ has_id_wikidata: Q336989
 > [Wikipedia](https://en.wikipedia.org/wiki/Hay) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hay](/_Standards/Society/Economics/Industry/Agriculture/Farm/Hay.md) 

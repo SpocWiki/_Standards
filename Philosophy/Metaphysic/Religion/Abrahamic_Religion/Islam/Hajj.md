@@ -77,8 +77,6 @@ Wolfram_Language_entity_code: Entity["Word", "hajj"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Hajj) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hajj](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hajj.md) 

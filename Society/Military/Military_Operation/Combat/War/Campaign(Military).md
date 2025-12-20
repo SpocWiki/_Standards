@@ -35,8 +35,6 @@ Commons_category: Military campaigns
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20campaign) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Campaign(Military)](/_Standards/Society/Military/Military_Operation/Combat/War/Campaign(Military).md) 

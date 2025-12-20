@@ -46,8 +46,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Und%20abends%20in%20di
 > [Wikipedia](https://en.wikipedia.org/wiki/Schlager%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Schlager_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Schlager_Music.md) 

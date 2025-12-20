@@ -54,8 +54,6 @@ Commons_category: Centrifugal force
 > [Wikipedia](https://en.wikipedia.org/wiki/Centrifugal%20force) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Centrifugal_Force](/_Standards/Science/Physics/Force/Pseudo-Force/Centrifugal_Force.md) 

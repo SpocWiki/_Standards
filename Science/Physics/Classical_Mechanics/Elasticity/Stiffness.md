@@ -29,8 +29,6 @@ Commons_category: Stiffness (materials science)
 > [Wikipedia](https://en.wikipedia.org/wiki/Stiffness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stiffness](/_Standards/Science/Physics/Classical_Mechanics/Elasticity/Stiffness.md) 

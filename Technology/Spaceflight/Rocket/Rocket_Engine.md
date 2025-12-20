@@ -52,8 +52,6 @@ Commons_category: Rocket engines
 > [Wikipedia](https://en.wikipedia.org/wiki/Rocket%20engine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rocket_Engine](/_Standards/Technology/Spaceflight/Rocket/Rocket_Engine.md) 

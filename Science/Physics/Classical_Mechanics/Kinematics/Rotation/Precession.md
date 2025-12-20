@@ -33,8 +33,6 @@ Commons_category: Precession
 > [Wikipedia](https://en.wikipedia.org/wiki/Precession) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Precession](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.md) 

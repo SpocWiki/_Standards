@@ -16,8 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Historical%20fiction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Historical_Fiction](/_Standards/Society/Communication/Genre/Fiction/Historical_Fiction.md) 

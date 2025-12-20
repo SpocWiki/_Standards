@@ -25,9 +25,6 @@ subreddit: gnulinux
 ---
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [GNU+Linux](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux.md) 

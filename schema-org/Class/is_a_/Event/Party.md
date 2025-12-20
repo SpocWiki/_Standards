@@ -41,8 +41,6 @@ Baidu_Tieba_name: 聚会
 > [Wikipedia](https://en.wikipedia.org/wiki/Party) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Party](/_Standards/schema-org/Class/is_a_/Event/Party.md) 

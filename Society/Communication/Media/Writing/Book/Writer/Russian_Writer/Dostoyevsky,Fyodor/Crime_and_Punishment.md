@@ -109,8 +109,6 @@ Libris_URI: 1zcgmhfk4f8z7pv
 > [Wikipedia](https://en.wikipedia.org/wiki/Crime%20and%20Punishment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crime_and_Punishment](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.md) 

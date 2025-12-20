@@ -30,8 +30,6 @@ has_id_wikidata: Q154755
 > [Wikipedia](https://en.wikipedia.org/wiki/Ada%20(programming%20language))
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Ada](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Ada.md) 

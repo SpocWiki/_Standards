@@ -97,8 +97,6 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/BONHEFFER_DITRIH.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Dietrich%20Bonhoeffer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bonhoeffer,Dietrich](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.md) 

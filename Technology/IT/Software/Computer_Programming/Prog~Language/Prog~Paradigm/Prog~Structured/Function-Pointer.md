@@ -36,8 +36,6 @@ responsible for their own cleanup, promoting modular and maintainable code.
 Only C/C++ has the convention of the Caller cleaning up the Stack. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Function-Pointer](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.md) 

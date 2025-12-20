@@ -39,8 +39,6 @@ earliest_date: -400000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pigment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pigment](/_Standards/Society/Communication/Media/Painting/Pigment.md) 

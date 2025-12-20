@@ -32,8 +32,6 @@ Commons_category: Maya calendars
 > [Wikipedia](https://en.wikipedia.org/wiki/Maya%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maya_Calendar](/_Standards/ISO/Calendar/Maya_Calendar.md) 

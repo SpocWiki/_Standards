@@ -79,8 +79,6 @@ Munzinger_Sport_number: "01000000915"
 > [Wikipedia](https://en.wikipedia.org/wiki/Gerd%20M%C3%BCller) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Müller,Gerd](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.md) 

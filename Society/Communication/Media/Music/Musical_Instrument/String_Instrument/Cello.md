@@ -26,8 +26,6 @@ has_id_wikidata:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cello) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cello](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Cello.md) 

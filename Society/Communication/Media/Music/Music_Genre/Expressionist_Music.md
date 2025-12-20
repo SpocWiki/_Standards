@@ -43,8 +43,6 @@ inception: 1908-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Expressionist%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Expressionist_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Expressionist_Music.md) 

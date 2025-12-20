@@ -38,8 +38,6 @@ Unicode_character: 📼
 > [Wikipedia](https://en.wikipedia.org/wiki/Videotape)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Videotape](/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording/Videotape.md) 

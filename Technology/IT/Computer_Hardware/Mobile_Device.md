@@ -35,8 +35,6 @@ MeSH_tree_code: L01.224.230.260.550.500
 > [Wikipedia](https://en.wikipedia.org/wiki/Mobile%20device) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mobile_Device](/_Standards/Technology/IT/Computer_Hardware/Mobile_Device.md) 

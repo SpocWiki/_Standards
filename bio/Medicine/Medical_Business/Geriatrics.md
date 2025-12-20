@@ -55,8 +55,6 @@ OpenStreetMap_tag_or_key: Tag:healthcare:speciality=geriatrics
 > [Wikipedia](https://en.wikipedia.org/wiki/Geriatrics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geriatrics](/_Standards/bio/Medicine/Medical_Business/Geriatrics.md) 

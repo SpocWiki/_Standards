@@ -46,8 +46,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PrimeNumberTheorem.png
 > [Wikipedia](https://en.wikipedia.org/wiki/Prime%20number%20theorem) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prime_Number_Theorem](/_Standards/Mathematics/Number_Theory/Prime_Number_Theorem.md) 

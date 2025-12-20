@@ -39,8 +39,6 @@ subreddit: tonightsdinner
 > [Wikipedia](https://en.wikipedia.org/wiki/Dinner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dinner](/_Standards/Society/Economics/Home_Economics/Meal/Dinner.md) 

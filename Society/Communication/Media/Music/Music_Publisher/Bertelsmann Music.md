@@ -55,8 +55,6 @@ native_label: Bertelsmann Music Group
 > [Wikipedia](https://en.wikipedia.org/wiki/Bertelsmann%20Music%20Group) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bertelsmann Music](/_Standards/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.md) 

@@ -39,8 +39,6 @@ taxon_common_name: дрэўнавушка
 > [Wikipedia](https://en.wikipedia.org/wiki/Pleurotus) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pleurotus](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.md) 

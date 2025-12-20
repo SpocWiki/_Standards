@@ -74,8 +74,6 @@ MeSH_tree_code: L01.583
 > [Wikipedia](https://en.wikipedia.org/wiki/Library%20and%20information%20science) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Library_Science](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_Science.md) 

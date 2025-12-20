@@ -20,9 +20,6 @@
 #is_/same_as :: [[../../../../WikiData/WD~Art_of_sculpture,11634|WD~Art_of_sculpture,11634]] 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plastic_Arts](/_Standards/Society/Communication/Media/Plastic_Arts.md) 

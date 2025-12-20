@@ -110,8 +110,6 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/JWgibbs-signature.
 > [Wikipedia](https://en.wikipedia.org/wiki/Josiah%20Willard%20Gibbs) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gibbs,Josiah_Willard](/_Standards/Chemistry/Chemist/Gibbs,Josiah_Willard.md) 

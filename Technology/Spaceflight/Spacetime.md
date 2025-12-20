@@ -52,8 +52,6 @@ IEV_number: 113-01-01
 > [Wikipedia](https://en.wikipedia.org/wiki/Spacetime) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spacetime](/_Standards/Technology/Spaceflight/Spacetime.md) 

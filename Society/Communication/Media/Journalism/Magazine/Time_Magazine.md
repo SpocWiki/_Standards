@@ -81,8 +81,6 @@ inception: 1923-03-03T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20(magazine)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Time_Magazine](/_Standards/Society/Communication/Media/Journalism/Magazine/Time_Magazine.md) 

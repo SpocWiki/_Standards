@@ -35,8 +35,6 @@ has_id_wikidata: Q368498
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychology%20of%20religion) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Psychology_of_Religion](/_Standards/Philosophy/Metaphysic/Religion/Psychology_of_Religion.md) 

@@ -51,8 +51,6 @@ UNII: ZQ6LG2C39M
 > [Wikipedia](https://en.wikipedia.org/wiki/Lobster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lobster](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Lobster.md) 

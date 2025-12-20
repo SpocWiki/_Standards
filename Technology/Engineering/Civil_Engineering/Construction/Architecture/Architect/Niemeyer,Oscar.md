@@ -81,8 +81,6 @@ has_id_wikidata: Q134165
 > [Wikipedia](https://en.wikipedia.org/wiki/Oscar%20Niemeyer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Niemeyer,Oscar](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Niemeyer,Oscar.md) 

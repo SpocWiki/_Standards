@@ -31,9 +31,6 @@ time_of_discovery_or_invention: 1787-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrolysis) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Electrolysis](/_Standards/Chemistry/Electrochemistry/Electrolysis.md) 

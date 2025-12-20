@@ -49,8 +49,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schli
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20skating) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ice_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating.md) 

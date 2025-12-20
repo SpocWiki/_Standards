@@ -41,8 +41,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Pesto"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Pesto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pesto](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Pesto.md) 

@@ -86,8 +86,6 @@ ISNI: "0000000107178678"
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Dewar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dewar,James](/_Standards/Chemistry/Chemist/Dewar,James.md) 

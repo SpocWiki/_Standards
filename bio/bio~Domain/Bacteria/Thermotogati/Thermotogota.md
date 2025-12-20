@@ -13,8 +13,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermotogae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Thermotogota](/_Standards/bio/bio~Domain/Bacteria/Thermotogati/Thermotogota.md) 

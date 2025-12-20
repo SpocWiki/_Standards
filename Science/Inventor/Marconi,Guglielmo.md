@@ -137,8 +137,6 @@ U_S_National_Archives_Identifier: "10581113"
 > [Wikipedia](https://en.wikipedia.org/wiki/Guglielmo%20Marconi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marconi,Guglielmo](/_Standards/Science/Inventor/Marconi,Guglielmo.md) 

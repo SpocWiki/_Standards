@@ -65,8 +65,6 @@ NBN_System_Key: NHMSYS0020151707
 > [Wikipedia](https://en.wikipedia.org/wiki/Leaf%20beetle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leaf_beetle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Leaf_beetle.md) 

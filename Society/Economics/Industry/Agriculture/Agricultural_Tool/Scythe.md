@@ -96,8 +96,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Lieslipning%20p%C3%A5%
 > [Wikipedia](https://en.wikipedia.org/wiki/Scythe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scythe](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.md) 

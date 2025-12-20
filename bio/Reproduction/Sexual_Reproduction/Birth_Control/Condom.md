@@ -73,8 +73,6 @@ MeSH_tree_code: E07.190.270.150
 > [Wikipedia](https://en.wikipedia.org/wiki/Condom) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Condom](/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control/Condom.md) 

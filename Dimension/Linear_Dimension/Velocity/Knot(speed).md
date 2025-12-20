@@ -45,8 +45,6 @@ conversion_to_SI_unit: 0.5144444444444445
 > [Wikipedia](https://en.wikipedia.org/wiki/Knot%20(unit)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Knot(speed)](/_Standards/Dimension/Linear_Dimension/Velocity/Knot(speed).md) 

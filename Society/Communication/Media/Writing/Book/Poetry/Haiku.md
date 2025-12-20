@@ -69,8 +69,6 @@ Commons_category: Haiku (poetry)
 > [Wikipedia](https://en.wikipedia.org/wiki/Haiku) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Haiku](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Haiku.md) 

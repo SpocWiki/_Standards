@@ -125,9 +125,6 @@ booru_tag: war_in_afghanistan
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20in%20Afghanistan%20(2001%E2%80%932021))  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [2001-War_in_Afghanistan+2021](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.md) 

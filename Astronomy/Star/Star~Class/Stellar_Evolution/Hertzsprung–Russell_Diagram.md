@@ -68,8 +68,6 @@ Commons_category: Hertzsprung–Russell diagram
 > [Wikipedia](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell%20diagram) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hertzsprung–Russell_Diagram](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.md) 

@@ -94,8 +94,6 @@ EPPO_Code: PHXDA
 > [Wikipedia](https://en.wikipedia.org/wiki/Date%20palm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Date_Palm](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.md) 

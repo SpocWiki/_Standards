@@ -47,8 +47,6 @@ Commons_category: Killed in action
 > [Wikipedia](https://en.wikipedia.org/wiki/Killed%20in%20action) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Killed_in_Action](/_Standards/Society/Military/Military_Operation/Combat/Killed_in_Action.md) 

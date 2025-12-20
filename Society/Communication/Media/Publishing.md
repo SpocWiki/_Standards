@@ -74,8 +74,6 @@ subreddit: publishing
 > [Wikipedia](https://en.wikipedia.org/wiki/Publishing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Publishing](/_Standards/Society/Communication/Media/Publishing.md) 

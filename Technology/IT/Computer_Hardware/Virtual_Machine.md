@@ -24,11 +24,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20machine)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Virtual_Machine](/_Standards/Technology/IT/Computer_Hardware/Virtual_Machine.md) 

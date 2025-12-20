@@ -68,8 +68,6 @@ Commons_category: Idolatry
 > [Wikipedia](https://en.wikipedia.org/wiki/Idolatry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Idolatry](/_Standards/Philosophy/Metaphysic/Religion/Idolatry.md) 

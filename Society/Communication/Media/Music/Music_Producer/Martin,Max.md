@@ -40,11 +40,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Martin)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Martin,Max](/_Standards/Society/Communication/Media/Music/Music_Producer/Martin,Max.md) 

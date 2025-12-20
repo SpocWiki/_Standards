@@ -48,8 +48,6 @@ OpenStreetMap_tag: amenity=stock_exchange
 > [Wikipedia](https://en.wikipedia.org/wiki/Stock%20exchange) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stock_Exchange](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.md) 

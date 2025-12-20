@@ -67,8 +67,6 @@ inception: 1787-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Don%20Giovanni) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Don_Giovanni](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.md) 

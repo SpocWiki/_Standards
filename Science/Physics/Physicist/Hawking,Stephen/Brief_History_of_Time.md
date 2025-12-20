@@ -56,8 +56,6 @@ subtitle: From the Big Bang to Black Holes
 > [Wikipedia](https://en.wikipedia.org/wiki/A%20Brief%20History%20of%20Time) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brief_History_of_Time](/_Standards/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.md) 

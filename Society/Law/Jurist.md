@@ -26,8 +26,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Jurist) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jurist](/_Standards/Society/Law/Jurist.md) 

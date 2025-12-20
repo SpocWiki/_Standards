@@ -77,8 +77,6 @@ date_of_death: 1520-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pedro%20%C3%81lvares%20Cabral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pedro_Álvares_Cabral](/_Standards/Earth/Explorer/Age_of_Discovery/Pedro_Álvares_Cabral.md) 

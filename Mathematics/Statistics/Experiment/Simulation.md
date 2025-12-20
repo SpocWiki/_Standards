@@ -72,8 +72,6 @@ Commons_category: Simulation
 > [Wikipedia](https://en.wikipedia.org/wiki/Simulation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Simulation](/_Standards/Mathematics/Statistics/Experiment/Simulation.md) 

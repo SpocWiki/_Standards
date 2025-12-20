@@ -59,7 +59,6 @@ the top leadership roles of the executive branch may include:
 		  enforcement of court orders.
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Executive_Branch](/_Standards/Society/Politics/Political_Power/Executive_Branch.md) 

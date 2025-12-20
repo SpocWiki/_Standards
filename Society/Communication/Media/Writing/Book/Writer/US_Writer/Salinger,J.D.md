@@ -99,8 +99,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SELINDZHER_DZHEROM
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20D.%20Salinger) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Salinger,J.D](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D.md) 

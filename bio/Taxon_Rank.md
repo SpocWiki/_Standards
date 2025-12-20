@@ -97,8 +97,6 @@ More granular Subdivisions are created by Prefixes to the Rank and differing Suf
 > [Wikipedia](https://en.wikipedia.org/wiki/Taxonomic%20rank) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taxon_Rank](/_Standards/bio/Taxon_Rank.md) 

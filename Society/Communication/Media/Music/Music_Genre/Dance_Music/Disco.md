@@ -45,9 +45,6 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/DISKO.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Disco) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Disco](/_Standards/Society/Communication/Media/Music/Music_Genre/Dance_Music/Disco.md) 

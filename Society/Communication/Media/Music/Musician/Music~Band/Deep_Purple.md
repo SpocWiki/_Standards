@@ -113,8 +113,6 @@ ISNI: "0000000109435287"
 > [Wikipedia](https://en.wikipedia.org/wiki/Deep%20Purple) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Deep_Purple](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Deep_Purple.md) 

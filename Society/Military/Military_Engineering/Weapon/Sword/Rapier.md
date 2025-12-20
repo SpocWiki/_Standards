@@ -40,8 +40,6 @@ Commons_category: Rapiers
 > [Wikipedia](https://en.wikipedia.org/wiki/Rapier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rapier](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Rapier.md) 

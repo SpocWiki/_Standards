@@ -51,8 +51,6 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "Reflection"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Reflection%20(physics)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reflection](/_Standards/Science/Physics/Wave/Reflection.md) 

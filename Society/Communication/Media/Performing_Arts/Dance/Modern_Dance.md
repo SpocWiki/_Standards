@@ -50,8 +50,6 @@ Commons_category: Modern dance
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20dance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modern_Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.md) 

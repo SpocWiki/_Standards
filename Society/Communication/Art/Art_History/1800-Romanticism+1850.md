@@ -68,8 +68,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/ROMANTIZM.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Romanticism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1800-Romanticism+1850](/_Standards/Society/Communication/Art/Art_History/1800-Romanticism+1850.md) 

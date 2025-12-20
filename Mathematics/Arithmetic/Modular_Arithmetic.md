@@ -49,8 +49,6 @@ Commons_category: Modular arithmetic
 > [Wikipedia](https://en.wikipedia.org/wiki/Modular%20arithmetic) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Modular_Arithmetic](/_Standards/Mathematics/Arithmetic/Modular_Arithmetic.md) 

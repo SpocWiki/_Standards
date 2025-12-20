@@ -54,8 +54,6 @@ taxon_name: Nelumbo
 > [Wikipedia](https://en.wikipedia.org/wiki/Nelumbo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nelumbo](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales/Nelumbo.md) 

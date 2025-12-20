@@ -22,11 +22,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Alan%20Parsons%20Project)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Alan_Parsons_Project](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.md) 

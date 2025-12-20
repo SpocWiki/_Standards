@@ -6,8 +6,6 @@
 #has_/next_item :: [[Windows10]]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Windows7Vista](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows7Vista.md) 

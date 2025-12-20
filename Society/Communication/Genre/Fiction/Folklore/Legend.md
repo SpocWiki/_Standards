@@ -69,8 +69,6 @@ Wikidata_usage_instructions:
 > [Wikipedia](https://en.wikipedia.org/wiki/Legend) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Legend](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend.md) 

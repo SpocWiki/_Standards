@@ -61,8 +61,6 @@ start_time: 1945-02-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Yalta%20Conference) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1945-Yalta_Conference](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1945-Yalta_Conference.md) 

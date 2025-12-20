@@ -48,8 +48,6 @@ subreddit: chemicalreactiongifs
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20reaction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Reaction](/_Standards/Chemistry/Chemical_Reaction.md) 

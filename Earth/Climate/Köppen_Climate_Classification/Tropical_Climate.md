@@ -46,8 +46,6 @@ Commons_category: Tropical climate
 > [Wikipedia](https://en.wikipedia.org/wiki/Tropical%20climate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tropical_Climate](/_Standards/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.md) 

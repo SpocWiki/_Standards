@@ -72,8 +72,6 @@ DPLA_subject_term: Atari, Inc
 > [Wikipedia](https://en.wikipedia.org/wiki/Atari) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Atari](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Atari.md) 

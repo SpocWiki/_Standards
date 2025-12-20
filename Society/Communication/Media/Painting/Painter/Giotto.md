@@ -169,8 +169,6 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DZHOTTO_DI_BON
 > [Wikipedia](https://en.wikipedia.org/wiki/Giotto) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Giotto](/_Standards/Society/Communication/Media/Painting/Painter/Giotto.md) 

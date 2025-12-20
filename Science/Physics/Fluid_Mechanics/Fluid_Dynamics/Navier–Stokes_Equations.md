@@ -26,8 +26,6 @@ has_id_wikidata: Q201321
 > [Wikipedia](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes%20equations) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Navier–Stokes_Equations](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.md) 

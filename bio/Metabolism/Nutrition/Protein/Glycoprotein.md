@@ -43,8 +43,6 @@ Commons_category: Glycoproteins
 > [Wikipedia](https://en.wikipedia.org/wiki/Glycoprotein) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glycoprotein](/_Standards/bio/Metabolism/Nutrition/Protein/Glycoprotein.md) 

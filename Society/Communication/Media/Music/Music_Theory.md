@@ -44,8 +44,6 @@ subreddit: musictheory
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Music_Theory](/_Standards/Society/Communication/Media/Music/Music_Theory.md) 

@@ -138,8 +138,6 @@ Facebook_username: MilesDavis
 > [Wikipedia](https://en.wikipedia.org/wiki/Miles%20Davis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Davis,Miles](/_Standards/Society/Communication/Media/Music/Musician/Davis,Miles.md) 

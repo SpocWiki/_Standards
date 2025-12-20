@@ -45,8 +45,6 @@ Commons_category: Snare drums
 > [Wikipedia](https://en.wikipedia.org/wiki/Snare%20drum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Snare_Drum](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Snare_Drum.md) 

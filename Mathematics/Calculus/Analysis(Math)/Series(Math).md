@@ -79,10 +79,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Series%20(mathematics)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Series(Math)](/_Standards/Mathematics/Calculus/Analysis(Math)/Series(Math).md) 

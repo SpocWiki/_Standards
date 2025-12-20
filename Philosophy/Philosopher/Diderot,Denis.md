@@ -134,8 +134,6 @@ Commons_Creator_page: Denis Diderot
 > [Wikipedia](https://en.wikipedia.org/wiki/Denis%20Diderot) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diderot,Denis](/_Standards/Philosophy/Philosopher/Diderot,Denis.md) 

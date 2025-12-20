@@ -60,8 +60,6 @@ described_at_URL: https://neal.fun/earth-reviews/pens
 > [Wikipedia](https://en.wikipedia.org/wiki/Pen) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pen](/_Standards/Technology/Tool/Writing_Tool/Pen.md) 

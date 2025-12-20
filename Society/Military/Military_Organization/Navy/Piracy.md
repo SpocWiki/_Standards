@@ -41,8 +41,6 @@ has_id_wikidata: Q45393
 > [Wikipedia](https://en.wikipedia.org/wiki/Piracy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Piracy](/_Standards/Society/Military/Military_Organization/Navy/Piracy.md) 

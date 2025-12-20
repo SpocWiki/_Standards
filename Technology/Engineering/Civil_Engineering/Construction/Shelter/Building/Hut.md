@@ -18,8 +18,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hut) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hut](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Hut.md) 

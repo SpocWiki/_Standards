@@ -190,8 +190,6 @@ Europeana_entity: agent/base/146954
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Herschel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Herschel,William](/_Standards/Astronomy/Astronomer/Herschel,William.md) 

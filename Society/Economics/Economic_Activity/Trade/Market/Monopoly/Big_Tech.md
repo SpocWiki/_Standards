@@ -34,10 +34,6 @@ has_id_wikidata: Q3122864
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Tech) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Big_Tech](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.md) 

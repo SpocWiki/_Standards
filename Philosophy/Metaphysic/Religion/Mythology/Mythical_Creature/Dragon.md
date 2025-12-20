@@ -70,8 +70,6 @@ small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Aw
 > [Wikipedia](https://en.wikipedia.org/wiki/Dragon) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dragon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Dragon.md) 

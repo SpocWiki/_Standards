@@ -65,10 +65,6 @@ name_in_native_language: Ignacy Łukasiewicz
 > [Wikipedia](https://en.wikipedia.org/wiki/Ignacy%20%C5%81ukasiewicz) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ignacy_Łukasiewicz](/_Standards/Science/Inventor/Ignacy_Łukasiewicz.md) 

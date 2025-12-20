@@ -69,8 +69,6 @@ Commons_category: Rabbis
 > [Wikipedia](https://en.wikipedia.org/wiki/Rabbi) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rabbi](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.md) 

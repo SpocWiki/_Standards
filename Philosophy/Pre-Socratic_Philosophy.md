@@ -32,8 +32,6 @@ PhilPapers_topic: pre-socratic-philosophy
 > [Wikipedia](https://en.wikipedia.org/wiki/Pre-Socratic%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pre-Socratic_Philosophy](/_Standards/Philosophy/Pre-Socratic_Philosophy.md) 

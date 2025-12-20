@@ -62,8 +62,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Taylor%20series) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Taylor_Series](/_Standards/Mathematics/Algebra/Polynomial/Taylor_Series.md) 

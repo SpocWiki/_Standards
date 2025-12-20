@@ -88,8 +88,6 @@ hashtag: stainedglass
 > [Wikipedia](https://en.wikipedia.org/wiki/Stained%20glass) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stained_Glass](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.md) 

@@ -39,8 +39,6 @@ OpenStreetMap_tag: natural=peninsula
 > [Wikipedia](https://en.wikipedia.org/wiki/Peninsula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Peninsula](/_Standards/Earth/Geology/Landform/Peninsula.md) 

@@ -57,8 +57,6 @@ subreddit: highspeedrail
 > [Wikipedia](https://en.wikipedia.org/wiki/High-speed%20rail) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [High-Speed_Rail](/_Standards/Technology/Transport/Rail_Transport/High-Speed_Rail.md) 

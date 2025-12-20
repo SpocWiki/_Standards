@@ -21,7 +21,6 @@ fn ui_counter(ui: &mut egui::Ui, counter: &mut i32) {
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [crates~egui](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~egui.md) 

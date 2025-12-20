@@ -96,8 +96,6 @@ date_of_birth: -0275-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Eratosthenes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eratosthenes](/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Eratosthenes.md) 

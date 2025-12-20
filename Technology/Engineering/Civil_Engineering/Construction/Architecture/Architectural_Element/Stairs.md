@@ -68,8 +68,6 @@ OpenStreetMap_tag: highway=steps
 > [Wikipedia](https://en.wikipedia.org/wiki/Stairs) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stairs](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Stairs.md) 

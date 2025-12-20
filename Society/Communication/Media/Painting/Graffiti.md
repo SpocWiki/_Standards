@@ -55,8 +55,6 @@ OpenStreetMap_tag_or_key: Tag:artwork_type=graffiti
 > [Wikipedia](https://en.wikipedia.org/wiki/Graffiti) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Graffiti](/_Standards/Society/Communication/Media/Painting/Graffiti.md) 

@@ -63,8 +63,6 @@ Commons_category: Hindu Kush
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindu%20Kush) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hindu_Kush](/_Standards/Earth/Continent/Asia/Asia~Central/Hindu_Kush.md) 

@@ -92,8 +92,6 @@ inception: -1499-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Rigveda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rigveda](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.md) 

@@ -44,8 +44,6 @@ different_from: "[[_Standards/WikiData/WD~Keplerian_elements,78147576]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbital%20elements) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orbital_Elements](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.md) 

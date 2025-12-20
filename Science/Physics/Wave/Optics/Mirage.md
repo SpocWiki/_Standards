@@ -47,8 +47,6 @@ Commons_category: Mirages
 > [Wikipedia](https://en.wikipedia.org/wiki/Mirage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mirage](/_Standards/Science/Physics/Wave/Optics/Mirage.md) 

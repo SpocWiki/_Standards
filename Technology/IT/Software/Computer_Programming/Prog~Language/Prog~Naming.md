@@ -47,8 +47,6 @@ Operator Names are preferably brief and have all the same Length for a tabular E
 ##
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prog~Naming](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.md) 

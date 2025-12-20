@@ -58,8 +58,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Leadership) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Leadership](/_Standards/Society/Agent/Management/Leadership.md) 

@@ -76,8 +76,6 @@ Commons_category: Silk Road
 > [Wikipedia](https://en.wikipedia.org/wiki/Silk%20Road) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Silk_Road](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.md) 

@@ -146,8 +146,6 @@ NLC_authorities: "000161539"
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Amos%20Comenius) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Comenius,John_Amos](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Comenius,John_Amos.md) 

@@ -14,9 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Kola%20nut)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kola_Nut](/_Standards/bio/Medicine/Drug/Drug-Dealing/Kola_Nut.md) 

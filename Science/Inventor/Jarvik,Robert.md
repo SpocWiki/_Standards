@@ -41,8 +41,6 @@ date_of_death: 2025-05-26T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Jarvik) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jarvik,Robert](/_Standards/Science/Inventor/Jarvik,Robert.md) 

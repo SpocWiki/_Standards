@@ -49,8 +49,6 @@ taxon_common_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Zingiberaceae) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zingiberaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae.md) 

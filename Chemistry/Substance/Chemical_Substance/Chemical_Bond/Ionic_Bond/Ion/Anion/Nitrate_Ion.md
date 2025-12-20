@@ -65,8 +65,6 @@ SPLASH:
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nitrate_Ion](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.md) 

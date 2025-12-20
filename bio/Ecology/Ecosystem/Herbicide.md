@@ -46,8 +46,6 @@ Commons_category: Herbicides
 > [Wikipedia](https://en.wikipedia.org/wiki/Herbicide) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Herbicide](/_Standards/bio/Ecology/Ecosystem/Herbicide.md) 

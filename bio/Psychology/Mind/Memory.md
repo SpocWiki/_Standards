@@ -35,8 +35,6 @@ has_id_wikidata: Q492
 > [Wikipedia](https://en.wikipedia.org/wiki/Memory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Memory](/_Standards/bio/Psychology/Mind/Memory.md) 

@@ -36,8 +36,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [created:: 1865-04-15]  [cancelled:: 1869-03-04]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Johnson,Andrew](/_Standards/Earth/Continent/America~North/US~President/Johnson,Andrew.md) 

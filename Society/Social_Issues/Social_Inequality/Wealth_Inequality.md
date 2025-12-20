@@ -28,8 +28,6 @@ Since 1982, [[Forbes_Magazine]] unashamedly publishes the List of the richest Pe
 > [Wikipedia](https://en.wikipedia.org/wiki/Distribution%20of%20wealth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wealth_Inequality](/_Standards/Society/Social_Issues/Social_Inequality/Wealth_Inequality.md) 

@@ -96,8 +96,6 @@ name_in_kana: フォートラン
 > [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fortran](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Fortran.md) 

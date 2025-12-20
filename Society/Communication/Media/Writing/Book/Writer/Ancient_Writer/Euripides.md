@@ -114,8 +114,6 @@ ISNI: "0000000121382034"
 > [Wikipedia](https://en.wikipedia.org/wiki/Euripides) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euripides](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.md) 

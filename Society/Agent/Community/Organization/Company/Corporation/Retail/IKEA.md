@@ -39,8 +39,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/IKEA) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [IKEA](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.md) 

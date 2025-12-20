@@ -59,9 +59,6 @@ GOST_7_75_97_code: паа 532
 > [Wikipedia](https://en.wikipedia.org/wiki/Papuan%20languages) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily~Papuan](/_Standards/Language/Language_Family/LangFamily~Papuan.md) 

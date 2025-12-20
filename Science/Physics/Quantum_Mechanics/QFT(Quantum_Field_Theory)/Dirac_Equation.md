@@ -268,10 +268,6 @@ $$ \Large
 $$
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dirac_Equation](/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Dirac_Equation.md) 

@@ -45,8 +45,6 @@ Provenio_UUID: 92ac9e5a-3eb2-4166-8899-26cb2bcd214b
 > [Wikipedia](https://en.wikipedia.org/wiki/Pride) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Haughtiness](/_Standards/bio/Psychology/Affect/Emotion/Haughtiness.md) 

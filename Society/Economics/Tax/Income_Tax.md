@@ -39,8 +39,6 @@ Commons_category: Personal income taxes
 > [Wikipedia](https://en.wikipedia.org/wiki/Income%20tax) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Income_Tax](/_Standards/Society/Economics/Tax/Income_Tax.md) 

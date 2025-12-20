@@ -61,8 +61,6 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 > [Wikipedia](https://en.wikipedia.org/wiki/Poincar%C3%A9%20conjecture) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poincaré_Conjecture](/_Standards/Mathematics/Topology/Poincaré_Conjecture.md) 

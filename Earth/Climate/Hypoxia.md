@@ -32,8 +32,6 @@ Commons_category: Hypoxia (medical)
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypoxia%20(environmental)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hypoxia](/_Standards/Earth/Climate/Hypoxia.md) 

@@ -72,8 +72,6 @@ Unicode_character: 🧤
 > [Wikipedia](https://en.wikipedia.org/wiki/Glove) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glove](/_Standards/Technology/Tool/Clothing/Glove.md) 

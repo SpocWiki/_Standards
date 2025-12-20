@@ -47,8 +47,6 @@ Commons_category: Catapults
 > [Wikipedia](https://en.wikipedia.org/wiki/Catapult) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Catapult](/_Standards/Society/Military/Military_Engineering/Weapon/Catapult.md) 

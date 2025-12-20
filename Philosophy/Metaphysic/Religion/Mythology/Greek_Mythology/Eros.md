@@ -84,8 +84,6 @@ Royal_Academy_new_identifier: eros-greek-deity
 > [Wikipedia](https://en.wikipedia.org/wiki/Eros) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Eros](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.md) 

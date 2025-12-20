@@ -97,8 +97,6 @@ birth_name: John Robert Cocker
 > [Wikipedia](https://en.wikipedia.org/wiki/Joe%20Cocker) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cocker,Joe](/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Cocker,Joe.md) 

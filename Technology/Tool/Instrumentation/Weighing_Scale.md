@@ -35,8 +35,6 @@ has_id_wikidata: Q134566
 > [Wikipedia](https://en.wikipedia.org/wiki/Weighing%20scale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Weighing_Scale](/_Standards/Technology/Tool/Instrumentation/Weighing_Scale.md) 

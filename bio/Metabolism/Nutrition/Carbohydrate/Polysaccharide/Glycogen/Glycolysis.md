@@ -55,10 +55,6 @@ Krugosvet_article: nauka_i_tehnika/himiya/GLIKOLIZ.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Glycolysis) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Glycolysis](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen/Glycolysis.md) 

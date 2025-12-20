@@ -102,9 +102,6 @@ GitHub_topic: indonesian
 > [Wikipedia](https://en.wikipedia.org/wiki/Indonesian%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-ind](/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.md) 

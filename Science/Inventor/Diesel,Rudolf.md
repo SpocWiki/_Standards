@@ -90,8 +90,6 @@ date_of_death: 1913-09-30T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Rudolf%20Diesel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Diesel,Rudolf](/_Standards/Science/Inventor/Diesel,Rudolf.md) 

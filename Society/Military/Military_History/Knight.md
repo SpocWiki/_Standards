@@ -49,8 +49,6 @@ has_id_wikidata: Q102083
 > [Wikipedia](https://en.wikipedia.org/wiki/Knight) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Knight](/_Standards/Society/Military/Military_History/Knight.md) 

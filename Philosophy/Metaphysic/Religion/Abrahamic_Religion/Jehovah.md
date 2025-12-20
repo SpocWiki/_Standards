@@ -52,8 +52,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jhwh4.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Jehovah) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jehovah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.md) 

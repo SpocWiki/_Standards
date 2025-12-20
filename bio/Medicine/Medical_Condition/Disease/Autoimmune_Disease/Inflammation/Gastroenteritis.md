@@ -63,8 +63,6 @@ ICD_10_CM: K52.9
 > [Wikipedia](https://en.wikipedia.org/wiki/Gastroenteritis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gastroenteritis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Gastroenteritis.md) 

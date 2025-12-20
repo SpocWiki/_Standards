@@ -59,8 +59,6 @@ has_id_wikidata: Q334923
 > [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Bakr) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Abu_Bakr](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.md) 

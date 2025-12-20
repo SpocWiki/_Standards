@@ -29,8 +29,6 @@ has_id_wikidata: Q846600
 > [Wikipedia](https://en.wikipedia.org/wiki/Clamp%20(tool)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clamp(tool)](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Clamp(tool).md) 

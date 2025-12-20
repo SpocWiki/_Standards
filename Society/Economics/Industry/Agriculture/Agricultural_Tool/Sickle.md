@@ -51,8 +51,6 @@ Commons_category: Sickles
 > [Wikipedia](https://en.wikipedia.org/wiki/Sickle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sickle](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Sickle.md) 

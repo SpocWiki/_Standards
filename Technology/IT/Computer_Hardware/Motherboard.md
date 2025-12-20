@@ -50,8 +50,6 @@ booru_tag: motherboard
 > [Wikipedia](https://en.wikipedia.org/wiki/Motherboard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Motherboard](/_Standards/Technology/IT/Computer_Hardware/Motherboard.md) 

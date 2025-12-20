@@ -60,8 +60,6 @@ Gujarati_Vishwakosh_entry: ઈથર-રસાયણ
 > [Wikipedia](https://en.wikipedia.org/wiki/Ether) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ether](/_Standards/Chemistry/Organic_Chemistry/Ether.md) 

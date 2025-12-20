@@ -68,8 +68,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Pendulum) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pendulum](/_Standards/Technology/Tool/Instrumentation/Pendulum.md) 

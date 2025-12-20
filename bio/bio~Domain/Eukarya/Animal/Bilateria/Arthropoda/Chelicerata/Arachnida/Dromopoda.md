@@ -26,8 +26,6 @@ taxon_name: Dromopoda
 > [Wikipedia](https://en.wikipedia.org/wiki/Dromopoda) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dromopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda.md) 

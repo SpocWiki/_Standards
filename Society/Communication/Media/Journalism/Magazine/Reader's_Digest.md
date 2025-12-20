@@ -68,8 +68,6 @@ inception: 1922-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Reader's%20Digest) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Reader's_Digest](/_Standards/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.md) 

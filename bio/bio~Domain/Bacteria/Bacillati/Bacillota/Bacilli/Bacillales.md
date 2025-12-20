@@ -6,8 +6,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacillales) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bacillales](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Bacillota/Bacilli/Bacillales.md) 

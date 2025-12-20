@@ -53,8 +53,6 @@ date_of_birth: 1919-09-06T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilson%20Greatbatch) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Greatbatch,Wilson](/_Standards/Science/Inventor/Greatbatch,Wilson.md) 

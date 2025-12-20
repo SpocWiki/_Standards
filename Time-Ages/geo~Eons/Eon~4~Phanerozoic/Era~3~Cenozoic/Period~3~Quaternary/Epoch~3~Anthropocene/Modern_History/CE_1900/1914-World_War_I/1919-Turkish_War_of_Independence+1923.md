@@ -48,8 +48,6 @@ start_time: 1919-05-19T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20War%20of%20Independence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1919-Turkish_War_of_Independence+1923](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.md) 

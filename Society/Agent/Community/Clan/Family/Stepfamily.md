@@ -41,8 +41,6 @@ described_at_URL: https://www.nrc.nl/nieuws/2016/05/07/hart-open-en-relax-161585
 > [Wikipedia](https://en.wikipedia.org/wiki/Stepfamily) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stepfamily](/_Standards/Society/Agent/Community/Clan/Family/Stepfamily.md) 

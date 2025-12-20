@@ -93,8 +93,6 @@ coordinate_location: Point(6.1352313 49.6202892)
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Investment%20Bank) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [European_Investment_Bank](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.md) 

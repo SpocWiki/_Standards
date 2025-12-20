@@ -44,8 +44,6 @@ OpenStreetMap_tag: playground=trampoline
 > [Wikipedia](https://en.wikipedia.org/wiki/Trampoline)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trampoline](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Trampoline.md) 

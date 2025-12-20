@@ -44,8 +44,6 @@ GeoNames_feature_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Mesa](/_Standards/Earth/Geology/Landform/Mesa.md) 

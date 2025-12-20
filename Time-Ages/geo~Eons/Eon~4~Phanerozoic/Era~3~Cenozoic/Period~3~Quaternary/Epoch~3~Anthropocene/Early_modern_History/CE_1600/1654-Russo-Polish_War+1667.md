@@ -38,7 +38,6 @@ Commons_category: Polish-Russian War 1654-1667
 > [Wikipedia](https://en.wikipedia.org/wiki/Polish%E2%80%93Russian%20War%20(1654%E2%80%931667))
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1654-Russo-Polish_War+1667](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.md) 

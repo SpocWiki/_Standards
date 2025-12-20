@@ -76,8 +76,6 @@ Linguist_List_code: urlc
 > [Wikipedia](https://en.wikipedia.org/wiki/Uralic%20languages) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily-Uralic](/_Standards/Language/Language_Family/LangFamily-Uralic.md) 

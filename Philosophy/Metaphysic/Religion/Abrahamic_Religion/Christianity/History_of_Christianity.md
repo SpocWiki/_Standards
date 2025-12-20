@@ -38,8 +38,6 @@ Library_of_Congress_Classification: BR140-BR1510
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Christianity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [History_of_Christianity](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.md) 

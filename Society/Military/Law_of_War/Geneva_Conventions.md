@@ -89,8 +89,6 @@ nickname: Geneva Suggestions
 > [Wikipedia](https://en.wikipedia.org/wiki/Geneva%20Conventions) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Geneva_Conventions](/_Standards/Society/Military/Law_of_War/Geneva_Conventions.md) 

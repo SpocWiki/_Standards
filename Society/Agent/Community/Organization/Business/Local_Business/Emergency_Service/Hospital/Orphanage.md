@@ -38,8 +38,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2025%20K%C5%82odzko%2C
 > [Wikipedia](https://en.wikipedia.org/wiki/Orphanage) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orphanage](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital/Orphanage.md) 

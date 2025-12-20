@@ -39,8 +39,6 @@ inception: 1780-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Pasodoble) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pasodoble](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Pasodoble.md) 

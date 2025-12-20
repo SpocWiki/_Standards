@@ -89,8 +89,6 @@ DSSTOX_compound_identifier: DTXCID10194
 > [Wikipedia](https://en.wikipedia.org/wiki/Boric%20acid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Orthoboric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.md) 

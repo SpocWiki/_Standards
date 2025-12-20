@@ -36,8 +36,6 @@ GeoNames_feature_code: T.PLAT
 > [Wikipedia](https://en.wikipedia.org/wiki/Plateau) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Plateau](/_Standards/Earth/Geology/Landform/Plateau.md) 

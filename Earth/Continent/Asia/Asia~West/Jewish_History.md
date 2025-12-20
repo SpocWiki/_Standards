@@ -33,8 +33,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Jewish%20history)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Jewish_History](/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History.md) 

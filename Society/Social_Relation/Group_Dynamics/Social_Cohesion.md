@@ -47,8 +47,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20cohesiveness) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Social_Cohesion](/_Standards/Society/Social_Relation/Group_Dynamics/Social_Cohesion.md) 

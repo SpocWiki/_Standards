@@ -88,8 +88,6 @@ native_label: Manqa
 > [Wikipedia](https://en.wikipedia.org/wiki/Scabies) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scabies](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.md) 

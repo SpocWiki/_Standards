@@ -45,10 +45,6 @@ Dewey_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Vanilla) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vanilla](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Vanilla.md) 

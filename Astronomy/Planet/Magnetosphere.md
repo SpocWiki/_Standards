@@ -38,8 +38,6 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_01001194
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetosphere) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Magnetosphere](/_Standards/Astronomy/Planet/Magnetosphere.md) 

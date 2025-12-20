@@ -51,8 +51,6 @@ Dewey_Decimal_Classification: "778.59"
 > [Wikipedia](https://en.wikipedia.org/wiki/Video%20art) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Video_Art](/_Standards/Society/Communication/Art/Video_Art.md) 

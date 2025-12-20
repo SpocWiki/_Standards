@@ -46,8 +46,6 @@ OpenStreetMap_tag: place=polder
 > [Wikipedia](https://en.wikipedia.org/wiki/Polder) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Polder](/_Standards/Earth/Geology/Landform/Polder.md) 

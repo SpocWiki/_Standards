@@ -53,8 +53,6 @@ MeSH_tree_code: F01.145.813.625
 > [Wikipedia](https://en.wikipedia.org/wiki/Conformity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Conformity](/_Standards/Society/Agent/Community/Conformity.md) 

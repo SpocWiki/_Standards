@@ -70,8 +70,6 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/GuentherZ%20200
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Steiner) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Steiner,Max](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Steiner,Max.md) 

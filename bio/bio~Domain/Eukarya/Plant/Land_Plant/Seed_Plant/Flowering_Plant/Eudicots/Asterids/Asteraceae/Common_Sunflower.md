@@ -133,8 +133,6 @@ NBN_System_Key: NBNSYS0000037346
 > [Wikipedia](https://en.wikipedia.org/wiki/Common%20sunflower) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Common_Sunflower](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.md) 

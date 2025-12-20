@@ -143,8 +143,6 @@ MeSH_tree_code: B01.050.150.900.649.313.750.250.761
 > [Wikipedia](https://en.wikipedia.org/wiki/Bear) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ursidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Ursidae.md) 

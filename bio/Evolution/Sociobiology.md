@@ -39,8 +39,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sociobiology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sociobiology](/_Standards/bio/Evolution/Sociobiology.md) 

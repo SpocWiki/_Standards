@@ -40,8 +40,6 @@ pronunciation_audio:
 > [Wikipedia](https://en.wikipedia.org/wiki/Curry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Curry](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.md) 

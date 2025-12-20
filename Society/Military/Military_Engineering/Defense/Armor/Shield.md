@@ -70,8 +70,6 @@ Unicode_character: 🛡
 > [Wikipedia](https://en.wikipedia.org/wiki/Shield) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Shield](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Shield.md) 

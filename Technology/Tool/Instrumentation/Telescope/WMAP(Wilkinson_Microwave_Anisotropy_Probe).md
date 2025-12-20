@@ -102,8 +102,6 @@ UTC_date_of_spacecraft_launch: 2001-06-30T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilkinson%20Microwave%20Anisotropy%20Probe) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [WMAP(Wilkinson_Microwave_Anisotropy_Probe)](/_Standards/Technology/Tool/Instrumentation/Telescope/WMAP(Wilkinson_Microwave_Anisotropy_Probe).md) 

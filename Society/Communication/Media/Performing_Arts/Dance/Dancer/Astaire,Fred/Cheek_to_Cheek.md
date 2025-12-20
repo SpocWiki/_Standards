@@ -50,9 +50,6 @@ The charm about you
 Will carry me through to Heaven  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cheek_to_Cheek](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.md) 

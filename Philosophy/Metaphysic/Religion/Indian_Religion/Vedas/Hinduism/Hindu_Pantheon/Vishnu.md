@@ -89,8 +89,6 @@ IPA_transcription:
 > [Wikipedia](https://en.wikipedia.org/wiki/Vishnu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vishnu](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.md) 

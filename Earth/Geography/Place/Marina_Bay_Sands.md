@@ -91,10 +91,6 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8
 > [Wikipedia](https://en.wikipedia.org/wiki/Marina%20Bay%20Sands) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marina_Bay_Sands](/_Standards/Earth/Geography/Place/Marina_Bay_Sands.md) 

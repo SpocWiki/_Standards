@@ -91,8 +91,6 @@ subreddit: ManufacturingPorn
 > [Wikipedia](https://en.wikipedia.org/wiki/Manufacturing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Manufacturing](/_Standards/Society/Economics/Industry/Manufacturing.md) 

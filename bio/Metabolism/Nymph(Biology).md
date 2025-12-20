@@ -42,10 +42,6 @@ Commons_category: Nymphs (biology)
 > [Wikipedia](https://en.wikipedia.org/wiki/Nymph%20(biology)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nymph(Biology)](/_Standards/bio/Metabolism/Nymph(Biology).md) 

@@ -92,9 +92,6 @@ GOST_7_75_97_code: гуд 165
 > [Wikipedia](https://en.wikipedia.org/wiki/Gujarati%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lang-guj](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-guj.md) 

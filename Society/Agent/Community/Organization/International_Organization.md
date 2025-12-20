@@ -45,8 +45,6 @@ IPTC_NewsCode: mediatopic/20000644
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20organization) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [International_Organization](/_Standards/Society/Agent/Community/Organization/International_Organization.md) 

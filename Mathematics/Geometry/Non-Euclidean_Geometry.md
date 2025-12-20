@@ -46,8 +46,6 @@ Commons_category: Non-Euclidean geometry
 > [Wikipedia](https://en.wikipedia.org/wiki/Non-Euclidean%20geometry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Non-Euclidean_Geometry](/_Standards/Mathematics/Geometry/Non-Euclidean_Geometry.md) 

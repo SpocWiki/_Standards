@@ -51,8 +51,6 @@ Commons_category: Perpetual calendars
 > [Wikipedia](https://en.wikipedia.org/wiki/Perpetual%20calendar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Perpetual_Calendar](/_Standards/ISO/Calendar/Perpetual_Calendar.md) 

@@ -21,10 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20carbonate) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sodium_Carbonate](/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.md) 

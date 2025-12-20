@@ -27,8 +27,6 @@ has_id_wikidata: Q194492
 > [Wikipedia](https://en.wikipedia.org/wiki/Gamelan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gamelan](/_Standards/Society/Communication/Media/Music/Music_Genre/Gamelan.md) 

@@ -175,8 +175,6 @@ ISNI: "0000000122818637"
 > [Wikipedia](https://en.wikipedia.org/wiki/Philipp%20Lenard) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lenard,Philipp](/_Standards/Science/Physics/Physicist/Lenard,Philipp.md) 

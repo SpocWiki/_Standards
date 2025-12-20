@@ -54,8 +54,6 @@ Library_of_Congress_Classification: KBP450
 > [Wikipedia](https://en.wikipedia.org/wiki/Hadith) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hadith](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.md) 

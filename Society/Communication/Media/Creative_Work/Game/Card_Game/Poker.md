@@ -49,8 +49,6 @@ Stack_Exchange_site_URL: https://poker.stackexchange.com
 > [Wikipedia](https://en.wikipedia.org/wiki/Poker) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Poker](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Poker.md) 

@@ -46,10 +46,6 @@ Commons_category: Political demonstrations
 > [Wikipedia](https://en.wikipedia.org/wiki/Protest) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Demonstration](/_Standards/Society/Politics/Political_Power/Demonstration.md) 

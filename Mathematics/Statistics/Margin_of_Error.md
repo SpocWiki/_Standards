@@ -30,8 +30,6 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 > [Wikipedia](https://en.wikipedia.org/wiki/Margin%20of%20error) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Margin_of_Error](/_Standards/Mathematics/Statistics/Margin_of_Error.md) 

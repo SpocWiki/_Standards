@@ -88,8 +88,6 @@ UMLS_CUI: C0085081
 > [Wikipedia](https://en.wikipedia.org/wiki/Forestry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Forestry](/_Standards/Society/Economics/Industry/Forestry.md) 

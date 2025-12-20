@@ -14,10 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/180th%20meridian) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Anti-Meridian](/_Standards/Earth/Geography/Cartography/Meridian/Anti-Meridian.md) 

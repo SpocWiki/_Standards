@@ -32,8 +32,6 @@ Commons_category: Euclidean algorithm
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20algorithm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Euclidean_Algorithm](/_Standards/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.md) 

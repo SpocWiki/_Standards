@@ -39,8 +39,6 @@ IMDb_keyword: marriage-of-convenience
 > [Wikipedia](https://en.wikipedia.org/wiki/Marriage%20of%20convenience) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Marriage_of_Convenience](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Marriage_of_Convenience.md) 

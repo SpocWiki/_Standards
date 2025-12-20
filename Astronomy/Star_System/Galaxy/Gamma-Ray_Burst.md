@@ -57,8 +57,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gamma-ray%20burst) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Gamma-Ray_Burst](/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.md) 

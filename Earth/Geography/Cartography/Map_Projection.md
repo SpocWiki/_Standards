@@ -30,9 +30,6 @@ Commons_category: Map projections
 > [Wikipedia](https://en.wikipedia.org/wiki/Map%20projection) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Map_Projection](/_Standards/Earth/Geography/Cartography/Map_Projection.md) 

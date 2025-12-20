@@ -70,8 +70,6 @@ Commons_category: Islamism
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Islamism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.md) 

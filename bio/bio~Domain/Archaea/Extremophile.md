@@ -44,8 +44,6 @@ Commons_category: Extremophiles
 > [Wikipedia](https://en.wikipedia.org/wiki/Extremophile) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Extremophile](/_Standards/bio/bio~Domain/Archaea/Extremophile.md) 

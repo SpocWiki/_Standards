@@ -291,8 +291,6 @@ EAGLE_id: decor/lod/160
 > [Wikipedia](https://en.wikipedia.org/wiki/Heracles) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Heracles](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Heracles.md) 

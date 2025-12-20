@@ -205,8 +205,6 @@ Plex_person_key: 5d77682b3c3c2a001fbcc394
 > [Wikipedia](https://en.wikipedia.org/wiki/Elvis%20Presley) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Presley,Elvis](/_Standards/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.md) 

@@ -73,8 +73,6 @@ date_of_birth: 1918-03-29T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Sam%20Walton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Walton,Sam](/_Standards/Society/Agent/Community/Organization/Business-Person/Walton,Sam.md) 

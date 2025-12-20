@@ -97,8 +97,6 @@ mass: 1.008966491595
 > [Wikipedia](https://en.wikipedia.org/wiki/Neutron) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Neutron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Neutron.md) 

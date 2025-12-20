@@ -135,10 +135,6 @@ Europeana_entity: agent/base/145331
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Dewey)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dewey,John](/_Standards/Philosophy/Philosopher/Dewey,John.md) 

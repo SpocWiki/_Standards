@@ -63,8 +63,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Night-a
 > [Wikipedia](https://en.wikipedia.org/wiki/Night)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nighttime](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.md) 

@@ -54,8 +54,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Nibelungenlied) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nibelungenlied](/_Standards/Society/Communication/Media/Writing/Book/Literature/German_Literature/Nibelungenlied.md) 

@@ -30,8 +30,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q145825-
 > [Wikipedia](https://en.wikipedia.org/wiki/Nadir) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nadir](/_Standards/Earth/2D-Directions/Nadir.md) 

@@ -120,10 +120,6 @@ H-O
 > [Wikipedia](https://en.wikipedia.org/wiki/Lactic%20acid) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Lactic_acid](/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.md) 

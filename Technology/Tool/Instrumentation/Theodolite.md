@@ -67,8 +67,6 @@ inception: 1923-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Theodolite) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Theodolite](/_Standards/Technology/Tool/Instrumentation/Theodolite.md) 

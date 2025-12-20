@@ -60,8 +60,6 @@ taxon_name: Vaccinium subg. Oxycoccus
 > [Wikipedia](https://en.wikipedia.org/wiki/Cranberry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cranberry](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry/Cranberry.md) 

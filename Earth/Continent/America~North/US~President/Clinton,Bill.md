@@ -32,8 +32,6 @@ type: private_note
 -   [has_role :: [[../US~President]] ] [is_member_of :: "[[]]" ] [created:: 1993-01-20]  [cancelled:: 2001-01-20]  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Clinton,Bill](/_Standards/Earth/Continent/America~North/US~President/Clinton,Bill.md) 

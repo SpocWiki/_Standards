@@ -68,11 +68,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Yes%20(band))
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Yes(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band).md) 

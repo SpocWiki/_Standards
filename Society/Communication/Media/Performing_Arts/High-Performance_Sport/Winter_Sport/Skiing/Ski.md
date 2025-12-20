@@ -47,8 +47,6 @@ MCN_code: 9506.11.00
 > [Wikipedia](https://en.wikipedia.org/wiki/Ski) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Ski](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski.md) 

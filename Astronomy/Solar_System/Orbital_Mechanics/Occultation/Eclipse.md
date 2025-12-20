@@ -30,21 +30,19 @@ has_id_wikidata: Q141022
 > [Wikipedia](https://en.wikipedia.org/wiki/Eclipse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eclipse](Eclipse.md) 
+### #is_/same_as :: [Eclipse](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.md) 
 
-### #is_/same_as :: [Eclipse.public](/_public/Astronomy/Solar_System/Occultation/Eclipse.public.md) 
+### #is_/same_as :: [Eclipse.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.public.md) 
 
-### #is_/same_as :: [Eclipse.internal](/_internal/Astronomy/Solar_System/Occultation/Eclipse.internal.md) 
+### #is_/same_as :: [Eclipse.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.internal.md) 
 
-### #is_/same_as :: [Eclipse.protect](/_protect/Astronomy/Solar_System/Occultation/Eclipse.protect.md) 
+### #is_/same_as :: [Eclipse.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.protect.md) 
 
-### #is_/same_as :: [Eclipse.private](/_private/Astronomy/Solar_System/Occultation/Eclipse.private.md) 
+### #is_/same_as :: [Eclipse.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.private.md) 
 
-### #is_/same_as :: [Eclipse.personal](/_personal/Astronomy/Solar_System/Occultation/Eclipse.personal.md) 
+### #is_/same_as :: [Eclipse.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.personal.md) 
 
-### #is_/same_as :: [Eclipse.secret](/_secret/Astronomy/Solar_System/Occultation/Eclipse.secret.md)
+### #is_/same_as :: [Eclipse.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.secret.md)
 

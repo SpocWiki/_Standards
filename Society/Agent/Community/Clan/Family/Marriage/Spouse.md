@@ -209,8 +209,6 @@ Range for the Objects in the [[../../../../../../schema-org/Relation/has/has_spo
 > [Wikipedia](https://en.wikipedia.org/wiki/Spouse) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Spouse](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Spouse.md) 

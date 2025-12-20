@@ -49,8 +49,6 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fast%20food) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fast_Food](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.md) 

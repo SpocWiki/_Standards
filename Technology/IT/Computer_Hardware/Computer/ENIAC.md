@@ -33,8 +33,6 @@ has_id_wikidata: Q169399
 > [Wikipedia](https://en.wikipedia.org/wiki/ENIAC) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ENIAC](/_Standards/Technology/IT/Computer_Hardware/Computer/ENIAC.md) 

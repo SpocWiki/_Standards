@@ -51,8 +51,6 @@ native_label: Sauce tartare
 > [Wikipedia](https://en.wikipedia.org/wiki/Tartar%20sauce) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tartar_Sauce](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Tartar_Sauce.md) 

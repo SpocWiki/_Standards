@@ -83,8 +83,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/VIKRI_UILYAM.h
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Vickrey) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Vickrey,William](/_Standards/Society/Economics/Economist/Vickrey,William.md) 

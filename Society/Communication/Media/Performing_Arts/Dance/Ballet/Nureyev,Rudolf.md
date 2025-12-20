@@ -105,8 +105,6 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/NUREEV_RUDOLF_HA
 > [Wikipedia](https://en.wikipedia.org/wiki/Rudolf%20Nureyev) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nureyev,Rudolf](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.md) 

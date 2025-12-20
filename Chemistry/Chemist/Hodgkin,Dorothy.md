@@ -134,8 +134,6 @@ date_of_birth: 1910-05-12T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Dorothy%20Hodgkin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hodgkin,Dorothy](/_Standards/Chemistry/Chemist/Hodgkin,Dorothy.md) 

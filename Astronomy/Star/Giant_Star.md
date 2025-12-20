@@ -22,8 +22,6 @@ Commons_category: Giant stars
 > [Wikipedia](https://en.wikipedia.org/wiki/Giant%20star) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Giant_Star](/_Standards/Astronomy/Star/Giant_Star.md) 

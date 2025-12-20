@@ -191,8 +191,6 @@ PhilPapers_topic: karl-popper
 > [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Popper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Popper,Karl](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Popper,Karl.md) 

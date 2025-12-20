@@ -69,8 +69,6 @@ Colon_Classification: T:551
 > [Wikipedia](https://en.wikipedia.org/wiki/Exam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Test](/_Standards/Society/Communication/Media/Creative_Work/Test.md) 

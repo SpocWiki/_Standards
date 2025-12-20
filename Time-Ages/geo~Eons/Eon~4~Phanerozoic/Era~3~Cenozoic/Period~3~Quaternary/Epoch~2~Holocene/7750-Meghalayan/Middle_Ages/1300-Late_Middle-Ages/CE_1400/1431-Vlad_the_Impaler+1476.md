@@ -144,8 +144,6 @@ P1015: "90364448"
 > [Wikipedia](https://en.wikipedia.org/wiki/Vlad%20the%20Impaler) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1431-Vlad_the_Impaler+1476](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.md) 

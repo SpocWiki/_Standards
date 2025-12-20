@@ -59,8 +59,6 @@ MeSH_tree_code: V02.070
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20speaking) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Public_Speaking](/_Standards/Society/Politics/Public_Speaking.md) 

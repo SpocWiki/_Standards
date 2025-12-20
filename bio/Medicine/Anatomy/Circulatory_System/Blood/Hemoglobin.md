@@ -76,8 +76,6 @@ Krugosvet_article_archived_: meditsina/gemoglobin
 > [Wikipedia](https://en.wikipedia.org/wiki/Hemoglobin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Hemoglobin](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood/Hemoglobin.md) 
