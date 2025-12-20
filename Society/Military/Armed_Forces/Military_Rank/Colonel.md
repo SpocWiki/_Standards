@@ -58,3 +58,22 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colonel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Colonel](/_Standards/Society/Military/Armed_Forces/Military_Rank/Colonel.md) 
+
+### #is_/same_as :: [Colonel.public](/_public/Society/Military/Armed_Forces/Military_Rank/Colonel.public.md) 
+
+### #is_/same_as :: [Colonel.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Colonel.internal.md) 
+
+### #is_/same_as :: [Colonel.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Colonel.protect.md) 
+
+### #is_/same_as :: [Colonel.private](/_private/Society/Military/Armed_Forces/Military_Rank/Colonel.private.md) 
+
+### #is_/same_as :: [Colonel.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Colonel.personal.md) 
+
+### #is_/same_as :: [Colonel.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Colonel.secret.md)
+

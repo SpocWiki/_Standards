@@ -47,3 +47,22 @@ markerFile: [[Timor]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Timor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Timor](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.md) 
+
+### #is_/same_as :: [Timor.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public.md) 
+
+### #is_/same_as :: [Timor.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal.md) 
+
+### #is_/same_as :: [Timor.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect.md) 
+
+### #is_/same_as :: [Timor.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private.md) 
+
+### #is_/same_as :: [Timor.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal.md) 
+
+### #is_/same_as :: [Timor.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret.md)
+

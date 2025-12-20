@@ -96,7 +96,7 @@ copyright © 1986 [Joseph M. DiTomaso](mailto:ditomaso@vegmail.ucdavis.edu).
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1986 [Joseph M. DiTomaso](mailto:ditomaso@vegmail.ucdavis.edu)
-  -------------------------
+  -------------------------
 
 
 ## Confidential Links & Embeds: 

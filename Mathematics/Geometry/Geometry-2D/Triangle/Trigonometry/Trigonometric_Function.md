@@ -59,3 +59,22 @@ Dewey_Decimal_Classification: "516.246"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trigonometric%20functions) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trigonometric_Function](/_Standards/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry/Trigonometric_Function.md) 
+
+### #is_/same_as :: [Trigonometric_Function.public](/_public/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry/Trigonometric_Function.public.md) 
+
+### #is_/same_as :: [Trigonometric_Function.internal](/_internal/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry/Trigonometric_Function.internal.md) 
+
+### #is_/same_as :: [Trigonometric_Function.protect](/_protect/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry/Trigonometric_Function.protect.md) 
+
+### #is_/same_as :: [Trigonometric_Function.private](/_private/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry/Trigonometric_Function.private.md) 
+
+### #is_/same_as :: [Trigonometric_Function.personal](/_personal/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry/Trigonometric_Function.personal.md) 
+
+### #is_/same_as :: [Trigonometric_Function.secret](/_secret/Mathematics/Geometry/Geometry-2D/Triangle/Trigonometry/Trigonometric_Function.secret.md)
+

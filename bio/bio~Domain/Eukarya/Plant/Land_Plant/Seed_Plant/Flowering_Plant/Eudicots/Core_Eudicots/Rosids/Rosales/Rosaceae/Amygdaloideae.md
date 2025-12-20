@@ -38,3 +38,22 @@ UMLS_CUI: C2818700
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amygdaloideae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Amygdaloideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae.md) 
+
+### #is_/same_as :: [Amygdaloideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae.public.md) 
+
+### #is_/same_as :: [Amygdaloideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae.internal.md) 
+
+### #is_/same_as :: [Amygdaloideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae.protect.md) 
+
+### #is_/same_as :: [Amygdaloideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae.private.md) 
+
+### #is_/same_as :: [Amygdaloideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae.personal.md) 
+
+### #is_/same_as :: [Amygdaloideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Amygdaloideae.secret.md)
+

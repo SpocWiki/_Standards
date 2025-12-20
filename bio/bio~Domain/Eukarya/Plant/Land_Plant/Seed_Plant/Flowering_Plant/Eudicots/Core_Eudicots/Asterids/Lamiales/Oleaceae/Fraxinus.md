@@ -101,3 +101,22 @@ MeSH_tree_code: B01.875.800.575.912.250.583.640.374
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fraxinus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fraxinus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Fraxinus.md) 
+
+### #is_/same_as :: [Fraxinus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Fraxinus.public.md) 
+
+### #is_/same_as :: [Fraxinus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Fraxinus.internal.md) 
+
+### #is_/same_as :: [Fraxinus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Fraxinus.protect.md) 
+
+### #is_/same_as :: [Fraxinus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Fraxinus.private.md) 
+
+### #is_/same_as :: [Fraxinus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Fraxinus.personal.md) 
+
+### #is_/same_as :: [Fraxinus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Fraxinus.secret.md)
+

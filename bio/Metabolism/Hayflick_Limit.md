@@ -28,3 +28,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hayflick%20limit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hayflick_Limit](/_Standards/bio/Metabolism/Hayflick_Limit.md) 
+
+### #is_/same_as :: [Hayflick_Limit.public](/_public/bio/Metabolism/Hayflick_Limit.public.md) 
+
+### #is_/same_as :: [Hayflick_Limit.internal](/_internal/bio/Metabolism/Hayflick_Limit.internal.md) 
+
+### #is_/same_as :: [Hayflick_Limit.protect](/_protect/bio/Metabolism/Hayflick_Limit.protect.md) 
+
+### #is_/same_as :: [Hayflick_Limit.private](/_private/bio/Metabolism/Hayflick_Limit.private.md) 
+
+### #is_/same_as :: [Hayflick_Limit.personal](/_personal/bio/Metabolism/Hayflick_Limit.personal.md) 
+
+### #is_/same_as :: [Hayflick_Limit.secret](/_secret/bio/Metabolism/Hayflick_Limit.secret.md)
+

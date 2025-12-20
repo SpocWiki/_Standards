@@ -13,3 +13,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/SIMSCRIPT)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Simscript](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Simscript.md) 
+
+### #is_/same_as :: [Simscript.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Simscript.public.md) 
+
+### #is_/same_as :: [Simscript.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Simscript.internal.md) 
+
+### #is_/same_as :: [Simscript.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Simscript.protect.md) 
+
+### #is_/same_as :: [Simscript.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Simscript.private.md) 
+
+### #is_/same_as :: [Simscript.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Simscript.personal.md) 
+
+### #is_/same_as :: [Simscript.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Simscript.secret.md)
+

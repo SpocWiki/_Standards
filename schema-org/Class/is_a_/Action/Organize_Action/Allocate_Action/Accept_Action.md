@@ -45,17 +45,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [accept_action](/_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.md) 
+### #is_/same_as :: [Accept_Action](/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.md) 
 
-### #is_/same_as :: [accept_action.public](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.public.md) 
+### #is_/same_as :: [Accept_Action.public](/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.public.md) 
 
-### #is_/same_as :: [accept_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.internal.md) 
+### #is_/same_as :: [Accept_Action.internal](/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.internal.md) 
 
-### #is_/same_as :: [accept_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.protect.md) 
+### #is_/same_as :: [Accept_Action.protect](/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.protect.md) 
 
-### #is_/same_as :: [accept_action.private](/_private/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.private.md) 
+### #is_/same_as :: [Accept_Action.private](/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.private.md) 
 
-### #is_/same_as :: [accept_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.personal.md) 
+### #is_/same_as :: [Accept_Action.personal](/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.personal.md) 
 
-### #is_/same_as :: [accept_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.secret.md)
+### #is_/same_as :: [Accept_Action.secret](/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.secret.md)
 

@@ -94,7 +94,7 @@ to the families of the order Teuthoidea. Smiths. contr. zool., 13:1-32.
   Location ::        Hawaii, Antarctic waters (2)
   Reference         drawing from rom Roper, et al., 1969 (2)
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  -------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

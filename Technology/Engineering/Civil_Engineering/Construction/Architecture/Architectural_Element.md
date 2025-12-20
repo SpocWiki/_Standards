@@ -26,3 +26,22 @@ This terminology **does _not_ include**:
 - Names for parts of buildings defined by their function (e.g. [kitchen](https://en.wikipedia.org/wiki/Kitchen "Kitchen"), [nave](https://en.wikipedia.org/wiki/Nave "Nave")); refer to: [Category:Rooms](https://en.wikipedia.org/wiki/Category:Rooms "Category:Rooms")
 - The names of styles of buildings or architectural movements (e.g. [Gothic](https://en.wikipedia.org/wiki/Gothic_architecture "Gothic architecture"), [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus "Bauhaus")); refer to: [Category:Architectural styles](https://en.wikipedia.org/wiki/Category:Architectural_styles "Category:Architectural styles")
 - Building materials or construction methods (e.g. [thatch](https://en.wikipedia.org/wiki/Thatch "Thatch")); refer to: [Category:Building materials](https://en.wikipedia.org/wiki/Category:Building_materials "Category:Building materials") 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Architectural_Element](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.md) 
+
+### #is_/same_as :: [Architectural_Element.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.public.md) 
+
+### #is_/same_as :: [Architectural_Element.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.internal.md) 
+
+### #is_/same_as :: [Architectural_Element.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.protect.md) 
+
+### #is_/same_as :: [Architectural_Element.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.private.md) 
+
+### #is_/same_as :: [Architectural_Element.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.personal.md) 
+
+### #is_/same_as :: [Architectural_Element.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.secret.md)
+

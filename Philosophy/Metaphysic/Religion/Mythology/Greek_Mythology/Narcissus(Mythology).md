@@ -32,3 +32,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Narcissus%20(mythology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Narcissus(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology).md) 
+
+### #is_/same_as :: [Narcissus(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology).public.md) 
+
+### #is_/same_as :: [Narcissus(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology).internal.md) 
+
+### #is_/same_as :: [Narcissus(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology).protect.md) 
+
+### #is_/same_as :: [Narcissus(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology).private.md) 
+
+### #is_/same_as :: [Narcissus(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology).personal.md) 
+
+### #is_/same_as :: [Narcissus(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Narcissus(Mythology).secret.md)
+

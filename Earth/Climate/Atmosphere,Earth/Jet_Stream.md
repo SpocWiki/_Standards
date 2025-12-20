@@ -36,3 +36,21 @@ Commons_category: Jet streams
 > [Wikipedia](https://en.wikipedia.org/wiki/Jet%20stream) 
 
  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jet_Stream](/_Standards/Earth/Climate/Atmosphere,Earth/Jet_Stream.md) 
+
+### #is_/same_as :: [Jet_Stream.public](/_public/Earth/Climate/Atmosphere,Earth/Jet_Stream.public.md) 
+
+### #is_/same_as :: [Jet_Stream.internal](/_internal/Earth/Climate/Atmosphere,Earth/Jet_Stream.internal.md) 
+
+### #is_/same_as :: [Jet_Stream.protect](/_protect/Earth/Climate/Atmosphere,Earth/Jet_Stream.protect.md) 
+
+### #is_/same_as :: [Jet_Stream.private](/_private/Earth/Climate/Atmosphere,Earth/Jet_Stream.private.md) 
+
+### #is_/same_as :: [Jet_Stream.personal](/_personal/Earth/Climate/Atmosphere,Earth/Jet_Stream.personal.md) 
+
+### #is_/same_as :: [Jet_Stream.secret](/_secret/Earth/Climate/Atmosphere,Earth/Jet_Stream.secret.md)
+

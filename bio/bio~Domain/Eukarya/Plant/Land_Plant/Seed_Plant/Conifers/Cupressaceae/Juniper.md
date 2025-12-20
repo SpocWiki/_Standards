@@ -65,3 +65,22 @@ NBN_System_Key: NHMSYS0000459997
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Juniper) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Juniper](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.md) 
+
+### #is_/same_as :: [Juniper.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.public.md) 
+
+### #is_/same_as :: [Juniper.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.internal.md) 
+
+### #is_/same_as :: [Juniper.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.protect.md) 
+
+### #is_/same_as :: [Juniper.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.private.md) 
+
+### #is_/same_as :: [Juniper.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.personal.md) 
+
+### #is_/same_as :: [Juniper.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Juniper.secret.md)
+

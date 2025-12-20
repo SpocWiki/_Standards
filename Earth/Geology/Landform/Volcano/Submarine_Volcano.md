@@ -41,3 +41,22 @@ Commons_category: Submarine volcanoes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Submarine%20volcano) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Submarine_Volcano](/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano.md) 
+
+### #is_/same_as :: [Submarine_Volcano.public](/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public.md) 
+
+### #is_/same_as :: [Submarine_Volcano.internal](/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal.md) 
+
+### #is_/same_as :: [Submarine_Volcano.protect](/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect.md) 
+
+### #is_/same_as :: [Submarine_Volcano.private](/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private.md) 
+
+### #is_/same_as :: [Submarine_Volcano.personal](/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal.md) 
+
+### #is_/same_as :: [Submarine_Volcano.secret](/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret.md)
+

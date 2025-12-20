@@ -40,17 +40,17 @@ A specific branch of medical science that studies the nerves and nervous system 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [neurologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.md) 
+### #is_/same_as :: [Neurologic](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurologic.md) 
 
-### #is_/same_as :: [neurologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.public.md) 
+### #is_/same_as :: [Neurologic.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurologic.public.md) 
 
-### #is_/same_as :: [neurologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.internal.md) 
+### #is_/same_as :: [Neurologic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurologic.internal.md) 
 
-### #is_/same_as :: [neurologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.protect.md) 
+### #is_/same_as :: [Neurologic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurologic.protect.md) 
 
-### #is_/same_as :: [neurologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.private.md) 
+### #is_/same_as :: [Neurologic.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurologic.private.md) 
 
-### #is_/same_as :: [neurologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.personal.md) 
+### #is_/same_as :: [Neurologic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurologic.personal.md) 
 
-### #is_/same_as :: [neurologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.secret.md)
+### #is_/same_as :: [Neurologic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurologic.secret.md)
 

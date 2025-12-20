@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nassi–Shneiderman diagram"
 ---
@@ -179,3 +179,22 @@ This is __not__ [[../Prog~Imperative/GOTO-Statement]]]], but a Loop-Exit
 	<tr><td colspan="3" >&nbsp;</td>	</tr>
 </table>
 ![[../../../../../IT/Data/Data~Graphics/Text-Diagrams/Diagram~Mermaid/MMD~Flowchart-Diagram#Function-Call|MMD~Function-Call]]]
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Structogram](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structogram.md) 
+
+### #is_/same_as :: [Structogram.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structogram.public.md) 
+
+### #is_/same_as :: [Structogram.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structogram.internal.md) 
+
+### #is_/same_as :: [Structogram.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structogram.protect.md) 
+
+### #is_/same_as :: [Structogram.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structogram.private.md) 
+
+### #is_/same_as :: [Structogram.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structogram.personal.md) 
+
+### #is_/same_as :: [Structogram.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structogram.secret.md)
+

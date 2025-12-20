@@ -80,3 +80,22 @@ Commons_category: Square root
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Square%20root) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Square_Root](/_Standards/Mathematics/Function(Math)/Square_Root.md) 
+
+### #is_/same_as :: [Square_Root.public](/_public/Mathematics/Function(Math)/Square_Root.public.md) 
+
+### #is_/same_as :: [Square_Root.internal](/_internal/Mathematics/Function(Math)/Square_Root.internal.md) 
+
+### #is_/same_as :: [Square_Root.protect](/_protect/Mathematics/Function(Math)/Square_Root.protect.md) 
+
+### #is_/same_as :: [Square_Root.private](/_private/Mathematics/Function(Math)/Square_Root.private.md) 
+
+### #is_/same_as :: [Square_Root.personal](/_personal/Mathematics/Function(Math)/Square_Root.personal.md) 
+
+### #is_/same_as :: [Square_Root.secret](/_secret/Mathematics/Function(Math)/Square_Root.secret.md)
+

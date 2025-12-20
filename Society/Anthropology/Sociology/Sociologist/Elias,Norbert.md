@@ -81,3 +81,22 @@ name_in_native_language: Norbert Elias
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Norbert%20Elias) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elias,Norbert](/_Standards/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.md) 
+
+### #is_/same_as :: [Elias,Norbert.public](/_public/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.public.md) 
+
+### #is_/same_as :: [Elias,Norbert.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.internal.md) 
+
+### #is_/same_as :: [Elias,Norbert.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.protect.md) 
+
+### #is_/same_as :: [Elias,Norbert.private](/_private/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.private.md) 
+
+### #is_/same_as :: [Elias,Norbert.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.personal.md) 
+
+### #is_/same_as :: [Elias,Norbert.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.secret.md)
+

@@ -53,3 +53,22 @@ Commons_gallery: Reed organ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pump%20organ) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pump_Organ](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Pump_Organ.md) 
+
+### #is_/same_as :: [Pump_Organ.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Pump_Organ.public.md) 
+
+### #is_/same_as :: [Pump_Organ.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Pump_Organ.internal.md) 
+
+### #is_/same_as :: [Pump_Organ.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Pump_Organ.protect.md) 
+
+### #is_/same_as :: [Pump_Organ.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Pump_Organ.private.md) 
+
+### #is_/same_as :: [Pump_Organ.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Pump_Organ.personal.md) 
+
+### #is_/same_as :: [Pump_Organ.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Pump_Organ.secret.md)
+

@@ -39,3 +39,22 @@ has_id_wikidata: Q54363
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saturn%20V) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saturn_V](/_Standards/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.md) 
+
+### #is_/same_as :: [Saturn_V.public](/_public/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.public.md) 
+
+### #is_/same_as :: [Saturn_V.internal](/_internal/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.internal.md) 
+
+### #is_/same_as :: [Saturn_V.protect](/_protect/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.protect.md) 
+
+### #is_/same_as :: [Saturn_V.private](/_private/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.private.md) 
+
+### #is_/same_as :: [Saturn_V.personal](/_personal/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.personal.md) 
+
+### #is_/same_as :: [Saturn_V.secret](/_secret/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.secret.md)
+

@@ -42,17 +42,17 @@ used_by: '[[_Standards/WikiData/WD~infrared_perception,47015713]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infrared](Infrared.md) 
+### #is_/same_as :: [Infrared](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Infrared.md) 
 
-### #is_/same_as :: [Infrared.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.public.md) 
+### #is_/same_as :: [Infrared.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Infrared.public.md) 
 
-### #is_/same_as :: [Infrared.internal](/_internal/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.internal.md) 
+### #is_/same_as :: [Infrared.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Infrared.internal.md) 
 
-### #is_/same_as :: [Infrared.protect](/_protect/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.protect.md) 
+### #is_/same_as :: [Infrared.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Infrared.protect.md) 
 
-### #is_/same_as :: [Infrared.private](/_private/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.private.md) 
+### #is_/same_as :: [Infrared.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Infrared.private.md) 
 
-### #is_/same_as :: [Infrared.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.personal.md) 
+### #is_/same_as :: [Infrared.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Infrared.personal.md) 
 
-### #is_/same_as :: [Infrared.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.secret.md)
+### #is_/same_as :: [Infrared.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Infrared.secret.md)
 

@@ -137,3 +137,22 @@ date_of_birth: 1912-01-28T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Jackson%20Pollock)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pollock,Jackson](/_Standards/Society/Communication/Media/Painting/Painter/Pollock,Jackson.md) 
+
+### #is_/same_as :: [Pollock,Jackson.public](/_public/Society/Communication/Media/Painting/Painter/Pollock,Jackson.public.md) 
+
+### #is_/same_as :: [Pollock,Jackson.internal](/_internal/Society/Communication/Media/Painting/Painter/Pollock,Jackson.internal.md) 
+
+### #is_/same_as :: [Pollock,Jackson.protect](/_protect/Society/Communication/Media/Painting/Painter/Pollock,Jackson.protect.md) 
+
+### #is_/same_as :: [Pollock,Jackson.private](/_private/Society/Communication/Media/Painting/Painter/Pollock,Jackson.private.md) 
+
+### #is_/same_as :: [Pollock,Jackson.personal](/_personal/Society/Communication/Media/Painting/Painter/Pollock,Jackson.personal.md) 
+
+### #is_/same_as :: [Pollock,Jackson.secret](/_secret/Society/Communication/Media/Painting/Painter/Pollock,Jackson.secret.md)
+

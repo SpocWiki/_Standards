@@ -69,3 +69,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Galileo%20before%20the
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inquisition) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Inquisition](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition.md) 
+
+### #is_/same_as :: [Inquisition.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition.public.md) 
+
+### #is_/same_as :: [Inquisition.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition.internal.md) 
+
+### #is_/same_as :: [Inquisition.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition.protect.md) 
+
+### #is_/same_as :: [Inquisition.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition.private.md) 
+
+### #is_/same_as :: [Inquisition.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition.personal.md) 
+
+### #is_/same_as :: [Inquisition.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition.secret.md)
+

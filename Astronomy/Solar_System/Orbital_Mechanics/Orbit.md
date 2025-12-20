@@ -74,3 +74,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/ORBITA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orbit](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbit.md) 
+
+### #is_/same_as :: [Orbit.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbit.public.md) 
+
+### #is_/same_as :: [Orbit.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbit.internal.md) 
+
+### #is_/same_as :: [Orbit.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbit.protect.md) 
+
+### #is_/same_as :: [Orbit.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbit.private.md) 
+
+### #is_/same_as :: [Orbit.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbit.personal.md) 
+
+### #is_/same_as :: [Orbit.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbit.secret.md)
+

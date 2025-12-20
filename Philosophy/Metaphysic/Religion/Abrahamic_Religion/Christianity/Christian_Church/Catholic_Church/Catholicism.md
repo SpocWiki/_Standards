@@ -64,3 +64,22 @@ short_name: kath.
 > Of its seven sacraments, the Eucharist is the principal one, celebrated liturgically in the Mass. The church teaches that through consecration by a priest, the sacramental bread and wine become the body and blood of Christ. The Virgin Mary is venerated as the Mother of God, and Queen of Heaven; she is honoured in dogmas, such as that of her Immaculate Conception, perpetual virginity and assumption into heaven, and devotions. Catholic social teaching emphasizes voluntary support for the sick, the poor and the afflicted through the corporal and spiritual works of mercy. The Catholic Church operates tens of thousands of Catholic schools, universities and colleges, hospitals and orphanages around the world, and is the largest non-governmental provider of education and health care in the world. Among its other social services are numerous charitable and humanitarian organizations.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Catholic%20Church) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Catholicism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism.md) 
+
+### #is_/same_as :: [Catholicism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism.public.md) 
+
+### #is_/same_as :: [Catholicism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism.internal.md) 
+
+### #is_/same_as :: [Catholicism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism.protect.md) 
+
+### #is_/same_as :: [Catholicism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism.private.md) 
+
+### #is_/same_as :: [Catholicism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism.personal.md) 
+
+### #is_/same_as :: [Catholicism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism.secret.md)
+

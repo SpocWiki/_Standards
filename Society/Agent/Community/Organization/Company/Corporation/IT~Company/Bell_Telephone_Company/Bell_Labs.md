@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bell_Labs](Bell_Labs.md) 
+### #is_/same_as :: [Bell_Labs](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.md) 
 
-### #is_/same_as :: [Bell_Labs.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company/Bell_Labs.public.md) 
+### #is_/same_as :: [Bell_Labs.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.public.md) 
 
-### #is_/same_as :: [Bell_Labs.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company/Bell_Labs.internal.md) 
+### #is_/same_as :: [Bell_Labs.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.internal.md) 
 
-### #is_/same_as :: [Bell_Labs.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company/Bell_Labs.protect.md) 
+### #is_/same_as :: [Bell_Labs.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.protect.md) 
 
-### #is_/same_as :: [Bell_Labs.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company/Bell_Labs.private.md) 
+### #is_/same_as :: [Bell_Labs.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.private.md) 
 
-### #is_/same_as :: [Bell_Labs.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company/Bell_Labs.personal.md) 
+### #is_/same_as :: [Bell_Labs.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.personal.md) 
 
-### #is_/same_as :: [Bell_Labs.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company/Bell_Labs.secret.md)
+### #is_/same_as :: [Bell_Labs.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bell_Telephone_Company/Bell_Labs.secret.md)
 

@@ -53,3 +53,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meal](/_Standards/Society/Economics/Home_Economics/Meal.md) 
+
+### #is_/same_as :: [Meal.public](/_public/Society/Economics/Home_Economics/Meal.public.md) 
+
+### #is_/same_as :: [Meal.internal](/_internal/Society/Economics/Home_Economics/Meal.internal.md) 
+
+### #is_/same_as :: [Meal.protect](/_protect/Society/Economics/Home_Economics/Meal.protect.md) 
+
+### #is_/same_as :: [Meal.private](/_private/Society/Economics/Home_Economics/Meal.private.md) 
+
+### #is_/same_as :: [Meal.personal](/_personal/Society/Economics/Home_Economics/Meal.personal.md) 
+
+### #is_/same_as :: [Meal.secret](/_secret/Society/Economics/Home_Economics/Meal.secret.md)
+

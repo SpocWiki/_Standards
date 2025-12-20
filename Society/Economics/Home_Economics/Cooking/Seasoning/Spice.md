@@ -60,3 +60,22 @@ Commons_category: Spices
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spice) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spice](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.md) 
+
+### #is_/same_as :: [Spice.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.public.md) 
+
+### #is_/same_as :: [Spice.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.internal.md) 
+
+### #is_/same_as :: [Spice.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.protect.md) 
+
+### #is_/same_as :: [Spice.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.private.md) 
+
+### #is_/same_as :: [Spice.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.personal.md) 
+
+### #is_/same_as :: [Spice.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice.secret.md)
+

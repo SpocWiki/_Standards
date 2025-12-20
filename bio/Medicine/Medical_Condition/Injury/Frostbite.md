@@ -62,3 +62,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frostbite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frostbite](/_Standards/bio/Medicine/Medical_Condition/Injury/Frostbite.md) 
+
+### #is_/same_as :: [Frostbite.public](/_public/bio/Medicine/Medical_Condition/Injury/Frostbite.public.md) 
+
+### #is_/same_as :: [Frostbite.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Frostbite.internal.md) 
+
+### #is_/same_as :: [Frostbite.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Frostbite.protect.md) 
+
+### #is_/same_as :: [Frostbite.private](/_private/bio/Medicine/Medical_Condition/Injury/Frostbite.private.md) 
+
+### #is_/same_as :: [Frostbite.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Frostbite.personal.md) 
+
+### #is_/same_as :: [Frostbite.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Frostbite.secret.md)
+

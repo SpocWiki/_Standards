@@ -55,3 +55,22 @@ Krugosvet_article_archived_: tehnologiya-i-promyshlennost/kraski-i-pokrytiya
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paint) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paint](/_Standards/Society/Communication/Media/Painting/Paint.md) 
+
+### #is_/same_as :: [Paint.public](/_public/Society/Communication/Media/Painting/Paint.public.md) 
+
+### #is_/same_as :: [Paint.internal](/_internal/Society/Communication/Media/Painting/Paint.internal.md) 
+
+### #is_/same_as :: [Paint.protect](/_protect/Society/Communication/Media/Painting/Paint.protect.md) 
+
+### #is_/same_as :: [Paint.private](/_private/Society/Communication/Media/Painting/Paint.private.md) 
+
+### #is_/same_as :: [Paint.personal](/_personal/Society/Communication/Media/Painting/Paint.personal.md) 
+
+### #is_/same_as :: [Paint.secret](/_secret/Society/Communication/Media/Painting/Paint.secret.md)
+

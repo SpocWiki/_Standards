@@ -40,17 +40,17 @@ OrderStatus representing that there is a problem with the order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Problem](Order_Problem.md) 
+### #is_/same_as :: [Order_Problem](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.md) 
 
-### #is_/same_as :: [order_problem.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.public.md) 
+### #is_/same_as :: [Order_Problem.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.public.md) 
 
-### #is_/same_as :: [order_problem.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.internal.md) 
+### #is_/same_as :: [Order_Problem.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.internal.md) 
 
-### #is_/same_as :: [order_problem.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.protect.md) 
+### #is_/same_as :: [Order_Problem.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.protect.md) 
 
-### #is_/same_as :: [order_problem.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.private.md) 
+### #is_/same_as :: [Order_Problem.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.private.md) 
 
-### #is_/same_as :: [order_problem.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.personal.md) 
+### #is_/same_as :: [Order_Problem.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.personal.md) 
 
-### #is_/same_as :: [order_problem.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.secret.md)
+### #is_/same_as :: [Order_Problem.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.secret.md)
 

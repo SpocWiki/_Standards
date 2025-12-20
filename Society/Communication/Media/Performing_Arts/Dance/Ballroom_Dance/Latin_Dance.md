@@ -51,3 +51,22 @@ has_id_wikidata: Q1457972
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin%20dance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Latin_Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance.md) 
+
+### #is_/same_as :: [Latin_Dance.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance.public.md) 
+
+### #is_/same_as :: [Latin_Dance.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance.internal.md) 
+
+### #is_/same_as :: [Latin_Dance.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance.protect.md) 
+
+### #is_/same_as :: [Latin_Dance.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance.private.md) 
+
+### #is_/same_as :: [Latin_Dance.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance.personal.md) 
+
+### #is_/same_as :: [Latin_Dance.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance.secret.md)
+

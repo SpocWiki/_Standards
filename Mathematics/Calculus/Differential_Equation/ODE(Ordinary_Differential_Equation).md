@@ -48,3 +48,22 @@ Commons_category: Ordinary differential equations
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ODE(Ordinary_Differential_Equation)](/_Standards/Mathematics/Calculus/Differential_Equation/ODE(Ordinary_Differential_Equation).md) 
+
+### #is_/same_as :: [ODE(Ordinary_Differential_Equation).public](/_public/Mathematics/Calculus/Differential_Equation/ODE(Ordinary_Differential_Equation).public.md) 
+
+### #is_/same_as :: [ODE(Ordinary_Differential_Equation).internal](/_internal/Mathematics/Calculus/Differential_Equation/ODE(Ordinary_Differential_Equation).internal.md) 
+
+### #is_/same_as :: [ODE(Ordinary_Differential_Equation).protect](/_protect/Mathematics/Calculus/Differential_Equation/ODE(Ordinary_Differential_Equation).protect.md) 
+
+### #is_/same_as :: [ODE(Ordinary_Differential_Equation).private](/_private/Mathematics/Calculus/Differential_Equation/ODE(Ordinary_Differential_Equation).private.md) 
+
+### #is_/same_as :: [ODE(Ordinary_Differential_Equation).personal](/_personal/Mathematics/Calculus/Differential_Equation/ODE(Ordinary_Differential_Equation).personal.md) 
+
+### #is_/same_as :: [ODE(Ordinary_Differential_Equation).secret](/_secret/Mathematics/Calculus/Differential_Equation/ODE(Ordinary_Differential_Equation).secret.md)
+

@@ -41,17 +41,17 @@ A financial product for the loaning of an amount of money, or line of credit, un
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loan_or_Credit](Loan_or_Credit.md) 
+### #is_/same_as :: [Loan_or_Credit](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.md) 
 
-### #is_/same_as :: [loan_or_credit.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.public.md) 
+### #is_/same_as :: [Loan_or_Credit.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.public.md) 
 
-### #is_/same_as :: [loan_or_credit.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.internal.md) 
+### #is_/same_as :: [Loan_or_Credit.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.internal.md) 
 
-### #is_/same_as :: [loan_or_credit.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.protect.md) 
+### #is_/same_as :: [Loan_or_Credit.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.protect.md) 
 
-### #is_/same_as :: [loan_or_credit.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.private.md) 
+### #is_/same_as :: [Loan_or_Credit.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.private.md) 
 
-### #is_/same_as :: [loan_or_credit.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.personal.md) 
+### #is_/same_as :: [Loan_or_Credit.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.personal.md) 
 
-### #is_/same_as :: [loan_or_credit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.secret.md)
+### #is_/same_as :: [Loan_or_Credit.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.secret.md)
 

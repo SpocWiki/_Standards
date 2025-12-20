@@ -35,3 +35,22 @@ Commons_category: Conscription
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Conscription) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conscription](/_Standards/Society/Military/Armed_Forces/Conscription.md) 
+
+### #is_/same_as :: [Conscription.public](/_public/Society/Military/Armed_Forces/Conscription.public.md) 
+
+### #is_/same_as :: [Conscription.internal](/_internal/Society/Military/Armed_Forces/Conscription.internal.md) 
+
+### #is_/same_as :: [Conscription.protect](/_protect/Society/Military/Armed_Forces/Conscription.protect.md) 
+
+### #is_/same_as :: [Conscription.private](/_private/Society/Military/Armed_Forces/Conscription.private.md) 
+
+### #is_/same_as :: [Conscription.personal](/_personal/Society/Military/Armed_Forces/Conscription.personal.md) 
+
+### #is_/same_as :: [Conscription.secret](/_secret/Society/Military/Armed_Forces/Conscription.secret.md)
+

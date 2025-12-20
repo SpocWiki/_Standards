@@ -57,3 +57,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/INTEGR
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Integrated%20circuit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Integrated_Circuit](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.md) 
+
+### #is_/same_as :: [Integrated_Circuit.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.public.md) 
+
+### #is_/same_as :: [Integrated_Circuit.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.internal.md) 
+
+### #is_/same_as :: [Integrated_Circuit.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.protect.md) 
+
+### #is_/same_as :: [Integrated_Circuit.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.private.md) 
+
+### #is_/same_as :: [Integrated_Circuit.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.personal.md) 
+
+### #is_/same_as :: [Integrated_Circuit.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Integrated_Circuit.secret.md)
+

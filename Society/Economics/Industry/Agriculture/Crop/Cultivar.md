@@ -41,3 +41,22 @@ short_name: cv.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cultivar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cultivar](/_Standards/Society/Economics/Industry/Agriculture/Crop/Cultivar.md) 
+
+### #is_/same_as :: [Cultivar.public](/_public/Society/Economics/Industry/Agriculture/Crop/Cultivar.public.md) 
+
+### #is_/same_as :: [Cultivar.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Cultivar.internal.md) 
+
+### #is_/same_as :: [Cultivar.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Cultivar.protect.md) 
+
+### #is_/same_as :: [Cultivar.private](/_private/Society/Economics/Industry/Agriculture/Crop/Cultivar.private.md) 
+
+### #is_/same_as :: [Cultivar.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Cultivar.personal.md) 
+
+### #is_/same_as :: [Cultivar.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Cultivar.secret.md)
+

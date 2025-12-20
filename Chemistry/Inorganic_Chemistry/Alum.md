@@ -52,17 +52,17 @@ ATC_code: S01XA07
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alum](Alum.md) 
+### #is_/same_as :: [Alum](/_Standards/Chemistry/Inorganic_Chemistry/Alum.md) 
 
-### #is_/same_as :: [Alum.public](/_public/Chemistry/inOrganic/Alum.public.md) 
+### #is_/same_as :: [Alum.public](/_public/Chemistry/Inorganic_Chemistry/Alum.public.md) 
 
-### #is_/same_as :: [Alum.internal](/_internal/Chemistry/inOrganic/Alum.internal.md) 
+### #is_/same_as :: [Alum.internal](/_internal/Chemistry/Inorganic_Chemistry/Alum.internal.md) 
 
-### #is_/same_as :: [Alum.protect](/_protect/Chemistry/inOrganic/Alum.protect.md) 
+### #is_/same_as :: [Alum.protect](/_protect/Chemistry/Inorganic_Chemistry/Alum.protect.md) 
 
-### #is_/same_as :: [Alum.private](/_private/Chemistry/inOrganic/Alum.private.md) 
+### #is_/same_as :: [Alum.private](/_private/Chemistry/Inorganic_Chemistry/Alum.private.md) 
 
-### #is_/same_as :: [Alum.personal](/_personal/Chemistry/inOrganic/Alum.personal.md) 
+### #is_/same_as :: [Alum.personal](/_personal/Chemistry/Inorganic_Chemistry/Alum.personal.md) 
 
-### #is_/same_as :: [Alum.secret](/_secret/Chemistry/inOrganic/Alum.secret.md)
+### #is_/same_as :: [Alum.secret](/_secret/Chemistry/Inorganic_Chemistry/Alum.secret.md)
 

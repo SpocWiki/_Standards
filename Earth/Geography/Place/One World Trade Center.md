@@ -115,3 +115,22 @@ inception: 2014-11-03T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/One%20World%20Trade%20Center) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [One World Trade Center](/_Standards/Earth/Geography/Place/One World Trade Center.md) 
+
+### #is_/same_as :: [One World Trade Center.public](/_public/Earth/Geography/Place/One World Trade Center.public.md) 
+
+### #is_/same_as :: [One World Trade Center.internal](/_internal/Earth/Geography/Place/One World Trade Center.internal.md) 
+
+### #is_/same_as :: [One World Trade Center.protect](/_protect/Earth/Geography/Place/One World Trade Center.protect.md) 
+
+### #is_/same_as :: [One World Trade Center.private](/_private/Earth/Geography/Place/One World Trade Center.private.md) 
+
+### #is_/same_as :: [One World Trade Center.personal](/_personal/Earth/Geography/Place/One World Trade Center.personal.md) 
+
+### #is_/same_as :: [One World Trade Center.secret](/_secret/Earth/Geography/Place/One World Trade Center.secret.md)
+

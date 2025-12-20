@@ -47,3 +47,22 @@ IPTC_NewsCode: mediatopic/20000930
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89p%C3%A9e) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Épée](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Épée.md) 
+
+### #is_/same_as :: [Épée.public](/_public/Society/Military/Military_Engineering/Weapon/Sword/Épée.public.md) 
+
+### #is_/same_as :: [Épée.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword/Épée.internal.md) 
+
+### #is_/same_as :: [Épée.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword/Épée.protect.md) 
+
+### #is_/same_as :: [Épée.private](/_private/Society/Military/Military_Engineering/Weapon/Sword/Épée.private.md) 
+
+### #is_/same_as :: [Épée.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword/Épée.personal.md) 
+
+### #is_/same_as :: [Épée.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword/Épée.secret.md)
+

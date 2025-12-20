@@ -31,3 +31,22 @@ MeSH_tree_code: G08.686.210
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fertility) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fertility](/_Standards/bio/Reproduction/Fertility.md) 
+
+### #is_/same_as :: [Fertility.public](/_public/bio/Reproduction/Fertility.public.md) 
+
+### #is_/same_as :: [Fertility.internal](/_internal/bio/Reproduction/Fertility.internal.md) 
+
+### #is_/same_as :: [Fertility.protect](/_protect/bio/Reproduction/Fertility.protect.md) 
+
+### #is_/same_as :: [Fertility.private](/_private/bio/Reproduction/Fertility.private.md) 
+
+### #is_/same_as :: [Fertility.personal](/_personal/bio/Reproduction/Fertility.personal.md) 
+
+### #is_/same_as :: [Fertility.secret](/_secret/bio/Reproduction/Fertility.secret.md)
+

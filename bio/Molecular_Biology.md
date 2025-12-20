@@ -20,3 +20,22 @@ has_id_wikidata: Q7202
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molecular%20biology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Molecular_Biology](/_Standards/bio/Molecular_Biology.md) 
+
+### #is_/same_as :: [Molecular_Biology.public](/_public/bio/Molecular_Biology.public.md) 
+
+### #is_/same_as :: [Molecular_Biology.internal](/_internal/bio/Molecular_Biology.internal.md) 
+
+### #is_/same_as :: [Molecular_Biology.protect](/_protect/bio/Molecular_Biology.protect.md) 
+
+### #is_/same_as :: [Molecular_Biology.private](/_private/bio/Molecular_Biology.private.md) 
+
+### #is_/same_as :: [Molecular_Biology.personal](/_personal/bio/Molecular_Biology.personal.md) 
+
+### #is_/same_as :: [Molecular_Biology.secret](/_secret/bio/Molecular_Biology.secret.md)
+

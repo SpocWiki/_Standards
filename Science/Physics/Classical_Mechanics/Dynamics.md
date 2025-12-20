@@ -36,3 +36,22 @@ Krugosvet_article: nauka_i_tehnika/fizika/DINAMIKA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dynamics%20(mechanics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dynamics](/_Standards/Science/Physics/Classical_Mechanics/Dynamics.md) 
+
+### #is_/same_as :: [Dynamics.public](/_public/Science/Physics/Classical_Mechanics/Dynamics.public.md) 
+
+### #is_/same_as :: [Dynamics.internal](/_internal/Science/Physics/Classical_Mechanics/Dynamics.internal.md) 
+
+### #is_/same_as :: [Dynamics.protect](/_protect/Science/Physics/Classical_Mechanics/Dynamics.protect.md) 
+
+### #is_/same_as :: [Dynamics.private](/_private/Science/Physics/Classical_Mechanics/Dynamics.private.md) 
+
+### #is_/same_as :: [Dynamics.personal](/_personal/Science/Physics/Classical_Mechanics/Dynamics.personal.md) 
+
+### #is_/same_as :: [Dynamics.secret](/_secret/Science/Physics/Classical_Mechanics/Dynamics.secret.md)
+

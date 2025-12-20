@@ -52,3 +52,22 @@ Commons_category: Shovels
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shovel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shovel](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.md) 
+
+### #is_/same_as :: [Shovel.public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.public.md) 
+
+### #is_/same_as :: [Shovel.internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.internal.md) 
+
+### #is_/same_as :: [Shovel.protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.protect.md) 
+
+### #is_/same_as :: [Shovel.private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.private.md) 
+
+### #is_/same_as :: [Shovel.personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.personal.md) 
+
+### #is_/same_as :: [Shovel.secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.secret.md)
+

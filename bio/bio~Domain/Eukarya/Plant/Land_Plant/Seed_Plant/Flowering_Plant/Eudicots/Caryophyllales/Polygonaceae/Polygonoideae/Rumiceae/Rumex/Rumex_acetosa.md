@@ -87,3 +87,22 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=32518
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sorrel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rumex_acetosa](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.md) 
+
+### #is_/same_as :: [Rumex_acetosa.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.public.md) 
+
+### #is_/same_as :: [Rumex_acetosa.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.internal.md) 
+
+### #is_/same_as :: [Rumex_acetosa.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.protect.md) 
+
+### #is_/same_as :: [Rumex_acetosa.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.private.md) 
+
+### #is_/same_as :: [Rumex_acetosa.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.personal.md) 
+
+### #is_/same_as :: [Rumex_acetosa.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex/Rumex_acetosa.secret.md)
+

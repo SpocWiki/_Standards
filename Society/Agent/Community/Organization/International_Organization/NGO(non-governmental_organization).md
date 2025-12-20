@@ -84,16 +84,17 @@ DPLA_subject_term:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [N[NGO(non-governmental_organization)](NGO(non-governmental_organization).md)
-### #is_/same_as :: [NGO.public](/_public/International/NGO.public.md) 
+### #is_/same_as :: [NGO(non-governmental_organization)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).md) 
 
-### #is_/same_as :: [NGO.internal](/_internal/International/NGO.internal.md) 
+### #is_/same_as :: [NGO(non-governmental_organization).public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).public.md) 
 
-### #is_/same_as :: [NGO.protect](/_protect/International/NGO.protect.md) 
+### #is_/same_as :: [NGO(non-governmental_organization).internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).internal.md) 
 
-### #is_/same_as :: [NGO.private](/_private/International/NGO.private.md) 
+### #is_/same_as :: [NGO(non-governmental_organization).protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).protect.md) 
 
-### #is_/same_as :: [NGO.personal](/_personal/International/NGO.personal.md) 
+### #is_/same_as :: [NGO(non-governmental_organization).private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).private.md) 
 
-### #is_/same_as :: [NGO.secret](/_secret/International/NGO.secret.md)
+### #is_/same_as :: [NGO(non-governmental_organization).personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).personal.md) 
+
+### #is_/same_as :: [NGO(non-governmental_organization).secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).secret.md)
 

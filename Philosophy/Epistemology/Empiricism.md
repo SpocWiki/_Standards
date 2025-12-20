@@ -47,3 +47,22 @@ MeSH_tree_code: K01.752.667.400
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Empiricism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Empiricism](/_Standards/Philosophy/Epistemology/Empiricism.md) 
+
+### #is_/same_as :: [Empiricism.public](/_public/Philosophy/Epistemology/Empiricism.public.md) 
+
+### #is_/same_as :: [Empiricism.internal](/_internal/Philosophy/Epistemology/Empiricism.internal.md) 
+
+### #is_/same_as :: [Empiricism.protect](/_protect/Philosophy/Epistemology/Empiricism.protect.md) 
+
+### #is_/same_as :: [Empiricism.private](/_private/Philosophy/Epistemology/Empiricism.private.md) 
+
+### #is_/same_as :: [Empiricism.personal](/_personal/Philosophy/Epistemology/Empiricism.personal.md) 
+
+### #is_/same_as :: [Empiricism.secret](/_secret/Philosophy/Epistemology/Empiricism.secret.md)
+

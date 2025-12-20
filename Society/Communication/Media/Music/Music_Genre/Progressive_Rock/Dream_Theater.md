@@ -43,3 +43,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dream_Theater](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Dream_Theater.md) 
+
+### #is_/same_as :: [Dream_Theater.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Dream_Theater.public.md) 
+
+### #is_/same_as :: [Dream_Theater.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Dream_Theater.internal.md) 
+
+### #is_/same_as :: [Dream_Theater.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Dream_Theater.protect.md) 
+
+### #is_/same_as :: [Dream_Theater.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Dream_Theater.private.md) 
+
+### #is_/same_as :: [Dream_Theater.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Dream_Theater.personal.md) 
+
+### #is_/same_as :: [Dream_Theater.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Dream_Theater.secret.md)
+

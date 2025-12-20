@@ -62,3 +62,22 @@ the latter is the Property to assign the Value for this Dimension
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Longitude) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Longitude](/_Standards/Dimension/Angular_Dimension/Longitude.md) 
+
+### #is_/same_as :: [Longitude.public](/_public/Dimension/Angular_Dimension/Longitude.public.md) 
+
+### #is_/same_as :: [Longitude.internal](/_internal/Dimension/Angular_Dimension/Longitude.internal.md) 
+
+### #is_/same_as :: [Longitude.protect](/_protect/Dimension/Angular_Dimension/Longitude.protect.md) 
+
+### #is_/same_as :: [Longitude.private](/_private/Dimension/Angular_Dimension/Longitude.private.md) 
+
+### #is_/same_as :: [Longitude.personal](/_personal/Dimension/Angular_Dimension/Longitude.personal.md) 
+
+### #is_/same_as :: [Longitude.secret](/_secret/Dimension/Angular_Dimension/Longitude.secret.md)
+

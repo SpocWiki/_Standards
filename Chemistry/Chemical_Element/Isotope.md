@@ -52,3 +52,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/IZOTOPI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Isotope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Isotope](/_Standards/Chemistry/Chemical_Element/Isotope.md) 
+
+### #is_/same_as :: [Isotope.public](/_public/Chemistry/Chemical_Element/Isotope.public.md) 
+
+### #is_/same_as :: [Isotope.internal](/_internal/Chemistry/Chemical_Element/Isotope.internal.md) 
+
+### #is_/same_as :: [Isotope.protect](/_protect/Chemistry/Chemical_Element/Isotope.protect.md) 
+
+### #is_/same_as :: [Isotope.private](/_private/Chemistry/Chemical_Element/Isotope.private.md) 
+
+### #is_/same_as :: [Isotope.personal](/_personal/Chemistry/Chemical_Element/Isotope.personal.md) 
+
+### #is_/same_as :: [Isotope.secret](/_secret/Chemistry/Chemical_Element/Isotope.secret.md)
+

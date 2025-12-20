@@ -44,3 +44,22 @@ subreddit: JusticeServed
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Justice) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Justice](/_Standards/Society/Law/Justice.md) 
+
+### #is_/same_as :: [Justice.public](/_public/Society/Law/Justice.public.md) 
+
+### #is_/same_as :: [Justice.internal](/_internal/Society/Law/Justice.internal.md) 
+
+### #is_/same_as :: [Justice.protect](/_protect/Society/Law/Justice.protect.md) 
+
+### #is_/same_as :: [Justice.private](/_private/Society/Law/Justice.private.md) 
+
+### #is_/same_as :: [Justice.personal](/_personal/Society/Law/Justice.personal.md) 
+
+### #is_/same_as :: [Justice.secret](/_secret/Society/Law/Justice.secret.md)
+

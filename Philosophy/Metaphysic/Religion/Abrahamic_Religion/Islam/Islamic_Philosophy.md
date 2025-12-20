@@ -43,3 +43,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ARABSKAYA_FILOSOFIYA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamic%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Islamic_Philosophy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.md) 
+
+### #is_/same_as :: [Islamic_Philosophy.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.public.md) 
+
+### #is_/same_as :: [Islamic_Philosophy.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.internal.md) 
+
+### #is_/same_as :: [Islamic_Philosophy.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.protect.md) 
+
+### #is_/same_as :: [Islamic_Philosophy.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.private.md) 
+
+### #is_/same_as :: [Islamic_Philosophy.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.personal.md) 
+
+### #is_/same_as :: [Islamic_Philosophy.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.secret.md)
+

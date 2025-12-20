@@ -101,3 +101,22 @@ inception: -1500-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vedas)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vedas](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.md) 
+
+### #is_/same_as :: [Vedas.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.public.md) 
+
+### #is_/same_as :: [Vedas.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.internal.md) 
+
+### #is_/same_as :: [Vedas.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.protect.md) 
+
+### #is_/same_as :: [Vedas.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.private.md) 
+
+### #is_/same_as :: [Vedas.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.personal.md) 
+
+### #is_/same_as :: [Vedas.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas.secret.md)
+

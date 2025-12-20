@@ -41,3 +41,22 @@ PhilPapers_topic: history-of-physics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20physics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Physics](/_Standards/Science/Physics/History_of_Physics.md) 
+
+### #is_/same_as :: [History_of_Physics.public](/_public/Science/Physics/History_of_Physics.public.md) 
+
+### #is_/same_as :: [History_of_Physics.internal](/_internal/Science/Physics/History_of_Physics.internal.md) 
+
+### #is_/same_as :: [History_of_Physics.protect](/_protect/Science/Physics/History_of_Physics.protect.md) 
+
+### #is_/same_as :: [History_of_Physics.private](/_private/Science/Physics/History_of_Physics.private.md) 
+
+### #is_/same_as :: [History_of_Physics.personal](/_personal/Science/Physics/History_of_Physics.personal.md) 
+
+### #is_/same_as :: [History_of_Physics.secret](/_secret/Science/Physics/History_of_Physics.secret.md)
+

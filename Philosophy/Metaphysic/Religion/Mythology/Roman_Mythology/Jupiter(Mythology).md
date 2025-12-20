@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jupiter%20(god)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jupiter(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).md) 
+
+### #is_/same_as :: [Jupiter(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).public.md) 
+
+### #is_/same_as :: [Jupiter(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).internal.md) 
+
+### #is_/same_as :: [Jupiter(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).protect.md) 
+
+### #is_/same_as :: [Jupiter(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).private.md) 
+
+### #is_/same_as :: [Jupiter(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).personal.md) 
+
+### #is_/same_as :: [Jupiter(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).secret.md)
+

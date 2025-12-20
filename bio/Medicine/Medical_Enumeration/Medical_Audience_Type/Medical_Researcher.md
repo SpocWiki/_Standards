@@ -38,19 +38,20 @@ Medical researchers.
 
 [ #is_/enum_of :: [[../MedicalAudienceType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [medical_researcher](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.md) 
+### #is_/same_as :: [Medical_Researcher](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.md) 
 
-### #is_/same_as :: [medical_researcher.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.public.md) 
+### #is_/same_as :: [Medical_Researcher.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.public.md) 
 
-### #is_/same_as :: [medical_researcher.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.internal.md) 
+### #is_/same_as :: [Medical_Researcher.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.internal.md) 
 
-### #is_/same_as :: [medical_researcher.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.protect.md) 
+### #is_/same_as :: [Medical_Researcher.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.protect.md) 
 
-### #is_/same_as :: [medical_researcher.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.private.md) 
+### #is_/same_as :: [Medical_Researcher.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.private.md) 
 
-### #is_/same_as :: [medical_researcher.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.personal.md) 
+### #is_/same_as :: [Medical_Researcher.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.personal.md) 
 
-### #is_/same_as :: [medical_researcher.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.secret.md)
+### #is_/same_as :: [Medical_Researcher.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.secret.md)
 

@@ -37,17 +37,17 @@ Abdomen clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [abdomen](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.md) 
+### #is_/same_as :: [Abdomen_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Abdomen_Exam.md) 
 
-### #is_/same_as :: [abdomen.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.public.md) 
+### #is_/same_as :: [Abdomen_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Abdomen_Exam.public.md) 
 
-### #is_/same_as :: [abdomen.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.internal.md) 
+### #is_/same_as :: [Abdomen_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Abdomen_Exam.internal.md) 
 
-### #is_/same_as :: [abdomen.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.protect.md) 
+### #is_/same_as :: [Abdomen_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Abdomen_Exam.protect.md) 
 
-### #is_/same_as :: [abdomen.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.private.md) 
+### #is_/same_as :: [Abdomen_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Abdomen_Exam.private.md) 
 
-### #is_/same_as :: [abdomen.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.personal.md) 
+### #is_/same_as :: [Abdomen_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Abdomen_Exam.personal.md) 
 
-### #is_/same_as :: [abdomen.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.secret.md)
+### #is_/same_as :: [Abdomen_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Abdomen_Exam.secret.md)
 

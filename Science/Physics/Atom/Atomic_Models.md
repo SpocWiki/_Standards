@@ -27,3 +27,22 @@ main_subject:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atomic_Models](/_Standards/Science/Physics/Atom/Atomic_Models.md) 
+
+### #is_/same_as :: [Atomic_Models.public](/_public/Science/Physics/Atom/Atomic_Models.public.md) 
+
+### #is_/same_as :: [Atomic_Models.internal](/_internal/Science/Physics/Atom/Atomic_Models.internal.md) 
+
+### #is_/same_as :: [Atomic_Models.protect](/_protect/Science/Physics/Atom/Atomic_Models.protect.md) 
+
+### #is_/same_as :: [Atomic_Models.private](/_private/Science/Physics/Atom/Atomic_Models.private.md) 
+
+### #is_/same_as :: [Atomic_Models.personal](/_personal/Science/Physics/Atom/Atomic_Models.personal.md) 
+
+### #is_/same_as :: [Atomic_Models.secret](/_secret/Science/Physics/Atom/Atomic_Models.secret.md)
+

@@ -71,3 +71,22 @@ name_in_native_language: Seymour Cray
 Cray Computers were individually manufactured at a cost between 15 and 80 million Dollars. 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cray,Seymour](/_Standards/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.md) 
+
+### #is_/same_as :: [Cray,Seymour.public](/_public/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.public.md) 
+
+### #is_/same_as :: [Cray,Seymour.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.internal.md) 
+
+### #is_/same_as :: [Cray,Seymour.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.protect.md) 
+
+### #is_/same_as :: [Cray,Seymour.private](/_private/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.private.md) 
+
+### #is_/same_as :: [Cray,Seymour.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.personal.md) 
+
+### #is_/same_as :: [Cray,Seymour.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Cray,Seymour.secret.md)
+

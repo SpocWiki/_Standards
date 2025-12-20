@@ -73,3 +73,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Copyright) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Copyright](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Copyright.md) 
+
+### #is_/same_as :: [Copyright.public](/_public/Society/Law/Civil_Law/Intellectual_Property/Copyright.public.md) 
+
+### #is_/same_as :: [Copyright.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property/Copyright.internal.md) 
+
+### #is_/same_as :: [Copyright.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property/Copyright.protect.md) 
+
+### #is_/same_as :: [Copyright.private](/_private/Society/Law/Civil_Law/Intellectual_Property/Copyright.private.md) 
+
+### #is_/same_as :: [Copyright.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property/Copyright.personal.md) 
+
+### #is_/same_as :: [Copyright.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property/Copyright.secret.md)
+

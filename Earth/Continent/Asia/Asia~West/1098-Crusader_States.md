@@ -44,3 +44,22 @@ Commons_category: Crusader states
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crusader%20states) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1098-Crusader_States](/_Standards/Earth/Continent/Asia/Asia~West/1098-Crusader_States.md) 
+
+### #is_/same_as :: [1098-Crusader_States.public](/_public/Earth/Continent/Asia/Asia~West/1098-Crusader_States.public.md) 
+
+### #is_/same_as :: [1098-Crusader_States.internal](/_internal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.internal.md) 
+
+### #is_/same_as :: [1098-Crusader_States.protect](/_protect/Earth/Continent/Asia/Asia~West/1098-Crusader_States.protect.md) 
+
+### #is_/same_as :: [1098-Crusader_States.private](/_private/Earth/Continent/Asia/Asia~West/1098-Crusader_States.private.md) 
+
+### #is_/same_as :: [1098-Crusader_States.personal](/_personal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.personal.md) 
+
+### #is_/same_as :: [1098-Crusader_States.secret](/_secret/Earth/Continent/Asia/Asia~West/1098-Crusader_States.secret.md)
+

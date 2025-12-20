@@ -159,3 +159,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Subrahmanyan%20Chandra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Subrahmanyan%20Chandrasekhar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chandrasekhar,Subrahmanyan](/_Standards/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.md) 
+
+### #is_/same_as :: [Chandrasekhar,Subrahmanyan.public](/_public/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.public.md) 
+
+### #is_/same_as :: [Chandrasekhar,Subrahmanyan.internal](/_internal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.internal.md) 
+
+### #is_/same_as :: [Chandrasekhar,Subrahmanyan.protect](/_protect/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.protect.md) 
+
+### #is_/same_as :: [Chandrasekhar,Subrahmanyan.private](/_private/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.private.md) 
+
+### #is_/same_as :: [Chandrasekhar,Subrahmanyan.personal](/_personal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.personal.md) 
+
+### #is_/same_as :: [Chandrasekhar,Subrahmanyan.secret](/_secret/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.secret.md)
+

@@ -34,17 +34,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acrobatics](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Acrobatics.md) 
+### #is_/same_as :: [Acrobatics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.md) 
 
-### #is_/same_as :: [Acrobatics.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Acrobatics.public.md) 
+### #is_/same_as :: [Acrobatics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.public.md) 
 
-### #is_/same_as :: [Acrobatics.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Acrobatics.internal.md) 
+### #is_/same_as :: [Acrobatics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.internal.md) 
 
-### #is_/same_as :: [Acrobatics.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Acrobatics.protect.md) 
+### #is_/same_as :: [Acrobatics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.protect.md) 
 
-### #is_/same_as :: [Acrobatics.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Acrobatics.private.md) 
+### #is_/same_as :: [Acrobatics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.private.md) 
 
-### #is_/same_as :: [Acrobatics.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Acrobatics.personal.md) 
+### #is_/same_as :: [Acrobatics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.personal.md) 
 
-### #is_/same_as :: [Acrobatics.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Acrobatics.secret.md)
+### #is_/same_as :: [Acrobatics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.secret.md)
 

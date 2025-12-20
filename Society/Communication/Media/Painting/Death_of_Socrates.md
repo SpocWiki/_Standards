@@ -80,3 +80,22 @@ inception: 1787-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Death%20of%20Socrates) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Death_of_Socrates](/_Standards/Society/Communication/Media/Painting/Death_of_Socrates.md) 
+
+### #is_/same_as :: [Death_of_Socrates.public](/_public/Society/Communication/Media/Painting/Death_of_Socrates.public.md) 
+
+### #is_/same_as :: [Death_of_Socrates.internal](/_internal/Society/Communication/Media/Painting/Death_of_Socrates.internal.md) 
+
+### #is_/same_as :: [Death_of_Socrates.protect](/_protect/Society/Communication/Media/Painting/Death_of_Socrates.protect.md) 
+
+### #is_/same_as :: [Death_of_Socrates.private](/_private/Society/Communication/Media/Painting/Death_of_Socrates.private.md) 
+
+### #is_/same_as :: [Death_of_Socrates.personal](/_personal/Society/Communication/Media/Painting/Death_of_Socrates.personal.md) 
+
+### #is_/same_as :: [Death_of_Socrates.secret](/_secret/Society/Communication/Media/Painting/Death_of_Socrates.secret.md)
+

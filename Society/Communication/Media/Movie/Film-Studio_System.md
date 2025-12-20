@@ -69,3 +69,22 @@ subclass_of: "[[_Standards/WikiData/WD~filmmaking,932586]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Studio%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Film-Studio_System](/_Standards/Society/Communication/Media/Movie/Film-Studio_System.md) 
+
+### #is_/same_as :: [Film-Studio_System.public](/_public/Society/Communication/Media/Movie/Film-Studio_System.public.md) 
+
+### #is_/same_as :: [Film-Studio_System.internal](/_internal/Society/Communication/Media/Movie/Film-Studio_System.internal.md) 
+
+### #is_/same_as :: [Film-Studio_System.protect](/_protect/Society/Communication/Media/Movie/Film-Studio_System.protect.md) 
+
+### #is_/same_as :: [Film-Studio_System.private](/_private/Society/Communication/Media/Movie/Film-Studio_System.private.md) 
+
+### #is_/same_as :: [Film-Studio_System.personal](/_personal/Society/Communication/Media/Movie/Film-Studio_System.personal.md) 
+
+### #is_/same_as :: [Film-Studio_System.secret](/_secret/Society/Communication/Media/Movie/Film-Studio_System.secret.md)
+

@@ -62,3 +62,22 @@ IMDb_keyword: water-clock
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20clock) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Water_Clock](/_Standards/Technology/Tool/Instrumentation/Water_Clock.md) 
+
+### #is_/same_as :: [Water_Clock.public](/_public/Technology/Tool/Instrumentation/Water_Clock.public.md) 
+
+### #is_/same_as :: [Water_Clock.internal](/_internal/Technology/Tool/Instrumentation/Water_Clock.internal.md) 
+
+### #is_/same_as :: [Water_Clock.protect](/_protect/Technology/Tool/Instrumentation/Water_Clock.protect.md) 
+
+### #is_/same_as :: [Water_Clock.private](/_private/Technology/Tool/Instrumentation/Water_Clock.private.md) 
+
+### #is_/same_as :: [Water_Clock.personal](/_personal/Technology/Tool/Instrumentation/Water_Clock.personal.md) 
+
+### #is_/same_as :: [Water_Clock.secret](/_secret/Technology/Tool/Instrumentation/Water_Clock.secret.md)
+

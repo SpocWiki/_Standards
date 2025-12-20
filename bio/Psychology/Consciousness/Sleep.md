@@ -87,3 +87,22 @@ Krugosvet_article_archived_: medicina/SON.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sleep) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sleep](/_Standards/bio/Psychology/Consciousness/Sleep.md) 
+
+### #is_/same_as :: [Sleep.public](/_public/bio/Psychology/Consciousness/Sleep.public.md) 
+
+### #is_/same_as :: [Sleep.internal](/_internal/bio/Psychology/Consciousness/Sleep.internal.md) 
+
+### #is_/same_as :: [Sleep.protect](/_protect/bio/Psychology/Consciousness/Sleep.protect.md) 
+
+### #is_/same_as :: [Sleep.private](/_private/bio/Psychology/Consciousness/Sleep.private.md) 
+
+### #is_/same_as :: [Sleep.personal](/_personal/bio/Psychology/Consciousness/Sleep.personal.md) 
+
+### #is_/same_as :: [Sleep.secret](/_secret/bio/Psychology/Consciousness/Sleep.secret.md)
+

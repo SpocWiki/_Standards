@@ -57,3 +57,22 @@ Commons_category: Safer sex
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Safe%20sex) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Safe_Sex](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.md) 
+
+### #is_/same_as :: [Safe_Sex.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.public.md) 
+
+### #is_/same_as :: [Safe_Sex.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.internal.md) 
+
+### #is_/same_as :: [Safe_Sex.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.protect.md) 
+
+### #is_/same_as :: [Safe_Sex.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.private.md) 
+
+### #is_/same_as :: [Safe_Sex.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.personal.md) 
+
+### #is_/same_as :: [Safe_Sex.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Safe_Sex.secret.md)
+

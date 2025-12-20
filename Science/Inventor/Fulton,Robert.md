@@ -97,3 +97,22 @@ date_of_birth: 1765-11-14T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Fulton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fulton,Robert](/_Standards/Science/Inventor/Fulton,Robert.md) 
+
+### #is_/same_as :: [Fulton,Robert.public](/_public/Science/Inventor/Fulton,Robert.public.md) 
+
+### #is_/same_as :: [Fulton,Robert.internal](/_internal/Science/Inventor/Fulton,Robert.internal.md) 
+
+### #is_/same_as :: [Fulton,Robert.protect](/_protect/Science/Inventor/Fulton,Robert.protect.md) 
+
+### #is_/same_as :: [Fulton,Robert.private](/_private/Science/Inventor/Fulton,Robert.private.md) 
+
+### #is_/same_as :: [Fulton,Robert.personal](/_personal/Science/Inventor/Fulton,Robert.personal.md) 
+
+### #is_/same_as :: [Fulton,Robert.secret](/_secret/Science/Inventor/Fulton,Robert.secret.md)
+

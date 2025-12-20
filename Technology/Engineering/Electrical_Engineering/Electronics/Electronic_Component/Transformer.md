@@ -43,17 +43,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transformer](/_Standards/Technology/Electronics/Electronic_Component/Transformer.md) 
+### #is_/same_as :: [Transformer](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transformer.md) 
 
-### #is_/same_as :: [Transformer.public](/_public/Technology/Electronics/Electronic_Component/Transformer.public.md) 
+### #is_/same_as :: [Transformer.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transformer.public.md) 
 
-### #is_/same_as :: [Transformer.internal](/_internal/Technology/Electronics/Electronic_Component/Transformer.internal.md) 
+### #is_/same_as :: [Transformer.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transformer.internal.md) 
 
-### #is_/same_as :: [Transformer.protect](/_protect/Technology/Electronics/Electronic_Component/Transformer.protect.md) 
+### #is_/same_as :: [Transformer.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transformer.protect.md) 
 
-### #is_/same_as :: [Transformer.private](/_private/Technology/Electronics/Electronic_Component/Transformer.private.md) 
+### #is_/same_as :: [Transformer.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transformer.private.md) 
 
-### #is_/same_as :: [Transformer.personal](/_personal/Technology/Electronics/Electronic_Component/Transformer.personal.md) 
+### #is_/same_as :: [Transformer.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transformer.personal.md) 
 
-### #is_/same_as :: [Transformer.secret](/_secret/Technology/Electronics/Electronic_Component/Transformer.secret.md)
+### #is_/same_as :: [Transformer.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transformer.secret.md)
 

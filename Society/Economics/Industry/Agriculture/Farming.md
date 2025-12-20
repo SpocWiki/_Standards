@@ -58,3 +58,22 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Farming](/_Standards/Society/Economics/Industry/Agriculture/Farming.md) 
+
+### #is_/same_as :: [Farming.public](/_public/Society/Economics/Industry/Agriculture/Farming.public.md) 
+
+### #is_/same_as :: [Farming.internal](/_internal/Society/Economics/Industry/Agriculture/Farming.internal.md) 
+
+### #is_/same_as :: [Farming.protect](/_protect/Society/Economics/Industry/Agriculture/Farming.protect.md) 
+
+### #is_/same_as :: [Farming.private](/_private/Society/Economics/Industry/Agriculture/Farming.private.md) 
+
+### #is_/same_as :: [Farming.personal](/_personal/Society/Economics/Industry/Agriculture/Farming.personal.md) 
+
+### #is_/same_as :: [Farming.secret](/_secret/Society/Economics/Industry/Agriculture/Farming.secret.md)
+

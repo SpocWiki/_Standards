@@ -131,7 +131,7 @@ Comparative Zoology at Harvard College, in Cambridge, 43(1):1-72.
 
 Young, R. E. 1972. The systematics and areal distribution of pelagic
 cephalopods from the seas off Southern California. Smithson. Contr.
-Zool., 97: 1-159.
+Zool., 97: 1-159.
 
 
 ## Confidential Links & Embeds: 

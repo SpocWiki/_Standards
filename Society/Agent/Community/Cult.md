@@ -59,3 +59,22 @@ subreddit: cults
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cult) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cult](/_Standards/Society/Agent/Community/Cult.md) 
+
+### #is_/same_as :: [Cult.public](/_public/Society/Agent/Community/Cult.public.md) 
+
+### #is_/same_as :: [Cult.internal](/_internal/Society/Agent/Community/Cult.internal.md) 
+
+### #is_/same_as :: [Cult.protect](/_protect/Society/Agent/Community/Cult.protect.md) 
+
+### #is_/same_as :: [Cult.private](/_private/Society/Agent/Community/Cult.private.md) 
+
+### #is_/same_as :: [Cult.personal](/_personal/Society/Agent/Community/Cult.personal.md) 
+
+### #is_/same_as :: [Cult.secret](/_secret/Society/Agent/Community/Cult.secret.md)
+

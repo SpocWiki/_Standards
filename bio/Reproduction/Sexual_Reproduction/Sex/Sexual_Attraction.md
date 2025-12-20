@@ -47,3 +47,22 @@ Commons_category: Sexual attraction
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20attraction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sexual_Attraction](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.md) 
+
+### #is_/same_as :: [Sexual_Attraction.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.public.md) 
+
+### #is_/same_as :: [Sexual_Attraction.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.internal.md) 
+
+### #is_/same_as :: [Sexual_Attraction.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.protect.md) 
+
+### #is_/same_as :: [Sexual_Attraction.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.private.md) 
+
+### #is_/same_as :: [Sexual_Attraction.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.personal.md) 
+
+### #is_/same_as :: [Sexual_Attraction.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction.secret.md)
+

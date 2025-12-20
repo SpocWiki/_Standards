@@ -72,3 +72,22 @@ date_of_birth: 1921-05-03T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sugar%20Ray%20Robinson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Robinson,Sugar_Ray](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.md) 
+
+### #is_/same_as :: [Robinson,Sugar_Ray.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.public.md) 
+
+### #is_/same_as :: [Robinson,Sugar_Ray.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.internal.md) 
+
+### #is_/same_as :: [Robinson,Sugar_Ray.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.protect.md) 
+
+### #is_/same_as :: [Robinson,Sugar_Ray.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.private.md) 
+
+### #is_/same_as :: [Robinson,Sugar_Ray.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.personal.md) 
+
+### #is_/same_as :: [Robinson,Sugar_Ray.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Robinson,Sugar_Ray.secret.md)
+

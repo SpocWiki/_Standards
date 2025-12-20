@@ -41,3 +41,21 @@ Wolfram_Language_entity_code: Entity["FoodType", "Gin"]
 > Gin is produced from a wide range of herbal ingredients in a number of distinct styles and brands. After juniper, gin tends to be flavoured with herbs, spices, floral or fruit flavours, or often a combination. It is commonly mixed with tonic water in a gin and tonic. Gin is also used as a base spirit to produce flavoured, gin-based liqueurs, for example sloe gin, traditionally produced by the addition of fruit, flavourings and sugar.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gin)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gin](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.md) 
+
+### #is_/same_as :: [Gin.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.public.md) 
+
+### #is_/same_as :: [Gin.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.internal.md) 
+
+### #is_/same_as :: [Gin.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.protect.md) 
+
+### #is_/same_as :: [Gin.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.private.md) 
+
+### #is_/same_as :: [Gin.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.personal.md) 
+
+### #is_/same_as :: [Gin.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Gin.secret.md)
+

@@ -42,3 +42,22 @@ It was designed to fire into masses of infantry in the [[../../../../../Time-Age
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Howitzer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Howitzer](/_Standards/Society/Military/Military_Engineering/Weapon/Artillery/Howitzer.md) 
+
+### #is_/same_as :: [Howitzer.public](/_public/Society/Military/Military_Engineering/Weapon/Artillery/Howitzer.public.md) 
+
+### #is_/same_as :: [Howitzer.internal](/_internal/Society/Military/Military_Engineering/Weapon/Artillery/Howitzer.internal.md) 
+
+### #is_/same_as :: [Howitzer.protect](/_protect/Society/Military/Military_Engineering/Weapon/Artillery/Howitzer.protect.md) 
+
+### #is_/same_as :: [Howitzer.private](/_private/Society/Military/Military_Engineering/Weapon/Artillery/Howitzer.private.md) 
+
+### #is_/same_as :: [Howitzer.personal](/_personal/Society/Military/Military_Engineering/Weapon/Artillery/Howitzer.personal.md) 
+
+### #is_/same_as :: [Howitzer.secret](/_secret/Society/Military/Military_Engineering/Weapon/Artillery/Howitzer.secret.md)
+

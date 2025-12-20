@@ -105,17 +105,17 @@ GOST_7_75_97_code: мар 440
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-mr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.md) 
+### #is_/same_as :: [Lang-mar](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar.md) 
 
-### #is_/same_as :: [Lang-mr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.public.md) 
+### #is_/same_as :: [Lang-mar.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar.public.md) 
 
-### #is_/same_as :: [Lang-mr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.internal.md) 
+### #is_/same_as :: [Lang-mar.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar.internal.md) 
 
-### #is_/same_as :: [Lang-mr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.protect.md) 
+### #is_/same_as :: [Lang-mar.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar.protect.md) 
 
-### #is_/same_as :: [Lang-mr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.private.md) 
+### #is_/same_as :: [Lang-mar.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar.private.md) 
 
-### #is_/same_as :: [Lang-mr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.personal.md) 
+### #is_/same_as :: [Lang-mar.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar.personal.md) 
 
-### #is_/same_as :: [Lang-mr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.secret.md)
+### #is_/same_as :: [Lang-mar.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mar.secret.md)
 

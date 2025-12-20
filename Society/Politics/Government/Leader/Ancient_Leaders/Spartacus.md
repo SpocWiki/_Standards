@@ -104,3 +104,22 @@ Krugosvet_article_archived_: istoriya/SPARTAK.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spartacus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spartacus](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.md) 
+
+### #is_/same_as :: [Spartacus.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.public.md) 
+
+### #is_/same_as :: [Spartacus.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.internal.md) 
+
+### #is_/same_as :: [Spartacus.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.protect.md) 
+
+### #is_/same_as :: [Spartacus.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.private.md) 
+
+### #is_/same_as :: [Spartacus.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.personal.md) 
+
+### #is_/same_as :: [Spartacus.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.secret.md)
+

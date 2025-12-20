@@ -42,3 +42,22 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Declination) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Declination](/_Standards/Astronomy/Astronomical_Coordinate_System/Declination.md) 
+
+### #is_/same_as :: [Declination.public](/_public/Astronomy/Astronomical_Coordinate_System/Declination.public.md) 
+
+### #is_/same_as :: [Declination.internal](/_internal/Astronomy/Astronomical_Coordinate_System/Declination.internal.md) 
+
+### #is_/same_as :: [Declination.protect](/_protect/Astronomy/Astronomical_Coordinate_System/Declination.protect.md) 
+
+### #is_/same_as :: [Declination.private](/_private/Astronomy/Astronomical_Coordinate_System/Declination.private.md) 
+
+### #is_/same_as :: [Declination.personal](/_personal/Astronomy/Astronomical_Coordinate_System/Declination.personal.md) 
+
+### #is_/same_as :: [Declination.secret](/_secret/Astronomy/Astronomical_Coordinate_System/Declination.secret.md)
+

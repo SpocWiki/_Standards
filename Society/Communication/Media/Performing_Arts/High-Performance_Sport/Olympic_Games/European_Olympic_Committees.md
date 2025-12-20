@@ -94,3 +94,22 @@ X_Twitter_username: eocmedia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Olympic%20Committees) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [European_Olympic_Committees](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/European_Olympic_Committees.md) 
+
+### #is_/same_as :: [European_Olympic_Committees.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/European_Olympic_Committees.public.md) 
+
+### #is_/same_as :: [European_Olympic_Committees.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/European_Olympic_Committees.internal.md) 
+
+### #is_/same_as :: [European_Olympic_Committees.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/European_Olympic_Committees.protect.md) 
+
+### #is_/same_as :: [European_Olympic_Committees.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/European_Olympic_Committees.private.md) 
+
+### #is_/same_as :: [European_Olympic_Committees.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/European_Olympic_Committees.personal.md) 
+
+### #is_/same_as :: [European_Olympic_Committees.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/European_Olympic_Committees.secret.md)
+

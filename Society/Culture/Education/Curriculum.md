@@ -19,3 +19,22 @@ has_id_wikidata: Q207137
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Curriculum) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Curriculum](/_Standards/Society/Culture/Education/Curriculum.md) 
+
+### #is_/same_as :: [Curriculum.public](/_public/Society/Culture/Education/Curriculum.public.md) 
+
+### #is_/same_as :: [Curriculum.internal](/_internal/Society/Culture/Education/Curriculum.internal.md) 
+
+### #is_/same_as :: [Curriculum.protect](/_protect/Society/Culture/Education/Curriculum.protect.md) 
+
+### #is_/same_as :: [Curriculum.private](/_private/Society/Culture/Education/Curriculum.private.md) 
+
+### #is_/same_as :: [Curriculum.personal](/_personal/Society/Culture/Education/Curriculum.personal.md) 
+
+### #is_/same_as :: [Curriculum.secret](/_secret/Society/Culture/Education/Curriculum.secret.md)
+

@@ -96,17 +96,17 @@ U_S_National_Archives_Identifier: 10636616
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Cancer.md) 
+### #is_/same_as :: [Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer.md) 
 
-### #is_/same_as :: [Cancer.public](/_public/bio/Medicine/Medical_Condition/Disease/Cancer.public.md) 
+### #is_/same_as :: [Cancer.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer.public.md) 
 
-### #is_/same_as :: [Cancer.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Cancer.internal.md) 
+### #is_/same_as :: [Cancer.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer.internal.md) 
 
-### #is_/same_as :: [Cancer.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Cancer.protect.md) 
+### #is_/same_as :: [Cancer.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer.protect.md) 
 
-### #is_/same_as :: [Cancer.private](/_private/bio/Medicine/Medical_Condition/Disease/Cancer.private.md) 
+### #is_/same_as :: [Cancer.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer.private.md) 
 
-### #is_/same_as :: [Cancer.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Cancer.personal.md) 
+### #is_/same_as :: [Cancer.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer.personal.md) 
 
-### #is_/same_as :: [Cancer.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Cancer.secret.md)
+### #is_/same_as :: [Cancer.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer.secret.md)
 

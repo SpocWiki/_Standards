@@ -72,3 +72,22 @@ Krugosvet_article: muzyka/kontrabas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Double%20bass) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Double_Bass](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.md) 
+
+### #is_/same_as :: [Double_Bass.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.public.md) 
+
+### #is_/same_as :: [Double_Bass.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.internal.md) 
+
+### #is_/same_as :: [Double_Bass.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.protect.md) 
+
+### #is_/same_as :: [Double_Bass.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.private.md) 
+
+### #is_/same_as :: [Double_Bass.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.personal.md) 
+
+### #is_/same_as :: [Double_Bass.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Double_Bass.secret.md)
+

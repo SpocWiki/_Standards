@@ -166,3 +166,22 @@ ISNI: 000000011023110X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Born) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Born,Max](/_Standards/Science/Physics/Physicist/Born,Max.md) 
+
+### #is_/same_as :: [Born,Max.public](/_public/Science/Physics/Physicist/Born,Max.public.md) 
+
+### #is_/same_as :: [Born,Max.internal](/_internal/Science/Physics/Physicist/Born,Max.internal.md) 
+
+### #is_/same_as :: [Born,Max.protect](/_protect/Science/Physics/Physicist/Born,Max.protect.md) 
+
+### #is_/same_as :: [Born,Max.private](/_private/Science/Physics/Physicist/Born,Max.private.md) 
+
+### #is_/same_as :: [Born,Max.personal](/_personal/Science/Physics/Physicist/Born,Max.personal.md) 
+
+### #is_/same_as :: [Born,Max.secret](/_secret/Science/Physics/Physicist/Born,Max.secret.md)
+

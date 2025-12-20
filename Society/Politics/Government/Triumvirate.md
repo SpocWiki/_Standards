@@ -37,3 +37,22 @@ OmegaWiki_Defined_Meaning: "1186968"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triumvirate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Triumvirate](/_Standards/Society/Politics/Government/Triumvirate.md) 
+
+### #is_/same_as :: [Triumvirate.public](/_public/Society/Politics/Government/Triumvirate.public.md) 
+
+### #is_/same_as :: [Triumvirate.internal](/_internal/Society/Politics/Government/Triumvirate.internal.md) 
+
+### #is_/same_as :: [Triumvirate.protect](/_protect/Society/Politics/Government/Triumvirate.protect.md) 
+
+### #is_/same_as :: [Triumvirate.private](/_private/Society/Politics/Government/Triumvirate.private.md) 
+
+### #is_/same_as :: [Triumvirate.personal](/_personal/Society/Politics/Government/Triumvirate.personal.md) 
+
+### #is_/same_as :: [Triumvirate.secret](/_secret/Society/Politics/Government/Triumvirate.secret.md)
+

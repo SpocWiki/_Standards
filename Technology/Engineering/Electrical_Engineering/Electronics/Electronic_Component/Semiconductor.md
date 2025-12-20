@@ -47,17 +47,17 @@ UMLS_CUI: C0036623
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semiconductor](/_Standards/Technology/Electronics/Electronic_Component/Semiconductor.md) 
+### #is_/same_as :: [Semiconductor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.md) 
 
-### #is_/same_as :: [Semiconductor.public](/_public/Technology/Electronics/Electronic_Component/Semiconductor.public.md) 
+### #is_/same_as :: [Semiconductor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.public.md) 
 
-### #is_/same_as :: [Semiconductor.internal](/_internal/Technology/Electronics/Electronic_Component/Semiconductor.internal.md) 
+### #is_/same_as :: [Semiconductor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.internal.md) 
 
-### #is_/same_as :: [Semiconductor.protect](/_protect/Technology/Electronics/Electronic_Component/Semiconductor.protect.md) 
+### #is_/same_as :: [Semiconductor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.protect.md) 
 
-### #is_/same_as :: [Semiconductor.private](/_private/Technology/Electronics/Electronic_Component/Semiconductor.private.md) 
+### #is_/same_as :: [Semiconductor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.private.md) 
 
-### #is_/same_as :: [Semiconductor.personal](/_personal/Technology/Electronics/Electronic_Component/Semiconductor.personal.md) 
+### #is_/same_as :: [Semiconductor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.personal.md) 
 
-### #is_/same_as :: [Semiconductor.secret](/_secret/Technology/Electronics/Electronic_Component/Semiconductor.secret.md)
+### #is_/same_as :: [Semiconductor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Semiconductor.secret.md)
 

@@ -107,19 +107,20 @@ The day of the week between Friday and Sunday.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saturday) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saturday](Saturday.md) 
+### #is_/same_as :: [Saturday](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.md) 
 
-### #is_/same_as :: [saturday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.public.md) 
+### #is_/same_as :: [Saturday.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.public.md) 
 
-### #is_/same_as :: [saturday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.internal.md) 
+### #is_/same_as :: [Saturday.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.internal.md) 
 
-### #is_/same_as :: [saturday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.protect.md) 
+### #is_/same_as :: [Saturday.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.protect.md) 
 
-### #is_/same_as :: [saturday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.private.md) 
+### #is_/same_as :: [Saturday.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.private.md) 
 
-### #is_/same_as :: [saturday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.personal.md) 
+### #is_/same_as :: [Saturday.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.personal.md) 
 
-### #is_/same_as :: [saturday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.secret.md)
+### #is_/same_as :: [Saturday.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.secret.md)
 

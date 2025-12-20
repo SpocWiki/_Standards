@@ -36,3 +36,22 @@ GeoNames_feature_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guyot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guyot](/_Standards/Earth/Geology/Landform/Guyot.md) 
+
+### #is_/same_as :: [Guyot.public](/_public/Earth/Geology/Landform/Guyot.public.md) 
+
+### #is_/same_as :: [Guyot.internal](/_internal/Earth/Geology/Landform/Guyot.internal.md) 
+
+### #is_/same_as :: [Guyot.protect](/_protect/Earth/Geology/Landform/Guyot.protect.md) 
+
+### #is_/same_as :: [Guyot.private](/_private/Earth/Geology/Landform/Guyot.private.md) 
+
+### #is_/same_as :: [Guyot.personal](/_personal/Earth/Geology/Landform/Guyot.personal.md) 
+
+### #is_/same_as :: [Guyot.secret](/_secret/Earth/Geology/Landform/Guyot.secret.md)
+

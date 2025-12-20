@@ -28,3 +28,22 @@ MeSH_tree_code: H01.181.590
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computational%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computational_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Computational_Chemistry.md) 
+
+### #is_/same_as :: [Computational_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Computational_Chemistry.public.md) 
+
+### #is_/same_as :: [Computational_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.internal.md) 
+
+### #is_/same_as :: [Computational_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Computational_Chemistry.protect.md) 
+
+### #is_/same_as :: [Computational_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Computational_Chemistry.private.md) 
+
+### #is_/same_as :: [Computational_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.personal.md) 
+
+### #is_/same_as :: [Computational_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Computational_Chemistry.secret.md)
+

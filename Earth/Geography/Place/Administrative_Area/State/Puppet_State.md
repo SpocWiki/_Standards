@@ -43,3 +43,22 @@ Commons_category: Puppet states
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Puppet%20state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Puppet_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Puppet_State.md) 
+
+### #is_/same_as :: [Puppet_State.public](/_public/Earth/Geography/Place/Administrative_Area/State/Puppet_State.public.md) 
+
+### #is_/same_as :: [Puppet_State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.internal.md) 
+
+### #is_/same_as :: [Puppet_State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Puppet_State.protect.md) 
+
+### #is_/same_as :: [Puppet_State.private](/_private/Earth/Geography/Place/Administrative_Area/State/Puppet_State.private.md) 
+
+### #is_/same_as :: [Puppet_State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.personal.md) 
+
+### #is_/same_as :: [Puppet_State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Puppet_State.secret.md)
+

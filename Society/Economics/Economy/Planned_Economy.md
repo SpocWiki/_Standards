@@ -38,3 +38,22 @@ Dewey_Decimal_Classification: "330.124"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Planned%20economy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Planned_Economy](/_Standards/Society/Economics/Economy/Planned_Economy.md) 
+
+### #is_/same_as :: [Planned_Economy.public](/_public/Society/Economics/Economy/Planned_Economy.public.md) 
+
+### #is_/same_as :: [Planned_Economy.internal](/_internal/Society/Economics/Economy/Planned_Economy.internal.md) 
+
+### #is_/same_as :: [Planned_Economy.protect](/_protect/Society/Economics/Economy/Planned_Economy.protect.md) 
+
+### #is_/same_as :: [Planned_Economy.private](/_private/Society/Economics/Economy/Planned_Economy.private.md) 
+
+### #is_/same_as :: [Planned_Economy.personal](/_personal/Society/Economics/Economy/Planned_Economy.personal.md) 
+
+### #is_/same_as :: [Planned_Economy.secret](/_secret/Society/Economics/Economy/Planned_Economy.secret.md)
+

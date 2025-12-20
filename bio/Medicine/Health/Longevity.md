@@ -48,3 +48,22 @@ Library_of_Congress_Classification: QH528.5
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Longevity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Longevity](/_Standards/bio/Medicine/Health/Longevity.md) 
+
+### #is_/same_as :: [Longevity.public](/_public/bio/Medicine/Health/Longevity.public.md) 
+
+### #is_/same_as :: [Longevity.internal](/_internal/bio/Medicine/Health/Longevity.internal.md) 
+
+### #is_/same_as :: [Longevity.protect](/_protect/bio/Medicine/Health/Longevity.protect.md) 
+
+### #is_/same_as :: [Longevity.private](/_private/bio/Medicine/Health/Longevity.private.md) 
+
+### #is_/same_as :: [Longevity.personal](/_personal/bio/Medicine/Health/Longevity.personal.md) 
+
+### #is_/same_as :: [Longevity.secret](/_secret/bio/Medicine/Health/Longevity.secret.md)
+

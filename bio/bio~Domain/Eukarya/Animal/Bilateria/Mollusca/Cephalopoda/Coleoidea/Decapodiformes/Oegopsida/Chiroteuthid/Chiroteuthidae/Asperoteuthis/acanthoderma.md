@@ -121,7 +121,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Scientific Name ::  Asperoteuthis acanthoderma
   Creator           J. R. Schroeder
   Copyright ::         © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
-  -------------------------------------------------------------------------
+  -------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

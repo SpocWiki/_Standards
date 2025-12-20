@@ -40,3 +40,22 @@ Commons_category: Divisions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Division%20(military)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Division(Military)](/_Standards/Society/Military/Military_Organization/Division(Military).md) 
+
+### #is_/same_as :: [Division(Military).public](/_public/Society/Military/Military_Organization/Division(Military).public.md) 
+
+### #is_/same_as :: [Division(Military).internal](/_internal/Society/Military/Military_Organization/Division(Military).internal.md) 
+
+### #is_/same_as :: [Division(Military).protect](/_protect/Society/Military/Military_Organization/Division(Military).protect.md) 
+
+### #is_/same_as :: [Division(Military).private](/_private/Society/Military/Military_Organization/Division(Military).private.md) 
+
+### #is_/same_as :: [Division(Military).personal](/_personal/Society/Military/Military_Organization/Division(Military).personal.md) 
+
+### #is_/same_as :: [Division(Military).secret](/_secret/Society/Military/Military_Organization/Division(Military).secret.md)
+

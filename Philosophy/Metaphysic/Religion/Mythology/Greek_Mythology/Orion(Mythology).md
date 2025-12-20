@@ -44,3 +44,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orion(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Orion(Mythology).md) 
+
+### #is_/same_as :: [Orion(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Orion(Mythology).public.md) 
+
+### #is_/same_as :: [Orion(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Orion(Mythology).internal.md) 
+
+### #is_/same_as :: [Orion(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Orion(Mythology).protect.md) 
+
+### #is_/same_as :: [Orion(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Orion(Mythology).private.md) 
+
+### #is_/same_as :: [Orion(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Orion(Mythology).personal.md) 
+
+### #is_/same_as :: [Orion(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Orion(Mythology).secret.md)
+

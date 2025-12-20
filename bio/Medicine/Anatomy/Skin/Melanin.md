@@ -58,3 +58,22 @@ Commons_category: Melanins
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Melanin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Melanin](/_Standards/bio/Medicine/Anatomy/Skin/Melanin.md) 
+
+### #is_/same_as :: [Melanin.public](/_public/bio/Medicine/Anatomy/Skin/Melanin.public.md) 
+
+### #is_/same_as :: [Melanin.internal](/_internal/bio/Medicine/Anatomy/Skin/Melanin.internal.md) 
+
+### #is_/same_as :: [Melanin.protect](/_protect/bio/Medicine/Anatomy/Skin/Melanin.protect.md) 
+
+### #is_/same_as :: [Melanin.private](/_private/bio/Medicine/Anatomy/Skin/Melanin.private.md) 
+
+### #is_/same_as :: [Melanin.personal](/_personal/bio/Medicine/Anatomy/Skin/Melanin.personal.md) 
+
+### #is_/same_as :: [Melanin.secret](/_secret/bio/Medicine/Anatomy/Skin/Melanin.secret.md)
+

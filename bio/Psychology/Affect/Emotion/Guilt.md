@@ -46,3 +46,22 @@ Commons_category: Guilt (emotion)
 > [Wikipedia](https://en.wikipedia.org/wiki/Guilt%20(emotion)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guilt](/_Standards/bio/Psychology/Affect/Emotion/Guilt.md) 
+
+### #is_/same_as :: [Guilt.public](/_public/bio/Psychology/Affect/Emotion/Guilt.public.md) 
+
+### #is_/same_as :: [Guilt.internal](/_internal/bio/Psychology/Affect/Emotion/Guilt.internal.md) 
+
+### #is_/same_as :: [Guilt.protect](/_protect/bio/Psychology/Affect/Emotion/Guilt.protect.md) 
+
+### #is_/same_as :: [Guilt.private](/_private/bio/Psychology/Affect/Emotion/Guilt.private.md) 
+
+### #is_/same_as :: [Guilt.personal](/_personal/bio/Psychology/Affect/Emotion/Guilt.personal.md) 
+
+### #is_/same_as :: [Guilt.secret](/_secret/bio/Psychology/Affect/Emotion/Guilt.secret.md)
+

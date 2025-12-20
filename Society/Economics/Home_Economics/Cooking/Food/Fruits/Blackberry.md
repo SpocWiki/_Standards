@@ -57,17 +57,17 @@ USDA_NDB_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blackberry](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.md) 
+### #is_/same_as :: [Blackberry](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.md) 
 
-### #is_/same_as :: [Blackberry.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.public.md) 
+### #is_/same_as :: [Blackberry.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.public.md) 
 
-### #is_/same_as :: [Blackberry.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.internal.md) 
+### #is_/same_as :: [Blackberry.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.internal.md) 
 
-### #is_/same_as :: [Blackberry.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.protect.md) 
+### #is_/same_as :: [Blackberry.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.protect.md) 
 
-### #is_/same_as :: [Blackberry.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.private.md) 
+### #is_/same_as :: [Blackberry.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.private.md) 
 
-### #is_/same_as :: [Blackberry.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.personal.md) 
+### #is_/same_as :: [Blackberry.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.personal.md) 
 
-### #is_/same_as :: [Blackberry.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.secret.md)
+### #is_/same_as :: [Blackberry.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.secret.md)
 

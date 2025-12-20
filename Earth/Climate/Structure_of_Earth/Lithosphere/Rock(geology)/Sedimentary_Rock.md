@@ -63,3 +63,22 @@ EAGLE_id: material/lod/55
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sedimentary%20rock) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sedimentary_Rock](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.md) 
+
+### #is_/same_as :: [Sedimentary_Rock.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.public.md) 
+
+### #is_/same_as :: [Sedimentary_Rock.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.internal.md) 
+
+### #is_/same_as :: [Sedimentary_Rock.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.protect.md) 
+
+### #is_/same_as :: [Sedimentary_Rock.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.private.md) 
+
+### #is_/same_as :: [Sedimentary_Rock.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.personal.md) 
+
+### #is_/same_as :: [Sedimentary_Rock.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.secret.md)
+

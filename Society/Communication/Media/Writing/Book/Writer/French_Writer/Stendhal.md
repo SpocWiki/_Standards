@@ -131,3 +131,22 @@ Regensburg_Classification: IG 7250
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stendhal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stendhal](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.md) 
+
+### #is_/same_as :: [Stendhal.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.public.md) 
+
+### #is_/same_as :: [Stendhal.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.internal.md) 
+
+### #is_/same_as :: [Stendhal.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.protect.md) 
+
+### #is_/same_as :: [Stendhal.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.private.md) 
+
+### #is_/same_as :: [Stendhal.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.personal.md) 
+
+### #is_/same_as :: [Stendhal.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Stendhal.secret.md)
+

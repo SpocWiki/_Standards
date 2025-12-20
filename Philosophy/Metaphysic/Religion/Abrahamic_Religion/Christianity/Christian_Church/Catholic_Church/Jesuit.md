@@ -124,3 +124,22 @@ OpenStreetMap_tag: community=SJ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jesuits) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jesuit](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit.md) 
+
+### #is_/same_as :: [Jesuit.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit.public.md) 
+
+### #is_/same_as :: [Jesuit.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit.internal.md) 
+
+### #is_/same_as :: [Jesuit.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit.protect.md) 
+
+### #is_/same_as :: [Jesuit.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit.private.md) 
+
+### #is_/same_as :: [Jesuit.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit.personal.md) 
+
+### #is_/same_as :: [Jesuit.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit.secret.md)
+

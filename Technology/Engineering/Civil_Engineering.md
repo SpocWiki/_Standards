@@ -66,17 +66,17 @@ Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/STROITELSTVO_GRAZHD
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_Engineering](Civil_Engineering.md) 
+### #is_/same_as :: [Civil_Engineering](/_Standards/Technology/Engineering/Civil_Engineering.md) 
 
-### #is_/same_as :: [Civil_Engineering.public](/_public/Technology/Civil_Engineering.public.md) 
+### #is_/same_as :: [Civil_Engineering.public](/_public/Technology/Engineering/Civil_Engineering.public.md) 
 
-### #is_/same_as :: [Civil_Engineering.internal](/_internal/Technology/Civil_Engineering.internal.md) 
+### #is_/same_as :: [Civil_Engineering.internal](/_internal/Technology/Engineering/Civil_Engineering.internal.md) 
 
-### #is_/same_as :: [Civil_Engineering.protect](/_protect/Technology/Civil_Engineering.protect.md) 
+### #is_/same_as :: [Civil_Engineering.protect](/_protect/Technology/Engineering/Civil_Engineering.protect.md) 
 
-### #is_/same_as :: [Civil_Engineering.private](/_private/Technology/Civil_Engineering.private.md) 
+### #is_/same_as :: [Civil_Engineering.private](/_private/Technology/Engineering/Civil_Engineering.private.md) 
 
-### #is_/same_as :: [Civil_Engineering.personal](/_personal/Technology/Civil_Engineering.personal.md) 
+### #is_/same_as :: [Civil_Engineering.personal](/_personal/Technology/Engineering/Civil_Engineering.personal.md) 
 
-### #is_/same_as :: [Civil_Engineering.secret](/_secret/Technology/Civil_Engineering.secret.md)
+### #is_/same_as :: [Civil_Engineering.secret](/_secret/Technology/Engineering/Civil_Engineering.secret.md)
 

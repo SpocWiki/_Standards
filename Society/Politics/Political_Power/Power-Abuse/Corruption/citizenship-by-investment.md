@@ -39,3 +39,22 @@ These countries do not offer direct citizenship but grant it faster than usual i
 - **U.S. Sanctions:** The U.S. has raised concerns about Caribbean CBI programs being used for money laundering and imposed stricter visa policies.
 - **Russia & China Restrictions:** Many CBI programs exclude applicants from sanctioned countries, including Russia and Iran.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [citizenship-by-investment](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.md) 
+
+### #is_/same_as :: [citizenship-by-investment.public](/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.public.md) 
+
+### #is_/same_as :: [citizenship-by-investment.internal](/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.internal.md) 
+
+### #is_/same_as :: [citizenship-by-investment.protect](/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.protect.md) 
+
+### #is_/same_as :: [citizenship-by-investment.private](/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.private.md) 
+
+### #is_/same_as :: [citizenship-by-investment.personal](/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.personal.md) 
+
+### #is_/same_as :: [citizenship-by-investment.secret](/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.secret.md)
+

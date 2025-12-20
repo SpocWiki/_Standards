@@ -55,3 +55,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brigade) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brigade](/_Standards/Society/Military/Military_Organization/Brigade.md) 
+
+### #is_/same_as :: [Brigade.public](/_public/Society/Military/Military_Organization/Brigade.public.md) 
+
+### #is_/same_as :: [Brigade.internal](/_internal/Society/Military/Military_Organization/Brigade.internal.md) 
+
+### #is_/same_as :: [Brigade.protect](/_protect/Society/Military/Military_Organization/Brigade.protect.md) 
+
+### #is_/same_as :: [Brigade.private](/_private/Society/Military/Military_Organization/Brigade.private.md) 
+
+### #is_/same_as :: [Brigade.personal](/_personal/Society/Military/Military_Organization/Brigade.personal.md) 
+
+### #is_/same_as :: [Brigade.secret](/_secret/Society/Military/Military_Organization/Brigade.secret.md)
+

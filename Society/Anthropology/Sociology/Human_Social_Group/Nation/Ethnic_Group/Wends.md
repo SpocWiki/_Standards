@@ -52,3 +52,22 @@ Commons_category: Wends
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wends) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wends](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.md) 
+
+### #is_/same_as :: [Wends.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.public.md) 
+
+### #is_/same_as :: [Wends.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.internal.md) 
+
+### #is_/same_as :: [Wends.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.protect.md) 
+
+### #is_/same_as :: [Wends.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.private.md) 
+
+### #is_/same_as :: [Wends.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.personal.md) 
+
+### #is_/same_as :: [Wends.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Wends.secret.md)
+

@@ -78,17 +78,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q177612 p:P2370/psn:P2370 [wikibase:quantit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steradian](/_Standards/Unit/SI-Unit/Steradian.md) 
+### #is_/same_as :: [Steradian](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Steradian.md) 
 
-### #is_/same_as :: [Steradian.public](/_public/Unit/SI-Unit/Steradian.public.md) 
+### #is_/same_as :: [Steradian.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Steradian.public.md) 
 
-### #is_/same_as :: [Steradian.internal](/_internal/Unit/SI-Unit/Steradian.internal.md) 
+### #is_/same_as :: [Steradian.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Steradian.internal.md) 
 
-### #is_/same_as :: [Steradian.protect](/_protect/Unit/SI-Unit/Steradian.protect.md) 
+### #is_/same_as :: [Steradian.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Steradian.protect.md) 
 
-### #is_/same_as :: [Steradian.private](/_private/Unit/SI-Unit/Steradian.private.md) 
+### #is_/same_as :: [Steradian.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Steradian.private.md) 
 
-### #is_/same_as :: [Steradian.personal](/_personal/Unit/SI-Unit/Steradian.personal.md) 
+### #is_/same_as :: [Steradian.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Steradian.personal.md) 
 
-### #is_/same_as :: [Steradian.secret](/_secret/Unit/SI-Unit/Steradian.secret.md)
+### #is_/same_as :: [Steradian.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Steradian.secret.md)
 

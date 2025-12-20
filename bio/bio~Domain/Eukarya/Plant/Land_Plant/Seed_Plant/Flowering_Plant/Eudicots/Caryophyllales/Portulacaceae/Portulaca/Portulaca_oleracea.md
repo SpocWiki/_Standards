@@ -272,3 +272,22 @@ external_data_available_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Portulaca%20oleracea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Portulaca_oleracea](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae/Portulaca/Portulaca_oleracea.md) 
+
+### #is_/same_as :: [Portulaca_oleracea.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae/Portulaca/Portulaca_oleracea.public.md) 
+
+### #is_/same_as :: [Portulaca_oleracea.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae/Portulaca/Portulaca_oleracea.internal.md) 
+
+### #is_/same_as :: [Portulaca_oleracea.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae/Portulaca/Portulaca_oleracea.protect.md) 
+
+### #is_/same_as :: [Portulaca_oleracea.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae/Portulaca/Portulaca_oleracea.private.md) 
+
+### #is_/same_as :: [Portulaca_oleracea.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae/Portulaca/Portulaca_oleracea.personal.md) 
+
+### #is_/same_as :: [Portulaca_oleracea.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Portulacaceae/Portulaca/Portulaca_oleracea.secret.md)
+

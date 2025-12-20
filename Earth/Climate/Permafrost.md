@@ -113,3 +113,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Permafrost) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Permafrost](/_Standards/Earth/Climate/Permafrost.md) 
+
+### #is_/same_as :: [Permafrost.public](/_public/Earth/Climate/Permafrost.public.md) 
+
+### #is_/same_as :: [Permafrost.internal](/_internal/Earth/Climate/Permafrost.internal.md) 
+
+### #is_/same_as :: [Permafrost.protect](/_protect/Earth/Climate/Permafrost.protect.md) 
+
+### #is_/same_as :: [Permafrost.private](/_private/Earth/Climate/Permafrost.private.md) 
+
+### #is_/same_as :: [Permafrost.personal](/_personal/Earth/Climate/Permafrost.personal.md) 
+
+### #is_/same_as :: [Permafrost.secret](/_secret/Earth/Climate/Permafrost.secret.md)
+

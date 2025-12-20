@@ -37,3 +37,22 @@ inception: 2005-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dudeism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dudeism](/_Standards/Philosophy/Metaphysic/Religion/Dudeism.md) 
+
+### #is_/same_as :: [Dudeism.public](/_public/Philosophy/Metaphysic/Religion/Dudeism.public.md) 
+
+### #is_/same_as :: [Dudeism.internal](/_internal/Philosophy/Metaphysic/Religion/Dudeism.internal.md) 
+
+### #is_/same_as :: [Dudeism.protect](/_protect/Philosophy/Metaphysic/Religion/Dudeism.protect.md) 
+
+### #is_/same_as :: [Dudeism.private](/_private/Philosophy/Metaphysic/Religion/Dudeism.private.md) 
+
+### #is_/same_as :: [Dudeism.personal](/_personal/Philosophy/Metaphysic/Religion/Dudeism.personal.md) 
+
+### #is_/same_as :: [Dudeism.secret](/_secret/Philosophy/Metaphysic/Religion/Dudeism.secret.md)
+

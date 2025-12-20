@@ -89,3 +89,22 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Georg%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Ohm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ohm,Georg_Simon](/_Standards/Science/Physics/Physicist/Ohm,Georg_Simon.md) 
+
+### #is_/same_as :: [Ohm,Georg_Simon.public](/_public/Science/Physics/Physicist/Ohm,Georg_Simon.public.md) 
+
+### #is_/same_as :: [Ohm,Georg_Simon.internal](/_internal/Science/Physics/Physicist/Ohm,Georg_Simon.internal.md) 
+
+### #is_/same_as :: [Ohm,Georg_Simon.protect](/_protect/Science/Physics/Physicist/Ohm,Georg_Simon.protect.md) 
+
+### #is_/same_as :: [Ohm,Georg_Simon.private](/_private/Science/Physics/Physicist/Ohm,Georg_Simon.private.md) 
+
+### #is_/same_as :: [Ohm,Georg_Simon.personal](/_personal/Science/Physics/Physicist/Ohm,Georg_Simon.personal.md) 
+
+### #is_/same_as :: [Ohm,Georg_Simon.secret](/_secret/Science/Physics/Physicist/Ohm,Georg_Simon.secret.md)
+

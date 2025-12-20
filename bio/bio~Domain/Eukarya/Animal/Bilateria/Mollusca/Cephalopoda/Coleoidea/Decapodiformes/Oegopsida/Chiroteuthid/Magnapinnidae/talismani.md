@@ -277,7 +277,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
   View                 Ventral/dorsal
   Size                 61 mm ML
   Type                 Holotype
-  ------------------------------------------
+  ------------------------------------------
 
 
 ## Confidential Links & Embeds: 

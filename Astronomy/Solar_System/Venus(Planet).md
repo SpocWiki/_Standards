@@ -178,17 +178,17 @@ Wolfram_Language_entity_code: Entity["Planet", "Venus"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Venus](/_Standards/Astronomy/Solar_System/Venus.md) 
+### #is_/same_as :: [Venus(Planet)](/_Standards/Astronomy/Solar_System/Venus(Planet).md) 
 
-### #is_/same_as :: [Venus.public](/_public/Astronomy/Solar_System/Venus.public.md) 
+### #is_/same_as :: [Venus(Planet).public](/_public/Astronomy/Solar_System/Venus(Planet).public.md) 
 
-### #is_/same_as :: [Venus.internal](/_internal/Astronomy/Solar_System/Venus.internal.md) 
+### #is_/same_as :: [Venus(Planet).internal](/_internal/Astronomy/Solar_System/Venus(Planet).internal.md) 
 
-### #is_/same_as :: [Venus.protect](/_protect/Astronomy/Solar_System/Venus.protect.md) 
+### #is_/same_as :: [Venus(Planet).protect](/_protect/Astronomy/Solar_System/Venus(Planet).protect.md) 
 
-### #is_/same_as :: [Venus.private](/_private/Astronomy/Solar_System/Venus.private.md) 
+### #is_/same_as :: [Venus(Planet).private](/_private/Astronomy/Solar_System/Venus(Planet).private.md) 
 
-### #is_/same_as :: [Venus.personal](/_personal/Astronomy/Solar_System/Venus.personal.md) 
+### #is_/same_as :: [Venus(Planet).personal](/_personal/Astronomy/Solar_System/Venus(Planet).personal.md) 
 
-### #is_/same_as :: [Venus.secret](/_secret/Astronomy/Solar_System/Venus.secret.md)
+### #is_/same_as :: [Venus(Planet).secret](/_secret/Astronomy/Solar_System/Venus(Planet).secret.md)
 

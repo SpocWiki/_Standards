@@ -49,3 +49,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/King%20Arthur) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [King_Arthur](/_Standards/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.md) 
+
+### #is_/same_as :: [King_Arthur.public](/_public/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.public.md) 
+
+### #is_/same_as :: [King_Arthur.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.internal.md) 
+
+### #is_/same_as :: [King_Arthur.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.protect.md) 
+
+### #is_/same_as :: [King_Arthur.private](/_private/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.private.md) 
+
+### #is_/same_as :: [King_Arthur.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.personal.md) 
+
+### #is_/same_as :: [King_Arthur.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/King_Arthur.secret.md)
+

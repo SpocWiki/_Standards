@@ -106,17 +106,17 @@ P8189: "987007258064605171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hagia_Sophia](Hagia_Sophia.md) 
+### #is_/same_as :: [Hagia_Sophia](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.md) 
 
-### #is_/same_as :: [Hagia_Sophia.public](/_public/Technology/Construction/Architecture/Hagia_Sophia.public.md) 
+### #is_/same_as :: [Hagia_Sophia.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.public.md) 
 
-### #is_/same_as :: [Hagia_Sophia.internal](/_internal/Technology/Construction/Architecture/Hagia_Sophia.internal.md) 
+### #is_/same_as :: [Hagia_Sophia.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.internal.md) 
 
-### #is_/same_as :: [Hagia_Sophia.protect](/_protect/Technology/Construction/Architecture/Hagia_Sophia.protect.md) 
+### #is_/same_as :: [Hagia_Sophia.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.protect.md) 
 
-### #is_/same_as :: [Hagia_Sophia.private](/_private/Technology/Construction/Architecture/Hagia_Sophia.private.md) 
+### #is_/same_as :: [Hagia_Sophia.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.private.md) 
 
-### #is_/same_as :: [Hagia_Sophia.personal](/_personal/Technology/Construction/Architecture/Hagia_Sophia.personal.md) 
+### #is_/same_as :: [Hagia_Sophia.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.personal.md) 
 
-### #is_/same_as :: [Hagia_Sophia.secret](/_secret/Technology/Construction/Architecture/Hagia_Sophia.secret.md)
+### #is_/same_as :: [Hagia_Sophia.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.secret.md)
 

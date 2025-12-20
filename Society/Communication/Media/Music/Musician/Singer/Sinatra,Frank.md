@@ -183,3 +183,22 @@ Europeana_entity: agent/base/59981
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Sinatra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sinatra,Frank](/_Standards/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.md) 
+
+### #is_/same_as :: [Sinatra,Frank.public](/_public/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.public.md) 
+
+### #is_/same_as :: [Sinatra,Frank.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.internal.md) 
+
+### #is_/same_as :: [Sinatra,Frank.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.protect.md) 
+
+### #is_/same_as :: [Sinatra,Frank.private](/_private/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.private.md) 
+
+### #is_/same_as :: [Sinatra,Frank.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.personal.md) 
+
+### #is_/same_as :: [Sinatra,Frank.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.secret.md)
+

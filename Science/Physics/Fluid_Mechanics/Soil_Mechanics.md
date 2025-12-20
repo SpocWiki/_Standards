@@ -39,3 +39,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Drymud-IMG%202920.JPG
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soil%20mechanics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soil_Mechanics](/_Standards/Science/Physics/Fluid_Mechanics/Soil_Mechanics.md) 
+
+### #is_/same_as :: [Soil_Mechanics.public](/_public/Science/Physics/Fluid_Mechanics/Soil_Mechanics.public.md) 
+
+### #is_/same_as :: [Soil_Mechanics.internal](/_internal/Science/Physics/Fluid_Mechanics/Soil_Mechanics.internal.md) 
+
+### #is_/same_as :: [Soil_Mechanics.protect](/_protect/Science/Physics/Fluid_Mechanics/Soil_Mechanics.protect.md) 
+
+### #is_/same_as :: [Soil_Mechanics.private](/_private/Science/Physics/Fluid_Mechanics/Soil_Mechanics.private.md) 
+
+### #is_/same_as :: [Soil_Mechanics.personal](/_personal/Science/Physics/Fluid_Mechanics/Soil_Mechanics.personal.md) 
+
+### #is_/same_as :: [Soil_Mechanics.secret](/_secret/Science/Physics/Fluid_Mechanics/Soil_Mechanics.secret.md)
+

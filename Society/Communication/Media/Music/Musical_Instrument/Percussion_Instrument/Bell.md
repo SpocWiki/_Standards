@@ -103,17 +103,17 @@ Krugosvet_article: muzyka/kolokol
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bell](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Bell.md) 
+### #is_/same_as :: [Bell](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bell.md) 
 
-### #is_/same_as :: [Bell.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Bell.public.md) 
+### #is_/same_as :: [Bell.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bell.public.md) 
 
-### #is_/same_as :: [Bell.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Bell.internal.md) 
+### #is_/same_as :: [Bell.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bell.internal.md) 
 
-### #is_/same_as :: [Bell.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Bell.protect.md) 
+### #is_/same_as :: [Bell.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bell.protect.md) 
 
-### #is_/same_as :: [Bell.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Bell.private.md) 
+### #is_/same_as :: [Bell.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bell.private.md) 
 
-### #is_/same_as :: [Bell.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Bell.personal.md) 
+### #is_/same_as :: [Bell.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bell.personal.md) 
 
-### #is_/same_as :: [Bell.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Bell.secret.md)
+### #is_/same_as :: [Bell.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Bell.secret.md)
 

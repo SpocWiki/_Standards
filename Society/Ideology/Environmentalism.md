@@ -67,3 +67,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Environmentalism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Environmentalism](/_Standards/Society/Ideology/Environmentalism.md) 
+
+### #is_/same_as :: [Environmentalism.public](/_public/Society/Ideology/Environmentalism.public.md) 
+
+### #is_/same_as :: [Environmentalism.internal](/_internal/Society/Ideology/Environmentalism.internal.md) 
+
+### #is_/same_as :: [Environmentalism.protect](/_protect/Society/Ideology/Environmentalism.protect.md) 
+
+### #is_/same_as :: [Environmentalism.private](/_private/Society/Ideology/Environmentalism.private.md) 
+
+### #is_/same_as :: [Environmentalism.personal](/_personal/Society/Ideology/Environmentalism.personal.md) 
+
+### #is_/same_as :: [Environmentalism.secret](/_secret/Society/Ideology/Environmentalism.secret.md)
+

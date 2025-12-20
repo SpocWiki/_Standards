@@ -64,3 +64,22 @@ conversion_to_SI_unit: 0.45359237
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pound%20(mass)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Pound](/_Standards/Dimension/Mass/Unit~Pound.md) 
+
+### #is_/same_as :: [Unit~Pound.public](/_public/Dimension/Mass/Unit~Pound.public.md) 
+
+### #is_/same_as :: [Unit~Pound.internal](/_internal/Dimension/Mass/Unit~Pound.internal.md) 
+
+### #is_/same_as :: [Unit~Pound.protect](/_protect/Dimension/Mass/Unit~Pound.protect.md) 
+
+### #is_/same_as :: [Unit~Pound.private](/_private/Dimension/Mass/Unit~Pound.private.md) 
+
+### #is_/same_as :: [Unit~Pound.personal](/_personal/Dimension/Mass/Unit~Pound.personal.md) 
+
+### #is_/same_as :: [Unit~Pound.secret](/_secret/Dimension/Mass/Unit~Pound.secret.md)
+

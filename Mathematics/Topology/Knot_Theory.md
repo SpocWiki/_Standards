@@ -26,3 +26,22 @@ has_id_wikidata: Q849798
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Knot%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Knot_Theory](/_Standards/Mathematics/Topology/Knot_Theory.md) 
+
+### #is_/same_as :: [Knot_Theory.public](/_public/Mathematics/Topology/Knot_Theory.public.md) 
+
+### #is_/same_as :: [Knot_Theory.internal](/_internal/Mathematics/Topology/Knot_Theory.internal.md) 
+
+### #is_/same_as :: [Knot_Theory.protect](/_protect/Mathematics/Topology/Knot_Theory.protect.md) 
+
+### #is_/same_as :: [Knot_Theory.private](/_private/Mathematics/Topology/Knot_Theory.private.md) 
+
+### #is_/same_as :: [Knot_Theory.personal](/_personal/Mathematics/Topology/Knot_Theory.personal.md) 
+
+### #is_/same_as :: [Knot_Theory.secret](/_secret/Mathematics/Topology/Knot_Theory.secret.md)
+

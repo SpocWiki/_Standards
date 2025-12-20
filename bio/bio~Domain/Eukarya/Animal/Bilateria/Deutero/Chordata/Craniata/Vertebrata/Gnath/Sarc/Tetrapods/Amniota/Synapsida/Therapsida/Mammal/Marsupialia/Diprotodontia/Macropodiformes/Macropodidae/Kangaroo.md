@@ -36,3 +36,21 @@
 > Wild kangaroos are shot for meat, leather hides, and to protect grazing land. Kangaroo meat has perceived health benefits for human consumption compared with traditional meats due to the low level of fat on kangaroos.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kangaroo)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kangaroo](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo.md) 
+
+### #is_/same_as :: [Kangaroo.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo.public.md) 
+
+### #is_/same_as :: [Kangaroo.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo.internal.md) 
+
+### #is_/same_as :: [Kangaroo.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo.protect.md) 
+
+### #is_/same_as :: [Kangaroo.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo.private.md) 
+
+### #is_/same_as :: [Kangaroo.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo.personal.md) 
+
+### #is_/same_as :: [Kangaroo.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Diprotodontia/Macropodiformes/Macropodidae/Kangaroo.secret.md)
+

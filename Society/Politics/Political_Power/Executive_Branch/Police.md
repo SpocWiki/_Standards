@@ -94,3 +94,22 @@ to refer to their profession.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Police](/_Standards/Society/Politics/Political_Power/Executive_Branch/Police.md) 
+
+### #is_/same_as :: [Police.public](/_public/Society/Politics/Political_Power/Executive_Branch/Police.public.md) 
+
+### #is_/same_as :: [Police.internal](/_internal/Society/Politics/Political_Power/Executive_Branch/Police.internal.md) 
+
+### #is_/same_as :: [Police.protect](/_protect/Society/Politics/Political_Power/Executive_Branch/Police.protect.md) 
+
+### #is_/same_as :: [Police.private](/_private/Society/Politics/Political_Power/Executive_Branch/Police.private.md) 
+
+### #is_/same_as :: [Police.personal](/_personal/Society/Politics/Political_Power/Executive_Branch/Police.personal.md) 
+
+### #is_/same_as :: [Police.secret](/_secret/Society/Politics/Political_Power/Executive_Branch/Police.secret.md)
+

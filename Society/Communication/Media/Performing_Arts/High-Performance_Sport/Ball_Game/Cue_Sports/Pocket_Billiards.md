@@ -20,3 +20,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pool%20(cue%20sports)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pocket_Billiards](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.md) 
+
+### #is_/same_as :: [Pocket_Billiards.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.public.md) 
+
+### #is_/same_as :: [Pocket_Billiards.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.internal.md) 
+
+### #is_/same_as :: [Pocket_Billiards.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.protect.md) 
+
+### #is_/same_as :: [Pocket_Billiards.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.private.md) 
+
+### #is_/same_as :: [Pocket_Billiards.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.personal.md) 
+
+### #is_/same_as :: [Pocket_Billiards.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports/Pocket_Billiards.secret.md)
+

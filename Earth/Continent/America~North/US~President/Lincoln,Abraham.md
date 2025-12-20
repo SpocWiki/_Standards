@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Lincoln,Abraham
 - "Abraham Lincoln"
@@ -199,4 +199,23 @@ This quote is often attributed to Abraham Lincoln, though there is no definitive
 > Lincoln is remembered as a martyr and a national hero for his wartime leadership and for his efforts to preserve the Union and abolish slavery. He is often ranked in both popular and scholarly polls as the greatest president in American history.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abraham%20Lincoln)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lincoln,Abraham](/_Standards/Earth/Continent/America~North/US~President/Lincoln,Abraham.md) 
+
+### #is_/same_as :: [Lincoln,Abraham.public](/_public/Earth/Continent/America~North/US~President/Lincoln,Abraham.public.md) 
+
+### #is_/same_as :: [Lincoln,Abraham.internal](/_internal/Earth/Continent/America~North/US~President/Lincoln,Abraham.internal.md) 
+
+### #is_/same_as :: [Lincoln,Abraham.protect](/_protect/Earth/Continent/America~North/US~President/Lincoln,Abraham.protect.md) 
+
+### #is_/same_as :: [Lincoln,Abraham.private](/_private/Earth/Continent/America~North/US~President/Lincoln,Abraham.private.md) 
+
+### #is_/same_as :: [Lincoln,Abraham.personal](/_personal/Earth/Continent/America~North/US~President/Lincoln,Abraham.personal.md) 
+
+### #is_/same_as :: [Lincoln,Abraham.secret](/_secret/Earth/Continent/America~North/US~President/Lincoln,Abraham.secret.md)
 

@@ -50,3 +50,22 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/QuantumHarmonicOscilla
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wave%20function) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wave_Function](/_Standards/Science/Physics/Quantum_Mechanics/Wave_Function.md) 
+
+### #is_/same_as :: [Wave_Function.public](/_public/Science/Physics/Quantum_Mechanics/Wave_Function.public.md) 
+
+### #is_/same_as :: [Wave_Function.internal](/_internal/Science/Physics/Quantum_Mechanics/Wave_Function.internal.md) 
+
+### #is_/same_as :: [Wave_Function.protect](/_protect/Science/Physics/Quantum_Mechanics/Wave_Function.protect.md) 
+
+### #is_/same_as :: [Wave_Function.private](/_private/Science/Physics/Quantum_Mechanics/Wave_Function.private.md) 
+
+### #is_/same_as :: [Wave_Function.personal](/_personal/Science/Physics/Quantum_Mechanics/Wave_Function.personal.md) 
+
+### #is_/same_as :: [Wave_Function.secret](/_secret/Science/Physics/Quantum_Mechanics/Wave_Function.secret.md)
+

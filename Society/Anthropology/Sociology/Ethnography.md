@@ -43,3 +43,22 @@ Commons_category: Ethnography
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethnography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ethnography](/_Standards/Society/Anthropology/Sociology/Ethnography.md) 
+
+### #is_/same_as :: [Ethnography.public](/_public/Society/Anthropology/Sociology/Ethnography.public.md) 
+
+### #is_/same_as :: [Ethnography.internal](/_internal/Society/Anthropology/Sociology/Ethnography.internal.md) 
+
+### #is_/same_as :: [Ethnography.protect](/_protect/Society/Anthropology/Sociology/Ethnography.protect.md) 
+
+### #is_/same_as :: [Ethnography.private](/_private/Society/Anthropology/Sociology/Ethnography.private.md) 
+
+### #is_/same_as :: [Ethnography.personal](/_personal/Society/Anthropology/Sociology/Ethnography.personal.md) 
+
+### #is_/same_as :: [Ethnography.secret](/_secret/Society/Anthropology/Sociology/Ethnography.secret.md)
+

@@ -46,3 +46,22 @@ Similar to the Exhaust Faking in Automobiles.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [AI_Alignment](/_Standards/Technology/IT/Artificial_Intelligence/AI_Alignment.md) 
+
+### #is_/same_as :: [AI_Alignment.public](/_public/Technology/IT/Artificial_Intelligence/AI_Alignment.public.md) 
+
+### #is_/same_as :: [AI_Alignment.internal](/_internal/Technology/IT/Artificial_Intelligence/AI_Alignment.internal.md) 
+
+### #is_/same_as :: [AI_Alignment.protect](/_protect/Technology/IT/Artificial_Intelligence/AI_Alignment.protect.md) 
+
+### #is_/same_as :: [AI_Alignment.private](/_private/Technology/IT/Artificial_Intelligence/AI_Alignment.private.md) 
+
+### #is_/same_as :: [AI_Alignment.personal](/_personal/Technology/IT/Artificial_Intelligence/AI_Alignment.personal.md) 
+
+### #is_/same_as :: [AI_Alignment.secret](/_secret/Technology/IT/Artificial_Intelligence/AI_Alignment.secret.md)
+

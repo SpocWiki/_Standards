@@ -53,3 +53,22 @@ EU_VAT_number: TR5090025968
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organization%20of%20the%20Black%20Sea%20Economic%20Cooperation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation)](/_Standards/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).md) 
+
+### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).public](/_public/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).public.md) 
+
+### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).internal](/_internal/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).internal.md) 
+
+### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).protect](/_protect/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).protect.md) 
+
+### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).private](/_private/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).private.md) 
+
+### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).personal](/_personal/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).personal.md) 
+
+### #is_/same_as :: [BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).secret](/_secret/Society/Agent/Community/Organization/International_Organization/BSEC(Organization_of_the_Black_Sea_Economic_Cooperation).secret.md)
+

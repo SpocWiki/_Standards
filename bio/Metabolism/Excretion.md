@@ -47,3 +47,22 @@ Commons_category: Excretion
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Excretion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Excretion](/_Standards/bio/Metabolism/Excretion.md) 
+
+### #is_/same_as :: [Excretion.public](/_public/bio/Metabolism/Excretion.public.md) 
+
+### #is_/same_as :: [Excretion.internal](/_internal/bio/Metabolism/Excretion.internal.md) 
+
+### #is_/same_as :: [Excretion.protect](/_protect/bio/Metabolism/Excretion.protect.md) 
+
+### #is_/same_as :: [Excretion.private](/_private/bio/Metabolism/Excretion.private.md) 
+
+### #is_/same_as :: [Excretion.personal](/_personal/bio/Metabolism/Excretion.personal.md) 
+
+### #is_/same_as :: [Excretion.secret](/_secret/bio/Metabolism/Excretion.secret.md)
+

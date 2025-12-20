@@ -42,3 +42,22 @@ female_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Commander-in-chief) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Commander-in-Chief](/_Standards/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.md) 
+
+### #is_/same_as :: [Commander-in-Chief.public](/_public/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.public.md) 
+
+### #is_/same_as :: [Commander-in-Chief.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.internal.md) 
+
+### #is_/same_as :: [Commander-in-Chief.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.protect.md) 
+
+### #is_/same_as :: [Commander-in-Chief.private](/_private/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.private.md) 
+
+### #is_/same_as :: [Commander-in-Chief.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.personal.md) 
+
+### #is_/same_as :: [Commander-in-Chief.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Commander-in-Chief.secret.md)
+

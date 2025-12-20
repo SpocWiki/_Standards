@@ -33,3 +33,22 @@ has_id_wikidata: Q170658
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Creativity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Creativity](/_Standards/bio/Psychology/Cognition/Creativity.md) 
+
+### #is_/same_as :: [Creativity.public](/_public/bio/Psychology/Cognition/Creativity.public.md) 
+
+### #is_/same_as :: [Creativity.internal](/_internal/bio/Psychology/Cognition/Creativity.internal.md) 
+
+### #is_/same_as :: [Creativity.protect](/_protect/bio/Psychology/Cognition/Creativity.protect.md) 
+
+### #is_/same_as :: [Creativity.private](/_private/bio/Psychology/Cognition/Creativity.private.md) 
+
+### #is_/same_as :: [Creativity.personal](/_personal/bio/Psychology/Cognition/Creativity.personal.md) 
+
+### #is_/same_as :: [Creativity.secret](/_secret/bio/Psychology/Cognition/Creativity.secret.md)
+

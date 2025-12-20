@@ -224,3 +224,22 @@ ISNI: 000000012186288X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Library%20of%20Congress) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Library_of_Congress](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.md) 
+
+### #is_/same_as :: [Library_of_Congress.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.public.md) 
+
+### #is_/same_as :: [Library_of_Congress.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.internal.md) 
+
+### #is_/same_as :: [Library_of_Congress.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.protect.md) 
+
+### #is_/same_as :: [Library_of_Congress.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.private.md) 
+
+### #is_/same_as :: [Library_of_Congress.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.personal.md) 
+
+### #is_/same_as :: [Library_of_Congress.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.secret.md)
+

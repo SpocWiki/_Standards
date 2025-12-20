@@ -175,3 +175,22 @@ ISNI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Parliament) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [European_Parliament](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Parliament.md) 
+
+### #is_/same_as :: [European_Parliament.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Parliament.public.md) 
+
+### #is_/same_as :: [European_Parliament.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.internal.md) 
+
+### #is_/same_as :: [European_Parliament.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Parliament.protect.md) 
+
+### #is_/same_as :: [European_Parliament.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Parliament.private.md) 
+
+### #is_/same_as :: [European_Parliament.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.personal.md) 
+
+### #is_/same_as :: [European_Parliament.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Parliament.secret.md)
+

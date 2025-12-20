@@ -42,3 +42,22 @@ Commons_gallery: Respiration (physiology)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cellular%20respiration) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Respiration](/_Standards/bio/Metabolism/Respiration.md) 
+
+### #is_/same_as :: [Respiration.public](/_public/bio/Metabolism/Respiration.public.md) 
+
+### #is_/same_as :: [Respiration.internal](/_internal/bio/Metabolism/Respiration.internal.md) 
+
+### #is_/same_as :: [Respiration.protect](/_protect/bio/Metabolism/Respiration.protect.md) 
+
+### #is_/same_as :: [Respiration.private](/_private/bio/Metabolism/Respiration.private.md) 
+
+### #is_/same_as :: [Respiration.personal](/_personal/bio/Metabolism/Respiration.personal.md) 
+
+### #is_/same_as :: [Respiration.secret](/_secret/bio/Metabolism/Respiration.secret.md)
+

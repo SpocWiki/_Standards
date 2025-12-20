@@ -69,3 +69,22 @@ Archive_of_Our_Own_tag: Hallucinations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hallucination) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hallucination](/_Standards/bio/Psychology/Cognition/Hallucination.md) 
+
+### #is_/same_as :: [Hallucination.public](/_public/bio/Psychology/Cognition/Hallucination.public.md) 
+
+### #is_/same_as :: [Hallucination.internal](/_internal/bio/Psychology/Cognition/Hallucination.internal.md) 
+
+### #is_/same_as :: [Hallucination.protect](/_protect/bio/Psychology/Cognition/Hallucination.protect.md) 
+
+### #is_/same_as :: [Hallucination.private](/_private/bio/Psychology/Cognition/Hallucination.private.md) 
+
+### #is_/same_as :: [Hallucination.personal](/_personal/bio/Psychology/Cognition/Hallucination.personal.md) 
+
+### #is_/same_as :: [Hallucination.secret](/_secret/bio/Psychology/Cognition/Hallucination.secret.md)
+

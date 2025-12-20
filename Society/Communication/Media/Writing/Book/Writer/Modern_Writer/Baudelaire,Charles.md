@@ -121,3 +121,22 @@ birth_name: Charles-Pierre Baudelaire
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Baudelaire) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Baudelaire,Charles](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.md) 
+
+### #is_/same_as :: [Baudelaire,Charles.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.public.md) 
+
+### #is_/same_as :: [Baudelaire,Charles.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.internal.md) 
+
+### #is_/same_as :: [Baudelaire,Charles.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.protect.md) 
+
+### #is_/same_as :: [Baudelaire,Charles.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.private.md) 
+
+### #is_/same_as :: [Baudelaire,Charles.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.personal.md) 
+
+### #is_/same_as :: [Baudelaire,Charles.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.secret.md)
+

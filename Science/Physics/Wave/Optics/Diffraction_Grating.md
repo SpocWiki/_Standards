@@ -34,3 +34,22 @@ Commons_category: Diffraction gratings
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diffraction%20grating) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diffraction_Grating](/_Standards/Science/Physics/Wave/Optics/Diffraction_Grating.md) 
+
+### #is_/same_as :: [Diffraction_Grating.public](/_public/Science/Physics/Wave/Optics/Diffraction_Grating.public.md) 
+
+### #is_/same_as :: [Diffraction_Grating.internal](/_internal/Science/Physics/Wave/Optics/Diffraction_Grating.internal.md) 
+
+### #is_/same_as :: [Diffraction_Grating.protect](/_protect/Science/Physics/Wave/Optics/Diffraction_Grating.protect.md) 
+
+### #is_/same_as :: [Diffraction_Grating.private](/_private/Science/Physics/Wave/Optics/Diffraction_Grating.private.md) 
+
+### #is_/same_as :: [Diffraction_Grating.personal](/_personal/Science/Physics/Wave/Optics/Diffraction_Grating.personal.md) 
+
+### #is_/same_as :: [Diffraction_Grating.secret](/_secret/Science/Physics/Wave/Optics/Diffraction_Grating.secret.md)
+

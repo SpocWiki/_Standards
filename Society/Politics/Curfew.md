@@ -36,3 +36,22 @@ Commons_category: Curfews
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Curfew) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Curfew](/_Standards/Society/Politics/Curfew.md) 
+
+### #is_/same_as :: [Curfew.public](/_public/Society/Politics/Curfew.public.md) 
+
+### #is_/same_as :: [Curfew.internal](/_internal/Society/Politics/Curfew.internal.md) 
+
+### #is_/same_as :: [Curfew.protect](/_protect/Society/Politics/Curfew.protect.md) 
+
+### #is_/same_as :: [Curfew.private](/_private/Society/Politics/Curfew.private.md) 
+
+### #is_/same_as :: [Curfew.personal](/_personal/Society/Politics/Curfew.personal.md) 
+
+### #is_/same_as :: [Curfew.secret](/_secret/Society/Politics/Curfew.secret.md)
+

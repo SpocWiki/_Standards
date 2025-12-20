@@ -47,3 +47,21 @@ dissolved_abolished_or_demolished_date: 2012-07-31T00:00:00Z
 > and the termination of employment for all the organization's personnel.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin%20Union)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Latin_Union](/_Standards/Society/Agent/Community/Organization/International_Organization/Latin_Union.md) 
+
+### #is_/same_as :: [Latin_Union.public](/_public/Society/Agent/Community/Organization/International_Organization/Latin_Union.public.md) 
+
+### #is_/same_as :: [Latin_Union.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Latin_Union.internal.md) 
+
+### #is_/same_as :: [Latin_Union.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Latin_Union.protect.md) 
+
+### #is_/same_as :: [Latin_Union.private](/_private/Society/Agent/Community/Organization/International_Organization/Latin_Union.private.md) 
+
+### #is_/same_as :: [Latin_Union.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Latin_Union.personal.md) 
+
+### #is_/same_as :: [Latin_Union.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Latin_Union.secret.md)
+

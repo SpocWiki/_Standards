@@ -46,3 +46,22 @@ Commons_category: Electromagnetic spectrum
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic%20spectrum) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electromagnetic_Spectrum](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Electromagnetic_Spectrum.md) 
+
+### #is_/same_as :: [Electromagnetic_Spectrum.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Electromagnetic_Spectrum.public.md) 
+
+### #is_/same_as :: [Electromagnetic_Spectrum.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Electromagnetic_Spectrum.internal.md) 
+
+### #is_/same_as :: [Electromagnetic_Spectrum.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Electromagnetic_Spectrum.protect.md) 
+
+### #is_/same_as :: [Electromagnetic_Spectrum.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Electromagnetic_Spectrum.private.md) 
+
+### #is_/same_as :: [Electromagnetic_Spectrum.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Electromagnetic_Spectrum.personal.md) 
+
+### #is_/same_as :: [Electromagnetic_Spectrum.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Electromagnetic_Spectrum.secret.md)
+

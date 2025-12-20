@@ -39,17 +39,17 @@ A television station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Television_Station](Television_Station.md) 
+### #is_/same_as :: [Television_Station](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.md) 
 
-### #is_/same_as :: [Television_Station.public](/_public/Society/Organization/Local_Business/Television_Station.public.md) 
+### #is_/same_as :: [Television_Station.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.public.md) 
 
-### #is_/same_as :: [Television_Station.internal](/_internal/Society/Organization/Local_Business/Television_Station.internal.md) 
+### #is_/same_as :: [Television_Station.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.internal.md) 
 
-### #is_/same_as :: [Television_Station.protect](/_protect/Society/Organization/Local_Business/Television_Station.protect.md) 
+### #is_/same_as :: [Television_Station.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.protect.md) 
 
-### #is_/same_as :: [Television_Station.private](/_private/Society/Organization/Local_Business/Television_Station.private.md) 
+### #is_/same_as :: [Television_Station.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.private.md) 
 
-### #is_/same_as :: [Television_Station.personal](/_personal/Society/Organization/Local_Business/Television_Station.personal.md) 
+### #is_/same_as :: [Television_Station.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.personal.md) 
 
-### #is_/same_as :: [Television_Station.secret](/_secret/Society/Organization/Local_Business/Television_Station.secret.md)
+### #is_/same_as :: [Television_Station.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Television_Station.secret.md)
 

@@ -53,3 +53,22 @@ Commons_category: Saddles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saddle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saddle](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.md) 
+
+### #is_/same_as :: [Saddle.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.public.md) 
+
+### #is_/same_as :: [Saddle.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.internal.md) 
+
+### #is_/same_as :: [Saddle.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.protect.md) 
+
+### #is_/same_as :: [Saddle.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.private.md) 
+
+### #is_/same_as :: [Saddle.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.personal.md) 
+
+### #is_/same_as :: [Saddle.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Saddle.secret.md)
+

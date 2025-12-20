@@ -53,3 +53,22 @@ IPTC_NewsCode: mediatopic/20000014
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Drama) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Drama](/_Standards/Society/Communication/Genre/Fiction/Drama.md) 
+
+### #is_/same_as :: [Drama.public](/_public/Society/Communication/Genre/Fiction/Drama.public.md) 
+
+### #is_/same_as :: [Drama.internal](/_internal/Society/Communication/Genre/Fiction/Drama.internal.md) 
+
+### #is_/same_as :: [Drama.protect](/_protect/Society/Communication/Genre/Fiction/Drama.protect.md) 
+
+### #is_/same_as :: [Drama.private](/_private/Society/Communication/Genre/Fiction/Drama.private.md) 
+
+### #is_/same_as :: [Drama.personal](/_personal/Society/Communication/Genre/Fiction/Drama.personal.md) 
+
+### #is_/same_as :: [Drama.secret](/_secret/Society/Communication/Genre/Fiction/Drama.secret.md)
+

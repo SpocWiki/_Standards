@@ -49,3 +49,22 @@ has_characteristic: "[[_Standards/WikiData/WD~machine,11019]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mechanization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mechanization](/_Standards/Society/Economics/Industry/Mechanization.md) 
+
+### #is_/same_as :: [Mechanization.public](/_public/Society/Economics/Industry/Mechanization.public.md) 
+
+### #is_/same_as :: [Mechanization.internal](/_internal/Society/Economics/Industry/Mechanization.internal.md) 
+
+### #is_/same_as :: [Mechanization.protect](/_protect/Society/Economics/Industry/Mechanization.protect.md) 
+
+### #is_/same_as :: [Mechanization.private](/_private/Society/Economics/Industry/Mechanization.private.md) 
+
+### #is_/same_as :: [Mechanization.personal](/_personal/Society/Economics/Industry/Mechanization.personal.md) 
+
+### #is_/same_as :: [Mechanization.secret](/_secret/Society/Economics/Industry/Mechanization.secret.md)
+

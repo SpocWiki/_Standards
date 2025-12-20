@@ -68,3 +68,21 @@ OpenStreetMap_tag: denomination=shia
 > Shia Islam is followed by 10–15% of all Muslims, numbering at an estimated 200–300 million followers worldwide as of 2025. The three main Shia branches are Twelverism, Isma'ilism, and Zaydism. Shia Muslims form a majority of the population in Iran, Iraq, and Azerbaijan, as well as about half of the citizen population of Bahrain. Significant Shia communities are also found in Lebanon, Kuwait, Turkey, Yemen, Saudi Arabia, Afghanistan and the Indian subcontinent. Iran stands as the world's only country where Shia Islam forms the foundation of both its laws and governance system.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shia%20Islam)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shia_Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.md) 
+
+### #is_/same_as :: [Shia_Islam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.public.md) 
+
+### #is_/same_as :: [Shia_Islam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.internal.md) 
+
+### #is_/same_as :: [Shia_Islam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.protect.md) 
+
+### #is_/same_as :: [Shia_Islam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.private.md) 
+
+### #is_/same_as :: [Shia_Islam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.personal.md) 
+
+### #is_/same_as :: [Shia_Islam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Shia_Islam.secret.md)
+

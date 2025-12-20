@@ -35,3 +35,22 @@ described_by_source:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Egocentrism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Egocentrism](/_Standards/bio/Psychology/Mind/Egocentrism.md) 
+
+### #is_/same_as :: [Egocentrism.public](/_public/bio/Psychology/Mind/Egocentrism.public.md) 
+
+### #is_/same_as :: [Egocentrism.internal](/_internal/bio/Psychology/Mind/Egocentrism.internal.md) 
+
+### #is_/same_as :: [Egocentrism.protect](/_protect/bio/Psychology/Mind/Egocentrism.protect.md) 
+
+### #is_/same_as :: [Egocentrism.private](/_private/bio/Psychology/Mind/Egocentrism.private.md) 
+
+### #is_/same_as :: [Egocentrism.personal](/_personal/bio/Psychology/Mind/Egocentrism.personal.md) 
+
+### #is_/same_as :: [Egocentrism.secret](/_secret/bio/Psychology/Mind/Egocentrism.secret.md)
+

@@ -323,3 +323,22 @@ Krugosvet_article_archived_: istoriya/SOYUZ_SOVETSKIH_SOTSIALISTICHESKIH_RESPUBL
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soviet%20Union) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soviet_Union](/_Standards/Earth/Continent/Europe/Europe~East/Soviet_Union.md) 
+
+### #is_/same_as :: [Soviet_Union.public](/_public/Earth/Continent/Europe/Europe~East/Soviet_Union.public.md) 
+
+### #is_/same_as :: [Soviet_Union.internal](/_internal/Earth/Continent/Europe/Europe~East/Soviet_Union.internal.md) 
+
+### #is_/same_as :: [Soviet_Union.protect](/_protect/Earth/Continent/Europe/Europe~East/Soviet_Union.protect.md) 
+
+### #is_/same_as :: [Soviet_Union.private](/_private/Earth/Continent/Europe/Europe~East/Soviet_Union.private.md) 
+
+### #is_/same_as :: [Soviet_Union.personal](/_personal/Earth/Continent/Europe/Europe~East/Soviet_Union.personal.md) 
+
+### #is_/same_as :: [Soviet_Union.secret](/_secret/Earth/Continent/Europe/Europe~East/Soviet_Union.secret.md)
+

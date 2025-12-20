@@ -87,3 +87,22 @@ hashtag: stainedglass
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stained%20glass) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stained_Glass](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.md) 
+
+### #is_/same_as :: [Stained_Glass.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.public.md) 
+
+### #is_/same_as :: [Stained_Glass.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.internal.md) 
+
+### #is_/same_as :: [Stained_Glass.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.protect.md) 
+
+### #is_/same_as :: [Stained_Glass.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.private.md) 
+
+### #is_/same_as :: [Stained_Glass.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.personal.md) 
+
+### #is_/same_as :: [Stained_Glass.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.secret.md)
+

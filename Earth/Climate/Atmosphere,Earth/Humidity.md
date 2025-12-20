@@ -48,3 +48,22 @@ Commons_category: Humidity
 > The notion of air "holding" water vapor or being "saturated" by it is often mentioned in connection with the concept of relative humidity. This, however, is misleading—the amount of water vapor that enters (or can enter) a given space at a given temperature is almost independent of the amount of air (nitrogen, oxygen, etc.) that is present. Indeed, a vacuum has approximately the same equilibrium capacity to hold water vapor as the same volume filled with air; both are given by the equilibrium vapor pressure of water at the given temperature. There is a very small difference described under "Enhancement factor" below, which can be neglected in many calculations unless great accuracy is required.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Humidity) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Humidity](/_Standards/Earth/Climate/Atmosphere,Earth/Humidity.md) 
+
+### #is_/same_as :: [Humidity.public](/_public/Earth/Climate/Atmosphere,Earth/Humidity.public.md) 
+
+### #is_/same_as :: [Humidity.internal](/_internal/Earth/Climate/Atmosphere,Earth/Humidity.internal.md) 
+
+### #is_/same_as :: [Humidity.protect](/_protect/Earth/Climate/Atmosphere,Earth/Humidity.protect.md) 
+
+### #is_/same_as :: [Humidity.private](/_private/Earth/Climate/Atmosphere,Earth/Humidity.private.md) 
+
+### #is_/same_as :: [Humidity.personal](/_personal/Earth/Climate/Atmosphere,Earth/Humidity.personal.md) 
+
+### #is_/same_as :: [Humidity.secret](/_secret/Earth/Climate/Atmosphere,Earth/Humidity.secret.md)
+

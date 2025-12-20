@@ -220,3 +220,22 @@ ISNI: "0000000121266391"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20de%20Toulouse-Lautrec) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Toulouse-Lautrec,Henri_de](/_Standards/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.md) 
+
+### #is_/same_as :: [Toulouse-Lautrec,Henri_de.public](/_public/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.public.md) 
+
+### #is_/same_as :: [Toulouse-Lautrec,Henri_de.internal](/_internal/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.internal.md) 
+
+### #is_/same_as :: [Toulouse-Lautrec,Henri_de.protect](/_protect/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.protect.md) 
+
+### #is_/same_as :: [Toulouse-Lautrec,Henri_de.private](/_private/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.private.md) 
+
+### #is_/same_as :: [Toulouse-Lautrec,Henri_de.personal](/_personal/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.personal.md) 
+
+### #is_/same_as :: [Toulouse-Lautrec,Henri_de.secret](/_secret/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.secret.md)
+

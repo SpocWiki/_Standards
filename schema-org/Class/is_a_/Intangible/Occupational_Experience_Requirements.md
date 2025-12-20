@@ -41,17 +41,17 @@ Indicates employment-related experience requirements, e.g. [[monthsOfExperience]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [occupational_experience_requirements](/_Standards/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.md) 
+### #is_/same_as :: [Occupational_Experience_Requirements](/_Standards/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.md) 
 
-### #is_/same_as :: [occupational_experience_requirements.public](/_public/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.public.md) 
+### #is_/same_as :: [Occupational_Experience_Requirements.public](/_public/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.public.md) 
 
-### #is_/same_as :: [occupational_experience_requirements.internal](/_internal/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.internal.md) 
+### #is_/same_as :: [Occupational_Experience_Requirements.internal](/_internal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.internal.md) 
 
-### #is_/same_as :: [occupational_experience_requirements.protect](/_protect/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.protect.md) 
+### #is_/same_as :: [Occupational_Experience_Requirements.protect](/_protect/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.protect.md) 
 
-### #is_/same_as :: [occupational_experience_requirements.private](/_private/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.private.md) 
+### #is_/same_as :: [Occupational_Experience_Requirements.private](/_private/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.private.md) 
 
-### #is_/same_as :: [occupational_experience_requirements.personal](/_personal/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.personal.md) 
+### #is_/same_as :: [Occupational_Experience_Requirements.personal](/_personal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.personal.md) 
 
-### #is_/same_as :: [occupational_experience_requirements.secret](/_secret/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.secret.md)
+### #is_/same_as :: [Occupational_Experience_Requirements.secret](/_secret/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.secret.md)
 

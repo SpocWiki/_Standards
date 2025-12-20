@@ -119,3 +119,22 @@ RIA_Novosti_reference:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Paul%20Belmondo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Belmondo,Jean-Paul](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Belmondo,Jean-Paul.md) 
+
+### #is_/same_as :: [Belmondo,Jean-Paul.public](/_public/Society/Communication/Media/Movie/Actor/French_Actor/Belmondo,Jean-Paul.public.md) 
+
+### #is_/same_as :: [Belmondo,Jean-Paul.internal](/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Belmondo,Jean-Paul.internal.md) 
+
+### #is_/same_as :: [Belmondo,Jean-Paul.protect](/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Belmondo,Jean-Paul.protect.md) 
+
+### #is_/same_as :: [Belmondo,Jean-Paul.private](/_private/Society/Communication/Media/Movie/Actor/French_Actor/Belmondo,Jean-Paul.private.md) 
+
+### #is_/same_as :: [Belmondo,Jean-Paul.personal](/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Belmondo,Jean-Paul.personal.md) 
+
+### #is_/same_as :: [Belmondo,Jean-Paul.secret](/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Belmondo,Jean-Paul.secret.md)
+

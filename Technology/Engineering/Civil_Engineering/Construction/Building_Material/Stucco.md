@@ -38,3 +38,22 @@ Dewey_Decimal_Classification: "693.6"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stucco) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stucco](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Stucco.md) 
+
+### #is_/same_as :: [Stucco.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Stucco.public.md) 
+
+### #is_/same_as :: [Stucco.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Stucco.internal.md) 
+
+### #is_/same_as :: [Stucco.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Stucco.protect.md) 
+
+### #is_/same_as :: [Stucco.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Stucco.private.md) 
+
+### #is_/same_as :: [Stucco.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Stucco.personal.md) 
+
+### #is_/same_as :: [Stucco.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Stucco.secret.md)
+

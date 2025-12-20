@@ -45,17 +45,17 @@ UMLS_CUI: C0001128
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acid](Acid.md) 
+### #is_/same_as :: [Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid.md) 
 
-### #is_/same_as :: [Acid.public](/_public/Chemistry/inOrganic/Acid.public.md) 
+### #is_/same_as :: [Acid.public](/_public/Chemistry/Inorganic_Chemistry/Acid.public.md) 
 
-### #is_/same_as :: [Acid.internal](/_internal/Chemistry/inOrganic/Acid.internal.md) 
+### #is_/same_as :: [Acid.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid.internal.md) 
 
-### #is_/same_as :: [Acid.protect](/_protect/Chemistry/inOrganic/Acid.protect.md) 
+### #is_/same_as :: [Acid.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid.protect.md) 
 
-### #is_/same_as :: [Acid.private](/_private/Chemistry/inOrganic/Acid.private.md) 
+### #is_/same_as :: [Acid.private](/_private/Chemistry/Inorganic_Chemistry/Acid.private.md) 
 
-### #is_/same_as :: [Acid.personal](/_personal/Chemistry/inOrganic/Acid.personal.md) 
+### #is_/same_as :: [Acid.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid.personal.md) 
 
-### #is_/same_as :: [Acid.secret](/_secret/Chemistry/inOrganic/Acid.secret.md)
+### #is_/same_as :: [Acid.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid.secret.md)
 

@@ -30,3 +30,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aquaculture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aquaculture](/_Standards/Society/Economics/Industry/Agriculture/Aquaculture.md) 
+
+### #is_/same_as :: [Aquaculture.public](/_public/Society/Economics/Industry/Agriculture/Aquaculture.public.md) 
+
+### #is_/same_as :: [Aquaculture.internal](/_internal/Society/Economics/Industry/Agriculture/Aquaculture.internal.md) 
+
+### #is_/same_as :: [Aquaculture.protect](/_protect/Society/Economics/Industry/Agriculture/Aquaculture.protect.md) 
+
+### #is_/same_as :: [Aquaculture.private](/_private/Society/Economics/Industry/Agriculture/Aquaculture.private.md) 
+
+### #is_/same_as :: [Aquaculture.personal](/_personal/Society/Economics/Industry/Agriculture/Aquaculture.personal.md) 
+
+### #is_/same_as :: [Aquaculture.secret](/_secret/Society/Economics/Industry/Agriculture/Aquaculture.secret.md)
+

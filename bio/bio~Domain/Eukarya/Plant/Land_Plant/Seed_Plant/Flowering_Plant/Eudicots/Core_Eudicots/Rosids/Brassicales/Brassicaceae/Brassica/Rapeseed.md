@@ -84,3 +84,22 @@ short_name: B. napus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rapeseed) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rapeseed](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Rapeseed.md) 
+
+### #is_/same_as :: [Rapeseed.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Rapeseed.public.md) 
+
+### #is_/same_as :: [Rapeseed.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Rapeseed.internal.md) 
+
+### #is_/same_as :: [Rapeseed.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Rapeseed.protect.md) 
+
+### #is_/same_as :: [Rapeseed.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Rapeseed.private.md) 
+
+### #is_/same_as :: [Rapeseed.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Rapeseed.personal.md) 
+
+### #is_/same_as :: [Rapeseed.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Rapeseed.secret.md)
+

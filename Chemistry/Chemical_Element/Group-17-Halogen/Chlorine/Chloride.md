@@ -29,3 +29,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chloride) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chloride](/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine/Chloride.md) 
+
+### #is_/same_as :: [Chloride.public](/_public/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine/Chloride.public.md) 
+
+### #is_/same_as :: [Chloride.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine/Chloride.internal.md) 
+
+### #is_/same_as :: [Chloride.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine/Chloride.protect.md) 
+
+### #is_/same_as :: [Chloride.private](/_private/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine/Chloride.private.md) 
+
+### #is_/same_as :: [Chloride.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine/Chloride.personal.md) 
+
+### #is_/same_as :: [Chloride.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine/Chloride.secret.md)
+

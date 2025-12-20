@@ -96,3 +96,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chernobyl%20disaster) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1986-Chernobyl_Disaster](/_Standards/Society/Disaster/1986-Chernobyl_Disaster.md) 
+
+### #is_/same_as :: [1986-Chernobyl_Disaster.public](/_public/Society/Disaster/1986-Chernobyl_Disaster.public.md) 
+
+### #is_/same_as :: [1986-Chernobyl_Disaster.internal](/_internal/Society/Disaster/1986-Chernobyl_Disaster.internal.md) 
+
+### #is_/same_as :: [1986-Chernobyl_Disaster.protect](/_protect/Society/Disaster/1986-Chernobyl_Disaster.protect.md) 
+
+### #is_/same_as :: [1986-Chernobyl_Disaster.private](/_private/Society/Disaster/1986-Chernobyl_Disaster.private.md) 
+
+### #is_/same_as :: [1986-Chernobyl_Disaster.personal](/_personal/Society/Disaster/1986-Chernobyl_Disaster.personal.md) 
+
+### #is_/same_as :: [1986-Chernobyl_Disaster.secret](/_secret/Society/Disaster/1986-Chernobyl_Disaster.secret.md)
+

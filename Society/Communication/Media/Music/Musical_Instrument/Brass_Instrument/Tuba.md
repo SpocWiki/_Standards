@@ -58,3 +58,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tuba) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tuba](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Tuba.md) 
+
+### #is_/same_as :: [Tuba.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Tuba.public.md) 
+
+### #is_/same_as :: [Tuba.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Tuba.internal.md) 
+
+### #is_/same_as :: [Tuba.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Tuba.protect.md) 
+
+### #is_/same_as :: [Tuba.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Tuba.private.md) 
+
+### #is_/same_as :: [Tuba.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Tuba.personal.md) 
+
+### #is_/same_as :: [Tuba.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Tuba.secret.md)
+

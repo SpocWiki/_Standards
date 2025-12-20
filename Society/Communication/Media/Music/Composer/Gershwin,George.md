@@ -124,3 +124,22 @@ ISNI: "0000000121355968"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Gershwin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gershwin,George](/_Standards/Society/Communication/Media/Music/Composer/Gershwin,George.md) 
+
+### #is_/same_as :: [Gershwin,George.public](/_public/Society/Communication/Media/Music/Composer/Gershwin,George.public.md) 
+
+### #is_/same_as :: [Gershwin,George.internal](/_internal/Society/Communication/Media/Music/Composer/Gershwin,George.internal.md) 
+
+### #is_/same_as :: [Gershwin,George.protect](/_protect/Society/Communication/Media/Music/Composer/Gershwin,George.protect.md) 
+
+### #is_/same_as :: [Gershwin,George.private](/_private/Society/Communication/Media/Music/Composer/Gershwin,George.private.md) 
+
+### #is_/same_as :: [Gershwin,George.personal](/_personal/Society/Communication/Media/Music/Composer/Gershwin,George.personal.md) 
+
+### #is_/same_as :: [Gershwin,George.secret](/_secret/Society/Communication/Media/Music/Composer/Gershwin,George.secret.md)
+

@@ -87,3 +87,22 @@ Facebook_username: EBU.HQ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Broadcasting%20Union) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [European_Broadcasting_Union](/_Standards/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.md) 
+
+### #is_/same_as :: [European_Broadcasting_Union.public](/_public/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.public.md) 
+
+### #is_/same_as :: [European_Broadcasting_Union.internal](/_internal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.internal.md) 
+
+### #is_/same_as :: [European_Broadcasting_Union.protect](/_protect/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.protect.md) 
+
+### #is_/same_as :: [European_Broadcasting_Union.private](/_private/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.private.md) 
+
+### #is_/same_as :: [European_Broadcasting_Union.personal](/_personal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.personal.md) 
+
+### #is_/same_as :: [European_Broadcasting_Union.secret](/_secret/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.secret.md)
+

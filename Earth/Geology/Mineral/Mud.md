@@ -45,3 +45,22 @@ OpenStreetMap_tag: surface=mud
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mud) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mud](/_Standards/Earth/Geology/Mineral/Mud.md) 
+
+### #is_/same_as :: [Mud.public](/_public/Earth/Geology/Mineral/Mud.public.md) 
+
+### #is_/same_as :: [Mud.internal](/_internal/Earth/Geology/Mineral/Mud.internal.md) 
+
+### #is_/same_as :: [Mud.protect](/_protect/Earth/Geology/Mineral/Mud.protect.md) 
+
+### #is_/same_as :: [Mud.private](/_private/Earth/Geology/Mineral/Mud.private.md) 
+
+### #is_/same_as :: [Mud.personal](/_personal/Earth/Geology/Mineral/Mud.personal.md) 
+
+### #is_/same_as :: [Mud.secret](/_secret/Earth/Geology/Mineral/Mud.secret.md)
+

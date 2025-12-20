@@ -46,3 +46,22 @@ nickname: Meezer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Siamese%20cat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Siamese_Cat](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Felis/Cat/Siamese_Cat.md) 
+
+### #is_/same_as :: [Siamese_Cat.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Felis/Cat/Siamese_Cat.public.md) 
+
+### #is_/same_as :: [Siamese_Cat.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Felis/Cat/Siamese_Cat.internal.md) 
+
+### #is_/same_as :: [Siamese_Cat.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Felis/Cat/Siamese_Cat.protect.md) 
+
+### #is_/same_as :: [Siamese_Cat.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Felis/Cat/Siamese_Cat.private.md) 
+
+### #is_/same_as :: [Siamese_Cat.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Felis/Cat/Siamese_Cat.personal.md) 
+
+### #is_/same_as :: [Siamese_Cat.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Feliformia/Felidae/Felis/Cat/Siamese_Cat.secret.md)
+

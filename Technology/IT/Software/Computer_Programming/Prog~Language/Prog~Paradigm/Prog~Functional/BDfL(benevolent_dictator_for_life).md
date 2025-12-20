@@ -11,3 +11,22 @@ Examples are:
 - [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales "Jimmy Wales") 
 - [[Don_Syme]] 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [BDfL(benevolent_dictator_for_life)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).md) 
+
+### #is_/same_as :: [BDfL(benevolent_dictator_for_life).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).public.md) 
+
+### #is_/same_as :: [BDfL(benevolent_dictator_for_life).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).internal.md) 
+
+### #is_/same_as :: [BDfL(benevolent_dictator_for_life).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).protect.md) 
+
+### #is_/same_as :: [BDfL(benevolent_dictator_for_life).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).private.md) 
+
+### #is_/same_as :: [BDfL(benevolent_dictator_for_life).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).personal.md) 
+
+### #is_/same_as :: [BDfL(benevolent_dictator_for_life).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/BDfL(benevolent_dictator_for_life).secret.md)
+

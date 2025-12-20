@@ -46,3 +46,22 @@ Commons_category: Seyfert galaxies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seyfert%20galaxy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seyfert_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.md) 
+
+### #is_/same_as :: [Seyfert_Galaxy.public](/_public/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.public.md) 
+
+### #is_/same_as :: [Seyfert_Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.internal.md) 
+
+### #is_/same_as :: [Seyfert_Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.protect.md) 
+
+### #is_/same_as :: [Seyfert_Galaxy.private](/_private/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.private.md) 
+
+### #is_/same_as :: [Seyfert_Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.personal.md) 
+
+### #is_/same_as :: [Seyfert_Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.secret.md)
+

@@ -55,3 +55,22 @@ UNII: UEG2DV5C8N
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elaeis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oil_Palm](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Oil_Palm.md) 
+
+### #is_/same_as :: [Oil_Palm.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Oil_Palm.public.md) 
+
+### #is_/same_as :: [Oil_Palm.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Oil_Palm.internal.md) 
+
+### #is_/same_as :: [Oil_Palm.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Oil_Palm.protect.md) 
+
+### #is_/same_as :: [Oil_Palm.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Oil_Palm.private.md) 
+
+### #is_/same_as :: [Oil_Palm.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Oil_Palm.personal.md) 
+
+### #is_/same_as :: [Oil_Palm.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Oil_Palm.secret.md)
+

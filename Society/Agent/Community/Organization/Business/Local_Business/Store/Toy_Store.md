@@ -39,17 +39,17 @@ A toy store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toy_Store](Toy_Store.md) 
+### #is_/same_as :: [Toy_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Toy_Store.md) 
 
-### #is_/same_as :: [Toy_Store.public](/_public/Society/Organization/Local_Business/Store/Toy_Store.public.md) 
+### #is_/same_as :: [Toy_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Toy_Store.public.md) 
 
-### #is_/same_as :: [Toy_Store.internal](/_internal/Society/Organization/Local_Business/Store/Toy_Store.internal.md) 
+### #is_/same_as :: [Toy_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Toy_Store.internal.md) 
 
-### #is_/same_as :: [Toy_Store.protect](/_protect/Society/Organization/Local_Business/Store/Toy_Store.protect.md) 
+### #is_/same_as :: [Toy_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Toy_Store.protect.md) 
 
-### #is_/same_as :: [Toy_Store.private](/_private/Society/Organization/Local_Business/Store/Toy_Store.private.md) 
+### #is_/same_as :: [Toy_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Toy_Store.private.md) 
 
-### #is_/same_as :: [Toy_Store.personal](/_personal/Society/Organization/Local_Business/Store/Toy_Store.personal.md) 
+### #is_/same_as :: [Toy_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Toy_Store.personal.md) 
 
-### #is_/same_as :: [Toy_Store.secret](/_secret/Society/Organization/Local_Business/Store/Toy_Store.secret.md)
+### #is_/same_as :: [Toy_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Toy_Store.secret.md)
 

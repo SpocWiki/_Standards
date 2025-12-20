@@ -106,3 +106,22 @@ Europeana_entity: agent/base/60508
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Rodgers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rodgers,Richard](/_Standards/Society/Communication/Media/Music/Composer/Rodgers,Richard.md) 
+
+### #is_/same_as :: [Rodgers,Richard.public](/_public/Society/Communication/Media/Music/Composer/Rodgers,Richard.public.md) 
+
+### #is_/same_as :: [Rodgers,Richard.internal](/_internal/Society/Communication/Media/Music/Composer/Rodgers,Richard.internal.md) 
+
+### #is_/same_as :: [Rodgers,Richard.protect](/_protect/Society/Communication/Media/Music/Composer/Rodgers,Richard.protect.md) 
+
+### #is_/same_as :: [Rodgers,Richard.private](/_private/Society/Communication/Media/Music/Composer/Rodgers,Richard.private.md) 
+
+### #is_/same_as :: [Rodgers,Richard.personal](/_personal/Society/Communication/Media/Music/Composer/Rodgers,Richard.personal.md) 
+
+### #is_/same_as :: [Rodgers,Richard.secret](/_secret/Society/Communication/Media/Music/Composer/Rodgers,Richard.secret.md)
+

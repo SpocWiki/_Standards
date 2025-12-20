@@ -60,3 +60,22 @@ Commons_category: Electric motors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20motor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electric_Motor](/_Standards/Technology/Engine/Electric_Motor.md) 
+
+### #is_/same_as :: [Electric_Motor.public](/_public/Technology/Engine/Electric_Motor.public.md) 
+
+### #is_/same_as :: [Electric_Motor.internal](/_internal/Technology/Engine/Electric_Motor.internal.md) 
+
+### #is_/same_as :: [Electric_Motor.protect](/_protect/Technology/Engine/Electric_Motor.protect.md) 
+
+### #is_/same_as :: [Electric_Motor.private](/_private/Technology/Engine/Electric_Motor.private.md) 
+
+### #is_/same_as :: [Electric_Motor.personal](/_personal/Technology/Engine/Electric_Motor.personal.md) 
+
+### #is_/same_as :: [Electric_Motor.secret](/_secret/Technology/Engine/Electric_Motor.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Eleanora Fagan"
 - "Lady Day"
@@ -46,4 +46,23 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Billie%20Holiday) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holiday,Billie](/_Standards/Society/Communication/Media/Music/Musician/Holiday,Billie.md) 
+
+### #is_/same_as :: [Holiday,Billie.public](/_public/Society/Communication/Media/Music/Musician/Holiday,Billie.public.md) 
+
+### #is_/same_as :: [Holiday,Billie.internal](/_internal/Society/Communication/Media/Music/Musician/Holiday,Billie.internal.md) 
+
+### #is_/same_as :: [Holiday,Billie.protect](/_protect/Society/Communication/Media/Music/Musician/Holiday,Billie.protect.md) 
+
+### #is_/same_as :: [Holiday,Billie.private](/_private/Society/Communication/Media/Music/Musician/Holiday,Billie.private.md) 
+
+### #is_/same_as :: [Holiday,Billie.personal](/_personal/Society/Communication/Media/Music/Musician/Holiday,Billie.personal.md) 
+
+### #is_/same_as :: [Holiday,Billie.secret](/_secret/Society/Communication/Media/Music/Musician/Holiday,Billie.secret.md)
 

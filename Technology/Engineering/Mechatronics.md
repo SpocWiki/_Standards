@@ -52,3 +52,22 @@ Commons_category: Mechatronics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mechatronics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mechatronics](/_Standards/Technology/Engineering/Mechatronics.md) 
+
+### #is_/same_as :: [Mechatronics.public](/_public/Technology/Engineering/Mechatronics.public.md) 
+
+### #is_/same_as :: [Mechatronics.internal](/_internal/Technology/Engineering/Mechatronics.internal.md) 
+
+### #is_/same_as :: [Mechatronics.protect](/_protect/Technology/Engineering/Mechatronics.protect.md) 
+
+### #is_/same_as :: [Mechatronics.private](/_private/Technology/Engineering/Mechatronics.private.md) 
+
+### #is_/same_as :: [Mechatronics.personal](/_personal/Technology/Engineering/Mechatronics.personal.md) 
+
+### #is_/same_as :: [Mechatronics.secret](/_secret/Technology/Engineering/Mechatronics.secret.md)
+

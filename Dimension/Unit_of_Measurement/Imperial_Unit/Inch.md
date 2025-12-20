@@ -90,3 +90,22 @@ Wikidata_SPARQL_query_equivalent: wd:Q218593 p:P2370/psn:P2370 [wikibase:quantit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Inch](/_Standards/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.md) 
+
+### #is_/same_as :: [Inch.public](/_public/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.public.md) 
+
+### #is_/same_as :: [Inch.internal](/_internal/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.internal.md) 
+
+### #is_/same_as :: [Inch.protect](/_protect/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.protect.md) 
+
+### #is_/same_as :: [Inch.private](/_private/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.private.md) 
+
+### #is_/same_as :: [Inch.personal](/_personal/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.personal.md) 
+
+### #is_/same_as :: [Inch.secret](/_secret/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.secret.md)
+

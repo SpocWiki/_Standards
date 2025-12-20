@@ -22,3 +22,22 @@ has_id_wikidata: Q1136790
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cotton%20gin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cotton_Gin](/_Standards/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.md) 
+
+### #is_/same_as :: [Cotton_Gin.public](/_public/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.public.md) 
+
+### #is_/same_as :: [Cotton_Gin.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.internal.md) 
+
+### #is_/same_as :: [Cotton_Gin.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.protect.md) 
+
+### #is_/same_as :: [Cotton_Gin.private](/_private/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.private.md) 
+
+### #is_/same_as :: [Cotton_Gin.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.personal.md) 
+
+### #is_/same_as :: [Cotton_Gin.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.secret.md)
+

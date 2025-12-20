@@ -193,3 +193,22 @@ date_of_death: 1906-05-23T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henrik%20Ibsen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ibsen,Henrik](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.md) 
+
+### #is_/same_as :: [Ibsen,Henrik.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.public.md) 
+
+### #is_/same_as :: [Ibsen,Henrik.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.internal.md) 
+
+### #is_/same_as :: [Ibsen,Henrik.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.protect.md) 
+
+### #is_/same_as :: [Ibsen,Henrik.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.private.md) 
+
+### #is_/same_as :: [Ibsen,Henrik.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.personal.md) 
+
+### #is_/same_as :: [Ibsen,Henrik.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.secret.md)
+

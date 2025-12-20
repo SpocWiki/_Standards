@@ -40,17 +40,17 @@ A specific branch of medical science that is concerned with the study of the cau
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [pathology](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.md) 
+### #is_/same_as :: [Pathology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pathology.md) 
 
-### #is_/same_as :: [pathology.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.public.md) 
+### #is_/same_as :: [Pathology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pathology.public.md) 
 
-### #is_/same_as :: [pathology.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.internal.md) 
+### #is_/same_as :: [Pathology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pathology.internal.md) 
 
-### #is_/same_as :: [pathology.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.protect.md) 
+### #is_/same_as :: [Pathology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pathology.protect.md) 
 
-### #is_/same_as :: [pathology.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.private.md) 
+### #is_/same_as :: [Pathology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pathology.private.md) 
 
-### #is_/same_as :: [pathology.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.personal.md) 
+### #is_/same_as :: [Pathology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pathology.personal.md) 
 
-### #is_/same_as :: [pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.secret.md)
+### #is_/same_as :: [Pathology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pathology.secret.md)
 

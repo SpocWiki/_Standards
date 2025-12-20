@@ -64,3 +64,22 @@ GitHub_topic: meditation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meditation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meditation](/_Standards/bio/Psychology/Mind/Meditation.md) 
+
+### #is_/same_as :: [Meditation.public](/_public/bio/Psychology/Mind/Meditation.public.md) 
+
+### #is_/same_as :: [Meditation.internal](/_internal/bio/Psychology/Mind/Meditation.internal.md) 
+
+### #is_/same_as :: [Meditation.protect](/_protect/bio/Psychology/Mind/Meditation.protect.md) 
+
+### #is_/same_as :: [Meditation.private](/_private/bio/Psychology/Mind/Meditation.private.md) 
+
+### #is_/same_as :: [Meditation.personal](/_personal/bio/Psychology/Mind/Meditation.personal.md) 
+
+### #is_/same_as :: [Meditation.secret](/_secret/bio/Psychology/Mind/Meditation.secret.md)
+

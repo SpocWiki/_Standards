@@ -48,3 +48,22 @@ Stack_Exchange_site_URL: https://poker.stackexchange.com
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poker) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poker](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Poker.md) 
+
+### #is_/same_as :: [Poker.public](/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Poker.public.md) 
+
+### #is_/same_as :: [Poker.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Poker.internal.md) 
+
+### #is_/same_as :: [Poker.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Poker.protect.md) 
+
+### #is_/same_as :: [Poker.private](/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Poker.private.md) 
+
+### #is_/same_as :: [Poker.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Poker.personal.md) 
+
+### #is_/same_as :: [Poker.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Poker.secret.md)
+

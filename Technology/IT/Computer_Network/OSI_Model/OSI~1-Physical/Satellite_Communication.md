@@ -43,3 +43,22 @@ MeSH_tree_code: L01.462.500.847.550
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Communications%20satellite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Satellite_Communication](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.md) 
+
+### #is_/same_as :: [Satellite_Communication.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.public.md) 
+
+### #is_/same_as :: [Satellite_Communication.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.internal.md) 
+
+### #is_/same_as :: [Satellite_Communication.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.protect.md) 
+
+### #is_/same_as :: [Satellite_Communication.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.private.md) 
+
+### #is_/same_as :: [Satellite_Communication.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.personal.md) 
+
+### #is_/same_as :: [Satellite_Communication.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Satellite_Communication.secret.md)
+

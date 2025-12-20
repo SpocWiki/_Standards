@@ -73,3 +73,22 @@ Commons_category: Julian calendars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Julian%20calendar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Julian_Calendar](/_Standards/ISO/Calendar/Julian_Calendar.md) 
+
+### #is_/same_as :: [Julian_Calendar.public](/_public/ISO/Calendar/Julian_Calendar.public.md) 
+
+### #is_/same_as :: [Julian_Calendar.internal](/_internal/ISO/Calendar/Julian_Calendar.internal.md) 
+
+### #is_/same_as :: [Julian_Calendar.protect](/_protect/ISO/Calendar/Julian_Calendar.protect.md) 
+
+### #is_/same_as :: [Julian_Calendar.private](/_private/ISO/Calendar/Julian_Calendar.private.md) 
+
+### #is_/same_as :: [Julian_Calendar.personal](/_personal/ISO/Calendar/Julian_Calendar.personal.md) 
+
+### #is_/same_as :: [Julian_Calendar.secret](/_secret/ISO/Calendar/Julian_Calendar.secret.md)
+

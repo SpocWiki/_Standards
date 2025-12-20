@@ -53,3 +53,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B8%D1%81%D1%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chariot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chariot](/_Standards/Technology/Transport/Road_Transport/Chariot.md) 
+
+### #is_/same_as :: [Chariot.public](/_public/Technology/Transport/Road_Transport/Chariot.public.md) 
+
+### #is_/same_as :: [Chariot.internal](/_internal/Technology/Transport/Road_Transport/Chariot.internal.md) 
+
+### #is_/same_as :: [Chariot.protect](/_protect/Technology/Transport/Road_Transport/Chariot.protect.md) 
+
+### #is_/same_as :: [Chariot.private](/_private/Technology/Transport/Road_Transport/Chariot.private.md) 
+
+### #is_/same_as :: [Chariot.personal](/_personal/Technology/Transport/Road_Transport/Chariot.personal.md) 
+
+### #is_/same_as :: [Chariot.secret](/_secret/Technology/Transport/Road_Transport/Chariot.secret.md)
+

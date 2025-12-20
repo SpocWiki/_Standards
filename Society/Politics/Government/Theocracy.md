@@ -43,3 +43,22 @@ Library_of_Congress_Classification: JC372
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theocracy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theocracy](/_Standards/Society/Politics/Government/Theocracy.md) 
+
+### #is_/same_as :: [Theocracy.public](/_public/Society/Politics/Government/Theocracy.public.md) 
+
+### #is_/same_as :: [Theocracy.internal](/_internal/Society/Politics/Government/Theocracy.internal.md) 
+
+### #is_/same_as :: [Theocracy.protect](/_protect/Society/Politics/Government/Theocracy.protect.md) 
+
+### #is_/same_as :: [Theocracy.private](/_private/Society/Politics/Government/Theocracy.private.md) 
+
+### #is_/same_as :: [Theocracy.personal](/_personal/Society/Politics/Government/Theocracy.personal.md) 
+
+### #is_/same_as :: [Theocracy.secret](/_secret/Society/Politics/Government/Theocracy.secret.md)
+

@@ -33,3 +33,22 @@ Commons_category: Data link layer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20link%20layer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OSI~2-Data_Link](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.md) 
+
+### #is_/same_as :: [OSI~2-Data_Link.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.public.md) 
+
+### #is_/same_as :: [OSI~2-Data_Link.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.internal.md) 
+
+### #is_/same_as :: [OSI~2-Data_Link.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.protect.md) 
+
+### #is_/same_as :: [OSI~2-Data_Link.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.private.md) 
+
+### #is_/same_as :: [OSI~2-Data_Link.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.personal.md) 
+
+### #is_/same_as :: [OSI~2-Data_Link.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.secret.md)
+

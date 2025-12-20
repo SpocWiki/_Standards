@@ -107,3 +107,22 @@ inception: 1642-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Night%20Watch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Night_Watch(Rembrandt)](/_Standards/Society/Communication/Media/Painting/Painter/Rembrandt/Night_Watch(Rembrandt).md) 
+
+### #is_/same_as :: [Night_Watch(Rembrandt).public](/_public/Society/Communication/Media/Painting/Painter/Rembrandt/Night_Watch(Rembrandt).public.md) 
+
+### #is_/same_as :: [Night_Watch(Rembrandt).internal](/_internal/Society/Communication/Media/Painting/Painter/Rembrandt/Night_Watch(Rembrandt).internal.md) 
+
+### #is_/same_as :: [Night_Watch(Rembrandt).protect](/_protect/Society/Communication/Media/Painting/Painter/Rembrandt/Night_Watch(Rembrandt).protect.md) 
+
+### #is_/same_as :: [Night_Watch(Rembrandt).private](/_private/Society/Communication/Media/Painting/Painter/Rembrandt/Night_Watch(Rembrandt).private.md) 
+
+### #is_/same_as :: [Night_Watch(Rembrandt).personal](/_personal/Society/Communication/Media/Painting/Painter/Rembrandt/Night_Watch(Rembrandt).personal.md) 
+
+### #is_/same_as :: [Night_Watch(Rembrandt).secret](/_secret/Society/Communication/Media/Painting/Painter/Rembrandt/Night_Watch(Rembrandt).secret.md)
+

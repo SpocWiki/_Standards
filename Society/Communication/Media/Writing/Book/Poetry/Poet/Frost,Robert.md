@@ -143,3 +143,22 @@ Europeana_entity: agent/base/60228
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Frost) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frost,Robert](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Frost,Robert.md) 
+
+### #is_/same_as :: [Frost,Robert.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Frost,Robert.public.md) 
+
+### #is_/same_as :: [Frost,Robert.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Frost,Robert.internal.md) 
+
+### #is_/same_as :: [Frost,Robert.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Frost,Robert.protect.md) 
+
+### #is_/same_as :: [Frost,Robert.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Frost,Robert.private.md) 
+
+### #is_/same_as :: [Frost,Robert.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Frost,Robert.personal.md) 
+
+### #is_/same_as :: [Frost,Robert.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Frost,Robert.secret.md)
+

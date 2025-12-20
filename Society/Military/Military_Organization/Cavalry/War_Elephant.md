@@ -33,3 +33,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/War%20elephant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [War_Elephant](/_Standards/Society/Military/Military_Organization/Cavalry/War_Elephant.md) 
+
+### #is_/same_as :: [War_Elephant.public](/_public/Society/Military/Military_Organization/Cavalry/War_Elephant.public.md) 
+
+### #is_/same_as :: [War_Elephant.internal](/_internal/Society/Military/Military_Organization/Cavalry/War_Elephant.internal.md) 
+
+### #is_/same_as :: [War_Elephant.protect](/_protect/Society/Military/Military_Organization/Cavalry/War_Elephant.protect.md) 
+
+### #is_/same_as :: [War_Elephant.private](/_private/Society/Military/Military_Organization/Cavalry/War_Elephant.private.md) 
+
+### #is_/same_as :: [War_Elephant.personal](/_personal/Society/Military/Military_Organization/Cavalry/War_Elephant.personal.md) 
+
+### #is_/same_as :: [War_Elephant.secret](/_secret/Society/Military/Military_Organization/Cavalry/War_Elephant.secret.md)
+

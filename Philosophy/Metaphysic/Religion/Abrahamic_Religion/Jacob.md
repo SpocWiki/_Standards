@@ -112,3 +112,22 @@ name_in_native_language: יַעֲקֹב
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacob) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jacob](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jacob.md) 
+
+### #is_/same_as :: [Jacob.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jacob.public.md) 
+
+### #is_/same_as :: [Jacob.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jacob.internal.md) 
+
+### #is_/same_as :: [Jacob.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jacob.protect.md) 
+
+### #is_/same_as :: [Jacob.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jacob.private.md) 
+
+### #is_/same_as :: [Jacob.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jacob.personal.md) 
+
+### #is_/same_as :: [Jacob.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jacob.secret.md)
+

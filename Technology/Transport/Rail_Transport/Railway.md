@@ -122,3 +122,22 @@ OpenStreetMap_tag: route=railway
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rail%20transport) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Railway](/_Standards/Technology/Transport/Rail_Transport/Railway.md) 
+
+### #is_/same_as :: [Railway.public](/_public/Technology/Transport/Rail_Transport/Railway.public.md) 
+
+### #is_/same_as :: [Railway.internal](/_internal/Technology/Transport/Rail_Transport/Railway.internal.md) 
+
+### #is_/same_as :: [Railway.protect](/_protect/Technology/Transport/Rail_Transport/Railway.protect.md) 
+
+### #is_/same_as :: [Railway.private](/_private/Technology/Transport/Rail_Transport/Railway.private.md) 
+
+### #is_/same_as :: [Railway.personal](/_personal/Technology/Transport/Rail_Transport/Railway.personal.md) 
+
+### #is_/same_as :: [Railway.secret](/_secret/Technology/Transport/Rail_Transport/Railway.secret.md)
+

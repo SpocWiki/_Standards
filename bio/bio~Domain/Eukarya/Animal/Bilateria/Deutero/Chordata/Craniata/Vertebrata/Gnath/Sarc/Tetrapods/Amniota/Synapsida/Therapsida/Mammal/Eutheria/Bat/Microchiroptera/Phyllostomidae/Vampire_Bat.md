@@ -36,3 +36,22 @@ UMLS_CUI: C1008736
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vampire%20bat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vampire_Bat](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Phyllostomidae/Vampire_Bat.md) 
+
+### #is_/same_as :: [Vampire_Bat.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Phyllostomidae/Vampire_Bat.public.md) 
+
+### #is_/same_as :: [Vampire_Bat.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Phyllostomidae/Vampire_Bat.internal.md) 
+
+### #is_/same_as :: [Vampire_Bat.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Phyllostomidae/Vampire_Bat.protect.md) 
+
+### #is_/same_as :: [Vampire_Bat.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Phyllostomidae/Vampire_Bat.private.md) 
+
+### #is_/same_as :: [Vampire_Bat.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Phyllostomidae/Vampire_Bat.personal.md) 
+
+### #is_/same_as :: [Vampire_Bat.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Bat/Microchiroptera/Phyllostomidae/Vampire_Bat.secret.md)
+

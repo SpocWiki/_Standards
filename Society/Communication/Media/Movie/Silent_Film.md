@@ -76,3 +76,22 @@ Commons_category: Silent film
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silent%20film) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Silent_Film](/_Standards/Society/Communication/Media/Movie/Silent_Film.md) 
+
+### #is_/same_as :: [Silent_Film.public](/_public/Society/Communication/Media/Movie/Silent_Film.public.md) 
+
+### #is_/same_as :: [Silent_Film.internal](/_internal/Society/Communication/Media/Movie/Silent_Film.internal.md) 
+
+### #is_/same_as :: [Silent_Film.protect](/_protect/Society/Communication/Media/Movie/Silent_Film.protect.md) 
+
+### #is_/same_as :: [Silent_Film.private](/_private/Society/Communication/Media/Movie/Silent_Film.private.md) 
+
+### #is_/same_as :: [Silent_Film.personal](/_personal/Society/Communication/Media/Movie/Silent_Film.personal.md) 
+
+### #is_/same_as :: [Silent_Film.secret](/_secret/Society/Communication/Media/Movie/Silent_Film.secret.md)
+

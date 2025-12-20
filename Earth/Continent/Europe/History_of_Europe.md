@@ -35,3 +35,22 @@ Classification_of_Instructional_Programs_code: "54.0103"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Europe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Europe](/_Standards/Earth/Continent/Europe/History_of_Europe.md) 
+
+### #is_/same_as :: [History_of_Europe.public](/_public/Earth/Continent/Europe/History_of_Europe.public.md) 
+
+### #is_/same_as :: [History_of_Europe.internal](/_internal/Earth/Continent/Europe/History_of_Europe.internal.md) 
+
+### #is_/same_as :: [History_of_Europe.protect](/_protect/Earth/Continent/Europe/History_of_Europe.protect.md) 
+
+### #is_/same_as :: [History_of_Europe.private](/_private/Earth/Continent/Europe/History_of_Europe.private.md) 
+
+### #is_/same_as :: [History_of_Europe.personal](/_personal/Earth/Continent/Europe/History_of_Europe.personal.md) 
+
+### #is_/same_as :: [History_of_Europe.secret](/_secret/Earth/Continent/Europe/History_of_Europe.secret.md)
+

@@ -50,3 +50,22 @@ Commons_category: Laplace's equation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laplace's%20equation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Laplace's_Equation](/_Standards/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.md) 
+
+### #is_/same_as :: [Laplace's_Equation.public](/_public/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.public.md) 
+
+### #is_/same_as :: [Laplace's_Equation.internal](/_internal/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.internal.md) 
+
+### #is_/same_as :: [Laplace's_Equation.protect](/_protect/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.protect.md) 
+
+### #is_/same_as :: [Laplace's_Equation.private](/_private/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.private.md) 
+
+### #is_/same_as :: [Laplace's_Equation.personal](/_personal/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.personal.md) 
+
+### #is_/same_as :: [Laplace's_Equation.secret](/_secret/Mathematics/Calculus/Differential_Equation/Laplace's_Equation.secret.md)
+

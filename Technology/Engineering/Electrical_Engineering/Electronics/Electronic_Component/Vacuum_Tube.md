@@ -88,3 +88,22 @@ Commons_category: Vacuum tubes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vacuum%20tube) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vacuum_Tube](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.md) 
+
+### #is_/same_as :: [Vacuum_Tube.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.public.md) 
+
+### #is_/same_as :: [Vacuum_Tube.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.internal.md) 
+
+### #is_/same_as :: [Vacuum_Tube.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.protect.md) 
+
+### #is_/same_as :: [Vacuum_Tube.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.private.md) 
+
+### #is_/same_as :: [Vacuum_Tube.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.personal.md) 
+
+### #is_/same_as :: [Vacuum_Tube.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Vacuum_Tube.secret.md)
+

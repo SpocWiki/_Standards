@@ -41,3 +41,22 @@ Commons_category: Peroxides
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peroxide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Peroxide](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.md) 
+
+### #is_/same_as :: [Peroxide.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.public.md) 
+
+### #is_/same_as :: [Peroxide.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.internal.md) 
+
+### #is_/same_as :: [Peroxide.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.protect.md) 
+
+### #is_/same_as :: [Peroxide.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.private.md) 
+
+### #is_/same_as :: [Peroxide.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.personal.md) 
+
+### #is_/same_as :: [Peroxide.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.secret.md)
+

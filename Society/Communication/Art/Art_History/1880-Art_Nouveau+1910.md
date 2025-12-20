@@ -64,3 +64,22 @@ Gujarati_Vishwakosh_entry: આર્ટ-નૂવો
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Art%20Nouveau) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1880-Art_Nouveau+1910](/_Standards/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.md) 
+
+### #is_/same_as :: [1880-Art_Nouveau+1910.public](/_public/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.public.md) 
+
+### #is_/same_as :: [1880-Art_Nouveau+1910.internal](/_internal/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.internal.md) 
+
+### #is_/same_as :: [1880-Art_Nouveau+1910.protect](/_protect/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.protect.md) 
+
+### #is_/same_as :: [1880-Art_Nouveau+1910.private](/_private/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.private.md) 
+
+### #is_/same_as :: [1880-Art_Nouveau+1910.personal](/_personal/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.personal.md) 
+
+### #is_/same_as :: [1880-Art_Nouveau+1910.secret](/_secret/Society/Communication/Art/Art_History/1880-Art_Nouveau+1910.secret.md)
+

@@ -62,3 +62,22 @@ Commons_category: Fall of Constantinople (1453)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fall%20of%20Constantinople) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1453-Fall_of_Constantinople](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.md) 
+
+### #is_/same_as :: [1453-Fall_of_Constantinople.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.public.md) 
+
+### #is_/same_as :: [1453-Fall_of_Constantinople.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.internal.md) 
+
+### #is_/same_as :: [1453-Fall_of_Constantinople.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.protect.md) 
+
+### #is_/same_as :: [1453-Fall_of_Constantinople.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.private.md) 
+
+### #is_/same_as :: [1453-Fall_of_Constantinople.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.personal.md) 
+
+### #is_/same_as :: [1453-Fall_of_Constantinople.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.secret.md)
+

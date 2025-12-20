@@ -64,3 +64,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Menopause) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Menopause](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.md) 
+
+### #is_/same_as :: [Menopause.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.public.md) 
+
+### #is_/same_as :: [Menopause.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.internal.md) 
+
+### #is_/same_as :: [Menopause.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.protect.md) 
+
+### #is_/same_as :: [Menopause.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.private.md) 
+
+### #is_/same_as :: [Menopause.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.personal.md) 
+
+### #is_/same_as :: [Menopause.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Menopause.secret.md)
+

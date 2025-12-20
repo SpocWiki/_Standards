@@ -155,3 +155,22 @@ GOST_7_75_97_code: кат 290
 > [Wikipedia](https://en.wikipedia.org/wiki/Catalan%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-cat](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.md) 
+
+### #is_/same_as :: [Lang-cat.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.public.md) 
+
+### #is_/same_as :: [Lang-cat.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.internal.md) 
+
+### #is_/same_as :: [Lang-cat.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.protect.md) 
+
+### #is_/same_as :: [Lang-cat.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.private.md) 
+
+### #is_/same_as :: [Lang-cat.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.personal.md) 
+
+### #is_/same_as :: [Lang-cat.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-cat.secret.md)
+

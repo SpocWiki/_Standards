@@ -155,3 +155,22 @@ described_at_URL: https://www.oxfordbibliographies.com/display/document/obo-9780
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yiddish) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yiddish](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu/Yiddish.md) 
+
+### #is_/same_as :: [Yiddish.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu/Yiddish.public.md) 
+
+### #is_/same_as :: [Yiddish.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu/Yiddish.internal.md) 
+
+### #is_/same_as :: [Yiddish.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu/Yiddish.protect.md) 
+
+### #is_/same_as :: [Yiddish.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu/Yiddish.private.md) 
+
+### #is_/same_as :: [Yiddish.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu/Yiddish.personal.md) 
+
+### #is_/same_as :: [Yiddish.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-deu/Yiddish.secret.md)
+

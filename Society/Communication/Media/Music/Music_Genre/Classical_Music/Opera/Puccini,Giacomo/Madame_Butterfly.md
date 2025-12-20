@@ -68,3 +68,22 @@ production_date: 1903-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Madama%20Butterfly) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Madame_Butterfly](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.md) 
+
+### #is_/same_as :: [Madame_Butterfly.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.public.md) 
+
+### #is_/same_as :: [Madame_Butterfly.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.internal.md) 
+
+### #is_/same_as :: [Madame_Butterfly.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.protect.md) 
+
+### #is_/same_as :: [Madame_Butterfly.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.private.md) 
+
+### #is_/same_as :: [Madame_Butterfly.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.personal.md) 
+
+### #is_/same_as :: [Madame_Butterfly.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo/Madame_Butterfly.secret.md)
+

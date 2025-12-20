@@ -30,3 +30,22 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000034
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rapids) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rapids](/_Standards/Earth/Geology/Landform/body_of_water/Rapids.md) 
+
+### #is_/same_as :: [Rapids.public](/_public/Earth/Geology/Landform/body_of_water/Rapids.public.md) 
+
+### #is_/same_as :: [Rapids.internal](/_internal/Earth/Geology/Landform/body_of_water/Rapids.internal.md) 
+
+### #is_/same_as :: [Rapids.protect](/_protect/Earth/Geology/Landform/body_of_water/Rapids.protect.md) 
+
+### #is_/same_as :: [Rapids.private](/_private/Earth/Geology/Landform/body_of_water/Rapids.private.md) 
+
+### #is_/same_as :: [Rapids.personal](/_personal/Earth/Geology/Landform/body_of_water/Rapids.personal.md) 
+
+### #is_/same_as :: [Rapids.secret](/_secret/Earth/Geology/Landform/body_of_water/Rapids.secret.md)
+

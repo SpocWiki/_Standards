@@ -53,3 +53,22 @@ Krugosvet_article: istoriya/RITSARSTVO.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chivalry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chivalry](/_Standards/Society/Military/Military_History/Chivalry.md) 
+
+### #is_/same_as :: [Chivalry.public](/_public/Society/Military/Military_History/Chivalry.public.md) 
+
+### #is_/same_as :: [Chivalry.internal](/_internal/Society/Military/Military_History/Chivalry.internal.md) 
+
+### #is_/same_as :: [Chivalry.protect](/_protect/Society/Military/Military_History/Chivalry.protect.md) 
+
+### #is_/same_as :: [Chivalry.private](/_private/Society/Military/Military_History/Chivalry.private.md) 
+
+### #is_/same_as :: [Chivalry.personal](/_personal/Society/Military/Military_History/Chivalry.personal.md) 
+
+### #is_/same_as :: [Chivalry.secret](/_secret/Society/Military/Military_History/Chivalry.secret.md)
+

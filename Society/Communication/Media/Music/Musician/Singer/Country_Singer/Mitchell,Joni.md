@@ -170,3 +170,22 @@ Europeana_entity: agent/base/60101
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joni%20Mitchell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mitchell,Joni](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.md) 
+
+### #is_/same_as :: [Mitchell,Joni.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.public.md) 
+
+### #is_/same_as :: [Mitchell,Joni.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.internal.md) 
+
+### #is_/same_as :: [Mitchell,Joni.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.protect.md) 
+
+### #is_/same_as :: [Mitchell,Joni.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.private.md) 
+
+### #is_/same_as :: [Mitchell,Joni.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.personal.md) 
+
+### #is_/same_as :: [Mitchell,Joni.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.secret.md)
+

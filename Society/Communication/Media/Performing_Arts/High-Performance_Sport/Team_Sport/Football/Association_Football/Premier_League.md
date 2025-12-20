@@ -81,3 +81,22 @@ Baidu_Tieba_name: 英超
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Premier%20League) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Premier_League](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.md) 
+
+### #is_/same_as :: [Premier_League.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.public.md) 
+
+### #is_/same_as :: [Premier_League.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.internal.md) 
+
+### #is_/same_as :: [Premier_League.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.protect.md) 
+
+### #is_/same_as :: [Premier_League.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.private.md) 
+
+### #is_/same_as :: [Premier_League.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.personal.md) 
+
+### #is_/same_as :: [Premier_League.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Premier_League.secret.md)
+

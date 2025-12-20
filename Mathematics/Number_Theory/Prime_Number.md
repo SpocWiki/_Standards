@@ -73,3 +73,22 @@ Commons_category: Prime numbers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prime%20number) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prime_Number](/_Standards/Mathematics/Number_Theory/Prime_Number.md) 
+
+### #is_/same_as :: [Prime_Number.public](/_public/Mathematics/Number_Theory/Prime_Number.public.md) 
+
+### #is_/same_as :: [Prime_Number.internal](/_internal/Mathematics/Number_Theory/Prime_Number.internal.md) 
+
+### #is_/same_as :: [Prime_Number.protect](/_protect/Mathematics/Number_Theory/Prime_Number.protect.md) 
+
+### #is_/same_as :: [Prime_Number.private](/_private/Mathematics/Number_Theory/Prime_Number.private.md) 
+
+### #is_/same_as :: [Prime_Number.personal](/_personal/Mathematics/Number_Theory/Prime_Number.personal.md) 
+
+### #is_/same_as :: [Prime_Number.secret](/_secret/Mathematics/Number_Theory/Prime_Number.secret.md)
+

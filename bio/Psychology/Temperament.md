@@ -27,3 +27,22 @@ Commons_category: Temperaments
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Temperament) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Temperament](/_Standards/bio/Psychology/Temperament.md) 
+
+### #is_/same_as :: [Temperament.public](/_public/bio/Psychology/Temperament.public.md) 
+
+### #is_/same_as :: [Temperament.internal](/_internal/bio/Psychology/Temperament.internal.md) 
+
+### #is_/same_as :: [Temperament.protect](/_protect/bio/Psychology/Temperament.protect.md) 
+
+### #is_/same_as :: [Temperament.private](/_private/bio/Psychology/Temperament.private.md) 
+
+### #is_/same_as :: [Temperament.personal](/_personal/bio/Psychology/Temperament.personal.md) 
+
+### #is_/same_as :: [Temperament.secret](/_secret/bio/Psychology/Temperament.secret.md)
+

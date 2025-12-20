@@ -17,3 +17,22 @@ has_id_wikidata: Q1521410
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kitchenware) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kitchenware](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.md) 
+
+### #is_/same_as :: [Kitchenware.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.public.md) 
+
+### #is_/same_as :: [Kitchenware.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.internal.md) 
+
+### #is_/same_as :: [Kitchenware.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.protect.md) 
+
+### #is_/same_as :: [Kitchenware.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.private.md) 
+
+### #is_/same_as :: [Kitchenware.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.personal.md) 
+
+### #is_/same_as :: [Kitchenware.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Kitchenware.secret.md)
+

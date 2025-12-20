@@ -60,3 +60,22 @@ Library_of_Congress_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mahayana) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mahayana](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.md) 
+
+### #is_/same_as :: [Mahayana.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.public.md) 
+
+### #is_/same_as :: [Mahayana.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.internal.md) 
+
+### #is_/same_as :: [Mahayana.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.protect.md) 
+
+### #is_/same_as :: [Mahayana.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.private.md) 
+
+### #is_/same_as :: [Mahayana.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.personal.md) 
+
+### #is_/same_as :: [Mahayana.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.secret.md)
+

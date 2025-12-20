@@ -90,3 +90,22 @@ This is a new, 5th [[../../../../State_of_Matter|State_of_Matter]].
 | **Dominant Interaction**      | QCD at high temperature                        | QCD at low energy (confining)       |
 | **Temperature (critical)**    | > T_c ≈ 1.6e12 K ≈ 155 MeV/kB                  | Below ( T_c )                       |
 | **Energy Density (critical)** | ε_c ≈ 1 GeV/fm³                                | < 0.2 GeV/fm³                       |
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quark–Gluon_Plasma](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma.md) 
+
+### #is_/same_as :: [Quark–Gluon_Plasma.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma.public.md) 
+
+### #is_/same_as :: [Quark–Gluon_Plasma.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma.internal.md) 
+
+### #is_/same_as :: [Quark–Gluon_Plasma.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma.protect.md) 
+
+### #is_/same_as :: [Quark–Gluon_Plasma.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma.private.md) 
+
+### #is_/same_as :: [Quark–Gluon_Plasma.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma.personal.md) 
+
+### #is_/same_as :: [Quark–Gluon_Plasma.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Large_Hadron_Collider/Quark–Gluon_Plasma.secret.md)
+

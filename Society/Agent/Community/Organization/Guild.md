@@ -65,3 +65,22 @@ start_time: 1100-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guild) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guild](/_Standards/Society/Agent/Community/Organization/Guild.md) 
+
+### #is_/same_as :: [Guild.public](/_public/Society/Agent/Community/Organization/Guild.public.md) 
+
+### #is_/same_as :: [Guild.internal](/_internal/Society/Agent/Community/Organization/Guild.internal.md) 
+
+### #is_/same_as :: [Guild.protect](/_protect/Society/Agent/Community/Organization/Guild.protect.md) 
+
+### #is_/same_as :: [Guild.private](/_private/Society/Agent/Community/Organization/Guild.private.md) 
+
+### #is_/same_as :: [Guild.personal](/_personal/Society/Agent/Community/Organization/Guild.personal.md) 
+
+### #is_/same_as :: [Guild.secret](/_secret/Society/Agent/Community/Organization/Guild.secret.md)
+

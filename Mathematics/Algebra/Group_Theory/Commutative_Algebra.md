@@ -29,3 +29,22 @@ has_id_wikidata: Q727659
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Commutative%20algebra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Commutative_Algebra](/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Algebra.md) 
+
+### #is_/same_as :: [Commutative_Algebra.public](/_public/Mathematics/Algebra/Group_Theory/Commutative_Algebra.public.md) 
+
+### #is_/same_as :: [Commutative_Algebra.internal](/_internal/Mathematics/Algebra/Group_Theory/Commutative_Algebra.internal.md) 
+
+### #is_/same_as :: [Commutative_Algebra.protect](/_protect/Mathematics/Algebra/Group_Theory/Commutative_Algebra.protect.md) 
+
+### #is_/same_as :: [Commutative_Algebra.private](/_private/Mathematics/Algebra/Group_Theory/Commutative_Algebra.private.md) 
+
+### #is_/same_as :: [Commutative_Algebra.personal](/_personal/Mathematics/Algebra/Group_Theory/Commutative_Algebra.personal.md) 
+
+### #is_/same_as :: [Commutative_Algebra.secret](/_secret/Mathematics/Algebra/Group_Theory/Commutative_Algebra.secret.md)
+

@@ -190,3 +190,22 @@ ISNI: 000000012102478X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hieronymus%20Bosch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bosch,Hieronymus](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.md) 
+
+### #is_/same_as :: [Bosch,Hieronymus.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.public.md) 
+
+### #is_/same_as :: [Bosch,Hieronymus.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.internal.md) 
+
+### #is_/same_as :: [Bosch,Hieronymus.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.protect.md) 
+
+### #is_/same_as :: [Bosch,Hieronymus.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.private.md) 
+
+### #is_/same_as :: [Bosch,Hieronymus.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.personal.md) 
+
+### #is_/same_as :: [Bosch,Hieronymus.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Bosch,Hieronymus.secret.md)
+

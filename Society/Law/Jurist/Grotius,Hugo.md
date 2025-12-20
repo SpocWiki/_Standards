@@ -135,3 +135,22 @@ Libris_URI: 1zcffj8k1s8zqhv
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hugo%20Grotius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grotius,Hugo](/_Standards/Society/Law/Jurist/Grotius,Hugo.md) 
+
+### #is_/same_as :: [Grotius,Hugo.public](/_public/Society/Law/Jurist/Grotius,Hugo.public.md) 
+
+### #is_/same_as :: [Grotius,Hugo.internal](/_internal/Society/Law/Jurist/Grotius,Hugo.internal.md) 
+
+### #is_/same_as :: [Grotius,Hugo.protect](/_protect/Society/Law/Jurist/Grotius,Hugo.protect.md) 
+
+### #is_/same_as :: [Grotius,Hugo.private](/_private/Society/Law/Jurist/Grotius,Hugo.private.md) 
+
+### #is_/same_as :: [Grotius,Hugo.personal](/_personal/Society/Law/Jurist/Grotius,Hugo.personal.md) 
+
+### #is_/same_as :: [Grotius,Hugo.secret](/_secret/Society/Law/Jurist/Grotius,Hugo.secret.md)
+

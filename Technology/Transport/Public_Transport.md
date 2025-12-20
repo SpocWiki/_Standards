@@ -74,3 +74,22 @@ OpenStreetMap_tag: type=public_transport
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20transport) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Public_Transport](/_Standards/Technology/Transport/Public_Transport.md) 
+
+### #is_/same_as :: [Public_Transport.public](/_public/Technology/Transport/Public_Transport.public.md) 
+
+### #is_/same_as :: [Public_Transport.internal](/_internal/Technology/Transport/Public_Transport.internal.md) 
+
+### #is_/same_as :: [Public_Transport.protect](/_protect/Technology/Transport/Public_Transport.protect.md) 
+
+### #is_/same_as :: [Public_Transport.private](/_private/Technology/Transport/Public_Transport.private.md) 
+
+### #is_/same_as :: [Public_Transport.personal](/_personal/Technology/Transport/Public_Transport.personal.md) 
+
+### #is_/same_as :: [Public_Transport.secret](/_secret/Technology/Transport/Public_Transport.secret.md)
+

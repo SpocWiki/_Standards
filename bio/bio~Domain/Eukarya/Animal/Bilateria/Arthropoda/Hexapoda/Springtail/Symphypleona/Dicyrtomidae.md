@@ -55,7 +55,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
   Scientific Name ::     Dicyrtoma fusca
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

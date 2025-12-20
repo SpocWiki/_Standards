@@ -51,3 +51,22 @@ NBN_System_Key: NHMSYS0000376175
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Porpoise) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Porpoise](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Porpoise.md) 
+
+### #is_/same_as :: [Porpoise.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Porpoise.public.md) 
+
+### #is_/same_as :: [Porpoise.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Porpoise.internal.md) 
+
+### #is_/same_as :: [Porpoise.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Porpoise.protect.md) 
+
+### #is_/same_as :: [Porpoise.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Porpoise.private.md) 
+
+### #is_/same_as :: [Porpoise.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Porpoise.personal.md) 
+
+### #is_/same_as :: [Porpoise.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Odontoceti/Delphinidae/Delphinoidea/Porpoise.secret.md)
+

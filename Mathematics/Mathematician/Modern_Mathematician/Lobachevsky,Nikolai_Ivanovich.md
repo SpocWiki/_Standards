@@ -98,3 +98,22 @@ ISNI: "0000000121208220"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nikolai%20Lobachevsky) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.md) 
+
+### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.public.md) 
+
+### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.internal.md) 
+
+### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.protect.md) 
+
+### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.private.md) 
+
+### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.personal.md) 
+
+### #is_/same_as :: [Lobachevsky,Nikolai_Ivanovich.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Lobachevsky,Nikolai_Ivanovich.secret.md)
+

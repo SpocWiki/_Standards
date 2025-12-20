@@ -39,17 +39,17 @@ A guideline contraindication that designates a process as harmful and where qual
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Guideline_Contraindication](/_Standards/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.md) 
+### #is_/same_as :: [Medical_Contraindication](/_Standards/bio/Medicine/Medical_Guideline/Medical_Contraindication.md) 
 
-### #is_/same_as :: [Medical_Guideline_Contraindication.public](/_public/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.public.md) 
+### #is_/same_as :: [Medical_Contraindication.public](/_public/bio/Medicine/Medical_Guideline/Medical_Contraindication.public.md) 
 
-### #is_/same_as :: [Medical_Guideline_Contraindication.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.internal.md) 
+### #is_/same_as :: [Medical_Contraindication.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Contraindication.internal.md) 
 
-### #is_/same_as :: [Medical_Guideline_Contraindication.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.protect.md) 
+### #is_/same_as :: [Medical_Contraindication.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Contraindication.protect.md) 
 
-### #is_/same_as :: [Medical_Guideline_Contraindication.private](/_private/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.private.md) 
+### #is_/same_as :: [Medical_Contraindication.private](/_private/bio/Medicine/Medical_Guideline/Medical_Contraindication.private.md) 
 
-### #is_/same_as :: [Medical_Guideline_Contraindication.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.personal.md) 
+### #is_/same_as :: [Medical_Contraindication.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Contraindication.personal.md) 
 
-### #is_/same_as :: [Medical_Guideline_Contraindication.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.secret.md)
+### #is_/same_as :: [Medical_Contraindication.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Contraindication.secret.md)
 

@@ -671,3 +671,22 @@ SPLASH:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oleic%20acid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oleic_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.md) 
+
+### #is_/same_as :: [Oleic_Acid.public](/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.public.md) 
+
+### #is_/same_as :: [Oleic_Acid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.internal.md) 
+
+### #is_/same_as :: [Oleic_Acid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.protect.md) 
+
+### #is_/same_as :: [Oleic_Acid.private](/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.private.md) 
+
+### #is_/same_as :: [Oleic_Acid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.personal.md) 
+
+### #is_/same_as :: [Oleic_Acid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.secret.md)
+

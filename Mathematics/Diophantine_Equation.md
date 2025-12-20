@@ -20,3 +20,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diophantine%20equation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diophantine_Equation](/_Standards/Mathematics/Diophantine_Equation.md) 
+
+### #is_/same_as :: [Diophantine_Equation.public](/_public/Mathematics/Diophantine_Equation.public.md) 
+
+### #is_/same_as :: [Diophantine_Equation.internal](/_internal/Mathematics/Diophantine_Equation.internal.md) 
+
+### #is_/same_as :: [Diophantine_Equation.protect](/_protect/Mathematics/Diophantine_Equation.protect.md) 
+
+### #is_/same_as :: [Diophantine_Equation.private](/_private/Mathematics/Diophantine_Equation.private.md) 
+
+### #is_/same_as :: [Diophantine_Equation.personal](/_personal/Mathematics/Diophantine_Equation.personal.md) 
+
+### #is_/same_as :: [Diophantine_Equation.secret](/_secret/Mathematics/Diophantine_Equation.secret.md)
+

@@ -62,17 +62,17 @@ type: LangFamily
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Turkic](/_Standards/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.md) 
+### #is_/same_as :: [LangFamily-Turkic](/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic.md) 
 
-### #is_/same_as :: [LangFamily-Turkic.public](/_public/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.public.md) 
+### #is_/same_as :: [LangFamily-Turkic.public](/_public/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic.public.md) 
 
-### #is_/same_as :: [LangFamily-Turkic.internal](/_internal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.internal.md) 
+### #is_/same_as :: [LangFamily-Turkic.internal](/_internal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic.internal.md) 
 
-### #is_/same_as :: [LangFamily-Turkic.protect](/_protect/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.protect.md) 
+### #is_/same_as :: [LangFamily-Turkic.protect](/_protect/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic.protect.md) 
 
-### #is_/same_as :: [LangFamily-Turkic.private](/_private/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.private.md) 
+### #is_/same_as :: [LangFamily-Turkic.private](/_private/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic.private.md) 
 
-### #is_/same_as :: [LangFamily-Turkic.personal](/_personal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.personal.md) 
+### #is_/same_as :: [LangFamily-Turkic.personal](/_personal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic.personal.md) 
 
-### #is_/same_as :: [LangFamily-Turkic.secret](/_secret/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.secret.md)
+### #is_/same_as :: [LangFamily-Turkic.secret](/_secret/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic.secret.md)
 

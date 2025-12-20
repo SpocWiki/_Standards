@@ -82,3 +82,22 @@ ISNI: "0000000096742658"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Isaiah) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Isaiah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.md) 
+
+### #is_/same_as :: [Isaiah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.public.md) 
+
+### #is_/same_as :: [Isaiah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.internal.md) 
+
+### #is_/same_as :: [Isaiah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.protect.md) 
+
+### #is_/same_as :: [Isaiah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.private.md) 
+
+### #is_/same_as :: [Isaiah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.personal.md) 
+
+### #is_/same_as :: [Isaiah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.secret.md)
+

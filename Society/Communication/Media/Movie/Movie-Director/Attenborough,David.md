@@ -41,17 +41,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Attenborough,David](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.md) 
+### #is_/same_as :: [Attenborough,David](/_Standards/Society/Communication/Media/Movie/Movie-Director/Attenborough,David.md) 
 
-### #is_/same_as :: [Attenborough,David.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.public.md) 
+### #is_/same_as :: [Attenborough,David.public](/_public/Society/Communication/Media/Movie/Movie-Director/Attenborough,David.public.md) 
 
-### #is_/same_as :: [Attenborough,David.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.internal.md) 
+### #is_/same_as :: [Attenborough,David.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Attenborough,David.internal.md) 
 
-### #is_/same_as :: [Attenborough,David.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.protect.md) 
+### #is_/same_as :: [Attenborough,David.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Attenborough,David.protect.md) 
 
-### #is_/same_as :: [Attenborough,David.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.private.md) 
+### #is_/same_as :: [Attenborough,David.private](/_private/Society/Communication/Media/Movie/Movie-Director/Attenborough,David.private.md) 
 
-### #is_/same_as :: [Attenborough,David.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.personal.md) 
+### #is_/same_as :: [Attenborough,David.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Attenborough,David.personal.md) 
 
-### #is_/same_as :: [Attenborough,David.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.secret.md)
+### #is_/same_as :: [Attenborough,David.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Attenborough,David.secret.md)
 

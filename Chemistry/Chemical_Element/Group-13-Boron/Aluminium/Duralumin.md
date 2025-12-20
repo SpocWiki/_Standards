@@ -33,3 +33,22 @@ Commons_category: Aluminium alloys
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Duralumin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Duralumin](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.md) 
+
+### #is_/same_as :: [Duralumin.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.public.md) 
+
+### #is_/same_as :: [Duralumin.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.internal.md) 
+
+### #is_/same_as :: [Duralumin.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.protect.md) 
+
+### #is_/same_as :: [Duralumin.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.private.md) 
+
+### #is_/same_as :: [Duralumin.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.personal.md) 
+
+### #is_/same_as :: [Duralumin.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.secret.md)
+

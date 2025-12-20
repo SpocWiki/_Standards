@@ -56,3 +56,22 @@ Unicode_character: 🧉
 > [Wikipedia](https://en.wikipedia.org/wiki/Mate%20(drink)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mate(Drink)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).md) 
+
+### #is_/same_as :: [Mate(Drink).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).public.md) 
+
+### #is_/same_as :: [Mate(Drink).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).internal.md) 
+
+### #is_/same_as :: [Mate(Drink).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).protect.md) 
+
+### #is_/same_as :: [Mate(Drink).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).private.md) 
+
+### #is_/same_as :: [Mate(Drink).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).personal.md) 
+
+### #is_/same_as :: [Mate(Drink).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Mate(Drink).secret.md)
+

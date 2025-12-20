@@ -78,17 +78,17 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/global_warming"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Global_Warming](/_Standards/Earth/Atmosphere,Earth/Climate/Global_Warming.md) 
+### #is_/same_as :: [Global_Warming](/_Standards/Earth/Climate/Global_Warming.md) 
 
-### #is_/same_as :: [Global_Warming.public](/_public/Earth/Atmosphere,Earth/Climate/Global_Warming.public.md) 
+### #is_/same_as :: [Global_Warming.public](/_public/Earth/Climate/Global_Warming.public.md) 
 
-### #is_/same_as :: [Global_Warming.internal](/_internal/Earth/Atmosphere,Earth/Climate/Global_Warming.internal.md) 
+### #is_/same_as :: [Global_Warming.internal](/_internal/Earth/Climate/Global_Warming.internal.md) 
 
-### #is_/same_as :: [Global_Warming.protect](/_protect/Earth/Atmosphere,Earth/Climate/Global_Warming.protect.md) 
+### #is_/same_as :: [Global_Warming.protect](/_protect/Earth/Climate/Global_Warming.protect.md) 
 
-### #is_/same_as :: [Global_Warming.private](/_private/Earth/Atmosphere,Earth/Climate/Global_Warming.private.md) 
+### #is_/same_as :: [Global_Warming.private](/_private/Earth/Climate/Global_Warming.private.md) 
 
-### #is_/same_as :: [Global_Warming.personal](/_personal/Earth/Atmosphere,Earth/Climate/Global_Warming.personal.md) 
+### #is_/same_as :: [Global_Warming.personal](/_personal/Earth/Climate/Global_Warming.personal.md) 
 
-### #is_/same_as :: [Global_Warming.secret](/_secret/Earth/Atmosphere,Earth/Climate/Global_Warming.secret.md)
+### #is_/same_as :: [Global_Warming.secret](/_secret/Earth/Climate/Global_Warming.secret.md)
 

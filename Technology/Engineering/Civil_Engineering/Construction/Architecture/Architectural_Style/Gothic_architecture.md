@@ -69,3 +69,22 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GOTICHESKAYA_A
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gothic%20architecture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gothic_architecture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.md) 
+
+### #is_/same_as :: [Gothic_architecture.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.public.md) 
+
+### #is_/same_as :: [Gothic_architecture.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.internal.md) 
+
+### #is_/same_as :: [Gothic_architecture.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.protect.md) 
+
+### #is_/same_as :: [Gothic_architecture.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.private.md) 
+
+### #is_/same_as :: [Gothic_architecture.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.personal.md) 
+
+### #is_/same_as :: [Gothic_architecture.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.secret.md)
+

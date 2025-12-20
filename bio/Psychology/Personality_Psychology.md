@@ -38,3 +38,22 @@ Provenio_UUID: e95a9e09-42b9-4125-8f67-dfb9353c8054
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Personality%20psychology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Personality_Psychology](/_Standards/bio/Psychology/Personality_Psychology.md) 
+
+### #is_/same_as :: [Personality_Psychology.public](/_public/bio/Psychology/Personality_Psychology.public.md) 
+
+### #is_/same_as :: [Personality_Psychology.internal](/_internal/bio/Psychology/Personality_Psychology.internal.md) 
+
+### #is_/same_as :: [Personality_Psychology.protect](/_protect/bio/Psychology/Personality_Psychology.protect.md) 
+
+### #is_/same_as :: [Personality_Psychology.private](/_private/bio/Psychology/Personality_Psychology.private.md) 
+
+### #is_/same_as :: [Personality_Psychology.personal](/_personal/bio/Psychology/Personality_Psychology.personal.md) 
+
+### #is_/same_as :: [Personality_Psychology.secret](/_secret/bio/Psychology/Personality_Psychology.secret.md)
+

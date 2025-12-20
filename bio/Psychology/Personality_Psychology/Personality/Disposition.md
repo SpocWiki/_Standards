@@ -29,3 +29,22 @@ contributing_factor_of: "[[_Standards/WikiData/WD~behavior,9332]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Disposition) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Disposition](/_Standards/bio/Psychology/Personality_Psychology/Personality/Disposition.md) 
+
+### #is_/same_as :: [Disposition.public](/_public/bio/Psychology/Personality_Psychology/Personality/Disposition.public.md) 
+
+### #is_/same_as :: [Disposition.internal](/_internal/bio/Psychology/Personality_Psychology/Personality/Disposition.internal.md) 
+
+### #is_/same_as :: [Disposition.protect](/_protect/bio/Psychology/Personality_Psychology/Personality/Disposition.protect.md) 
+
+### #is_/same_as :: [Disposition.private](/_private/bio/Psychology/Personality_Psychology/Personality/Disposition.private.md) 
+
+### #is_/same_as :: [Disposition.personal](/_personal/bio/Psychology/Personality_Psychology/Personality/Disposition.personal.md) 
+
+### #is_/same_as :: [Disposition.secret](/_secret/bio/Psychology/Personality_Psychology/Personality/Disposition.secret.md)
+

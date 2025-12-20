@@ -46,3 +46,22 @@ Colon_Classification: Q:36
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eschatology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eschatology](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.md) 
+
+### #is_/same_as :: [Eschatology.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.public.md) 
+
+### #is_/same_as :: [Eschatology.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.internal.md) 
+
+### #is_/same_as :: [Eschatology.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.protect.md) 
+
+### #is_/same_as :: [Eschatology.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.private.md) 
+
+### #is_/same_as :: [Eschatology.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.personal.md) 
+
+### #is_/same_as :: [Eschatology.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.secret.md)
+

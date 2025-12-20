@@ -69,3 +69,22 @@ Archive_of_Our_Own_tag: Dubious Science
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudoscience) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pseudoscience](/_Standards/Science/Pseudoscience.md) 
+
+### #is_/same_as :: [Pseudoscience.public](/_public/Science/Pseudoscience.public.md) 
+
+### #is_/same_as :: [Pseudoscience.internal](/_internal/Science/Pseudoscience.internal.md) 
+
+### #is_/same_as :: [Pseudoscience.protect](/_protect/Science/Pseudoscience.protect.md) 
+
+### #is_/same_as :: [Pseudoscience.private](/_private/Science/Pseudoscience.private.md) 
+
+### #is_/same_as :: [Pseudoscience.personal](/_personal/Science/Pseudoscience.personal.md) 
+
+### #is_/same_as :: [Pseudoscience.secret](/_secret/Science/Pseudoscience.secret.md)
+

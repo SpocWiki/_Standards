@@ -52,3 +52,22 @@ Commons_category: Sovereign states
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sovereign%20state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sovereign_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.md) 
+
+### #is_/same_as :: [Sovereign_State.public](/_public/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.public.md) 
+
+### #is_/same_as :: [Sovereign_State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.internal.md) 
+
+### #is_/same_as :: [Sovereign_State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.protect.md) 
+
+### #is_/same_as :: [Sovereign_State.private](/_private/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.private.md) 
+
+### #is_/same_as :: [Sovereign_State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.personal.md) 
+
+### #is_/same_as :: [Sovereign_State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.secret.md)
+

@@ -60,3 +60,22 @@ time_of_discovery_or_invention: 1994-12-08T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roentgenium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roentgenium](/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.md) 
+
+### #is_/same_as :: [Roentgenium.public](/_public/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.public.md) 
+
+### #is_/same_as :: [Roentgenium.internal](/_internal/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.internal.md) 
+
+### #is_/same_as :: [Roentgenium.protect](/_protect/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.protect.md) 
+
+### #is_/same_as :: [Roentgenium.private](/_private/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.private.md) 
+
+### #is_/same_as :: [Roentgenium.personal](/_personal/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.personal.md) 
+
+### #is_/same_as :: [Roentgenium.secret](/_secret/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.secret.md)
+

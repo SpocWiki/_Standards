@@ -39,17 +39,17 @@ A bowling alley.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bowling_Alley](Bowling_Alley.md) 
+### #is_/same_as :: [Bowling_Alley](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.md) 
 
-### #is_/same_as :: [Bowling_Alley.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.public.md) 
+### #is_/same_as :: [Bowling_Alley.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.public.md) 
 
-### #is_/same_as :: [Bowling_Alley.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.internal.md) 
+### #is_/same_as :: [Bowling_Alley.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.internal.md) 
 
-### #is_/same_as :: [Bowling_Alley.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.protect.md) 
+### #is_/same_as :: [Bowling_Alley.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.protect.md) 
 
-### #is_/same_as :: [Bowling_Alley.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.private.md) 
+### #is_/same_as :: [Bowling_Alley.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.private.md) 
 
-### #is_/same_as :: [Bowling_Alley.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.personal.md) 
+### #is_/same_as :: [Bowling_Alley.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.personal.md) 
 
-### #is_/same_as :: [Bowling_Alley.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.secret.md)
+### #is_/same_as :: [Bowling_Alley.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.secret.md)
 

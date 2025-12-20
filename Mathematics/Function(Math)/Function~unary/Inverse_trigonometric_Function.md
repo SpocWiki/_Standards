@@ -31,3 +31,22 @@ Commons_category: Inverse trigonometric functions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inverse%20trigonometric%20functions) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Inverse_trigonometric_Function](/_Standards/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.md) 
+
+### #is_/same_as :: [Inverse_trigonometric_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.public.md) 
+
+### #is_/same_as :: [Inverse_trigonometric_Function.internal](/_internal/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.internal.md) 
+
+### #is_/same_as :: [Inverse_trigonometric_Function.protect](/_protect/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.protect.md) 
+
+### #is_/same_as :: [Inverse_trigonometric_Function.private](/_private/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.private.md) 
+
+### #is_/same_as :: [Inverse_trigonometric_Function.personal](/_personal/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.personal.md) 
+
+### #is_/same_as :: [Inverse_trigonometric_Function.secret](/_secret/Mathematics/Function(Math)/Function~unary/Inverse_trigonometric_Function.secret.md)
+

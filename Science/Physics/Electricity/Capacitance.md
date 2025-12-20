@@ -70,8 +70,6 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 > [Wikipedia](https://en.wikipedia.org/wiki/Capacitance) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Capacitance](/_Standards/Science/Physics/Electricity/Capacitance.md) 

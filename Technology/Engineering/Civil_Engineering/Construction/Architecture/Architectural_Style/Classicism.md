@@ -34,3 +34,22 @@ start_time: 1660-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Classicism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Classicism](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.md) 
+
+### #is_/same_as :: [Classicism.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.public.md) 
+
+### #is_/same_as :: [Classicism.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.internal.md) 
+
+### #is_/same_as :: [Classicism.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.protect.md) 
+
+### #is_/same_as :: [Classicism.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.private.md) 
+
+### #is_/same_as :: [Classicism.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.personal.md) 
+
+### #is_/same_as :: [Classicism.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Classicism.secret.md)
+

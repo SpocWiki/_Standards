@@ -75,3 +75,22 @@ Commons_category: Stomachs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stomach) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stomach](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Stomach.md) 
+
+### #is_/same_as :: [Stomach.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Stomach.public.md) 
+
+### #is_/same_as :: [Stomach.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Stomach.internal.md) 
+
+### #is_/same_as :: [Stomach.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Stomach.protect.md) 
+
+### #is_/same_as :: [Stomach.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Stomach.private.md) 
+
+### #is_/same_as :: [Stomach.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Stomach.personal.md) 
+
+### #is_/same_as :: [Stomach.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Stomach.secret.md)
+

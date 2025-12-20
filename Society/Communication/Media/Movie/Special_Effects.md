@@ -55,3 +55,22 @@ IMDb_keyword: special-effects
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Special%20effect) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Special_Effects](/_Standards/Society/Communication/Media/Movie/Special_Effects.md) 
+
+### #is_/same_as :: [Special_Effects.public](/_public/Society/Communication/Media/Movie/Special_Effects.public.md) 
+
+### #is_/same_as :: [Special_Effects.internal](/_internal/Society/Communication/Media/Movie/Special_Effects.internal.md) 
+
+### #is_/same_as :: [Special_Effects.protect](/_protect/Society/Communication/Media/Movie/Special_Effects.protect.md) 
+
+### #is_/same_as :: [Special_Effects.private](/_private/Society/Communication/Media/Movie/Special_Effects.private.md) 
+
+### #is_/same_as :: [Special_Effects.personal](/_personal/Society/Communication/Media/Movie/Special_Effects.personal.md) 
+
+### #is_/same_as :: [Special_Effects.secret](/_secret/Society/Communication/Media/Movie/Special_Effects.secret.md)
+

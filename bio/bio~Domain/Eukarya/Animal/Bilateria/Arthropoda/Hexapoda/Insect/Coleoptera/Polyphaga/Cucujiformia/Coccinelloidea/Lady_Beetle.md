@@ -70,3 +70,22 @@ taxon_common_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coccinellidae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lady_Beetle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Lady_Beetle.md) 
+
+### #is_/same_as :: [Lady_Beetle.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Lady_Beetle.public.md) 
+
+### #is_/same_as :: [Lady_Beetle.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Lady_Beetle.internal.md) 
+
+### #is_/same_as :: [Lady_Beetle.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Lady_Beetle.protect.md) 
+
+### #is_/same_as :: [Lady_Beetle.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Lady_Beetle.private.md) 
+
+### #is_/same_as :: [Lady_Beetle.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Lady_Beetle.personal.md) 
+
+### #is_/same_as :: [Lady_Beetle.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Cucujiformia/Coccinelloidea/Lady_Beetle.secret.md)
+

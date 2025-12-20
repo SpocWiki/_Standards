@@ -38,3 +38,22 @@ IPTC_NewsCode: mediatopic/20000733
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20physics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nuclear_Physics](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics.md) 
+
+### #is_/same_as :: [Nuclear_Physics.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics.public.md) 
+
+### #is_/same_as :: [Nuclear_Physics.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics.internal.md) 
+
+### #is_/same_as :: [Nuclear_Physics.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics.protect.md) 
+
+### #is_/same_as :: [Nuclear_Physics.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics.private.md) 
+
+### #is_/same_as :: [Nuclear_Physics.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics.personal.md) 
+
+### #is_/same_as :: [Nuclear_Physics.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics.secret.md)
+

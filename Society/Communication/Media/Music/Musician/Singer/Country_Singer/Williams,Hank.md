@@ -152,3 +152,22 @@ date_of_birth: 1923-09-17T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hank%20Williams) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Williams,Hank](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.md) 
+
+### #is_/same_as :: [Williams,Hank.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.public.md) 
+
+### #is_/same_as :: [Williams,Hank.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.internal.md) 
+
+### #is_/same_as :: [Williams,Hank.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.protect.md) 
+
+### #is_/same_as :: [Williams,Hank.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.private.md) 
+
+### #is_/same_as :: [Williams,Hank.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.personal.md) 
+
+### #is_/same_as :: [Williams,Hank.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.secret.md)
+

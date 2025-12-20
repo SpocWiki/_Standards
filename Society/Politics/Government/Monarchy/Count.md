@@ -80,3 +80,22 @@ Commons_category: Counts
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Count](/_Standards/Society/Politics/Government/Monarchy/Count.md) 
+
+### #is_/same_as :: [Count.public](/_public/Society/Politics/Government/Monarchy/Count.public.md) 
+
+### #is_/same_as :: [Count.internal](/_internal/Society/Politics/Government/Monarchy/Count.internal.md) 
+
+### #is_/same_as :: [Count.protect](/_protect/Society/Politics/Government/Monarchy/Count.protect.md) 
+
+### #is_/same_as :: [Count.private](/_private/Society/Politics/Government/Monarchy/Count.private.md) 
+
+### #is_/same_as :: [Count.personal](/_personal/Society/Politics/Government/Monarchy/Count.personal.md) 
+
+### #is_/same_as :: [Count.secret](/_secret/Society/Politics/Government/Monarchy/Count.secret.md)
+

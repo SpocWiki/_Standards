@@ -113,3 +113,22 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rabies) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rabies](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Rabies.md) 
+
+### #is_/same_as :: [Rabies.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Rabies.public.md) 
+
+### #is_/same_as :: [Rabies.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Rabies.internal.md) 
+
+### #is_/same_as :: [Rabies.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Rabies.protect.md) 
+
+### #is_/same_as :: [Rabies.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Rabies.private.md) 
+
+### #is_/same_as :: [Rabies.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Rabies.personal.md) 
+
+### #is_/same_as :: [Rabies.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Rabies.secret.md)
+

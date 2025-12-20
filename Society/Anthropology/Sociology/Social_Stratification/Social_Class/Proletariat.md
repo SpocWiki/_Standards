@@ -38,3 +38,22 @@ named_after: "[[_Standards/WikiData/WD~proletarii,1775730]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Proletariat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Proletariat](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.md) 
+
+### #is_/same_as :: [Proletariat.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.public.md) 
+
+### #is_/same_as :: [Proletariat.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.internal.md) 
+
+### #is_/same_as :: [Proletariat.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.protect.md) 
+
+### #is_/same_as :: [Proletariat.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.private.md) 
+
+### #is_/same_as :: [Proletariat.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.personal.md) 
+
+### #is_/same_as :: [Proletariat.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Proletariat.secret.md)
+

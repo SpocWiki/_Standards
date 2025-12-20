@@ -177,3 +177,22 @@ Europeana_entity: agent/base/147075
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Judy%20Garland) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Garland,Judy](/_Standards/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.md) 
+
+### #is_/same_as :: [Garland,Judy.public](/_public/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.public.md) 
+
+### #is_/same_as :: [Garland,Judy.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.internal.md) 
+
+### #is_/same_as :: [Garland,Judy.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.protect.md) 
+
+### #is_/same_as :: [Garland,Judy.private](/_private/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.private.md) 
+
+### #is_/same_as :: [Garland,Judy.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.personal.md) 
+
+### #is_/same_as :: [Garland,Judy.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Garland,Judy.secret.md)
+

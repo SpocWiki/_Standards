@@ -39,17 +39,17 @@ A service to convert funds from one currency to another currency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Currency_Conversion_Service](Currency_Conversion_Service.md) 
+### #is_/same_as :: [Currency_Conversion_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.md) 
 
-### #is_/same_as :: [currency_conversion_service.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.public.md) 
+### #is_/same_as :: [Currency_Conversion_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.public.md) 
 
-### #is_/same_as :: [currency_conversion_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.internal.md) 
+### #is_/same_as :: [Currency_Conversion_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.internal.md) 
 
-### #is_/same_as :: [currency_conversion_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.protect.md) 
+### #is_/same_as :: [Currency_Conversion_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.protect.md) 
 
-### #is_/same_as :: [currency_conversion_service.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.private.md) 
+### #is_/same_as :: [Currency_Conversion_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.private.md) 
 
-### #is_/same_as :: [currency_conversion_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.personal.md) 
+### #is_/same_as :: [Currency_Conversion_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.personal.md) 
 
-### #is_/same_as :: [currency_conversion_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.secret.md)
+### #is_/same_as :: [Currency_Conversion_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.secret.md)
 

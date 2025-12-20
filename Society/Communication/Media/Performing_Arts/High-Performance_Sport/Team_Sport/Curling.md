@@ -52,3 +52,22 @@ Baidu_Tieba_name: 冰壶
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Curling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Curling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.md) 
+
+### #is_/same_as :: [Curling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.public.md) 
+
+### #is_/same_as :: [Curling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.internal.md) 
+
+### #is_/same_as :: [Curling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.protect.md) 
+
+### #is_/same_as :: [Curling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.private.md) 
+
+### #is_/same_as :: [Curling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.personal.md) 
+
+### #is_/same_as :: [Curling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Curling.secret.md)
+

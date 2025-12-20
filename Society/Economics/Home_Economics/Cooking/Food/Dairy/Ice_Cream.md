@@ -87,3 +87,22 @@ Baidu_Tieba_name: 冰淇淋
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ice%20cream) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ice_Cream](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.md) 
+
+### #is_/same_as :: [Ice_Cream.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.public.md) 
+
+### #is_/same_as :: [Ice_Cream.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.internal.md) 
+
+### #is_/same_as :: [Ice_Cream.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.protect.md) 
+
+### #is_/same_as :: [Ice_Cream.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.private.md) 
+
+### #is_/same_as :: [Ice_Cream.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.personal.md) 
+
+### #is_/same_as :: [Ice_Cream.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.secret.md)
+

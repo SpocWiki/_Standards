@@ -73,3 +73,22 @@ Commons_gallery: Pipe (material)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pipe%20(fluid%20conveyance)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pipe](/_Standards/Technology/Transport/Pipeline_Transport/Pipe.md) 
+
+### #is_/same_as :: [Pipe.public](/_public/Technology/Transport/Pipeline_Transport/Pipe.public.md) 
+
+### #is_/same_as :: [Pipe.internal](/_internal/Technology/Transport/Pipeline_Transport/Pipe.internal.md) 
+
+### #is_/same_as :: [Pipe.protect](/_protect/Technology/Transport/Pipeline_Transport/Pipe.protect.md) 
+
+### #is_/same_as :: [Pipe.private](/_private/Technology/Transport/Pipeline_Transport/Pipe.private.md) 
+
+### #is_/same_as :: [Pipe.personal](/_personal/Technology/Transport/Pipeline_Transport/Pipe.personal.md) 
+
+### #is_/same_as :: [Pipe.secret](/_secret/Technology/Transport/Pipeline_Transport/Pipe.secret.md)
+

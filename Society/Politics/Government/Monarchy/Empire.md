@@ -70,3 +70,22 @@ united and ruled either by a central authority or a central figure
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Empire) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Empire](/_Standards/Society/Politics/Government/Monarchy/Empire.md) 
+
+### #is_/same_as :: [Empire.public](/_public/Society/Politics/Government/Monarchy/Empire.public.md) 
+
+### #is_/same_as :: [Empire.internal](/_internal/Society/Politics/Government/Monarchy/Empire.internal.md) 
+
+### #is_/same_as :: [Empire.protect](/_protect/Society/Politics/Government/Monarchy/Empire.protect.md) 
+
+### #is_/same_as :: [Empire.private](/_private/Society/Politics/Government/Monarchy/Empire.private.md) 
+
+### #is_/same_as :: [Empire.personal](/_personal/Society/Politics/Government/Monarchy/Empire.personal.md) 
+
+### #is_/same_as :: [Empire.secret](/_secret/Society/Politics/Government/Monarchy/Empire.secret.md)
+

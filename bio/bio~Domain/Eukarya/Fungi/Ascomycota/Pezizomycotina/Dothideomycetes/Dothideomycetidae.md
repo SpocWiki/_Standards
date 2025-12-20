@@ -28,7 +28,7 @@ title: Dothideomycetidae
 -   *[Dothideales](Dothideales)*
 -   *[Capnodiales](Capnodiales)*
 
-Containing group:[Dothideomycetes](../Dothideomycetes.md))
+Containing group:[Dothideomycetes](../Dothideomycetes.md))
 
 
 ## Confidential Links & Embeds: 

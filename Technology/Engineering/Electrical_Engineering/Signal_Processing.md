@@ -38,3 +38,22 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/signal-processing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Signal%20processing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Signal_Processing](/_Standards/Technology/Engineering/Electrical_Engineering/Signal_Processing.md) 
+
+### #is_/same_as :: [Signal_Processing.public](/_public/Technology/Engineering/Electrical_Engineering/Signal_Processing.public.md) 
+
+### #is_/same_as :: [Signal_Processing.internal](/_internal/Technology/Engineering/Electrical_Engineering/Signal_Processing.internal.md) 
+
+### #is_/same_as :: [Signal_Processing.protect](/_protect/Technology/Engineering/Electrical_Engineering/Signal_Processing.protect.md) 
+
+### #is_/same_as :: [Signal_Processing.private](/_private/Technology/Engineering/Electrical_Engineering/Signal_Processing.private.md) 
+
+### #is_/same_as :: [Signal_Processing.personal](/_personal/Technology/Engineering/Electrical_Engineering/Signal_Processing.personal.md) 
+
+### #is_/same_as :: [Signal_Processing.secret](/_secret/Technology/Engineering/Electrical_Engineering/Signal_Processing.secret.md)
+

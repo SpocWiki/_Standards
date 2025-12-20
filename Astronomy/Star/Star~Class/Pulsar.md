@@ -18,3 +18,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pulsar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pulsar](/_Standards/Astronomy/Star/Star~Class/Pulsar.md) 
+
+### #is_/same_as :: [Pulsar.public](/_public/Astronomy/Star/Star~Class/Pulsar.public.md) 
+
+### #is_/same_as :: [Pulsar.internal](/_internal/Astronomy/Star/Star~Class/Pulsar.internal.md) 
+
+### #is_/same_as :: [Pulsar.protect](/_protect/Astronomy/Star/Star~Class/Pulsar.protect.md) 
+
+### #is_/same_as :: [Pulsar.private](/_private/Astronomy/Star/Star~Class/Pulsar.private.md) 
+
+### #is_/same_as :: [Pulsar.personal](/_personal/Astronomy/Star/Star~Class/Pulsar.personal.md) 
+
+### #is_/same_as :: [Pulsar.secret](/_secret/Astronomy/Star/Star~Class/Pulsar.secret.md)
+

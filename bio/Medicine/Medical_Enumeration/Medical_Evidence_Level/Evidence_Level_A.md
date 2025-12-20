@@ -40,17 +40,17 @@ Data derived from multiple randomized clinical trials or meta-analyses.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [evidence_level_a](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.md) 
+### #is_/same_as :: [Evidence_Level_A](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.md) 
 
-### #is_/same_as :: [evidence_level_a.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.public.md) 
+### #is_/same_as :: [Evidence_Level_A.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.public.md) 
 
-### #is_/same_as :: [evidence_level_a.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.internal.md) 
+### #is_/same_as :: [Evidence_Level_A.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.internal.md) 
 
-### #is_/same_as :: [evidence_level_a.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.protect.md) 
+### #is_/same_as :: [Evidence_Level_A.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.protect.md) 
 
-### #is_/same_as :: [evidence_level_a.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.private.md) 
+### #is_/same_as :: [Evidence_Level_A.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.private.md) 
 
-### #is_/same_as :: [evidence_level_a.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.personal.md) 
+### #is_/same_as :: [Evidence_Level_A.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.personal.md) 
 
-### #is_/same_as :: [evidence_level_a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.secret.md)
+### #is_/same_as :: [Evidence_Level_A.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.secret.md)
 

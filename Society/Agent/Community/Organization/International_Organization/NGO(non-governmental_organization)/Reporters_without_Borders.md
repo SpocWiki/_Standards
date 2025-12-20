@@ -100,3 +100,22 @@ native_label: Reporters sans frontières
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reporters%20Without%20Borders) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reporters_without_Borders](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.md) 
+
+### #is_/same_as :: [Reporters_without_Borders.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.public.md) 
+
+### #is_/same_as :: [Reporters_without_Borders.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.internal.md) 
+
+### #is_/same_as :: [Reporters_without_Borders.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.protect.md) 
+
+### #is_/same_as :: [Reporters_without_Borders.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.private.md) 
+
+### #is_/same_as :: [Reporters_without_Borders.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.personal.md) 
+
+### #is_/same_as :: [Reporters_without_Borders.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.secret.md)
+

@@ -174,7 +174,7 @@ Neptune City, NJ, 351pp.
   Location ::           off Hawaii
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  --------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -53,3 +53,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmic%20ray) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cosmic_Radiation](/_Standards/Astronomy/Universe/Cosmic_Radiation.md) 
+
+### #is_/same_as :: [Cosmic_Radiation.public](/_public/Astronomy/Universe/Cosmic_Radiation.public.md) 
+
+### #is_/same_as :: [Cosmic_Radiation.internal](/_internal/Astronomy/Universe/Cosmic_Radiation.internal.md) 
+
+### #is_/same_as :: [Cosmic_Radiation.protect](/_protect/Astronomy/Universe/Cosmic_Radiation.protect.md) 
+
+### #is_/same_as :: [Cosmic_Radiation.private](/_private/Astronomy/Universe/Cosmic_Radiation.private.md) 
+
+### #is_/same_as :: [Cosmic_Radiation.personal](/_personal/Astronomy/Universe/Cosmic_Radiation.personal.md) 
+
+### #is_/same_as :: [Cosmic_Radiation.secret](/_secret/Astronomy/Universe/Cosmic_Radiation.secret.md)
+

@@ -55,3 +55,22 @@ exact_match: http://wordnet-rdf.princeton.edu/wn30/03938244-n
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pillow) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pillow](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.md) 
+
+### #is_/same_as :: [Pillow.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.public.md) 
+
+### #is_/same_as :: [Pillow.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.internal.md) 
+
+### #is_/same_as :: [Pillow.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.protect.md) 
+
+### #is_/same_as :: [Pillow.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.private.md) 
+
+### #is_/same_as :: [Pillow.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.personal.md) 
+
+### #is_/same_as :: [Pillow.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.secret.md)
+

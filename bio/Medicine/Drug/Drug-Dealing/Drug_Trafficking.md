@@ -47,3 +47,22 @@ IPTC_NewsCode: mediatopic/20000096
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Illegal%20drug%20trade) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Drug_Trafficking](/_Standards/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.md) 
+
+### #is_/same_as :: [Drug_Trafficking.public](/_public/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.public.md) 
+
+### #is_/same_as :: [Drug_Trafficking.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.internal.md) 
+
+### #is_/same_as :: [Drug_Trafficking.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.protect.md) 
+
+### #is_/same_as :: [Drug_Trafficking.private](/_private/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.private.md) 
+
+### #is_/same_as :: [Drug_Trafficking.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.personal.md) 
+
+### #is_/same_as :: [Drug_Trafficking.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Drug_Trafficking.secret.md)
+

@@ -75,3 +75,22 @@ Wikidata_usage_instructions:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Name) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Name](/_Standards/schema-org/Property/has_name/Name.md) 
+
+### #is_/same_as :: [Name.public](/_public/schema-org/Property/has_name/Name.public.md) 
+
+### #is_/same_as :: [Name.internal](/_internal/schema-org/Property/has_name/Name.internal.md) 
+
+### #is_/same_as :: [Name.protect](/_protect/schema-org/Property/has_name/Name.protect.md) 
+
+### #is_/same_as :: [Name.private](/_private/schema-org/Property/has_name/Name.private.md) 
+
+### #is_/same_as :: [Name.personal](/_personal/schema-org/Property/has_name/Name.personal.md) 
+
+### #is_/same_as :: [Name.secret](/_secret/schema-org/Property/has_name/Name.secret.md)
+

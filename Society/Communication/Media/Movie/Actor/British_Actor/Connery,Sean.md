@@ -173,17 +173,17 @@ Libris_URI: hftx2w414tkxmv0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Connery,Sean](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Connery,Sean.md) 
+### #is_/same_as :: [Connery,Sean](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Connery,Sean.md) 
 
-### #is_/same_as :: [Connery,Sean.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Connery,Sean.public.md) 
+### #is_/same_as :: [Connery,Sean.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Connery,Sean.public.md) 
 
-### #is_/same_as :: [Connery,Sean.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Connery,Sean.internal.md) 
+### #is_/same_as :: [Connery,Sean.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Connery,Sean.internal.md) 
 
-### #is_/same_as :: [Connery,Sean.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Connery,Sean.protect.md) 
+### #is_/same_as :: [Connery,Sean.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Connery,Sean.protect.md) 
 
-### #is_/same_as :: [Connery,Sean.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Connery,Sean.private.md) 
+### #is_/same_as :: [Connery,Sean.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Connery,Sean.private.md) 
 
-### #is_/same_as :: [Connery,Sean.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Connery,Sean.personal.md) 
+### #is_/same_as :: [Connery,Sean.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Connery,Sean.personal.md) 
 
-### #is_/same_as :: [Connery,Sean.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Connery,Sean.secret.md)
+### #is_/same_as :: [Connery,Sean.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Connery,Sean.secret.md)
 

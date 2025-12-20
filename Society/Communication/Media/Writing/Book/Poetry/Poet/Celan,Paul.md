@@ -107,3 +107,22 @@ Europeana_entity: agent/base/62523
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Celan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Celan,Paul](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.md) 
+
+### #is_/same_as :: [Celan,Paul.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.public.md) 
+
+### #is_/same_as :: [Celan,Paul.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.internal.md) 
+
+### #is_/same_as :: [Celan,Paul.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.protect.md) 
+
+### #is_/same_as :: [Celan,Paul.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.private.md) 
+
+### #is_/same_as :: [Celan,Paul.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.personal.md) 
+
+### #is_/same_as :: [Celan,Paul.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Celan,Paul.secret.md)
+

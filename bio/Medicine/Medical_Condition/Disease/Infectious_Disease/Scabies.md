@@ -87,3 +87,22 @@ native_label: Manqa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scabies) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scabies](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.md) 
+
+### #is_/same_as :: [Scabies.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.public.md) 
+
+### #is_/same_as :: [Scabies.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.internal.md) 
+
+### #is_/same_as :: [Scabies.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.protect.md) 
+
+### #is_/same_as :: [Scabies.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.private.md) 
+
+### #is_/same_as :: [Scabies.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.personal.md) 
+
+### #is_/same_as :: [Scabies.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scabies.secret.md)
+

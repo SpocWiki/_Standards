@@ -30,3 +30,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Linux%20kernel) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Linux_Kernel](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.md) 
+
+### #is_/same_as :: [Linux_Kernel.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.public.md) 
+
+### #is_/same_as :: [Linux_Kernel.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.internal.md) 
+
+### #is_/same_as :: [Linux_Kernel.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.protect.md) 
+
+### #is_/same_as :: [Linux_Kernel.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.private.md) 
+
+### #is_/same_as :: [Linux_Kernel.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.personal.md) 
+
+### #is_/same_as :: [Linux_Kernel.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.secret.md)
+

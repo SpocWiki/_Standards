@@ -74,3 +74,22 @@ Krugosvet_article_archived_: Earth_sciences/geologiya/RUBIN.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ruby) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ruby](/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.md) 
+
+### #is_/same_as :: [Ruby.public](/_public/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.public.md) 
+
+### #is_/same_as :: [Ruby.internal](/_internal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.internal.md) 
+
+### #is_/same_as :: [Ruby.protect](/_protect/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.protect.md) 
+
+### #is_/same_as :: [Ruby.private](/_private/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.private.md) 
+
+### #is_/same_as :: [Ruby.personal](/_personal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.personal.md) 
+
+### #is_/same_as :: [Ruby.secret](/_secret/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.secret.md)
+

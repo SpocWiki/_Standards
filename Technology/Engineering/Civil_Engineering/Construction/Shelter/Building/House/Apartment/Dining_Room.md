@@ -33,3 +33,22 @@ Commons_category: Dining rooms
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dining%20room) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dining_Room](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.md) 
+
+### #is_/same_as :: [Dining_Room.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.public.md) 
+
+### #is_/same_as :: [Dining_Room.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.internal.md) 
+
+### #is_/same_as :: [Dining_Room.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.protect.md) 
+
+### #is_/same_as :: [Dining_Room.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.private.md) 
+
+### #is_/same_as :: [Dining_Room.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.personal.md) 
+
+### #is_/same_as :: [Dining_Room.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.secret.md)
+

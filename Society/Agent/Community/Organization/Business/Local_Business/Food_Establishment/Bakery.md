@@ -39,17 +39,17 @@ A bakery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bakery](Bakery.md) 
+### #is_/same_as :: [Bakery](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.md) 
 
-### #is_/same_as :: [Bakery.public](/_public/Society/Organization/Local_Business/Food_Establishment/Bakery.public.md) 
+### #is_/same_as :: [Bakery.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.public.md) 
 
-### #is_/same_as :: [Bakery.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Bakery.internal.md) 
+### #is_/same_as :: [Bakery.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.internal.md) 
 
-### #is_/same_as :: [Bakery.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Bakery.protect.md) 
+### #is_/same_as :: [Bakery.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.protect.md) 
 
-### #is_/same_as :: [Bakery.private](/_private/Society/Organization/Local_Business/Food_Establishment/Bakery.private.md) 
+### #is_/same_as :: [Bakery.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.private.md) 
 
-### #is_/same_as :: [Bakery.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Bakery.personal.md) 
+### #is_/same_as :: [Bakery.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.personal.md) 
 
-### #is_/same_as :: [Bakery.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Bakery.secret.md)
+### #is_/same_as :: [Bakery.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.secret.md)
 

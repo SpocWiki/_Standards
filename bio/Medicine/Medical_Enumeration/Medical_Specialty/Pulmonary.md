@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to the study of the respirato
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [pulmonary](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.md) 
+### #is_/same_as :: [Pulmonary](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.md) 
 
-### #is_/same_as :: [pulmonary.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.public.md) 
+### #is_/same_as :: [Pulmonary.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.public.md) 
 
-### #is_/same_as :: [pulmonary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.internal.md) 
+### #is_/same_as :: [Pulmonary.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.internal.md) 
 
-### #is_/same_as :: [pulmonary.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.protect.md) 
+### #is_/same_as :: [Pulmonary.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.protect.md) 
 
-### #is_/same_as :: [pulmonary.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.private.md) 
+### #is_/same_as :: [Pulmonary.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.private.md) 
 
-### #is_/same_as :: [pulmonary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.personal.md) 
+### #is_/same_as :: [Pulmonary.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.personal.md) 
 
-### #is_/same_as :: [pulmonary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.secret.md)
+### #is_/same_as :: [Pulmonary.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.secret.md)
 

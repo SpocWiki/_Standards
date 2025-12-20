@@ -163,7 +163,7 @@ Contr. Zool., No. 586:373-384..
   Scientific Name ::  Eucleoteuthis luminosa
   Location ::        off Hawaii
   Copyright ::         © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

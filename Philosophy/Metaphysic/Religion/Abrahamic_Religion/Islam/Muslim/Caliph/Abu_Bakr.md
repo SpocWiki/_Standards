@@ -58,3 +58,22 @@ has_id_wikidata: Q334923
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Bakr) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abu_Bakr](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.md) 
+
+### #is_/same_as :: [Abu_Bakr.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.public.md) 
+
+### #is_/same_as :: [Abu_Bakr.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.internal.md) 
+
+### #is_/same_as :: [Abu_Bakr.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.protect.md) 
+
+### #is_/same_as :: [Abu_Bakr.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.private.md) 
+
+### #is_/same_as :: [Abu_Bakr.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.personal.md) 
+
+### #is_/same_as :: [Abu_Bakr.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.secret.md)
+

@@ -21,3 +21,22 @@ has_id_wikidata: Q120877
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cloning) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cloning](/_Standards/bio/Reproduction/Cloning.md) 
+
+### #is_/same_as :: [Cloning.public](/_public/bio/Reproduction/Cloning.public.md) 
+
+### #is_/same_as :: [Cloning.internal](/_internal/bio/Reproduction/Cloning.internal.md) 
+
+### #is_/same_as :: [Cloning.protect](/_protect/bio/Reproduction/Cloning.protect.md) 
+
+### #is_/same_as :: [Cloning.private](/_private/bio/Reproduction/Cloning.private.md) 
+
+### #is_/same_as :: [Cloning.personal](/_personal/bio/Reproduction/Cloning.personal.md) 
+
+### #is_/same_as :: [Cloning.secret](/_secret/bio/Reproduction/Cloning.secret.md)
+

@@ -38,3 +38,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20woman%20makes%20a%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Curse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Curse](/_Standards/Philosophy/Metaphysic/Supernatural/Curse.md) 
+
+### #is_/same_as :: [Curse.public](/_public/Philosophy/Metaphysic/Supernatural/Curse.public.md) 
+
+### #is_/same_as :: [Curse.internal](/_internal/Philosophy/Metaphysic/Supernatural/Curse.internal.md) 
+
+### #is_/same_as :: [Curse.protect](/_protect/Philosophy/Metaphysic/Supernatural/Curse.protect.md) 
+
+### #is_/same_as :: [Curse.private](/_private/Philosophy/Metaphysic/Supernatural/Curse.private.md) 
+
+### #is_/same_as :: [Curse.personal](/_personal/Philosophy/Metaphysic/Supernatural/Curse.personal.md) 
+
+### #is_/same_as :: [Curse.secret](/_secret/Philosophy/Metaphysic/Supernatural/Curse.secret.md)
+

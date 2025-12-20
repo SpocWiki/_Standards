@@ -58,3 +58,22 @@ than with a[[../../../../IT/Data/Data~Graphics/Text-Diagrams/Diagram~Mermaid/MMD
 type: folder_brief_live
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Structured](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured.md) 
+
+### #is_/same_as :: [Prog~Structured.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured.public.md) 
+
+### #is_/same_as :: [Prog~Structured.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured.internal.md) 
+
+### #is_/same_as :: [Prog~Structured.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured.protect.md) 
+
+### #is_/same_as :: [Prog~Structured.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured.private.md) 
+
+### #is_/same_as :: [Prog~Structured.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured.personal.md) 
+
+### #is_/same_as :: [Prog~Structured.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured.secret.md)
+

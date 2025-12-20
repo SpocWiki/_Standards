@@ -42,17 +42,17 @@ NonprofitANBI: Non-profit type referring to a Public Benefit Organization (NL).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit_Anbi](Nonprofit_Anbi.md) 
+### #is_/same_as :: [Nonprofit_Anbi](/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.md) 
 
-### #is_/same_as :: [nonprofit_anbi.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.public.md) 
+### #is_/same_as :: [Nonprofit_Anbi.public](/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.public.md) 
 
-### #is_/same_as :: [nonprofit_anbi.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.internal.md) 
+### #is_/same_as :: [Nonprofit_Anbi.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.internal.md) 
 
-### #is_/same_as :: [nonprofit_anbi.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.protect.md) 
+### #is_/same_as :: [Nonprofit_Anbi.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.protect.md) 
 
-### #is_/same_as :: [nonprofit_anbi.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.private.md) 
+### #is_/same_as :: [Nonprofit_Anbi.private](/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.private.md) 
 
-### #is_/same_as :: [nonprofit_anbi.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.personal.md) 
+### #is_/same_as :: [Nonprofit_Anbi.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.personal.md) 
 
-### #is_/same_as :: [nonprofit_anbi.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.secret.md)
+### #is_/same_as :: [Nonprofit_Anbi.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.secret.md)
 

@@ -69,3 +69,22 @@ Commons_category: Parabolas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parabola) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parabola](/_Standards/Mathematics/Geometry/Parabola.md) 
+
+### #is_/same_as :: [Parabola.public](/_public/Mathematics/Geometry/Parabola.public.md) 
+
+### #is_/same_as :: [Parabola.internal](/_internal/Mathematics/Geometry/Parabola.internal.md) 
+
+### #is_/same_as :: [Parabola.protect](/_protect/Mathematics/Geometry/Parabola.protect.md) 
+
+### #is_/same_as :: [Parabola.private](/_private/Mathematics/Geometry/Parabola.private.md) 
+
+### #is_/same_as :: [Parabola.personal](/_personal/Mathematics/Geometry/Parabola.personal.md) 
+
+### #is_/same_as :: [Parabola.secret](/_secret/Mathematics/Geometry/Parabola.secret.md)
+

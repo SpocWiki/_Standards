@@ -35,3 +35,22 @@ has_id_wikidata: Q33477
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eug%C3%A8ne%20Delacroix) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Delacroix,Eugène](/_Standards/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.md) 
+
+### #is_/same_as :: [Delacroix,Eugène.public](/_public/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.public.md) 
+
+### #is_/same_as :: [Delacroix,Eugène.internal](/_internal/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.internal.md) 
+
+### #is_/same_as :: [Delacroix,Eugène.protect](/_protect/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.protect.md) 
+
+### #is_/same_as :: [Delacroix,Eugène.private](/_private/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.private.md) 
+
+### #is_/same_as :: [Delacroix,Eugène.personal](/_personal/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.personal.md) 
+
+### #is_/same_as :: [Delacroix,Eugène.secret](/_secret/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.secret.md)
+

@@ -55,17 +55,17 @@ title: Thermodesulfobacteria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thermodesulfobacteria](Thermodesulfobacteria.md) 
+### #is_/same_as :: [Thermodesulfobacteria](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Thermodesulfobacteria.md) 
 
-### #is_/same_as :: [Thermodesulfobacteria.public](/_public/bio/bio~Domain/Bacteria/Thermodesulfobacteria.public.md) 
+### #is_/same_as :: [Thermodesulfobacteria.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Thermodesulfobacteria.public.md) 
 
-### #is_/same_as :: [Thermodesulfobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Thermodesulfobacteria.internal.md) 
+### #is_/same_as :: [Thermodesulfobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Thermodesulfobacteria.internal.md) 
 
-### #is_/same_as :: [Thermodesulfobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Thermodesulfobacteria.protect.md) 
+### #is_/same_as :: [Thermodesulfobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Thermodesulfobacteria.protect.md) 
 
-### #is_/same_as :: [Thermodesulfobacteria.private](/_private/bio/bio~Domain/Bacteria/Thermodesulfobacteria.private.md) 
+### #is_/same_as :: [Thermodesulfobacteria.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Thermodesulfobacteria.private.md) 
 
-### #is_/same_as :: [Thermodesulfobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Thermodesulfobacteria.personal.md) 
+### #is_/same_as :: [Thermodesulfobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Thermodesulfobacteria.personal.md) 
 
-### #is_/same_as :: [Thermodesulfobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Thermodesulfobacteria.secret.md)
+### #is_/same_as :: [Thermodesulfobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Thermodesulfobacteria.secret.md)
 

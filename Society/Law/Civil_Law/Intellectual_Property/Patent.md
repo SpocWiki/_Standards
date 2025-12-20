@@ -58,3 +58,22 @@ MeSH_tree_code: V02.675
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Patent) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Patent](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Patent.md) 
+
+### #is_/same_as :: [Patent.public](/_public/Society/Law/Civil_Law/Intellectual_Property/Patent.public.md) 
+
+### #is_/same_as :: [Patent.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property/Patent.internal.md) 
+
+### #is_/same_as :: [Patent.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property/Patent.protect.md) 
+
+### #is_/same_as :: [Patent.private](/_private/Society/Law/Civil_Law/Intellectual_Property/Patent.private.md) 
+
+### #is_/same_as :: [Patent.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property/Patent.personal.md) 
+
+### #is_/same_as :: [Patent.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property/Patent.secret.md)
+

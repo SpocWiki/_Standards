@@ -24,3 +24,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alan_Parsons_Project](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.md) 
+
+### #is_/same_as :: [Alan_Parsons_Project.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.public.md) 
+
+### #is_/same_as :: [Alan_Parsons_Project.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.internal.md) 
+
+### #is_/same_as :: [Alan_Parsons_Project.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.protect.md) 
+
+### #is_/same_as :: [Alan_Parsons_Project.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.private.md) 
+
+### #is_/same_as :: [Alan_Parsons_Project.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.personal.md) 
+
+### #is_/same_as :: [Alan_Parsons_Project.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.secret.md)
+

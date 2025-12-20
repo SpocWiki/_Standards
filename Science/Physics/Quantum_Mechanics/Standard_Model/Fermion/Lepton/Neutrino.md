@@ -103,3 +103,22 @@ Commons_category: Neutrino physics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neutrino)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Neutrino](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.md) 
+
+### #is_/same_as :: [Neutrino.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.public.md) 
+
+### #is_/same_as :: [Neutrino.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.internal.md) 
+
+### #is_/same_as :: [Neutrino.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.protect.md) 
+
+### #is_/same_as :: [Neutrino.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.private.md) 
+
+### #is_/same_as :: [Neutrino.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.personal.md) 
+
+### #is_/same_as :: [Neutrino.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.secret.md)
+

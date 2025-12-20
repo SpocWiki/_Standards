@@ -63,17 +63,17 @@ Commons_category: Ploughs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plough](/_Standards/Technology/Tool/Plough.md) 
+### #is_/same_as :: [Plough](/_Standards/Society/Economics/Industry/Agriculture/Farm/Plough.md) 
 
-### #is_/same_as :: [Plough.public](/_public/Technology/Tool/Plough.public.md) 
+### #is_/same_as :: [Plough.public](/_public/Society/Economics/Industry/Agriculture/Farm/Plough.public.md) 
 
-### #is_/same_as :: [Plough.internal](/_internal/Technology/Tool/Plough.internal.md) 
+### #is_/same_as :: [Plough.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Plough.internal.md) 
 
-### #is_/same_as :: [Plough.protect](/_protect/Technology/Tool/Plough.protect.md) 
+### #is_/same_as :: [Plough.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Plough.protect.md) 
 
-### #is_/same_as :: [Plough.private](/_private/Technology/Tool/Plough.private.md) 
+### #is_/same_as :: [Plough.private](/_private/Society/Economics/Industry/Agriculture/Farm/Plough.private.md) 
 
-### #is_/same_as :: [Plough.personal](/_personal/Technology/Tool/Plough.personal.md) 
+### #is_/same_as :: [Plough.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Plough.personal.md) 
 
-### #is_/same_as :: [Plough.secret](/_secret/Technology/Tool/Plough.secret.md)
+### #is_/same_as :: [Plough.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Plough.secret.md)
 

@@ -103,17 +103,17 @@ UNII: NKN7EZA750
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Praseodymium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.md) 
+### #is_/same_as :: [Praseodymium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium.md) 
 
-### #is_/same_as :: [Praseodymium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.public.md) 
+### #is_/same_as :: [Praseodymium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public.md) 
 
-### #is_/same_as :: [Praseodymium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.internal.md) 
+### #is_/same_as :: [Praseodymium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal.md) 
 
-### #is_/same_as :: [Praseodymium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.protect.md) 
+### #is_/same_as :: [Praseodymium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Praseodymium.protect.md) 
 
-### #is_/same_as :: [Praseodymium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.private.md) 
+### #is_/same_as :: [Praseodymium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Praseodymium.private.md) 
 
-### #is_/same_as :: [Praseodymium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.personal.md) 
+### #is_/same_as :: [Praseodymium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.personal.md) 
 
-### #is_/same_as :: [Praseodymium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.secret.md)
+### #is_/same_as :: [Praseodymium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Praseodymium.secret.md)
 

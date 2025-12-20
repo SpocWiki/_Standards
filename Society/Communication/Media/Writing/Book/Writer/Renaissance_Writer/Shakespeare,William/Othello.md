@@ -101,3 +101,22 @@ last_line: This heauie Act, with heauie heart relate.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Othello) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Othello](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Othello.md) 
+
+### #is_/same_as :: [Othello.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Othello.public.md) 
+
+### #is_/same_as :: [Othello.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Othello.internal.md) 
+
+### #is_/same_as :: [Othello.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Othello.protect.md) 
+
+### #is_/same_as :: [Othello.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Othello.private.md) 
+
+### #is_/same_as :: [Othello.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Othello.personal.md) 
+
+### #is_/same_as :: [Othello.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Othello.secret.md)
+

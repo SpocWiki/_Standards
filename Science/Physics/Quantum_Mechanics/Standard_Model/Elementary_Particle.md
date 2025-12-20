@@ -52,3 +52,22 @@ MeSH_tree_code: G01.249
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elementary%20particle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elementary_Particle](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.md) 
+
+### #is_/same_as :: [Elementary_Particle.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.public.md) 
+
+### #is_/same_as :: [Elementary_Particle.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.internal.md) 
+
+### #is_/same_as :: [Elementary_Particle.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.protect.md) 
+
+### #is_/same_as :: [Elementary_Particle.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.private.md) 
+
+### #is_/same_as :: [Elementary_Particle.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.personal.md) 
+
+### #is_/same_as :: [Elementary_Particle.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Elementary_Particle.secret.md)
+

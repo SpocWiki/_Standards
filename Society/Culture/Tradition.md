@@ -89,3 +89,22 @@ Colon_Classification: Y:356
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tradition) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tradition](/_Standards/Society/Culture/Tradition.md) 
+
+### #is_/same_as :: [Tradition.public](/_public/Society/Culture/Tradition.public.md) 
+
+### #is_/same_as :: [Tradition.internal](/_internal/Society/Culture/Tradition.internal.md) 
+
+### #is_/same_as :: [Tradition.protect](/_protect/Society/Culture/Tradition.protect.md) 
+
+### #is_/same_as :: [Tradition.private](/_private/Society/Culture/Tradition.private.md) 
+
+### #is_/same_as :: [Tradition.personal](/_personal/Society/Culture/Tradition.personal.md) 
+
+### #is_/same_as :: [Tradition.secret](/_secret/Society/Culture/Tradition.secret.md)
+

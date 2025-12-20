@@ -72,3 +72,22 @@ Commons_category: Idealism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Idealism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Idealism](/_Standards/Philosophy/Metaphysic/Idealism.md) 
+
+### #is_/same_as :: [Idealism.public](/_public/Philosophy/Metaphysic/Idealism.public.md) 
+
+### #is_/same_as :: [Idealism.internal](/_internal/Philosophy/Metaphysic/Idealism.internal.md) 
+
+### #is_/same_as :: [Idealism.protect](/_protect/Philosophy/Metaphysic/Idealism.protect.md) 
+
+### #is_/same_as :: [Idealism.private](/_private/Philosophy/Metaphysic/Idealism.private.md) 
+
+### #is_/same_as :: [Idealism.personal](/_personal/Philosophy/Metaphysic/Idealism.personal.md) 
+
+### #is_/same_as :: [Idealism.secret](/_secret/Philosophy/Metaphysic/Idealism.secret.md)
+

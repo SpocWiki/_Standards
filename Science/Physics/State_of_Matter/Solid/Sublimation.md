@@ -17,3 +17,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sublimation%20(phase%20transition)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sublimation](/_Standards/Science/Physics/State_of_Matter/Solid/Sublimation.md) 
+
+### #is_/same_as :: [Sublimation.public](/_public/Science/Physics/State_of_Matter/Solid/Sublimation.public.md) 
+
+### #is_/same_as :: [Sublimation.internal](/_internal/Science/Physics/State_of_Matter/Solid/Sublimation.internal.md) 
+
+### #is_/same_as :: [Sublimation.protect](/_protect/Science/Physics/State_of_Matter/Solid/Sublimation.protect.md) 
+
+### #is_/same_as :: [Sublimation.private](/_private/Science/Physics/State_of_Matter/Solid/Sublimation.private.md) 
+
+### #is_/same_as :: [Sublimation.personal](/_personal/Science/Physics/State_of_Matter/Solid/Sublimation.personal.md) 
+
+### #is_/same_as :: [Sublimation.secret](/_secret/Science/Physics/State_of_Matter/Solid/Sublimation.secret.md)
+

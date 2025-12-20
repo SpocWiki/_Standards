@@ -95,3 +95,21 @@ work_available_at_URL: https://standardebooks.org/ebooks/victor-hugo/les-miserab
 > Examining the nature of law and grace, the novel elaborates upon the history of France, the architecture and urban design of Paris, politics, moral philosophy, antimonarchism, justice, religion, and the types and nature of romantic and familial love.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Les%20Mis%C3%A9rables)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Les_Misérables](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.md) 
+
+### #is_/same_as :: [Les_Misérables.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.public.md) 
+
+### #is_/same_as :: [Les_Misérables.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.internal.md) 
+
+### #is_/same_as :: [Les_Misérables.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.protect.md) 
+
+### #is_/same_as :: [Les_Misérables.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.private.md) 
+
+### #is_/same_as :: [Les_Misérables.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.personal.md) 
+
+### #is_/same_as :: [Les_Misérables.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor/Les_Misérables.secret.md)
+

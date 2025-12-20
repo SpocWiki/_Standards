@@ -142,3 +142,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/MALTUS_TOMAS_R
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Robert%20Malthus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Malthus,Thomas_Robert](/_Standards/Society/Economics/Economist/Malthus,Thomas_Robert.md) 
+
+### #is_/same_as :: [Malthus,Thomas_Robert.public](/_public/Society/Economics/Economist/Malthus,Thomas_Robert.public.md) 
+
+### #is_/same_as :: [Malthus,Thomas_Robert.internal](/_internal/Society/Economics/Economist/Malthus,Thomas_Robert.internal.md) 
+
+### #is_/same_as :: [Malthus,Thomas_Robert.protect](/_protect/Society/Economics/Economist/Malthus,Thomas_Robert.protect.md) 
+
+### #is_/same_as :: [Malthus,Thomas_Robert.private](/_private/Society/Economics/Economist/Malthus,Thomas_Robert.private.md) 
+
+### #is_/same_as :: [Malthus,Thomas_Robert.personal](/_personal/Society/Economics/Economist/Malthus,Thomas_Robert.personal.md) 
+
+### #is_/same_as :: [Malthus,Thomas_Robert.secret](/_secret/Society/Economics/Economist/Malthus,Thomas_Robert.secret.md)
+

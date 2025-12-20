@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seamount) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seamount](/_Standards/Earth/Geology/Landform/Seamount.md) 
+
+### #is_/same_as :: [Seamount.public](/_public/Earth/Geology/Landform/Seamount.public.md) 
+
+### #is_/same_as :: [Seamount.internal](/_internal/Earth/Geology/Landform/Seamount.internal.md) 
+
+### #is_/same_as :: [Seamount.protect](/_protect/Earth/Geology/Landform/Seamount.protect.md) 
+
+### #is_/same_as :: [Seamount.private](/_private/Earth/Geology/Landform/Seamount.private.md) 
+
+### #is_/same_as :: [Seamount.personal](/_personal/Earth/Geology/Landform/Seamount.personal.md) 
+
+### #is_/same_as :: [Seamount.secret](/_secret/Earth/Geology/Landform/Seamount.secret.md)
+

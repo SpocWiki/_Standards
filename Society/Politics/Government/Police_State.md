@@ -35,3 +35,21 @@ IMDb_keyword: police-state
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Police%20state)  
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Police_State](/_Standards/Society/Politics/Government/Police_State.md) 
+
+### #is_/same_as :: [Police_State.public](/_public/Society/Politics/Government/Police_State.public.md) 
+
+### #is_/same_as :: [Police_State.internal](/_internal/Society/Politics/Government/Police_State.internal.md) 
+
+### #is_/same_as :: [Police_State.protect](/_protect/Society/Politics/Government/Police_State.protect.md) 
+
+### #is_/same_as :: [Police_State.private](/_private/Society/Politics/Government/Police_State.private.md) 
+
+### #is_/same_as :: [Police_State.personal](/_personal/Society/Politics/Government/Police_State.personal.md) 
+
+### #is_/same_as :: [Police_State.secret](/_secret/Society/Politics/Government/Police_State.secret.md)
+

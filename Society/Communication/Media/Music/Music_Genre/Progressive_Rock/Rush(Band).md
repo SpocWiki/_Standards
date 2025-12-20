@@ -70,3 +70,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rush(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band).md) 
+
+### #is_/same_as :: [Rush(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band).public.md) 
+
+### #is_/same_as :: [Rush(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band).internal.md) 
+
+### #is_/same_as :: [Rush(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band).protect.md) 
+
+### #is_/same_as :: [Rush(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band).private.md) 
+
+### #is_/same_as :: [Rush(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band).personal.md) 
+
+### #is_/same_as :: [Rush(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band).secret.md)
+

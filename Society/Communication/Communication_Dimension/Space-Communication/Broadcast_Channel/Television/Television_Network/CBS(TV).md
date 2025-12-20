@@ -89,3 +89,22 @@ inception: 1927-09-18T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/CBS) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CBS(TV)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CBS(TV).md) 
+
+### #is_/same_as :: [CBS(TV).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CBS(TV).public.md) 
+
+### #is_/same_as :: [CBS(TV).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CBS(TV).internal.md) 
+
+### #is_/same_as :: [CBS(TV).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CBS(TV).protect.md) 
+
+### #is_/same_as :: [CBS(TV).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CBS(TV).private.md) 
+
+### #is_/same_as :: [CBS(TV).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CBS(TV).personal.md) 
+
+### #is_/same_as :: [CBS(TV).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/CBS(TV).secret.md)
+

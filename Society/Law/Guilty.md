@@ -40,3 +40,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Singer%20Sargent%2C%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Guilt%20(law)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guilty](/_Standards/Society/Law/Guilty.md) 
+
+### #is_/same_as :: [Guilty.public](/_public/Society/Law/Guilty.public.md) 
+
+### #is_/same_as :: [Guilty.internal](/_internal/Society/Law/Guilty.internal.md) 
+
+### #is_/same_as :: [Guilty.protect](/_protect/Society/Law/Guilty.protect.md) 
+
+### #is_/same_as :: [Guilty.private](/_private/Society/Law/Guilty.private.md) 
+
+### #is_/same_as :: [Guilty.personal](/_personal/Society/Law/Guilty.personal.md) 
+
+### #is_/same_as :: [Guilty.secret](/_secret/Society/Law/Guilty.secret.md)
+

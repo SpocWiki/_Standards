@@ -40,17 +40,17 @@ The invitee may or may not attend.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rsvp_Response_Maybe](Rsvp_Response_Maybe.md) 
+### #is_/same_as :: [Rsvp_Response_Maybe](/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.md) 
 
-### #is_/same_as :: [rsvp_response_maybe.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.public.md) 
+### #is_/same_as :: [Rsvp_Response_Maybe.public](/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.public.md) 
 
-### #is_/same_as :: [rsvp_response_maybe.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.internal.md) 
+### #is_/same_as :: [Rsvp_Response_Maybe.internal](/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.internal.md) 
 
-### #is_/same_as :: [rsvp_response_maybe.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.protect.md) 
+### #is_/same_as :: [Rsvp_Response_Maybe.protect](/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.protect.md) 
 
-### #is_/same_as :: [rsvp_response_maybe.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.private.md) 
+### #is_/same_as :: [Rsvp_Response_Maybe.private](/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.private.md) 
 
-### #is_/same_as :: [rsvp_response_maybe.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.personal.md) 
+### #is_/same_as :: [Rsvp_Response_Maybe.personal](/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.personal.md) 
 
-### #is_/same_as :: [rsvp_response_maybe.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.secret.md)
+### #is_/same_as :: [Rsvp_Response_Maybe.secret](/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.secret.md)
 

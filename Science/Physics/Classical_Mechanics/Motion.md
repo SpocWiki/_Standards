@@ -40,3 +40,22 @@ MeSH_tree_code: G01.482
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Motion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Motion](/_Standards/Science/Physics/Classical_Mechanics/Motion.md) 
+
+### #is_/same_as :: [Motion.public](/_public/Science/Physics/Classical_Mechanics/Motion.public.md) 
+
+### #is_/same_as :: [Motion.internal](/_internal/Science/Physics/Classical_Mechanics/Motion.internal.md) 
+
+### #is_/same_as :: [Motion.protect](/_protect/Science/Physics/Classical_Mechanics/Motion.protect.md) 
+
+### #is_/same_as :: [Motion.private](/_private/Science/Physics/Classical_Mechanics/Motion.private.md) 
+
+### #is_/same_as :: [Motion.personal](/_personal/Science/Physics/Classical_Mechanics/Motion.personal.md) 
+
+### #is_/same_as :: [Motion.secret](/_secret/Science/Physics/Classical_Mechanics/Motion.secret.md)
+

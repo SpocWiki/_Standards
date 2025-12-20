@@ -38,3 +38,22 @@ has_id_wikidata: Q184876
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frame%20of%20reference) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frame_of_Reference](/_Standards/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.md) 
+
+### #is_/same_as :: [Frame_of_Reference.public](/_public/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.public.md) 
+
+### #is_/same_as :: [Frame_of_Reference.internal](/_internal/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.internal.md) 
+
+### #is_/same_as :: [Frame_of_Reference.protect](/_protect/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.protect.md) 
+
+### #is_/same_as :: [Frame_of_Reference.private](/_private/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.private.md) 
+
+### #is_/same_as :: [Frame_of_Reference.personal](/_personal/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.personal.md) 
+
+### #is_/same_as :: [Frame_of_Reference.secret](/_secret/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.secret.md)
+

@@ -49,3 +49,22 @@ Dewey_Decimal_Classification: "387.245"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tanker(Ship)](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Tanker(Ship).md) 
+
+### #is_/same_as :: [Tanker(Ship).public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Tanker(Ship).public.md) 
+
+### #is_/same_as :: [Tanker(Ship).internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Tanker(Ship).internal.md) 
+
+### #is_/same_as :: [Tanker(Ship).protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Tanker(Ship).protect.md) 
+
+### #is_/same_as :: [Tanker(Ship).private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Tanker(Ship).private.md) 
+
+### #is_/same_as :: [Tanker(Ship).personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Tanker(Ship).personal.md) 
+
+### #is_/same_as :: [Tanker(Ship).secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Tanker(Ship).secret.md)
+

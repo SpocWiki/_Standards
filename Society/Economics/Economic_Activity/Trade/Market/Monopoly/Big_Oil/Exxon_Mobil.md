@@ -42,3 +42,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ExxonMobil) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Exxon_Mobil](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Exxon_Mobil.md) 
+
+### #is_/same_as :: [Exxon_Mobil.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Exxon_Mobil.public.md) 
+
+### #is_/same_as :: [Exxon_Mobil.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Exxon_Mobil.internal.md) 
+
+### #is_/same_as :: [Exxon_Mobil.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Exxon_Mobil.protect.md) 
+
+### #is_/same_as :: [Exxon_Mobil.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Exxon_Mobil.private.md) 
+
+### #is_/same_as :: [Exxon_Mobil.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Exxon_Mobil.personal.md) 
+
+### #is_/same_as :: [Exxon_Mobil.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Exxon_Mobil.secret.md)
+

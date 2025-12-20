@@ -98,3 +98,22 @@ IEV_number: 845-31-029
 > [Wikipedia](https://en.wikipedia.org/wiki/Lighthouse) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lighthouse](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.md) 
+
+### #is_/same_as :: [Lighthouse.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.public.md) 
+
+### #is_/same_as :: [Lighthouse.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.internal.md) 
+
+### #is_/same_as :: [Lighthouse.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.protect.md) 
+
+### #is_/same_as :: [Lighthouse.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.private.md) 
+
+### #is_/same_as :: [Lighthouse.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.personal.md) 
+
+### #is_/same_as :: [Lighthouse.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Lighthouse.secret.md)
+

@@ -102,3 +102,22 @@ Krugosvet_article_archived_: medicina/koklyush
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Whooping%20cough) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pertussis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.md) 
+
+### #is_/same_as :: [Pertussis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.public.md) 
+
+### #is_/same_as :: [Pertussis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.internal.md) 
+
+### #is_/same_as :: [Pertussis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.protect.md) 
+
+### #is_/same_as :: [Pertussis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.private.md) 
+
+### #is_/same_as :: [Pertussis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.personal.md) 
+
+### #is_/same_as :: [Pertussis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pertussis.secret.md)
+

@@ -182,3 +182,22 @@ Instagram_username: councilofeurope
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Council_of_Europe](/_Standards/Earth/Continent/Europe/Council_of_Europe.md) 
+
+### #is_/same_as :: [Council_of_Europe.public](/_public/Earth/Continent/Europe/Council_of_Europe.public.md) 
+
+### #is_/same_as :: [Council_of_Europe.internal](/_internal/Earth/Continent/Europe/Council_of_Europe.internal.md) 
+
+### #is_/same_as :: [Council_of_Europe.protect](/_protect/Earth/Continent/Europe/Council_of_Europe.protect.md) 
+
+### #is_/same_as :: [Council_of_Europe.private](/_private/Earth/Continent/Europe/Council_of_Europe.private.md) 
+
+### #is_/same_as :: [Council_of_Europe.personal](/_personal/Earth/Continent/Europe/Council_of_Europe.personal.md) 
+
+### #is_/same_as :: [Council_of_Europe.secret](/_secret/Earth/Continent/Europe/Council_of_Europe.secret.md)
+

@@ -23,3 +23,22 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Captura-auale.gif
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mancala) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mancala](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Mancala.md) 
+
+### #is_/same_as :: [Mancala.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Mancala.public.md) 
+
+### #is_/same_as :: [Mancala.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Mancala.internal.md) 
+
+### #is_/same_as :: [Mancala.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Mancala.protect.md) 
+
+### #is_/same_as :: [Mancala.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Mancala.private.md) 
+
+### #is_/same_as :: [Mancala.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Mancala.personal.md) 
+
+### #is_/same_as :: [Mancala.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Mancala.secret.md)
+

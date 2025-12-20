@@ -62,3 +62,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cathode-ray%20tube) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cathode_Ray_Tube](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.md) 
+
+### #is_/same_as :: [Cathode_Ray_Tube.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.public.md) 
+
+### #is_/same_as :: [Cathode_Ray_Tube.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.internal.md) 
+
+### #is_/same_as :: [Cathode_Ray_Tube.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.protect.md) 
+
+### #is_/same_as :: [Cathode_Ray_Tube.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.private.md) 
+
+### #is_/same_as :: [Cathode_Ray_Tube.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.personal.md) 
+
+### #is_/same_as :: [Cathode_Ray_Tube.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.secret.md)
+

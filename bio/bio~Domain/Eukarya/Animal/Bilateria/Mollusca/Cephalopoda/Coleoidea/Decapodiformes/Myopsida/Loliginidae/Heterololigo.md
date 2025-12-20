@@ -116,7 +116,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   Life Cycle Stage ::   Mature
   View               Ventral
   Size               ca. 30 cm
-  ------------------------------------------------------------------
+  ------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

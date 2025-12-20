@@ -31,3 +31,22 @@ Commons_category: Subcultures
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Subculture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Subculture](/_Standards/Society/Culture/Subculture.md) 
+
+### #is_/same_as :: [Subculture.public](/_public/Society/Culture/Subculture.public.md) 
+
+### #is_/same_as :: [Subculture.internal](/_internal/Society/Culture/Subculture.internal.md) 
+
+### #is_/same_as :: [Subculture.protect](/_protect/Society/Culture/Subculture.protect.md) 
+
+### #is_/same_as :: [Subculture.private](/_private/Society/Culture/Subculture.private.md) 
+
+### #is_/same_as :: [Subculture.personal](/_personal/Society/Culture/Subculture.personal.md) 
+
+### #is_/same_as :: [Subculture.secret](/_secret/Society/Culture/Subculture.secret.md)
+

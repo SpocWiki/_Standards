@@ -35,3 +35,22 @@ Krugosvet_article: medicina/SOEDINITELNAYA_TKAN.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Connective%20tissue) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Connective_Tissue](/_Standards/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.md) 
+
+### #is_/same_as :: [Connective_Tissue.public](/_public/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.public.md) 
+
+### #is_/same_as :: [Connective_Tissue.internal](/_internal/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.internal.md) 
+
+### #is_/same_as :: [Connective_Tissue.protect](/_protect/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.protect.md) 
+
+### #is_/same_as :: [Connective_Tissue.private](/_private/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.private.md) 
+
+### #is_/same_as :: [Connective_Tissue.personal](/_personal/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.personal.md) 
+
+### #is_/same_as :: [Connective_Tissue.secret](/_secret/bio/Medicine/Anatomy/Tissue(bio)/Connective_Tissue.secret.md)
+

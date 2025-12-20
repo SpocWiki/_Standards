@@ -45,3 +45,22 @@ end_time: 0568-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Migration%20Period) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0300-Migration_Period+0600](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600.md) 
+
+### #is_/same_as :: [0300-Migration_Period+0600.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600.public.md) 
+
+### #is_/same_as :: [0300-Migration_Period+0600.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600.internal.md) 
+
+### #is_/same_as :: [0300-Migration_Period+0600.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600.protect.md) 
+
+### #is_/same_as :: [0300-Migration_Period+0600.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600.private.md) 
+
+### #is_/same_as :: [0300-Migration_Period+0600.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600.personal.md) 
+
+### #is_/same_as :: [0300-Migration_Period+0600.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/0300-Migration_Period+0600.secret.md)
+

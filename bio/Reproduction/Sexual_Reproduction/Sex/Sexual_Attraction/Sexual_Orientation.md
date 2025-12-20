@@ -55,3 +55,21 @@ Archive_of_Our_Own_tag: Sexual Orientation
 > Sexual orientation is studied primarily within biology, anthropology, and psychology (including sexology), but it is also a subject area in sociology, history (including social constructionist perspectives), and law.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20orientation)Sexual_orientation
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sexual_Orientation](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.md) 
+
+### #is_/same_as :: [Sexual_Orientation.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.public.md) 
+
+### #is_/same_as :: [Sexual_Orientation.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.internal.md) 
+
+### #is_/same_as :: [Sexual_Orientation.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.protect.md) 
+
+### #is_/same_as :: [Sexual_Orientation.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.private.md) 
+
+### #is_/same_as :: [Sexual_Orientation.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.personal.md) 
+
+### #is_/same_as :: [Sexual_Orientation.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.secret.md)
+

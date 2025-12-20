@@ -38,3 +38,22 @@ Iconclass_notation: 23B7
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Decade) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Decade](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Decade.md) 
+
+### #is_/same_as :: [Decade.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Decade.public.md) 
+
+### #is_/same_as :: [Decade.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Decade.internal.md) 
+
+### #is_/same_as :: [Decade.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Decade.protect.md) 
+
+### #is_/same_as :: [Decade.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Decade.private.md) 
+
+### #is_/same_as :: [Decade.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Decade.personal.md) 
+
+### #is_/same_as :: [Decade.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Decade.secret.md)
+

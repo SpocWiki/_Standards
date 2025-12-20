@@ -85,3 +85,22 @@ Google_Doodle: sputnik-50th-anniversary
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sputnik%201)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sputnik](/_Standards/Earth/Satellite/Sputnik.md) 
+
+### #is_/same_as :: [Sputnik.public](/_public/Earth/Satellite/Sputnik.public.md) 
+
+### #is_/same_as :: [Sputnik.internal](/_internal/Earth/Satellite/Sputnik.internal.md) 
+
+### #is_/same_as :: [Sputnik.protect](/_protect/Earth/Satellite/Sputnik.protect.md) 
+
+### #is_/same_as :: [Sputnik.private](/_private/Earth/Satellite/Sputnik.private.md) 
+
+### #is_/same_as :: [Sputnik.personal](/_personal/Earth/Satellite/Sputnik.personal.md) 
+
+### #is_/same_as :: [Sputnik.secret](/_secret/Earth/Satellite/Sputnik.secret.md)
+

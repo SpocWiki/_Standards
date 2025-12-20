@@ -58,3 +58,22 @@ subreddit: OpenSource
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Open-source%20software) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OSS(Open-Source_SW)](/_Standards/Technology/IT/Software/OSS(Open-Source_SW).md) 
+
+### #is_/same_as :: [OSS(Open-Source_SW).public](/_public/Technology/IT/Software/OSS(Open-Source_SW).public.md) 
+
+### #is_/same_as :: [OSS(Open-Source_SW).internal](/_internal/Technology/IT/Software/OSS(Open-Source_SW).internal.md) 
+
+### #is_/same_as :: [OSS(Open-Source_SW).protect](/_protect/Technology/IT/Software/OSS(Open-Source_SW).protect.md) 
+
+### #is_/same_as :: [OSS(Open-Source_SW).private](/_private/Technology/IT/Software/OSS(Open-Source_SW).private.md) 
+
+### #is_/same_as :: [OSS(Open-Source_SW).personal](/_personal/Technology/IT/Software/OSS(Open-Source_SW).personal.md) 
+
+### #is_/same_as :: [OSS(Open-Source_SW).secret](/_secret/Technology/IT/Software/OSS(Open-Source_SW).secret.md)
+

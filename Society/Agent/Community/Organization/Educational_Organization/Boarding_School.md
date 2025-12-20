@@ -32,17 +32,17 @@ has_id_wikidata: Q269770
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boarding_School](Boarding_School.md) 
+### #is_/same_as :: [Boarding_School](/_Standards/Society/Agent/Community/Organization/Educational_Organization/Boarding_School.md) 
 
-### #is_/same_as :: [Boarding_School.public](/_public/Society/Organization/Educational_Organization/Boarding_School.public.md) 
+### #is_/same_as :: [Boarding_School.public](/_public/Society/Agent/Community/Organization/Educational_Organization/Boarding_School.public.md) 
 
-### #is_/same_as :: [Boarding_School.internal](/_internal/Society/Organization/Educational_Organization/Boarding_School.internal.md) 
+### #is_/same_as :: [Boarding_School.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/Boarding_School.internal.md) 
 
-### #is_/same_as :: [Boarding_School.protect](/_protect/Society/Organization/Educational_Organization/Boarding_School.protect.md) 
+### #is_/same_as :: [Boarding_School.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/Boarding_School.protect.md) 
 
-### #is_/same_as :: [Boarding_School.private](/_private/Society/Organization/Educational_Organization/Boarding_School.private.md) 
+### #is_/same_as :: [Boarding_School.private](/_private/Society/Agent/Community/Organization/Educational_Organization/Boarding_School.private.md) 
 
-### #is_/same_as :: [Boarding_School.personal](/_personal/Society/Organization/Educational_Organization/Boarding_School.personal.md) 
+### #is_/same_as :: [Boarding_School.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/Boarding_School.personal.md) 
 
-### #is_/same_as :: [Boarding_School.secret](/_secret/Society/Organization/Educational_Organization/Boarding_School.secret.md)
+### #is_/same_as :: [Boarding_School.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/Boarding_School.secret.md)
 

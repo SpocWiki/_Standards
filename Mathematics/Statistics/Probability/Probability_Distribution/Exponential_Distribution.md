@@ -58,3 +58,22 @@ support_of_a_function: <math class="mwe-math-element mwe-math-element-inline" xm
 > [Wikipedia](https://en.wikipedia.org/wiki/Exponential%20distribution) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Exponential_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Exponential_Distribution.md) 
+
+### #is_/same_as :: [Exponential_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Exponential_Distribution.public.md) 
+
+### #is_/same_as :: [Exponential_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Exponential_Distribution.internal.md) 
+
+### #is_/same_as :: [Exponential_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Exponential_Distribution.protect.md) 
+
+### #is_/same_as :: [Exponential_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Exponential_Distribution.private.md) 
+
+### #is_/same_as :: [Exponential_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Exponential_Distribution.personal.md) 
+
+### #is_/same_as :: [Exponential_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Exponential_Distribution.secret.md)
+

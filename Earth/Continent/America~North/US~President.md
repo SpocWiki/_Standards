@@ -85,3 +85,22 @@ dv.paragraph(items.length)
 dv.table(["Name", "Begin", "End", "Years"], items)
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [US~President](/_Standards/Earth/Continent/America~North/US~President.md) 
+
+### #is_/same_as :: [US~President.public](/_public/Earth/Continent/America~North/US~President.public.md) 
+
+### #is_/same_as :: [US~President.internal](/_internal/Earth/Continent/America~North/US~President.internal.md) 
+
+### #is_/same_as :: [US~President.protect](/_protect/Earth/Continent/America~North/US~President.protect.md) 
+
+### #is_/same_as :: [US~President.private](/_private/Earth/Continent/America~North/US~President.private.md) 
+
+### #is_/same_as :: [US~President.personal](/_personal/Earth/Continent/America~North/US~President.personal.md) 
+
+### #is_/same_as :: [US~President.secret](/_secret/Earth/Continent/America~North/US~President.secret.md)
+

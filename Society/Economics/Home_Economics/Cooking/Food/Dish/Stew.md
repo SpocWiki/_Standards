@@ -52,3 +52,22 @@ Amazon_com_browse_node: "16319741"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stew) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stew](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.md) 
+
+### #is_/same_as :: [Stew.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.public.md) 
+
+### #is_/same_as :: [Stew.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.internal.md) 
+
+### #is_/same_as :: [Stew.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.protect.md) 
+
+### #is_/same_as :: [Stew.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.private.md) 
+
+### #is_/same_as :: [Stew.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.personal.md) 
+
+### #is_/same_as :: [Stew.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.secret.md)
+

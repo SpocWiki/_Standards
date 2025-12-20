@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Field_of_Dreams](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Field_of_Dreams.md) 
+### #is_/same_as :: [Field_of_Dreams](/_Standards/Society/Communication/Media/Movie/Movie-Director/Field_of_Dreams.md) 
 
-### #is_/same_as :: [Field_of_Dreams.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Field_of_Dreams.public.md) 
+### #is_/same_as :: [Field_of_Dreams.public](/_public/Society/Communication/Media/Movie/Movie-Director/Field_of_Dreams.public.md) 
 
-### #is_/same_as :: [Field_of_Dreams.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Field_of_Dreams.internal.md) 
+### #is_/same_as :: [Field_of_Dreams.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Field_of_Dreams.internal.md) 
 
-### #is_/same_as :: [Field_of_Dreams.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Field_of_Dreams.protect.md) 
+### #is_/same_as :: [Field_of_Dreams.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Field_of_Dreams.protect.md) 
 
-### #is_/same_as :: [Field_of_Dreams.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Field_of_Dreams.private.md) 
+### #is_/same_as :: [Field_of_Dreams.private](/_private/Society/Communication/Media/Movie/Movie-Director/Field_of_Dreams.private.md) 
 
-### #is_/same_as :: [Field_of_Dreams.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Field_of_Dreams.personal.md) 
+### #is_/same_as :: [Field_of_Dreams.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Field_of_Dreams.personal.md) 
 
-### #is_/same_as :: [Field_of_Dreams.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Field_of_Dreams.secret.md)
+### #is_/same_as :: [Field_of_Dreams.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Field_of_Dreams.secret.md)
 

@@ -57,3 +57,22 @@ booru_tag: american_flag_mask
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mask) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mask](/_Standards/Technology/Tool/Clothing/Mask.md) 
+
+### #is_/same_as :: [Mask.public](/_public/Technology/Tool/Clothing/Mask.public.md) 
+
+### #is_/same_as :: [Mask.internal](/_internal/Technology/Tool/Clothing/Mask.internal.md) 
+
+### #is_/same_as :: [Mask.protect](/_protect/Technology/Tool/Clothing/Mask.protect.md) 
+
+### #is_/same_as :: [Mask.private](/_private/Technology/Tool/Clothing/Mask.private.md) 
+
+### #is_/same_as :: [Mask.personal](/_personal/Technology/Tool/Clothing/Mask.personal.md) 
+
+### #is_/same_as :: [Mask.secret](/_secret/Technology/Tool/Clothing/Mask.secret.md)
+

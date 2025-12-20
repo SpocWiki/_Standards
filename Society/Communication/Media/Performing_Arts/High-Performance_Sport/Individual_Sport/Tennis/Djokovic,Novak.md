@@ -174,3 +174,22 @@ singles_record: 1159–233
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Novak%20Djokovic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Djokovic,Novak](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Djokovic,Novak.md) 
+
+### #is_/same_as :: [Djokovic,Novak.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Djokovic,Novak.public.md) 
+
+### #is_/same_as :: [Djokovic,Novak.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Djokovic,Novak.internal.md) 
+
+### #is_/same_as :: [Djokovic,Novak.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Djokovic,Novak.protect.md) 
+
+### #is_/same_as :: [Djokovic,Novak.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Djokovic,Novak.private.md) 
+
+### #is_/same_as :: [Djokovic,Novak.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Djokovic,Novak.personal.md) 
+
+### #is_/same_as :: [Djokovic,Novak.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Djokovic,Novak.secret.md)
+

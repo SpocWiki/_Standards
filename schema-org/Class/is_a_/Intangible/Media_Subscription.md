@@ -39,17 +39,17 @@ A subscription which allows a user to access media including audio, video, books
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [media_subscription](/_Standards/schema-org/Class/is_a_/Intangible/media_subscription.md) 
+### #is_/same_as :: [Media_Subscription](/_Standards/schema-org/Class/is_a_/Intangible/Media_Subscription.md) 
 
-### #is_/same_as :: [media_subscription.public](/_public/schema-org/Class/is_a_/Intangible/media_subscription.public.md) 
+### #is_/same_as :: [Media_Subscription.public](/_public/schema-org/Class/is_a_/Intangible/Media_Subscription.public.md) 
 
-### #is_/same_as :: [media_subscription.internal](/_internal/schema-org/Class/is_a_/Intangible/media_subscription.internal.md) 
+### #is_/same_as :: [Media_Subscription.internal](/_internal/schema-org/Class/is_a_/Intangible/Media_Subscription.internal.md) 
 
-### #is_/same_as :: [media_subscription.protect](/_protect/schema-org/Class/is_a_/Intangible/media_subscription.protect.md) 
+### #is_/same_as :: [Media_Subscription.protect](/_protect/schema-org/Class/is_a_/Intangible/Media_Subscription.protect.md) 
 
-### #is_/same_as :: [media_subscription.private](/_private/schema-org/Class/is_a_/Intangible/media_subscription.private.md) 
+### #is_/same_as :: [Media_Subscription.private](/_private/schema-org/Class/is_a_/Intangible/Media_Subscription.private.md) 
 
-### #is_/same_as :: [media_subscription.personal](/_personal/schema-org/Class/is_a_/Intangible/media_subscription.personal.md) 
+### #is_/same_as :: [Media_Subscription.personal](/_personal/schema-org/Class/is_a_/Intangible/Media_Subscription.personal.md) 
 
-### #is_/same_as :: [media_subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/media_subscription.secret.md)
+### #is_/same_as :: [Media_Subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/Media_Subscription.secret.md)
 

@@ -37,3 +37,22 @@ has_id_wikidata:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chimera%20(mythology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chimera](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.md) 
+
+### #is_/same_as :: [Chimera.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.public.md) 
+
+### #is_/same_as :: [Chimera.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.internal.md) 
+
+### #is_/same_as :: [Chimera.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.protect.md) 
+
+### #is_/same_as :: [Chimera.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.private.md) 
+
+### #is_/same_as :: [Chimera.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.personal.md) 
+
+### #is_/same_as :: [Chimera.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.secret.md)
+

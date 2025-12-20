@@ -99,3 +99,22 @@ Instagram_username: doctorswithoutborders
 > [Wikipedia](https://en.wikipedia.org/wiki/M%C3%A9decins%20Sans%20Fronti%C3%A8res) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Médecins_Sans_Frontières](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.md) 
+
+### #is_/same_as :: [Médecins_Sans_Frontières.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.public.md) 
+
+### #is_/same_as :: [Médecins_Sans_Frontières.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.internal.md) 
+
+### #is_/same_as :: [Médecins_Sans_Frontières.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.protect.md) 
+
+### #is_/same_as :: [Médecins_Sans_Frontières.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.private.md) 
+
+### #is_/same_as :: [Médecins_Sans_Frontières.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.personal.md) 
+
+### #is_/same_as :: [Médecins_Sans_Frontières.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.secret.md)
+

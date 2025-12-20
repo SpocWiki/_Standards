@@ -51,3 +51,21 @@ coordinate_location: Point(90.0 65.0)
 > Stalin reversed his stance on the purges in 1938, criticizing the NKVD for carrying out mass executions and overseeing the execution of NKVD chiefs Yagoda and Yezhov. Scholars estimate the death toll of the Great Purge at 700,000 to 1.2 million. Despite the end of the purge, widespread surveillance and an atmosphere of mistrust continued for decades. Similar purges took place in Mongolia and Xinjiang. The Soviet government wanted to put Leon Trotsky on trial during the purge, but his exile prevented this. Trotsky survived the purge, although he was assassinated in 1940 by the NKVD in Mexico on orders from Stalin.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Purge)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1936-Great_Purge+1938](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1936-Great_Purge+1938.md) 
+
+### #is_/same_as :: [1936-Great_Purge+1938.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1936-Great_Purge+1938.public.md) 
+
+### #is_/same_as :: [1936-Great_Purge+1938.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1936-Great_Purge+1938.internal.md) 
+
+### #is_/same_as :: [1936-Great_Purge+1938.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1936-Great_Purge+1938.protect.md) 
+
+### #is_/same_as :: [1936-Great_Purge+1938.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1936-Great_Purge+1938.private.md) 
+
+### #is_/same_as :: [1936-Great_Purge+1938.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1936-Great_Purge+1938.personal.md) 
+
+### #is_/same_as :: [1936-Great_Purge+1938.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1936-Great_Purge+1938.secret.md)
+

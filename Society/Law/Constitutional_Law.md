@@ -58,3 +58,22 @@ PhilPapers_topic: constitutional-law
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Constitutional_Law](/_Standards/Society/Law/Constitutional_Law.md) 
+
+### #is_/same_as :: [Constitutional_Law.public](/_public/Society/Law/Constitutional_Law.public.md) 
+
+### #is_/same_as :: [Constitutional_Law.internal](/_internal/Society/Law/Constitutional_Law.internal.md) 
+
+### #is_/same_as :: [Constitutional_Law.protect](/_protect/Society/Law/Constitutional_Law.protect.md) 
+
+### #is_/same_as :: [Constitutional_Law.private](/_private/Society/Law/Constitutional_Law.private.md) 
+
+### #is_/same_as :: [Constitutional_Law.personal](/_personal/Society/Law/Constitutional_Law.personal.md) 
+
+### #is_/same_as :: [Constitutional_Law.secret](/_secret/Society/Law/Constitutional_Law.secret.md)
+

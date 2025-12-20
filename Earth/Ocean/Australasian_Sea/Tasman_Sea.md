@@ -149,3 +149,22 @@ Commons_category: Tasman Sea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tasman%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tasman_Sea](/_Standards/Earth/Ocean/Australasian_Sea/Tasman_Sea.md) 
+
+### #is_/same_as :: [Tasman_Sea.public](/_public/Earth/Ocean/Australasian_Sea/Tasman_Sea.public.md) 
+
+### #is_/same_as :: [Tasman_Sea.internal](/_internal/Earth/Ocean/Australasian_Sea/Tasman_Sea.internal.md) 
+
+### #is_/same_as :: [Tasman_Sea.protect](/_protect/Earth/Ocean/Australasian_Sea/Tasman_Sea.protect.md) 
+
+### #is_/same_as :: [Tasman_Sea.private](/_private/Earth/Ocean/Australasian_Sea/Tasman_Sea.private.md) 
+
+### #is_/same_as :: [Tasman_Sea.personal](/_personal/Earth/Ocean/Australasian_Sea/Tasman_Sea.personal.md) 
+
+### #is_/same_as :: [Tasman_Sea.secret](/_secret/Earth/Ocean/Australasian_Sea/Tasman_Sea.secret.md)
+

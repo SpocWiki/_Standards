@@ -135,7 +135,7 @@ Zool., No. 586: 55-68.
   Size                 102 mm ML
   Type                 Paratype
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
-  -----------------------------------------------------------------------
+  -----------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

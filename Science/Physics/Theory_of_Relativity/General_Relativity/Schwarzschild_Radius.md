@@ -24,3 +24,22 @@ has_id_wikidata: Q72755
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Schwarzschild%20radius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schwarzschild_Radius](/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.md) 
+
+### #is_/same_as :: [Schwarzschild_Radius.public](/_public/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.public.md) 
+
+### #is_/same_as :: [Schwarzschild_Radius.internal](/_internal/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.internal.md) 
+
+### #is_/same_as :: [Schwarzschild_Radius.protect](/_protect/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.protect.md) 
+
+### #is_/same_as :: [Schwarzschild_Radius.private](/_private/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.private.md) 
+
+### #is_/same_as :: [Schwarzschild_Radius.personal](/_personal/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.personal.md) 
+
+### #is_/same_as :: [Schwarzschild_Radius.secret](/_secret/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.secret.md)
+

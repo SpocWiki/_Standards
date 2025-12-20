@@ -19,3 +19,22 @@ has_id_wikidata: Q1436668
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Randomized%20controlled%20trial) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Randomized_controlled_Trial](/_Standards/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.md) 
+
+### #is_/same_as :: [Randomized_controlled_Trial.public](/_public/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.public.md) 
+
+### #is_/same_as :: [Randomized_controlled_Trial.internal](/_internal/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.internal.md) 
+
+### #is_/same_as :: [Randomized_controlled_Trial.protect](/_protect/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.protect.md) 
+
+### #is_/same_as :: [Randomized_controlled_Trial.private](/_private/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.private.md) 
+
+### #is_/same_as :: [Randomized_controlled_Trial.personal](/_personal/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.personal.md) 
+
+### #is_/same_as :: [Randomized_controlled_Trial.secret](/_secret/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.secret.md)
+

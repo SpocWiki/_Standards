@@ -37,3 +37,22 @@ Commons_category: Waveguides
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Waveguide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Waveguide](/_Standards/Science/Physics/Wave/Optics/Waveguide.md) 
+
+### #is_/same_as :: [Waveguide.public](/_public/Science/Physics/Wave/Optics/Waveguide.public.md) 
+
+### #is_/same_as :: [Waveguide.internal](/_internal/Science/Physics/Wave/Optics/Waveguide.internal.md) 
+
+### #is_/same_as :: [Waveguide.protect](/_protect/Science/Physics/Wave/Optics/Waveguide.protect.md) 
+
+### #is_/same_as :: [Waveguide.private](/_private/Science/Physics/Wave/Optics/Waveguide.private.md) 
+
+### #is_/same_as :: [Waveguide.personal](/_personal/Science/Physics/Wave/Optics/Waveguide.personal.md) 
+
+### #is_/same_as :: [Waveguide.secret](/_secret/Science/Physics/Wave/Optics/Waveguide.secret.md)
+

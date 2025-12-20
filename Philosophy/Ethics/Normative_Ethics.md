@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Normative%20ethics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Normative_Ethics](/_Standards/Philosophy/Ethics/Normative_Ethics.md) 
+
+### #is_/same_as :: [Normative_Ethics.public](/_public/Philosophy/Ethics/Normative_Ethics.public.md) 
+
+### #is_/same_as :: [Normative_Ethics.internal](/_internal/Philosophy/Ethics/Normative_Ethics.internal.md) 
+
+### #is_/same_as :: [Normative_Ethics.protect](/_protect/Philosophy/Ethics/Normative_Ethics.protect.md) 
+
+### #is_/same_as :: [Normative_Ethics.private](/_private/Philosophy/Ethics/Normative_Ethics.private.md) 
+
+### #is_/same_as :: [Normative_Ethics.personal](/_personal/Philosophy/Ethics/Normative_Ethics.personal.md) 
+
+### #is_/same_as :: [Normative_Ethics.secret](/_secret/Philosophy/Ethics/Normative_Ethics.secret.md)
+

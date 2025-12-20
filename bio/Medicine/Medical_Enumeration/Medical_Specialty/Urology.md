@@ -66,21 +66,19 @@ and the urogenital system.
 > [Wikipedia](https://en.wikipedia.org/wiki/Urology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [urologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.md) 
+### #is_/same_as :: [Urology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.md) 
 
-### #is_/same_as :: [urologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.public.md) 
+### #is_/same_as :: [Urology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.public.md) 
 
-### #is_/same_as :: [urologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.internal.md) 
+### #is_/same_as :: [Urology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.internal.md) 
 
-### #is_/same_as :: [urologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.protect.md) 
+### #is_/same_as :: [Urology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.protect.md) 
 
-### #is_/same_as :: [urologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.private.md) 
+### #is_/same_as :: [Urology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.private.md) 
 
-### #is_/same_as :: [urologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.personal.md) 
+### #is_/same_as :: [Urology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.personal.md) 
 
-### #is_/same_as :: [urologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.secret.md)
+### #is_/same_as :: [Urology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Urology.secret.md)
 

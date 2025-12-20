@@ -55,3 +55,22 @@ Commons_category: Satellite television
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Satellite%20television) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Satellite_TV](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.md) 
+
+### #is_/same_as :: [Satellite_TV.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.public.md) 
+
+### #is_/same_as :: [Satellite_TV.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.internal.md) 
+
+### #is_/same_as :: [Satellite_TV.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.protect.md) 
+
+### #is_/same_as :: [Satellite_TV.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.private.md) 
+
+### #is_/same_as :: [Satellite_TV.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.personal.md) 
+
+### #is_/same_as :: [Satellite_TV.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Satellite_TV.secret.md)
+

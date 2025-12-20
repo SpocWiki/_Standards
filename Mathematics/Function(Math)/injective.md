@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - injection(Math)
 ---
@@ -51,4 +51,23 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Injective%20function)
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [injective](/_Standards/Mathematics/Function(Math)/injective.md) 
+
+### #is_/same_as :: [injective.public](/_public/Mathematics/Function(Math)/injective.public.md) 
+
+### #is_/same_as :: [injective.internal](/_internal/Mathematics/Function(Math)/injective.internal.md) 
+
+### #is_/same_as :: [injective.protect](/_protect/Mathematics/Function(Math)/injective.protect.md) 
+
+### #is_/same_as :: [injective.private](/_private/Mathematics/Function(Math)/injective.private.md) 
+
+### #is_/same_as :: [injective.personal](/_personal/Mathematics/Function(Math)/injective.personal.md) 
+
+### #is_/same_as :: [injective.secret](/_secret/Mathematics/Function(Math)/injective.secret.md)
 

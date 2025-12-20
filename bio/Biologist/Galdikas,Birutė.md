@@ -23,3 +23,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Birut%C3%A9%20Galdikas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Galdikas,Birutė](/_Standards/bio/Biologist/Galdikas,Birutė.md) 
+
+### #is_/same_as :: [Galdikas,Birutė.public](/_public/bio/Biologist/Galdikas,Birutė.public.md) 
+
+### #is_/same_as :: [Galdikas,Birutė.internal](/_internal/bio/Biologist/Galdikas,Birutė.internal.md) 
+
+### #is_/same_as :: [Galdikas,Birutė.protect](/_protect/bio/Biologist/Galdikas,Birutė.protect.md) 
+
+### #is_/same_as :: [Galdikas,Birutė.private](/_private/bio/Biologist/Galdikas,Birutė.private.md) 
+
+### #is_/same_as :: [Galdikas,Birutė.personal](/_personal/bio/Biologist/Galdikas,Birutė.personal.md) 
+
+### #is_/same_as :: [Galdikas,Birutė.secret](/_secret/bio/Biologist/Galdikas,Birutė.secret.md)
+

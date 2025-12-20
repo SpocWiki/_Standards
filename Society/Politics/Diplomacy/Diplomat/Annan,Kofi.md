@@ -173,3 +173,22 @@ RIA_Novosti_reference: "56818006"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kofi%20Annan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Annan,Kofi](/_Standards/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.md) 
+
+### #is_/same_as :: [Annan,Kofi.public](/_public/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.public.md) 
+
+### #is_/same_as :: [Annan,Kofi.internal](/_internal/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.internal.md) 
+
+### #is_/same_as :: [Annan,Kofi.protect](/_protect/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.protect.md) 
+
+### #is_/same_as :: [Annan,Kofi.private](/_private/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.private.md) 
+
+### #is_/same_as :: [Annan,Kofi.personal](/_personal/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.personal.md) 
+
+### #is_/same_as :: [Annan,Kofi.secret](/_secret/Society/Politics/Diplomacy/Diplomat/Annan,Kofi.secret.md)
+

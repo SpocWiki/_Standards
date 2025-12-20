@@ -59,3 +59,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Urban%20agriculture)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Urban_Agriculture](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.md) 
+
+### #is_/same_as :: [Urban_Agriculture.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.public.md) 
+
+### #is_/same_as :: [Urban_Agriculture.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.internal.md) 
+
+### #is_/same_as :: [Urban_Agriculture.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.protect.md) 
+
+### #is_/same_as :: [Urban_Agriculture.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.private.md) 
+
+### #is_/same_as :: [Urban_Agriculture.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.personal.md) 
+
+### #is_/same_as :: [Urban_Agriculture.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.secret.md)
+

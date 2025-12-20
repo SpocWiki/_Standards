@@ -42,17 +42,17 @@ Measurement of the collar, for example of a shirt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Measurement_Collar](Wearable_Measurement_Collar.md) 
+### #is_/same_as :: [Wearable_Measurement_Collar](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Collar.md) 
 
-### #is_/same_as :: [wearable_measurement_collar.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.public.md) 
+### #is_/same_as :: [Wearable_Measurement_Collar.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Collar.public.md) 
 
-### #is_/same_as :: [wearable_measurement_collar.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.internal.md) 
+### #is_/same_as :: [Wearable_Measurement_Collar.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Collar.internal.md) 
 
-### #is_/same_as :: [wearable_measurement_collar.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.protect.md) 
+### #is_/same_as :: [Wearable_Measurement_Collar.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Collar.protect.md) 
 
-### #is_/same_as :: [wearable_measurement_collar.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.private.md) 
+### #is_/same_as :: [Wearable_Measurement_Collar.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Collar.private.md) 
 
-### #is_/same_as :: [wearable_measurement_collar.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.personal.md) 
+### #is_/same_as :: [Wearable_Measurement_Collar.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Collar.personal.md) 
 
-### #is_/same_as :: [wearable_measurement_collar.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.secret.md)
+### #is_/same_as :: [Wearable_Measurement_Collar.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Collar.secret.md)
 

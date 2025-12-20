@@ -38,3 +38,22 @@ described_at_URL: https://www.demokratiewebstatt.at/demokratie/lexikon/Parlament
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parliamentary%20republic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parliamentary_Republic](/_Standards/Society/Politics/Government/Democracy/Parliamentary_Republic.md) 
+
+### #is_/same_as :: [Parliamentary_Republic.public](/_public/Society/Politics/Government/Democracy/Parliamentary_Republic.public.md) 
+
+### #is_/same_as :: [Parliamentary_Republic.internal](/_internal/Society/Politics/Government/Democracy/Parliamentary_Republic.internal.md) 
+
+### #is_/same_as :: [Parliamentary_Republic.protect](/_protect/Society/Politics/Government/Democracy/Parliamentary_Republic.protect.md) 
+
+### #is_/same_as :: [Parliamentary_Republic.private](/_private/Society/Politics/Government/Democracy/Parliamentary_Republic.private.md) 
+
+### #is_/same_as :: [Parliamentary_Republic.personal](/_personal/Society/Politics/Government/Democracy/Parliamentary_Republic.personal.md) 
+
+### #is_/same_as :: [Parliamentary_Republic.secret](/_secret/Society/Politics/Government/Democracy/Parliamentary_Republic.secret.md)
+

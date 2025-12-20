@@ -25,3 +25,22 @@ Commons_category: Postmodern art
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Postmodern%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Postmodern_Art](/_Standards/Society/Communication/Art/Art_History/Postmodern_Art.md) 
+
+### #is_/same_as :: [Postmodern_Art.public](/_public/Society/Communication/Art/Art_History/Postmodern_Art.public.md) 
+
+### #is_/same_as :: [Postmodern_Art.internal](/_internal/Society/Communication/Art/Art_History/Postmodern_Art.internal.md) 
+
+### #is_/same_as :: [Postmodern_Art.protect](/_protect/Society/Communication/Art/Art_History/Postmodern_Art.protect.md) 
+
+### #is_/same_as :: [Postmodern_Art.private](/_private/Society/Communication/Art/Art_History/Postmodern_Art.private.md) 
+
+### #is_/same_as :: [Postmodern_Art.personal](/_personal/Society/Communication/Art/Art_History/Postmodern_Art.personal.md) 
+
+### #is_/same_as :: [Postmodern_Art.secret](/_secret/Society/Communication/Art/Art_History/Postmodern_Art.secret.md)
+

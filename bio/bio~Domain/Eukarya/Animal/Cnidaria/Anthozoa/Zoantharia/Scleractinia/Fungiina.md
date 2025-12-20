@@ -46,7 +46,7 @@ transportation to lower level taxa.
 
 Wells, J. W. 1956. Scleractinia. Pp. F328-F444 In: Moore, R. C. (editor)
 Treatise on Invertebrate Paleontology, Part F: Coelenterata. University
-of Kansas Press, Lawrence.
+of Kansas Press, Lawrence.
 
 
 ## Confidential Links & Embeds: 

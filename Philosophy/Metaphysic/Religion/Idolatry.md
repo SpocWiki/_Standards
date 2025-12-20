@@ -67,3 +67,22 @@ Commons_category: Idolatry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Idolatry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Idolatry](/_Standards/Philosophy/Metaphysic/Religion/Idolatry.md) 
+
+### #is_/same_as :: [Idolatry.public](/_public/Philosophy/Metaphysic/Religion/Idolatry.public.md) 
+
+### #is_/same_as :: [Idolatry.internal](/_internal/Philosophy/Metaphysic/Religion/Idolatry.internal.md) 
+
+### #is_/same_as :: [Idolatry.protect](/_protect/Philosophy/Metaphysic/Religion/Idolatry.protect.md) 
+
+### #is_/same_as :: [Idolatry.private](/_private/Philosophy/Metaphysic/Religion/Idolatry.private.md) 
+
+### #is_/same_as :: [Idolatry.personal](/_personal/Philosophy/Metaphysic/Religion/Idolatry.personal.md) 
+
+### #is_/same_as :: [Idolatry.secret](/_secret/Philosophy/Metaphysic/Religion/Idolatry.secret.md)
+

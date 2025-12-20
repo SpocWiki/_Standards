@@ -40,17 +40,17 @@ Physical activity that is engaged to help maintain posture and balance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balance](Balance.md) 
+### #is_/same_as :: [Balance](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Balance.md) 
 
-### #is_/same_as :: [balance.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.public.md) 
+### #is_/same_as :: [Balance.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Balance.public.md) 
 
-### #is_/same_as :: [balance.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.internal.md) 
+### #is_/same_as :: [Balance.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Balance.internal.md) 
 
-### #is_/same_as :: [balance.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.protect.md) 
+### #is_/same_as :: [Balance.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Balance.protect.md) 
 
-### #is_/same_as :: [balance.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.private.md) 
+### #is_/same_as :: [Balance.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Balance.private.md) 
 
-### #is_/same_as :: [balance.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.personal.md) 
+### #is_/same_as :: [Balance.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Balance.personal.md) 
 
-### #is_/same_as :: [balance.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.secret.md)
+### #is_/same_as :: [Balance.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Balance.secret.md)
 

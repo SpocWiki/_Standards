@@ -126,3 +126,22 @@ birth_name: Johann Peter Gustav Lejeune Dirichlet
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Gustav%20Lejeune%20Dirichlet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dirichlet,Johann_Peter_Gustav_Lejeune](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Dirichlet,Johann_Peter_Gustav_Lejeune.md) 
+
+### #is_/same_as :: [Dirichlet,Johann_Peter_Gustav_Lejeune.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Dirichlet,Johann_Peter_Gustav_Lejeune.public.md) 
+
+### #is_/same_as :: [Dirichlet,Johann_Peter_Gustav_Lejeune.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Dirichlet,Johann_Peter_Gustav_Lejeune.internal.md) 
+
+### #is_/same_as :: [Dirichlet,Johann_Peter_Gustav_Lejeune.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Dirichlet,Johann_Peter_Gustav_Lejeune.protect.md) 
+
+### #is_/same_as :: [Dirichlet,Johann_Peter_Gustav_Lejeune.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Dirichlet,Johann_Peter_Gustav_Lejeune.private.md) 
+
+### #is_/same_as :: [Dirichlet,Johann_Peter_Gustav_Lejeune.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Dirichlet,Johann_Peter_Gustav_Lejeune.personal.md) 
+
+### #is_/same_as :: [Dirichlet,Johann_Peter_Gustav_Lejeune.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Dirichlet,Johann_Peter_Gustav_Lejeune.secret.md)
+

@@ -103,3 +103,22 @@ GitHub_topic: nonprofits
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonprofit%20organization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nonprofit_Organization](/_Standards/Society/Agent/Community/Organization/Nonprofit_Organization.md) 
+
+### #is_/same_as :: [Nonprofit_Organization.public](/_public/Society/Agent/Community/Organization/Nonprofit_Organization.public.md) 
+
+### #is_/same_as :: [Nonprofit_Organization.internal](/_internal/Society/Agent/Community/Organization/Nonprofit_Organization.internal.md) 
+
+### #is_/same_as :: [Nonprofit_Organization.protect](/_protect/Society/Agent/Community/Organization/Nonprofit_Organization.protect.md) 
+
+### #is_/same_as :: [Nonprofit_Organization.private](/_private/Society/Agent/Community/Organization/Nonprofit_Organization.private.md) 
+
+### #is_/same_as :: [Nonprofit_Organization.personal](/_personal/Society/Agent/Community/Organization/Nonprofit_Organization.personal.md) 
+
+### #is_/same_as :: [Nonprofit_Organization.secret](/_secret/Society/Agent/Community/Organization/Nonprofit_Organization.secret.md)
+

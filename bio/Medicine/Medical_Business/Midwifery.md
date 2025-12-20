@@ -40,17 +40,17 @@ A nurse-like health profession that deals with pregnancy, childbirth, and the po
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Midwifery](Midwifery.md) 
+### #is_/same_as :: [Midwifery](/_Standards/bio/Medicine/Medical_Business/Midwifery.md) 
 
-### #is_/same_as :: [Midwifery.public](/_public/Society/Organization/Local_Business/Medical_Business/Midwifery.public.md) 
+### #is_/same_as :: [Midwifery.public](/_public/bio/Medicine/Medical_Business/Midwifery.public.md) 
 
-### #is_/same_as :: [Midwifery.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Midwifery.internal.md) 
+### #is_/same_as :: [Midwifery.internal](/_internal/bio/Medicine/Medical_Business/Midwifery.internal.md) 
 
-### #is_/same_as :: [Midwifery.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Midwifery.protect.md) 
+### #is_/same_as :: [Midwifery.protect](/_protect/bio/Medicine/Medical_Business/Midwifery.protect.md) 
 
-### #is_/same_as :: [Midwifery.private](/_private/Society/Organization/Local_Business/Medical_Business/Midwifery.private.md) 
+### #is_/same_as :: [Midwifery.private](/_private/bio/Medicine/Medical_Business/Midwifery.private.md) 
 
-### #is_/same_as :: [Midwifery.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Midwifery.personal.md) 
+### #is_/same_as :: [Midwifery.personal](/_personal/bio/Medicine/Medical_Business/Midwifery.personal.md) 
 
-### #is_/same_as :: [Midwifery.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Midwifery.secret.md)
+### #is_/same_as :: [Midwifery.secret](/_secret/bio/Medicine/Medical_Business/Midwifery.secret.md)
 

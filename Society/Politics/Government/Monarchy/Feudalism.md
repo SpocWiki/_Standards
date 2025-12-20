@@ -35,3 +35,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Feudalism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Feudalism](/_Standards/Society/Politics/Government/Monarchy/Feudalism.md) 
+
+### #is_/same_as :: [Feudalism.public](/_public/Society/Politics/Government/Monarchy/Feudalism.public.md) 
+
+### #is_/same_as :: [Feudalism.internal](/_internal/Society/Politics/Government/Monarchy/Feudalism.internal.md) 
+
+### #is_/same_as :: [Feudalism.protect](/_protect/Society/Politics/Government/Monarchy/Feudalism.protect.md) 
+
+### #is_/same_as :: [Feudalism.private](/_private/Society/Politics/Government/Monarchy/Feudalism.private.md) 
+
+### #is_/same_as :: [Feudalism.personal](/_personal/Society/Politics/Government/Monarchy/Feudalism.personal.md) 
+
+### #is_/same_as :: [Feudalism.secret](/_secret/Society/Politics/Government/Monarchy/Feudalism.secret.md)
+

@@ -51,3 +51,22 @@ hashtag_: Byzantineart
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Byzantine%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Byzantine_Art](/_Standards/Society/Communication/Art/Art_History/Byzantine_Art.md) 
+
+### #is_/same_as :: [Byzantine_Art.public](/_public/Society/Communication/Art/Art_History/Byzantine_Art.public.md) 
+
+### #is_/same_as :: [Byzantine_Art.internal](/_internal/Society/Communication/Art/Art_History/Byzantine_Art.internal.md) 
+
+### #is_/same_as :: [Byzantine_Art.protect](/_protect/Society/Communication/Art/Art_History/Byzantine_Art.protect.md) 
+
+### #is_/same_as :: [Byzantine_Art.private](/_private/Society/Communication/Art/Art_History/Byzantine_Art.private.md) 
+
+### #is_/same_as :: [Byzantine_Art.personal](/_personal/Society/Communication/Art/Art_History/Byzantine_Art.personal.md) 
+
+### #is_/same_as :: [Byzantine_Art.secret](/_secret/Society/Communication/Art/Art_History/Byzantine_Art.secret.md)
+

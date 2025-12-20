@@ -128,3 +128,22 @@ start_time: 1933-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Deal) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [New_Deal](/_Standards/Earth/Continent/America~North/US~President/New_Deal.md) 
+
+### #is_/same_as :: [New_Deal.public](/_public/Earth/Continent/America~North/US~President/New_Deal.public.md) 
+
+### #is_/same_as :: [New_Deal.internal](/_internal/Earth/Continent/America~North/US~President/New_Deal.internal.md) 
+
+### #is_/same_as :: [New_Deal.protect](/_protect/Earth/Continent/America~North/US~President/New_Deal.protect.md) 
+
+### #is_/same_as :: [New_Deal.private](/_private/Earth/Continent/America~North/US~President/New_Deal.private.md) 
+
+### #is_/same_as :: [New_Deal.personal](/_personal/Earth/Continent/America~North/US~President/New_Deal.personal.md) 
+
+### #is_/same_as :: [New_Deal.secret](/_secret/Earth/Continent/America~North/US~President/New_Deal.secret.md)
+

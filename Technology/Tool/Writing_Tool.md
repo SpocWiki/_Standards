@@ -38,3 +38,22 @@ Commons_category: Writing tools
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Writing_Tool](/_Standards/Technology/Tool/Writing_Tool.md) 
+
+### #is_/same_as :: [Writing_Tool.public](/_public/Technology/Tool/Writing_Tool.public.md) 
+
+### #is_/same_as :: [Writing_Tool.internal](/_internal/Technology/Tool/Writing_Tool.internal.md) 
+
+### #is_/same_as :: [Writing_Tool.protect](/_protect/Technology/Tool/Writing_Tool.protect.md) 
+
+### #is_/same_as :: [Writing_Tool.private](/_private/Technology/Tool/Writing_Tool.private.md) 
+
+### #is_/same_as :: [Writing_Tool.personal](/_personal/Technology/Tool/Writing_Tool.personal.md) 
+
+### #is_/same_as :: [Writing_Tool.secret](/_secret/Technology/Tool/Writing_Tool.secret.md)
+

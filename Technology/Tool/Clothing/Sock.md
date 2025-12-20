@@ -64,3 +64,22 @@ Unicode_character: 🧦
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sock) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sock](/_Standards/Technology/Tool/Clothing/Sock.md) 
+
+### #is_/same_as :: [Sock.public](/_public/Technology/Tool/Clothing/Sock.public.md) 
+
+### #is_/same_as :: [Sock.internal](/_internal/Technology/Tool/Clothing/Sock.internal.md) 
+
+### #is_/same_as :: [Sock.protect](/_protect/Technology/Tool/Clothing/Sock.protect.md) 
+
+### #is_/same_as :: [Sock.private](/_private/Technology/Tool/Clothing/Sock.private.md) 
+
+### #is_/same_as :: [Sock.personal](/_personal/Technology/Tool/Clothing/Sock.personal.md) 
+
+### #is_/same_as :: [Sock.secret](/_secret/Technology/Tool/Clothing/Sock.secret.md)
+

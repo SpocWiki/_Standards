@@ -206,3 +206,22 @@ motto_text: Helping kids grow smarter, stronger, and kinder.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sesame%20Street) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sesame_Street](/_Standards/Society/Communication/Media/Television/TV_Series/Sesame_Street.md) 
+
+### #is_/same_as :: [Sesame_Street.public](/_public/Society/Communication/Media/Television/TV_Series/Sesame_Street.public.md) 
+
+### #is_/same_as :: [Sesame_Street.internal](/_internal/Society/Communication/Media/Television/TV_Series/Sesame_Street.internal.md) 
+
+### #is_/same_as :: [Sesame_Street.protect](/_protect/Society/Communication/Media/Television/TV_Series/Sesame_Street.protect.md) 
+
+### #is_/same_as :: [Sesame_Street.private](/_private/Society/Communication/Media/Television/TV_Series/Sesame_Street.private.md) 
+
+### #is_/same_as :: [Sesame_Street.personal](/_personal/Society/Communication/Media/Television/TV_Series/Sesame_Street.personal.md) 
+
+### #is_/same_as :: [Sesame_Street.secret](/_secret/Society/Communication/Media/Television/TV_Series/Sesame_Street.secret.md)
+

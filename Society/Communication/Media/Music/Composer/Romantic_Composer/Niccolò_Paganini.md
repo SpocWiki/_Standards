@@ -113,3 +113,22 @@ Europeana_entity: agent/base/53157
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niccol%C3%B2%20Paganini) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Niccolò_Paganini](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.md) 
+
+### #is_/same_as :: [Niccolò_Paganini.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.public.md) 
+
+### #is_/same_as :: [Niccolò_Paganini.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.internal.md) 
+
+### #is_/same_as :: [Niccolò_Paganini.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.protect.md) 
+
+### #is_/same_as :: [Niccolò_Paganini.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.private.md) 
+
+### #is_/same_as :: [Niccolò_Paganini.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.personal.md) 
+
+### #is_/same_as :: [Niccolò_Paganini.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.secret.md)
+

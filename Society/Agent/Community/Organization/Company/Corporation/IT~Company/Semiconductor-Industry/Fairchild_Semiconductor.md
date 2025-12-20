@@ -37,17 +37,17 @@ The members of the Traitorous Eight were:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fairchild_Semiconductor](Fairchild_Semiconductor.md) 
+### #is_/same_as :: [Fairchild_Semiconductor](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.md) 
 
-### #is_/same_as :: [Fairchild_Semiconductor.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.public.md) 
+### #is_/same_as :: [Fairchild_Semiconductor.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.public.md) 
 
-### #is_/same_as :: [Fairchild_Semiconductor.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.internal.md) 
+### #is_/same_as :: [Fairchild_Semiconductor.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.internal.md) 
 
-### #is_/same_as :: [Fairchild_Semiconductor.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.protect.md) 
+### #is_/same_as :: [Fairchild_Semiconductor.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.protect.md) 
 
-### #is_/same_as :: [Fairchild_Semiconductor.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.private.md) 
+### #is_/same_as :: [Fairchild_Semiconductor.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.private.md) 
 
-### #is_/same_as :: [Fairchild_Semiconductor.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.personal.md) 
+### #is_/same_as :: [Fairchild_Semiconductor.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.personal.md) 
 
-### #is_/same_as :: [Fairchild_Semiconductor.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.secret.md)
+### #is_/same_as :: [Fairchild_Semiconductor.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.secret.md)
 

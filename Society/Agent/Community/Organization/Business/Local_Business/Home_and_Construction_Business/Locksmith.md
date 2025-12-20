@@ -39,17 +39,17 @@ A locksmith.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Locksmith](Locksmith.md) 
+### #is_/same_as :: [Locksmith](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.md) 
 
-### #is_/same_as :: [Locksmith.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.public.md) 
+### #is_/same_as :: [Locksmith.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.public.md) 
 
-### #is_/same_as :: [Locksmith.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.internal.md) 
+### #is_/same_as :: [Locksmith.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.internal.md) 
 
-### #is_/same_as :: [Locksmith.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.protect.md) 
+### #is_/same_as :: [Locksmith.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.protect.md) 
 
-### #is_/same_as :: [Locksmith.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.private.md) 
+### #is_/same_as :: [Locksmith.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.private.md) 
 
-### #is_/same_as :: [Locksmith.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.personal.md) 
+### #is_/same_as :: [Locksmith.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.personal.md) 
 
-### #is_/same_as :: [Locksmith.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.secret.md)
+### #is_/same_as :: [Locksmith.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Locksmith.secret.md)
 

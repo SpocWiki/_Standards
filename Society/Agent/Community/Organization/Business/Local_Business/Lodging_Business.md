@@ -41,17 +41,17 @@ A lodging business, such as a motel, hotel, or inn.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lodging_Business](Lodging_Business.md) 
+### #is_/same_as :: [Lodging_Business](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business.md) 
 
-### #is_/same_as :: [Lodging_Business.public](/_public/Society/Organization/Local_Business/Lodging_Business.public.md) 
+### #is_/same_as :: [Lodging_Business.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business.public.md) 
 
-### #is_/same_as :: [Lodging_Business.internal](/_internal/Society/Organization/Local_Business/Lodging_Business.internal.md) 
+### #is_/same_as :: [Lodging_Business.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business.internal.md) 
 
-### #is_/same_as :: [Lodging_Business.protect](/_protect/Society/Organization/Local_Business/Lodging_Business.protect.md) 
+### #is_/same_as :: [Lodging_Business.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business.protect.md) 
 
-### #is_/same_as :: [Lodging_Business.private](/_private/Society/Organization/Local_Business/Lodging_Business.private.md) 
+### #is_/same_as :: [Lodging_Business.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business.private.md) 
 
-### #is_/same_as :: [Lodging_Business.personal](/_personal/Society/Organization/Local_Business/Lodging_Business.personal.md) 
+### #is_/same_as :: [Lodging_Business.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business.personal.md) 
 
-### #is_/same_as :: [Lodging_Business.secret](/_secret/Society/Organization/Local_Business/Lodging_Business.secret.md)
+### #is_/same_as :: [Lodging_Business.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business.secret.md)
 

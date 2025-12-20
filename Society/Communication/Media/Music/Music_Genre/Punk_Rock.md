@@ -49,3 +49,22 @@ native_label: Punk rock
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Punk%20rock) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Punk_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Punk_Rock.md) 
+
+### #is_/same_as :: [Punk_Rock.public](/_public/Society/Communication/Media/Music/Music_Genre/Punk_Rock.public.md) 
+
+### #is_/same_as :: [Punk_Rock.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Punk_Rock.internal.md) 
+
+### #is_/same_as :: [Punk_Rock.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Punk_Rock.protect.md) 
+
+### #is_/same_as :: [Punk_Rock.private](/_private/Society/Communication/Media/Music/Music_Genre/Punk_Rock.private.md) 
+
+### #is_/same_as :: [Punk_Rock.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Punk_Rock.personal.md) 
+
+### #is_/same_as :: [Punk_Rock.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Punk_Rock.secret.md)
+

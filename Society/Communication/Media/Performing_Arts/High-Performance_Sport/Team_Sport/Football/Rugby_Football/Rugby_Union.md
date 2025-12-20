@@ -87,3 +87,22 @@ OpenStreetMap_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rugby%20union) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rugby_Union](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Union.md) 
+
+### #is_/same_as :: [Rugby_Union.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Union.public.md) 
+
+### #is_/same_as :: [Rugby_Union.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Union.internal.md) 
+
+### #is_/same_as :: [Rugby_Union.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Union.protect.md) 
+
+### #is_/same_as :: [Rugby_Union.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Union.private.md) 
+
+### #is_/same_as :: [Rugby_Union.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Union.personal.md) 
+
+### #is_/same_as :: [Rugby_Union.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Union.secret.md)
+

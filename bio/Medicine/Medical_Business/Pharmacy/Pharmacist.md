@@ -115,3 +115,22 @@ Commons_category: Pharmacists
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pharmacist) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pharmacist](/_Standards/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.md) 
+
+### #is_/same_as :: [Pharmacist.public](/_public/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.public.md) 
+
+### #is_/same_as :: [Pharmacist.internal](/_internal/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.internal.md) 
+
+### #is_/same_as :: [Pharmacist.protect](/_protect/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.protect.md) 
+
+### #is_/same_as :: [Pharmacist.private](/_private/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.private.md) 
+
+### #is_/same_as :: [Pharmacist.personal](/_personal/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.personal.md) 
+
+### #is_/same_as :: [Pharmacist.secret](/_secret/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.secret.md)
+

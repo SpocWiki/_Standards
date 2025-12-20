@@ -51,3 +51,22 @@ By <a href="//commons.wikimedia.org/wiki/User:Hintha" title="User:Hintha">Hintha
 > [Wikipedia](https://en.wikipedia.org/wiki/Shwedagon%20Pagoda) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shwedagon_Pagoda](/_Standards/Earth/Geography/Place/Shwedagon_Pagoda.md) 
+
+### #is_/same_as :: [Shwedagon_Pagoda.public](/_public/Earth/Geography/Place/Shwedagon_Pagoda.public.md) 
+
+### #is_/same_as :: [Shwedagon_Pagoda.internal](/_internal/Earth/Geography/Place/Shwedagon_Pagoda.internal.md) 
+
+### #is_/same_as :: [Shwedagon_Pagoda.protect](/_protect/Earth/Geography/Place/Shwedagon_Pagoda.protect.md) 
+
+### #is_/same_as :: [Shwedagon_Pagoda.private](/_private/Earth/Geography/Place/Shwedagon_Pagoda.private.md) 
+
+### #is_/same_as :: [Shwedagon_Pagoda.personal](/_personal/Earth/Geography/Place/Shwedagon_Pagoda.personal.md) 
+
+### #is_/same_as :: [Shwedagon_Pagoda.secret](/_secret/Earth/Geography/Place/Shwedagon_Pagoda.secret.md)
+

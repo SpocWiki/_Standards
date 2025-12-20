@@ -65,3 +65,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Xenophon)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Xenophon](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Xenophon.md) 
+
+### #is_/same_as :: [Xenophon.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Xenophon.public.md) 
+
+### #is_/same_as :: [Xenophon.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Xenophon.internal.md) 
+
+### #is_/same_as :: [Xenophon.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Xenophon.protect.md) 
+
+### #is_/same_as :: [Xenophon.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Xenophon.private.md) 
+
+### #is_/same_as :: [Xenophon.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Xenophon.personal.md) 
+
+### #is_/same_as :: [Xenophon.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Xenophon.secret.md)
+

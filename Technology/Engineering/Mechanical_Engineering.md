@@ -64,17 +64,17 @@ has_id_wikidata: Q101333
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mechanical_Engineering](/_Standards/Technology/Mechanical_Engineering.md) 
+### #is_/same_as :: [Mechanical_Engineering](/_Standards/Technology/Engineering/Mechanical_Engineering.md) 
 
-### #is_/same_as :: [Mechanical_Engineering.public](/_public/Technology/Mechanical_Engineering.public.md) 
+### #is_/same_as :: [Mechanical_Engineering.public](/_public/Technology/Engineering/Mechanical_Engineering.public.md) 
 
-### #is_/same_as :: [Mechanical_Engineering.internal](/_internal/Technology/Mechanical_Engineering.internal.md) 
+### #is_/same_as :: [Mechanical_Engineering.internal](/_internal/Technology/Engineering/Mechanical_Engineering.internal.md) 
 
-### #is_/same_as :: [Mechanical_Engineering.protect](/_protect/Technology/Mechanical_Engineering.protect.md) 
+### #is_/same_as :: [Mechanical_Engineering.protect](/_protect/Technology/Engineering/Mechanical_Engineering.protect.md) 
 
-### #is_/same_as :: [Mechanical_Engineering.private](/_private/Technology/Mechanical_Engineering.private.md) 
+### #is_/same_as :: [Mechanical_Engineering.private](/_private/Technology/Engineering/Mechanical_Engineering.private.md) 
 
-### #is_/same_as :: [Mechanical_Engineering.personal](/_personal/Technology/Mechanical_Engineering.personal.md) 
+### #is_/same_as :: [Mechanical_Engineering.personal](/_personal/Technology/Engineering/Mechanical_Engineering.personal.md) 
 
-### #is_/same_as :: [Mechanical_Engineering.secret](/_secret/Technology/Mechanical_Engineering.secret.md)
+### #is_/same_as :: [Mechanical_Engineering.secret](/_secret/Technology/Engineering/Mechanical_Engineering.secret.md)
 

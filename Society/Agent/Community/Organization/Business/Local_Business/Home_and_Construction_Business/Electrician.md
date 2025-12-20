@@ -39,17 +39,17 @@ An electrician.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrician](Electrician.md) 
+### #is_/same_as :: [Electrician](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Electrician.md) 
 
-### #is_/same_as :: [Electrician.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.public.md) 
+### #is_/same_as :: [Electrician.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Electrician.public.md) 
 
-### #is_/same_as :: [Electrician.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.internal.md) 
+### #is_/same_as :: [Electrician.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Electrician.internal.md) 
 
-### #is_/same_as :: [Electrician.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.protect.md) 
+### #is_/same_as :: [Electrician.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Electrician.protect.md) 
 
-### #is_/same_as :: [Electrician.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.private.md) 
+### #is_/same_as :: [Electrician.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Electrician.private.md) 
 
-### #is_/same_as :: [Electrician.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.personal.md) 
+### #is_/same_as :: [Electrician.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Electrician.personal.md) 
 
-### #is_/same_as :: [Electrician.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.secret.md)
+### #is_/same_as :: [Electrician.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/Electrician.secret.md)
 

@@ -66,3 +66,22 @@ native_label: jūris prūdentia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jurisprudence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jurisprudence](/_Standards/Society/Law/Jurisprudence.md) 
+
+### #is_/same_as :: [Jurisprudence.public](/_public/Society/Law/Jurisprudence.public.md) 
+
+### #is_/same_as :: [Jurisprudence.internal](/_internal/Society/Law/Jurisprudence.internal.md) 
+
+### #is_/same_as :: [Jurisprudence.protect](/_protect/Society/Law/Jurisprudence.protect.md) 
+
+### #is_/same_as :: [Jurisprudence.private](/_private/Society/Law/Jurisprudence.private.md) 
+
+### #is_/same_as :: [Jurisprudence.personal](/_personal/Society/Law/Jurisprudence.personal.md) 
+
+### #is_/same_as :: [Jurisprudence.secret](/_secret/Society/Law/Jurisprudence.secret.md)
+

@@ -41,17 +41,17 @@ A DeliveryTimeSettings represents re-usable pieces of shipping information, rela
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [delivery_time_settings](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.md) 
+### #is_/same_as :: [Delivery_Time_Settings](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.md) 
 
-### #is_/same_as :: [delivery_time_settings.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.public.md) 
+### #is_/same_as :: [Delivery_Time_Settings.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.public.md) 
 
-### #is_/same_as :: [delivery_time_settings.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.internal.md) 
+### #is_/same_as :: [Delivery_Time_Settings.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.internal.md) 
 
-### #is_/same_as :: [delivery_time_settings.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.protect.md) 
+### #is_/same_as :: [Delivery_Time_Settings.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.protect.md) 
 
-### #is_/same_as :: [delivery_time_settings.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.private.md) 
+### #is_/same_as :: [Delivery_Time_Settings.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.private.md) 
 
-### #is_/same_as :: [delivery_time_settings.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.personal.md) 
+### #is_/same_as :: [Delivery_Time_Settings.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.personal.md) 
 
-### #is_/same_as :: [delivery_time_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.secret.md)
+### #is_/same_as :: [Delivery_Time_Settings.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.secret.md)
 

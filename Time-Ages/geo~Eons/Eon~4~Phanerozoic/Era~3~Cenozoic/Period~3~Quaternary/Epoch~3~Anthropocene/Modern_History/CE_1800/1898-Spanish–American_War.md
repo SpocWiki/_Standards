@@ -107,3 +107,22 @@ Commons_category: Spanish-American War
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%E2%80%93American%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1898-Spanish–American_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.md) 
+
+### #is_/same_as :: [1898-Spanish–American_War.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.public.md) 
+
+### #is_/same_as :: [1898-Spanish–American_War.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.internal.md) 
+
+### #is_/same_as :: [1898-Spanish–American_War.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.protect.md) 
+
+### #is_/same_as :: [1898-Spanish–American_War.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.private.md) 
+
+### #is_/same_as :: [1898-Spanish–American_War.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.personal.md) 
+
+### #is_/same_as :: [1898-Spanish–American_War.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.secret.md)
+

@@ -79,3 +79,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethnicity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ethnic_Group](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.md) 
+
+### #is_/same_as :: [Ethnic_Group.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.public.md) 
+
+### #is_/same_as :: [Ethnic_Group.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.internal.md) 
+
+### #is_/same_as :: [Ethnic_Group.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.protect.md) 
+
+### #is_/same_as :: [Ethnic_Group.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.private.md) 
+
+### #is_/same_as :: [Ethnic_Group.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.personal.md) 
+
+### #is_/same_as :: [Ethnic_Group.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.secret.md)
+

@@ -56,3 +56,22 @@ IMDb_keyword: criminal-organization
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organized%20crime)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Criminal_Organization](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.md) 
+
+### #is_/same_as :: [Criminal_Organization.public](/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.public.md) 
+
+### #is_/same_as :: [Criminal_Organization.internal](/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.internal.md) 
+
+### #is_/same_as :: [Criminal_Organization.protect](/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.protect.md) 
+
+### #is_/same_as :: [Criminal_Organization.private](/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.private.md) 
+
+### #is_/same_as :: [Criminal_Organization.personal](/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.personal.md) 
+
+### #is_/same_as :: [Criminal_Organization.secret](/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.secret.md)
+

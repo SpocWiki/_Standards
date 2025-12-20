@@ -72,7 +72,7 @@ Araneoidea). Zoologica Scripta 32:129-151.
   Identified By        Jonathan Coddington
   Behavior             web size ca. 4 cm. Note large number of radii that do not all reach hub.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

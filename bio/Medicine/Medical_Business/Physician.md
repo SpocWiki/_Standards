@@ -158,17 +158,17 @@ A doctor's office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physician](Physician.md) 
+### #is_/same_as :: [Physician](/_Standards/bio/Medicine/Medical_Business/Physician.md) 
 
-### #is_/same_as :: [Physician.public](/_public/Society/Organization/Local_Business/Medical_Business/Physician.public.md) 
+### #is_/same_as :: [Physician.public](/_public/bio/Medicine/Medical_Business/Physician.public.md) 
 
-### #is_/same_as :: [Physician.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Physician.internal.md) 
+### #is_/same_as :: [Physician.internal](/_internal/bio/Medicine/Medical_Business/Physician.internal.md) 
 
-### #is_/same_as :: [Physician.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Physician.protect.md) 
+### #is_/same_as :: [Physician.protect](/_protect/bio/Medicine/Medical_Business/Physician.protect.md) 
 
-### #is_/same_as :: [Physician.private](/_private/Society/Organization/Local_Business/Medical_Business/Physician.private.md) 
+### #is_/same_as :: [Physician.private](/_private/bio/Medicine/Medical_Business/Physician.private.md) 
 
-### #is_/same_as :: [Physician.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Physician.personal.md) 
+### #is_/same_as :: [Physician.personal](/_personal/bio/Medicine/Medical_Business/Physician.personal.md) 
 
-### #is_/same_as :: [Physician.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Physician.secret.md)
+### #is_/same_as :: [Physician.secret](/_secret/bio/Medicine/Medical_Business/Physician.secret.md)
 

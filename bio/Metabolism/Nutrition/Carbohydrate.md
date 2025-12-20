@@ -93,7 +93,9 @@ Maulwürfe und Spitzmäuse bauen Knochen, Muskeln und Gehirn im Winterschlaf ab,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carb[Carbohydrate](Carbohydrate.md)# #is_/same_as :: [Carbohydrate.public](/_public/bio/Metabolism/Nutrition/Carbohydrate.public.md) 
+### #is_/same_as :: [Carbohydrate](/_Standards/bio/Metabolism/Nutrition/Carbohydrate.md) 
+
+### #is_/same_as :: [Carbohydrate.public](/_public/bio/Metabolism/Nutrition/Carbohydrate.public.md) 
 
 ### #is_/same_as :: [Carbohydrate.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate.internal.md) 
 

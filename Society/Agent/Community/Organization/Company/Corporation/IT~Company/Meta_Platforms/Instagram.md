@@ -62,17 +62,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Instagram](Instagram.md) 
+### #is_/same_as :: [Instagram](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.md) 
 
-### #is_/same_as :: [Instagram.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Instagram.public.md) 
+### #is_/same_as :: [Instagram.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.public.md) 
 
-### #is_/same_as :: [Instagram.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Instagram.internal.md) 
+### #is_/same_as :: [Instagram.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.internal.md) 
 
-### #is_/same_as :: [Instagram.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Instagram.protect.md) 
+### #is_/same_as :: [Instagram.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.protect.md) 
 
-### #is_/same_as :: [Instagram.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Instagram.private.md) 
+### #is_/same_as :: [Instagram.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.private.md) 
 
-### #is_/same_as :: [Instagram.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Instagram.personal.md) 
+### #is_/same_as :: [Instagram.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.personal.md) 
 
-### #is_/same_as :: [Instagram.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Instagram.secret.md)
+### #is_/same_as :: [Instagram.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.secret.md)
 

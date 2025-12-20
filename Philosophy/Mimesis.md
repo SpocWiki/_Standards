@@ -29,3 +29,22 @@ has_id_wikidata: Q468427
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mimesis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mimesis](/_Standards/Philosophy/Mimesis.md) 
+
+### #is_/same_as :: [Mimesis.public](/_public/Philosophy/Mimesis.public.md) 
+
+### #is_/same_as :: [Mimesis.internal](/_internal/Philosophy/Mimesis.internal.md) 
+
+### #is_/same_as :: [Mimesis.protect](/_protect/Philosophy/Mimesis.protect.md) 
+
+### #is_/same_as :: [Mimesis.private](/_private/Philosophy/Mimesis.private.md) 
+
+### #is_/same_as :: [Mimesis.personal](/_personal/Philosophy/Mimesis.personal.md) 
+
+### #is_/same_as :: [Mimesis.secret](/_secret/Philosophy/Mimesis.secret.md)
+

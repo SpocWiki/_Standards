@@ -30,3 +30,22 @@ Commons_category: Map projections
 > [Wikipedia](https://en.wikipedia.org/wiki/Map%20projection) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Map_Projection](/_Standards/Earth/Geography/Cartography/Map_Projection.md) 
+
+### #is_/same_as :: [Map_Projection.public](/_public/Earth/Geography/Cartography/Map_Projection.public.md) 
+
+### #is_/same_as :: [Map_Projection.internal](/_internal/Earth/Geography/Cartography/Map_Projection.internal.md) 
+
+### #is_/same_as :: [Map_Projection.protect](/_protect/Earth/Geography/Cartography/Map_Projection.protect.md) 
+
+### #is_/same_as :: [Map_Projection.private](/_private/Earth/Geography/Cartography/Map_Projection.private.md) 
+
+### #is_/same_as :: [Map_Projection.personal](/_personal/Earth/Geography/Cartography/Map_Projection.personal.md) 
+
+### #is_/same_as :: [Map_Projection.secret](/_secret/Earth/Geography/Cartography/Map_Projection.secret.md)
+

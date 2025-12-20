@@ -55,3 +55,22 @@ Commons_category: Islamic calendars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamic%20calendar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Islamic_Calendar](/_Standards/ISO/Calendar/Islamic_Calendar.md) 
+
+### #is_/same_as :: [Islamic_Calendar.public](/_public/ISO/Calendar/Islamic_Calendar.public.md) 
+
+### #is_/same_as :: [Islamic_Calendar.internal](/_internal/ISO/Calendar/Islamic_Calendar.internal.md) 
+
+### #is_/same_as :: [Islamic_Calendar.protect](/_protect/ISO/Calendar/Islamic_Calendar.protect.md) 
+
+### #is_/same_as :: [Islamic_Calendar.private](/_private/ISO/Calendar/Islamic_Calendar.private.md) 
+
+### #is_/same_as :: [Islamic_Calendar.personal](/_personal/ISO/Calendar/Islamic_Calendar.personal.md) 
+
+### #is_/same_as :: [Islamic_Calendar.secret](/_secret/ISO/Calendar/Islamic_Calendar.secret.md)
+

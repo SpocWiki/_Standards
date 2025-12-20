@@ -72,19 +72,20 @@ A store that sells reading glasses and similar devices for improving vision.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Optician)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Optician](Optician.md) 
+### #is_/same_as :: [Optician](/_Standards/bio/Medicine/Medical_Business/Optician.md) 
 
-### #is_/same_as :: [Optician.public](/_public/Society/Organization/Local_Business/Medical_Business/Optician.public.md) 
+### #is_/same_as :: [Optician.public](/_public/bio/Medicine/Medical_Business/Optician.public.md) 
 
-### #is_/same_as :: [Optician.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Optician.internal.md) 
+### #is_/same_as :: [Optician.internal](/_internal/bio/Medicine/Medical_Business/Optician.internal.md) 
 
-### #is_/same_as :: [Optician.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Optician.protect.md) 
+### #is_/same_as :: [Optician.protect](/_protect/bio/Medicine/Medical_Business/Optician.protect.md) 
 
-### #is_/same_as :: [Optician.private](/_private/Society/Organization/Local_Business/Medical_Business/Optician.private.md) 
+### #is_/same_as :: [Optician.private](/_private/bio/Medicine/Medical_Business/Optician.private.md) 
 
-### #is_/same_as :: [Optician.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Optician.personal.md) 
+### #is_/same_as :: [Optician.personal](/_personal/bio/Medicine/Medical_Business/Optician.personal.md) 
 
-### #is_/same_as :: [Optician.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Optician.secret.md)
+### #is_/same_as :: [Optician.secret](/_secret/bio/Medicine/Medical_Business/Optician.secret.md)
 

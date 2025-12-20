@@ -70,3 +70,22 @@ Krugosvet_article: istoriya/SEVERNAYA_VONA.html
 > The war ended with the defeat of Sweden, leaving Russia as the new dominant power in the Baltic region and as a new major force in European politics. The Western powers, Great Britain and France, became caught up in the separate War of the Spanish Succession (1701–1714), which broke out over the Bourbon Philip of Anjou's succession to the Spanish throne and a possible joining of France and Spain. The formal conclusion of the Great Northern War came with the Swedish-Hanoverian and Swedish-Prussian Treaties of Stockholm (1719), the Dano-Swedish Treaty of Frederiksborg (1720), and the Russo-Swedish Treaty of Nystad (1721). By these treaties Sweden ceded its exemption from the Sound Dues and lost the Baltic provinces and the southern part of Swedish Pomerania. The peace treaties also ended its alliance with Holstein-Gottorp. Hanover gained Bremen-Verden, Brandenburg-Prussia incorporated the Oder estuary (Stettin Lagoons), Russia secured the Baltic Provinces, and Denmark strengthened its position in Schleswig-Holstein. In Sweden, the absolute monarchy had come to an end with the death of Charles XII, and Sweden's Age of Liberty began.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Northern%20War) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1700-Great_Northern_War+1721](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.md) 
+
+### #is_/same_as :: [1700-Great_Northern_War+1721.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.public.md) 
+
+### #is_/same_as :: [1700-Great_Northern_War+1721.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.internal.md) 
+
+### #is_/same_as :: [1700-Great_Northern_War+1721.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.protect.md) 
+
+### #is_/same_as :: [1700-Great_Northern_War+1721.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.private.md) 
+
+### #is_/same_as :: [1700-Great_Northern_War+1721.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.personal.md) 
+
+### #is_/same_as :: [1700-Great_Northern_War+1721.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.secret.md)
+

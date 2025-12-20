@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Max Martin"
 ---
@@ -41,4 +41,23 @@ aliases:
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Martin,Max](/_Standards/Society/Communication/Media/Music/Music_Producer/Martin,Max.md) 
+
+### #is_/same_as :: [Martin,Max.public](/_public/Society/Communication/Media/Music/Music_Producer/Martin,Max.public.md) 
+
+### #is_/same_as :: [Martin,Max.internal](/_internal/Society/Communication/Media/Music/Music_Producer/Martin,Max.internal.md) 
+
+### #is_/same_as :: [Martin,Max.protect](/_protect/Society/Communication/Media/Music/Music_Producer/Martin,Max.protect.md) 
+
+### #is_/same_as :: [Martin,Max.private](/_private/Society/Communication/Media/Music/Music_Producer/Martin,Max.private.md) 
+
+### #is_/same_as :: [Martin,Max.personal](/_personal/Society/Communication/Media/Music/Music_Producer/Martin,Max.personal.md) 
+
+### #is_/same_as :: [Martin,Max.secret](/_secret/Society/Communication/Media/Music/Music_Producer/Martin,Max.secret.md)
 

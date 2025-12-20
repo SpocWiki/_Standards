@@ -40,17 +40,17 @@ A diet appropriate for people with lactose intolerance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Low_Lactose_Diet](Low_Lactose_Diet.md) 
+### #is_/same_as :: [Low_Lactose_Diet](/_Standards/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.md) 
 
-### #is_/same_as :: [low_lactose_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.public.md) 
+### #is_/same_as :: [Low_Lactose_Diet.public](/_public/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.public.md) 
 
-### #is_/same_as :: [low_lactose_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.internal.md) 
+### #is_/same_as :: [Low_Lactose_Diet.internal](/_internal/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.internal.md) 
 
-### #is_/same_as :: [low_lactose_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.protect.md) 
+### #is_/same_as :: [Low_Lactose_Diet.protect](/_protect/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.protect.md) 
 
-### #is_/same_as :: [low_lactose_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.private.md) 
+### #is_/same_as :: [Low_Lactose_Diet.private](/_private/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.private.md) 
 
-### #is_/same_as :: [low_lactose_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.personal.md) 
+### #is_/same_as :: [Low_Lactose_Diet.personal](/_personal/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.personal.md) 
 
-### #is_/same_as :: [low_lactose_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.secret.md)
+### #is_/same_as :: [Low_Lactose_Diet.secret](/_secret/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.secret.md)
 

@@ -73,3 +73,22 @@ OpenStreetMap_tag_or_key: Key:hazmat:explosive
 > [Wikipedia](https://en.wikipedia.org/wiki/Explosive) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Explosive](/_Standards/Chemistry/Chemical_Reaction/Explosive.md) 
+
+### #is_/same_as :: [Explosive.public](/_public/Chemistry/Chemical_Reaction/Explosive.public.md) 
+
+### #is_/same_as :: [Explosive.internal](/_internal/Chemistry/Chemical_Reaction/Explosive.internal.md) 
+
+### #is_/same_as :: [Explosive.protect](/_protect/Chemistry/Chemical_Reaction/Explosive.protect.md) 
+
+### #is_/same_as :: [Explosive.private](/_private/Chemistry/Chemical_Reaction/Explosive.private.md) 
+
+### #is_/same_as :: [Explosive.personal](/_personal/Chemistry/Chemical_Reaction/Explosive.personal.md) 
+
+### #is_/same_as :: [Explosive.secret](/_secret/Chemistry/Chemical_Reaction/Explosive.secret.md)
+

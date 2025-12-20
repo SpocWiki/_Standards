@@ -49,3 +49,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q175240-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vizier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vizier](/_Standards/Society/Politics/Government/Vizier.md) 
+
+### #is_/same_as :: [Vizier.public](/_public/Society/Politics/Government/Vizier.public.md) 
+
+### #is_/same_as :: [Vizier.internal](/_internal/Society/Politics/Government/Vizier.internal.md) 
+
+### #is_/same_as :: [Vizier.protect](/_protect/Society/Politics/Government/Vizier.protect.md) 
+
+### #is_/same_as :: [Vizier.private](/_private/Society/Politics/Government/Vizier.private.md) 
+
+### #is_/same_as :: [Vizier.personal](/_personal/Society/Politics/Government/Vizier.personal.md) 
+
+### #is_/same_as :: [Vizier.secret](/_secret/Society/Politics/Government/Vizier.secret.md)
+

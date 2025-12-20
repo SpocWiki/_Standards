@@ -25,3 +25,22 @@ taxon_name: Tabanoidea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tabanoidea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tabanoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea.md) 
+
+### #is_/same_as :: [Tabanoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea.public.md) 
+
+### #is_/same_as :: [Tabanoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea.internal.md) 
+
+### #is_/same_as :: [Tabanoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea.protect.md) 
+
+### #is_/same_as :: [Tabanoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea.private.md) 
+
+### #is_/same_as :: [Tabanoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea.personal.md) 
+
+### #is_/same_as :: [Tabanoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Tabanoidea.secret.md)
+

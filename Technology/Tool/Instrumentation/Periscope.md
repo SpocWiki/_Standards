@@ -44,3 +44,22 @@ Commons_category: Periscopes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Periscope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Periscope](/_Standards/Technology/Tool/Instrumentation/Periscope.md) 
+
+### #is_/same_as :: [Periscope.public](/_public/Technology/Tool/Instrumentation/Periscope.public.md) 
+
+### #is_/same_as :: [Periscope.internal](/_internal/Technology/Tool/Instrumentation/Periscope.internal.md) 
+
+### #is_/same_as :: [Periscope.protect](/_protect/Technology/Tool/Instrumentation/Periscope.protect.md) 
+
+### #is_/same_as :: [Periscope.private](/_private/Technology/Tool/Instrumentation/Periscope.private.md) 
+
+### #is_/same_as :: [Periscope.personal](/_personal/Technology/Tool/Instrumentation/Periscope.personal.md) 
+
+### #is_/same_as :: [Periscope.secret](/_secret/Technology/Tool/Instrumentation/Periscope.secret.md)
+

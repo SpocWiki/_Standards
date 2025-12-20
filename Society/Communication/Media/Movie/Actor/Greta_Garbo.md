@@ -150,3 +150,22 @@ Libris_URI: 53hkl4hp2j75sxp
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greta%20Garbo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Greta_Garbo](/_Standards/Society/Communication/Media/Movie/Actor/Greta_Garbo.md) 
+
+### #is_/same_as :: [Greta_Garbo.public](/_public/Society/Communication/Media/Movie/Actor/Greta_Garbo.public.md) 
+
+### #is_/same_as :: [Greta_Garbo.internal](/_internal/Society/Communication/Media/Movie/Actor/Greta_Garbo.internal.md) 
+
+### #is_/same_as :: [Greta_Garbo.protect](/_protect/Society/Communication/Media/Movie/Actor/Greta_Garbo.protect.md) 
+
+### #is_/same_as :: [Greta_Garbo.private](/_private/Society/Communication/Media/Movie/Actor/Greta_Garbo.private.md) 
+
+### #is_/same_as :: [Greta_Garbo.personal](/_personal/Society/Communication/Media/Movie/Actor/Greta_Garbo.personal.md) 
+
+### #is_/same_as :: [Greta_Garbo.secret](/_secret/Society/Communication/Media/Movie/Actor/Greta_Garbo.secret.md)
+

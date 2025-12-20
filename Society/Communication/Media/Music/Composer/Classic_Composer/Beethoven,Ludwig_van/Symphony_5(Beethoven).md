@@ -49,3 +49,22 @@ inception: 1807-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Symphony%20No.%205%20(Beethoven)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Symphony_5(Beethoven)](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).md) 
+
+### #is_/same_as :: [Symphony_5(Beethoven).public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).public.md) 
+
+### #is_/same_as :: [Symphony_5(Beethoven).internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).internal.md) 
+
+### #is_/same_as :: [Symphony_5(Beethoven).protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).protect.md) 
+
+### #is_/same_as :: [Symphony_5(Beethoven).private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).private.md) 
+
+### #is_/same_as :: [Symphony_5(Beethoven).personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).personal.md) 
+
+### #is_/same_as :: [Symphony_5(Beethoven).secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van/Symphony_5(Beethoven).secret.md)
+

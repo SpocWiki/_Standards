@@ -18,3 +18,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nonmetal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nonmetal](/_Standards/Chemistry/Material/Metallurgy/Nonmetal.md) 
+
+### #is_/same_as :: [Nonmetal.public](/_public/Chemistry/Material/Metallurgy/Nonmetal.public.md) 
+
+### #is_/same_as :: [Nonmetal.internal](/_internal/Chemistry/Material/Metallurgy/Nonmetal.internal.md) 
+
+### #is_/same_as :: [Nonmetal.protect](/_protect/Chemistry/Material/Metallurgy/Nonmetal.protect.md) 
+
+### #is_/same_as :: [Nonmetal.private](/_private/Chemistry/Material/Metallurgy/Nonmetal.private.md) 
+
+### #is_/same_as :: [Nonmetal.personal](/_personal/Chemistry/Material/Metallurgy/Nonmetal.personal.md) 
+
+### #is_/same_as :: [Nonmetal.secret](/_secret/Chemistry/Material/Metallurgy/Nonmetal.secret.md)
+

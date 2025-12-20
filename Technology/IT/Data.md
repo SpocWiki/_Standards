@@ -67,3 +67,22 @@ has_id_wikidata: Q494756
 > [Wikipedia](https://en.wikipedia.org/wiki/Data) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Data](/_Standards/Technology/IT/Data.md) 
+
+### #is_/same_as :: [Data.public](/_public/Technology/IT/Data.public.md) 
+
+### #is_/same_as :: [Data.internal](/_internal/Technology/IT/Data.internal.md) 
+
+### #is_/same_as :: [Data.protect](/_protect/Technology/IT/Data.protect.md) 
+
+### #is_/same_as :: [Data.private](/_private/Technology/IT/Data.private.md) 
+
+### #is_/same_as :: [Data.personal](/_personal/Technology/IT/Data.personal.md) 
+
+### #is_/same_as :: [Data.secret](/_secret/Technology/IT/Data.secret.md)
+

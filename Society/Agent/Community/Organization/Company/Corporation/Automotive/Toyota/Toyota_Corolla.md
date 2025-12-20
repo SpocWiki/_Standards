@@ -47,3 +47,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Toyota%20Coroll
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Toyota_Corolla](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.md) 
+
+### #is_/same_as :: [Toyota_Corolla.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.public.md) 
+
+### #is_/same_as :: [Toyota_Corolla.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.internal.md) 
+
+### #is_/same_as :: [Toyota_Corolla.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.protect.md) 
+
+### #is_/same_as :: [Toyota_Corolla.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.private.md) 
+
+### #is_/same_as :: [Toyota_Corolla.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.personal.md) 
+
+### #is_/same_as :: [Toyota_Corolla.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/Toyota/Toyota_Corolla.secret.md)
+

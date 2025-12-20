@@ -48,3 +48,22 @@ IMDb_keyword: sniper
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sniper) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sniper](/_Standards/Society/Military/Military_Organization/Sniper.md) 
+
+### #is_/same_as :: [Sniper.public](/_public/Society/Military/Military_Organization/Sniper.public.md) 
+
+### #is_/same_as :: [Sniper.internal](/_internal/Society/Military/Military_Organization/Sniper.internal.md) 
+
+### #is_/same_as :: [Sniper.protect](/_protect/Society/Military/Military_Organization/Sniper.protect.md) 
+
+### #is_/same_as :: [Sniper.private](/_private/Society/Military/Military_Organization/Sniper.private.md) 
+
+### #is_/same_as :: [Sniper.personal](/_personal/Society/Military/Military_Organization/Sniper.personal.md) 
+
+### #is_/same_as :: [Sniper.secret](/_secret/Society/Military/Military_Organization/Sniper.secret.md)
+

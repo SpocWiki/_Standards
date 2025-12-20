@@ -123,3 +123,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Local%20Group%20rus.pn
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Local%20Group) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Local_Group](/_Standards/Astronomy/Star_System/Galaxy/Local_Group.md) 
+
+### #is_/same_as :: [Local_Group.public](/_public/Astronomy/Star_System/Galaxy/Local_Group.public.md) 
+
+### #is_/same_as :: [Local_Group.internal](/_internal/Astronomy/Star_System/Galaxy/Local_Group.internal.md) 
+
+### #is_/same_as :: [Local_Group.protect](/_protect/Astronomy/Star_System/Galaxy/Local_Group.protect.md) 
+
+### #is_/same_as :: [Local_Group.private](/_private/Astronomy/Star_System/Galaxy/Local_Group.private.md) 
+
+### #is_/same_as :: [Local_Group.personal](/_personal/Astronomy/Star_System/Galaxy/Local_Group.personal.md) 
+
+### #is_/same_as :: [Local_Group.secret](/_secret/Astronomy/Star_System/Galaxy/Local_Group.secret.md)
+

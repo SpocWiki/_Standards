@@ -81,19 +81,20 @@ This describes a concrete File, but is extended to the semantic Video itself.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20video) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Video_Object](/_Standards/Society/Communication/Media/Media_Object/Music_Video_Object.md) 
+### #is_/same_as :: [Music_Video](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.md) 
 
-### #is_/same_as :: [Music_Video_Object.public](/_public/Society/Communication/Media/Media_Object/Music_Video_Object.public.md) 
+### #is_/same_as :: [Music_Video.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.public.md) 
 
-### #is_/same_as :: [Music_Video_Object.internal](/_internal/Society/Communication/Media/Media_Object/Music_Video_Object.internal.md) 
+### #is_/same_as :: [Music_Video.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.internal.md) 
 
-### #is_/same_as :: [Music_Video_Object.protect](/_protect/Society/Communication/Media/Media_Object/Music_Video_Object.protect.md) 
+### #is_/same_as :: [Music_Video.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.protect.md) 
 
-### #is_/same_as :: [Music_Video_Object.private](/_private/Society/Communication/Media/Media_Object/Music_Video_Object.private.md) 
+### #is_/same_as :: [Music_Video.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.private.md) 
 
-### #is_/same_as :: [Music_Video_Object.personal](/_personal/Society/Communication/Media/Media_Object/Music_Video_Object.personal.md) 
+### #is_/same_as :: [Music_Video.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.personal.md) 
 
-### #is_/same_as :: [Music_Video_Object.secret](/_secret/Society/Communication/Media/Media_Object/Music_Video_Object.secret.md)
+### #is_/same_as :: [Music_Video.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Music_Video.secret.md)
 

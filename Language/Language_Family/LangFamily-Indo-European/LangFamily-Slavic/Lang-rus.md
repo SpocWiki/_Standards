@@ -289,17 +289,17 @@ writing_system: "[[_Standards/WikiData/WD~Cyrillic_script,8209]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ru](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.md) 
+### #is_/same_as :: [Lang-rus](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.md) 
 
-### #is_/same_as :: [Lang-ru.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.public.md) 
+### #is_/same_as :: [Lang-rus.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.public.md) 
 
-### #is_/same_as :: [Lang-ru.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.internal.md) 
+### #is_/same_as :: [Lang-rus.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.internal.md) 
 
-### #is_/same_as :: [Lang-ru.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.protect.md) 
+### #is_/same_as :: [Lang-rus.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.protect.md) 
 
-### #is_/same_as :: [Lang-ru.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.private.md) 
+### #is_/same_as :: [Lang-rus.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.private.md) 
 
-### #is_/same_as :: [Lang-ru.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.personal.md) 
+### #is_/same_as :: [Lang-rus.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.personal.md) 
 
-### #is_/same_as :: [Lang-ru.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.secret.md)
+### #is_/same_as :: [Lang-rus.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.secret.md)
 

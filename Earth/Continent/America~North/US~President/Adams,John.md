@@ -56,3 +56,22 @@ type: private_note
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Adams)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Adams,John](/_Standards/Earth/Continent/America~North/US~President/Adams,John.md) 
+
+### #is_/same_as :: [Adams,John.public](/_public/Earth/Continent/America~North/US~President/Adams,John.public.md) 
+
+### #is_/same_as :: [Adams,John.internal](/_internal/Earth/Continent/America~North/US~President/Adams,John.internal.md) 
+
+### #is_/same_as :: [Adams,John.protect](/_protect/Earth/Continent/America~North/US~President/Adams,John.protect.md) 
+
+### #is_/same_as :: [Adams,John.private](/_private/Earth/Continent/America~North/US~President/Adams,John.private.md) 
+
+### #is_/same_as :: [Adams,John.personal](/_personal/Earth/Continent/America~North/US~President/Adams,John.personal.md) 
+
+### #is_/same_as :: [Adams,John.secret](/_secret/Earth/Continent/America~North/US~President/Adams,John.secret.md)
+

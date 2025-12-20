@@ -54,3 +54,22 @@ Commons_category: Mountaineering
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mountaineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mountaineering](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.md) 
+
+### #is_/same_as :: [Mountaineering.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.public.md) 
+
+### #is_/same_as :: [Mountaineering.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.internal.md) 
+
+### #is_/same_as :: [Mountaineering.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.protect.md) 
+
+### #is_/same_as :: [Mountaineering.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.private.md) 
+
+### #is_/same_as :: [Mountaineering.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.personal.md) 
+
+### #is_/same_as :: [Mountaineering.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering.secret.md)
+

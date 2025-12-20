@@ -179,3 +179,22 @@ Wolfram_Language_entity_code: Entity["Concept", "LiseMeitner::484r5"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lise%20Meitner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meitner,Lise](/_Standards/Chemistry/Chemist/Meitner,Lise.md) 
+
+### #is_/same_as :: [Meitner,Lise.public](/_public/Chemistry/Chemist/Meitner,Lise.public.md) 
+
+### #is_/same_as :: [Meitner,Lise.internal](/_internal/Chemistry/Chemist/Meitner,Lise.internal.md) 
+
+### #is_/same_as :: [Meitner,Lise.protect](/_protect/Chemistry/Chemist/Meitner,Lise.protect.md) 
+
+### #is_/same_as :: [Meitner,Lise.private](/_private/Chemistry/Chemist/Meitner,Lise.private.md) 
+
+### #is_/same_as :: [Meitner,Lise.personal](/_personal/Chemistry/Chemist/Meitner,Lise.personal.md) 
+
+### #is_/same_as :: [Meitner,Lise.secret](/_secret/Chemistry/Chemist/Meitner,Lise.secret.md)
+

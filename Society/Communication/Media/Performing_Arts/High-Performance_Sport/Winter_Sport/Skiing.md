@@ -53,3 +53,22 @@ OpenStreetMap_tag: sport=skiing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skiing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skiing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing.md) 
+
+### #is_/same_as :: [Skiing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing.public.md) 
+
+### #is_/same_as :: [Skiing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing.internal.md) 
+
+### #is_/same_as :: [Skiing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing.protect.md) 
+
+### #is_/same_as :: [Skiing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing.private.md) 
+
+### #is_/same_as :: [Skiing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing.personal.md) 
+
+### #is_/same_as :: [Skiing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing.secret.md)
+

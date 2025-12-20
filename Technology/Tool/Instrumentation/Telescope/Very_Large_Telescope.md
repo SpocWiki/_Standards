@@ -75,3 +75,22 @@ coordinate_location: Point(-70.404166666 -24.6275)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Very%20Large%20Telescope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Very_Large_Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.md) 
+
+### #is_/same_as :: [Very_Large_Telescope.public](/_public/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.public.md) 
+
+### #is_/same_as :: [Very_Large_Telescope.internal](/_internal/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.internal.md) 
+
+### #is_/same_as :: [Very_Large_Telescope.protect](/_protect/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.protect.md) 
+
+### #is_/same_as :: [Very_Large_Telescope.private](/_private/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.private.md) 
+
+### #is_/same_as :: [Very_Large_Telescope.personal](/_personal/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.personal.md) 
+
+### #is_/same_as :: [Very_Large_Telescope.secret](/_secret/Technology/Tool/Instrumentation/Telescope/Very_Large_Telescope.secret.md)
+

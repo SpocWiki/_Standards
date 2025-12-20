@@ -65,3 +65,22 @@ Commons_category: Electric potential
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20potential) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Potential,electric](/_Standards/Science/Physics/Electricity/Potential,electric.md) 
+
+### #is_/same_as :: [Potential,electric.public](/_public/Science/Physics/Electricity/Potential,electric.public.md) 
+
+### #is_/same_as :: [Potential,electric.internal](/_internal/Science/Physics/Electricity/Potential,electric.internal.md) 
+
+### #is_/same_as :: [Potential,electric.protect](/_protect/Science/Physics/Electricity/Potential,electric.protect.md) 
+
+### #is_/same_as :: [Potential,electric.private](/_private/Science/Physics/Electricity/Potential,electric.private.md) 
+
+### #is_/same_as :: [Potential,electric.personal](/_personal/Science/Physics/Electricity/Potential,electric.personal.md) 
+
+### #is_/same_as :: [Potential,electric.secret](/_secret/Science/Physics/Electricity/Potential,electric.secret.md)
+

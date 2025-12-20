@@ -81,3 +81,22 @@ X_Twitter_username: simongarfunkel
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Simon%20&%20Garfunkel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Simon_&_Garfunkel](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Simon_&_Garfunkel.md) 
+
+### #is_/same_as :: [Simon_&_Garfunkel.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Simon_&_Garfunkel.public.md) 
+
+### #is_/same_as :: [Simon_&_Garfunkel.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Simon_&_Garfunkel.internal.md) 
+
+### #is_/same_as :: [Simon_&_Garfunkel.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Simon_&_Garfunkel.protect.md) 
+
+### #is_/same_as :: [Simon_&_Garfunkel.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Simon_&_Garfunkel.private.md) 
+
+### #is_/same_as :: [Simon_&_Garfunkel.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Simon_&_Garfunkel.personal.md) 
+
+### #is_/same_as :: [Simon_&_Garfunkel.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Simon_&_Garfunkel.secret.md)
+

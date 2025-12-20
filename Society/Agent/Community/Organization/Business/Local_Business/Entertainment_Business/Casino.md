@@ -39,17 +39,17 @@ A casino.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Casino](Casino.md) 
+### #is_/same_as :: [Casino](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.md) 
 
-### #is_/same_as :: [Casino.public](/_public/Society/Organization/Local_Business/Entertainment_Business/Casino.public.md) 
+### #is_/same_as :: [Casino.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.public.md) 
 
-### #is_/same_as :: [Casino.internal](/_internal/Society/Organization/Local_Business/Entertainment_Business/Casino.internal.md) 
+### #is_/same_as :: [Casino.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.internal.md) 
 
-### #is_/same_as :: [Casino.protect](/_protect/Society/Organization/Local_Business/Entertainment_Business/Casino.protect.md) 
+### #is_/same_as :: [Casino.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.protect.md) 
 
-### #is_/same_as :: [Casino.private](/_private/Society/Organization/Local_Business/Entertainment_Business/Casino.private.md) 
+### #is_/same_as :: [Casino.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.private.md) 
 
-### #is_/same_as :: [Casino.personal](/_personal/Society/Organization/Local_Business/Entertainment_Business/Casino.personal.md) 
+### #is_/same_as :: [Casino.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.personal.md) 
 
-### #is_/same_as :: [Casino.secret](/_secret/Society/Organization/Local_Business/Entertainment_Business/Casino.secret.md)
+### #is_/same_as :: [Casino.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.secret.md)
 

@@ -245,3 +245,22 @@ Libris_URI: 86lnr28s2htm865
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20von%20Helmholtz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hermann_von_Helmholtz](/_Standards/Science/Physics/Physicist/Hermann_von_Helmholtz.md) 
+
+### #is_/same_as :: [Hermann_von_Helmholtz.public](/_public/Science/Physics/Physicist/Hermann_von_Helmholtz.public.md) 
+
+### #is_/same_as :: [Hermann_von_Helmholtz.internal](/_internal/Science/Physics/Physicist/Hermann_von_Helmholtz.internal.md) 
+
+### #is_/same_as :: [Hermann_von_Helmholtz.protect](/_protect/Science/Physics/Physicist/Hermann_von_Helmholtz.protect.md) 
+
+### #is_/same_as :: [Hermann_von_Helmholtz.private](/_private/Science/Physics/Physicist/Hermann_von_Helmholtz.private.md) 
+
+### #is_/same_as :: [Hermann_von_Helmholtz.personal](/_personal/Science/Physics/Physicist/Hermann_von_Helmholtz.personal.md) 
+
+### #is_/same_as :: [Hermann_von_Helmholtz.secret](/_secret/Science/Physics/Physicist/Hermann_von_Helmholtz.secret.md)
+

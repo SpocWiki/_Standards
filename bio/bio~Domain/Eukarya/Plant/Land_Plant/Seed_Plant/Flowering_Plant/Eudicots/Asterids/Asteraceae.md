@@ -65,3 +65,22 @@ MeSH_tree_code: B01.875.800.575.912.250.100
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Asteraceae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Asteraceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.md) 
+
+### #is_/same_as :: [Asteraceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.public.md) 
+
+### #is_/same_as :: [Asteraceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.internal.md) 
+
+### #is_/same_as :: [Asteraceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.protect.md) 
+
+### #is_/same_as :: [Asteraceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.private.md) 
+
+### #is_/same_as :: [Asteraceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.personal.md) 
+
+### #is_/same_as :: [Asteraceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae.secret.md)
+

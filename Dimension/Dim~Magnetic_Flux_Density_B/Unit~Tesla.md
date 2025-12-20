@@ -50,3 +50,22 @@ Wikidata_SPARQL_query_equivalent: wd:Q163343 p:P2370/psn:P2370 [wikibase:quantit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tesla%20(unit)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Tesla](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.md) 
+
+### #is_/same_as :: [Unit~Tesla.public](/_public/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.public.md) 
+
+### #is_/same_as :: [Unit~Tesla.internal](/_internal/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.internal.md) 
+
+### #is_/same_as :: [Unit~Tesla.protect](/_protect/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.protect.md) 
+
+### #is_/same_as :: [Unit~Tesla.private](/_private/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.private.md) 
+
+### #is_/same_as :: [Unit~Tesla.personal](/_personal/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.personal.md) 
+
+### #is_/same_as :: [Unit~Tesla.secret](/_secret/Dimension/Dim~Magnetic_Flux_Density_B/Unit~Tesla.secret.md)
+

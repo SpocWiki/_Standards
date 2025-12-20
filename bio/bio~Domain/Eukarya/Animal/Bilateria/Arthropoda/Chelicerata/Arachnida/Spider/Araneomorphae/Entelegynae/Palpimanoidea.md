@@ -37,7 +37,7 @@ Containing group:[Entelegynae](../Entelegynae.md))
 ### References
 
 Coddington, J.A. and H.W. Levi. 1991. Systematics and evolution of
-spiders (Spider). Annual Review of Ecology and Systematics 22:565-592.
+spiders (Spider). Annual Review of Ecology and Systematics 22:565-592.
 
 
 ## Confidential Links & Embeds: 

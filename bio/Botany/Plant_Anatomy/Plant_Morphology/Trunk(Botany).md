@@ -53,3 +53,22 @@ Commons_category: Tree trunks
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trunk%20(botany)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trunk(Botany)](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).md) 
+
+### #is_/same_as :: [Trunk(Botany).public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).public.md) 
+
+### #is_/same_as :: [Trunk(Botany).internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).internal.md) 
+
+### #is_/same_as :: [Trunk(Botany).protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).protect.md) 
+
+### #is_/same_as :: [Trunk(Botany).private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).private.md) 
+
+### #is_/same_as :: [Trunk(Botany).personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).personal.md) 
+
+### #is_/same_as :: [Trunk(Botany).secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Trunk(Botany).secret.md)
+

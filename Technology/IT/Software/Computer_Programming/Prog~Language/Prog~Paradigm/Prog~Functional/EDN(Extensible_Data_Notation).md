@@ -29,3 +29,22 @@ For example, this could be a tagged element: `#myapp/Person {:first "Fred" :last
 This definition of extension elements  
 avoids relying on either **convention** or **context** to convey elements not included in the base set. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [EDN(Extensible_Data_Notation)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).md) 
+
+### #is_/same_as :: [EDN(Extensible_Data_Notation).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).public.md) 
+
+### #is_/same_as :: [EDN(Extensible_Data_Notation).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).internal.md) 
+
+### #is_/same_as :: [EDN(Extensible_Data_Notation).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).protect.md) 
+
+### #is_/same_as :: [EDN(Extensible_Data_Notation).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).private.md) 
+
+### #is_/same_as :: [EDN(Extensible_Data_Notation).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).personal.md) 
+
+### #is_/same_as :: [EDN(Extensible_Data_Notation).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/EDN(Extensible_Data_Notation).secret.md)
+

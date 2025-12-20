@@ -99,17 +99,17 @@ ZVG_number: 7680
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erbium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Erbium.md) 
+### #is_/same_as :: [Erbium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Erbium.md) 
 
-### #is_/same_as :: [Erbium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Erbium.public.md) 
+### #is_/same_as :: [Erbium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Erbium.public.md) 
 
-### #is_/same_as :: [Erbium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Erbium.internal.md) 
+### #is_/same_as :: [Erbium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Erbium.internal.md) 
 
-### #is_/same_as :: [Erbium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Erbium.protect.md) 
+### #is_/same_as :: [Erbium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Erbium.protect.md) 
 
-### #is_/same_as :: [Erbium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Erbium.private.md) 
+### #is_/same_as :: [Erbium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Erbium.private.md) 
 
-### #is_/same_as :: [Erbium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Erbium.personal.md) 
+### #is_/same_as :: [Erbium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Erbium.personal.md) 
 
-### #is_/same_as :: [Erbium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Erbium.secret.md)
+### #is_/same_as :: [Erbium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Erbium.secret.md)
 

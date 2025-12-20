@@ -54,3 +54,22 @@ short_name: Morphol.
 > [Wikipedia](https://en.wikipedia.org/wiki/Morphology%20(linguistics)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Morphology](/_Standards/Language/Morphology.md) 
+
+### #is_/same_as :: [Morphology.public](/_public/Language/Morphology.public.md) 
+
+### #is_/same_as :: [Morphology.internal](/_internal/Language/Morphology.internal.md) 
+
+### #is_/same_as :: [Morphology.protect](/_protect/Language/Morphology.protect.md) 
+
+### #is_/same_as :: [Morphology.private](/_private/Language/Morphology.private.md) 
+
+### #is_/same_as :: [Morphology.personal](/_personal/Language/Morphology.personal.md) 
+
+### #is_/same_as :: [Morphology.secret](/_secret/Language/Morphology.secret.md)
+

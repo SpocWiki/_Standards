@@ -100,3 +100,22 @@ date_of_death: 2014-02-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maximilian%20Schell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schell,Maximilian](/_Standards/Society/Communication/Media/Movie/Actor/Schell,Maximilian.md) 
+
+### #is_/same_as :: [Schell,Maximilian.public](/_public/Society/Communication/Media/Movie/Actor/Schell,Maximilian.public.md) 
+
+### #is_/same_as :: [Schell,Maximilian.internal](/_internal/Society/Communication/Media/Movie/Actor/Schell,Maximilian.internal.md) 
+
+### #is_/same_as :: [Schell,Maximilian.protect](/_protect/Society/Communication/Media/Movie/Actor/Schell,Maximilian.protect.md) 
+
+### #is_/same_as :: [Schell,Maximilian.private](/_private/Society/Communication/Media/Movie/Actor/Schell,Maximilian.private.md) 
+
+### #is_/same_as :: [Schell,Maximilian.personal](/_personal/Society/Communication/Media/Movie/Actor/Schell,Maximilian.personal.md) 
+
+### #is_/same_as :: [Schell,Maximilian.secret](/_secret/Society/Communication/Media/Movie/Actor/Schell,Maximilian.secret.md)
+

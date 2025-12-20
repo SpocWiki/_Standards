@@ -15,3 +15,22 @@ these new Systems continued to accumulate and abuse Power:
 ## Capitalism 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Power-Abuse](/_Standards/Society/Politics/Political_Power/Power-Abuse.md) 
+
+### #is_/same_as :: [Power-Abuse.public](/_public/Society/Politics/Political_Power/Power-Abuse.public.md) 
+
+### #is_/same_as :: [Power-Abuse.internal](/_internal/Society/Politics/Political_Power/Power-Abuse.internal.md) 
+
+### #is_/same_as :: [Power-Abuse.protect](/_protect/Society/Politics/Political_Power/Power-Abuse.protect.md) 
+
+### #is_/same_as :: [Power-Abuse.private](/_private/Society/Politics/Political_Power/Power-Abuse.private.md) 
+
+### #is_/same_as :: [Power-Abuse.personal](/_personal/Society/Politics/Political_Power/Power-Abuse.personal.md) 
+
+### #is_/same_as :: [Power-Abuse.secret](/_secret/Society/Politics/Political_Power/Power-Abuse.secret.md)
+

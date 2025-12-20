@@ -40,3 +40,22 @@ OpenStreetMap_tag: natural=isthmus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Isthmus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Isthmus](/_Standards/Earth/Geology/Landform/Isthmus.md) 
+
+### #is_/same_as :: [Isthmus.public](/_public/Earth/Geology/Landform/Isthmus.public.md) 
+
+### #is_/same_as :: [Isthmus.internal](/_internal/Earth/Geology/Landform/Isthmus.internal.md) 
+
+### #is_/same_as :: [Isthmus.protect](/_protect/Earth/Geology/Landform/Isthmus.protect.md) 
+
+### #is_/same_as :: [Isthmus.private](/_private/Earth/Geology/Landform/Isthmus.private.md) 
+
+### #is_/same_as :: [Isthmus.personal](/_personal/Earth/Geology/Landform/Isthmus.personal.md) 
+
+### #is_/same_as :: [Isthmus.secret](/_secret/Earth/Geology/Landform/Isthmus.secret.md)
+

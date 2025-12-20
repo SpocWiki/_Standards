@@ -65,3 +65,22 @@ With P the first letter of the Planet it orbits.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Satellite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Satellite](/_Standards/Earth/Satellite.md) 
+
+### #is_/same_as :: [Satellite.public](/_public/Earth/Satellite.public.md) 
+
+### #is_/same_as :: [Satellite.internal](/_internal/Earth/Satellite.internal.md) 
+
+### #is_/same_as :: [Satellite.protect](/_protect/Earth/Satellite.protect.md) 
+
+### #is_/same_as :: [Satellite.private](/_private/Earth/Satellite.private.md) 
+
+### #is_/same_as :: [Satellite.personal](/_personal/Earth/Satellite.personal.md) 
+
+### #is_/same_as :: [Satellite.secret](/_secret/Earth/Satellite.secret.md)
+

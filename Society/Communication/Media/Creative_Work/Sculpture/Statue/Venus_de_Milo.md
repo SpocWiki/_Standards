@@ -105,3 +105,22 @@ coordinate_location: Point(2.337287873 48.859944681)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Venus%20de%20Milo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Venus_de_Milo](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.md) 
+
+### #is_/same_as :: [Venus_de_Milo.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.public.md) 
+
+### #is_/same_as :: [Venus_de_Milo.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.internal.md) 
+
+### #is_/same_as :: [Venus_de_Milo.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.protect.md) 
+
+### #is_/same_as :: [Venus_de_Milo.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.private.md) 
+
+### #is_/same_as :: [Venus_de_Milo.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.personal.md) 
+
+### #is_/same_as :: [Venus_de_Milo.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.secret.md)
+

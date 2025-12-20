@@ -62,3 +62,22 @@ female_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sergeant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sergeant](/_Standards/Society/Military/Armed_Forces/Military_Rank/Sergeant.md) 
+
+### #is_/same_as :: [Sergeant.public](/_public/Society/Military/Armed_Forces/Military_Rank/Sergeant.public.md) 
+
+### #is_/same_as :: [Sergeant.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Sergeant.internal.md) 
+
+### #is_/same_as :: [Sergeant.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Sergeant.protect.md) 
+
+### #is_/same_as :: [Sergeant.private](/_private/Society/Military/Armed_Forces/Military_Rank/Sergeant.private.md) 
+
+### #is_/same_as :: [Sergeant.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Sergeant.personal.md) 
+
+### #is_/same_as :: [Sergeant.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Sergeant.secret.md)
+

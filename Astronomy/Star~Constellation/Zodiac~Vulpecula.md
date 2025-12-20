@@ -48,6 +48,7 @@ time_of_discovery_or_invention: 1683-01-01T00:00:00Z
 
 #is_/same_as :: [[../../WikiData/WD~Vulpecula,10519|WD~Vulpecula,10519]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Vulpecula](/_Standards/Astronomy/Star~Constellation/Zodiac~Vulpecula.md) 

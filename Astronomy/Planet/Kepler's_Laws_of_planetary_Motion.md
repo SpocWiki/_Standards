@@ -54,3 +54,22 @@ Commons_category: Kepler motions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kepler's%20laws%20of%20planetary%20motion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion](/_Standards/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.md) 
+
+### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.public](/_public/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.public.md) 
+
+### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.internal](/_internal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.internal.md) 
+
+### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.protect](/_protect/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.protect.md) 
+
+### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.private](/_private/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.private.md) 
+
+### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.personal](/_personal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.personal.md) 
+
+### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.secret](/_secret/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.secret.md)
+

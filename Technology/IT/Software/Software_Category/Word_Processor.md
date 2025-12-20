@@ -48,3 +48,22 @@ Dewey_Decimal_Classification: "005.52"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Word%20processor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Word_Processor](/_Standards/Technology/IT/Software/Software_Category/Word_Processor.md) 
+
+### #is_/same_as :: [Word_Processor.public](/_public/Technology/IT/Software/Software_Category/Word_Processor.public.md) 
+
+### #is_/same_as :: [Word_Processor.internal](/_internal/Technology/IT/Software/Software_Category/Word_Processor.internal.md) 
+
+### #is_/same_as :: [Word_Processor.protect](/_protect/Technology/IT/Software/Software_Category/Word_Processor.protect.md) 
+
+### #is_/same_as :: [Word_Processor.private](/_private/Technology/IT/Software/Software_Category/Word_Processor.private.md) 
+
+### #is_/same_as :: [Word_Processor.personal](/_personal/Technology/IT/Software/Software_Category/Word_Processor.personal.md) 
+
+### #is_/same_as :: [Word_Processor.secret](/_secret/Technology/IT/Software/Software_Category/Word_Processor.secret.md)
+

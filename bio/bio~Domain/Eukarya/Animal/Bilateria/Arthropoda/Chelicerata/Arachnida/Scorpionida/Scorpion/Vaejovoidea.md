@@ -45,7 +45,7 @@ University of California, Berkeley. 413 pp.
 
 Stockwell, S. A. 1992. Systematic observations on North American
 Scorpionida with a key and checklist of the families and genera. Journal
-of Medical Entomology, 29(3):407-422.
+of Medical Entomology, 29(3):407-422.
 
 
 ## Confidential Links & Embeds: 

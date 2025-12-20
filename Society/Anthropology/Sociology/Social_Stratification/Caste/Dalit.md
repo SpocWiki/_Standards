@@ -37,3 +37,22 @@ Commons_category: Dalit
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dalit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dalit](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Caste/Dalit.md) 
+
+### #is_/same_as :: [Dalit.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Caste/Dalit.public.md) 
+
+### #is_/same_as :: [Dalit.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Caste/Dalit.internal.md) 
+
+### #is_/same_as :: [Dalit.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Caste/Dalit.protect.md) 
+
+### #is_/same_as :: [Dalit.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Caste/Dalit.private.md) 
+
+### #is_/same_as :: [Dalit.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Caste/Dalit.personal.md) 
+
+### #is_/same_as :: [Dalit.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Caste/Dalit.secret.md)
+

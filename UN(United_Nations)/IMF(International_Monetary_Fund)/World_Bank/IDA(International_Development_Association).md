@@ -59,3 +59,22 @@ X_Twitter_username: wbg_ida
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Development%20Association) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IDA(International_Development_Association)](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).md) 
+
+### #is_/same_as :: [IDA(International_Development_Association).public](/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).public.md) 
+
+### #is_/same_as :: [IDA(International_Development_Association).internal](/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).internal.md) 
+
+### #is_/same_as :: [IDA(International_Development_Association).protect](/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).protect.md) 
+
+### #is_/same_as :: [IDA(International_Development_Association).private](/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).private.md) 
+
+### #is_/same_as :: [IDA(International_Development_Association).personal](/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).personal.md) 
+
+### #is_/same_as :: [IDA(International_Development_Association).secret](/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).secret.md)
+

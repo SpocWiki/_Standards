@@ -71,3 +71,22 @@ inception: 1513-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Prince) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [The_Prince](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.md) 
+
+### #is_/same_as :: [The_Prince.public](/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.public.md) 
+
+### #is_/same_as :: [The_Prince.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.internal.md) 
+
+### #is_/same_as :: [The_Prince.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.protect.md) 
+
+### #is_/same_as :: [The_Prince.private](/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.private.md) 
+
+### #is_/same_as :: [The_Prince.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.personal.md) 
+
+### #is_/same_as :: [The_Prince.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.secret.md)
+

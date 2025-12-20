@@ -39,3 +39,22 @@ Commons_category: Structure of the Earth
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20mantle) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Earth Mantle](/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle.md) 
+
+### #is_/same_as :: [Earth Mantle.public](/_public/Earth/Climate/Structure_of_Earth/Earth Mantle.public.md) 
+
+### #is_/same_as :: [Earth Mantle.internal](/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle.internal.md) 
+
+### #is_/same_as :: [Earth Mantle.protect](/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle.protect.md) 
+
+### #is_/same_as :: [Earth Mantle.private](/_private/Earth/Climate/Structure_of_Earth/Earth Mantle.private.md) 
+
+### #is_/same_as :: [Earth Mantle.personal](/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle.personal.md) 
+
+### #is_/same_as :: [Earth Mantle.secret](/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle.secret.md)
+

@@ -60,3 +60,22 @@ Commons_category: Gamma rays
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gamma%20ray) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gamma_Ray](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.md) 
+
+### #is_/same_as :: [Gamma_Ray.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.public.md) 
+
+### #is_/same_as :: [Gamma_Ray.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.internal.md) 
+
+### #is_/same_as :: [Gamma_Ray.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.protect.md) 
+
+### #is_/same_as :: [Gamma_Ray.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.private.md) 
+
+### #is_/same_as :: [Gamma_Ray.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.personal.md) 
+
+### #is_/same_as :: [Gamma_Ray.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.secret.md)
+

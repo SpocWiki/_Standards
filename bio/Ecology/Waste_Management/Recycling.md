@@ -77,3 +77,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Recycling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Recycling](/_Standards/bio/Ecology/Waste_Management/Recycling.md) 
+
+### #is_/same_as :: [Recycling.public](/_public/bio/Ecology/Waste_Management/Recycling.public.md) 
+
+### #is_/same_as :: [Recycling.internal](/_internal/bio/Ecology/Waste_Management/Recycling.internal.md) 
+
+### #is_/same_as :: [Recycling.protect](/_protect/bio/Ecology/Waste_Management/Recycling.protect.md) 
+
+### #is_/same_as :: [Recycling.private](/_private/bio/Ecology/Waste_Management/Recycling.private.md) 
+
+### #is_/same_as :: [Recycling.personal](/_personal/bio/Ecology/Waste_Management/Recycling.personal.md) 
+
+### #is_/same_as :: [Recycling.secret](/_secret/bio/Ecology/Waste_Management/Recycling.secret.md)
+

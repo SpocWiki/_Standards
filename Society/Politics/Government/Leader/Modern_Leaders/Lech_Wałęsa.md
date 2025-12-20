@@ -147,3 +147,22 @@ Facebook_username: lechwalesa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lech%20Wa%C5%82%C4%99sa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lech_Wałęsa](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.md) 
+
+### #is_/same_as :: [Lech_Wałęsa.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.public.md) 
+
+### #is_/same_as :: [Lech_Wałęsa.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.internal.md) 
+
+### #is_/same_as :: [Lech_Wałęsa.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.protect.md) 
+
+### #is_/same_as :: [Lech_Wałęsa.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.private.md) 
+
+### #is_/same_as :: [Lech_Wałęsa.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.personal.md) 
+
+### #is_/same_as :: [Lech_Wałęsa.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Lech_Wałęsa.secret.md)
+

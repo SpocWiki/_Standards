@@ -147,3 +147,22 @@ Libris_URI: hftwzrl14nx7948
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20R%C3%B6ntgen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Röntgen,Wilhelm](/_Standards/Science/Physics/Physicist/Röntgen,Wilhelm.md) 
+
+### #is_/same_as :: [Röntgen,Wilhelm.public](/_public/Science/Physics/Physicist/Röntgen,Wilhelm.public.md) 
+
+### #is_/same_as :: [Röntgen,Wilhelm.internal](/_internal/Science/Physics/Physicist/Röntgen,Wilhelm.internal.md) 
+
+### #is_/same_as :: [Röntgen,Wilhelm.protect](/_protect/Science/Physics/Physicist/Röntgen,Wilhelm.protect.md) 
+
+### #is_/same_as :: [Röntgen,Wilhelm.private](/_private/Science/Physics/Physicist/Röntgen,Wilhelm.private.md) 
+
+### #is_/same_as :: [Röntgen,Wilhelm.personal](/_personal/Science/Physics/Physicist/Röntgen,Wilhelm.personal.md) 
+
+### #is_/same_as :: [Röntgen,Wilhelm.secret](/_secret/Science/Physics/Physicist/Röntgen,Wilhelm.secret.md)
+

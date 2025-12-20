@@ -53,3 +53,22 @@ Colon_Classification: MY2146
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.md) 
+
+### #is_/same_as :: [Polo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.public.md) 
+
+### #is_/same_as :: [Polo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.internal.md) 
+
+### #is_/same_as :: [Polo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.protect.md) 
+
+### #is_/same_as :: [Polo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.private.md) 
+
+### #is_/same_as :: [Polo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.personal.md) 
+
+### #is_/same_as :: [Polo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Polo.secret.md)
+

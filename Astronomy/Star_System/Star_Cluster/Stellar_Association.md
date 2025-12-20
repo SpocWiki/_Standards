@@ -32,3 +32,22 @@ has_part_s_of_the_class: "[[_Standards/WikiData/WD~star,523]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20association) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stellar_Association](/_Standards/Astronomy/Star_System/Star_Cluster/Stellar_Association.md) 
+
+### #is_/same_as :: [Stellar_Association.public](/_public/Astronomy/Star_System/Star_Cluster/Stellar_Association.public.md) 
+
+### #is_/same_as :: [Stellar_Association.internal](/_internal/Astronomy/Star_System/Star_Cluster/Stellar_Association.internal.md) 
+
+### #is_/same_as :: [Stellar_Association.protect](/_protect/Astronomy/Star_System/Star_Cluster/Stellar_Association.protect.md) 
+
+### #is_/same_as :: [Stellar_Association.private](/_private/Astronomy/Star_System/Star_Cluster/Stellar_Association.private.md) 
+
+### #is_/same_as :: [Stellar_Association.personal](/_personal/Astronomy/Star_System/Star_Cluster/Stellar_Association.personal.md) 
+
+### #is_/same_as :: [Stellar_Association.secret](/_secret/Astronomy/Star_System/Star_Cluster/Stellar_Association.secret.md)
+

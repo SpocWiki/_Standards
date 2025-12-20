@@ -197,17 +197,17 @@ work_period_start_: 1775
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hokusai](Hokusai.md) 
+### #is_/same_as :: [Hokusai](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.md) 
 
-### #is_/same_as :: [Hokusai.public](/_public/Technology/Construction/Architecture/Architect/Hokusai.public.md) 
+### #is_/same_as :: [Hokusai.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.public.md) 
 
-### #is_/same_as :: [Hokusai.internal](/_internal/Technology/Construction/Architecture/Architect/Hokusai.internal.md) 
+### #is_/same_as :: [Hokusai.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.internal.md) 
 
-### #is_/same_as :: [Hokusai.protect](/_protect/Technology/Construction/Architecture/Architect/Hokusai.protect.md) 
+### #is_/same_as :: [Hokusai.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.protect.md) 
 
-### #is_/same_as :: [Hokusai.private](/_private/Technology/Construction/Architecture/Architect/Hokusai.private.md) 
+### #is_/same_as :: [Hokusai.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.private.md) 
 
-### #is_/same_as :: [Hokusai.personal](/_personal/Technology/Construction/Architecture/Architect/Hokusai.personal.md) 
+### #is_/same_as :: [Hokusai.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.personal.md) 
 
-### #is_/same_as :: [Hokusai.secret](/_secret/Technology/Construction/Architecture/Architect/Hokusai.secret.md)
+### #is_/same_as :: [Hokusai.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Hokusai.secret.md)
 

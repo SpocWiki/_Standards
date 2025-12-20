@@ -114,3 +114,22 @@ Commons_category: The Starry Night by van Gogh
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Starry%20Night) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Starry_Night(Painting)](/_Standards/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).md) 
+
+### #is_/same_as :: [Starry_Night(Painting).public](/_public/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).public.md) 
+
+### #is_/same_as :: [Starry_Night(Painting).internal](/_internal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).internal.md) 
+
+### #is_/same_as :: [Starry_Night(Painting).protect](/_protect/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).protect.md) 
+
+### #is_/same_as :: [Starry_Night(Painting).private](/_private/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).private.md) 
+
+### #is_/same_as :: [Starry_Night(Painting).personal](/_personal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).personal.md) 
+
+### #is_/same_as :: [Starry_Night(Painting).secret](/_secret/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent/Starry_Night(Painting).secret.md)
+

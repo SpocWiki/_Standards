@@ -59,3 +59,22 @@ PhilPapers_topic: quantum-chemistry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quantum_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.md) 
+
+### #is_/same_as :: [Quantum_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.public.md) 
+
+### #is_/same_as :: [Quantum_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.internal.md) 
+
+### #is_/same_as :: [Quantum_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.protect.md) 
+
+### #is_/same_as :: [Quantum_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.private.md) 
+
+### #is_/same_as :: [Quantum_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.personal.md) 
+
+### #is_/same_as :: [Quantum_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.secret.md)
+

@@ -107,3 +107,22 @@ Archive_of_Our_Own_tag: Substance Abuse
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Substance%20abuse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Substance_Abuse](/_Standards/Society/Law/Criminal_Law/Crime/Substance_Abuse.md) 
+
+### #is_/same_as :: [Substance_Abuse.public](/_public/Society/Law/Criminal_Law/Crime/Substance_Abuse.public.md) 
+
+### #is_/same_as :: [Substance_Abuse.internal](/_internal/Society/Law/Criminal_Law/Crime/Substance_Abuse.internal.md) 
+
+### #is_/same_as :: [Substance_Abuse.protect](/_protect/Society/Law/Criminal_Law/Crime/Substance_Abuse.protect.md) 
+
+### #is_/same_as :: [Substance_Abuse.private](/_private/Society/Law/Criminal_Law/Crime/Substance_Abuse.private.md) 
+
+### #is_/same_as :: [Substance_Abuse.personal](/_personal/Society/Law/Criminal_Law/Crime/Substance_Abuse.personal.md) 
+
+### #is_/same_as :: [Substance_Abuse.secret](/_secret/Society/Law/Criminal_Law/Crime/Substance_Abuse.secret.md)
+

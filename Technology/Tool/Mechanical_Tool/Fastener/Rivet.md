@@ -36,3 +36,22 @@ Commons_category: Rivets
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rivet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rivet](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Rivet.md) 
+
+### #is_/same_as :: [Rivet.public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Rivet.public.md) 
+
+### #is_/same_as :: [Rivet.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Rivet.internal.md) 
+
+### #is_/same_as :: [Rivet.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Rivet.protect.md) 
+
+### #is_/same_as :: [Rivet.private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Rivet.private.md) 
+
+### #is_/same_as :: [Rivet.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Rivet.personal.md) 
+
+### #is_/same_as :: [Rivet.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Rivet.secret.md)
+

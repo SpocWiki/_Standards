@@ -57,3 +57,22 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trail) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trail](/_Standards/Technology/Transport/Road_Transport/Trail.md) 
+
+### #is_/same_as :: [Trail.public](/_public/Technology/Transport/Road_Transport/Trail.public.md) 
+
+### #is_/same_as :: [Trail.internal](/_internal/Technology/Transport/Road_Transport/Trail.internal.md) 
+
+### #is_/same_as :: [Trail.protect](/_protect/Technology/Transport/Road_Transport/Trail.protect.md) 
+
+### #is_/same_as :: [Trail.private](/_private/Technology/Transport/Road_Transport/Trail.private.md) 
+
+### #is_/same_as :: [Trail.personal](/_personal/Technology/Transport/Road_Transport/Trail.personal.md) 
+
+### #is_/same_as :: [Trail.secret](/_secret/Technology/Transport/Road_Transport/Trail.secret.md)
+

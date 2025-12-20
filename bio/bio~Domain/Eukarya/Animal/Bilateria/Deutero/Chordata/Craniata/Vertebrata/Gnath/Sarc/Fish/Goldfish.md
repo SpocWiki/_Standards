@@ -130,3 +130,21 @@ exact_match:
 > Native to China, the goldfish is a relatively small member of the carp family (which also includes the Prussian carp and the crucian carp). It was first selectively bred for color in imperial China more than 1,000 years ago, where several distinct breeds were developed. Goldfish breeds vary greatly in size, body shape, fin configuration, and coloration (various combinations of white, yellow, orange, red, brown, and black are known).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Goldfish)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goldfish](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Goldfish.md) 
+
+### #is_/same_as :: [Goldfish.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Goldfish.public.md) 
+
+### #is_/same_as :: [Goldfish.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Goldfish.internal.md) 
+
+### #is_/same_as :: [Goldfish.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Goldfish.protect.md) 
+
+### #is_/same_as :: [Goldfish.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Goldfish.private.md) 
+
+### #is_/same_as :: [Goldfish.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Goldfish.personal.md) 
+
+### #is_/same_as :: [Goldfish.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Goldfish.secret.md)
+

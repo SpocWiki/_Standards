@@ -58,3 +58,22 @@ exact_match: http://wordnet-rdf.princeton.edu/wn30/03916031-n
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Perfume) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Perfume](/_Standards/Technology/Tool/Clothing/Fashion/Cosmetics/Perfume.md) 
+
+### #is_/same_as :: [Perfume.public](/_public/Technology/Tool/Clothing/Fashion/Cosmetics/Perfume.public.md) 
+
+### #is_/same_as :: [Perfume.internal](/_internal/Technology/Tool/Clothing/Fashion/Cosmetics/Perfume.internal.md) 
+
+### #is_/same_as :: [Perfume.protect](/_protect/Technology/Tool/Clothing/Fashion/Cosmetics/Perfume.protect.md) 
+
+### #is_/same_as :: [Perfume.private](/_private/Technology/Tool/Clothing/Fashion/Cosmetics/Perfume.private.md) 
+
+### #is_/same_as :: [Perfume.personal](/_personal/Technology/Tool/Clothing/Fashion/Cosmetics/Perfume.personal.md) 
+
+### #is_/same_as :: [Perfume.secret](/_secret/Technology/Tool/Clothing/Fashion/Cosmetics/Perfume.secret.md)
+

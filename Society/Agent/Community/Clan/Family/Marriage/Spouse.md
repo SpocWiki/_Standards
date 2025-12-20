@@ -208,3 +208,22 @@ Range for the Objects in the [[../../../../../../schema-org/Relation/has/has_spo
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spouse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spouse](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Spouse.md) 
+
+### #is_/same_as :: [Spouse.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Spouse.public.md) 
+
+### #is_/same_as :: [Spouse.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Spouse.internal.md) 
+
+### #is_/same_as :: [Spouse.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Spouse.protect.md) 
+
+### #is_/same_as :: [Spouse.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Spouse.private.md) 
+
+### #is_/same_as :: [Spouse.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Spouse.personal.md) 
+
+### #is_/same_as :: [Spouse.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Spouse.secret.md)
+

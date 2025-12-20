@@ -56,3 +56,22 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Scandinavi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scandinavian%20Peninsula) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scandinavian_Peninsula](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.md) 
+
+### #is_/same_as :: [Scandinavian_Peninsula.public](/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.public.md) 
+
+### #is_/same_as :: [Scandinavian_Peninsula.internal](/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.internal.md) 
+
+### #is_/same_as :: [Scandinavian_Peninsula.protect](/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.protect.md) 
+
+### #is_/same_as :: [Scandinavian_Peninsula.private](/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.private.md) 
+
+### #is_/same_as :: [Scandinavian_Peninsula.personal](/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.personal.md) 
+
+### #is_/same_as :: [Scandinavian_Peninsula.secret](/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.secret.md)
+

@@ -59,3 +59,22 @@ OpenStreetMap_tag: place=municipality
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Municipality) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Municipality](/_Standards/Earth/Geography/Place/Administrative_Area/Municipality.md) 
+
+### #is_/same_as :: [Municipality.public](/_public/Earth/Geography/Place/Administrative_Area/Municipality.public.md) 
+
+### #is_/same_as :: [Municipality.internal](/_internal/Earth/Geography/Place/Administrative_Area/Municipality.internal.md) 
+
+### #is_/same_as :: [Municipality.protect](/_protect/Earth/Geography/Place/Administrative_Area/Municipality.protect.md) 
+
+### #is_/same_as :: [Municipality.private](/_private/Earth/Geography/Place/Administrative_Area/Municipality.private.md) 
+
+### #is_/same_as :: [Municipality.personal](/_personal/Earth/Geography/Place/Administrative_Area/Municipality.personal.md) 
+
+### #is_/same_as :: [Municipality.secret](/_secret/Earth/Geography/Place/Administrative_Area/Municipality.secret.md)
+

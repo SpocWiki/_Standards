@@ -54,3 +54,22 @@ IPTC_NewsCode: mediatopic/20001099
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Freestyle%20wrestling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Freestyle_Wrestling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Freestyle_Wrestling.md) 
+
+### #is_/same_as :: [Freestyle_Wrestling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Freestyle_Wrestling.public.md) 
+
+### #is_/same_as :: [Freestyle_Wrestling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Freestyle_Wrestling.internal.md) 
+
+### #is_/same_as :: [Freestyle_Wrestling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Freestyle_Wrestling.protect.md) 
+
+### #is_/same_as :: [Freestyle_Wrestling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Freestyle_Wrestling.private.md) 
+
+### #is_/same_as :: [Freestyle_Wrestling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Freestyle_Wrestling.personal.md) 
+
+### #is_/same_as :: [Freestyle_Wrestling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Wrestling/Freestyle_Wrestling.secret.md)
+

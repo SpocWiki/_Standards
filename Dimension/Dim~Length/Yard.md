@@ -80,3 +80,21 @@ Commons_category: Yard (unit of length)
 > The theoretical US survey yard is very slightly longer.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yard)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yard](/_Standards/Dimension/Dim~Length/Yard.md) 
+
+### #is_/same_as :: [Yard.public](/_public/Dimension/Dim~Length/Yard.public.md) 
+
+### #is_/same_as :: [Yard.internal](/_internal/Dimension/Dim~Length/Yard.internal.md) 
+
+### #is_/same_as :: [Yard.protect](/_protect/Dimension/Dim~Length/Yard.protect.md) 
+
+### #is_/same_as :: [Yard.private](/_private/Dimension/Dim~Length/Yard.private.md) 
+
+### #is_/same_as :: [Yard.personal](/_personal/Dimension/Dim~Length/Yard.personal.md) 
+
+### #is_/same_as :: [Yard.secret](/_secret/Dimension/Dim~Length/Yard.secret.md)
+

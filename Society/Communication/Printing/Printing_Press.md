@@ -75,3 +75,22 @@ IMDb_keyword: printing-press
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Printing%20press) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Printing_Press](/_Standards/Society/Communication/Printing/Printing_Press.md) 
+
+### #is_/same_as :: [Printing_Press.public](/_public/Society/Communication/Printing/Printing_Press.public.md) 
+
+### #is_/same_as :: [Printing_Press.internal](/_internal/Society/Communication/Printing/Printing_Press.internal.md) 
+
+### #is_/same_as :: [Printing_Press.protect](/_protect/Society/Communication/Printing/Printing_Press.protect.md) 
+
+### #is_/same_as :: [Printing_Press.private](/_private/Society/Communication/Printing/Printing_Press.private.md) 
+
+### #is_/same_as :: [Printing_Press.personal](/_personal/Society/Communication/Printing/Printing_Press.personal.md) 
+
+### #is_/same_as :: [Printing_Press.secret](/_secret/Society/Communication/Printing/Printing_Press.secret.md)
+

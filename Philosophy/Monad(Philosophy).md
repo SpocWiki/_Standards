@@ -16,3 +16,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monad(Philosophy)](/_Standards/Philosophy/Monad(Philosophy).md) 
+
+### #is_/same_as :: [Monad(Philosophy).public](/_public/Philosophy/Monad(Philosophy).public.md) 
+
+### #is_/same_as :: [Monad(Philosophy).internal](/_internal/Philosophy/Monad(Philosophy).internal.md) 
+
+### #is_/same_as :: [Monad(Philosophy).protect](/_protect/Philosophy/Monad(Philosophy).protect.md) 
+
+### #is_/same_as :: [Monad(Philosophy).private](/_private/Philosophy/Monad(Philosophy).private.md) 
+
+### #is_/same_as :: [Monad(Philosophy).personal](/_personal/Philosophy/Monad(Philosophy).personal.md) 
+
+### #is_/same_as :: [Monad(Philosophy).secret](/_secret/Philosophy/Monad(Philosophy).secret.md)
+

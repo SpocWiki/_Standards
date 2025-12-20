@@ -40,17 +40,17 @@ A product taken by mouth that contains a dietary ingredient intended to suppleme
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dietary_Supplement](Dietary_Supplement.md) 
+### #is_/same_as :: [Dietary_Supplement](/_Standards/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.md) 
 
-### #is_/same_as :: [dietary_supplement.public](/_public/schema-org/Class/is_a_/product/dietary_supplement.public.md) 
+### #is_/same_as :: [Dietary_Supplement.public](/_public/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.public.md) 
 
-### #is_/same_as :: [dietary_supplement.internal](/_internal/schema-org/Class/is_a_/product/dietary_supplement.internal.md) 
+### #is_/same_as :: [Dietary_Supplement.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.internal.md) 
 
-### #is_/same_as :: [dietary_supplement.protect](/_protect/schema-org/Class/is_a_/product/dietary_supplement.protect.md) 
+### #is_/same_as :: [Dietary_Supplement.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.protect.md) 
 
-### #is_/same_as :: [dietary_supplement.private](/_private/schema-org/Class/is_a_/product/dietary_supplement.private.md) 
+### #is_/same_as :: [Dietary_Supplement.private](/_private/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.private.md) 
 
-### #is_/same_as :: [dietary_supplement.personal](/_personal/schema-org/Class/is_a_/product/dietary_supplement.personal.md) 
+### #is_/same_as :: [Dietary_Supplement.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.personal.md) 
 
-### #is_/same_as :: [dietary_supplement.secret](/_secret/schema-org/Class/is_a_/product/dietary_supplement.secret.md)
+### #is_/same_as :: [Dietary_Supplement.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Dietary_Supplement.secret.md)
 

@@ -93,3 +93,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/GERAKLIT.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heraclitus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heraclitus](/_Standards/Philosophy/Philosopher/Heraclitus.md) 
+
+### #is_/same_as :: [Heraclitus.public](/_public/Philosophy/Philosopher/Heraclitus.public.md) 
+
+### #is_/same_as :: [Heraclitus.internal](/_internal/Philosophy/Philosopher/Heraclitus.internal.md) 
+
+### #is_/same_as :: [Heraclitus.protect](/_protect/Philosophy/Philosopher/Heraclitus.protect.md) 
+
+### #is_/same_as :: [Heraclitus.private](/_private/Philosophy/Philosopher/Heraclitus.private.md) 
+
+### #is_/same_as :: [Heraclitus.personal](/_personal/Philosophy/Philosopher/Heraclitus.personal.md) 
+
+### #is_/same_as :: [Heraclitus.secret](/_secret/Philosophy/Philosopher/Heraclitus.secret.md)
+

@@ -40,17 +40,17 @@ Book format: [[Graphic_Novel]]. May represent a bound collection of [[../../../.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graphic_Novel](Graphic_Novel.md) 
+### #is_/same_as :: [Graphic_Novel](/_Standards/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.md) 
 
-### #is_/same_as :: [graphic_novel.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.public.md) 
+### #is_/same_as :: [Graphic_Novel.public](/_public/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.public.md) 
 
-### #is_/same_as :: [graphic_novel.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.internal.md) 
+### #is_/same_as :: [Graphic_Novel.internal](/_internal/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.internal.md) 
 
-### #is_/same_as :: [graphic_novel.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.protect.md) 
+### #is_/same_as :: [Graphic_Novel.protect](/_protect/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.protect.md) 
 
-### #is_/same_as :: [graphic_novel.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.private.md) 
+### #is_/same_as :: [Graphic_Novel.private](/_private/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.private.md) 
 
-### #is_/same_as :: [graphic_novel.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.personal.md) 
+### #is_/same_as :: [Graphic_Novel.personal](/_personal/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.personal.md) 
 
-### #is_/same_as :: [graphic_novel.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/graphic_novel.secret.md)
+### #is_/same_as :: [Graphic_Novel.secret](/_secret/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.secret.md)
 

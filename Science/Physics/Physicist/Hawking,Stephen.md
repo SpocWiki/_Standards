@@ -285,3 +285,22 @@ ISNI: "0000000121034996"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stephen%20Hawking) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hawking,Stephen](/_Standards/Science/Physics/Physicist/Hawking,Stephen.md) 
+
+### #is_/same_as :: [Hawking,Stephen.public](/_public/Science/Physics/Physicist/Hawking,Stephen.public.md) 
+
+### #is_/same_as :: [Hawking,Stephen.internal](/_internal/Science/Physics/Physicist/Hawking,Stephen.internal.md) 
+
+### #is_/same_as :: [Hawking,Stephen.protect](/_protect/Science/Physics/Physicist/Hawking,Stephen.protect.md) 
+
+### #is_/same_as :: [Hawking,Stephen.private](/_private/Science/Physics/Physicist/Hawking,Stephen.private.md) 
+
+### #is_/same_as :: [Hawking,Stephen.personal](/_personal/Science/Physics/Physicist/Hawking,Stephen.personal.md) 
+
+### #is_/same_as :: [Hawking,Stephen.secret](/_secret/Science/Physics/Physicist/Hawking,Stephen.secret.md)
+

@@ -40,17 +40,17 @@ The event has been postponed and no new date has been set. The event's previousS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Postponed](Event_Postponed.md) 
+### #is_/same_as :: [Event_Postponed](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.md) 
 
-### #is_/same_as :: [event_postponed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.public.md) 
+### #is_/same_as :: [Event_Postponed.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.public.md) 
 
-### #is_/same_as :: [event_postponed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.internal.md) 
+### #is_/same_as :: [Event_Postponed.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.internal.md) 
 
-### #is_/same_as :: [event_postponed.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.protect.md) 
+### #is_/same_as :: [Event_Postponed.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.protect.md) 
 
-### #is_/same_as :: [event_postponed.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.private.md) 
+### #is_/same_as :: [Event_Postponed.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.private.md) 
 
-### #is_/same_as :: [event_postponed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.personal.md) 
+### #is_/same_as :: [Event_Postponed.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.personal.md) 
 
-### #is_/same_as :: [event_postponed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.secret.md)
+### #is_/same_as :: [Event_Postponed.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.secret.md)
 

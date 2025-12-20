@@ -59,3 +59,22 @@ Commons_category: Polynomials
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polynomial) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polynomial](/_Standards/Mathematics/Algebra/Polynomial.md) 
+
+### #is_/same_as :: [Polynomial.public](/_public/Mathematics/Algebra/Polynomial.public.md) 
+
+### #is_/same_as :: [Polynomial.internal](/_internal/Mathematics/Algebra/Polynomial.internal.md) 
+
+### #is_/same_as :: [Polynomial.protect](/_protect/Mathematics/Algebra/Polynomial.protect.md) 
+
+### #is_/same_as :: [Polynomial.private](/_private/Mathematics/Algebra/Polynomial.private.md) 
+
+### #is_/same_as :: [Polynomial.personal](/_personal/Mathematics/Algebra/Polynomial.personal.md) 
+
+### #is_/same_as :: [Polynomial.secret](/_secret/Mathematics/Algebra/Polynomial.secret.md)
+

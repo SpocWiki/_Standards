@@ -75,3 +75,22 @@ Commons_category: Der Ring des Nibelungen
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Der%20Ring%20des%20Nibelungen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ring_des_Nibelungen](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.md) 
+
+### #is_/same_as :: [Ring_des_Nibelungen.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.public.md) 
+
+### #is_/same_as :: [Ring_des_Nibelungen.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.internal.md) 
+
+### #is_/same_as :: [Ring_des_Nibelungen.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.protect.md) 
+
+### #is_/same_as :: [Ring_des_Nibelungen.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.private.md) 
+
+### #is_/same_as :: [Ring_des_Nibelungen.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.personal.md) 
+
+### #is_/same_as :: [Ring_des_Nibelungen.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard/Ring_des_Nibelungen.secret.md)
+

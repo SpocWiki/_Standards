@@ -55,3 +55,22 @@ OpenStreetMap_tag: electricity=solar
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20power) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solar_Electricity](/_Standards/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.md) 
+
+### #is_/same_as :: [Solar_Electricity.public](/_public/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.public.md) 
+
+### #is_/same_as :: [Solar_Electricity.internal](/_internal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.internal.md) 
+
+### #is_/same_as :: [Solar_Electricity.protect](/_protect/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.protect.md) 
+
+### #is_/same_as :: [Solar_Electricity.private](/_private/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.private.md) 
+
+### #is_/same_as :: [Solar_Electricity.personal](/_personal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.personal.md) 
+
+### #is_/same_as :: [Solar_Electricity.secret](/_secret/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.secret.md)
+

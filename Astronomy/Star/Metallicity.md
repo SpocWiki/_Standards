@@ -30,3 +30,22 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/metallicity
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metallicity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metallicity](/_Standards/Astronomy/Star/Metallicity.md) 
+
+### #is_/same_as :: [Metallicity.public](/_public/Astronomy/Star/Metallicity.public.md) 
+
+### #is_/same_as :: [Metallicity.internal](/_internal/Astronomy/Star/Metallicity.internal.md) 
+
+### #is_/same_as :: [Metallicity.protect](/_protect/Astronomy/Star/Metallicity.protect.md) 
+
+### #is_/same_as :: [Metallicity.private](/_private/Astronomy/Star/Metallicity.private.md) 
+
+### #is_/same_as :: [Metallicity.personal](/_personal/Astronomy/Star/Metallicity.personal.md) 
+
+### #is_/same_as :: [Metallicity.secret](/_secret/Astronomy/Star/Metallicity.secret.md)
+

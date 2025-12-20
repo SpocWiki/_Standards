@@ -111,3 +111,22 @@ title: रामायण
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ramayana) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ramayana](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.md) 
+
+### #is_/same_as :: [Ramayana.public](/_public/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.public.md) 
+
+### #is_/same_as :: [Ramayana.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.internal.md) 
+
+### #is_/same_as :: [Ramayana.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.protect.md) 
+
+### #is_/same_as :: [Ramayana.private](/_private/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.private.md) 
+
+### #is_/same_as :: [Ramayana.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.personal.md) 
+
+### #is_/same_as :: [Ramayana.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/Ramayana.secret.md)
+

@@ -127,3 +127,22 @@ Libris_URI: 20dhm4zl5783jxz
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Konrad%20Lorenz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lorenz,Konrad](/_Standards/bio/Biologist/Lorenz,Konrad.md) 
+
+### #is_/same_as :: [Lorenz,Konrad.public](/_public/bio/Biologist/Lorenz,Konrad.public.md) 
+
+### #is_/same_as :: [Lorenz,Konrad.internal](/_internal/bio/Biologist/Lorenz,Konrad.internal.md) 
+
+### #is_/same_as :: [Lorenz,Konrad.protect](/_protect/bio/Biologist/Lorenz,Konrad.protect.md) 
+
+### #is_/same_as :: [Lorenz,Konrad.private](/_private/bio/Biologist/Lorenz,Konrad.private.md) 
+
+### #is_/same_as :: [Lorenz,Konrad.personal](/_personal/bio/Biologist/Lorenz,Konrad.personal.md) 
+
+### #is_/same_as :: [Lorenz,Konrad.secret](/_secret/bio/Biologist/Lorenz,Konrad.secret.md)
+

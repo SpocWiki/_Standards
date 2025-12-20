@@ -140,3 +140,22 @@ Libris_URI: c9prrjvw4ngfp1p
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Boltzmann) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boltzmann,Ludwig](/_Standards/Science/Physics/Physicist/Boltzmann,Ludwig.md) 
+
+### #is_/same_as :: [Boltzmann,Ludwig.public](/_public/Science/Physics/Physicist/Boltzmann,Ludwig.public.md) 
+
+### #is_/same_as :: [Boltzmann,Ludwig.internal](/_internal/Science/Physics/Physicist/Boltzmann,Ludwig.internal.md) 
+
+### #is_/same_as :: [Boltzmann,Ludwig.protect](/_protect/Science/Physics/Physicist/Boltzmann,Ludwig.protect.md) 
+
+### #is_/same_as :: [Boltzmann,Ludwig.private](/_private/Science/Physics/Physicist/Boltzmann,Ludwig.private.md) 
+
+### #is_/same_as :: [Boltzmann,Ludwig.personal](/_personal/Science/Physics/Physicist/Boltzmann,Ludwig.personal.md) 
+
+### #is_/same_as :: [Boltzmann,Ludwig.secret](/_secret/Science/Physics/Physicist/Boltzmann,Ludwig.secret.md)
+

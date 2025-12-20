@@ -39,3 +39,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Erdkruste-i.png
 > The temperature of the crust increases with depth, reaching values typically in the range from about 700 to 1,600 °C (1,292 to 2,912 °F) at the boundary with the underlying mantle. The temperature increases by as much as 30 °C (54 °F) for every kilometer locally in the upper part of the crust.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20crust)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Earth_Crust](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.md) 
+
+### #is_/same_as :: [Earth_Crust.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.public.md) 
+
+### #is_/same_as :: [Earth_Crust.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.internal.md) 
+
+### #is_/same_as :: [Earth_Crust.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.protect.md) 
+
+### #is_/same_as :: [Earth_Crust.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.private.md) 
+
+### #is_/same_as :: [Earth_Crust.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.personal.md) 
+
+### #is_/same_as :: [Earth_Crust.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.secret.md)
+

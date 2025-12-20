@@ -43,17 +43,17 @@ Single-celled organism that causes an infection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [protozoa](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.md) 
+### #is_/same_as :: [Protozoa](/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.md) 
 
-### #is_/same_as :: [protozoa.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.public.md) 
+### #is_/same_as :: [Protozoa.public](/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.public.md) 
 
-### #is_/same_as :: [protozoa.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.internal.md) 
+### #is_/same_as :: [Protozoa.internal](/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.internal.md) 
 
-### #is_/same_as :: [protozoa.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.protect.md) 
+### #is_/same_as :: [Protozoa.protect](/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.protect.md) 
 
-### #is_/same_as :: [protozoa.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.private.md) 
+### #is_/same_as :: [Protozoa.private](/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.private.md) 
 
-### #is_/same_as :: [protozoa.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.personal.md) 
+### #is_/same_as :: [Protozoa.personal](/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.personal.md) 
 
-### #is_/same_as :: [protozoa.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.secret.md)
+### #is_/same_as :: [Protozoa.secret](/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.secret.md)
 

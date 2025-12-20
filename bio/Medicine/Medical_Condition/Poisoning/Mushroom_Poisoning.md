@@ -38,3 +38,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mushroom%20poisoning) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mushroom_Poisoning](/_Standards/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.md) 
+
+### #is_/same_as :: [Mushroom_Poisoning.public](/_public/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.public.md) 
+
+### #is_/same_as :: [Mushroom_Poisoning.internal](/_internal/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.internal.md) 
+
+### #is_/same_as :: [Mushroom_Poisoning.protect](/_protect/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.protect.md) 
+
+### #is_/same_as :: [Mushroom_Poisoning.private](/_private/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.private.md) 
+
+### #is_/same_as :: [Mushroom_Poisoning.personal](/_personal/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.personal.md) 
+
+### #is_/same_as :: [Mushroom_Poisoning.secret](/_secret/bio/Medicine/Medical_Condition/Poisoning/Mushroom_Poisoning.secret.md)
+

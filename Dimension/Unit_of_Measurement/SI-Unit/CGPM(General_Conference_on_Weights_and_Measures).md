@@ -45,3 +45,22 @@ official_website:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20Conference%20on%20Weights%20and%20Measures) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CGPM(General_Conference_on_Weights_and_Measures)](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).md) 
+
+### #is_/same_as :: [CGPM(General_Conference_on_Weights_and_Measures).public](/_public/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).public.md) 
+
+### #is_/same_as :: [CGPM(General_Conference_on_Weights_and_Measures).internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).internal.md) 
+
+### #is_/same_as :: [CGPM(General_Conference_on_Weights_and_Measures).protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).protect.md) 
+
+### #is_/same_as :: [CGPM(General_Conference_on_Weights_and_Measures).private](/_private/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).private.md) 
+
+### #is_/same_as :: [CGPM(General_Conference_on_Weights_and_Measures).personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).personal.md) 
+
+### #is_/same_as :: [CGPM(General_Conference_on_Weights_and_Measures).secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).secret.md)
+

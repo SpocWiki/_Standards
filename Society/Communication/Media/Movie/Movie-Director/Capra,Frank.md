@@ -102,3 +102,22 @@ ISNI: "0000000122767999"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Capra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Capra,Frank](/_Standards/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.md) 
+
+### #is_/same_as :: [Capra,Frank.public](/_public/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.public.md) 
+
+### #is_/same_as :: [Capra,Frank.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.internal.md) 
+
+### #is_/same_as :: [Capra,Frank.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.protect.md) 
+
+### #is_/same_as :: [Capra,Frank.private](/_private/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.private.md) 
+
+### #is_/same_as :: [Capra,Frank.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.personal.md) 
+
+### #is_/same_as :: [Capra,Frank.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Capra,Frank.secret.md)
+

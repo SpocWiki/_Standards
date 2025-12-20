@@ -38,3 +38,22 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKAYA_KINETIKA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20kinetics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chemical_Kinetics](/_Standards/Chemistry/Chemical_Reaction/Chemical_Kinetics.md) 
+
+### #is_/same_as :: [Chemical_Kinetics.public](/_public/Chemistry/Chemical_Reaction/Chemical_Kinetics.public.md) 
+
+### #is_/same_as :: [Chemical_Kinetics.internal](/_internal/Chemistry/Chemical_Reaction/Chemical_Kinetics.internal.md) 
+
+### #is_/same_as :: [Chemical_Kinetics.protect](/_protect/Chemistry/Chemical_Reaction/Chemical_Kinetics.protect.md) 
+
+### #is_/same_as :: [Chemical_Kinetics.private](/_private/Chemistry/Chemical_Reaction/Chemical_Kinetics.private.md) 
+
+### #is_/same_as :: [Chemical_Kinetics.personal](/_personal/Chemistry/Chemical_Reaction/Chemical_Kinetics.personal.md) 
+
+### #is_/same_as :: [Chemical_Kinetics.secret](/_secret/Chemistry/Chemical_Reaction/Chemical_Kinetics.secret.md)
+

@@ -45,3 +45,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Björk](/_Standards/Society/Communication/Media/Music/Musician/Björk.md) 
+
+### #is_/same_as :: [Björk.public](/_public/Society/Communication/Media/Music/Musician/Björk.public.md) 
+
+### #is_/same_as :: [Björk.internal](/_internal/Society/Communication/Media/Music/Musician/Björk.internal.md) 
+
+### #is_/same_as :: [Björk.protect](/_protect/Society/Communication/Media/Music/Musician/Björk.protect.md) 
+
+### #is_/same_as :: [Björk.private](/_private/Society/Communication/Media/Music/Musician/Björk.private.md) 
+
+### #is_/same_as :: [Björk.personal](/_personal/Society/Communication/Media/Music/Musician/Björk.personal.md) 
+
+### #is_/same_as :: [Björk.secret](/_secret/Society/Communication/Media/Music/Musician/Björk.secret.md)
+

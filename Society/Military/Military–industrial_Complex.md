@@ -48,3 +48,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Military-industrialComplex::77v
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%E2%80%93industrial%20complex) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military–industrial_Complex](/_Standards/Society/Military/Military–industrial_Complex.md) 
+
+### #is_/same_as :: [Military–industrial_Complex.public](/_public/Society/Military/Military–industrial_Complex.public.md) 
+
+### #is_/same_as :: [Military–industrial_Complex.internal](/_internal/Society/Military/Military–industrial_Complex.internal.md) 
+
+### #is_/same_as :: [Military–industrial_Complex.protect](/_protect/Society/Military/Military–industrial_Complex.protect.md) 
+
+### #is_/same_as :: [Military–industrial_Complex.private](/_private/Society/Military/Military–industrial_Complex.private.md) 
+
+### #is_/same_as :: [Military–industrial_Complex.personal](/_personal/Society/Military/Military–industrial_Complex.personal.md) 
+
+### #is_/same_as :: [Military–industrial_Complex.secret](/_secret/Society/Military/Military–industrial_Complex.secret.md)
+

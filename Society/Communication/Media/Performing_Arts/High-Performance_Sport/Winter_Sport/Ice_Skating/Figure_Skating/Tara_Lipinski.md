@@ -76,3 +76,22 @@ name_in_native_language: Tara Lipinski
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tara%20Lipinski) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tara_Lipinski](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating/Tara_Lipinski.md) 
+
+### #is_/same_as :: [Tara_Lipinski.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating/Tara_Lipinski.public.md) 
+
+### #is_/same_as :: [Tara_Lipinski.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating/Tara_Lipinski.internal.md) 
+
+### #is_/same_as :: [Tara_Lipinski.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating/Tara_Lipinski.protect.md) 
+
+### #is_/same_as :: [Tara_Lipinski.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating/Tara_Lipinski.private.md) 
+
+### #is_/same_as :: [Tara_Lipinski.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating/Tara_Lipinski.personal.md) 
+
+### #is_/same_as :: [Tara_Lipinski.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Ice_Skating/Figure_Skating/Tara_Lipinski.secret.md)
+

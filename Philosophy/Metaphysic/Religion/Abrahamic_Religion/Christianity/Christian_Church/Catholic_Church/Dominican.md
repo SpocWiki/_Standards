@@ -24,3 +24,22 @@ has_id_wikidata: Q131479
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dominican](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.md) 
+
+### #is_/same_as :: [Dominican.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.public.md) 
+
+### #is_/same_as :: [Dominican.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.internal.md) 
+
+### #is_/same_as :: [Dominican.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.protect.md) 
+
+### #is_/same_as :: [Dominican.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.private.md) 
+
+### #is_/same_as :: [Dominican.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.personal.md) 
+
+### #is_/same_as :: [Dominican.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.secret.md)
+

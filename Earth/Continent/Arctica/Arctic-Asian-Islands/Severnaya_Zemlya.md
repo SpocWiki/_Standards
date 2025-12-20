@@ -75,3 +75,22 @@ markerFolder: ./Severnaya_Zemlya/
 > [Wikipedia](https://en.wikipedia.org/wiki/Severnaya%20Zemlya) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Severnaya_Zemlya](/_Standards/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.md) 
+
+### #is_/same_as :: [Severnaya_Zemlya.public](/_public/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.public.md) 
+
+### #is_/same_as :: [Severnaya_Zemlya.internal](/_internal/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.internal.md) 
+
+### #is_/same_as :: [Severnaya_Zemlya.protect](/_protect/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.protect.md) 
+
+### #is_/same_as :: [Severnaya_Zemlya.private](/_private/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.private.md) 
+
+### #is_/same_as :: [Severnaya_Zemlya.personal](/_personal/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.personal.md) 
+
+### #is_/same_as :: [Severnaya_Zemlya.secret](/_secret/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.secret.md)
+

@@ -58,3 +58,22 @@ OpenStreetMap_tag: wetland=swamp
 > [Wikipedia](https://en.wikipedia.org/wiki/Swamp) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Swamp](/_Standards/Earth/Geology/Landform/Swamp.md) 
+
+### #is_/same_as :: [Swamp.public](/_public/Earth/Geology/Landform/Swamp.public.md) 
+
+### #is_/same_as :: [Swamp.internal](/_internal/Earth/Geology/Landform/Swamp.internal.md) 
+
+### #is_/same_as :: [Swamp.protect](/_protect/Earth/Geology/Landform/Swamp.protect.md) 
+
+### #is_/same_as :: [Swamp.private](/_private/Earth/Geology/Landform/Swamp.private.md) 
+
+### #is_/same_as :: [Swamp.personal](/_personal/Earth/Geology/Landform/Swamp.personal.md) 
+
+### #is_/same_as :: [Swamp.secret](/_secret/Earth/Geology/Landform/Swamp.secret.md)
+

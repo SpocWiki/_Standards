@@ -68,3 +68,22 @@ Commons_category: Rabbis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rabbi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rabbi](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.md) 
+
+### #is_/same_as :: [Rabbi.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.public.md) 
+
+### #is_/same_as :: [Rabbi.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.internal.md) 
+
+### #is_/same_as :: [Rabbi.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.protect.md) 
+
+### #is_/same_as :: [Rabbi.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.private.md) 
+
+### #is_/same_as :: [Rabbi.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.personal.md) 
+
+### #is_/same_as :: [Rabbi.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Rabbi.secret.md)
+

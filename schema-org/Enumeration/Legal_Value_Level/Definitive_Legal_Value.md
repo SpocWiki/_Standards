@@ -43,17 +43,17 @@ Indicates a document for which the text is conclusively what the law says and is
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Definitive_Legal_Value](Definitive_Legal_Value.md) 
+### #is_/same_as :: [Definitive_Legal_Value](/_Standards/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.md) 
 
-### #is_/same_as :: [definitive_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.public.md) 
+### #is_/same_as :: [Definitive_Legal_Value.public](/_public/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.public.md) 
 
-### #is_/same_as :: [definitive_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.internal.md) 
+### #is_/same_as :: [Definitive_Legal_Value.internal](/_internal/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.internal.md) 
 
-### #is_/same_as :: [definitive_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.protect.md) 
+### #is_/same_as :: [Definitive_Legal_Value.protect](/_protect/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.protect.md) 
 
-### #is_/same_as :: [definitive_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.private.md) 
+### #is_/same_as :: [Definitive_Legal_Value.private](/_private/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.private.md) 
 
-### #is_/same_as :: [definitive_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.personal.md) 
+### #is_/same_as :: [Definitive_Legal_Value.personal](/_personal/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.personal.md) 
 
-### #is_/same_as :: [definitive_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.secret.md)
+### #is_/same_as :: [Definitive_Legal_Value.secret](/_secret/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.secret.md)
 

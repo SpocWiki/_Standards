@@ -40,3 +40,22 @@ P8189: "987007545493705171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Comparative%20linguistics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Comparative_Linguistics](/_Standards/Language/Linguistics/Comparative_Linguistics.md) 
+
+### #is_/same_as :: [Comparative_Linguistics.public](/_public/Language/Linguistics/Comparative_Linguistics.public.md) 
+
+### #is_/same_as :: [Comparative_Linguistics.internal](/_internal/Language/Linguistics/Comparative_Linguistics.internal.md) 
+
+### #is_/same_as :: [Comparative_Linguistics.protect](/_protect/Language/Linguistics/Comparative_Linguistics.protect.md) 
+
+### #is_/same_as :: [Comparative_Linguistics.private](/_private/Language/Linguistics/Comparative_Linguistics.private.md) 
+
+### #is_/same_as :: [Comparative_Linguistics.personal](/_personal/Language/Linguistics/Comparative_Linguistics.personal.md) 
+
+### #is_/same_as :: [Comparative_Linguistics.secret](/_secret/Language/Linguistics/Comparative_Linguistics.secret.md)
+

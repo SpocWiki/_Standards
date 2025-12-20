@@ -41,17 +41,17 @@ A medical organization (physical or not), such as hospital, institution or clini
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Organization](Medical_Organization.md) 
+### #is_/same_as :: [Medical_Organization](/_Standards/Society/Agent/Community/Organization/Medical_Organization.md) 
 
-### #is_/same_as :: [Medical_Organization.public](/_public/Society/Organization/Medical_Organization.public.md) 
+### #is_/same_as :: [Medical_Organization.public](/_public/Society/Agent/Community/Organization/Medical_Organization.public.md) 
 
-### #is_/same_as :: [Medical_Organization.internal](/_internal/Society/Organization/Medical_Organization.internal.md) 
+### #is_/same_as :: [Medical_Organization.internal](/_internal/Society/Agent/Community/Organization/Medical_Organization.internal.md) 
 
-### #is_/same_as :: [Medical_Organization.protect](/_protect/Society/Organization/Medical_Organization.protect.md) 
+### #is_/same_as :: [Medical_Organization.protect](/_protect/Society/Agent/Community/Organization/Medical_Organization.protect.md) 
 
-### #is_/same_as :: [Medical_Organization.private](/_private/Society/Organization/Medical_Organization.private.md) 
+### #is_/same_as :: [Medical_Organization.private](/_private/Society/Agent/Community/Organization/Medical_Organization.private.md) 
 
-### #is_/same_as :: [Medical_Organization.personal](/_personal/Society/Organization/Medical_Organization.personal.md) 
+### #is_/same_as :: [Medical_Organization.personal](/_personal/Society/Agent/Community/Organization/Medical_Organization.personal.md) 
 
-### #is_/same_as :: [Medical_Organization.secret](/_secret/Society/Organization/Medical_Organization.secret.md)
+### #is_/same_as :: [Medical_Organization.secret](/_secret/Society/Agent/Community/Organization/Medical_Organization.secret.md)
 

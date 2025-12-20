@@ -57,3 +57,22 @@ NBN_System_Key: NBNSYS0000134513
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hare) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hare](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Hare.md) 
+
+### #is_/same_as :: [Hare.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Hare.public.md) 
+
+### #is_/same_as :: [Hare.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Hare.internal.md) 
+
+### #is_/same_as :: [Hare.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Hare.protect.md) 
+
+### #is_/same_as :: [Hare.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Hare.private.md) 
+
+### #is_/same_as :: [Hare.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Hare.personal.md) 
+
+### #is_/same_as :: [Hare.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Hare.secret.md)
+

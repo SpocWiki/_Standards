@@ -119,3 +119,22 @@ Commons_gallery: Tour de France
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tour%20de%20France) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tour_de_France](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.md) 
+
+### #is_/same_as :: [Tour_de_France.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.public.md) 
+
+### #is_/same_as :: [Tour_de_France.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.internal.md) 
+
+### #is_/same_as :: [Tour_de_France.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.protect.md) 
+
+### #is_/same_as :: [Tour_de_France.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.private.md) 
+
+### #is_/same_as :: [Tour_de_France.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.personal.md) 
+
+### #is_/same_as :: [Tour_de_France.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.secret.md)
+

@@ -40,3 +40,22 @@ Commons_category: Parapsychology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parapsychology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parapsychology](/_Standards/Philosophy/Metaphysic/Parapsychology.md) 
+
+### #is_/same_as :: [Parapsychology.public](/_public/Philosophy/Metaphysic/Parapsychology.public.md) 
+
+### #is_/same_as :: [Parapsychology.internal](/_internal/Philosophy/Metaphysic/Parapsychology.internal.md) 
+
+### #is_/same_as :: [Parapsychology.protect](/_protect/Philosophy/Metaphysic/Parapsychology.protect.md) 
+
+### #is_/same_as :: [Parapsychology.private](/_private/Philosophy/Metaphysic/Parapsychology.private.md) 
+
+### #is_/same_as :: [Parapsychology.personal](/_personal/Philosophy/Metaphysic/Parapsychology.personal.md) 
+
+### #is_/same_as :: [Parapsychology.secret](/_secret/Philosophy/Metaphysic/Parapsychology.secret.md)
+

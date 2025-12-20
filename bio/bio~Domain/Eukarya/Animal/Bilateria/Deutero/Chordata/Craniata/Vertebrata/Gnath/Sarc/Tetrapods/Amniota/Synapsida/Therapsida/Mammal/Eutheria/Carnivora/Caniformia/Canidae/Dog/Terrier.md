@@ -24,3 +24,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20dog%20book%20-%2
 > **Terrier** (from Latin  terra 'earth') is a type of dog originally bred to hunt vermin. A terrier is a dog of any one of many breeds or landraces of the terrier type, which are typically small, wiry, game, and fearless.  There are five different groups of terrier, with each group having different shapes and sizes.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Terrier)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Terrier](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Terrier.md) 
+
+### #is_/same_as :: [Terrier.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Terrier.public.md) 
+
+### #is_/same_as :: [Terrier.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Terrier.internal.md) 
+
+### #is_/same_as :: [Terrier.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Terrier.protect.md) 
+
+### #is_/same_as :: [Terrier.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Terrier.private.md) 
+
+### #is_/same_as :: [Terrier.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Terrier.personal.md) 
+
+### #is_/same_as :: [Terrier.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Canidae/Dog/Terrier.secret.md)
+

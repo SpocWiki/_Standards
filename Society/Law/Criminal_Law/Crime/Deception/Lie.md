@@ -69,3 +69,22 @@ Unicode_character: 🤥
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lie) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lie](/_Standards/Society/Law/Criminal_Law/Crime/Deception/Lie.md) 
+
+### #is_/same_as :: [Lie.public](/_public/Society/Law/Criminal_Law/Crime/Deception/Lie.public.md) 
+
+### #is_/same_as :: [Lie.internal](/_internal/Society/Law/Criminal_Law/Crime/Deception/Lie.internal.md) 
+
+### #is_/same_as :: [Lie.protect](/_protect/Society/Law/Criminal_Law/Crime/Deception/Lie.protect.md) 
+
+### #is_/same_as :: [Lie.private](/_private/Society/Law/Criminal_Law/Crime/Deception/Lie.private.md) 
+
+### #is_/same_as :: [Lie.personal](/_personal/Society/Law/Criminal_Law/Crime/Deception/Lie.personal.md) 
+
+### #is_/same_as :: [Lie.secret](/_secret/Society/Law/Criminal_Law/Crime/Deception/Lie.secret.md)
+

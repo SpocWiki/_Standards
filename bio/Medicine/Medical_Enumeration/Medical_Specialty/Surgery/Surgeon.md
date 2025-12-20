@@ -90,3 +90,22 @@ Dewey_Decimal_Classification: "617.092"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surgeon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Surgeon](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.md) 
+
+### #is_/same_as :: [Surgeon.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.public.md) 
+
+### #is_/same_as :: [Surgeon.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.internal.md) 
+
+### #is_/same_as :: [Surgeon.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.protect.md) 
+
+### #is_/same_as :: [Surgeon.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.private.md) 
+
+### #is_/same_as :: [Surgeon.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.personal.md) 
+
+### #is_/same_as :: [Surgeon.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery/Surgeon.secret.md)
+

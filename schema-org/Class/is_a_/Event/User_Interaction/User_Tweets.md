@@ -41,17 +41,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [user_tweets](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_tweets.md) 
+### #is_/same_as :: [User_Tweets](/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.md) 
 
-### #is_/same_as :: [user_tweets.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_tweets.public.md) 
+### #is_/same_as :: [User_Tweets.public](/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.public.md) 
 
-### #is_/same_as :: [user_tweets.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_tweets.internal.md) 
+### #is_/same_as :: [User_Tweets.internal](/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.internal.md) 
 
-### #is_/same_as :: [user_tweets.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_tweets.protect.md) 
+### #is_/same_as :: [User_Tweets.protect](/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.protect.md) 
 
-### #is_/same_as :: [user_tweets.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_tweets.private.md) 
+### #is_/same_as :: [User_Tweets.private](/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.private.md) 
 
-### #is_/same_as :: [user_tweets.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_tweets.personal.md) 
+### #is_/same_as :: [User_Tweets.personal](/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.personal.md) 
 
-### #is_/same_as :: [user_tweets.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_tweets.secret.md)
+### #is_/same_as :: [User_Tweets.secret](/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.secret.md)
 

@@ -48,3 +48,22 @@ and the breakup of the old AT&T [natural monopoly](https://en.wikipedia.org/wiki
 into seven [regional Bell operating companies](https://en.wikipedia.org/wiki/Regional_Bell_operating_companies "Regional Bell operating companies") 
 and a much smaller new version of [AT&T](https://en.wikipedia.org/wiki/AT%26T "AT&T"). 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [US_anti-trust_lawsuit](/_Standards/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.md) 
+
+### #is_/same_as :: [US_anti-trust_lawsuit.public](/_public/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.public.md) 
+
+### #is_/same_as :: [US_anti-trust_lawsuit.internal](/_internal/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.internal.md) 
+
+### #is_/same_as :: [US_anti-trust_lawsuit.protect](/_protect/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.protect.md) 
+
+### #is_/same_as :: [US_anti-trust_lawsuit.private](/_private/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.private.md) 
+
+### #is_/same_as :: [US_anti-trust_lawsuit.personal](/_personal/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.personal.md) 
+
+### #is_/same_as :: [US_anti-trust_lawsuit.secret](/_secret/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.secret.md)
+

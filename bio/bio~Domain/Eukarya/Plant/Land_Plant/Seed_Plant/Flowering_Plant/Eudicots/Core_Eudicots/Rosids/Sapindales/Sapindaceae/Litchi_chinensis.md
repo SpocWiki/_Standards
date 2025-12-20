@@ -89,3 +89,22 @@ EPPO_Code: LIHCH
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lychee) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Litchi_chinensis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.md) 
+
+### #is_/same_as :: [Litchi_chinensis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.public.md) 
+
+### #is_/same_as :: [Litchi_chinensis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.internal.md) 
+
+### #is_/same_as :: [Litchi_chinensis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.protect.md) 
+
+### #is_/same_as :: [Litchi_chinensis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.private.md) 
+
+### #is_/same_as :: [Litchi_chinensis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.personal.md) 
+
+### #is_/same_as :: [Litchi_chinensis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.secret.md)
+

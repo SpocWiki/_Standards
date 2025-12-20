@@ -64,3 +64,22 @@ EAGLE_id: objtyp/lod/227
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burial) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Burial](/_Standards/bio/Metabolism/Death/Funeral/Burial.md) 
+
+### #is_/same_as :: [Burial.public](/_public/bio/Metabolism/Death/Funeral/Burial.public.md) 
+
+### #is_/same_as :: [Burial.internal](/_internal/bio/Metabolism/Death/Funeral/Burial.internal.md) 
+
+### #is_/same_as :: [Burial.protect](/_protect/bio/Metabolism/Death/Funeral/Burial.protect.md) 
+
+### #is_/same_as :: [Burial.private](/_private/bio/Metabolism/Death/Funeral/Burial.private.md) 
+
+### #is_/same_as :: [Burial.personal](/_personal/bio/Metabolism/Death/Funeral/Burial.personal.md) 
+
+### #is_/same_as :: [Burial.secret](/_secret/bio/Metabolism/Death/Funeral/Burial.secret.md)
+

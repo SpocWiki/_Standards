@@ -34,3 +34,22 @@ subclass_of:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Linguistic%20anthropology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Linguistic_Anthropology](/_Standards/Society/Anthropology/Linguistic_Anthropology.md) 
+
+### #is_/same_as :: [Linguistic_Anthropology.public](/_public/Society/Anthropology/Linguistic_Anthropology.public.md) 
+
+### #is_/same_as :: [Linguistic_Anthropology.internal](/_internal/Society/Anthropology/Linguistic_Anthropology.internal.md) 
+
+### #is_/same_as :: [Linguistic_Anthropology.protect](/_protect/Society/Anthropology/Linguistic_Anthropology.protect.md) 
+
+### #is_/same_as :: [Linguistic_Anthropology.private](/_private/Society/Anthropology/Linguistic_Anthropology.private.md) 
+
+### #is_/same_as :: [Linguistic_Anthropology.personal](/_personal/Society/Anthropology/Linguistic_Anthropology.personal.md) 
+
+### #is_/same_as :: [Linguistic_Anthropology.secret](/_secret/Society/Anthropology/Linguistic_Anthropology.secret.md)
+

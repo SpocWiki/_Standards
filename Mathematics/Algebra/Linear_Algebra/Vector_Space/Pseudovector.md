@@ -42,3 +42,22 @@ This is a [[BiVector]] which can be generalized to N-1-Blades in [[../../../Geom
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudovector) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pseudovector](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector.md) 
+
+### #is_/same_as :: [Pseudovector.public](/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector.public.md) 
+
+### #is_/same_as :: [Pseudovector.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector.internal.md) 
+
+### #is_/same_as :: [Pseudovector.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector.protect.md) 
+
+### #is_/same_as :: [Pseudovector.private](/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector.private.md) 
+
+### #is_/same_as :: [Pseudovector.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector.personal.md) 
+
+### #is_/same_as :: [Pseudovector.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector.secret.md)
+

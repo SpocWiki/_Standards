@@ -11,3 +11,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Noether's%20theorem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Noether's_Theorem](/_Standards/Science/Physics/Noether's_Theorem.md) 
+
+### #is_/same_as :: [Noether's_Theorem.public](/_public/Science/Physics/Noether's_Theorem.public.md) 
+
+### #is_/same_as :: [Noether's_Theorem.internal](/_internal/Science/Physics/Noether's_Theorem.internal.md) 
+
+### #is_/same_as :: [Noether's_Theorem.protect](/_protect/Science/Physics/Noether's_Theorem.protect.md) 
+
+### #is_/same_as :: [Noether's_Theorem.private](/_private/Science/Physics/Noether's_Theorem.private.md) 
+
+### #is_/same_as :: [Noether's_Theorem.personal](/_personal/Science/Physics/Noether's_Theorem.personal.md) 
+
+### #is_/same_as :: [Noether's_Theorem.secret](/_secret/Science/Physics/Noether's_Theorem.secret.md)
+

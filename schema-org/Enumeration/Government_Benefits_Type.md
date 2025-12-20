@@ -39,17 +39,17 @@ GovernmentBenefitsType enumerates several kinds of government benefits to suppor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Government_Benefits_Type](Government_Benefits_Type.md) 
+### #is_/same_as :: [Government_Benefits_Type](/_Standards/schema-org/Enumeration/Government_Benefits_Type.md) 
 
-### #is_/same_as :: [government_benefits_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.public.md) 
+### #is_/same_as :: [Government_Benefits_Type.public](/_public/schema-org/Enumeration/Government_Benefits_Type.public.md) 
 
-### #is_/same_as :: [government_benefits_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.internal.md) 
+### #is_/same_as :: [Government_Benefits_Type.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type.internal.md) 
 
-### #is_/same_as :: [government_benefits_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.protect.md) 
+### #is_/same_as :: [Government_Benefits_Type.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type.protect.md) 
 
-### #is_/same_as :: [government_benefits_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.private.md) 
+### #is_/same_as :: [Government_Benefits_Type.private](/_private/schema-org/Enumeration/Government_Benefits_Type.private.md) 
 
-### #is_/same_as :: [government_benefits_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.personal.md) 
+### #is_/same_as :: [Government_Benefits_Type.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type.personal.md) 
 
-### #is_/same_as :: [government_benefits_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.secret.md)
+### #is_/same_as :: [Government_Benefits_Type.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type.secret.md)
 

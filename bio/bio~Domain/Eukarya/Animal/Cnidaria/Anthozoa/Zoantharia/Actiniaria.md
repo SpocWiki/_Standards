@@ -105,7 +105,7 @@ From left to right:
 
   -------
   Copyright ::   © 2000 Ron Ates
-  -------
+  -------
 
 
 ## Confidential Links & Embeds: 

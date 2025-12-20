@@ -138,3 +138,22 @@ By <a href="//commons.wikimedia.org/wiki/File:United_States_Capitol_-_west_front
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [US_Capitol](/_Standards/Earth/Geography/Place/US_Capitol.md) 
+
+### #is_/same_as :: [US_Capitol.public](/_public/Earth/Geography/Place/US_Capitol.public.md) 
+
+### #is_/same_as :: [US_Capitol.internal](/_internal/Earth/Geography/Place/US_Capitol.internal.md) 
+
+### #is_/same_as :: [US_Capitol.protect](/_protect/Earth/Geography/Place/US_Capitol.protect.md) 
+
+### #is_/same_as :: [US_Capitol.private](/_private/Earth/Geography/Place/US_Capitol.private.md) 
+
+### #is_/same_as :: [US_Capitol.personal](/_personal/Earth/Geography/Place/US_Capitol.personal.md) 
+
+### #is_/same_as :: [US_Capitol.secret](/_secret/Earth/Geography/Place/US_Capitol.secret.md)
+

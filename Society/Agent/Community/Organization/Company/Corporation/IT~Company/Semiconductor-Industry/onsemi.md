@@ -26,17 +26,17 @@ It's Process is licensed to [[GlobalFoundries]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [onsemi](onsemi.md) 
+### #is_/same_as :: [onsemi](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.md) 
 
-### #is_/same_as :: [onsemi.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/onsemi.public.md) 
+### #is_/same_as :: [onsemi.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.public.md) 
 
-### #is_/same_as :: [onsemi.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/onsemi.internal.md) 
+### #is_/same_as :: [onsemi.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.internal.md) 
 
-### #is_/same_as :: [onsemi.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/onsemi.protect.md) 
+### #is_/same_as :: [onsemi.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.protect.md) 
 
-### #is_/same_as :: [onsemi.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/onsemi.private.md) 
+### #is_/same_as :: [onsemi.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.private.md) 
 
-### #is_/same_as :: [onsemi.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/onsemi.personal.md) 
+### #is_/same_as :: [onsemi.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.personal.md) 
 
-### #is_/same_as :: [onsemi.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/onsemi.secret.md)
+### #is_/same_as :: [onsemi.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.secret.md)
 

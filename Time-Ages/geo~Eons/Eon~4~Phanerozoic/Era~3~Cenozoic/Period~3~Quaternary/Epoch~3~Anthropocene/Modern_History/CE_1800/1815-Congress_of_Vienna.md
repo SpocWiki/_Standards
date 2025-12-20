@@ -122,3 +122,22 @@ described_at_URL: https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ereig-0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Congress%20of%20Vienna) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1815-Congress_of_Vienna](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.md) 
+
+### #is_/same_as :: [1815-Congress_of_Vienna.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.public.md) 
+
+### #is_/same_as :: [1815-Congress_of_Vienna.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.internal.md) 
+
+### #is_/same_as :: [1815-Congress_of_Vienna.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.protect.md) 
+
+### #is_/same_as :: [1815-Congress_of_Vienna.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.private.md) 
+
+### #is_/same_as :: [1815-Congress_of_Vienna.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.personal.md) 
+
+### #is_/same_as :: [1815-Congress_of_Vienna.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.secret.md)
+

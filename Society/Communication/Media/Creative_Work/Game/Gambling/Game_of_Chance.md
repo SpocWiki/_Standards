@@ -30,3 +30,22 @@ different_from: "[[_Standards/WikiData/WD~gambling,11416]]"
 > Gambling is known in nearly all human societies, even though many have passed laws restricting it. Early people used the knucklebones of sheep as dice.  Some people develop a psychological addiction to gambling and will risk food and shelter to continue.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Game%20of%20chance)
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Game_of_Chance](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.md) 
+
+### #is_/same_as :: [Game_of_Chance.public](/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.public.md) 
+
+### #is_/same_as :: [Game_of_Chance.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.internal.md) 
+
+### #is_/same_as :: [Game_of_Chance.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.protect.md) 
+
+### #is_/same_as :: [Game_of_Chance.private](/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.private.md) 
+
+### #is_/same_as :: [Game_of_Chance.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.personal.md) 
+
+### #is_/same_as :: [Game_of_Chance.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance.secret.md)
+

@@ -20,3 +20,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minor%20scale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Minor_Scale](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Minor_Scale.md) 
+
+### #is_/same_as :: [Minor_Scale.public](/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Minor_Scale.public.md) 
+
+### #is_/same_as :: [Minor_Scale.internal](/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Minor_Scale.internal.md) 
+
+### #is_/same_as :: [Minor_Scale.protect](/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Minor_Scale.protect.md) 
+
+### #is_/same_as :: [Minor_Scale.private](/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Minor_Scale.private.md) 
+
+### #is_/same_as :: [Minor_Scale.personal](/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Minor_Scale.personal.md) 
+
+### #is_/same_as :: [Minor_Scale.secret](/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Minor_Scale.secret.md)
+

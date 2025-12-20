@@ -73,17 +73,17 @@ $\ln\left(\frac{P_2}{P_1}\right) = -\frac{\Delta H_{vap}}{R} \left(\frac{1}{T_2}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boiling_Point](Boiling_Point.md) 
+### #is_/same_as :: [Boiling_Point](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Boiling_Point.md) 
 
-### #is_/same_as :: [Boiling_Point.public](/_public/Science/Physics/State_of_Matter/Boiling_Point.public.md) 
+### #is_/same_as :: [Boiling_Point.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Boiling_Point.public.md) 
 
-### #is_/same_as :: [Boiling_Point.internal](/_internal/Science/Physics/State_of_Matter/Boiling_Point.internal.md) 
+### #is_/same_as :: [Boiling_Point.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Boiling_Point.internal.md) 
 
-### #is_/same_as :: [Boiling_Point.protect](/_protect/Science/Physics/State_of_Matter/Boiling_Point.protect.md) 
+### #is_/same_as :: [Boiling_Point.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Boiling_Point.protect.md) 
 
-### #is_/same_as :: [Boiling_Point.private](/_private/Science/Physics/State_of_Matter/Boiling_Point.private.md) 
+### #is_/same_as :: [Boiling_Point.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Boiling_Point.private.md) 
 
-### #is_/same_as :: [Boiling_Point.personal](/_personal/Science/Physics/State_of_Matter/Boiling_Point.personal.md) 
+### #is_/same_as :: [Boiling_Point.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Boiling_Point.personal.md) 
 
-### #is_/same_as :: [Boiling_Point.secret](/_secret/Science/Physics/State_of_Matter/Boiling_Point.secret.md)
+### #is_/same_as :: [Boiling_Point.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Boiling_Point.secret.md)
 

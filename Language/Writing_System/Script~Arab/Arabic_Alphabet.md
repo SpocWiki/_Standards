@@ -61,17 +61,17 @@ writing_system: '[[_Standards/WikiData/WD~Arabic_script,1828555]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arabic_Alphabet](/_Standards/Language/Writing_System/Arabic_Alphabet.md) 
+### #is_/same_as :: [Arabic_Alphabet](/_Standards/Language/Writing_System/Script~Arab/Arabic_Alphabet.md) 
 
-### #is_/same_as :: [Arabic_Alphabet.public](/_public/Language/Writing_System/Arabic_Alphabet.public.md) 
+### #is_/same_as :: [Arabic_Alphabet.public](/_public/Language/Writing_System/Script~Arab/Arabic_Alphabet.public.md) 
 
-### #is_/same_as :: [Arabic_Alphabet.internal](/_internal/Language/Writing_System/Arabic_Alphabet.internal.md) 
+### #is_/same_as :: [Arabic_Alphabet.internal](/_internal/Language/Writing_System/Script~Arab/Arabic_Alphabet.internal.md) 
 
-### #is_/same_as :: [Arabic_Alphabet.protect](/_protect/Language/Writing_System/Arabic_Alphabet.protect.md) 
+### #is_/same_as :: [Arabic_Alphabet.protect](/_protect/Language/Writing_System/Script~Arab/Arabic_Alphabet.protect.md) 
 
-### #is_/same_as :: [Arabic_Alphabet.private](/_private/Language/Writing_System/Arabic_Alphabet.private.md) 
+### #is_/same_as :: [Arabic_Alphabet.private](/_private/Language/Writing_System/Script~Arab/Arabic_Alphabet.private.md) 
 
-### #is_/same_as :: [Arabic_Alphabet.personal](/_personal/Language/Writing_System/Arabic_Alphabet.personal.md) 
+### #is_/same_as :: [Arabic_Alphabet.personal](/_personal/Language/Writing_System/Script~Arab/Arabic_Alphabet.personal.md) 
 
-### #is_/same_as :: [Arabic_Alphabet.secret](/_secret/Language/Writing_System/Arabic_Alphabet.secret.md)
+### #is_/same_as :: [Arabic_Alphabet.secret](/_secret/Language/Writing_System/Script~Arab/Arabic_Alphabet.secret.md)
 

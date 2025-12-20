@@ -55,3 +55,22 @@ IPTC_NewsCode: mediatopic/20000346
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Macroeconomics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Macroeconomics](/_Standards/Society/Economics/Macroeconomics.md) 
+
+### #is_/same_as :: [Macroeconomics.public](/_public/Society/Economics/Macroeconomics.public.md) 
+
+### #is_/same_as :: [Macroeconomics.internal](/_internal/Society/Economics/Macroeconomics.internal.md) 
+
+### #is_/same_as :: [Macroeconomics.protect](/_protect/Society/Economics/Macroeconomics.protect.md) 
+
+### #is_/same_as :: [Macroeconomics.private](/_private/Society/Economics/Macroeconomics.private.md) 
+
+### #is_/same_as :: [Macroeconomics.personal](/_personal/Society/Economics/Macroeconomics.personal.md) 
+
+### #is_/same_as :: [Macroeconomics.secret](/_secret/Society/Economics/Macroeconomics.secret.md)
+

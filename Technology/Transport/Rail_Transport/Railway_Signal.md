@@ -36,3 +36,22 @@ OpenStreetMap_tag: railway=signal
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Railway%20signal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Railway_Signal](/_Standards/Technology/Transport/Rail_Transport/Railway_Signal.md) 
+
+### #is_/same_as :: [Railway_Signal.public](/_public/Technology/Transport/Rail_Transport/Railway_Signal.public.md) 
+
+### #is_/same_as :: [Railway_Signal.internal](/_internal/Technology/Transport/Rail_Transport/Railway_Signal.internal.md) 
+
+### #is_/same_as :: [Railway_Signal.protect](/_protect/Technology/Transport/Rail_Transport/Railway_Signal.protect.md) 
+
+### #is_/same_as :: [Railway_Signal.private](/_private/Technology/Transport/Rail_Transport/Railway_Signal.private.md) 
+
+### #is_/same_as :: [Railway_Signal.personal](/_personal/Technology/Transport/Rail_Transport/Railway_Signal.personal.md) 
+
+### #is_/same_as :: [Railway_Signal.secret](/_secret/Technology/Transport/Rail_Transport/Railway_Signal.secret.md)
+

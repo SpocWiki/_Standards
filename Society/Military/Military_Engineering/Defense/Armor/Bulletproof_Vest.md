@@ -27,17 +27,17 @@ Commons_category: Bulletproof vests
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bulletproof_Vest](/_Standards/Society/Military/Military_Engineering/Defense/Bulletproof_Vest.md) 
+### #is_/same_as :: [Bulletproof_Vest](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Bulletproof_Vest.md) 
 
-### #is_/same_as :: [Bulletproof_Vest.public](/_public/Society/Military/Military_Engineering/Defense/Bulletproof_Vest.public.md) 
+### #is_/same_as :: [Bulletproof_Vest.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Bulletproof_Vest.public.md) 
 
-### #is_/same_as :: [Bulletproof_Vest.internal](/_internal/Society/Military/Military_Engineering/Defense/Bulletproof_Vest.internal.md) 
+### #is_/same_as :: [Bulletproof_Vest.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Bulletproof_Vest.internal.md) 
 
-### #is_/same_as :: [Bulletproof_Vest.protect](/_protect/Society/Military/Military_Engineering/Defense/Bulletproof_Vest.protect.md) 
+### #is_/same_as :: [Bulletproof_Vest.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Bulletproof_Vest.protect.md) 
 
-### #is_/same_as :: [Bulletproof_Vest.private](/_private/Society/Military/Military_Engineering/Defense/Bulletproof_Vest.private.md) 
+### #is_/same_as :: [Bulletproof_Vest.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Bulletproof_Vest.private.md) 
 
-### #is_/same_as :: [Bulletproof_Vest.personal](/_personal/Society/Military/Military_Engineering/Defense/Bulletproof_Vest.personal.md) 
+### #is_/same_as :: [Bulletproof_Vest.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Bulletproof_Vest.personal.md) 
 
-### #is_/same_as :: [Bulletproof_Vest.secret](/_secret/Society/Military/Military_Engineering/Defense/Bulletproof_Vest.secret.md)
+### #is_/same_as :: [Bulletproof_Vest.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Bulletproof_Vest.secret.md)
 

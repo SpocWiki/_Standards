@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alwin Lopez Jarreau"
 - "Al Jarreau"
@@ -21,3 +21,21 @@ aliases:
 > and was among the performers on the 1985 charity song "We Are the World".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Al%20Jarreau)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jarreau,Al](/_Standards/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.md) 
+
+### #is_/same_as :: [Jarreau,Al.public](/_public/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.public.md) 
+
+### #is_/same_as :: [Jarreau,Al.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.internal.md) 
+
+### #is_/same_as :: [Jarreau,Al.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.protect.md) 
+
+### #is_/same_as :: [Jarreau,Al.private](/_private/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.private.md) 
+
+### #is_/same_as :: [Jarreau,Al.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.personal.md) 
+
+### #is_/same_as :: [Jarreau,Al.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.secret.md)
+

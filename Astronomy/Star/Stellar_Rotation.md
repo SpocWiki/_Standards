@@ -33,3 +33,22 @@ subclass_of: "[[_Standards/WikiData/WD~rotation_around_a_fixed_axis,2995427]]"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stellar_Rotation](/_Standards/Astronomy/Star/Stellar_Rotation.md) 
+
+### #is_/same_as :: [Stellar_Rotation.public](/_public/Astronomy/Star/Stellar_Rotation.public.md) 
+
+### #is_/same_as :: [Stellar_Rotation.internal](/_internal/Astronomy/Star/Stellar_Rotation.internal.md) 
+
+### #is_/same_as :: [Stellar_Rotation.protect](/_protect/Astronomy/Star/Stellar_Rotation.protect.md) 
+
+### #is_/same_as :: [Stellar_Rotation.private](/_private/Astronomy/Star/Stellar_Rotation.private.md) 
+
+### #is_/same_as :: [Stellar_Rotation.personal](/_personal/Astronomy/Star/Stellar_Rotation.personal.md) 
+
+### #is_/same_as :: [Stellar_Rotation.secret](/_secret/Astronomy/Star/Stellar_Rotation.secret.md)
+

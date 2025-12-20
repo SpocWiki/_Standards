@@ -104,3 +104,22 @@ Krugosvet_article_archived_: istoriya/KORESKAYA_VONA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Korean%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1950-Korean_War-1953](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.md) 
+
+### #is_/same_as :: [1950-Korean_War-1953.public](/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.public.md) 
+
+### #is_/same_as :: [1950-Korean_War-1953.internal](/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.internal.md) 
+
+### #is_/same_as :: [1950-Korean_War-1953.protect](/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.protect.md) 
+
+### #is_/same_as :: [1950-Korean_War-1953.private](/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.private.md) 
+
+### #is_/same_as :: [1950-Korean_War-1953.personal](/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.personal.md) 
+
+### #is_/same_as :: [1950-Korean_War-1953.secret](/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.secret.md)
+

@@ -107,3 +107,22 @@ official_website: https://www.oclc.org/en/dewey.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dewey%20Decimal%20Classification) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dewey_Decimal_Classification](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.md) 
+
+### #is_/same_as :: [Dewey_Decimal_Classification.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.public.md) 
+
+### #is_/same_as :: [Dewey_Decimal_Classification.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.internal.md) 
+
+### #is_/same_as :: [Dewey_Decimal_Classification.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.protect.md) 
+
+### #is_/same_as :: [Dewey_Decimal_Classification.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.private.md) 
+
+### #is_/same_as :: [Dewey_Decimal_Classification.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.personal.md) 
+
+### #is_/same_as :: [Dewey_Decimal_Classification.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.secret.md)
+

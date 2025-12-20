@@ -124,17 +124,17 @@ type: Element
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neodymium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.md) 
+### #is_/same_as :: [Neodymium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Neodymium.md) 
 
-### #is_/same_as :: [Neodymium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.public.md) 
+### #is_/same_as :: [Neodymium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Neodymium.public.md) 
 
-### #is_/same_as :: [Neodymium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.internal.md) 
+### #is_/same_as :: [Neodymium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Neodymium.internal.md) 
 
-### #is_/same_as :: [Neodymium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.protect.md) 
+### #is_/same_as :: [Neodymium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Neodymium.protect.md) 
 
-### #is_/same_as :: [Neodymium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.private.md) 
+### #is_/same_as :: [Neodymium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Neodymium.private.md) 
 
-### #is_/same_as :: [Neodymium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.personal.md) 
+### #is_/same_as :: [Neodymium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Neodymium.personal.md) 
 
-### #is_/same_as :: [Neodymium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.secret.md)
+### #is_/same_as :: [Neodymium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Neodymium.secret.md)
 

@@ -186,3 +186,22 @@ ISNI: 000000012102267X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20W.%20Bush) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bush,George_W](/_Standards/Earth/Continent/America~North/US~President/Bush,George_W.md) 
+
+### #is_/same_as :: [Bush,George_W.public](/_public/Earth/Continent/America~North/US~President/Bush,George_W.public.md) 
+
+### #is_/same_as :: [Bush,George_W.internal](/_internal/Earth/Continent/America~North/US~President/Bush,George_W.internal.md) 
+
+### #is_/same_as :: [Bush,George_W.protect](/_protect/Earth/Continent/America~North/US~President/Bush,George_W.protect.md) 
+
+### #is_/same_as :: [Bush,George_W.private](/_private/Earth/Continent/America~North/US~President/Bush,George_W.private.md) 
+
+### #is_/same_as :: [Bush,George_W.personal](/_personal/Earth/Continent/America~North/US~President/Bush,George_W.personal.md) 
+
+### #is_/same_as :: [Bush,George_W.secret](/_secret/Earth/Continent/America~North/US~President/Bush,George_W.secret.md)
+

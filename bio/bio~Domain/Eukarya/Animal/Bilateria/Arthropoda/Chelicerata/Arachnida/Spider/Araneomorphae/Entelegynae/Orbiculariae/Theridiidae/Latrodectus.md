@@ -271,7 +271,7 @@ sacrifice. Behav. Ecol. 15:785-792.
   Sex ::                Female
   Life Cycle Stage ::     Adult
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
-  ---------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

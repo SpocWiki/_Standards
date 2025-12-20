@@ -23,3 +23,22 @@ Commons_category: Science and technology studies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Science%20and%20technology%20studies) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Science_and_Technology_Studies](/_Standards/Society/Anthropology/Sociology/Science_and_Technology_Studies.md) 
+
+### #is_/same_as :: [Science_and_Technology_Studies.public](/_public/Society/Anthropology/Sociology/Science_and_Technology_Studies.public.md) 
+
+### #is_/same_as :: [Science_and_Technology_Studies.internal](/_internal/Society/Anthropology/Sociology/Science_and_Technology_Studies.internal.md) 
+
+### #is_/same_as :: [Science_and_Technology_Studies.protect](/_protect/Society/Anthropology/Sociology/Science_and_Technology_Studies.protect.md) 
+
+### #is_/same_as :: [Science_and_Technology_Studies.private](/_private/Society/Anthropology/Sociology/Science_and_Technology_Studies.private.md) 
+
+### #is_/same_as :: [Science_and_Technology_Studies.personal](/_personal/Society/Anthropology/Sociology/Science_and_Technology_Studies.personal.md) 
+
+### #is_/same_as :: [Science_and_Technology_Studies.secret](/_secret/Society/Anthropology/Sociology/Science_and_Technology_Studies.secret.md)
+

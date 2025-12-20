@@ -48,3 +48,22 @@ Krugosvet_article: istoriya/ETIKET.html
 > as well as provide varying perspectives.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Etiquette) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Etiquette](/_Standards/Society/Culture/Etiquette.md) 
+
+### #is_/same_as :: [Etiquette.public](/_public/Society/Culture/Etiquette.public.md) 
+
+### #is_/same_as :: [Etiquette.internal](/_internal/Society/Culture/Etiquette.internal.md) 
+
+### #is_/same_as :: [Etiquette.protect](/_protect/Society/Culture/Etiquette.protect.md) 
+
+### #is_/same_as :: [Etiquette.private](/_private/Society/Culture/Etiquette.private.md) 
+
+### #is_/same_as :: [Etiquette.personal](/_personal/Society/Culture/Etiquette.personal.md) 
+
+### #is_/same_as :: [Etiquette.secret](/_secret/Society/Culture/Etiquette.secret.md)
+

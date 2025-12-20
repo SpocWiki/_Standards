@@ -51,3 +51,22 @@ Commons_category: Regression analysis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Regression%20analysis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Regression_Analysis](/_Standards/Mathematics/Statistics/Correlation/Regression_Analysis.md) 
+
+### #is_/same_as :: [Regression_Analysis.public](/_public/Mathematics/Statistics/Correlation/Regression_Analysis.public.md) 
+
+### #is_/same_as :: [Regression_Analysis.internal](/_internal/Mathematics/Statistics/Correlation/Regression_Analysis.internal.md) 
+
+### #is_/same_as :: [Regression_Analysis.protect](/_protect/Mathematics/Statistics/Correlation/Regression_Analysis.protect.md) 
+
+### #is_/same_as :: [Regression_Analysis.private](/_private/Mathematics/Statistics/Correlation/Regression_Analysis.private.md) 
+
+### #is_/same_as :: [Regression_Analysis.personal](/_personal/Mathematics/Statistics/Correlation/Regression_Analysis.personal.md) 
+
+### #is_/same_as :: [Regression_Analysis.secret](/_secret/Mathematics/Statistics/Correlation/Regression_Analysis.secret.md)
+

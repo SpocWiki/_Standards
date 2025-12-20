@@ -58,3 +58,22 @@ Commons_category: Zithers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zither) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zither](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.md) 
+
+### #is_/same_as :: [Zither.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.public.md) 
+
+### #is_/same_as :: [Zither.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.internal.md) 
+
+### #is_/same_as :: [Zither.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.protect.md) 
+
+### #is_/same_as :: [Zither.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.private.md) 
+
+### #is_/same_as :: [Zither.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.personal.md) 
+
+### #is_/same_as :: [Zither.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.secret.md)
+

@@ -39,17 +39,17 @@ maintained_by_WikiProject:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diode](/_Standards/Technology/Electronics/Electronic_Component/Diode.md) 
+### #is_/same_as :: [Diode](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Diode.md) 
 
-### #is_/same_as :: [Diode.public](/_public/Technology/Electronics/Electronic_Component/Diode.public.md) 
+### #is_/same_as :: [Diode.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Diode.public.md) 
 
-### #is_/same_as :: [Diode.internal](/_internal/Technology/Electronics/Electronic_Component/Diode.internal.md) 
+### #is_/same_as :: [Diode.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Diode.internal.md) 
 
-### #is_/same_as :: [Diode.protect](/_protect/Technology/Electronics/Electronic_Component/Diode.protect.md) 
+### #is_/same_as :: [Diode.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Diode.protect.md) 
 
-### #is_/same_as :: [Diode.private](/_private/Technology/Electronics/Electronic_Component/Diode.private.md) 
+### #is_/same_as :: [Diode.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Diode.private.md) 
 
-### #is_/same_as :: [Diode.personal](/_personal/Technology/Electronics/Electronic_Component/Diode.personal.md) 
+### #is_/same_as :: [Diode.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Diode.personal.md) 
 
-### #is_/same_as :: [Diode.secret](/_secret/Technology/Electronics/Electronic_Component/Diode.secret.md)
+### #is_/same_as :: [Diode.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Diode.secret.md)
 

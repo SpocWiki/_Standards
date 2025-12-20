@@ -20,17 +20,17 @@ following the [election of socialist François Mitterrand to the presidency](ht
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thomson_Semiconducteurs](Thomson_Semiconducteurs.md) 
+### #is_/same_as :: [Thomson_Semiconducteurs](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.md) 
 
-### #is_/same_as :: [Thomson_Semiconducteurs.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.public.md) 
+### #is_/same_as :: [Thomson_Semiconducteurs.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.public.md) 
 
-### #is_/same_as :: [Thomson_Semiconducteurs.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.internal.md) 
+### #is_/same_as :: [Thomson_Semiconducteurs.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.internal.md) 
 
-### #is_/same_as :: [Thomson_Semiconducteurs.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.protect.md) 
+### #is_/same_as :: [Thomson_Semiconducteurs.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.protect.md) 
 
-### #is_/same_as :: [Thomson_Semiconducteurs.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.private.md) 
+### #is_/same_as :: [Thomson_Semiconducteurs.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.private.md) 
 
-### #is_/same_as :: [Thomson_Semiconducteurs.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.personal.md) 
+### #is_/same_as :: [Thomson_Semiconducteurs.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.personal.md) 
 
-### #is_/same_as :: [Thomson_Semiconducteurs.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.secret.md)
+### #is_/same_as :: [Thomson_Semiconducteurs.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.secret.md)
 

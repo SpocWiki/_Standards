@@ -143,3 +143,22 @@ name_in_native_language: Gustavo Robert Kirchhoff
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gustav%20Kirchhoff) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kirchhoff,Gustav](/_Standards/Science/Physics/Physicist/Kirchhoff,Gustav.md) 
+
+### #is_/same_as :: [Kirchhoff,Gustav.public](/_public/Science/Physics/Physicist/Kirchhoff,Gustav.public.md) 
+
+### #is_/same_as :: [Kirchhoff,Gustav.internal](/_internal/Science/Physics/Physicist/Kirchhoff,Gustav.internal.md) 
+
+### #is_/same_as :: [Kirchhoff,Gustav.protect](/_protect/Science/Physics/Physicist/Kirchhoff,Gustav.protect.md) 
+
+### #is_/same_as :: [Kirchhoff,Gustav.private](/_private/Science/Physics/Physicist/Kirchhoff,Gustav.private.md) 
+
+### #is_/same_as :: [Kirchhoff,Gustav.personal](/_personal/Science/Physics/Physicist/Kirchhoff,Gustav.personal.md) 
+
+### #is_/same_as :: [Kirchhoff,Gustav.secret](/_secret/Science/Physics/Physicist/Kirchhoff,Gustav.secret.md)
+

@@ -27,3 +27,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dennis%20Ritchie)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ritchie,Dennis](/_Standards/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.md) 
+
+### #is_/same_as :: [Ritchie,Dennis.public](/_public/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.public.md) 
+
+### #is_/same_as :: [Ritchie,Dennis.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.internal.md) 
+
+### #is_/same_as :: [Ritchie,Dennis.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.protect.md) 
+
+### #is_/same_as :: [Ritchie,Dennis.private](/_private/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.private.md) 
+
+### #is_/same_as :: [Ritchie,Dennis.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.personal.md) 
+
+### #is_/same_as :: [Ritchie,Dennis.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.secret.md)
+

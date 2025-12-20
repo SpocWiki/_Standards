@@ -31,3 +31,22 @@ has_id_wikidata: Q5283
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diamond) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diamond](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Diamond.md) 
+
+### #is_/same_as :: [Diamond.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Diamond.public.md) 
+
+### #is_/same_as :: [Diamond.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Diamond.internal.md) 
+
+### #is_/same_as :: [Diamond.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Diamond.protect.md) 
+
+### #is_/same_as :: [Diamond.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Diamond.private.md) 
+
+### #is_/same_as :: [Diamond.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Diamond.personal.md) 
+
+### #is_/same_as :: [Diamond.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Diamond.secret.md)
+

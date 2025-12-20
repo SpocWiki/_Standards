@@ -40,17 +40,17 @@ OrderStatus representing that an order has been returned.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Returned](Order_Returned.md) 
+### #is_/same_as :: [Order_Returned](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.md) 
 
-### #is_/same_as :: [order_returned.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.public.md) 
+### #is_/same_as :: [Order_Returned.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.public.md) 
 
-### #is_/same_as :: [order_returned.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.internal.md) 
+### #is_/same_as :: [Order_Returned.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.internal.md) 
 
-### #is_/same_as :: [order_returned.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.protect.md) 
+### #is_/same_as :: [Order_Returned.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.protect.md) 
 
-### #is_/same_as :: [order_returned.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.private.md) 
+### #is_/same_as :: [Order_Returned.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.private.md) 
 
-### #is_/same_as :: [order_returned.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.personal.md) 
+### #is_/same_as :: [Order_Returned.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.personal.md) 
 
-### #is_/same_as :: [order_returned.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.secret.md)
+### #is_/same_as :: [Order_Returned.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.secret.md)
 

@@ -154,3 +154,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chronic%20obstructive%20pulmonary%20disease) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease)](/_Standards/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).md) 
+
+### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).public](/_public/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).public.md) 
+
+### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).internal](/_internal/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).internal.md) 
+
+### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).protect](/_protect/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).protect.md) 
+
+### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).private](/_private/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).private.md) 
+
+### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).personal](/_personal/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).personal.md) 
+
+### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).secret](/_secret/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).secret.md)
+

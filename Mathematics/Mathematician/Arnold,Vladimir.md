@@ -202,3 +202,22 @@ ISNI: "0000000108983070"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Arnold)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arnold,Vladimir](/_Standards/Mathematics/Mathematician/Arnold,Vladimir.md) 
+
+### #is_/same_as :: [Arnold,Vladimir.public](/_public/Mathematics/Mathematician/Arnold,Vladimir.public.md) 
+
+### #is_/same_as :: [Arnold,Vladimir.internal](/_internal/Mathematics/Mathematician/Arnold,Vladimir.internal.md) 
+
+### #is_/same_as :: [Arnold,Vladimir.protect](/_protect/Mathematics/Mathematician/Arnold,Vladimir.protect.md) 
+
+### #is_/same_as :: [Arnold,Vladimir.private](/_private/Mathematics/Mathematician/Arnold,Vladimir.private.md) 
+
+### #is_/same_as :: [Arnold,Vladimir.personal](/_personal/Mathematics/Mathematician/Arnold,Vladimir.personal.md) 
+
+### #is_/same_as :: [Arnold,Vladimir.secret](/_secret/Mathematics/Mathematician/Arnold,Vladimir.secret.md)
+

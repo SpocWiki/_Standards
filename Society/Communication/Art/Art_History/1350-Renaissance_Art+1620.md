@@ -17,3 +17,22 @@ has_id_wikidata: Q1133779
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Renaissance%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1350-Renaissance_Art+1620](/_Standards/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.md) 
+
+### #is_/same_as :: [1350-Renaissance_Art+1620.public](/_public/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.public.md) 
+
+### #is_/same_as :: [1350-Renaissance_Art+1620.internal](/_internal/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.internal.md) 
+
+### #is_/same_as :: [1350-Renaissance_Art+1620.protect](/_protect/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.protect.md) 
+
+### #is_/same_as :: [1350-Renaissance_Art+1620.private](/_private/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.private.md) 
+
+### #is_/same_as :: [1350-Renaissance_Art+1620.personal](/_personal/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.personal.md) 
+
+### #is_/same_as :: [1350-Renaissance_Art+1620.secret](/_secret/Society/Communication/Art/Art_History/1350-Renaissance_Art+1620.secret.md)
+

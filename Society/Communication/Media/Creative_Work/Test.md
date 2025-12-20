@@ -68,3 +68,22 @@ Colon_Classification: T:551
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Exam) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Test](/_Standards/Society/Communication/Media/Creative_Work/Test.md) 
+
+### #is_/same_as :: [Test.public](/_public/Society/Communication/Media/Creative_Work/Test.public.md) 
+
+### #is_/same_as :: [Test.internal](/_internal/Society/Communication/Media/Creative_Work/Test.internal.md) 
+
+### #is_/same_as :: [Test.protect](/_protect/Society/Communication/Media/Creative_Work/Test.protect.md) 
+
+### #is_/same_as :: [Test.private](/_private/Society/Communication/Media/Creative_Work/Test.private.md) 
+
+### #is_/same_as :: [Test.personal](/_personal/Society/Communication/Media/Creative_Work/Test.personal.md) 
+
+### #is_/same_as :: [Test.secret](/_secret/Society/Communication/Media/Creative_Work/Test.secret.md)
+

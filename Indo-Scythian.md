@@ -51,3 +51,22 @@ has_id_wikidata: Q240123
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indo-Scythians) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Indo-Scythian](/_Standards/Indo-Scythian.md) 
+
+### #is_/same_as :: [Indo-Scythian.public](/_public/Indo-Scythian.public.md) 
+
+### #is_/same_as :: [Indo-Scythian.internal](/_internal/Indo-Scythian.internal.md) 
+
+### #is_/same_as :: [Indo-Scythian.protect](/_protect/Indo-Scythian.protect.md) 
+
+### #is_/same_as :: [Indo-Scythian.private](/_private/Indo-Scythian.private.md) 
+
+### #is_/same_as :: [Indo-Scythian.personal](/_personal/Indo-Scythian.personal.md) 
+
+### #is_/same_as :: [Indo-Scythian.secret](/_secret/Indo-Scythian.secret.md)
+

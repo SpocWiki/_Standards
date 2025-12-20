@@ -38,3 +38,22 @@ IPTC_NewsCode: mediatopic/20000090
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Embezzlement) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Embezzlement](/_Standards/Society/Agent/Community/Organization/Business/Embezzlement.md) 
+
+### #is_/same_as :: [Embezzlement.public](/_public/Society/Agent/Community/Organization/Business/Embezzlement.public.md) 
+
+### #is_/same_as :: [Embezzlement.internal](/_internal/Society/Agent/Community/Organization/Business/Embezzlement.internal.md) 
+
+### #is_/same_as :: [Embezzlement.protect](/_protect/Society/Agent/Community/Organization/Business/Embezzlement.protect.md) 
+
+### #is_/same_as :: [Embezzlement.private](/_private/Society/Agent/Community/Organization/Business/Embezzlement.private.md) 
+
+### #is_/same_as :: [Embezzlement.personal](/_personal/Society/Agent/Community/Organization/Business/Embezzlement.personal.md) 
+
+### #is_/same_as :: [Embezzlement.secret](/_secret/Society/Agent/Community/Organization/Business/Embezzlement.secret.md)
+

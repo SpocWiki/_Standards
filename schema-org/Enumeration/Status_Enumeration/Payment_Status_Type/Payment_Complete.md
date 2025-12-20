@@ -40,17 +40,17 @@ The payment has been received and processed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Complete](Payment_Complete.md) 
+### #is_/same_as :: [Payment_Complete](/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.md) 
 
-### #is_/same_as :: [payment_complete.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.public.md) 
+### #is_/same_as :: [Payment_Complete.public](/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.public.md) 
 
-### #is_/same_as :: [payment_complete.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.internal.md) 
+### #is_/same_as :: [Payment_Complete.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.internal.md) 
 
-### #is_/same_as :: [payment_complete.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.protect.md) 
+### #is_/same_as :: [Payment_Complete.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.protect.md) 
 
-### #is_/same_as :: [payment_complete.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.private.md) 
+### #is_/same_as :: [Payment_Complete.private](/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.private.md) 
 
-### #is_/same_as :: [payment_complete.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.personal.md) 
+### #is_/same_as :: [Payment_Complete.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.personal.md) 
 
-### #is_/same_as :: [payment_complete.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.secret.md)
+### #is_/same_as :: [Payment_Complete.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Complete.secret.md)
 

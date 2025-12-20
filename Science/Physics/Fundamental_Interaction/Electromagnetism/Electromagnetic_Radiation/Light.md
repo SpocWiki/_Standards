@@ -63,17 +63,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Light](Light.md) 
+### #is_/same_as :: [Light](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light.md) 
 
-### #is_/same_as :: [Light.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light.public.md) 
+### #is_/same_as :: [Light.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light.public.md) 
 
-### #is_/same_as :: [Light.internal](/_internal/Science/Physics/Electricity/Electromagnetic_Radiation/Light.internal.md) 
+### #is_/same_as :: [Light.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light.internal.md) 
 
-### #is_/same_as :: [Light.protect](/_protect/Science/Physics/Electricity/Electromagnetic_Radiation/Light.protect.md) 
+### #is_/same_as :: [Light.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light.protect.md) 
 
-### #is_/same_as :: [Light.private](/_private/Science/Physics/Electricity/Electromagnetic_Radiation/Light.private.md) 
+### #is_/same_as :: [Light.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light.private.md) 
 
-### #is_/same_as :: [Light.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation/Light.personal.md) 
+### #is_/same_as :: [Light.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light.personal.md) 
 
-### #is_/same_as :: [Light.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation/Light.secret.md)
+### #is_/same_as :: [Light.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light.secret.md)
 

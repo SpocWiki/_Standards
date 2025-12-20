@@ -74,3 +74,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/BITOVA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Home%20appliance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Home_Appliance](/_Standards/Technology/Tool/Home_Appliance.md) 
+
+### #is_/same_as :: [Home_Appliance.public](/_public/Technology/Tool/Home_Appliance.public.md) 
+
+### #is_/same_as :: [Home_Appliance.internal](/_internal/Technology/Tool/Home_Appliance.internal.md) 
+
+### #is_/same_as :: [Home_Appliance.protect](/_protect/Technology/Tool/Home_Appliance.protect.md) 
+
+### #is_/same_as :: [Home_Appliance.private](/_private/Technology/Tool/Home_Appliance.private.md) 
+
+### #is_/same_as :: [Home_Appliance.personal](/_personal/Technology/Tool/Home_Appliance.personal.md) 
+
+### #is_/same_as :: [Home_Appliance.secret](/_secret/Technology/Tool/Home_Appliance.secret.md)
+

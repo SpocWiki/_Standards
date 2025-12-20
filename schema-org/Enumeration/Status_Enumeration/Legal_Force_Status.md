@@ -39,17 +39,17 @@ A list of possible statuses for the legal force of a legislation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legal_Force_Status](Legal_Force_Status.md) 
+### #is_/same_as :: [Legal_Force_Status](/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.md) 
 
-### #is_/same_as :: [legal_force_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.public.md) 
+### #is_/same_as :: [Legal_Force_Status.public](/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.public.md) 
 
-### #is_/same_as :: [legal_force_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.internal.md) 
+### #is_/same_as :: [Legal_Force_Status.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.internal.md) 
 
-### #is_/same_as :: [legal_force_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.protect.md) 
+### #is_/same_as :: [Legal_Force_Status.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.protect.md) 
 
-### #is_/same_as :: [legal_force_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.private.md) 
+### #is_/same_as :: [Legal_Force_Status.private](/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.private.md) 
 
-### #is_/same_as :: [legal_force_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.personal.md) 
+### #is_/same_as :: [Legal_Force_Status.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.personal.md) 
 
-### #is_/same_as :: [legal_force_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.secret.md)
+### #is_/same_as :: [Legal_Force_Status.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.secret.md)
 

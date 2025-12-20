@@ -36,3 +36,22 @@ Commons_category: Hotspot volcanoes
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hotspot(Geology)](/_Standards/Earth/Geology/Hotspot(Geology).md) 
+
+### #is_/same_as :: [Hotspot(Geology).public](/_public/Earth/Geology/Hotspot(Geology).public.md) 
+
+### #is_/same_as :: [Hotspot(Geology).internal](/_internal/Earth/Geology/Hotspot(Geology).internal.md) 
+
+### #is_/same_as :: [Hotspot(Geology).protect](/_protect/Earth/Geology/Hotspot(Geology).protect.md) 
+
+### #is_/same_as :: [Hotspot(Geology).private](/_private/Earth/Geology/Hotspot(Geology).private.md) 
+
+### #is_/same_as :: [Hotspot(Geology).personal](/_personal/Earth/Geology/Hotspot(Geology).personal.md) 
+
+### #is_/same_as :: [Hotspot(Geology).secret](/_secret/Earth/Geology/Hotspot(Geology).secret.md)
+

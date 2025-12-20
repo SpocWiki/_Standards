@@ -39,17 +39,17 @@ A table on a Web page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Table](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.md) 
+### #is_/same_as :: [Table(HTML)](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).md) 
 
-### #is_/same_as :: [Table.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.public.md) 
+### #is_/same_as :: [Table(HTML).public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).public.md) 
 
-### #is_/same_as :: [Table.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.internal.md) 
+### #is_/same_as :: [Table(HTML).internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).internal.md) 
 
-### #is_/same_as :: [Table.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.protect.md) 
+### #is_/same_as :: [Table(HTML).protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).protect.md) 
 
-### #is_/same_as :: [Table.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.private.md) 
+### #is_/same_as :: [Table(HTML).private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).private.md) 
 
-### #is_/same_as :: [Table.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.personal.md) 
+### #is_/same_as :: [Table(HTML).personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).personal.md) 
 
-### #is_/same_as :: [Table.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.secret.md)
+### #is_/same_as :: [Table(HTML).secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).secret.md)
 

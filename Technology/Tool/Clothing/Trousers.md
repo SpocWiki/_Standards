@@ -51,3 +51,22 @@ hashtag: pants
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trousers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trousers](/_Standards/Technology/Tool/Clothing/Trousers.md) 
+
+### #is_/same_as :: [Trousers.public](/_public/Technology/Tool/Clothing/Trousers.public.md) 
+
+### #is_/same_as :: [Trousers.internal](/_internal/Technology/Tool/Clothing/Trousers.internal.md) 
+
+### #is_/same_as :: [Trousers.protect](/_protect/Technology/Tool/Clothing/Trousers.protect.md) 
+
+### #is_/same_as :: [Trousers.private](/_private/Technology/Tool/Clothing/Trousers.private.md) 
+
+### #is_/same_as :: [Trousers.personal](/_personal/Technology/Tool/Clothing/Trousers.personal.md) 
+
+### #is_/same_as :: [Trousers.secret](/_secret/Technology/Tool/Clothing/Trousers.secret.md)
+

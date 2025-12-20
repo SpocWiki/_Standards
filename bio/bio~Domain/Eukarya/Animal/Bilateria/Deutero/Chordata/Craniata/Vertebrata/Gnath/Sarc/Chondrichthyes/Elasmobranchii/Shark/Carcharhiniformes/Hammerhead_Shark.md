@@ -58,3 +58,22 @@ taxon_name: Sphyrnidae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hammerhead%20shark) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hammerhead_Shark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.md) 
+
+### #is_/same_as :: [Hammerhead_Shark.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.public.md) 
+
+### #is_/same_as :: [Hammerhead_Shark.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.internal.md) 
+
+### #is_/same_as :: [Hammerhead_Shark.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.protect.md) 
+
+### #is_/same_as :: [Hammerhead_Shark.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.private.md) 
+
+### #is_/same_as :: [Hammerhead_Shark.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.personal.md) 
+
+### #is_/same_as :: [Hammerhead_Shark.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.secret.md)
+

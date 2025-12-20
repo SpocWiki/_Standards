@@ -61,3 +61,22 @@ degrading them from the [[../Cavalry|Cavalry]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Infantry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Infantry](/_Standards/Society/Military/Military_Organization/Army/Infantry.md) 
+
+### #is_/same_as :: [Infantry.public](/_public/Society/Military/Military_Organization/Army/Infantry.public.md) 
+
+### #is_/same_as :: [Infantry.internal](/_internal/Society/Military/Military_Organization/Army/Infantry.internal.md) 
+
+### #is_/same_as :: [Infantry.protect](/_protect/Society/Military/Military_Organization/Army/Infantry.protect.md) 
+
+### #is_/same_as :: [Infantry.private](/_private/Society/Military/Military_Organization/Army/Infantry.private.md) 
+
+### #is_/same_as :: [Infantry.personal](/_personal/Society/Military/Military_Organization/Army/Infantry.personal.md) 
+
+### #is_/same_as :: [Infantry.secret](/_secret/Society/Military/Military_Organization/Army/Infantry.secret.md)
+

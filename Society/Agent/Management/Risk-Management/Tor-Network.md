@@ -22,3 +22,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tor%20(network)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tor-Network](/_Standards/Society/Agent/Management/Risk-Management/Tor-Network.md) 
+
+### #is_/same_as :: [Tor-Network.public](/_public/Society/Agent/Management/Risk-Management/Tor-Network.public.md) 
+
+### #is_/same_as :: [Tor-Network.internal](/_internal/Society/Agent/Management/Risk-Management/Tor-Network.internal.md) 
+
+### #is_/same_as :: [Tor-Network.protect](/_protect/Society/Agent/Management/Risk-Management/Tor-Network.protect.md) 
+
+### #is_/same_as :: [Tor-Network.private](/_private/Society/Agent/Management/Risk-Management/Tor-Network.private.md) 
+
+### #is_/same_as :: [Tor-Network.personal](/_personal/Society/Agent/Management/Risk-Management/Tor-Network.personal.md) 
+
+### #is_/same_as :: [Tor-Network.secret](/_secret/Society/Agent/Management/Risk-Management/Tor-Network.secret.md)
+

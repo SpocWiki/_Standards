@@ -89,3 +89,22 @@ birth_name: Gustav Theodor Fechner
 > which became known as the Weber–Fechner law.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gustav%20Fechner) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gustav_Fechner](/_Standards/bio/Psychology/Psychologist/Gustav_Fechner.md) 
+
+### #is_/same_as :: [Gustav_Fechner.public](/_public/bio/Psychology/Psychologist/Gustav_Fechner.public.md) 
+
+### #is_/same_as :: [Gustav_Fechner.internal](/_internal/bio/Psychology/Psychologist/Gustav_Fechner.internal.md) 
+
+### #is_/same_as :: [Gustav_Fechner.protect](/_protect/bio/Psychology/Psychologist/Gustav_Fechner.protect.md) 
+
+### #is_/same_as :: [Gustav_Fechner.private](/_private/bio/Psychology/Psychologist/Gustav_Fechner.private.md) 
+
+### #is_/same_as :: [Gustav_Fechner.personal](/_personal/bio/Psychology/Psychologist/Gustav_Fechner.personal.md) 
+
+### #is_/same_as :: [Gustav_Fechner.secret](/_secret/bio/Psychology/Psychologist/Gustav_Fechner.secret.md)
+

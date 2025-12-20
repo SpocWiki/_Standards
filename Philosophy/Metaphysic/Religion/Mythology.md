@@ -72,3 +72,22 @@ Colon_Classification: Q:1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Myth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology.md) 
+
+### #is_/same_as :: [Mythology.public](/_public/Philosophy/Metaphysic/Religion/Mythology.public.md) 
+
+### #is_/same_as :: [Mythology.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology.internal.md) 
+
+### #is_/same_as :: [Mythology.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology.protect.md) 
+
+### #is_/same_as :: [Mythology.private](/_private/Philosophy/Metaphysic/Religion/Mythology.private.md) 
+
+### #is_/same_as :: [Mythology.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology.personal.md) 
+
+### #is_/same_as :: [Mythology.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology.secret.md)
+

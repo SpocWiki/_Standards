@@ -81,3 +81,22 @@ IEV_number: 103-10-10
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wavelength) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wavelength](/_Standards/Dimension/Linear_Dimension/Distance/Wavelength.md) 
+
+### #is_/same_as :: [Wavelength.public](/_public/Dimension/Linear_Dimension/Distance/Wavelength.public.md) 
+
+### #is_/same_as :: [Wavelength.internal](/_internal/Dimension/Linear_Dimension/Distance/Wavelength.internal.md) 
+
+### #is_/same_as :: [Wavelength.protect](/_protect/Dimension/Linear_Dimension/Distance/Wavelength.protect.md) 
+
+### #is_/same_as :: [Wavelength.private](/_private/Dimension/Linear_Dimension/Distance/Wavelength.private.md) 
+
+### #is_/same_as :: [Wavelength.personal](/_personal/Dimension/Linear_Dimension/Distance/Wavelength.personal.md) 
+
+### #is_/same_as :: [Wavelength.secret](/_secret/Dimension/Linear_Dimension/Distance/Wavelength.secret.md)
+

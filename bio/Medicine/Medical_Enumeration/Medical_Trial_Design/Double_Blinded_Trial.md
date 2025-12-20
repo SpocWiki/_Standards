@@ -40,17 +40,17 @@ A trial design in which neither the researcher nor the patient knows the details
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [double_blinded_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.md) 
+### #is_/same_as :: [Double_Blinded_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.md) 
 
-### #is_/same_as :: [double_blinded_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.public.md) 
+### #is_/same_as :: [Double_Blinded_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.public.md) 
 
-### #is_/same_as :: [double_blinded_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.internal.md) 
+### #is_/same_as :: [Double_Blinded_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.internal.md) 
 
-### #is_/same_as :: [double_blinded_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.protect.md) 
+### #is_/same_as :: [Double_Blinded_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.protect.md) 
 
-### #is_/same_as :: [double_blinded_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.private.md) 
+### #is_/same_as :: [Double_Blinded_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.private.md) 
 
-### #is_/same_as :: [double_blinded_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.personal.md) 
+### #is_/same_as :: [Double_Blinded_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.personal.md) 
 
-### #is_/same_as :: [double_blinded_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.secret.md)
+### #is_/same_as :: [Double_Blinded_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Double_Blinded_Trial.secret.md)
 

@@ -44,3 +44,22 @@ Commons_category: Holism
 > [Wikipedia](https://en.wikipedia.org/wiki/Holism) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holism](/_Standards/Philosophy/Holism.md) 
+
+### #is_/same_as :: [Holism.public](/_public/Philosophy/Holism.public.md) 
+
+### #is_/same_as :: [Holism.internal](/_internal/Philosophy/Holism.internal.md) 
+
+### #is_/same_as :: [Holism.protect](/_protect/Philosophy/Holism.protect.md) 
+
+### #is_/same_as :: [Holism.private](/_private/Philosophy/Holism.private.md) 
+
+### #is_/same_as :: [Holism.personal](/_personal/Philosophy/Holism.personal.md) 
+
+### #is_/same_as :: [Holism.secret](/_secret/Philosophy/Holism.secret.md)
+

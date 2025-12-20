@@ -127,17 +127,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ford,Henry](Ford,Henry.md) 
+### #is_/same_as :: [Ford,Henry](/_Standards/Society/Agent/Community/Organization/Business-Person/Ford,Henry.md) 
 
-### #is_/same_as :: [Ford,Henry.public](/_public/Society/Economics/Business/Business-Person/Ford,Henry.public.md) 
+### #is_/same_as :: [Ford,Henry.public](/_public/Society/Agent/Community/Organization/Business-Person/Ford,Henry.public.md) 
 
-### #is_/same_as :: [Ford,Henry.internal](/_internal/Society/Economics/Business/Business-Person/Ford,Henry.internal.md) 
+### #is_/same_as :: [Ford,Henry.internal](/_internal/Society/Agent/Community/Organization/Business-Person/Ford,Henry.internal.md) 
 
-### #is_/same_as :: [Ford,Henry.protect](/_protect/Society/Economics/Business/Business-Person/Ford,Henry.protect.md) 
+### #is_/same_as :: [Ford,Henry.protect](/_protect/Society/Agent/Community/Organization/Business-Person/Ford,Henry.protect.md) 
 
-### #is_/same_as :: [Ford,Henry.private](/_private/Society/Economics/Business/Business-Person/Ford,Henry.private.md) 
+### #is_/same_as :: [Ford,Henry.private](/_private/Society/Agent/Community/Organization/Business-Person/Ford,Henry.private.md) 
 
-### #is_/same_as :: [Ford,Henry.personal](/_personal/Society/Economics/Business/Business-Person/Ford,Henry.personal.md) 
+### #is_/same_as :: [Ford,Henry.personal](/_personal/Society/Agent/Community/Organization/Business-Person/Ford,Henry.personal.md) 
 
-### #is_/same_as :: [Ford,Henry.secret](/_secret/Society/Economics/Business/Business-Person/Ford,Henry.secret.md)
+### #is_/same_as :: [Ford,Henry.secret](/_secret/Society/Agent/Community/Organization/Business-Person/Ford,Henry.secret.md)
 

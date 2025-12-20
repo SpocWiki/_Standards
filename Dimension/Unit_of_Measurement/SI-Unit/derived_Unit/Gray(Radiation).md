@@ -57,3 +57,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gray%20(unit)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gray(Radiation)](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Gray(Radiation).md) 
+
+### #is_/same_as :: [Gray(Radiation).public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Gray(Radiation).public.md) 
+
+### #is_/same_as :: [Gray(Radiation).internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Gray(Radiation).internal.md) 
+
+### #is_/same_as :: [Gray(Radiation).protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Gray(Radiation).protect.md) 
+
+### #is_/same_as :: [Gray(Radiation).private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Gray(Radiation).private.md) 
+
+### #is_/same_as :: [Gray(Radiation).personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Gray(Radiation).personal.md) 
+
+### #is_/same_as :: [Gray(Radiation).secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Gray(Radiation).secret.md)
+

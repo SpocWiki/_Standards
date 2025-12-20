@@ -92,3 +92,22 @@ Commons_category: Egyptian hieroglyphs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Egyptian%20hieroglyphs) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Egyptian_Hieroglyphs](/_Standards/Language/Writing_System/Egyptian_Hieroglyphs.md) 
+
+### #is_/same_as :: [Egyptian_Hieroglyphs.public](/_public/Language/Writing_System/Egyptian_Hieroglyphs.public.md) 
+
+### #is_/same_as :: [Egyptian_Hieroglyphs.internal](/_internal/Language/Writing_System/Egyptian_Hieroglyphs.internal.md) 
+
+### #is_/same_as :: [Egyptian_Hieroglyphs.protect](/_protect/Language/Writing_System/Egyptian_Hieroglyphs.protect.md) 
+
+### #is_/same_as :: [Egyptian_Hieroglyphs.private](/_private/Language/Writing_System/Egyptian_Hieroglyphs.private.md) 
+
+### #is_/same_as :: [Egyptian_Hieroglyphs.personal](/_personal/Language/Writing_System/Egyptian_Hieroglyphs.personal.md) 
+
+### #is_/same_as :: [Egyptian_Hieroglyphs.secret](/_secret/Language/Writing_System/Egyptian_Hieroglyphs.secret.md)
+

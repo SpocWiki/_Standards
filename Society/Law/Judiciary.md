@@ -54,3 +54,22 @@ IPTC_NewsCode: mediatopic/20000106
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Judiciary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Judiciary](/_Standards/Society/Law/Judiciary.md) 
+
+### #is_/same_as :: [Judiciary.public](/_public/Society/Law/Judiciary.public.md) 
+
+### #is_/same_as :: [Judiciary.internal](/_internal/Society/Law/Judiciary.internal.md) 
+
+### #is_/same_as :: [Judiciary.protect](/_protect/Society/Law/Judiciary.protect.md) 
+
+### #is_/same_as :: [Judiciary.private](/_private/Society/Law/Judiciary.private.md) 
+
+### #is_/same_as :: [Judiciary.personal](/_personal/Society/Law/Judiciary.personal.md) 
+
+### #is_/same_as :: [Judiciary.secret](/_secret/Society/Law/Judiciary.secret.md)
+

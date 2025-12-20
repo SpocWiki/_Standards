@@ -33,3 +33,22 @@ has_id_wikidata: Q34467
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Compact%20disc) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CD(Compact_Disc)](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).md) 
+
+### #is_/same_as :: [CD(Compact_Disc).public](/_public/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).public.md) 
+
+### #is_/same_as :: [CD(Compact_Disc).internal](/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).internal.md) 
+
+### #is_/same_as :: [CD(Compact_Disc).protect](/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).protect.md) 
+
+### #is_/same_as :: [CD(Compact_Disc).private](/_private/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).private.md) 
+
+### #is_/same_as :: [CD(Compact_Disc).personal](/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).personal.md) 
+
+### #is_/same_as :: [CD(Compact_Disc).secret](/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).secret.md)
+

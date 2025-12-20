@@ -39,17 +39,17 @@ A home goods store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Home_Goods_Store](Home_Goods_Store.md) 
+### #is_/same_as :: [Home_Goods_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.md) 
 
-### #is_/same_as :: [Home_Goods_Store.public](/_public/Society/Organization/Local_Business/Store/Home_Goods_Store.public.md) 
+### #is_/same_as :: [Home_Goods_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.public.md) 
 
-### #is_/same_as :: [Home_Goods_Store.internal](/_internal/Society/Organization/Local_Business/Store/Home_Goods_Store.internal.md) 
+### #is_/same_as :: [Home_Goods_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.internal.md) 
 
-### #is_/same_as :: [Home_Goods_Store.protect](/_protect/Society/Organization/Local_Business/Store/Home_Goods_Store.protect.md) 
+### #is_/same_as :: [Home_Goods_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.protect.md) 
 
-### #is_/same_as :: [Home_Goods_Store.private](/_private/Society/Organization/Local_Business/Store/Home_Goods_Store.private.md) 
+### #is_/same_as :: [Home_Goods_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.private.md) 
 
-### #is_/same_as :: [Home_Goods_Store.personal](/_personal/Society/Organization/Local_Business/Store/Home_Goods_Store.personal.md) 
+### #is_/same_as :: [Home_Goods_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.personal.md) 
 
-### #is_/same_as :: [Home_Goods_Store.secret](/_secret/Society/Organization/Local_Business/Store/Home_Goods_Store.secret.md)
+### #is_/same_as :: [Home_Goods_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.secret.md)
 

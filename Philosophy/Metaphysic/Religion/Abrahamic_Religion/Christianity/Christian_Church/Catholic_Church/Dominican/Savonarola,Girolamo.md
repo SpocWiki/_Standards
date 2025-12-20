@@ -94,3 +94,22 @@ Royal_Academy_new_identifier: girolamo-savonarola
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Girolamo%20Savonarola) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Savonarola,Girolamo](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Savonarola,Girolamo.md) 
+
+### #is_/same_as :: [Savonarola,Girolamo.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Savonarola,Girolamo.public.md) 
+
+### #is_/same_as :: [Savonarola,Girolamo.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Savonarola,Girolamo.internal.md) 
+
+### #is_/same_as :: [Savonarola,Girolamo.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Savonarola,Girolamo.protect.md) 
+
+### #is_/same_as :: [Savonarola,Girolamo.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Savonarola,Girolamo.private.md) 
+
+### #is_/same_as :: [Savonarola,Girolamo.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Savonarola,Girolamo.personal.md) 
+
+### #is_/same_as :: [Savonarola,Girolamo.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican/Savonarola,Girolamo.secret.md)
+

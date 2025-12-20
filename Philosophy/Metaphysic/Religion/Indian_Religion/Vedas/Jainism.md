@@ -24,3 +24,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jainism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jainism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Jainism.md) 
+
+### #is_/same_as :: [Jainism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Jainism.public.md) 
+
+### #is_/same_as :: [Jainism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Jainism.internal.md) 
+
+### #is_/same_as :: [Jainism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Jainism.protect.md) 
+
+### #is_/same_as :: [Jainism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Jainism.private.md) 
+
+### #is_/same_as :: [Jainism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Jainism.personal.md) 
+
+### #is_/same_as :: [Jainism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Jainism.secret.md)
+

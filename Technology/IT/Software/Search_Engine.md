@@ -38,3 +38,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Federated-search-en.sv
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Search%20engine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Search_Engine](/_Standards/Technology/IT/Software/Search_Engine.md) 
+
+### #is_/same_as :: [Search_Engine.public](/_public/Technology/IT/Software/Search_Engine.public.md) 
+
+### #is_/same_as :: [Search_Engine.internal](/_internal/Technology/IT/Software/Search_Engine.internal.md) 
+
+### #is_/same_as :: [Search_Engine.protect](/_protect/Technology/IT/Software/Search_Engine.protect.md) 
+
+### #is_/same_as :: [Search_Engine.private](/_private/Technology/IT/Software/Search_Engine.private.md) 
+
+### #is_/same_as :: [Search_Engine.personal](/_personal/Technology/IT/Software/Search_Engine.personal.md) 
+
+### #is_/same_as :: [Search_Engine.secret](/_secret/Technology/IT/Software/Search_Engine.secret.md)
+

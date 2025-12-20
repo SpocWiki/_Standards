@@ -36,3 +36,22 @@ Individuals considered members of _The Martians_ group include:
 - [Peter Lax](https://en.wikipedia.org/wiki/Peter_Lax "Peter Lax")
 - [Theodore von Kármán](https://en.wikipedia.org/wiki/Theodore_von_K%C3%A1rm%C3%A1n "Theodore von Kármán")
 - [Valentine Telegdi](https://en.wikipedia.org/wiki/Valentine_Telegdi "Valentine Telegdi") 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Martians(scientists)](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).md) 
+
+### #is_/same_as :: [Martians(scientists).public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).public.md) 
+
+### #is_/same_as :: [Martians(scientists).internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).internal.md) 
+
+### #is_/same_as :: [Martians(scientists).protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).protect.md) 
+
+### #is_/same_as :: [Martians(scientists).private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).private.md) 
+
+### #is_/same_as :: [Martians(scientists).personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).personal.md) 
+
+### #is_/same_as :: [Martians(scientists).secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Martians(scientists).secret.md)
+

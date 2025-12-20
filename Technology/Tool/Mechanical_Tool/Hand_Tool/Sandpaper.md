@@ -46,3 +46,22 @@ Commons_category: Sandpaper
 > [Wikipedia](https://en.wikipedia.org/wiki/Sandpaper)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sandpaper](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.md) 
+
+### #is_/same_as :: [Sandpaper.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.public.md) 
+
+### #is_/same_as :: [Sandpaper.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.internal.md) 
+
+### #is_/same_as :: [Sandpaper.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.protect.md) 
+
+### #is_/same_as :: [Sandpaper.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.private.md) 
+
+### #is_/same_as :: [Sandpaper.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.personal.md) 
+
+### #is_/same_as :: [Sandpaper.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Sandpaper.secret.md)
+

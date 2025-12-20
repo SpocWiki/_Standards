@@ -85,17 +85,17 @@ Pathogenic fungus.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [fungus](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.md) 
+### #is_/same_as :: [Fungus](/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/Fungus.md) 
 
-### #is_/same_as :: [fungus.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.public.md) 
+### #is_/same_as :: [Fungus.public](/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/Fungus.public.md) 
 
-### #is_/same_as :: [fungus.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.internal.md) 
+### #is_/same_as :: [Fungus.internal](/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Fungus.internal.md) 
 
-### #is_/same_as :: [fungus.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.protect.md) 
+### #is_/same_as :: [Fungus.protect](/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/Fungus.protect.md) 
 
-### #is_/same_as :: [fungus.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.private.md) 
+### #is_/same_as :: [Fungus.private](/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/Fungus.private.md) 
 
-### #is_/same_as :: [fungus.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.personal.md) 
+### #is_/same_as :: [Fungus.personal](/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Fungus.personal.md) 
 
-### #is_/same_as :: [fungus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.secret.md)
+### #is_/same_as :: [Fungus.secret](/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/Fungus.secret.md)
 

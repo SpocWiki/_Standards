@@ -71,3 +71,21 @@ Dewey_Decimal_Classification: "398.21"
 > The charismatic and sophisticated vampire of modern fiction was born in 1819 with the publication of "The Vampyre" by the English writer John Polidori; the story was highly successful and arguably the most influential vampire work of the early 19th century. Bram Stoker's 1897 novel Dracula is remembered as the quintessential vampire novel and provided the basis of the modern vampire legend, even though it was published after fellow Irish author Joseph Sheridan Le Fanu's 1872 novel Carmilla. The success of this book spawned a distinctive vampire genre, still popular in the 21st century, with books, films, television shows, and video games. The vampire has since become a dominant figure in the horror genre.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vampire)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vampire](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.md) 
+
+### #is_/same_as :: [Vampire.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.public.md) 
+
+### #is_/same_as :: [Vampire.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.internal.md) 
+
+### #is_/same_as :: [Vampire.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.protect.md) 
+
+### #is_/same_as :: [Vampire.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.private.md) 
+
+### #is_/same_as :: [Vampire.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.personal.md) 
+
+### #is_/same_as :: [Vampire.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Vampire.secret.md)
+

@@ -54,3 +54,22 @@ has_id_wikidata: Q37970
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregor%20Mendel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mendel,Gregor](/_Standards/bio/Genetics/Mendel,Gregor.md) 
+
+### #is_/same_as :: [Mendel,Gregor.public](/_public/bio/Genetics/Mendel,Gregor.public.md) 
+
+### #is_/same_as :: [Mendel,Gregor.internal](/_internal/bio/Genetics/Mendel,Gregor.internal.md) 
+
+### #is_/same_as :: [Mendel,Gregor.protect](/_protect/bio/Genetics/Mendel,Gregor.protect.md) 
+
+### #is_/same_as :: [Mendel,Gregor.private](/_private/bio/Genetics/Mendel,Gregor.private.md) 
+
+### #is_/same_as :: [Mendel,Gregor.personal](/_personal/bio/Genetics/Mendel,Gregor.personal.md) 
+
+### #is_/same_as :: [Mendel,Gregor.secret](/_secret/bio/Genetics/Mendel,Gregor.secret.md)
+

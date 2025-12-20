@@ -39,17 +39,17 @@ A point value or interval for product characteristics and other purposes.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [quantitative_value](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.md) 
+### #is_/same_as :: [Quantitative_Value](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.md) 
 
-### #is_/same_as :: [quantitative_value.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.public.md) 
+### #is_/same_as :: [Quantitative_Value.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.public.md) 
 
-### #is_/same_as :: [quantitative_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.internal.md) 
+### #is_/same_as :: [Quantitative_Value.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.internal.md) 
 
-### #is_/same_as :: [quantitative_value.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.protect.md) 
+### #is_/same_as :: [Quantitative_Value.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.protect.md) 
 
-### #is_/same_as :: [quantitative_value.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.private.md) 
+### #is_/same_as :: [Quantitative_Value.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.private.md) 
 
-### #is_/same_as :: [quantitative_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.personal.md) 
+### #is_/same_as :: [Quantitative_Value.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.personal.md) 
 
-### #is_/same_as :: [quantitative_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.secret.md)
+### #is_/same_as :: [Quantitative_Value.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.secret.md)
 

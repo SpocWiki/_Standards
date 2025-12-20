@@ -49,3 +49,22 @@ taxon_name: Rubus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rubus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rubus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rubus.md) 
+
+### #is_/same_as :: [Rubus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rubus.public.md) 
+
+### #is_/same_as :: [Rubus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rubus.internal.md) 
+
+### #is_/same_as :: [Rubus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rubus.protect.md) 
+
+### #is_/same_as :: [Rubus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rubus.private.md) 
+
+### #is_/same_as :: [Rubus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rubus.personal.md) 
+
+### #is_/same_as :: [Rubus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Rosoideae/Rubus.secret.md)
+

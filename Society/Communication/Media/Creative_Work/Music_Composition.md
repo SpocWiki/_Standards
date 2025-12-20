@@ -170,6 +170,7 @@ A musical composition.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Musical%20composition) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Music_Composition](/_Standards/Society/Communication/Media/Creative_Work/Music_Composition.md) 
@@ -186,22 +187,3 @@ A musical composition.
 
 ### #is_/same_as :: [Music_Composition.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Composition.secret.md)
 
-
-# [[Music_Composition]] 
-
-#is_/part_of :: [[Musical_Composition]] 
-
-![[Music_Composition.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Music_Composition.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

@@ -70,3 +70,22 @@ date_of_birth: 0972-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leif%20Erikson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Erikson,Leif](/_Standards/Earth/Explorer/Erikson,Leif.md) 
+
+### #is_/same_as :: [Erikson,Leif.public](/_public/Earth/Explorer/Erikson,Leif.public.md) 
+
+### #is_/same_as :: [Erikson,Leif.internal](/_internal/Earth/Explorer/Erikson,Leif.internal.md) 
+
+### #is_/same_as :: [Erikson,Leif.protect](/_protect/Earth/Explorer/Erikson,Leif.protect.md) 
+
+### #is_/same_as :: [Erikson,Leif.private](/_private/Earth/Explorer/Erikson,Leif.private.md) 
+
+### #is_/same_as :: [Erikson,Leif.personal](/_personal/Earth/Explorer/Erikson,Leif.personal.md) 
+
+### #is_/same_as :: [Erikson,Leif.secret](/_secret/Earth/Explorer/Erikson,Leif.secret.md)
+

@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archimedes'_screw](/_Standards/Technology/Mechanical_Engineering/Archimedes'_screw.md) 
+### #is_/same_as :: [Archimedes'_screw](/_Standards/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.md) 
 
-### #is_/same_as :: [Archimedes'_screw.public](/_public/Technology/Mechanical_Engineering/Archimedes'_screw.public.md) 
+### #is_/same_as :: [Archimedes'_screw.public](/_public/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.public.md) 
 
-### #is_/same_as :: [Archimedes'_screw.internal](/_internal/Technology/Mechanical_Engineering/Archimedes'_screw.internal.md) 
+### #is_/same_as :: [Archimedes'_screw.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.internal.md) 
 
-### #is_/same_as :: [Archimedes'_screw.protect](/_protect/Technology/Mechanical_Engineering/Archimedes'_screw.protect.md) 
+### #is_/same_as :: [Archimedes'_screw.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.protect.md) 
 
-### #is_/same_as :: [Archimedes'_screw.private](/_private/Technology/Mechanical_Engineering/Archimedes'_screw.private.md) 
+### #is_/same_as :: [Archimedes'_screw.private](/_private/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.private.md) 
 
-### #is_/same_as :: [Archimedes'_screw.personal](/_personal/Technology/Mechanical_Engineering/Archimedes'_screw.personal.md) 
+### #is_/same_as :: [Archimedes'_screw.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.personal.md) 
 
-### #is_/same_as :: [Archimedes'_screw.secret](/_secret/Technology/Mechanical_Engineering/Archimedes'_screw.secret.md)
+### #is_/same_as :: [Archimedes'_screw.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.secret.md)
 

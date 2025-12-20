@@ -59,3 +59,22 @@ IMA_Mineral_Symbol: Tpz
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Topaz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Topaz](/_Standards/Earth/Geology/Mineral/Gemstone/Topaz.md) 
+
+### #is_/same_as :: [Topaz.public](/_public/Earth/Geology/Mineral/Gemstone/Topaz.public.md) 
+
+### #is_/same_as :: [Topaz.internal](/_internal/Earth/Geology/Mineral/Gemstone/Topaz.internal.md) 
+
+### #is_/same_as :: [Topaz.protect](/_protect/Earth/Geology/Mineral/Gemstone/Topaz.protect.md) 
+
+### #is_/same_as :: [Topaz.private](/_private/Earth/Geology/Mineral/Gemstone/Topaz.private.md) 
+
+### #is_/same_as :: [Topaz.personal](/_personal/Earth/Geology/Mineral/Gemstone/Topaz.personal.md) 
+
+### #is_/same_as :: [Topaz.secret](/_secret/Earth/Geology/Mineral/Gemstone/Topaz.secret.md)
+

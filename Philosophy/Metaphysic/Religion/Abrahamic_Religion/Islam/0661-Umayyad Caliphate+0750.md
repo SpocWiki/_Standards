@@ -108,3 +108,22 @@ native_label: الدَّوْلَةُ الأُمَوِيَّةُ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Umayyad%20Caliphate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0661-Umayyad Caliphate+0750](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.md) 
+
+### #is_/same_as :: [0661-Umayyad Caliphate+0750.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.public.md) 
+
+### #is_/same_as :: [0661-Umayyad Caliphate+0750.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.internal.md) 
+
+### #is_/same_as :: [0661-Umayyad Caliphate+0750.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.protect.md) 
+
+### #is_/same_as :: [0661-Umayyad Caliphate+0750.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.private.md) 
+
+### #is_/same_as :: [0661-Umayyad Caliphate+0750.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.personal.md) 
+
+### #is_/same_as :: [0661-Umayyad Caliphate+0750.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.secret.md)
+

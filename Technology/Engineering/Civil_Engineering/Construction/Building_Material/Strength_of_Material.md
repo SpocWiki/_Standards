@@ -45,3 +45,22 @@ Dewey_Decimal_Classification: "620.105"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strength%20of%20materials) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Strength_of_Material](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.md) 
+
+### #is_/same_as :: [Strength_of_Material.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.public.md) 
+
+### #is_/same_as :: [Strength_of_Material.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.internal.md) 
+
+### #is_/same_as :: [Strength_of_Material.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.protect.md) 
+
+### #is_/same_as :: [Strength_of_Material.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.private.md) 
+
+### #is_/same_as :: [Strength_of_Material.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.personal.md) 
+
+### #is_/same_as :: [Strength_of_Material.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.secret.md)
+

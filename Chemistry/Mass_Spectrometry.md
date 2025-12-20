@@ -48,3 +48,22 @@ GitHub_topic: mass-spectrometry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mass%20spectrometry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mass_Spectrometry](/_Standards/Chemistry/Mass_Spectrometry.md) 
+
+### #is_/same_as :: [Mass_Spectrometry.public](/_public/Chemistry/Mass_Spectrometry.public.md) 
+
+### #is_/same_as :: [Mass_Spectrometry.internal](/_internal/Chemistry/Mass_Spectrometry.internal.md) 
+
+### #is_/same_as :: [Mass_Spectrometry.protect](/_protect/Chemistry/Mass_Spectrometry.protect.md) 
+
+### #is_/same_as :: [Mass_Spectrometry.private](/_private/Chemistry/Mass_Spectrometry.private.md) 
+
+### #is_/same_as :: [Mass_Spectrometry.personal](/_personal/Chemistry/Mass_Spectrometry.personal.md) 
+
+### #is_/same_as :: [Mass_Spectrometry.secret](/_secret/Chemistry/Mass_Spectrometry.secret.md)
+

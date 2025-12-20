@@ -66,3 +66,22 @@ inception: 1787-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Don%20Giovanni) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Don_Giovanni](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.md) 
+
+### #is_/same_as :: [Don_Giovanni.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.public.md) 
+
+### #is_/same_as :: [Don_Giovanni.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.internal.md) 
+
+### #is_/same_as :: [Don_Giovanni.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.protect.md) 
+
+### #is_/same_as :: [Don_Giovanni.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.private.md) 
+
+### #is_/same_as :: [Don_Giovanni.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.personal.md) 
+
+### #is_/same_as :: [Don_Giovanni.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.secret.md)
+

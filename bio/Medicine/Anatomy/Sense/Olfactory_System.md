@@ -34,3 +34,22 @@ Commons_category: Olfactory system
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Olfactory%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Olfactory_System](/_Standards/bio/Medicine/Anatomy/Sense/Olfactory_System.md) 
+
+### #is_/same_as :: [Olfactory_System.public](/_public/bio/Medicine/Anatomy/Sense/Olfactory_System.public.md) 
+
+### #is_/same_as :: [Olfactory_System.internal](/_internal/bio/Medicine/Anatomy/Sense/Olfactory_System.internal.md) 
+
+### #is_/same_as :: [Olfactory_System.protect](/_protect/bio/Medicine/Anatomy/Sense/Olfactory_System.protect.md) 
+
+### #is_/same_as :: [Olfactory_System.private](/_private/bio/Medicine/Anatomy/Sense/Olfactory_System.private.md) 
+
+### #is_/same_as :: [Olfactory_System.personal](/_personal/bio/Medicine/Anatomy/Sense/Olfactory_System.personal.md) 
+
+### #is_/same_as :: [Olfactory_System.secret](/_secret/bio/Medicine/Anatomy/Sense/Olfactory_System.secret.md)
+

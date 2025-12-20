@@ -42,17 +42,17 @@ Nonprofit501c25: Non-profit type referring to Real Property Title-Holding Corpor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c25](Nonprofit501c25.md) 
+### #is_/same_as :: [Nonprofit501c25](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.md) 
 
-### #is_/same_as :: [nonprofit501c25.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.public.md) 
+### #is_/same_as :: [Nonprofit501c25.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.public.md) 
 
-### #is_/same_as :: [nonprofit501c25.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.internal.md) 
+### #is_/same_as :: [Nonprofit501c25.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.internal.md) 
 
-### #is_/same_as :: [nonprofit501c25.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.protect.md) 
+### #is_/same_as :: [Nonprofit501c25.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.protect.md) 
 
-### #is_/same_as :: [nonprofit501c25.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.private.md) 
+### #is_/same_as :: [Nonprofit501c25.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.private.md) 
 
-### #is_/same_as :: [nonprofit501c25.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.personal.md) 
+### #is_/same_as :: [Nonprofit501c25.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.personal.md) 
 
-### #is_/same_as :: [nonprofit501c25.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.secret.md)
+### #is_/same_as :: [Nonprofit501c25.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c25.secret.md)
 

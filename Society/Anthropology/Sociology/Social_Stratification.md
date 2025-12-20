@@ -35,3 +35,21 @@ Dewey_Decimal_Classification:
 > The categorization of people by social stratum occurs most clearly in complex state-based, polycentric, or feudal societies, the latter being based upon socio-economic relations among classes of nobility and classes of peasants. Whether social stratification first appeared in hunter-gatherer, tribal, and band societies or whether it began with agriculture and large-scale means of social exchange remains a matter of debate in the social sciences. Determining the structures of social stratification arises from inequalities of status among persons, therefore, the degree of social inequality determines a person's social stratum. Generally, the greater the social complexity of a society, the more social stratification exists, by way of social differentiation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20stratification) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Stratification](/_Standards/Society/Anthropology/Sociology/Social_Stratification.md) 
+
+### #is_/same_as :: [Social_Stratification.public](/_public/Society/Anthropology/Sociology/Social_Stratification.public.md) 
+
+### #is_/same_as :: [Social_Stratification.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification.internal.md) 
+
+### #is_/same_as :: [Social_Stratification.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification.protect.md) 
+
+### #is_/same_as :: [Social_Stratification.private](/_private/Society/Anthropology/Sociology/Social_Stratification.private.md) 
+
+### #is_/same_as :: [Social_Stratification.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification.personal.md) 
+
+### #is_/same_as :: [Social_Stratification.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification.secret.md)
+

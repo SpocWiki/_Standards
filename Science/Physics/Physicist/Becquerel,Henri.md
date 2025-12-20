@@ -110,3 +110,22 @@ date_of_death: 1908-08-25T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Becquerel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Becquerel,Henri](/_Standards/Science/Physics/Physicist/Becquerel,Henri.md) 
+
+### #is_/same_as :: [Becquerel,Henri.public](/_public/Science/Physics/Physicist/Becquerel,Henri.public.md) 
+
+### #is_/same_as :: [Becquerel,Henri.internal](/_internal/Science/Physics/Physicist/Becquerel,Henri.internal.md) 
+
+### #is_/same_as :: [Becquerel,Henri.protect](/_protect/Science/Physics/Physicist/Becquerel,Henri.protect.md) 
+
+### #is_/same_as :: [Becquerel,Henri.private](/_private/Science/Physics/Physicist/Becquerel,Henri.private.md) 
+
+### #is_/same_as :: [Becquerel,Henri.personal](/_personal/Science/Physics/Physicist/Becquerel,Henri.personal.md) 
+
+### #is_/same_as :: [Becquerel,Henri.secret](/_secret/Science/Physics/Physicist/Becquerel,Henri.secret.md)
+

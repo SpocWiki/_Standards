@@ -123,3 +123,22 @@ Regensburg_Classification: UB 2555
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20Curie) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Curie,Pierre](/_Standards/Science/Physics/Physicist/Curie,Pierre.md) 
+
+### #is_/same_as :: [Curie,Pierre.public](/_public/Science/Physics/Physicist/Curie,Pierre.public.md) 
+
+### #is_/same_as :: [Curie,Pierre.internal](/_internal/Science/Physics/Physicist/Curie,Pierre.internal.md) 
+
+### #is_/same_as :: [Curie,Pierre.protect](/_protect/Science/Physics/Physicist/Curie,Pierre.protect.md) 
+
+### #is_/same_as :: [Curie,Pierre.private](/_private/Science/Physics/Physicist/Curie,Pierre.private.md) 
+
+### #is_/same_as :: [Curie,Pierre.personal](/_personal/Science/Physics/Physicist/Curie,Pierre.personal.md) 
+
+### #is_/same_as :: [Curie,Pierre.secret](/_secret/Science/Physics/Physicist/Curie,Pierre.secret.md)
+

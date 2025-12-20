@@ -88,17 +88,17 @@ ISO_639_6_code: ineu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Indo-European](/_Standards/Language/Lang~Family/LangFamily-Indo-European.md) 
+### #is_/same_as :: [LangFamily-Indo-European](/_Standards/Language/Language_Family/LangFamily-Indo-European.md) 
 
-### #is_/same_as :: [LangFamily-Indo-European.public](/_public/Language/Lang~Family/LangFamily-Indo-European.public.md) 
+### #is_/same_as :: [LangFamily-Indo-European.public](/_public/Language/Language_Family/LangFamily-Indo-European.public.md) 
 
-### #is_/same_as :: [LangFamily-Indo-European.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European.internal.md) 
+### #is_/same_as :: [LangFamily-Indo-European.internal](/_internal/Language/Language_Family/LangFamily-Indo-European.internal.md) 
 
-### #is_/same_as :: [LangFamily-Indo-European.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European.protect.md) 
+### #is_/same_as :: [LangFamily-Indo-European.protect](/_protect/Language/Language_Family/LangFamily-Indo-European.protect.md) 
 
-### #is_/same_as :: [LangFamily-Indo-European.private](/_private/Language/Lang~Family/LangFamily-Indo-European.private.md) 
+### #is_/same_as :: [LangFamily-Indo-European.private](/_private/Language/Language_Family/LangFamily-Indo-European.private.md) 
 
-### #is_/same_as :: [LangFamily-Indo-European.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European.personal.md) 
+### #is_/same_as :: [LangFamily-Indo-European.personal](/_personal/Language/Language_Family/LangFamily-Indo-European.personal.md) 
 
-### #is_/same_as :: [LangFamily-Indo-European.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European.secret.md)
+### #is_/same_as :: [LangFamily-Indo-European.secret](/_secret/Language/Language_Family/LangFamily-Indo-European.secret.md)
 

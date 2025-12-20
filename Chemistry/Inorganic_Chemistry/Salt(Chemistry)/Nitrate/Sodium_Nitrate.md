@@ -70,3 +70,22 @@ RTECS_number: WC5600000
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20nitrate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sodium_Nitrate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.md) 
+
+### #is_/same_as :: [Sodium_Nitrate.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.public.md) 
+
+### #is_/same_as :: [Sodium_Nitrate.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.internal.md) 
+
+### #is_/same_as :: [Sodium_Nitrate.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.protect.md) 
+
+### #is_/same_as :: [Sodium_Nitrate.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.private.md) 
+
+### #is_/same_as :: [Sodium_Nitrate.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.personal.md) 
+
+### #is_/same_as :: [Sodium_Nitrate.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.secret.md)
+

@@ -25,3 +25,22 @@ Commons_category: Pyrolysis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyrolysis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pyrolysis](/_Standards/Chemistry/Chemical_Reaction/Pyrolysis.md) 
+
+### #is_/same_as :: [Pyrolysis.public](/_public/Chemistry/Chemical_Reaction/Pyrolysis.public.md) 
+
+### #is_/same_as :: [Pyrolysis.internal](/_internal/Chemistry/Chemical_Reaction/Pyrolysis.internal.md) 
+
+### #is_/same_as :: [Pyrolysis.protect](/_protect/Chemistry/Chemical_Reaction/Pyrolysis.protect.md) 
+
+### #is_/same_as :: [Pyrolysis.private](/_private/Chemistry/Chemical_Reaction/Pyrolysis.private.md) 
+
+### #is_/same_as :: [Pyrolysis.personal](/_personal/Chemistry/Chemical_Reaction/Pyrolysis.personal.md) 
+
+### #is_/same_as :: [Pyrolysis.secret](/_secret/Chemistry/Chemical_Reaction/Pyrolysis.secret.md)
+

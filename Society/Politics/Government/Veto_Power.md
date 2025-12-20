@@ -56,3 +56,22 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Wi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Veto) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Veto_Power](/_Standards/Society/Politics/Government/Veto_Power.md) 
+
+### #is_/same_as :: [Veto_Power.public](/_public/Society/Politics/Government/Veto_Power.public.md) 
+
+### #is_/same_as :: [Veto_Power.internal](/_internal/Society/Politics/Government/Veto_Power.internal.md) 
+
+### #is_/same_as :: [Veto_Power.protect](/_protect/Society/Politics/Government/Veto_Power.protect.md) 
+
+### #is_/same_as :: [Veto_Power.private](/_private/Society/Politics/Government/Veto_Power.private.md) 
+
+### #is_/same_as :: [Veto_Power.personal](/_personal/Society/Politics/Government/Veto_Power.personal.md) 
+
+### #is_/same_as :: [Veto_Power.secret](/_secret/Society/Politics/Government/Veto_Power.secret.md)
+

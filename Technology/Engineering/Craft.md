@@ -54,3 +54,22 @@ Provenio_UUID: e32451f1-69d6-4b3e-8772-eab34fcdf352
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Craft) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Craft](/_Standards/Technology/Engineering/Craft.md) 
+
+### #is_/same_as :: [Craft.public](/_public/Technology/Engineering/Craft.public.md) 
+
+### #is_/same_as :: [Craft.internal](/_internal/Technology/Engineering/Craft.internal.md) 
+
+### #is_/same_as :: [Craft.protect](/_protect/Technology/Engineering/Craft.protect.md) 
+
+### #is_/same_as :: [Craft.private](/_private/Technology/Engineering/Craft.private.md) 
+
+### #is_/same_as :: [Craft.personal](/_personal/Technology/Engineering/Craft.personal.md) 
+
+### #is_/same_as :: [Craft.secret](/_secret/Technology/Engineering/Craft.secret.md)
+

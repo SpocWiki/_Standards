@@ -56,3 +56,22 @@ Commons_category: Skyscrapers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skyscraper) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skyscraper](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.md) 
+
+### #is_/same_as :: [Skyscraper.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.public.md) 
+
+### #is_/same_as :: [Skyscraper.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.internal.md) 
+
+### #is_/same_as :: [Skyscraper.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.protect.md) 
+
+### #is_/same_as :: [Skyscraper.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.private.md) 
+
+### #is_/same_as :: [Skyscraper.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.personal.md) 
+
+### #is_/same_as :: [Skyscraper.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.secret.md)
+

@@ -46,3 +46,22 @@ Commons_category: Musicology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Musicology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Musicology](/_Standards/Society/Communication/Media/Music/Music_Theory/Musicology.md) 
+
+### #is_/same_as :: [Musicology.public](/_public/Society/Communication/Media/Music/Music_Theory/Musicology.public.md) 
+
+### #is_/same_as :: [Musicology.internal](/_internal/Society/Communication/Media/Music/Music_Theory/Musicology.internal.md) 
+
+### #is_/same_as :: [Musicology.protect](/_protect/Society/Communication/Media/Music/Music_Theory/Musicology.protect.md) 
+
+### #is_/same_as :: [Musicology.private](/_private/Society/Communication/Media/Music/Music_Theory/Musicology.private.md) 
+
+### #is_/same_as :: [Musicology.personal](/_personal/Society/Communication/Media/Music/Music_Theory/Musicology.personal.md) 
+
+### #is_/same_as :: [Musicology.secret](/_secret/Society/Communication/Media/Music/Music_Theory/Musicology.secret.md)
+

@@ -110,6 +110,7 @@ which is available for use by the general public, or by customers or employees o
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Toilet)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Toilet](/_Standards/Earth/Geography/Place/Civic_Structure/Toilet.md) 

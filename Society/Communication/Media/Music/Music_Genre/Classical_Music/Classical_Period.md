@@ -42,3 +42,22 @@ has_id_wikidata: Q17723
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Classical%20antiquity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Classical_Period](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.md) 
+
+### #is_/same_as :: [Classical_Period.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.public.md) 
+
+### #is_/same_as :: [Classical_Period.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.internal.md) 
+
+### #is_/same_as :: [Classical_Period.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.protect.md) 
+
+### #is_/same_as :: [Classical_Period.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.private.md) 
+
+### #is_/same_as :: [Classical_Period.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.personal.md) 
+
+### #is_/same_as :: [Classical_Period.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Classical_Period.secret.md)
+

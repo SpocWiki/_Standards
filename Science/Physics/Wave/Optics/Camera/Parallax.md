@@ -79,3 +79,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Parallax::p39b8"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parallax) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parallax](/_Standards/Science/Physics/Wave/Optics/Camera/Parallax.md) 
+
+### #is_/same_as :: [Parallax.public](/_public/Science/Physics/Wave/Optics/Camera/Parallax.public.md) 
+
+### #is_/same_as :: [Parallax.internal](/_internal/Science/Physics/Wave/Optics/Camera/Parallax.internal.md) 
+
+### #is_/same_as :: [Parallax.protect](/_protect/Science/Physics/Wave/Optics/Camera/Parallax.protect.md) 
+
+### #is_/same_as :: [Parallax.private](/_private/Science/Physics/Wave/Optics/Camera/Parallax.private.md) 
+
+### #is_/same_as :: [Parallax.personal](/_personal/Science/Physics/Wave/Optics/Camera/Parallax.personal.md) 
+
+### #is_/same_as :: [Parallax.secret](/_secret/Science/Physics/Wave/Optics/Camera/Parallax.secret.md)
+

@@ -62,17 +62,17 @@ Wikidata_property: produced sound
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sound](/_Standards/Science/Physics/Sound.md) 
+### #is_/same_as :: [Sound](/_Standards/Science/Physics/Wave/Acoustics/Sound.md) 
 
-### #is_/same_as :: [Sound.public](/_public/Science/Physics/Sound.public.md) 
+### #is_/same_as :: [Sound.public](/_public/Science/Physics/Wave/Acoustics/Sound.public.md) 
 
-### #is_/same_as :: [Sound.internal](/_internal/Science/Physics/Sound.internal.md) 
+### #is_/same_as :: [Sound.internal](/_internal/Science/Physics/Wave/Acoustics/Sound.internal.md) 
 
-### #is_/same_as :: [Sound.protect](/_protect/Science/Physics/Sound.protect.md) 
+### #is_/same_as :: [Sound.protect](/_protect/Science/Physics/Wave/Acoustics/Sound.protect.md) 
 
-### #is_/same_as :: [Sound.private](/_private/Science/Physics/Sound.private.md) 
+### #is_/same_as :: [Sound.private](/_private/Science/Physics/Wave/Acoustics/Sound.private.md) 
 
-### #is_/same_as :: [Sound.personal](/_personal/Science/Physics/Sound.personal.md) 
+### #is_/same_as :: [Sound.personal](/_personal/Science/Physics/Wave/Acoustics/Sound.personal.md) 
 
-### #is_/same_as :: [Sound.secret](/_secret/Science/Physics/Sound.secret.md)
+### #is_/same_as :: [Sound.secret](/_secret/Science/Physics/Wave/Acoustics/Sound.secret.md)
 

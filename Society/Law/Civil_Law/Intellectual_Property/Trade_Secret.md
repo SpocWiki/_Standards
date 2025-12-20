@@ -28,3 +28,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Trade%20secret) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trade_Secret](/_Standards/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.md) 
+
+### #is_/same_as :: [Trade_Secret.public](/_public/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.public.md) 
+
+### #is_/same_as :: [Trade_Secret.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.internal.md) 
+
+### #is_/same_as :: [Trade_Secret.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.protect.md) 
+
+### #is_/same_as :: [Trade_Secret.private](/_private/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.private.md) 
+
+### #is_/same_as :: [Trade_Secret.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.personal.md) 
+
+### #is_/same_as :: [Trade_Secret.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property/Trade_Secret.secret.md)
+

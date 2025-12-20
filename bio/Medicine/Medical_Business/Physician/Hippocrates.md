@@ -107,3 +107,22 @@ Provenio_UUID: 77e4a429-53a8-4689-9298-bcc7634c5bc2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hippocrates) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hippocrates](/_Standards/bio/Medicine/Medical_Business/Physician/Hippocrates.md) 
+
+### #is_/same_as :: [Hippocrates.public](/_public/bio/Medicine/Medical_Business/Physician/Hippocrates.public.md) 
+
+### #is_/same_as :: [Hippocrates.internal](/_internal/bio/Medicine/Medical_Business/Physician/Hippocrates.internal.md) 
+
+### #is_/same_as :: [Hippocrates.protect](/_protect/bio/Medicine/Medical_Business/Physician/Hippocrates.protect.md) 
+
+### #is_/same_as :: [Hippocrates.private](/_private/bio/Medicine/Medical_Business/Physician/Hippocrates.private.md) 
+
+### #is_/same_as :: [Hippocrates.personal](/_personal/bio/Medicine/Medical_Business/Physician/Hippocrates.personal.md) 
+
+### #is_/same_as :: [Hippocrates.secret](/_secret/bio/Medicine/Medical_Business/Physician/Hippocrates.secret.md)
+

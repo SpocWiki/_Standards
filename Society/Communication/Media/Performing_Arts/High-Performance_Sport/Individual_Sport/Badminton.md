@@ -29,17 +29,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Badminton](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Badminton.md) 
+### #is_/same_as :: [Badminton](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Badminton.md) 
 
-### #is_/same_as :: [Badminton.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Badminton.public.md) 
+### #is_/same_as :: [Badminton.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Badminton.public.md) 
 
-### #is_/same_as :: [Badminton.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Badminton.internal.md) 
+### #is_/same_as :: [Badminton.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Badminton.internal.md) 
 
-### #is_/same_as :: [Badminton.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Badminton.protect.md) 
+### #is_/same_as :: [Badminton.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Badminton.protect.md) 
 
-### #is_/same_as :: [Badminton.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Badminton.private.md) 
+### #is_/same_as :: [Badminton.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Badminton.private.md) 
 
-### #is_/same_as :: [Badminton.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Badminton.personal.md) 
+### #is_/same_as :: [Badminton.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Badminton.personal.md) 
 
-### #is_/same_as :: [Badminton.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Badminton.secret.md)
+### #is_/same_as :: [Badminton.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Badminton.secret.md)
 

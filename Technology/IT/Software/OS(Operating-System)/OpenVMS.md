@@ -68,3 +68,22 @@ software_version_identifier: V9.2-3
 > [Wikipedia](https://en.wikipedia.org/wiki/OpenVMS) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OpenVMS](/_Standards/Technology/IT/Software/OS(Operating-System)/OpenVMS.md) 
+
+### #is_/same_as :: [OpenVMS.public](/_public/Technology/IT/Software/OS(Operating-System)/OpenVMS.public.md) 
+
+### #is_/same_as :: [OpenVMS.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OpenVMS.internal.md) 
+
+### #is_/same_as :: [OpenVMS.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OpenVMS.protect.md) 
+
+### #is_/same_as :: [OpenVMS.private](/_private/Technology/IT/Software/OS(Operating-System)/OpenVMS.private.md) 
+
+### #is_/same_as :: [OpenVMS.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OpenVMS.personal.md) 
+
+### #is_/same_as :: [OpenVMS.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OpenVMS.secret.md)
+

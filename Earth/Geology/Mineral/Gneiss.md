@@ -40,3 +40,22 @@ Commons_category: Gneiss
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gneiss) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gneiss](/_Standards/Earth/Geology/Mineral/Gneiss.md) 
+
+### #is_/same_as :: [Gneiss.public](/_public/Earth/Geology/Mineral/Gneiss.public.md) 
+
+### #is_/same_as :: [Gneiss.internal](/_internal/Earth/Geology/Mineral/Gneiss.internal.md) 
+
+### #is_/same_as :: [Gneiss.protect](/_protect/Earth/Geology/Mineral/Gneiss.protect.md) 
+
+### #is_/same_as :: [Gneiss.private](/_private/Earth/Geology/Mineral/Gneiss.private.md) 
+
+### #is_/same_as :: [Gneiss.personal](/_personal/Earth/Geology/Mineral/Gneiss.personal.md) 
+
+### #is_/same_as :: [Gneiss.secret](/_secret/Earth/Geology/Mineral/Gneiss.secret.md)
+

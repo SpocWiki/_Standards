@@ -35,3 +35,22 @@ Commons_category: Isomerism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Isomer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Isomer](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.md) 
+
+### #is_/same_as :: [Isomer.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.public.md) 
+
+### #is_/same_as :: [Isomer.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.internal.md) 
+
+### #is_/same_as :: [Isomer.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.protect.md) 
+
+### #is_/same_as :: [Isomer.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.private.md) 
+
+### #is_/same_as :: [Isomer.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.personal.md) 
+
+### #is_/same_as :: [Isomer.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.secret.md)
+

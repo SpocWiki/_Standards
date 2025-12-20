@@ -40,17 +40,17 @@ RemixAlbum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Remix_Album](Remix_Album.md) 
+### #is_/same_as :: [Remix_Album](/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.md) 
 
-### #is_/same_as :: [remix_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.public.md) 
+### #is_/same_as :: [Remix_Album.public](/_public/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.public.md) 
 
-### #is_/same_as :: [remix_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.internal.md) 
+### #is_/same_as :: [Remix_Album.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.internal.md) 
 
-### #is_/same_as :: [remix_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.protect.md) 
+### #is_/same_as :: [Remix_Album.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.protect.md) 
 
-### #is_/same_as :: [remix_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.private.md) 
+### #is_/same_as :: [Remix_Album.private](/_private/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.private.md) 
 
-### #is_/same_as :: [remix_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.personal.md) 
+### #is_/same_as :: [Remix_Album.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.personal.md) 
 
-### #is_/same_as :: [remix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.secret.md)
+### #is_/same_as :: [Remix_Album.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.secret.md)
 

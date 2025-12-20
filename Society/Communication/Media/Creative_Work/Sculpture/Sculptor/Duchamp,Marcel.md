@@ -197,3 +197,22 @@ ISNI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marcel%20Duchamp) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Duchamp,Marcel](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.md) 
+
+### #is_/same_as :: [Duchamp,Marcel.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.public.md) 
+
+### #is_/same_as :: [Duchamp,Marcel.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.internal.md) 
+
+### #is_/same_as :: [Duchamp,Marcel.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.protect.md) 
+
+### #is_/same_as :: [Duchamp,Marcel.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.private.md) 
+
+### #is_/same_as :: [Duchamp,Marcel.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.personal.md) 
+
+### #is_/same_as :: [Duchamp,Marcel.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.secret.md)
+

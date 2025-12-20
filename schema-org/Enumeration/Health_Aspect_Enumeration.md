@@ -39,17 +39,17 @@ HealthAspectEnumeration enumerates several aspects of health content online, eac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Health_Aspect_Enumeration](Health_Aspect_Enumeration.md) 
+### #is_/same_as :: [Health_Aspect_Enumeration](/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration.md) 
 
-### #is_/same_as :: [health_aspect_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.public.md) 
+### #is_/same_as :: [Health_Aspect_Enumeration.public](/_public/schema-org/Enumeration/Health_Aspect_Enumeration.public.md) 
 
-### #is_/same_as :: [health_aspect_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.internal.md) 
+### #is_/same_as :: [Health_Aspect_Enumeration.internal](/_internal/schema-org/Enumeration/Health_Aspect_Enumeration.internal.md) 
 
-### #is_/same_as :: [health_aspect_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.protect.md) 
+### #is_/same_as :: [Health_Aspect_Enumeration.protect](/_protect/schema-org/Enumeration/Health_Aspect_Enumeration.protect.md) 
 
-### #is_/same_as :: [health_aspect_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.private.md) 
+### #is_/same_as :: [Health_Aspect_Enumeration.private](/_private/schema-org/Enumeration/Health_Aspect_Enumeration.private.md) 
 
-### #is_/same_as :: [health_aspect_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.personal.md) 
+### #is_/same_as :: [Health_Aspect_Enumeration.personal](/_personal/schema-org/Enumeration/Health_Aspect_Enumeration.personal.md) 
 
-### #is_/same_as :: [health_aspect_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.secret.md)
+### #is_/same_as :: [Health_Aspect_Enumeration.secret](/_secret/schema-org/Enumeration/Health_Aspect_Enumeration.secret.md)
 

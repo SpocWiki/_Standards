@@ -45,3 +45,22 @@ Commons_category: Volcanic craters
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Volcanic%20crater) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Volcanic_Crater](/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Crater.md) 
+
+### #is_/same_as :: [Volcanic_Crater.public](/_public/Earth/Geology/Landform/Volcano/Volcanic_Crater.public.md) 
+
+### #is_/same_as :: [Volcanic_Crater.internal](/_internal/Earth/Geology/Landform/Volcano/Volcanic_Crater.internal.md) 
+
+### #is_/same_as :: [Volcanic_Crater.protect](/_protect/Earth/Geology/Landform/Volcano/Volcanic_Crater.protect.md) 
+
+### #is_/same_as :: [Volcanic_Crater.private](/_private/Earth/Geology/Landform/Volcano/Volcanic_Crater.private.md) 
+
+### #is_/same_as :: [Volcanic_Crater.personal](/_personal/Earth/Geology/Landform/Volcano/Volcanic_Crater.personal.md) 
+
+### #is_/same_as :: [Volcanic_Crater.secret](/_secret/Earth/Geology/Landform/Volcano/Volcanic_Crater.secret.md)
+

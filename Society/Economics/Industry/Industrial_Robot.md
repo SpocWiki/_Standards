@@ -29,3 +29,22 @@ OpenStreetMap_tag: robot:type=factory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20robot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Industrial_Robot](/_Standards/Society/Economics/Industry/Industrial_Robot.md) 
+
+### #is_/same_as :: [Industrial_Robot.public](/_public/Society/Economics/Industry/Industrial_Robot.public.md) 
+
+### #is_/same_as :: [Industrial_Robot.internal](/_internal/Society/Economics/Industry/Industrial_Robot.internal.md) 
+
+### #is_/same_as :: [Industrial_Robot.protect](/_protect/Society/Economics/Industry/Industrial_Robot.protect.md) 
+
+### #is_/same_as :: [Industrial_Robot.private](/_private/Society/Economics/Industry/Industrial_Robot.private.md) 
+
+### #is_/same_as :: [Industrial_Robot.personal](/_personal/Society/Economics/Industry/Industrial_Robot.personal.md) 
+
+### #is_/same_as :: [Industrial_Robot.secret](/_secret/Society/Economics/Industry/Industrial_Robot.secret.md)
+

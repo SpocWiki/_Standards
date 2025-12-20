@@ -62,3 +62,22 @@ Wolfram_Language_entity_type: PlanetaryMoon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20satellite) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Natural_Satellite](/_Standards/Earth/Satellite/Natural_Satellite.md) 
+
+### #is_/same_as :: [Natural_Satellite.public](/_public/Earth/Satellite/Natural_Satellite.public.md) 
+
+### #is_/same_as :: [Natural_Satellite.internal](/_internal/Earth/Satellite/Natural_Satellite.internal.md) 
+
+### #is_/same_as :: [Natural_Satellite.protect](/_protect/Earth/Satellite/Natural_Satellite.protect.md) 
+
+### #is_/same_as :: [Natural_Satellite.private](/_private/Earth/Satellite/Natural_Satellite.private.md) 
+
+### #is_/same_as :: [Natural_Satellite.personal](/_personal/Earth/Satellite/Natural_Satellite.personal.md) 
+
+### #is_/same_as :: [Natural_Satellite.secret](/_secret/Earth/Satellite/Natural_Satellite.secret.md)
+

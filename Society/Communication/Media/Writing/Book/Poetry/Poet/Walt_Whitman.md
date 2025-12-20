@@ -135,3 +135,22 @@ ISNI: "0000000121178631"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Walt%20Whitman) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Walt_Whitman](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.md) 
+
+### #is_/same_as :: [Walt_Whitman.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.public.md) 
+
+### #is_/same_as :: [Walt_Whitman.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.internal.md) 
+
+### #is_/same_as :: [Walt_Whitman.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.protect.md) 
+
+### #is_/same_as :: [Walt_Whitman.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.private.md) 
+
+### #is_/same_as :: [Walt_Whitman.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.personal.md) 
+
+### #is_/same_as :: [Walt_Whitman.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.secret.md)
+

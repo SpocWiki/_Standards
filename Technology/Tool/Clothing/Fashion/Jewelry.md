@@ -68,3 +68,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schmu
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jewellery) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jewelry](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry.md) 
+
+### #is_/same_as :: [Jewelry.public](/_public/Technology/Tool/Clothing/Fashion/Jewelry.public.md) 
+
+### #is_/same_as :: [Jewelry.internal](/_internal/Technology/Tool/Clothing/Fashion/Jewelry.internal.md) 
+
+### #is_/same_as :: [Jewelry.protect](/_protect/Technology/Tool/Clothing/Fashion/Jewelry.protect.md) 
+
+### #is_/same_as :: [Jewelry.private](/_private/Technology/Tool/Clothing/Fashion/Jewelry.private.md) 
+
+### #is_/same_as :: [Jewelry.personal](/_personal/Technology/Tool/Clothing/Fashion/Jewelry.personal.md) 
+
+### #is_/same_as :: [Jewelry.secret](/_secret/Technology/Tool/Clothing/Fashion/Jewelry.secret.md)
+

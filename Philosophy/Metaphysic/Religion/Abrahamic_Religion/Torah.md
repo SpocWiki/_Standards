@@ -77,3 +77,22 @@ IPTC_NewsCode: mediatopic/20000708
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Torah) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Torah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.md) 
+
+### #is_/same_as :: [Torah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.public.md) 
+
+### #is_/same_as :: [Torah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.internal.md) 
+
+### #is_/same_as :: [Torah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.protect.md) 
+
+### #is_/same_as :: [Torah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.private.md) 
+
+### #is_/same_as :: [Torah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.personal.md) 
+
+### #is_/same_as :: [Torah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Torah.secret.md)
+

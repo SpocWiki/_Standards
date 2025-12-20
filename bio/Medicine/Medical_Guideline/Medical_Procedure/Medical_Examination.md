@@ -44,3 +44,22 @@ Library_of_Congress_Classification: RC76-RC76.5
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Physical%20examination) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medical_Examination](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.md) 
+
+### #is_/same_as :: [Medical_Examination.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.public.md) 
+
+### #is_/same_as :: [Medical_Examination.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.internal.md) 
+
+### #is_/same_as :: [Medical_Examination.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.protect.md) 
+
+### #is_/same_as :: [Medical_Examination.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.private.md) 
+
+### #is_/same_as :: [Medical_Examination.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.personal.md) 
+
+### #is_/same_as :: [Medical_Examination.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.secret.md)
+

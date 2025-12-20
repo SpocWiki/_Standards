@@ -34,3 +34,21 @@ has_id_wikidata: "221275"
 > The treatment of sewage is part of the field of sanitation. Sanitation also includes the management of human waste and solid waste as well as stormwater (drainage) management. The term sewage treatment plant is often used interchangeably with the term wastewater treatment plant.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sewage%20treatment) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sewage_Treatment](/_Standards/bio/Ecology/Waste_Management/Sewage_Treatment.md) 
+
+### #is_/same_as :: [Sewage_Treatment.public](/_public/bio/Ecology/Waste_Management/Sewage_Treatment.public.md) 
+
+### #is_/same_as :: [Sewage_Treatment.internal](/_internal/bio/Ecology/Waste_Management/Sewage_Treatment.internal.md) 
+
+### #is_/same_as :: [Sewage_Treatment.protect](/_protect/bio/Ecology/Waste_Management/Sewage_Treatment.protect.md) 
+
+### #is_/same_as :: [Sewage_Treatment.private](/_private/bio/Ecology/Waste_Management/Sewage_Treatment.private.md) 
+
+### #is_/same_as :: [Sewage_Treatment.personal](/_personal/bio/Ecology/Waste_Management/Sewage_Treatment.personal.md) 
+
+### #is_/same_as :: [Sewage_Treatment.secret](/_secret/bio/Ecology/Waste_Management/Sewage_Treatment.secret.md)
+

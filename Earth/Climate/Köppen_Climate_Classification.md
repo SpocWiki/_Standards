@@ -58,3 +58,22 @@ Commons_category: Köppen-Geiger
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/K%C3%B6ppen%20climate%20classification) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Köppen_Climate_Classification](/_Standards/Earth/Climate/Köppen_Climate_Classification.md) 
+
+### #is_/same_as :: [Köppen_Climate_Classification.public](/_public/Earth/Climate/Köppen_Climate_Classification.public.md) 
+
+### #is_/same_as :: [Köppen_Climate_Classification.internal](/_internal/Earth/Climate/Köppen_Climate_Classification.internal.md) 
+
+### #is_/same_as :: [Köppen_Climate_Classification.protect](/_protect/Earth/Climate/Köppen_Climate_Classification.protect.md) 
+
+### #is_/same_as :: [Köppen_Climate_Classification.private](/_private/Earth/Climate/Köppen_Climate_Classification.private.md) 
+
+### #is_/same_as :: [Köppen_Climate_Classification.personal](/_personal/Earth/Climate/Köppen_Climate_Classification.personal.md) 
+
+### #is_/same_as :: [Köppen_Climate_Classification.secret](/_secret/Earth/Climate/Köppen_Climate_Classification.secret.md)
+

@@ -69,17 +69,17 @@ Wolfram_Language_unit_code: "\"Liters\""
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Liter](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Liter.md) 
+### #is_/same_as :: [Unit~Liter](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Liter.md) 
 
-### #is_/same_as :: [Unit~Liter.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Liter.public.md) 
+### #is_/same_as :: [Unit~Liter.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Liter.public.md) 
 
-### #is_/same_as :: [Unit~Liter.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Liter.internal.md) 
+### #is_/same_as :: [Unit~Liter.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Liter.internal.md) 
 
-### #is_/same_as :: [Unit~Liter.protect](/_protect/Unit/SI-Unit/derived_Unit/Unit~Liter.protect.md) 
+### #is_/same_as :: [Unit~Liter.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Liter.protect.md) 
 
-### #is_/same_as :: [Unit~Liter.private](/_private/Unit/SI-Unit/derived_Unit/Unit~Liter.private.md) 
+### #is_/same_as :: [Unit~Liter.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Liter.private.md) 
 
-### #is_/same_as :: [Unit~Liter.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Liter.personal.md) 
+### #is_/same_as :: [Unit~Liter.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Liter.personal.md) 
 
-### #is_/same_as :: [Unit~Liter.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Liter.secret.md)
+### #is_/same_as :: [Unit~Liter.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Liter.secret.md)
 

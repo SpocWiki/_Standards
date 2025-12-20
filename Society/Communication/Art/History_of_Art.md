@@ -37,3 +37,22 @@ Iconclass_notation: 49K2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Art](/_Standards/Society/Communication/Art/History_of_Art.md) 
+
+### #is_/same_as :: [History_of_Art.public](/_public/Society/Communication/Art/History_of_Art.public.md) 
+
+### #is_/same_as :: [History_of_Art.internal](/_internal/Society/Communication/Art/History_of_Art.internal.md) 
+
+### #is_/same_as :: [History_of_Art.protect](/_protect/Society/Communication/Art/History_of_Art.protect.md) 
+
+### #is_/same_as :: [History_of_Art.private](/_private/Society/Communication/Art/History_of_Art.private.md) 
+
+### #is_/same_as :: [History_of_Art.personal](/_personal/Society/Communication/Art/History_of_Art.personal.md) 
+
+### #is_/same_as :: [History_of_Art.secret](/_secret/Society/Communication/Art/History_of_Art.secret.md)
+

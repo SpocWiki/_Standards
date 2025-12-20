@@ -59,3 +59,22 @@ time_of_discovery_or_invention: 1935-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nylon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nylon](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.md) 
+
+### #is_/same_as :: [Nylon.public](/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.public.md) 
+
+### #is_/same_as :: [Nylon.internal](/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.internal.md) 
+
+### #is_/same_as :: [Nylon.protect](/_protect/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.protect.md) 
+
+### #is_/same_as :: [Nylon.private](/_private/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.private.md) 
+
+### #is_/same_as :: [Nylon.personal](/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.personal.md) 
+
+### #is_/same_as :: [Nylon.secret](/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.secret.md)
+

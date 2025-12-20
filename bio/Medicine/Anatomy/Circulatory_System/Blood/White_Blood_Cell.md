@@ -97,17 +97,17 @@ Library_of_Congress_Classification: QP95-QP95.8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [White_Blood_Cell](/_Standards/bio/Medicine/Anatomy/Circulatory_System/White_Blood_Cell.md) 
+### #is_/same_as :: [White_Blood_Cell](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood/White_Blood_Cell.md) 
 
-### #is_/same_as :: [White_Blood_Cell.public](/_public/bio/Medicine/Anatomy/Circulatory_System/White_Blood_Cell.public.md) 
+### #is_/same_as :: [White_Blood_Cell.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Blood/White_Blood_Cell.public.md) 
 
-### #is_/same_as :: [White_Blood_Cell.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/White_Blood_Cell.internal.md) 
+### #is_/same_as :: [White_Blood_Cell.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood/White_Blood_Cell.internal.md) 
 
-### #is_/same_as :: [White_Blood_Cell.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/White_Blood_Cell.protect.md) 
+### #is_/same_as :: [White_Blood_Cell.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood/White_Blood_Cell.protect.md) 
 
-### #is_/same_as :: [White_Blood_Cell.private](/_private/bio/Medicine/Anatomy/Circulatory_System/White_Blood_Cell.private.md) 
+### #is_/same_as :: [White_Blood_Cell.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Blood/White_Blood_Cell.private.md) 
 
-### #is_/same_as :: [White_Blood_Cell.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/White_Blood_Cell.personal.md) 
+### #is_/same_as :: [White_Blood_Cell.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood/White_Blood_Cell.personal.md) 
 
-### #is_/same_as :: [White_Blood_Cell.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/White_Blood_Cell.secret.md)
+### #is_/same_as :: [White_Blood_Cell.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood/White_Blood_Cell.secret.md)
 

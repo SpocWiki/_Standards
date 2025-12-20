@@ -73,3 +73,22 @@ Wolfram_Language_entity_code: Entity["FoodType", "Rabbit"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rabbit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rabbit](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Rabbit.md) 
+
+### #is_/same_as :: [Rabbit.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Rabbit.public.md) 
+
+### #is_/same_as :: [Rabbit.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Rabbit.internal.md) 
+
+### #is_/same_as :: [Rabbit.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Rabbit.protect.md) 
+
+### #is_/same_as :: [Rabbit.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Rabbit.private.md) 
+
+### #is_/same_as :: [Rabbit.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Rabbit.personal.md) 
+
+### #is_/same_as :: [Rabbit.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha/Leporidae/Rabbit.secret.md)
+

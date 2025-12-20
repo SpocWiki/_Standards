@@ -20,3 +20,22 @@ Classes are not "a Thing" in JS. But since JS Objects allow for Introspection/Re
 they are actually more powerful than Class-Instances. 
 This blurs the distinction between both, 
 so each Object can be considered a class of its own and Class boundaries can be arbitrary. 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Inheritance,prototypal](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.md) 
+
+### #is_/same_as :: [Inheritance,prototypal.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.public.md) 
+
+### #is_/same_as :: [Inheritance,prototypal.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.internal.md) 
+
+### #is_/same_as :: [Inheritance,prototypal.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.protect.md) 
+
+### #is_/same_as :: [Inheritance,prototypal.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.private.md) 
+
+### #is_/same_as :: [Inheritance,prototypal.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.personal.md) 
+
+### #is_/same_as :: [Inheritance,prototypal.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance,prototypal.secret.md)
+

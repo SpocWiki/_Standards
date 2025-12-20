@@ -45,3 +45,22 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Khoi-San.pn
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Khoisan%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-khi](/_Standards/Language/Language_Family/Lang-khi.md) 
+
+### #is_/same_as :: [Lang-khi.public](/_public/Language/Language_Family/Lang-khi.public.md) 
+
+### #is_/same_as :: [Lang-khi.internal](/_internal/Language/Language_Family/Lang-khi.internal.md) 
+
+### #is_/same_as :: [Lang-khi.protect](/_protect/Language/Language_Family/Lang-khi.protect.md) 
+
+### #is_/same_as :: [Lang-khi.private](/_private/Language/Language_Family/Lang-khi.private.md) 
+
+### #is_/same_as :: [Lang-khi.personal](/_personal/Language/Language_Family/Lang-khi.personal.md) 
+
+### #is_/same_as :: [Lang-khi.secret](/_secret/Language/Language_Family/Lang-khi.secret.md)
+

@@ -39,17 +39,17 @@ Event type: Theater performance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [theater_event](/_Standards/schema-org/Class/is_a_/event/theater_event.md) 
+### #is_/same_as :: [Theater_Event](/_Standards/schema-org/Class/is_a_/Event/Theater_Event.md) 
 
-### #is_/same_as :: [theater_event.public](/_public/schema-org/Class/is_a_/event/theater_event.public.md) 
+### #is_/same_as :: [Theater_Event.public](/_public/schema-org/Class/is_a_/Event/Theater_Event.public.md) 
 
-### #is_/same_as :: [theater_event.internal](/_internal/schema-org/Class/is_a_/event/theater_event.internal.md) 
+### #is_/same_as :: [Theater_Event.internal](/_internal/schema-org/Class/is_a_/Event/Theater_Event.internal.md) 
 
-### #is_/same_as :: [theater_event.protect](/_protect/schema-org/Class/is_a_/event/theater_event.protect.md) 
+### #is_/same_as :: [Theater_Event.protect](/_protect/schema-org/Class/is_a_/Event/Theater_Event.protect.md) 
 
-### #is_/same_as :: [theater_event.private](/_private/schema-org/Class/is_a_/event/theater_event.private.md) 
+### #is_/same_as :: [Theater_Event.private](/_private/schema-org/Class/is_a_/Event/Theater_Event.private.md) 
 
-### #is_/same_as :: [theater_event.personal](/_personal/schema-org/Class/is_a_/event/theater_event.personal.md) 
+### #is_/same_as :: [Theater_Event.personal](/_personal/schema-org/Class/is_a_/Event/Theater_Event.personal.md) 
 
-### #is_/same_as :: [theater_event.secret](/_secret/schema-org/Class/is_a_/event/theater_event.secret.md)
+### #is_/same_as :: [Theater_Event.secret](/_secret/schema-org/Class/is_a_/Event/Theater_Event.secret.md)
 

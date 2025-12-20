@@ -114,17 +114,17 @@ EU_Corporate_body_code: LEAGUE_ARAB
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arab_League](Arab_League.md) 
+### #is_/same_as :: [Arab_League](/_Standards/Society/Agent/Community/Organization/International_Organization/Arab_League.md) 
 
-### #is_/same_as :: [Arab_League.public](/_public/International/Arab_League.public.md) 
+### #is_/same_as :: [Arab_League.public](/_public/Society/Agent/Community/Organization/International_Organization/Arab_League.public.md) 
 
-### #is_/same_as :: [Arab_League.internal](/_internal/International/Arab_League.internal.md) 
+### #is_/same_as :: [Arab_League.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Arab_League.internal.md) 
 
-### #is_/same_as :: [Arab_League.protect](/_protect/International/Arab_League.protect.md) 
+### #is_/same_as :: [Arab_League.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Arab_League.protect.md) 
 
-### #is_/same_as :: [Arab_League.private](/_private/International/Arab_League.private.md) 
+### #is_/same_as :: [Arab_League.private](/_private/Society/Agent/Community/Organization/International_Organization/Arab_League.private.md) 
 
-### #is_/same_as :: [Arab_League.personal](/_personal/International/Arab_League.personal.md) 
+### #is_/same_as :: [Arab_League.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Arab_League.personal.md) 
 
-### #is_/same_as :: [Arab_League.secret](/_secret/International/Arab_League.secret.md)
+### #is_/same_as :: [Arab_League.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Arab_League.secret.md)
 

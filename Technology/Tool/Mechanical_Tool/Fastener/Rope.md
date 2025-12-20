@@ -49,3 +49,22 @@ P8189: "987007546263905171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rope](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Rope.md) 
+
+### #is_/same_as :: [Rope.public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Rope.public.md) 
+
+### #is_/same_as :: [Rope.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Rope.internal.md) 
+
+### #is_/same_as :: [Rope.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Rope.protect.md) 
+
+### #is_/same_as :: [Rope.private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Rope.private.md) 
+
+### #is_/same_as :: [Rope.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Rope.personal.md) 
+
+### #is_/same_as :: [Rope.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Rope.secret.md)
+

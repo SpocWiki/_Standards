@@ -62,6 +62,8 @@ Stadtwiki_Dresden_article: Mittelpaläolithikum
 | Estimated vocabulary size (words)                              | 500 ± 200         | 30 000 ± 5000   | +5900 |
 | Population carrying capacity (individuals/km²)                 | 0.05              | 0.5             |  +900 |
  
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Middle_Paleolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.md) 

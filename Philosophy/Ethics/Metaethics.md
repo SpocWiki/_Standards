@@ -26,3 +26,22 @@ Commons_category: Meta-ethics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metaethics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metaethics](/_Standards/Philosophy/Ethics/Metaethics.md) 
+
+### #is_/same_as :: [Metaethics.public](/_public/Philosophy/Ethics/Metaethics.public.md) 
+
+### #is_/same_as :: [Metaethics.internal](/_internal/Philosophy/Ethics/Metaethics.internal.md) 
+
+### #is_/same_as :: [Metaethics.protect](/_protect/Philosophy/Ethics/Metaethics.protect.md) 
+
+### #is_/same_as :: [Metaethics.private](/_private/Philosophy/Ethics/Metaethics.private.md) 
+
+### #is_/same_as :: [Metaethics.personal](/_personal/Philosophy/Ethics/Metaethics.personal.md) 
+
+### #is_/same_as :: [Metaethics.secret](/_secret/Philosophy/Ethics/Metaethics.secret.md)
+

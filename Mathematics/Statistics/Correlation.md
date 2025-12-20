@@ -140,3 +140,22 @@ MeSH_tree_code: H01.548.832.500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Correlation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Correlation](/_Standards/Mathematics/Statistics/Correlation.md) 
+
+### #is_/same_as :: [Correlation.public](/_public/Mathematics/Statistics/Correlation.public.md) 
+
+### #is_/same_as :: [Correlation.internal](/_internal/Mathematics/Statistics/Correlation.internal.md) 
+
+### #is_/same_as :: [Correlation.protect](/_protect/Mathematics/Statistics/Correlation.protect.md) 
+
+### #is_/same_as :: [Correlation.private](/_private/Mathematics/Statistics/Correlation.private.md) 
+
+### #is_/same_as :: [Correlation.personal](/_personal/Mathematics/Statistics/Correlation.personal.md) 
+
+### #is_/same_as :: [Correlation.secret](/_secret/Mathematics/Statistics/Correlation.secret.md)
+

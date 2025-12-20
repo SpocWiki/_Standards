@@ -41,17 +41,17 @@ Enumerates common size systems for different categories of products, for example
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Size_System_Enumeration](Size_System_Enumeration.md) 
+### #is_/same_as :: [Size_System_Enumeration](/_Standards/schema-org/Enumeration/Size_System_Enumeration.md) 
 
-### #is_/same_as :: [size_system_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.public.md) 
+### #is_/same_as :: [Size_System_Enumeration.public](/_public/schema-org/Enumeration/Size_System_Enumeration.public.md) 
 
-### #is_/same_as :: [size_system_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.internal.md) 
+### #is_/same_as :: [Size_System_Enumeration.internal](/_internal/schema-org/Enumeration/Size_System_Enumeration.internal.md) 
 
-### #is_/same_as :: [size_system_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.protect.md) 
+### #is_/same_as :: [Size_System_Enumeration.protect](/_protect/schema-org/Enumeration/Size_System_Enumeration.protect.md) 
 
-### #is_/same_as :: [size_system_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.private.md) 
+### #is_/same_as :: [Size_System_Enumeration.private](/_private/schema-org/Enumeration/Size_System_Enumeration.private.md) 
 
-### #is_/same_as :: [size_system_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.personal.md) 
+### #is_/same_as :: [Size_System_Enumeration.personal](/_personal/schema-org/Enumeration/Size_System_Enumeration.personal.md) 
 
-### #is_/same_as :: [size_system_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.secret.md)
+### #is_/same_as :: [Size_System_Enumeration.secret](/_secret/schema-org/Enumeration/Size_System_Enumeration.secret.md)
 

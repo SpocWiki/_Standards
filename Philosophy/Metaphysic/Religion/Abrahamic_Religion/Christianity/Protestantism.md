@@ -81,3 +81,22 @@ IPTC_NewsCode: mediatopic/20000664
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Protestantism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Protestantism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism.md) 
+
+### #is_/same_as :: [Protestantism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism.public.md) 
+
+### #is_/same_as :: [Protestantism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism.internal.md) 
+
+### #is_/same_as :: [Protestantism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism.protect.md) 
+
+### #is_/same_as :: [Protestantism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism.private.md) 
+
+### #is_/same_as :: [Protestantism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism.personal.md) 
+
+### #is_/same_as :: [Protestantism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism.secret.md)
+

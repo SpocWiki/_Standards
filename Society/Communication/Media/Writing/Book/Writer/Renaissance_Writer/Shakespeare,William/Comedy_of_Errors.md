@@ -72,3 +72,22 @@ The play is a modernised adaptation of _[Menaechmi](https://en.wikipedia.org/wi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Comedy%20of%20Errors) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Comedy_of_Errors](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.md) 
+
+### #is_/same_as :: [Comedy_of_Errors.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.public.md) 
+
+### #is_/same_as :: [Comedy_of_Errors.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.internal.md) 
+
+### #is_/same_as :: [Comedy_of_Errors.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.protect.md) 
+
+### #is_/same_as :: [Comedy_of_Errors.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.private.md) 
+
+### #is_/same_as :: [Comedy_of_Errors.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.personal.md) 
+
+### #is_/same_as :: [Comedy_of_Errors.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Comedy_of_Errors.secret.md)
+

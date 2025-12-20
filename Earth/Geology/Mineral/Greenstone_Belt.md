@@ -19,3 +19,22 @@ Commons_category: Greenstone belts
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greenstone%20belt)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Greenstone_Belt](/_Standards/Earth/Geology/Mineral/Greenstone_Belt.md) 
+
+### #is_/same_as :: [Greenstone_Belt.public](/_public/Earth/Geology/Mineral/Greenstone_Belt.public.md) 
+
+### #is_/same_as :: [Greenstone_Belt.internal](/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal.md) 
+
+### #is_/same_as :: [Greenstone_Belt.protect](/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect.md) 
+
+### #is_/same_as :: [Greenstone_Belt.private](/_private/Earth/Geology/Mineral/Greenstone_Belt.private.md) 
+
+### #is_/same_as :: [Greenstone_Belt.personal](/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal.md) 
+
+### #is_/same_as :: [Greenstone_Belt.secret](/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret.md)
+

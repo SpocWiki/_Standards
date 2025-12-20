@@ -38,17 +38,17 @@ Krugosvet_article: nauka_i_tehnika/fizika/ZAKON_ARHIMEDA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archimedes principle](/_Standards/Science/Physics/Fluid_Mechanic/Archimedes principle.md) 
+### #is_/same_as :: [Archimedes_Principle](/_Standards/Science/Physics/Fluid_Mechanics/Hydrostatics/Archimedes_Principle.md) 
 
-### #is_/same_as :: [Archimedes principle.public](/_public/Science/Physics/Fluid_Mechanic/Archimedes principle.public.md) 
+### #is_/same_as :: [Archimedes_Principle.public](/_public/Science/Physics/Fluid_Mechanics/Hydrostatics/Archimedes_Principle.public.md) 
 
-### #is_/same_as :: [Archimedes principle.internal](/_internal/Science/Physics/Fluid_Mechanic/Archimedes principle.internal.md) 
+### #is_/same_as :: [Archimedes_Principle.internal](/_internal/Science/Physics/Fluid_Mechanics/Hydrostatics/Archimedes_Principle.internal.md) 
 
-### #is_/same_as :: [Archimedes principle.protect](/_protect/Science/Physics/Fluid_Mechanic/Archimedes principle.protect.md) 
+### #is_/same_as :: [Archimedes_Principle.protect](/_protect/Science/Physics/Fluid_Mechanics/Hydrostatics/Archimedes_Principle.protect.md) 
 
-### #is_/same_as :: [Archimedes principle.private](/_private/Science/Physics/Fluid_Mechanic/Archimedes principle.private.md) 
+### #is_/same_as :: [Archimedes_Principle.private](/_private/Science/Physics/Fluid_Mechanics/Hydrostatics/Archimedes_Principle.private.md) 
 
-### #is_/same_as :: [Archimedes principle.personal](/_personal/Science/Physics/Fluid_Mechanic/Archimedes principle.personal.md) 
+### #is_/same_as :: [Archimedes_Principle.personal](/_personal/Science/Physics/Fluid_Mechanics/Hydrostatics/Archimedes_Principle.personal.md) 
 
-### #is_/same_as :: [Archimedes principle.secret](/_secret/Science/Physics/Fluid_Mechanic/Archimedes principle.secret.md)
+### #is_/same_as :: [Archimedes_Principle.secret](/_secret/Science/Physics/Fluid_Mechanics/Hydrostatics/Archimedes_Principle.secret.md)
 

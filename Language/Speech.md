@@ -77,3 +77,22 @@ Unicode_character: 🗣
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Speech)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Speech](/_Standards/Language/Speech.md) 
+
+### #is_/same_as :: [Speech.public](/_public/Language/Speech.public.md) 
+
+### #is_/same_as :: [Speech.internal](/_internal/Language/Speech.internal.md) 
+
+### #is_/same_as :: [Speech.protect](/_protect/Language/Speech.protect.md) 
+
+### #is_/same_as :: [Speech.private](/_private/Language/Speech.private.md) 
+
+### #is_/same_as :: [Speech.personal](/_personal/Language/Speech.personal.md) 
+
+### #is_/same_as :: [Speech.secret](/_secret/Language/Speech.secret.md)
+

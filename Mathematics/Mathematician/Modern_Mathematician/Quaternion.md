@@ -104,3 +104,22 @@ Commons_category: Quaternions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quaternion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quaternion](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Quaternion.md) 
+
+### #is_/same_as :: [Quaternion.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Quaternion.public.md) 
+
+### #is_/same_as :: [Quaternion.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Quaternion.internal.md) 
+
+### #is_/same_as :: [Quaternion.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Quaternion.protect.md) 
+
+### #is_/same_as :: [Quaternion.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Quaternion.private.md) 
+
+### #is_/same_as :: [Quaternion.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Quaternion.personal.md) 
+
+### #is_/same_as :: [Quaternion.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Quaternion.secret.md)
+

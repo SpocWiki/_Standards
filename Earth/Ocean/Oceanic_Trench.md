@@ -34,3 +34,22 @@ GeoNames_feature_code: U.TRNU
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oceanic_Trench](/_Standards/Earth/Ocean/Oceanic_Trench.md) 
+
+### #is_/same_as :: [Oceanic_Trench.public](/_public/Earth/Ocean/Oceanic_Trench.public.md) 
+
+### #is_/same_as :: [Oceanic_Trench.internal](/_internal/Earth/Ocean/Oceanic_Trench.internal.md) 
+
+### #is_/same_as :: [Oceanic_Trench.protect](/_protect/Earth/Ocean/Oceanic_Trench.protect.md) 
+
+### #is_/same_as :: [Oceanic_Trench.private](/_private/Earth/Ocean/Oceanic_Trench.private.md) 
+
+### #is_/same_as :: [Oceanic_Trench.personal](/_personal/Earth/Ocean/Oceanic_Trench.personal.md) 
+
+### #is_/same_as :: [Oceanic_Trench.secret](/_secret/Earth/Ocean/Oceanic_Trench.secret.md)
+

@@ -38,17 +38,17 @@ Commons_category: Antihydrogen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antihydrogen](/_Standards/Science/Physics/Antimatter/Antihydrogen.md) 
+### #is_/same_as :: [Antihydrogen](/_Standards/Science/Physics/Quantum_Mechanics/Antimatter/Antihydrogen.md) 
 
-### #is_/same_as :: [Antihydrogen.public](/_public/Science/Physics/Antimatter/Antihydrogen.public.md) 
+### #is_/same_as :: [Antihydrogen.public](/_public/Science/Physics/Quantum_Mechanics/Antimatter/Antihydrogen.public.md) 
 
-### #is_/same_as :: [Antihydrogen.internal](/_internal/Science/Physics/Antimatter/Antihydrogen.internal.md) 
+### #is_/same_as :: [Antihydrogen.internal](/_internal/Science/Physics/Quantum_Mechanics/Antimatter/Antihydrogen.internal.md) 
 
-### #is_/same_as :: [Antihydrogen.protect](/_protect/Science/Physics/Antimatter/Antihydrogen.protect.md) 
+### #is_/same_as :: [Antihydrogen.protect](/_protect/Science/Physics/Quantum_Mechanics/Antimatter/Antihydrogen.protect.md) 
 
-### #is_/same_as :: [Antihydrogen.private](/_private/Science/Physics/Antimatter/Antihydrogen.private.md) 
+### #is_/same_as :: [Antihydrogen.private](/_private/Science/Physics/Quantum_Mechanics/Antimatter/Antihydrogen.private.md) 
 
-### #is_/same_as :: [Antihydrogen.personal](/_personal/Science/Physics/Antimatter/Antihydrogen.personal.md) 
+### #is_/same_as :: [Antihydrogen.personal](/_personal/Science/Physics/Quantum_Mechanics/Antimatter/Antihydrogen.personal.md) 
 
-### #is_/same_as :: [Antihydrogen.secret](/_secret/Science/Physics/Antimatter/Antihydrogen.secret.md)
+### #is_/same_as :: [Antihydrogen.secret](/_secret/Science/Physics/Quantum_Mechanics/Antimatter/Antihydrogen.secret.md)
 

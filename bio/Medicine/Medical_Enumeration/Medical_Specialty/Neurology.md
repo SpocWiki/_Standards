@@ -55,3 +55,22 @@ OpenStreetMap_tag: healthcare:speciality=neurology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neurology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Neurology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.md) 
+
+### #is_/same_as :: [Neurology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.public.md) 
+
+### #is_/same_as :: [Neurology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.internal.md) 
+
+### #is_/same_as :: [Neurology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.protect.md) 
+
+### #is_/same_as :: [Neurology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.private.md) 
+
+### #is_/same_as :: [Neurology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.personal.md) 
+
+### #is_/same_as :: [Neurology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.secret.md)
+

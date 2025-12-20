@@ -54,3 +54,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/MNOGOGRANNIK.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polyhedron) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Polyhedron](/_Standards/Mathematics/Geometry/Geometry-3D/Polyhedron.md) 
+
+### #is_/same_as :: [Polyhedron.public](/_public/Mathematics/Geometry/Geometry-3D/Polyhedron.public.md) 
+
+### #is_/same_as :: [Polyhedron.internal](/_internal/Mathematics/Geometry/Geometry-3D/Polyhedron.internal.md) 
+
+### #is_/same_as :: [Polyhedron.protect](/_protect/Mathematics/Geometry/Geometry-3D/Polyhedron.protect.md) 
+
+### #is_/same_as :: [Polyhedron.private](/_private/Mathematics/Geometry/Geometry-3D/Polyhedron.private.md) 
+
+### #is_/same_as :: [Polyhedron.personal](/_personal/Mathematics/Geometry/Geometry-3D/Polyhedron.personal.md) 
+
+### #is_/same_as :: [Polyhedron.secret](/_secret/Mathematics/Geometry/Geometry-3D/Polyhedron.secret.md)
+

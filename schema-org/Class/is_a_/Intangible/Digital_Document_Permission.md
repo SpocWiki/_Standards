@@ -39,17 +39,17 @@ A permission for a particular person or group to access a particular file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [digital_document_permission](/_Standards/schema-org/Class/is_a_/Intangible/digital_document_permission.md) 
+### #is_/same_as :: [Digital_Document_Permission](/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.md) 
 
-### #is_/same_as :: [digital_document_permission.public](/_public/schema-org/Class/is_a_/Intangible/digital_document_permission.public.md) 
+### #is_/same_as :: [Digital_Document_Permission.public](/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public.md) 
 
-### #is_/same_as :: [digital_document_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/digital_document_permission.internal.md) 
+### #is_/same_as :: [Digital_Document_Permission.internal](/_internal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.internal.md) 
 
-### #is_/same_as :: [digital_document_permission.protect](/_protect/schema-org/Class/is_a_/Intangible/digital_document_permission.protect.md) 
+### #is_/same_as :: [Digital_Document_Permission.protect](/_protect/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.protect.md) 
 
-### #is_/same_as :: [digital_document_permission.private](/_private/schema-org/Class/is_a_/Intangible/digital_document_permission.private.md) 
+### #is_/same_as :: [Digital_Document_Permission.private](/_private/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.private.md) 
 
-### #is_/same_as :: [digital_document_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/digital_document_permission.personal.md) 
+### #is_/same_as :: [Digital_Document_Permission.personal](/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal.md) 
 
-### #is_/same_as :: [digital_document_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/digital_document_permission.secret.md)
+### #is_/same_as :: [Digital_Document_Permission.secret](/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret.md)
 

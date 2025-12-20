@@ -28,3 +28,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Positivism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Positivism](/_Standards/Philosophy/Positivism.md) 
+
+### #is_/same_as :: [Positivism.public](/_public/Philosophy/Positivism.public.md) 
+
+### #is_/same_as :: [Positivism.internal](/_internal/Philosophy/Positivism.internal.md) 
+
+### #is_/same_as :: [Positivism.protect](/_protect/Philosophy/Positivism.protect.md) 
+
+### #is_/same_as :: [Positivism.private](/_private/Philosophy/Positivism.private.md) 
+
+### #is_/same_as :: [Positivism.personal](/_personal/Philosophy/Positivism.personal.md) 
+
+### #is_/same_as :: [Positivism.secret](/_secret/Philosophy/Positivism.secret.md)
+

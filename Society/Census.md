@@ -71,3 +71,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Census) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Census](/_Standards/Society/Census.md) 
+
+### #is_/same_as :: [Census.public](/_public/Society/Census.public.md) 
+
+### #is_/same_as :: [Census.internal](/_internal/Society/Census.internal.md) 
+
+### #is_/same_as :: [Census.protect](/_protect/Society/Census.protect.md) 
+
+### #is_/same_as :: [Census.private](/_private/Society/Census.private.md) 
+
+### #is_/same_as :: [Census.personal](/_personal/Society/Census.personal.md) 
+
+### #is_/same_as :: [Census.secret](/_secret/Society/Census.secret.md)
+

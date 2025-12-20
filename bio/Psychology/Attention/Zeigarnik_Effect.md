@@ -24,3 +24,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik%20effect) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zeigarnik_Effect](/_Standards/bio/Psychology/Attention/Zeigarnik_Effect.md) 
+
+### #is_/same_as :: [Zeigarnik_Effect.public](/_public/bio/Psychology/Attention/Zeigarnik_Effect.public.md) 
+
+### #is_/same_as :: [Zeigarnik_Effect.internal](/_internal/bio/Psychology/Attention/Zeigarnik_Effect.internal.md) 
+
+### #is_/same_as :: [Zeigarnik_Effect.protect](/_protect/bio/Psychology/Attention/Zeigarnik_Effect.protect.md) 
+
+### #is_/same_as :: [Zeigarnik_Effect.private](/_private/bio/Psychology/Attention/Zeigarnik_Effect.private.md) 
+
+### #is_/same_as :: [Zeigarnik_Effect.personal](/_personal/bio/Psychology/Attention/Zeigarnik_Effect.personal.md) 
+
+### #is_/same_as :: [Zeigarnik_Effect.secret](/_secret/bio/Psychology/Attention/Zeigarnik_Effect.secret.md)
+

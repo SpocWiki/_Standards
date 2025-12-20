@@ -45,3 +45,22 @@ Commons_category: Radio galaxies
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio%20galaxy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Radio_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Radio_Galaxy.md) 
+
+### #is_/same_as :: [Radio_Galaxy.public](/_public/Astronomy/Star_System/Galaxy/Radio_Galaxy.public.md) 
+
+### #is_/same_as :: [Radio_Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy/Radio_Galaxy.internal.md) 
+
+### #is_/same_as :: [Radio_Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy/Radio_Galaxy.protect.md) 
+
+### #is_/same_as :: [Radio_Galaxy.private](/_private/Astronomy/Star_System/Galaxy/Radio_Galaxy.private.md) 
+
+### #is_/same_as :: [Radio_Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy/Radio_Galaxy.personal.md) 
+
+### #is_/same_as :: [Radio_Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy/Radio_Galaxy.secret.md)
+

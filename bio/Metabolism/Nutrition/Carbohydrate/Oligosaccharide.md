@@ -30,7 +30,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oligosaccharide](Oligosaccharide.md) 
+### #is_/same_as :: [Oligosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.md) 
 
 ### #is_/same_as :: [Oligosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.public.md) 
 

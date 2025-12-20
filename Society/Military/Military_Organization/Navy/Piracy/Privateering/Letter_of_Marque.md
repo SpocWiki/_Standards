@@ -42,3 +42,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Letter%20of%20marque) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Letter_of_Marque](/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.md) 
+
+### #is_/same_as :: [Letter_of_Marque.public](/_public/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.public.md) 
+
+### #is_/same_as :: [Letter_of_Marque.internal](/_internal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.internal.md) 
+
+### #is_/same_as :: [Letter_of_Marque.protect](/_protect/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.protect.md) 
+
+### #is_/same_as :: [Letter_of_Marque.private](/_private/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.private.md) 
+
+### #is_/same_as :: [Letter_of_Marque.personal](/_personal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.personal.md) 
+
+### #is_/same_as :: [Letter_of_Marque.secret](/_secret/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.secret.md)
+

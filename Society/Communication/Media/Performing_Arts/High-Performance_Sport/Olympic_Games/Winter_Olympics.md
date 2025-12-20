@@ -52,3 +52,22 @@ Krugosvet_article_archived_: sport/ZIMNIE_OLIMPISKIE_IGRI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Winter%20Olympic%20Games) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Winter_Olympics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Winter_Olympics.md) 
+
+### #is_/same_as :: [Winter_Olympics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Winter_Olympics.public.md) 
+
+### #is_/same_as :: [Winter_Olympics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Winter_Olympics.internal.md) 
+
+### #is_/same_as :: [Winter_Olympics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Winter_Olympics.protect.md) 
+
+### #is_/same_as :: [Winter_Olympics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Winter_Olympics.private.md) 
+
+### #is_/same_as :: [Winter_Olympics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Winter_Olympics.personal.md) 
+
+### #is_/same_as :: [Winter_Olympics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Winter_Olympics.secret.md)
+

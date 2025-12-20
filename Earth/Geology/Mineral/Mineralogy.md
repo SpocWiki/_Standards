@@ -56,3 +56,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Mineralogy::b2z9r"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mineralogy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mineralogy](/_Standards/Earth/Geology/Mineral/Mineralogy.md) 
+
+### #is_/same_as :: [Mineralogy.public](/_public/Earth/Geology/Mineral/Mineralogy.public.md) 
+
+### #is_/same_as :: [Mineralogy.internal](/_internal/Earth/Geology/Mineral/Mineralogy.internal.md) 
+
+### #is_/same_as :: [Mineralogy.protect](/_protect/Earth/Geology/Mineral/Mineralogy.protect.md) 
+
+### #is_/same_as :: [Mineralogy.private](/_private/Earth/Geology/Mineral/Mineralogy.private.md) 
+
+### #is_/same_as :: [Mineralogy.personal](/_personal/Earth/Geology/Mineral/Mineralogy.personal.md) 
+
+### #is_/same_as :: [Mineralogy.secret](/_secret/Earth/Geology/Mineral/Mineralogy.secret.md)
+

@@ -64,3 +64,22 @@ Commons_category: Permutations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Permutation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Permutation](/_Standards/Mathematics/Statistics/Combinatorics/Permutation.md) 
+
+### #is_/same_as :: [Permutation.public](/_public/Mathematics/Statistics/Combinatorics/Permutation.public.md) 
+
+### #is_/same_as :: [Permutation.internal](/_internal/Mathematics/Statistics/Combinatorics/Permutation.internal.md) 
+
+### #is_/same_as :: [Permutation.protect](/_protect/Mathematics/Statistics/Combinatorics/Permutation.protect.md) 
+
+### #is_/same_as :: [Permutation.private](/_private/Mathematics/Statistics/Combinatorics/Permutation.private.md) 
+
+### #is_/same_as :: [Permutation.personal](/_personal/Mathematics/Statistics/Combinatorics/Permutation.personal.md) 
+
+### #is_/same_as :: [Permutation.secret](/_secret/Mathematics/Statistics/Combinatorics/Permutation.secret.md)
+

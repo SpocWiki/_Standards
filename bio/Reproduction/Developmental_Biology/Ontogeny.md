@@ -27,3 +27,22 @@ has_id_wikidata: Q193603
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ontogeny) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ontogeny](/_Standards/bio/Reproduction/Developmental_Biology/Ontogeny.md) 
+
+### #is_/same_as :: [Ontogeny.public](/_public/bio/Reproduction/Developmental_Biology/Ontogeny.public.md) 
+
+### #is_/same_as :: [Ontogeny.internal](/_internal/bio/Reproduction/Developmental_Biology/Ontogeny.internal.md) 
+
+### #is_/same_as :: [Ontogeny.protect](/_protect/bio/Reproduction/Developmental_Biology/Ontogeny.protect.md) 
+
+### #is_/same_as :: [Ontogeny.private](/_private/bio/Reproduction/Developmental_Biology/Ontogeny.private.md) 
+
+### #is_/same_as :: [Ontogeny.personal](/_personal/bio/Reproduction/Developmental_Biology/Ontogeny.personal.md) 
+
+### #is_/same_as :: [Ontogeny.secret](/_secret/bio/Reproduction/Developmental_Biology/Ontogeny.secret.md)
+

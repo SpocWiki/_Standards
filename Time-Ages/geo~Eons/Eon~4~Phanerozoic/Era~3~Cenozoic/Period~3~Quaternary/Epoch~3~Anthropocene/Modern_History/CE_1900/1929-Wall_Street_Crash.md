@@ -54,3 +54,22 @@ point_in_time: 1929-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wall%20Street%20crash%20of%201929) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1929-Wall_Street_Crash](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.md) 
+
+### #is_/same_as :: [1929-Wall_Street_Crash.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.public.md) 
+
+### #is_/same_as :: [1929-Wall_Street_Crash.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.internal.md) 
+
+### #is_/same_as :: [1929-Wall_Street_Crash.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.protect.md) 
+
+### #is_/same_as :: [1929-Wall_Street_Crash.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.private.md) 
+
+### #is_/same_as :: [1929-Wall_Street_Crash.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.personal.md) 
+
+### #is_/same_as :: [1929-Wall_Street_Crash.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.secret.md)
+

@@ -76,3 +76,22 @@ Commons_category: Television programmes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Television%20show) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Television_Program](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.md) 
+
+### #is_/same_as :: [Television_Program.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.public.md) 
+
+### #is_/same_as :: [Television_Program.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.internal.md) 
+
+### #is_/same_as :: [Television_Program.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.protect.md) 
+
+### #is_/same_as :: [Television_Program.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.private.md) 
+
+### #is_/same_as :: [Television_Program.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.personal.md) 
+
+### #is_/same_as :: [Television_Program.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program.secret.md)
+

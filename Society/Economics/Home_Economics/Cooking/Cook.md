@@ -82,3 +82,22 @@ Baidu_Tieba_name: 厨师
 > [Wikipedia](https://en.wikipedia.org/wiki/Cook%20(profession)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cook](/_Standards/Society/Economics/Home_Economics/Cooking/Cook.md) 
+
+### #is_/same_as :: [Cook.public](/_public/Society/Economics/Home_Economics/Cooking/Cook.public.md) 
+
+### #is_/same_as :: [Cook.internal](/_internal/Society/Economics/Home_Economics/Cooking/Cook.internal.md) 
+
+### #is_/same_as :: [Cook.protect](/_protect/Society/Economics/Home_Economics/Cooking/Cook.protect.md) 
+
+### #is_/same_as :: [Cook.private](/_private/Society/Economics/Home_Economics/Cooking/Cook.private.md) 
+
+### #is_/same_as :: [Cook.personal](/_personal/Society/Economics/Home_Economics/Cooking/Cook.personal.md) 
+
+### #is_/same_as :: [Cook.secret](/_secret/Society/Economics/Home_Economics/Cooking/Cook.secret.md)
+

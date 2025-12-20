@@ -48,3 +48,22 @@ has_id_wikidata: Q102083
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Knight) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Knight](/_Standards/Society/Military/Military_History/Knight.md) 
+
+### #is_/same_as :: [Knight.public](/_public/Society/Military/Military_History/Knight.public.md) 
+
+### #is_/same_as :: [Knight.internal](/_internal/Society/Military/Military_History/Knight.internal.md) 
+
+### #is_/same_as :: [Knight.protect](/_protect/Society/Military/Military_History/Knight.protect.md) 
+
+### #is_/same_as :: [Knight.private](/_private/Society/Military/Military_History/Knight.private.md) 
+
+### #is_/same_as :: [Knight.personal](/_personal/Society/Military/Military_History/Knight.personal.md) 
+
+### #is_/same_as :: [Knight.secret](/_secret/Society/Military/Military_History/Knight.secret.md)
+

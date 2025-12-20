@@ -70,3 +70,22 @@ Commons_category: Heat transfer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heat%20transfer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heat_Transfer](/_Standards/Science/Physics/Thermodynamics/Heat_Transfer.md) 
+
+### #is_/same_as :: [Heat_Transfer.public](/_public/Science/Physics/Thermodynamics/Heat_Transfer.public.md) 
+
+### #is_/same_as :: [Heat_Transfer.internal](/_internal/Science/Physics/Thermodynamics/Heat_Transfer.internal.md) 
+
+### #is_/same_as :: [Heat_Transfer.protect](/_protect/Science/Physics/Thermodynamics/Heat_Transfer.protect.md) 
+
+### #is_/same_as :: [Heat_Transfer.private](/_private/Science/Physics/Thermodynamics/Heat_Transfer.private.md) 
+
+### #is_/same_as :: [Heat_Transfer.personal](/_personal/Science/Physics/Thermodynamics/Heat_Transfer.personal.md) 
+
+### #is_/same_as :: [Heat_Transfer.secret](/_secret/Science/Physics/Thermodynamics/Heat_Transfer.secret.md)
+

@@ -38,3 +38,22 @@ has_id_wikidata: Q2377336
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multivector) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [MultiVector](/_Standards/Mathematics/Geometry/Geometric_Algebra/MultiVector.md) 
+
+### #is_/same_as :: [MultiVector.public](/_public/Mathematics/Geometry/Geometric_Algebra/MultiVector.public.md) 
+
+### #is_/same_as :: [MultiVector.internal](/_internal/Mathematics/Geometry/Geometric_Algebra/MultiVector.internal.md) 
+
+### #is_/same_as :: [MultiVector.protect](/_protect/Mathematics/Geometry/Geometric_Algebra/MultiVector.protect.md) 
+
+### #is_/same_as :: [MultiVector.private](/_private/Mathematics/Geometry/Geometric_Algebra/MultiVector.private.md) 
+
+### #is_/same_as :: [MultiVector.personal](/_personal/Mathematics/Geometry/Geometric_Algebra/MultiVector.personal.md) 
+
+### #is_/same_as :: [MultiVector.secret](/_secret/Mathematics/Geometry/Geometric_Algebra/MultiVector.secret.md)
+

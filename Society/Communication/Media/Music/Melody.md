@@ -50,3 +50,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MELODIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Melody) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Melody](/_Standards/Society/Communication/Media/Music/Melody.md) 
+
+### #is_/same_as :: [Melody.public](/_public/Society/Communication/Media/Music/Melody.public.md) 
+
+### #is_/same_as :: [Melody.internal](/_internal/Society/Communication/Media/Music/Melody.internal.md) 
+
+### #is_/same_as :: [Melody.protect](/_protect/Society/Communication/Media/Music/Melody.protect.md) 
+
+### #is_/same_as :: [Melody.private](/_private/Society/Communication/Media/Music/Melody.private.md) 
+
+### #is_/same_as :: [Melody.personal](/_personal/Society/Communication/Media/Music/Melody.personal.md) 
+
+### #is_/same_as :: [Melody.secret](/_secret/Society/Communication/Media/Music/Melody.secret.md)
+

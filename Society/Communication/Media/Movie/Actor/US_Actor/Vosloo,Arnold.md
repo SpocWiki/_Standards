@@ -30,3 +30,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vosloo,Arnold](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.md) 
+
+### #is_/same_as :: [Vosloo,Arnold.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.public.md) 
+
+### #is_/same_as :: [Vosloo,Arnold.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.internal.md) 
+
+### #is_/same_as :: [Vosloo,Arnold.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.protect.md) 
+
+### #is_/same_as :: [Vosloo,Arnold.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.private.md) 
+
+### #is_/same_as :: [Vosloo,Arnold.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.personal.md) 
+
+### #is_/same_as :: [Vosloo,Arnold.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.secret.md)
+

@@ -65,3 +65,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20compression) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Data_Compression](/_Standards/Technology/IT/IT-Algorithm/Data_Compression.md) 
+
+### #is_/same_as :: [Data_Compression.public](/_public/Technology/IT/IT-Algorithm/Data_Compression.public.md) 
+
+### #is_/same_as :: [Data_Compression.internal](/_internal/Technology/IT/IT-Algorithm/Data_Compression.internal.md) 
+
+### #is_/same_as :: [Data_Compression.protect](/_protect/Technology/IT/IT-Algorithm/Data_Compression.protect.md) 
+
+### #is_/same_as :: [Data_Compression.private](/_private/Technology/IT/IT-Algorithm/Data_Compression.private.md) 
+
+### #is_/same_as :: [Data_Compression.personal](/_personal/Technology/IT/IT-Algorithm/Data_Compression.personal.md) 
+
+### #is_/same_as :: [Data_Compression.secret](/_secret/Technology/IT/IT-Algorithm/Data_Compression.secret.md)
+

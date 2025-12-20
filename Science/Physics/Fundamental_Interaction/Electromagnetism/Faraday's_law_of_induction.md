@@ -35,3 +35,22 @@ Commons_category: Faraday's law of induction
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Faraday's%20law%20of%20induction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Faraday's_law_of_induction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.md) 
+
+### #is_/same_as :: [Faraday's_law_of_induction.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.public.md) 
+
+### #is_/same_as :: [Faraday's_law_of_induction.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.internal.md) 
+
+### #is_/same_as :: [Faraday's_law_of_induction.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.protect.md) 
+
+### #is_/same_as :: [Faraday's_law_of_induction.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.private.md) 
+
+### #is_/same_as :: [Faraday's_law_of_induction.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.personal.md) 
+
+### #is_/same_as :: [Faraday's_law_of_induction.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.secret.md)
+

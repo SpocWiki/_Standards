@@ -37,3 +37,22 @@ Dewey_Decimal_Classification: "665.77"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Syngas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Syngas](/_Standards/Chemistry/Material/Fuel/Syngas.md) 
+
+### #is_/same_as :: [Syngas.public](/_public/Chemistry/Material/Fuel/Syngas.public.md) 
+
+### #is_/same_as :: [Syngas.internal](/_internal/Chemistry/Material/Fuel/Syngas.internal.md) 
+
+### #is_/same_as :: [Syngas.protect](/_protect/Chemistry/Material/Fuel/Syngas.protect.md) 
+
+### #is_/same_as :: [Syngas.private](/_private/Chemistry/Material/Fuel/Syngas.private.md) 
+
+### #is_/same_as :: [Syngas.personal](/_personal/Chemistry/Material/Fuel/Syngas.personal.md) 
+
+### #is_/same_as :: [Syngas.secret](/_secret/Chemistry/Material/Fuel/Syngas.secret.md)
+

@@ -41,3 +41,22 @@ Commons_category: History of the Middle East
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20Middle%20East) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_the_Middle_East](/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.md) 
+
+### #is_/same_as :: [History_of_the_Middle_East.public](/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public.md) 
+
+### #is_/same_as :: [History_of_the_Middle_East.internal](/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal.md) 
+
+### #is_/same_as :: [History_of_the_Middle_East.protect](/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect.md) 
+
+### #is_/same_as :: [History_of_the_Middle_East.private](/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private.md) 
+
+### #is_/same_as :: [History_of_the_Middle_East.personal](/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal.md) 
+
+### #is_/same_as :: [History_of_the_Middle_East.secret](/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret.md)
+

@@ -43,3 +43,22 @@ OpenStreetMap_tag: denomination=methodist
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Methodism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Methodism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Methodism.md) 
+
+### #is_/same_as :: [Methodism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Methodism.public.md) 
+
+### #is_/same_as :: [Methodism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Methodism.internal.md) 
+
+### #is_/same_as :: [Methodism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Methodism.protect.md) 
+
+### #is_/same_as :: [Methodism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Methodism.private.md) 
+
+### #is_/same_as :: [Methodism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Methodism.personal.md) 
+
+### #is_/same_as :: [Methodism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Methodism.secret.md)
+

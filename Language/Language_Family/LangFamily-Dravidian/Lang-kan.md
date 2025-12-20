@@ -67,3 +67,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shukla%20Kannada.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kannada) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-kan](/_Standards/Language/Language_Family/LangFamily-Dravidian/Lang-kan.md) 
+
+### #is_/same_as :: [Lang-kan.public](/_public/Language/Language_Family/LangFamily-Dravidian/Lang-kan.public.md) 
+
+### #is_/same_as :: [Lang-kan.internal](/_internal/Language/Language_Family/LangFamily-Dravidian/Lang-kan.internal.md) 
+
+### #is_/same_as :: [Lang-kan.protect](/_protect/Language/Language_Family/LangFamily-Dravidian/Lang-kan.protect.md) 
+
+### #is_/same_as :: [Lang-kan.private](/_private/Language/Language_Family/LangFamily-Dravidian/Lang-kan.private.md) 
+
+### #is_/same_as :: [Lang-kan.personal](/_personal/Language/Language_Family/LangFamily-Dravidian/Lang-kan.personal.md) 
+
+### #is_/same_as :: [Lang-kan.secret](/_secret/Language/Language_Family/LangFamily-Dravidian/Lang-kan.secret.md)
+

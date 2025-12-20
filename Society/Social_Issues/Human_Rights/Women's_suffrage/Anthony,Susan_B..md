@@ -30,3 +30,22 @@ has_id_wikidata: Q192245
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Susan%20B.%20Anthony) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anthony,Susan_B.](/_Standards/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..md) 
+
+### #is_/same_as :: [Anthony,Susan_B..public](/_public/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..public.md) 
+
+### #is_/same_as :: [Anthony,Susan_B..internal](/_internal/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..internal.md) 
+
+### #is_/same_as :: [Anthony,Susan_B..protect](/_protect/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..protect.md) 
+
+### #is_/same_as :: [Anthony,Susan_B..private](/_private/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..private.md) 
+
+### #is_/same_as :: [Anthony,Susan_B..personal](/_personal/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..personal.md) 
+
+### #is_/same_as :: [Anthony,Susan_B..secret](/_secret/Society/Social_Issues/Human_Rights/Women's_suffrage/Anthony,Susan_B..secret.md)
+

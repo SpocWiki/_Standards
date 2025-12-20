@@ -70,3 +70,22 @@ OpenStreetMap_tag_or_key: Tag:place=state
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Federated%20state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Federated_state](/_Standards/Earth/Geography/Place/Administrative_Area/State/Federated_state.md) 
+
+### #is_/same_as :: [Federated_state.public](/_public/Earth/Geography/Place/Administrative_Area/State/Federated_state.public.md) 
+
+### #is_/same_as :: [Federated_state.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Federated_state.internal.md) 
+
+### #is_/same_as :: [Federated_state.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Federated_state.protect.md) 
+
+### #is_/same_as :: [Federated_state.private](/_private/Earth/Geography/Place/Administrative_Area/State/Federated_state.private.md) 
+
+### #is_/same_as :: [Federated_state.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Federated_state.personal.md) 
+
+### #is_/same_as :: [Federated_state.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Federated_state.secret.md)
+

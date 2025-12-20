@@ -37,3 +37,22 @@ Commons_category: Computer science
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computability%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computability_Theory](/_Standards/Mathematics/Algorithm/Computability_Theory.md) 
+
+### #is_/same_as :: [Computability_Theory.public](/_public/Mathematics/Algorithm/Computability_Theory.public.md) 
+
+### #is_/same_as :: [Computability_Theory.internal](/_internal/Mathematics/Algorithm/Computability_Theory.internal.md) 
+
+### #is_/same_as :: [Computability_Theory.protect](/_protect/Mathematics/Algorithm/Computability_Theory.protect.md) 
+
+### #is_/same_as :: [Computability_Theory.private](/_private/Mathematics/Algorithm/Computability_Theory.private.md) 
+
+### #is_/same_as :: [Computability_Theory.personal](/_personal/Mathematics/Algorithm/Computability_Theory.personal.md) 
+
+### #is_/same_as :: [Computability_Theory.secret](/_secret/Mathematics/Algorithm/Computability_Theory.secret.md)
+

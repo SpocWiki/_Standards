@@ -39,17 +39,17 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theater_Group](Theater_Group.md) 
+### #is_/same_as :: [Theater_Group](/_Standards/Society/Agent/Community/Organization/Performing_Group/Theater_Group.md) 
 
-### #is_/same_as :: [Theater_Group.public](/_public/Society/Organization/Performing_Group/Theater_Group.public.md) 
+### #is_/same_as :: [Theater_Group.public](/_public/Society/Agent/Community/Organization/Performing_Group/Theater_Group.public.md) 
 
-### #is_/same_as :: [Theater_Group.internal](/_internal/Society/Organization/Performing_Group/Theater_Group.internal.md) 
+### #is_/same_as :: [Theater_Group.internal](/_internal/Society/Agent/Community/Organization/Performing_Group/Theater_Group.internal.md) 
 
-### #is_/same_as :: [Theater_Group.protect](/_protect/Society/Organization/Performing_Group/Theater_Group.protect.md) 
+### #is_/same_as :: [Theater_Group.protect](/_protect/Society/Agent/Community/Organization/Performing_Group/Theater_Group.protect.md) 
 
-### #is_/same_as :: [Theater_Group.private](/_private/Society/Organization/Performing_Group/Theater_Group.private.md) 
+### #is_/same_as :: [Theater_Group.private](/_private/Society/Agent/Community/Organization/Performing_Group/Theater_Group.private.md) 
 
-### #is_/same_as :: [Theater_Group.personal](/_personal/Society/Organization/Performing_Group/Theater_Group.personal.md) 
+### #is_/same_as :: [Theater_Group.personal](/_personal/Society/Agent/Community/Organization/Performing_Group/Theater_Group.personal.md) 
 
-### #is_/same_as :: [Theater_Group.secret](/_secret/Society/Organization/Performing_Group/Theater_Group.secret.md)
+### #is_/same_as :: [Theater_Group.secret](/_secret/Society/Agent/Community/Organization/Performing_Group/Theater_Group.secret.md)
 

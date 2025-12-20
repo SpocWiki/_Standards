@@ -93,7 +93,7 @@ Mar. Sci. 20: 421-428.
   Scientific Name ::  Cirroctopus glacialis
   Reference         Vecchione, M., U. Piatkowski and A. L. Allcock. 1998. Biology of the cirrate octopod Grimpoteuthis glacialis (Cephalopoda; Opisthoteuthidae) in the South Shetland Islands, Antarctica. S. Afr. J. Mar. Sci. 20: 421-428.
   Copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -76,3 +76,22 @@ coordinate_location: Point(2.3522 48.8567)
 > [Wikipedia](https://en.wikipedia.org/wiki/Paris%20Peace%20Conference%20(1919%E2%80%931920)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1919-Paris_Peace_Conference](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Paris_Peace_Conference.md) 
+
+### #is_/same_as :: [1919-Paris_Peace_Conference.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Paris_Peace_Conference.public.md) 
+
+### #is_/same_as :: [1919-Paris_Peace_Conference.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Paris_Peace_Conference.internal.md) 
+
+### #is_/same_as :: [1919-Paris_Peace_Conference.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Paris_Peace_Conference.protect.md) 
+
+### #is_/same_as :: [1919-Paris_Peace_Conference.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Paris_Peace_Conference.private.md) 
+
+### #is_/same_as :: [1919-Paris_Peace_Conference.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Paris_Peace_Conference.personal.md) 
+
+### #is_/same_as :: [1919-Paris_Peace_Conference.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Paris_Peace_Conference.secret.md)
+

@@ -37,17 +37,17 @@ EventStatusType is an enumeration type whose instances represent several states 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Status_Type](Event_Status_Type.md) 
+### #is_/same_as :: [Event_Status_Type](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.md) 
 
-### #is_/same_as :: [event_status_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type.public.md) 
+### #is_/same_as :: [Event_Status_Type.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.public.md) 
 
-### #is_/same_as :: [event_status_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type.internal.md) 
+### #is_/same_as :: [Event_Status_Type.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.internal.md) 
 
-### #is_/same_as :: [event_status_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type.protect.md) 
+### #is_/same_as :: [Event_Status_Type.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.protect.md) 
 
-### #is_/same_as :: [event_status_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type.private.md) 
+### #is_/same_as :: [Event_Status_Type.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.private.md) 
 
-### #is_/same_as :: [event_status_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type.personal.md) 
+### #is_/same_as :: [Event_Status_Type.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.personal.md) 
 
-### #is_/same_as :: [event_status_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type.secret.md)
+### #is_/same_as :: [Event_Status_Type.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.secret.md)
 

@@ -80,3 +80,22 @@ Wikidata_SPARQL_query_equivalent: wd:Q25343 p:P2370/psn:P2370 [wikibase:quantity
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Square%20metre) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Square_Meter](/_Standards/Dimension/Linear_Dimension/Area/Unit~Square_Meter.md) 
+
+### #is_/same_as :: [Unit~Square_Meter.public](/_public/Dimension/Linear_Dimension/Area/Unit~Square_Meter.public.md) 
+
+### #is_/same_as :: [Unit~Square_Meter.internal](/_internal/Dimension/Linear_Dimension/Area/Unit~Square_Meter.internal.md) 
+
+### #is_/same_as :: [Unit~Square_Meter.protect](/_protect/Dimension/Linear_Dimension/Area/Unit~Square_Meter.protect.md) 
+
+### #is_/same_as :: [Unit~Square_Meter.private](/_private/Dimension/Linear_Dimension/Area/Unit~Square_Meter.private.md) 
+
+### #is_/same_as :: [Unit~Square_Meter.personal](/_personal/Dimension/Linear_Dimension/Area/Unit~Square_Meter.personal.md) 
+
+### #is_/same_as :: [Unit~Square_Meter.secret](/_secret/Dimension/Linear_Dimension/Area/Unit~Square_Meter.secret.md)
+

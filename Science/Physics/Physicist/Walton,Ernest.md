@@ -75,3 +75,22 @@ ISNI: "0000000049272569"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernest%20Walton) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Walton,Ernest](/_Standards/Science/Physics/Physicist/Walton,Ernest.md) 
+
+### #is_/same_as :: [Walton,Ernest.public](/_public/Science/Physics/Physicist/Walton,Ernest.public.md) 
+
+### #is_/same_as :: [Walton,Ernest.internal](/_internal/Science/Physics/Physicist/Walton,Ernest.internal.md) 
+
+### #is_/same_as :: [Walton,Ernest.protect](/_protect/Science/Physics/Physicist/Walton,Ernest.protect.md) 
+
+### #is_/same_as :: [Walton,Ernest.private](/_private/Science/Physics/Physicist/Walton,Ernest.private.md) 
+
+### #is_/same_as :: [Walton,Ernest.personal](/_personal/Science/Physics/Physicist/Walton,Ernest.personal.md) 
+
+### #is_/same_as :: [Walton,Ernest.secret](/_secret/Science/Physics/Physicist/Walton,Ernest.secret.md)
+

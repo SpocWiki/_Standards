@@ -41,17 +41,17 @@ A Research Organization (e.g. scientific institute, research company).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Research_Organization](Research_Organization.md) 
+### #is_/same_as :: [Research_Organization](/_Standards/Society/Agent/Community/Organization/Research_Organization.md) 
 
-### #is_/same_as :: [Research_Organization.public](/_public/Society/Organization/Research_Organization.public.md) 
+### #is_/same_as :: [Research_Organization.public](/_public/Society/Agent/Community/Organization/Research_Organization.public.md) 
 
-### #is_/same_as :: [Research_Organization.internal](/_internal/Society/Organization/Research_Organization.internal.md) 
+### #is_/same_as :: [Research_Organization.internal](/_internal/Society/Agent/Community/Organization/Research_Organization.internal.md) 
 
-### #is_/same_as :: [Research_Organization.protect](/_protect/Society/Organization/Research_Organization.protect.md) 
+### #is_/same_as :: [Research_Organization.protect](/_protect/Society/Agent/Community/Organization/Research_Organization.protect.md) 
 
-### #is_/same_as :: [Research_Organization.private](/_private/Society/Organization/Research_Organization.private.md) 
+### #is_/same_as :: [Research_Organization.private](/_private/Society/Agent/Community/Organization/Research_Organization.private.md) 
 
-### #is_/same_as :: [Research_Organization.personal](/_personal/Society/Organization/Research_Organization.personal.md) 
+### #is_/same_as :: [Research_Organization.personal](/_personal/Society/Agent/Community/Organization/Research_Organization.personal.md) 
 
-### #is_/same_as :: [Research_Organization.secret](/_secret/Society/Organization/Research_Organization.secret.md)
+### #is_/same_as :: [Research_Organization.secret](/_secret/Society/Agent/Community/Organization/Research_Organization.secret.md)
 

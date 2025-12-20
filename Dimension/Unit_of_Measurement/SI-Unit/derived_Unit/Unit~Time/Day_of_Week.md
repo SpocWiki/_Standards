@@ -57,19 +57,20 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 #is_/same_as :: [[../../../../../WikiData/WD~Day_of_the_week,41825|WD~Day_of_the_week,41825]]
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Day_of_Week](Day_of_Week.md) 
+### #is_/same_as :: [Day_of_Week](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.md) 
 
-### #is_/same_as :: [day_of_week.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.public.md) 
+### #is_/same_as :: [Day_of_Week.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.public.md) 
 
-### #is_/same_as :: [day_of_week.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.internal.md) 
+### #is_/same_as :: [Day_of_Week.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.internal.md) 
 
-### #is_/same_as :: [day_of_week.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.protect.md) 
+### #is_/same_as :: [Day_of_Week.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.protect.md) 
 
-### #is_/same_as :: [day_of_week.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.private.md) 
+### #is_/same_as :: [Day_of_Week.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.private.md) 
 
-### #is_/same_as :: [day_of_week.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.personal.md) 
+### #is_/same_as :: [Day_of_Week.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.personal.md) 
 
-### #is_/same_as :: [day_of_week.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.secret.md)
+### #is_/same_as :: [Day_of_Week.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.secret.md)
 

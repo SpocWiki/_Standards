@@ -56,3 +56,22 @@ OpenStreetMap_tag: sport=lacrosse
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lacrosse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lacrosse](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Lacrosse.md) 
+
+### #is_/same_as :: [Lacrosse.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Lacrosse.public.md) 
+
+### #is_/same_as :: [Lacrosse.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Lacrosse.internal.md) 
+
+### #is_/same_as :: [Lacrosse.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Lacrosse.protect.md) 
+
+### #is_/same_as :: [Lacrosse.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Lacrosse.private.md) 
+
+### #is_/same_as :: [Lacrosse.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Lacrosse.personal.md) 
+
+### #is_/same_as :: [Lacrosse.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Lacrosse.secret.md)
+

@@ -120,17 +120,17 @@ IPTC_NewsCode:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gender](/_Standards/bio/Reproduction/Gender.md) 
+### #is_/same_as :: [Gender](/_Standards/bio/Reproduction/Sexual_Reproduction/Gender.md) 
 
-### #is_/same_as :: [Gender.public](/_public/bio/Reproduction/Gender.public.md) 
+### #is_/same_as :: [Gender.public](/_public/bio/Reproduction/Sexual_Reproduction/Gender.public.md) 
 
-### #is_/same_as :: [Gender.internal](/_internal/bio/Reproduction/Gender.internal.md) 
+### #is_/same_as :: [Gender.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Gender.internal.md) 
 
-### #is_/same_as :: [Gender.protect](/_protect/bio/Reproduction/Gender.protect.md) 
+### #is_/same_as :: [Gender.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Gender.protect.md) 
 
-### #is_/same_as :: [Gender.private](/_private/bio/Reproduction/Gender.private.md) 
+### #is_/same_as :: [Gender.private](/_private/bio/Reproduction/Sexual_Reproduction/Gender.private.md) 
 
-### #is_/same_as :: [Gender.personal](/_personal/bio/Reproduction/Gender.personal.md) 
+### #is_/same_as :: [Gender.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Gender.personal.md) 
 
-### #is_/same_as :: [Gender.secret](/_secret/bio/Reproduction/Gender.secret.md)
+### #is_/same_as :: [Gender.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Gender.secret.md)
 

@@ -30,3 +30,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q207333-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Honour) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Honor](/_Standards/Philosophy/Ethics/Honor.md) 
+
+### #is_/same_as :: [Honor.public](/_public/Philosophy/Ethics/Honor.public.md) 
+
+### #is_/same_as :: [Honor.internal](/_internal/Philosophy/Ethics/Honor.internal.md) 
+
+### #is_/same_as :: [Honor.protect](/_protect/Philosophy/Ethics/Honor.protect.md) 
+
+### #is_/same_as :: [Honor.private](/_private/Philosophy/Ethics/Honor.private.md) 
+
+### #is_/same_as :: [Honor.personal](/_personal/Philosophy/Ethics/Honor.personal.md) 
+
+### #is_/same_as :: [Honor.secret](/_secret/Philosophy/Ethics/Honor.secret.md)
+

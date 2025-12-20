@@ -54,3 +54,22 @@ Each costs ca. 300e6$
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Submarine_Communications_Cable](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.md) 
+
+### #is_/same_as :: [Submarine_Communications_Cable.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.public.md) 
+
+### #is_/same_as :: [Submarine_Communications_Cable.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.internal.md) 
+
+### #is_/same_as :: [Submarine_Communications_Cable.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.protect.md) 
+
+### #is_/same_as :: [Submarine_Communications_Cable.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.private.md) 
+
+### #is_/same_as :: [Submarine_Communications_Cable.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.personal.md) 
+
+### #is_/same_as :: [Submarine_Communications_Cable.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.secret.md)
+

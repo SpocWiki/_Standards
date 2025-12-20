@@ -93,3 +93,22 @@ minZoom: 6
 > 
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Titicaca) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lake_Titicaca](/_Standards/Earth/Continent/America~South/Andes/Lake_Titicaca.md) 
+
+### #is_/same_as :: [Lake_Titicaca.public](/_public/Earth/Continent/America~South/Andes/Lake_Titicaca.public.md) 
+
+### #is_/same_as :: [Lake_Titicaca.internal](/_internal/Earth/Continent/America~South/Andes/Lake_Titicaca.internal.md) 
+
+### #is_/same_as :: [Lake_Titicaca.protect](/_protect/Earth/Continent/America~South/Andes/Lake_Titicaca.protect.md) 
+
+### #is_/same_as :: [Lake_Titicaca.private](/_private/Earth/Continent/America~South/Andes/Lake_Titicaca.private.md) 
+
+### #is_/same_as :: [Lake_Titicaca.personal](/_personal/Earth/Continent/America~South/Andes/Lake_Titicaca.personal.md) 
+
+### #is_/same_as :: [Lake_Titicaca.secret](/_secret/Earth/Continent/America~South/Andes/Lake_Titicaca.secret.md)
+

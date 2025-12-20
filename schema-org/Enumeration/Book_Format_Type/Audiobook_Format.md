@@ -40,17 +40,17 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Audiobook_Format](Audiobook_Format.md) 
+### #is_/same_as :: [Audiobook_Format](/_Standards/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.md) 
 
-### #is_/same_as :: [audiobook_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.public.md) 
+### #is_/same_as :: [Audiobook_Format.public](/_public/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.public.md) 
 
-### #is_/same_as :: [audiobook_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.internal.md) 
+### #is_/same_as :: [Audiobook_Format.internal](/_internal/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.internal.md) 
 
-### #is_/same_as :: [audiobook_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.protect.md) 
+### #is_/same_as :: [Audiobook_Format.protect](/_protect/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.protect.md) 
 
-### #is_/same_as :: [audiobook_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.private.md) 
+### #is_/same_as :: [Audiobook_Format.private](/_private/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.private.md) 
 
-### #is_/same_as :: [audiobook_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.personal.md) 
+### #is_/same_as :: [Audiobook_Format.personal](/_personal/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.personal.md) 
 
-### #is_/same_as :: [audiobook_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.secret.md)
+### #is_/same_as :: [Audiobook_Format.secret](/_secret/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.secret.md)
 

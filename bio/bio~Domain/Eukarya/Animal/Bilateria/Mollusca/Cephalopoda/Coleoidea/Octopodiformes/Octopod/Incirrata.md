@@ -218,7 +218,7 @@ African Jour. Mar. Sci. .
   Location ::           Great Barrier Reef
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
-  ---------------------------------------------------------------------------
+  ---------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

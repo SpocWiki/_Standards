@@ -42,17 +42,17 @@ Specifies that product returns are free of charge for the customer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Free_Return](Free_Return.md) 
+### #is_/same_as :: [Free_Return](/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.md) 
 
-### #is_/same_as :: [free_return.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.public.md) 
+### #is_/same_as :: [Free_Return.public](/_public/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.public.md) 
 
-### #is_/same_as :: [free_return.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.internal.md) 
+### #is_/same_as :: [Free_Return.internal](/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.internal.md) 
 
-### #is_/same_as :: [free_return.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.protect.md) 
+### #is_/same_as :: [Free_Return.protect](/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.protect.md) 
 
-### #is_/same_as :: [free_return.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.private.md) 
+### #is_/same_as :: [Free_Return.private](/_private/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.private.md) 
 
-### #is_/same_as :: [free_return.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.personal.md) 
+### #is_/same_as :: [Free_Return.personal](/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.personal.md) 
 
-### #is_/same_as :: [free_return.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.secret.md)
+### #is_/same_as :: [Free_Return.secret](/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.secret.md)
 

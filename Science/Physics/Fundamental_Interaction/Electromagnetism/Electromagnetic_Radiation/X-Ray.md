@@ -71,3 +71,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/X-ray) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [X-Ray](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/X-Ray.md) 
+
+### #is_/same_as :: [X-Ray.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/X-Ray.public.md) 
+
+### #is_/same_as :: [X-Ray.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/X-Ray.internal.md) 
+
+### #is_/same_as :: [X-Ray.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/X-Ray.protect.md) 
+
+### #is_/same_as :: [X-Ray.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/X-Ray.private.md) 
+
+### #is_/same_as :: [X-Ray.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/X-Ray.personal.md) 
+
+### #is_/same_as :: [X-Ray.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/X-Ray.secret.md)
+

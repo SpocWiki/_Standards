@@ -62,3 +62,22 @@ Facebook_username: peterpaulandmary
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter,%20Paul%20and%20Mary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Peter,Paul_and_Mary](/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.md) 
+
+### #is_/same_as :: [Peter,Paul_and_Mary.public](/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.public.md) 
+
+### #is_/same_as :: [Peter,Paul_and_Mary.internal](/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.internal.md) 
+
+### #is_/same_as :: [Peter,Paul_and_Mary.protect](/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.protect.md) 
+
+### #is_/same_as :: [Peter,Paul_and_Mary.private](/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.private.md) 
+
+### #is_/same_as :: [Peter,Paul_and_Mary.personal](/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.personal.md) 
+
+### #is_/same_as :: [Peter,Paul_and_Mary.secret](/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.secret.md)
+

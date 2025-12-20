@@ -34,3 +34,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/PLASTICHNOST.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plasticity%20(physics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plasticity](/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Plasticity.md) 
+
+### #is_/same_as :: [Plasticity.public](/_public/Technology/Engineering/Mechanical_Engineering/Engine/Plasticity.public.md) 
+
+### #is_/same_as :: [Plasticity.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Plasticity.internal.md) 
+
+### #is_/same_as :: [Plasticity.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Plasticity.protect.md) 
+
+### #is_/same_as :: [Plasticity.private](/_private/Technology/Engineering/Mechanical_Engineering/Engine/Plasticity.private.md) 
+
+### #is_/same_as :: [Plasticity.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Plasticity.personal.md) 
+
+### #is_/same_as :: [Plasticity.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Plasticity.secret.md)
+

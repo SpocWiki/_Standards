@@ -51,3 +51,22 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Espresso) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Espresso](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.md) 
+
+### #is_/same_as :: [Espresso.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.public.md) 
+
+### #is_/same_as :: [Espresso.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.internal.md) 
+
+### #is_/same_as :: [Espresso.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.protect.md) 
+
+### #is_/same_as :: [Espresso.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.private.md) 
+
+### #is_/same_as :: [Espresso.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.personal.md) 
+
+### #is_/same_as :: [Espresso.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Espresso.secret.md)
+

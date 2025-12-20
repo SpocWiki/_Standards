@@ -87,3 +87,22 @@ native_label: Rubik-kocka
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rubik's%20Cube) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rubik's_Cube](/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle/Rubik's_Cube.md) 
+
+### #is_/same_as :: [Rubik's_Cube.public](/_public/Society/Communication/Media/Creative_Work/Game/Puzzle/Rubik's_Cube.public.md) 
+
+### #is_/same_as :: [Rubik's_Cube.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Puzzle/Rubik's_Cube.internal.md) 
+
+### #is_/same_as :: [Rubik's_Cube.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Puzzle/Rubik's_Cube.protect.md) 
+
+### #is_/same_as :: [Rubik's_Cube.private](/_private/Society/Communication/Media/Creative_Work/Game/Puzzle/Rubik's_Cube.private.md) 
+
+### #is_/same_as :: [Rubik's_Cube.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Puzzle/Rubik's_Cube.personal.md) 
+
+### #is_/same_as :: [Rubik's_Cube.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Puzzle/Rubik's_Cube.secret.md)
+

@@ -39,17 +39,17 @@ An employment agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Employment_Agency](Employment_Agency.md) 
+### #is_/same_as :: [Employment_Agency](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Employment_Agency.md) 
 
-### #is_/same_as :: [Employment_Agency.public](/_public/Society/Organization/Local_Business/Employment_Agency.public.md) 
+### #is_/same_as :: [Employment_Agency.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Employment_Agency.public.md) 
 
-### #is_/same_as :: [Employment_Agency.internal](/_internal/Society/Organization/Local_Business/Employment_Agency.internal.md) 
+### #is_/same_as :: [Employment_Agency.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Employment_Agency.internal.md) 
 
-### #is_/same_as :: [Employment_Agency.protect](/_protect/Society/Organization/Local_Business/Employment_Agency.protect.md) 
+### #is_/same_as :: [Employment_Agency.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Employment_Agency.protect.md) 
 
-### #is_/same_as :: [Employment_Agency.private](/_private/Society/Organization/Local_Business/Employment_Agency.private.md) 
+### #is_/same_as :: [Employment_Agency.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Employment_Agency.private.md) 
 
-### #is_/same_as :: [Employment_Agency.personal](/_personal/Society/Organization/Local_Business/Employment_Agency.personal.md) 
+### #is_/same_as :: [Employment_Agency.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Employment_Agency.personal.md) 
 
-### #is_/same_as :: [Employment_Agency.secret](/_secret/Society/Organization/Local_Business/Employment_Agency.secret.md)
+### #is_/same_as :: [Employment_Agency.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Employment_Agency.secret.md)
 

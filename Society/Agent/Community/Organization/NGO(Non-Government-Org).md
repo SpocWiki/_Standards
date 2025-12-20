@@ -39,17 +39,17 @@ Organization: Non-governmental Organization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [NGO(Non-Government-Org)](NGO(Non-Government-Org).md) 
+### #is_/same_as :: [NGO(Non-Government-Org)](/_Standards/Society/Agent/Community/Organization/NGO(Non-Government-Org).md) 
 
-### #is_/same_as :: [Ngo.public](/_public/Society/Organization/Ngo.public.md) 
+### #is_/same_as :: [NGO(Non-Government-Org).public](/_public/Society/Agent/Community/Organization/NGO(Non-Government-Org).public.md) 
 
-### #is_/same_as :: [Ngo.internal](/_internal/Society/Organization/Ngo.internal.md) 
+### #is_/same_as :: [NGO(Non-Government-Org).internal](/_internal/Society/Agent/Community/Organization/NGO(Non-Government-Org).internal.md) 
 
-### #is_/same_as :: [Ngo.protect](/_protect/Society/Organization/Ngo.protect.md) 
+### #is_/same_as :: [NGO(Non-Government-Org).protect](/_protect/Society/Agent/Community/Organization/NGO(Non-Government-Org).protect.md) 
 
-### #is_/same_as :: [Ngo.private](/_private/Society/Organization/Ngo.private.md) 
+### #is_/same_as :: [NGO(Non-Government-Org).private](/_private/Society/Agent/Community/Organization/NGO(Non-Government-Org).private.md) 
 
-### #is_/same_as :: [Ngo.personal](/_personal/Society/Organization/Ngo.personal.md) 
+### #is_/same_as :: [NGO(Non-Government-Org).personal](/_personal/Society/Agent/Community/Organization/NGO(Non-Government-Org).personal.md) 
 
-### #is_/same_as :: [Ngo.secret](/_secret/Society/Organization/Ngo.secret.md)
+### #is_/same_as :: [NGO(Non-Government-Org).secret](/_secret/Society/Agent/Community/Organization/NGO(Non-Government-Org).secret.md)
 

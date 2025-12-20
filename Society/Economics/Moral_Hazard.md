@@ -36,3 +36,22 @@ studied_by:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moral%20hazard) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moral_Hazard](/_Standards/Society/Economics/Moral_Hazard.md) 
+
+### #is_/same_as :: [Moral_Hazard.public](/_public/Society/Economics/Moral_Hazard.public.md) 
+
+### #is_/same_as :: [Moral_Hazard.internal](/_internal/Society/Economics/Moral_Hazard.internal.md) 
+
+### #is_/same_as :: [Moral_Hazard.protect](/_protect/Society/Economics/Moral_Hazard.protect.md) 
+
+### #is_/same_as :: [Moral_Hazard.private](/_private/Society/Economics/Moral_Hazard.private.md) 
+
+### #is_/same_as :: [Moral_Hazard.personal](/_personal/Society/Economics/Moral_Hazard.personal.md) 
+
+### #is_/same_as :: [Moral_Hazard.secret](/_secret/Society/Economics/Moral_Hazard.secret.md)
+

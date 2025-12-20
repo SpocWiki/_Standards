@@ -93,3 +93,22 @@ date_of_death: 1907-09-04T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edvard%20Grieg) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grieg,Edvard](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.md) 
+
+### #is_/same_as :: [Grieg,Edvard.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.public.md) 
+
+### #is_/same_as :: [Grieg,Edvard.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.internal.md) 
+
+### #is_/same_as :: [Grieg,Edvard.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.protect.md) 
+
+### #is_/same_as :: [Grieg,Edvard.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.private.md) 
+
+### #is_/same_as :: [Grieg,Edvard.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.personal.md) 
+
+### #is_/same_as :: [Grieg,Edvard.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Grieg,Edvard.secret.md)
+

@@ -80,3 +80,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Broadus%20Watso
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20B.%20Watson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Watson,John_B.](/_Standards/bio/Psychology/Psychologist/Watson,John_B..md) 
+
+### #is_/same_as :: [Watson,John_B..public](/_public/bio/Psychology/Psychologist/Watson,John_B..public.md) 
+
+### #is_/same_as :: [Watson,John_B..internal](/_internal/bio/Psychology/Psychologist/Watson,John_B..internal.md) 
+
+### #is_/same_as :: [Watson,John_B..protect](/_protect/bio/Psychology/Psychologist/Watson,John_B..protect.md) 
+
+### #is_/same_as :: [Watson,John_B..private](/_private/bio/Psychology/Psychologist/Watson,John_B..private.md) 
+
+### #is_/same_as :: [Watson,John_B..personal](/_personal/bio/Psychology/Psychologist/Watson,John_B..personal.md) 
+
+### #is_/same_as :: [Watson,John_B..secret](/_secret/bio/Psychology/Psychologist/Watson,John_B..secret.md)
+

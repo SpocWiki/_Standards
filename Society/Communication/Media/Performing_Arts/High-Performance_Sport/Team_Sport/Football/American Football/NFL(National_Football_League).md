@@ -110,3 +110,22 @@ inception: 1920-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Football%20League) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [NFL(National_Football_League)](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League).md) 
+
+### #is_/same_as :: [NFL(National_Football_League).public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League).public.md) 
+
+### #is_/same_as :: [NFL(National_Football_League).internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League).internal.md) 
+
+### #is_/same_as :: [NFL(National_Football_League).protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League).protect.md) 
+
+### #is_/same_as :: [NFL(National_Football_League).private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League).private.md) 
+
+### #is_/same_as :: [NFL(National_Football_League).personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League).personal.md) 
+
+### #is_/same_as :: [NFL(National_Football_League).secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League).secret.md)
+

@@ -37,3 +37,21 @@ male_form_of_label: Gran Duque
 > currently by claimants to the Russian Imperial Throne (eg. Grand Duke George Mikhailovich of Russia)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grand%20duke)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grand_Duke](/_Standards/Society/Politics/Government/Monarchy/Grand_Duke.md) 
+
+### #is_/same_as :: [Grand_Duke.public](/_public/Society/Politics/Government/Monarchy/Grand_Duke.public.md) 
+
+### #is_/same_as :: [Grand_Duke.internal](/_internal/Society/Politics/Government/Monarchy/Grand_Duke.internal.md) 
+
+### #is_/same_as :: [Grand_Duke.protect](/_protect/Society/Politics/Government/Monarchy/Grand_Duke.protect.md) 
+
+### #is_/same_as :: [Grand_Duke.private](/_private/Society/Politics/Government/Monarchy/Grand_Duke.private.md) 
+
+### #is_/same_as :: [Grand_Duke.personal](/_personal/Society/Politics/Government/Monarchy/Grand_Duke.personal.md) 
+
+### #is_/same_as :: [Grand_Duke.secret](/_secret/Society/Politics/Government/Monarchy/Grand_Duke.secret.md)
+

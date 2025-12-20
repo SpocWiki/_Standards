@@ -180,17 +180,17 @@ X_username: timberners_lee
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berners-Lee,Tim](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Berners-Lee,Tim.md) 
+### #is_/same_as :: [Berners-Lee,Tim](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Berners-Lee,Tim.md) 
 
-### #is_/same_as :: [Berners-Lee,Tim.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Berners-Lee,Tim.public.md) 
+### #is_/same_as :: [Berners-Lee,Tim.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Berners-Lee,Tim.public.md) 
 
-### #is_/same_as :: [Berners-Lee,Tim.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Berners-Lee,Tim.internal.md) 
+### #is_/same_as :: [Berners-Lee,Tim.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Berners-Lee,Tim.internal.md) 
 
-### #is_/same_as :: [Berners-Lee,Tim.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Berners-Lee,Tim.protect.md) 
+### #is_/same_as :: [Berners-Lee,Tim.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Berners-Lee,Tim.protect.md) 
 
-### #is_/same_as :: [Berners-Lee,Tim.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Berners-Lee,Tim.private.md) 
+### #is_/same_as :: [Berners-Lee,Tim.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Berners-Lee,Tim.private.md) 
 
-### #is_/same_as :: [Berners-Lee,Tim.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Berners-Lee,Tim.personal.md) 
+### #is_/same_as :: [Berners-Lee,Tim.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Berners-Lee,Tim.personal.md) 
 
-### #is_/same_as :: [Berners-Lee,Tim.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Berners-Lee,Tim.secret.md)
+### #is_/same_as :: [Berners-Lee,Tim.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Berners-Lee,Tim.secret.md)
 

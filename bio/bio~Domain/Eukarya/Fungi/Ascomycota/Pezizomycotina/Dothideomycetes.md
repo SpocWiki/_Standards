@@ -260,7 +260,7 @@ loci. 2006. Mycologia 98:1043-1054
   Identified By        Robert Shoemaker
   Sex ::                Teleomorph
   Copyright ::            © [Robert Shoemaker](mailto:SHOEMAKERB@AGR.GC.CA)
-  ---------------------
+  ---------------------
 
 
 ## Confidential Links & Embeds: 

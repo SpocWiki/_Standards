@@ -73,3 +73,22 @@ start_time: 1905-01-22T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russian%20Revolution%20of%201905) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1905-Russian_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.md) 
+
+### #is_/same_as :: [1905-Russian_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.public.md) 
+
+### #is_/same_as :: [1905-Russian_Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.internal.md) 
+
+### #is_/same_as :: [1905-Russian_Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.protect.md) 
+
+### #is_/same_as :: [1905-Russian_Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.private.md) 
+
+### #is_/same_as :: [1905-Russian_Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.personal.md) 
+
+### #is_/same_as :: [1905-Russian_Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.secret.md)
+

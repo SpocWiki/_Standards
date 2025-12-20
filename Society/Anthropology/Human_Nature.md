@@ -95,3 +95,22 @@ MeSH_tree_code: F01.510
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20nature) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Human_Nature](/_Standards/Society/Anthropology/Human_Nature.md) 
+
+### #is_/same_as :: [Human_Nature.public](/_public/Society/Anthropology/Human_Nature.public.md) 
+
+### #is_/same_as :: [Human_Nature.internal](/_internal/Society/Anthropology/Human_Nature.internal.md) 
+
+### #is_/same_as :: [Human_Nature.protect](/_protect/Society/Anthropology/Human_Nature.protect.md) 
+
+### #is_/same_as :: [Human_Nature.private](/_private/Society/Anthropology/Human_Nature.private.md) 
+
+### #is_/same_as :: [Human_Nature.personal](/_personal/Society/Anthropology/Human_Nature.personal.md) 
+
+### #is_/same_as :: [Human_Nature.secret](/_secret/Society/Anthropology/Human_Nature.secret.md)
+

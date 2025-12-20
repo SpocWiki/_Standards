@@ -52,3 +52,22 @@ Glottolog_code: narr1281
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bantu%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LangFamily~Bantu](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu.md) 
+
+### #is_/same_as :: [LangFamily~Bantu.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu.public.md) 
+
+### #is_/same_as :: [LangFamily~Bantu.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu.internal.md) 
+
+### #is_/same_as :: [LangFamily~Bantu.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu.protect.md) 
+
+### #is_/same_as :: [LangFamily~Bantu.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu.private.md) 
+
+### #is_/same_as :: [LangFamily~Bantu.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu.personal.md) 
+
+### #is_/same_as :: [LangFamily~Bantu.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Bantu.secret.md)
+

@@ -135,3 +135,22 @@ BHCL_UUID: a096c6ad-ba77-4a89-8efe-0057a9ec2c32
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Louis%20Stevenson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stevenson,Robert_Louis](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.md) 
+
+### #is_/same_as :: [Stevenson,Robert_Louis.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.public.md) 
+
+### #is_/same_as :: [Stevenson,Robert_Louis.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.internal.md) 
+
+### #is_/same_as :: [Stevenson,Robert_Louis.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.protect.md) 
+
+### #is_/same_as :: [Stevenson,Robert_Louis.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.private.md) 
+
+### #is_/same_as :: [Stevenson,Robert_Louis.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.personal.md) 
+
+### #is_/same_as :: [Stevenson,Robert_Louis.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.secret.md)
+

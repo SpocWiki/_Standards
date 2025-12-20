@@ -45,3 +45,22 @@ UNII: W2ZU1RY8B0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Green%20tea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Green_tea](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.md) 
+
+### #is_/same_as :: [Green_tea.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.public.md) 
+
+### #is_/same_as :: [Green_tea.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.internal.md) 
+
+### #is_/same_as :: [Green_tea.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.protect.md) 
+
+### #is_/same_as :: [Green_tea.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.private.md) 
+
+### #is_/same_as :: [Green_tea.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.personal.md) 
+
+### #is_/same_as :: [Green_tea.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.secret.md)
+

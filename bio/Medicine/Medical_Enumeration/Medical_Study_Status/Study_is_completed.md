@@ -40,17 +40,17 @@ Completed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [completed](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.md) 
+### #is_/same_as :: [Study_is_completed](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.md) 
 
-### #is_/same_as :: [completed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.public.md) 
+### #is_/same_as :: [Study_is_completed.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.public.md) 
 
-### #is_/same_as :: [completed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.internal.md) 
+### #is_/same_as :: [Study_is_completed.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.internal.md) 
 
-### #is_/same_as :: [completed.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.protect.md) 
+### #is_/same_as :: [Study_is_completed.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.protect.md) 
 
-### #is_/same_as :: [completed.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.private.md) 
+### #is_/same_as :: [Study_is_completed.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.private.md) 
 
-### #is_/same_as :: [completed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.personal.md) 
+### #is_/same_as :: [Study_is_completed.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.personal.md) 
 
-### #is_/same_as :: [completed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.secret.md)
+### #is_/same_as :: [Study_is_completed.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.secret.md)
 

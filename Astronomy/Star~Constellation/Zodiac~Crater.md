@@ -63,6 +63,7 @@ short_name: Crt
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crater%20(constellation))
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Crater](/_Standards/Astronomy/Star~Constellation/Zodiac~Crater.md) 

@@ -49,3 +49,21 @@ OpenStreetMap_tag: cuisine=seafood
 > The harvesting of wild seafood is usually known as fishing or hunting, while the cultivation and farming of seafood is known as aquaculture and fish farming (in the case of fish). Most of the seafood harvest is consumed by humans, but a significant proportion is used as fish food to farm other fish or rear farm animals. Some seafoods (i.e. kelp) are used as food for other plants (a fertilizer). In these ways, seafoods are used to produce further food for human consumption. Also, products such as fish oil, spirulina tablets, fish collagen, and chitin are made from seafoods. Some seafood is fed to aquarium fish, or used to feed domestic pets such as cats. A small proportion is used in medicine or is used industrially for nonfood purposes (e.g. leather).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seafood)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seafood](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Seafood.md) 
+
+### #is_/same_as :: [Seafood.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Seafood.public.md) 
+
+### #is_/same_as :: [Seafood.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Seafood.internal.md) 
+
+### #is_/same_as :: [Seafood.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Seafood.protect.md) 
+
+### #is_/same_as :: [Seafood.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Seafood.private.md) 
+
+### #is_/same_as :: [Seafood.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Seafood.personal.md) 
+
+### #is_/same_as :: [Seafood.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Seafood.secret.md)
+

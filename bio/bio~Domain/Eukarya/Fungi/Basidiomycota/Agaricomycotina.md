@@ -472,7 +472,7 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
   Scientific Name ::  Gomphus
   Comments          Agaricomycetes
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

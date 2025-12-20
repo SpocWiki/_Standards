@@ -85,17 +85,17 @@ inception: 1769-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mechanical_Turk](Mechanical_Turk.md) 
+### #is_/same_as :: [Mechanical_Turk](/_Standards/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.md) 
 
-### #is_/same_as :: [Mechanical_Turk.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Mechanical_Turk.public.md) 
+### #is_/same_as :: [Mechanical_Turk.public](/_public/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.public.md) 
 
-### #is_/same_as :: [Mechanical_Turk.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Mechanical_Turk.internal.md) 
+### #is_/same_as :: [Mechanical_Turk.internal](/_internal/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.internal.md) 
 
-### #is_/same_as :: [Mechanical_Turk.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Mechanical_Turk.protect.md) 
+### #is_/same_as :: [Mechanical_Turk.protect](/_protect/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.protect.md) 
 
-### #is_/same_as :: [Mechanical_Turk.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Mechanical_Turk.private.md) 
+### #is_/same_as :: [Mechanical_Turk.private](/_private/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.private.md) 
 
-### #is_/same_as :: [Mechanical_Turk.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Mechanical_Turk.personal.md) 
+### #is_/same_as :: [Mechanical_Turk.personal](/_personal/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.personal.md) 
 
-### #is_/same_as :: [Mechanical_Turk.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Mechanical_Turk.secret.md)
+### #is_/same_as :: [Mechanical_Turk.secret](/_secret/Society/Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk.secret.md)
 

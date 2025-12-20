@@ -40,17 +40,17 @@ Medical clinicians, including practicing physicians and other medical profession
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [clinician](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.md) 
+### #is_/same_as :: [Clinician](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Clinician.md) 
 
-### #is_/same_as :: [clinician.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.public.md) 
+### #is_/same_as :: [Clinician.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Clinician.public.md) 
 
-### #is_/same_as :: [clinician.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.internal.md) 
+### #is_/same_as :: [Clinician.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Clinician.internal.md) 
 
-### #is_/same_as :: [clinician.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.protect.md) 
+### #is_/same_as :: [Clinician.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Clinician.protect.md) 
 
-### #is_/same_as :: [clinician.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.private.md) 
+### #is_/same_as :: [Clinician.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Clinician.private.md) 
 
-### #is_/same_as :: [clinician.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.personal.md) 
+### #is_/same_as :: [Clinician.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Clinician.personal.md) 
 
-### #is_/same_as :: [clinician.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.secret.md)
+### #is_/same_as :: [Clinician.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Clinician.secret.md)
 

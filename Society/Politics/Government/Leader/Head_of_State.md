@@ -67,3 +67,22 @@ IPTC_NewsCode: mediatopic/20000610
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Head%20of%20state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Head_of_State](/_Standards/Society/Politics/Government/Leader/Head_of_State.md) 
+
+### #is_/same_as :: [Head_of_State.public](/_public/Society/Politics/Government/Leader/Head_of_State.public.md) 
+
+### #is_/same_as :: [Head_of_State.internal](/_internal/Society/Politics/Government/Leader/Head_of_State.internal.md) 
+
+### #is_/same_as :: [Head_of_State.protect](/_protect/Society/Politics/Government/Leader/Head_of_State.protect.md) 
+
+### #is_/same_as :: [Head_of_State.private](/_private/Society/Politics/Government/Leader/Head_of_State.private.md) 
+
+### #is_/same_as :: [Head_of_State.personal](/_personal/Society/Politics/Government/Leader/Head_of_State.personal.md) 
+
+### #is_/same_as :: [Head_of_State.secret](/_secret/Society/Politics/Government/Leader/Head_of_State.secret.md)
+

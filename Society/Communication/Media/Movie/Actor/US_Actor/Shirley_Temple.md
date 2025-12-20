@@ -126,3 +126,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TEMPL_SHIRLI.htm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shirley%20Temple) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shirley_Temple](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.md) 
+
+### #is_/same_as :: [Shirley_Temple.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.public.md) 
+
+### #is_/same_as :: [Shirley_Temple.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.internal.md) 
+
+### #is_/same_as :: [Shirley_Temple.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.protect.md) 
+
+### #is_/same_as :: [Shirley_Temple.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.private.md) 
+
+### #is_/same_as :: [Shirley_Temple.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.personal.md) 
+
+### #is_/same_as :: [Shirley_Temple.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Shirley_Temple.secret.md)
+

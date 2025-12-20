@@ -113,3 +113,22 @@ ISNI: "0000000120957940"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Montesquieu) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Montesquieu](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.md) 
+
+### #is_/same_as :: [Montesquieu.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.public.md) 
+
+### #is_/same_as :: [Montesquieu.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.internal.md) 
+
+### #is_/same_as :: [Montesquieu.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.protect.md) 
+
+### #is_/same_as :: [Montesquieu.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.private.md) 
+
+### #is_/same_as :: [Montesquieu.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.personal.md) 
+
+### #is_/same_as :: [Montesquieu.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu.secret.md)
+

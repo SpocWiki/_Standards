@@ -41,13 +41,13 @@ flag: "[[_Standards/WikiData/WD~flag_of_Saint_Pierre_and_Miquelon,234956]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]"
 instance_of: "[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Encyclopï¿½dia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopï¿½dia_Britannica,15987490]]"
 list_of_monuments: "[[_Standards/WikiData/WD~Q2365400,2365400]]"
 legislative_body: "[[_Standards/WikiData/WD~Territorial_Council_of_Saint_Pierre_and_Miquelon,2994335]]"
 highest_point: "[[_Standards/WikiData/WD~Morne_de_la_Grande_Montagne,3051597]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Saint_Pierre_and_Miquelon,3123285]]"
-head_of_government: "[[_Standards/WikiData/WD~Stéphane_Artano,3501568]]"
+head_of_government: "[[_Standards/WikiData/WD~Stï¿½phane_Artano,3501568]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Saint_Pierre_and_Miquelon,5256072]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Saint_Pierre_and_Miquelon,5333763]]"
 driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
@@ -141,7 +141,7 @@ has_place_continent:: [[North-America]]
 
 ## #has_/text_of_/abstract 
 
-> **Saint Pierre and Miquelon** ( MEEK-?-lon), officially the Territorial Collectivity of Saint Pierre and Miquelon (French: Collectivité territoriale de Saint-Pierre-et-Miquelon), 
+> **Saint Pierre and Miquelon** ( MEEK-?-lon), officially the Territorial Collectivity of Saint Pierre and Miquelon (French: Collectivitï¿½ territoriale de Saint-Pierre-et-Miquelon), 
 > is a self-governing territorial overseas collectivity of France in the northwestern Atlantic Ocean, 
 > located near the Canadian province of Newfoundland and Labrador. 
 > 

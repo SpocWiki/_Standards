@@ -39,3 +39,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Logistics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Logistics](/_Standards/Society/Economics/Logistics.md) 
+
+### #is_/same_as :: [Logistics.public](/_public/Society/Economics/Logistics.public.md) 
+
+### #is_/same_as :: [Logistics.internal](/_internal/Society/Economics/Logistics.internal.md) 
+
+### #is_/same_as :: [Logistics.protect](/_protect/Society/Economics/Logistics.protect.md) 
+
+### #is_/same_as :: [Logistics.private](/_private/Society/Economics/Logistics.private.md) 
+
+### #is_/same_as :: [Logistics.personal](/_personal/Society/Economics/Logistics.personal.md) 
+
+### #is_/same_as :: [Logistics.secret](/_secret/Society/Economics/Logistics.secret.md)
+

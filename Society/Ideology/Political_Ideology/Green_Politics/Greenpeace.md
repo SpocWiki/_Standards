@@ -141,3 +141,22 @@ Libris_URI: xv8clj9g2j6cjjq
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greenpeace) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Greenpeace](/_Standards/Society/Ideology/Political_Ideology/Green_Politics/Greenpeace.md) 
+
+### #is_/same_as :: [Greenpeace.public](/_public/Society/Ideology/Political_Ideology/Green_Politics/Greenpeace.public.md) 
+
+### #is_/same_as :: [Greenpeace.internal](/_internal/Society/Ideology/Political_Ideology/Green_Politics/Greenpeace.internal.md) 
+
+### #is_/same_as :: [Greenpeace.protect](/_protect/Society/Ideology/Political_Ideology/Green_Politics/Greenpeace.protect.md) 
+
+### #is_/same_as :: [Greenpeace.private](/_private/Society/Ideology/Political_Ideology/Green_Politics/Greenpeace.private.md) 
+
+### #is_/same_as :: [Greenpeace.personal](/_personal/Society/Ideology/Political_Ideology/Green_Politics/Greenpeace.personal.md) 
+
+### #is_/same_as :: [Greenpeace.secret](/_secret/Society/Ideology/Political_Ideology/Green_Politics/Greenpeace.secret.md)
+

@@ -120,21 +120,19 @@ Tag Instances like this:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sunday) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sunday](Sunday.md) 
+### #is_/same_as :: [Sunday](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.md) 
 
-### #is_/same_as :: [sunday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.public.md) 
+### #is_/same_as :: [Sunday.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.public.md) 
 
-### #is_/same_as :: [sunday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.internal.md) 
+### #is_/same_as :: [Sunday.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.internal.md) 
 
-### #is_/same_as :: [sunday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.protect.md) 
+### #is_/same_as :: [Sunday.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.protect.md) 
 
-### #is_/same_as :: [sunday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.private.md) 
+### #is_/same_as :: [Sunday.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.private.md) 
 
-### #is_/same_as :: [sunday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.personal.md) 
+### #is_/same_as :: [Sunday.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.personal.md) 
 
-### #is_/same_as :: [sunday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.secret.md)
+### #is_/same_as :: [Sunday.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Sunday.secret.md)
 

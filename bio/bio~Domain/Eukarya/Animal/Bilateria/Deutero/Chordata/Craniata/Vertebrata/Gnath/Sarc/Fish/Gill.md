@@ -18,3 +18,22 @@ has_id_wikidata: Q132390
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gill) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gill](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Gill.md) 
+
+### #is_/same_as :: [Gill.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Gill.public.md) 
+
+### #is_/same_as :: [Gill.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Gill.internal.md) 
+
+### #is_/same_as :: [Gill.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Gill.protect.md) 
+
+### #is_/same_as :: [Gill.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Gill.private.md) 
+
+### #is_/same_as :: [Gill.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Gill.personal.md) 
+
+### #is_/same_as :: [Gill.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Gill.secret.md)
+

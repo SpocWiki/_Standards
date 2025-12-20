@@ -55,3 +55,22 @@ female_form_of_label: доросла
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Adult) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Adulthood](/_Standards/bio/Reproduction/Developmental_Biology/Adulthood.md) 
+
+### #is_/same_as :: [Adulthood.public](/_public/bio/Reproduction/Developmental_Biology/Adulthood.public.md) 
+
+### #is_/same_as :: [Adulthood.internal](/_internal/bio/Reproduction/Developmental_Biology/Adulthood.internal.md) 
+
+### #is_/same_as :: [Adulthood.protect](/_protect/bio/Reproduction/Developmental_Biology/Adulthood.protect.md) 
+
+### #is_/same_as :: [Adulthood.private](/_private/bio/Reproduction/Developmental_Biology/Adulthood.private.md) 
+
+### #is_/same_as :: [Adulthood.personal](/_personal/bio/Reproduction/Developmental_Biology/Adulthood.personal.md) 
+
+### #is_/same_as :: [Adulthood.secret](/_secret/bio/Reproduction/Developmental_Biology/Adulthood.secret.md)
+

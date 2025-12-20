@@ -64,3 +64,22 @@ Krugosvet_article: nauka_i_tehnika/fizika/DOPLERA_EFFEKT.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doppler%20effect) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Doppler_Effect](/_Standards/Science/Physics/Wave/Doppler_Effect.md) 
+
+### #is_/same_as :: [Doppler_Effect.public](/_public/Science/Physics/Wave/Doppler_Effect.public.md) 
+
+### #is_/same_as :: [Doppler_Effect.internal](/_internal/Science/Physics/Wave/Doppler_Effect.internal.md) 
+
+### #is_/same_as :: [Doppler_Effect.protect](/_protect/Science/Physics/Wave/Doppler_Effect.protect.md) 
+
+### #is_/same_as :: [Doppler_Effect.private](/_private/Science/Physics/Wave/Doppler_Effect.private.md) 
+
+### #is_/same_as :: [Doppler_Effect.personal](/_personal/Science/Physics/Wave/Doppler_Effect.personal.md) 
+
+### #is_/same_as :: [Doppler_Effect.secret](/_secret/Science/Physics/Wave/Doppler_Effect.secret.md)
+

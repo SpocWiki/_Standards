@@ -39,17 +39,17 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ticket](/_Standards/schema-org/Class/is_a_/Intangible/ticket.md) 
+### #is_/same_as :: [Ticket](/_Standards/schema-org/Class/is_a_/Intangible/Ticket.md) 
 
-### #is_/same_as :: [ticket.public](/_public/schema-org/Class/is_a_/Intangible/ticket.public.md) 
+### #is_/same_as :: [Ticket.public](/_public/schema-org/Class/is_a_/Intangible/Ticket.public.md) 
 
-### #is_/same_as :: [ticket.internal](/_internal/schema-org/Class/is_a_/Intangible/ticket.internal.md) 
+### #is_/same_as :: [Ticket.internal](/_internal/schema-org/Class/is_a_/Intangible/Ticket.internal.md) 
 
-### #is_/same_as :: [ticket.protect](/_protect/schema-org/Class/is_a_/Intangible/ticket.protect.md) 
+### #is_/same_as :: [Ticket.protect](/_protect/schema-org/Class/is_a_/Intangible/Ticket.protect.md) 
 
-### #is_/same_as :: [ticket.private](/_private/schema-org/Class/is_a_/Intangible/ticket.private.md) 
+### #is_/same_as :: [Ticket.private](/_private/schema-org/Class/is_a_/Intangible/Ticket.private.md) 
 
-### #is_/same_as :: [ticket.personal](/_personal/schema-org/Class/is_a_/Intangible/ticket.personal.md) 
+### #is_/same_as :: [Ticket.personal](/_personal/schema-org/Class/is_a_/Intangible/Ticket.personal.md) 
 
-### #is_/same_as :: [ticket.secret](/_secret/schema-org/Class/is_a_/Intangible/ticket.secret.md)
+### #is_/same_as :: [Ticket.secret](/_secret/schema-org/Class/is_a_/Intangible/Ticket.secret.md)
 

@@ -67,3 +67,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pendulum) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pendulum](/_Standards/Technology/Tool/Instrumentation/Pendulum.md) 
+
+### #is_/same_as :: [Pendulum.public](/_public/Technology/Tool/Instrumentation/Pendulum.public.md) 
+
+### #is_/same_as :: [Pendulum.internal](/_internal/Technology/Tool/Instrumentation/Pendulum.internal.md) 
+
+### #is_/same_as :: [Pendulum.protect](/_protect/Technology/Tool/Instrumentation/Pendulum.protect.md) 
+
+### #is_/same_as :: [Pendulum.private](/_private/Technology/Tool/Instrumentation/Pendulum.private.md) 
+
+### #is_/same_as :: [Pendulum.personal](/_personal/Technology/Tool/Instrumentation/Pendulum.personal.md) 
+
+### #is_/same_as :: [Pendulum.secret](/_secret/Technology/Tool/Instrumentation/Pendulum.secret.md)
+

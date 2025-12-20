@@ -37,3 +37,22 @@ TTL is less sensitive to damage from [electrostatic discharge](https://en.wikipe
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [TTL(Transistor–Transistor_Logic)](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).md) 
+
+### #is_/same_as :: [TTL(Transistor–Transistor_Logic).public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).public.md) 
+
+### #is_/same_as :: [TTL(Transistor–Transistor_Logic).internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).internal.md) 
+
+### #is_/same_as :: [TTL(Transistor–Transistor_Logic).protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).protect.md) 
+
+### #is_/same_as :: [TTL(Transistor–Transistor_Logic).private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).private.md) 
+
+### #is_/same_as :: [TTL(Transistor–Transistor_Logic).personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).personal.md) 
+
+### #is_/same_as :: [TTL(Transistor–Transistor_Logic).secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).secret.md)
+

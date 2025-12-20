@@ -86,3 +86,21 @@ Archive_of_Our_Own_tag: Norse Religion & Lore
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Norse%20mythology)   
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Norse_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.md) 
+
+### #is_/same_as :: [Norse_Mythology.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.public.md) 
+
+### #is_/same_as :: [Norse_Mythology.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.internal.md) 
+
+### #is_/same_as :: [Norse_Mythology.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.protect.md) 
+
+### #is_/same_as :: [Norse_Mythology.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.private.md) 
+
+### #is_/same_as :: [Norse_Mythology.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.personal.md) 
+
+### #is_/same_as :: [Norse_Mythology.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.secret.md)
+

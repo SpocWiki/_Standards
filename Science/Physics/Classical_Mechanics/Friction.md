@@ -42,3 +42,21 @@ MeSH_tree_code: G01.374.618
 > As briefly discussed later, there are many different contributors to the retarding force in friction, ranging from asperity deformation to the generation of charges and changes in local structure. When two bodies in contact move relative to each other, due to these various contributors some mechanical energy is transformed to heat, the free energy of structural changes, and other types of dissipation. The total dissipated energy per unit distance moved is the retarding frictional force. The complexity of the interactions involved makes the calculation of friction from first principles difficult, and it is often easier to use empirical methods for analysis and the development of theory.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Friction)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Friction](/_Standards/Science/Physics/Classical_Mechanics/Friction.md) 
+
+### #is_/same_as :: [Friction.public](/_public/Science/Physics/Classical_Mechanics/Friction.public.md) 
+
+### #is_/same_as :: [Friction.internal](/_internal/Science/Physics/Classical_Mechanics/Friction.internal.md) 
+
+### #is_/same_as :: [Friction.protect](/_protect/Science/Physics/Classical_Mechanics/Friction.protect.md) 
+
+### #is_/same_as :: [Friction.private](/_private/Science/Physics/Classical_Mechanics/Friction.private.md) 
+
+### #is_/same_as :: [Friction.personal](/_personal/Science/Physics/Classical_Mechanics/Friction.personal.md) 
+
+### #is_/same_as :: [Friction.secret](/_secret/Science/Physics/Classical_Mechanics/Friction.secret.md)
+

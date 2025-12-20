@@ -104,3 +104,22 @@ pseudonym: Malachi Shabazz
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malcolm%20X) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Malcolm_X](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.md) 
+
+### #is_/same_as :: [Malcolm_X.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.public.md) 
+
+### #is_/same_as :: [Malcolm_X.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.internal.md) 
+
+### #is_/same_as :: [Malcolm_X.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.protect.md) 
+
+### #is_/same_as :: [Malcolm_X.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.private.md) 
+
+### #is_/same_as :: [Malcolm_X.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.personal.md) 
+
+### #is_/same_as :: [Malcolm_X.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Malcolm_X.secret.md)
+

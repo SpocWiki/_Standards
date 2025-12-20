@@ -43,3 +43,22 @@ and end as pair-instability supernovae or direct-collapse black holes.
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20population) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Star_Population](/_Standards/Astronomy/Star/Star_Population.md) 
+
+### #is_/same_as :: [Star_Population.public](/_public/Astronomy/Star/Star_Population.public.md) 
+
+### #is_/same_as :: [Star_Population.internal](/_internal/Astronomy/Star/Star_Population.internal.md) 
+
+### #is_/same_as :: [Star_Population.protect](/_protect/Astronomy/Star/Star_Population.protect.md) 
+
+### #is_/same_as :: [Star_Population.private](/_private/Astronomy/Star/Star_Population.private.md) 
+
+### #is_/same_as :: [Star_Population.personal](/_personal/Astronomy/Star/Star_Population.personal.md) 
+
+### #is_/same_as :: [Star_Population.secret](/_secret/Astronomy/Star/Star_Population.secret.md)
+

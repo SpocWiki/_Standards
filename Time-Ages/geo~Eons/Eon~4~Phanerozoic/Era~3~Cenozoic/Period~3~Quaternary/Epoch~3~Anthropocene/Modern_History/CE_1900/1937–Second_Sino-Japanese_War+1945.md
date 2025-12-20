@@ -48,3 +48,22 @@ start_time: 1937-07-07T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20Sino-Japanese%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1937–Second_Sino-Japanese_War+1945](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.md) 
+
+### #is_/same_as :: [1937–Second_Sino-Japanese_War+1945.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.public.md) 
+
+### #is_/same_as :: [1937–Second_Sino-Japanese_War+1945.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.internal.md) 
+
+### #is_/same_as :: [1937–Second_Sino-Japanese_War+1945.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.protect.md) 
+
+### #is_/same_as :: [1937–Second_Sino-Japanese_War+1945.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.private.md) 
+
+### #is_/same_as :: [1937–Second_Sino-Japanese_War+1945.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.personal.md) 
+
+### #is_/same_as :: [1937–Second_Sino-Japanese_War+1945.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.secret.md)
+

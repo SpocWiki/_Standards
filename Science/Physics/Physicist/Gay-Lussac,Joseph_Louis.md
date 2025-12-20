@@ -132,3 +132,22 @@ date_of_birth: 1778-12-06T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Louis%20Gay-Lussac) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gay-Lussac,Joseph_Louis](/_Standards/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.md) 
+
+### #is_/same_as :: [Gay-Lussac,Joseph_Louis.public](/_public/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.public.md) 
+
+### #is_/same_as :: [Gay-Lussac,Joseph_Louis.internal](/_internal/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.internal.md) 
+
+### #is_/same_as :: [Gay-Lussac,Joseph_Louis.protect](/_protect/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.protect.md) 
+
+### #is_/same_as :: [Gay-Lussac,Joseph_Louis.private](/_private/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.private.md) 
+
+### #is_/same_as :: [Gay-Lussac,Joseph_Louis.personal](/_personal/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.personal.md) 
+
+### #is_/same_as :: [Gay-Lussac,Joseph_Louis.secret](/_secret/Science/Physics/Physicist/Gay-Lussac,Joseph_Louis.secret.md)
+

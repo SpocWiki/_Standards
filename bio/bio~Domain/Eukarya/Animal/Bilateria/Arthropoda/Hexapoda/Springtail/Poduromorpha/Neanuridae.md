@@ -49,7 +49,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
   Scientific Name ::     Anurida maritima
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

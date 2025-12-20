@@ -78,3 +78,22 @@ Dewey_Decimal_Classification: "636.0895372"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vaccine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vaccine](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.md) 
+
+### #is_/same_as :: [Vaccine.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.public.md) 
+
+### #is_/same_as :: [Vaccine.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.internal.md) 
+
+### #is_/same_as :: [Vaccine.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.protect.md) 
+
+### #is_/same_as :: [Vaccine.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.private.md) 
+
+### #is_/same_as :: [Vaccine.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.personal.md) 
+
+### #is_/same_as :: [Vaccine.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.secret.md)
+

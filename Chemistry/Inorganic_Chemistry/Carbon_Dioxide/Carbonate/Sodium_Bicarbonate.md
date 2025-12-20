@@ -116,3 +116,22 @@ DSSTOX_compound_identifier: DTXCID901269
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20bicarbonate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sodium_Bicarbonate](/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.md) 
+
+### #is_/same_as :: [Sodium_Bicarbonate.public](/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.public.md) 
+
+### #is_/same_as :: [Sodium_Bicarbonate.internal](/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.internal.md) 
+
+### #is_/same_as :: [Sodium_Bicarbonate.protect](/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.protect.md) 
+
+### #is_/same_as :: [Sodium_Bicarbonate.private](/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.private.md) 
+
+### #is_/same_as :: [Sodium_Bicarbonate.personal](/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.personal.md) 
+
+### #is_/same_as :: [Sodium_Bicarbonate.secret](/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.secret.md)
+

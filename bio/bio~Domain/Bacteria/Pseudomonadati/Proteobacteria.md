@@ -79,17 +79,17 @@ title: Proteobacteria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Proteobacteria](Proteobacteria.md) 
+### #is_/same_as :: [Proteobacteria](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.md) 
 
-### #is_/same_as :: [Proteobacteria.public](/_public/bio/bio~Domain/Bacteria/Proteobacteria.public.md) 
+### #is_/same_as :: [Proteobacteria.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.public.md) 
 
-### #is_/same_as :: [Proteobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Proteobacteria.internal.md) 
+### #is_/same_as :: [Proteobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.internal.md) 
 
-### #is_/same_as :: [Proteobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Proteobacteria.protect.md) 
+### #is_/same_as :: [Proteobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.protect.md) 
 
-### #is_/same_as :: [Proteobacteria.private](/_private/bio/bio~Domain/Bacteria/Proteobacteria.private.md) 
+### #is_/same_as :: [Proteobacteria.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.private.md) 
 
-### #is_/same_as :: [Proteobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Proteobacteria.personal.md) 
+### #is_/same_as :: [Proteobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.personal.md) 
 
-### #is_/same_as :: [Proteobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Proteobacteria.secret.md)
+### #is_/same_as :: [Proteobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Proteobacteria.secret.md)
 

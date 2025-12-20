@@ -43,3 +43,22 @@ has_id_wikidata: Q49113
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivy%20League) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ivy League](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.md) 
+
+### #is_/same_as :: [Ivy League.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.public.md) 
+
+### #is_/same_as :: [Ivy League.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.internal.md) 
+
+### #is_/same_as :: [Ivy League.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.protect.md) 
+
+### #is_/same_as :: [Ivy League.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.private.md) 
+
+### #is_/same_as :: [Ivy League.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.personal.md) 
+
+### #is_/same_as :: [Ivy League.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy League.secret.md)
+

@@ -74,3 +74,22 @@ On Twitter, Swift wrote "After the events of this week, I've decided to put _198
 She concluded saying it was "the first time it's felt right in my gut to stream my album". 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apple_Music](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.md) 
+
+### #is_/same_as :: [Apple_Music.public](/_public/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.public.md) 
+
+### #is_/same_as :: [Apple_Music.internal](/_internal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.internal.md) 
+
+### #is_/same_as :: [Apple_Music.protect](/_protect/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.protect.md) 
+
+### #is_/same_as :: [Apple_Music.private](/_private/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.private.md) 
+
+### #is_/same_as :: [Apple_Music.personal](/_personal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.personal.md) 
+
+### #is_/same_as :: [Apple_Music.secret](/_secret/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.secret.md)
+

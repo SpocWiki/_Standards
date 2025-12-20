@@ -24,3 +24,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~SNOBOL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~SNOBOL.md) 
+
+### #is_/same_as :: [Prog~SNOBOL.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~SNOBOL.public.md) 
+
+### #is_/same_as :: [Prog~SNOBOL.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~SNOBOL.internal.md) 
+
+### #is_/same_as :: [Prog~SNOBOL.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~SNOBOL.protect.md) 
+
+### #is_/same_as :: [Prog~SNOBOL.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~SNOBOL.private.md) 
+
+### #is_/same_as :: [Prog~SNOBOL.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~SNOBOL.personal.md) 
+
+### #is_/same_as :: [Prog~SNOBOL.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~SNOBOL.secret.md)
+

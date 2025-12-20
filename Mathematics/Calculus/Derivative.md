@@ -49,3 +49,22 @@ Krugosvet_article: matematika/proizvodnaya
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Derivative) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Derivative](/_Standards/Mathematics/Calculus/Derivative.md) 
+
+### #is_/same_as :: [Derivative.public](/_public/Mathematics/Calculus/Derivative.public.md) 
+
+### #is_/same_as :: [Derivative.internal](/_internal/Mathematics/Calculus/Derivative.internal.md) 
+
+### #is_/same_as :: [Derivative.protect](/_protect/Mathematics/Calculus/Derivative.protect.md) 
+
+### #is_/same_as :: [Derivative.private](/_private/Mathematics/Calculus/Derivative.private.md) 
+
+### #is_/same_as :: [Derivative.personal](/_personal/Mathematics/Calculus/Derivative.personal.md) 
+
+### #is_/same_as :: [Derivative.secret](/_secret/Mathematics/Calculus/Derivative.secret.md)
+

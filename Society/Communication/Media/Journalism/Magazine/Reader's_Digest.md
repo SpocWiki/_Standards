@@ -67,3 +67,22 @@ inception: 1922-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reader's%20Digest) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reader's_Digest](/_Standards/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.md) 
+
+### #is_/same_as :: [Reader's_Digest.public](/_public/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.public.md) 
+
+### #is_/same_as :: [Reader's_Digest.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.internal.md) 
+
+### #is_/same_as :: [Reader's_Digest.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.protect.md) 
+
+### #is_/same_as :: [Reader's_Digest.private](/_private/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.private.md) 
+
+### #is_/same_as :: [Reader's_Digest.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.personal.md) 
+
+### #is_/same_as :: [Reader's_Digest.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.secret.md)
+

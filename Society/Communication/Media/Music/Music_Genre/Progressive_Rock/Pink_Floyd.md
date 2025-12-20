@@ -153,3 +153,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PINK_FLOD.html
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pink_Floyd](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.md) 
+
+### #is_/same_as :: [Pink_Floyd.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.public.md) 
+
+### #is_/same_as :: [Pink_Floyd.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.internal.md) 
+
+### #is_/same_as :: [Pink_Floyd.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.protect.md) 
+
+### #is_/same_as :: [Pink_Floyd.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.private.md) 
+
+### #is_/same_as :: [Pink_Floyd.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.personal.md) 
+
+### #is_/same_as :: [Pink_Floyd.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.secret.md)
+

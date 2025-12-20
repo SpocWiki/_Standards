@@ -43,3 +43,22 @@ has_id_wikidata: Q392326
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Club%20(weapon)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Club(Weapon)](/_Standards/Society/Military/Military_Engineering/Weapon/Club(Weapon).md) 
+
+### #is_/same_as :: [Club(Weapon).public](/_public/Society/Military/Military_Engineering/Weapon/Club(Weapon).public.md) 
+
+### #is_/same_as :: [Club(Weapon).internal](/_internal/Society/Military/Military_Engineering/Weapon/Club(Weapon).internal.md) 
+
+### #is_/same_as :: [Club(Weapon).protect](/_protect/Society/Military/Military_Engineering/Weapon/Club(Weapon).protect.md) 
+
+### #is_/same_as :: [Club(Weapon).private](/_private/Society/Military/Military_Engineering/Weapon/Club(Weapon).private.md) 
+
+### #is_/same_as :: [Club(Weapon).personal](/_personal/Society/Military/Military_Engineering/Weapon/Club(Weapon).personal.md) 
+
+### #is_/same_as :: [Club(Weapon).secret](/_secret/Society/Military/Military_Engineering/Weapon/Club(Weapon).secret.md)
+

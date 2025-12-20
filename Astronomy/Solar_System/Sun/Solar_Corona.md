@@ -37,3 +37,22 @@ Commons_category: Solar corona
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20corona) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solar_Corona](/_Standards/Astronomy/Solar_System/Sun/Solar_Corona.md) 
+
+### #is_/same_as :: [Solar_Corona.public](/_public/Astronomy/Solar_System/Sun/Solar_Corona.public.md) 
+
+### #is_/same_as :: [Solar_Corona.internal](/_internal/Astronomy/Solar_System/Sun/Solar_Corona.internal.md) 
+
+### #is_/same_as :: [Solar_Corona.protect](/_protect/Astronomy/Solar_System/Sun/Solar_Corona.protect.md) 
+
+### #is_/same_as :: [Solar_Corona.private](/_private/Astronomy/Solar_System/Sun/Solar_Corona.private.md) 
+
+### #is_/same_as :: [Solar_Corona.personal](/_personal/Astronomy/Solar_System/Sun/Solar_Corona.personal.md) 
+
+### #is_/same_as :: [Solar_Corona.secret](/_secret/Astronomy/Solar_System/Sun/Solar_Corona.secret.md)
+

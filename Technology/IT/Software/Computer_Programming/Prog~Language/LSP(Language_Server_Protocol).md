@@ -16,3 +16,21 @@ Standard Compiler Protocol to feed back the Language Model to an Editor.
 #is_/instance_of 
 
 [[is_instance_of]] 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LSP(Language_Server_Protocol)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).md) 
+
+### #is_/same_as :: [LSP(Language_Server_Protocol).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).public.md) 
+
+### #is_/same_as :: [LSP(Language_Server_Protocol).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).internal.md) 
+
+### #is_/same_as :: [LSP(Language_Server_Protocol).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).protect.md) 
+
+### #is_/same_as :: [LSP(Language_Server_Protocol).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).private.md) 
+
+### #is_/same_as :: [LSP(Language_Server_Protocol).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).personal.md) 
+
+### #is_/same_as :: [LSP(Language_Server_Protocol).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/LSP(Language_Server_Protocol).secret.md)
+

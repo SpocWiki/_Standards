@@ -50,3 +50,22 @@ Commons_category: Requiem Mass
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Requiem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mass_for_the_dead](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.md) 
+
+### #is_/same_as :: [Mass_for_the_dead.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.public.md) 
+
+### #is_/same_as :: [Mass_for_the_dead.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.internal.md) 
+
+### #is_/same_as :: [Mass_for_the_dead.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.protect.md) 
+
+### #is_/same_as :: [Mass_for_the_dead.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.private.md) 
+
+### #is_/same_as :: [Mass_for_the_dead.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.personal.md) 
+
+### #is_/same_as :: [Mass_for_the_dead.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.secret.md)
+

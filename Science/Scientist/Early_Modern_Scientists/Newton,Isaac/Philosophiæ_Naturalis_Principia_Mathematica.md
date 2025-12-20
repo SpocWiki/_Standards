@@ -79,3 +79,22 @@ work_available_at_URL: https://en.wikisource.org/wiki/The_Mathematical_Principle
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophi%C3%A6%20Naturalis%20Principia%20Mathematica) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Philosophiæ_Naturalis_Principia_Mathematica](/_Standards/Science/Scientist/Early_Modern_Scientists/Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica.md) 
+
+### #is_/same_as :: [Philosophiæ_Naturalis_Principia_Mathematica.public](/_public/Science/Scientist/Early_Modern_Scientists/Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica.public.md) 
+
+### #is_/same_as :: [Philosophiæ_Naturalis_Principia_Mathematica.internal](/_internal/Science/Scientist/Early_Modern_Scientists/Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica.internal.md) 
+
+### #is_/same_as :: [Philosophiæ_Naturalis_Principia_Mathematica.protect](/_protect/Science/Scientist/Early_Modern_Scientists/Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica.protect.md) 
+
+### #is_/same_as :: [Philosophiæ_Naturalis_Principia_Mathematica.private](/_private/Science/Scientist/Early_Modern_Scientists/Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica.private.md) 
+
+### #is_/same_as :: [Philosophiæ_Naturalis_Principia_Mathematica.personal](/_personal/Science/Scientist/Early_Modern_Scientists/Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica.personal.md) 
+
+### #is_/same_as :: [Philosophiæ_Naturalis_Principia_Mathematica.secret](/_secret/Science/Scientist/Early_Modern_Scientists/Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica.secret.md)
+

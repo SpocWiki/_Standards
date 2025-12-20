@@ -57,3 +57,22 @@ Wolfram_Language_entity_code: Entity["Surname", "Hagel"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hail) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hail](/_Standards/Earth/Climate/Weather/Hail.md) 
+
+### #is_/same_as :: [Hail.public](/_public/Earth/Climate/Weather/Hail.public.md) 
+
+### #is_/same_as :: [Hail.internal](/_internal/Earth/Climate/Weather/Hail.internal.md) 
+
+### #is_/same_as :: [Hail.protect](/_protect/Earth/Climate/Weather/Hail.protect.md) 
+
+### #is_/same_as :: [Hail.private](/_private/Earth/Climate/Weather/Hail.private.md) 
+
+### #is_/same_as :: [Hail.personal](/_personal/Earth/Climate/Weather/Hail.personal.md) 
+
+### #is_/same_as :: [Hail.secret](/_secret/Earth/Climate/Weather/Hail.secret.md)
+

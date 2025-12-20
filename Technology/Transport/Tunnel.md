@@ -82,3 +82,22 @@ Dewey_Decimal_Classification: "388.13"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tunnel)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tunnel](/_Standards/Technology/Transport/Tunnel.md) 
+
+### #is_/same_as :: [Tunnel.public](/_public/Technology/Transport/Tunnel.public.md) 
+
+### #is_/same_as :: [Tunnel.internal](/_internal/Technology/Transport/Tunnel.internal.md) 
+
+### #is_/same_as :: [Tunnel.protect](/_protect/Technology/Transport/Tunnel.protect.md) 
+
+### #is_/same_as :: [Tunnel.private](/_private/Technology/Transport/Tunnel.private.md) 
+
+### #is_/same_as :: [Tunnel.personal](/_personal/Technology/Transport/Tunnel.personal.md) 
+
+### #is_/same_as :: [Tunnel.secret](/_secret/Technology/Transport/Tunnel.secret.md)
+

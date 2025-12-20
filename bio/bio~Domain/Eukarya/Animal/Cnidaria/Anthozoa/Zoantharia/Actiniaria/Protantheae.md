@@ -70,7 +70,7 @@ Copyright © 2000, Robin Harvey, S.M.B.A.
 
   ------------
   Copyright ::   © 2000 Robin Harvey, S.M.B.A.
-  ------------
+  ------------
 
 
 ## Confidential Links & Embeds: 

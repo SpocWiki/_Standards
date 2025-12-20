@@ -45,3 +45,22 @@ Commons_category: Sensory system
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sensory%20nervous%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sensory_nervous_System](/_Standards/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.md) 
+
+### #is_/same_as :: [Sensory_nervous_System.public](/_public/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.public.md) 
+
+### #is_/same_as :: [Sensory_nervous_System.internal](/_internal/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.internal.md) 
+
+### #is_/same_as :: [Sensory_nervous_System.protect](/_protect/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.protect.md) 
+
+### #is_/same_as :: [Sensory_nervous_System.private](/_private/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.private.md) 
+
+### #is_/same_as :: [Sensory_nervous_System.personal](/_personal/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.personal.md) 
+
+### #is_/same_as :: [Sensory_nervous_System.secret](/_secret/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.secret.md)
+

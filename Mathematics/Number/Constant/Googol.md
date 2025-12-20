@@ -49,3 +49,22 @@ name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Googol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Googol](/_Standards/Mathematics/Number/Constant/Googol.md) 
+
+### #is_/same_as :: [Googol.public](/_public/Mathematics/Number/Constant/Googol.public.md) 
+
+### #is_/same_as :: [Googol.internal](/_internal/Mathematics/Number/Constant/Googol.internal.md) 
+
+### #is_/same_as :: [Googol.protect](/_protect/Mathematics/Number/Constant/Googol.protect.md) 
+
+### #is_/same_as :: [Googol.private](/_private/Mathematics/Number/Constant/Googol.private.md) 
+
+### #is_/same_as :: [Googol.personal](/_personal/Mathematics/Number/Constant/Googol.personal.md) 
+
+### #is_/same_as :: [Googol.secret](/_secret/Mathematics/Number/Constant/Googol.secret.md)
+

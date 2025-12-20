@@ -19,3 +19,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Purchasing%20power%20parity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [PPP(Purchasing_Power_Parity)](/_Standards/Society/Economics/PPP(Purchasing_Power_Parity).md) 
+
+### #is_/same_as :: [PPP(Purchasing_Power_Parity).public](/_public/Society/Economics/PPP(Purchasing_Power_Parity).public.md) 
+
+### #is_/same_as :: [PPP(Purchasing_Power_Parity).internal](/_internal/Society/Economics/PPP(Purchasing_Power_Parity).internal.md) 
+
+### #is_/same_as :: [PPP(Purchasing_Power_Parity).protect](/_protect/Society/Economics/PPP(Purchasing_Power_Parity).protect.md) 
+
+### #is_/same_as :: [PPP(Purchasing_Power_Parity).private](/_private/Society/Economics/PPP(Purchasing_Power_Parity).private.md) 
+
+### #is_/same_as :: [PPP(Purchasing_Power_Parity).personal](/_personal/Society/Economics/PPP(Purchasing_Power_Parity).personal.md) 
+
+### #is_/same_as :: [PPP(Purchasing_Power_Parity).secret](/_secret/Society/Economics/PPP(Purchasing_Power_Parity).secret.md)
+

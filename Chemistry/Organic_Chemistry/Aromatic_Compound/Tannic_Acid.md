@@ -115,3 +115,22 @@ UNII: 28F9E0DJY6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tannic%20acid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tannic_Acid](/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.md) 
+
+### #is_/same_as :: [Tannic_Acid.public](/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.public.md) 
+
+### #is_/same_as :: [Tannic_Acid.internal](/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.internal.md) 
+
+### #is_/same_as :: [Tannic_Acid.protect](/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.protect.md) 
+
+### #is_/same_as :: [Tannic_Acid.private](/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.private.md) 
+
+### #is_/same_as :: [Tannic_Acid.personal](/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.personal.md) 
+
+### #is_/same_as :: [Tannic_Acid.secret](/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.secret.md)
+

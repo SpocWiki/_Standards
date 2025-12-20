@@ -46,3 +46,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ecliptic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ecliptic](/_Standards/Astronomy/Solar_System/Occultation/Ecliptic.md) 
+
+### #is_/same_as :: [Ecliptic.public](/_public/Astronomy/Solar_System/Occultation/Ecliptic.public.md) 
+
+### #is_/same_as :: [Ecliptic.internal](/_internal/Astronomy/Solar_System/Occultation/Ecliptic.internal.md) 
+
+### #is_/same_as :: [Ecliptic.protect](/_protect/Astronomy/Solar_System/Occultation/Ecliptic.protect.md) 
+
+### #is_/same_as :: [Ecliptic.private](/_private/Astronomy/Solar_System/Occultation/Ecliptic.private.md) 
+
+### #is_/same_as :: [Ecliptic.personal](/_personal/Astronomy/Solar_System/Occultation/Ecliptic.personal.md) 
+
+### #is_/same_as :: [Ecliptic.secret](/_secret/Astronomy/Solar_System/Occultation/Ecliptic.secret.md)
+

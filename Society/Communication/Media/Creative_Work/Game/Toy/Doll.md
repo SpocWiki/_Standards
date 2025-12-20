@@ -54,3 +54,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doll) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Doll](/_Standards/Society/Communication/Media/Creative_Work/Game/Toy/Doll.md) 
+
+### #is_/same_as :: [Doll.public](/_public/Society/Communication/Media/Creative_Work/Game/Toy/Doll.public.md) 
+
+### #is_/same_as :: [Doll.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Toy/Doll.internal.md) 
+
+### #is_/same_as :: [Doll.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Toy/Doll.protect.md) 
+
+### #is_/same_as :: [Doll.private](/_private/Society/Communication/Media/Creative_Work/Game/Toy/Doll.private.md) 
+
+### #is_/same_as :: [Doll.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Toy/Doll.personal.md) 
+
+### #is_/same_as :: [Doll.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Toy/Doll.secret.md)
+

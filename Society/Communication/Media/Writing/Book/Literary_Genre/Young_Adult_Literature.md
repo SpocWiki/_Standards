@@ -46,3 +46,22 @@ Commons_category: Young adult fiction
 > [Wikipedia](https://en.wikipedia.org/wiki/Young%20adult%20literature)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Young_Adult_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.md) 
+
+### #is_/same_as :: [Young_Adult_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.public.md) 
+
+### #is_/same_as :: [Young_Adult_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.internal.md) 
+
+### #is_/same_as :: [Young_Adult_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.protect.md) 
+
+### #is_/same_as :: [Young_Adult_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.private.md) 
+
+### #is_/same_as :: [Young_Adult_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.personal.md) 
+
+### #is_/same_as :: [Young_Adult_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.secret.md)
+

@@ -42,3 +42,22 @@ Krugosvet_article_archived_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theatre%20of%20ancient%20Greece) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theater_of_ancient_Greece](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.md) 
+
+### #is_/same_as :: [Theater_of_ancient_Greece.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.public.md) 
+
+### #is_/same_as :: [Theater_of_ancient_Greece.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.internal.md) 
+
+### #is_/same_as :: [Theater_of_ancient_Greece.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.protect.md) 
+
+### #is_/same_as :: [Theater_of_ancient_Greece.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.private.md) 
+
+### #is_/same_as :: [Theater_of_ancient_Greece.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.personal.md) 
+
+### #is_/same_as :: [Theater_of_ancient_Greece.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Theater_of_ancient_Greece.secret.md)
+

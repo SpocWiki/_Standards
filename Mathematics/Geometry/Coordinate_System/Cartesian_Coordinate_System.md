@@ -43,8 +43,6 @@ Commons_category: Cartesian coordinates
 > [Wikipedia](https://en.wikipedia.org/wiki/Cartesian%20coordinate%20system) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cartesian_Coordinate_System](/_Standards/Mathematics/Geometry/Coordinate_System/Cartesian_Coordinate_System.md) 

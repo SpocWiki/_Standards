@@ -36,3 +36,22 @@ Commons_category: Downtowns and city centers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Downtown) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Downtown](/_Standards/Earth/Geography/Place/Administrative_Area/City/Downtown.md) 
+
+### #is_/same_as :: [Downtown.public](/_public/Earth/Geography/Place/Administrative_Area/City/Downtown.public.md) 
+
+### #is_/same_as :: [Downtown.internal](/_internal/Earth/Geography/Place/Administrative_Area/City/Downtown.internal.md) 
+
+### #is_/same_as :: [Downtown.protect](/_protect/Earth/Geography/Place/Administrative_Area/City/Downtown.protect.md) 
+
+### #is_/same_as :: [Downtown.private](/_private/Earth/Geography/Place/Administrative_Area/City/Downtown.private.md) 
+
+### #is_/same_as :: [Downtown.personal](/_personal/Earth/Geography/Place/Administrative_Area/City/Downtown.personal.md) 
+
+### #is_/same_as :: [Downtown.secret](/_secret/Earth/Geography/Place/Administrative_Area/City/Downtown.secret.md)
+

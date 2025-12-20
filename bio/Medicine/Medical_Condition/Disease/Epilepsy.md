@@ -152,3 +152,22 @@ Baidu_Tieba_name: 癫痫
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Epilepsy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Epilepsy](/_Standards/bio/Medicine/Medical_Condition/Disease/Epilepsy.md) 
+
+### #is_/same_as :: [Epilepsy.public](/_public/bio/Medicine/Medical_Condition/Disease/Epilepsy.public.md) 
+
+### #is_/same_as :: [Epilepsy.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Epilepsy.internal.md) 
+
+### #is_/same_as :: [Epilepsy.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Epilepsy.protect.md) 
+
+### #is_/same_as :: [Epilepsy.private](/_private/bio/Medicine/Medical_Condition/Disease/Epilepsy.private.md) 
+
+### #is_/same_as :: [Epilepsy.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Epilepsy.personal.md) 
+
+### #is_/same_as :: [Epilepsy.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Epilepsy.secret.md)
+

@@ -39,3 +39,22 @@ Commons_category: Rhombi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhombus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rhombus](/_Standards/Mathematics/Geometry/Geometry-2D/Rhombus.md) 
+
+### #is_/same_as :: [Rhombus.public](/_public/Mathematics/Geometry/Geometry-2D/Rhombus.public.md) 
+
+### #is_/same_as :: [Rhombus.internal](/_internal/Mathematics/Geometry/Geometry-2D/Rhombus.internal.md) 
+
+### #is_/same_as :: [Rhombus.protect](/_protect/Mathematics/Geometry/Geometry-2D/Rhombus.protect.md) 
+
+### #is_/same_as :: [Rhombus.private](/_private/Mathematics/Geometry/Geometry-2D/Rhombus.private.md) 
+
+### #is_/same_as :: [Rhombus.personal](/_personal/Mathematics/Geometry/Geometry-2D/Rhombus.personal.md) 
+
+### #is_/same_as :: [Rhombus.secret](/_secret/Mathematics/Geometry/Geometry-2D/Rhombus.secret.md)
+

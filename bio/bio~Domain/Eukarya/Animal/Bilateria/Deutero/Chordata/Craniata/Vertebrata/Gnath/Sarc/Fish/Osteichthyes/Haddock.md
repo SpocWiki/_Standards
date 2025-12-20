@@ -76,3 +76,22 @@ NBN_System_Key: NBNSYS0000176397
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Haddock) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Haddock](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes/Haddock.md) 
+
+### #is_/same_as :: [Haddock.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes/Haddock.public.md) 
+
+### #is_/same_as :: [Haddock.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes/Haddock.internal.md) 
+
+### #is_/same_as :: [Haddock.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes/Haddock.protect.md) 
+
+### #is_/same_as :: [Haddock.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes/Haddock.private.md) 
+
+### #is_/same_as :: [Haddock.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes/Haddock.personal.md) 
+
+### #is_/same_as :: [Haddock.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish/Osteichthyes/Haddock.secret.md)
+

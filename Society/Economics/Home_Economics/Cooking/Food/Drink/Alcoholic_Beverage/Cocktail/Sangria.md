@@ -43,3 +43,22 @@ native_label: Sangría
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sangria) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sangria](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Sangria.md) 
+
+### #is_/same_as :: [Sangria.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Sangria.public.md) 
+
+### #is_/same_as :: [Sangria.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Sangria.internal.md) 
+
+### #is_/same_as :: [Sangria.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Sangria.protect.md) 
+
+### #is_/same_as :: [Sangria.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Sangria.private.md) 
+
+### #is_/same_as :: [Sangria.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Sangria.personal.md) 
+
+### #is_/same_as :: [Sangria.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Sangria.secret.md)
+

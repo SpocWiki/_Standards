@@ -84,17 +84,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~Q2682086,2682086]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid)](/_Standards/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid)](/_Standards/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid).md) 
 
-### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).public](/_public/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).public.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).public](/_public/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid).public.md) 
 
-### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).internal](/_internal/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).internal.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).internal](/_internal/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid).internal.md) 
 
-### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).protect](/_protect/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).protect.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).protect](/_protect/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid).protect.md) 
 
-### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).private](/_private/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).private.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).private](/_private/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid).private.md) 
 
-### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).personal](/_personal/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).personal.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).personal](/_personal/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid).personal.md) 
 
-### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).secret](/_secret/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).secret.md)
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).secret](/_secret/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid).secret.md)
 

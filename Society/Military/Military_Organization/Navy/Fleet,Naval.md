@@ -26,23 +26,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Naval%20fleet) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fleet,Naval](/_Standards/Society/Military/Navy/Fleet,Naval.md) 
+### #is_/same_as :: [Fleet,Naval](/_Standards/Society/Military/Military_Organization/Navy/Fleet,Naval.md) 
 
-### #is_/same_as :: [Fleet,Naval.public](/_public/Society/Military/Navy/Fleet,Naval.public.md) 
+### #is_/same_as :: [Fleet,Naval.public](/_public/Society/Military/Military_Organization/Navy/Fleet,Naval.public.md) 
 
-### #is_/same_as :: [Fleet,Naval.internal](/_internal/Society/Military/Navy/Fleet,Naval.internal.md) 
+### #is_/same_as :: [Fleet,Naval.internal](/_internal/Society/Military/Military_Organization/Navy/Fleet,Naval.internal.md) 
 
-### #is_/same_as :: [Fleet,Naval.protect](/_protect/Society/Military/Navy/Fleet,Naval.protect.md) 
+### #is_/same_as :: [Fleet,Naval.protect](/_protect/Society/Military/Military_Organization/Navy/Fleet,Naval.protect.md) 
 
-### #is_/same_as :: [Fleet,Naval.private](/_private/Society/Military/Navy/Fleet,Naval.private.md) 
+### #is_/same_as :: [Fleet,Naval.private](/_private/Society/Military/Military_Organization/Navy/Fleet,Naval.private.md) 
 
-### #is_/same_as :: [Fleet,Naval.personal](/_personal/Society/Military/Navy/Fleet,Naval.personal.md) 
+### #is_/same_as :: [Fleet,Naval.personal](/_personal/Society/Military/Military_Organization/Navy/Fleet,Naval.personal.md) 
 
-### #is_/same_as :: [Fleet,Naval.secret](/_secret/Society/Military/Navy/Fleet,Naval.secret.md)
+### #is_/same_as :: [Fleet,Naval.secret](/_secret/Society/Military/Military_Organization/Navy/Fleet,Naval.secret.md)
 

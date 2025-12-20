@@ -146,3 +146,22 @@ work_period_end_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rafael%20Nadal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nadal,Rafael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.md) 
+
+### #is_/same_as :: [Nadal,Rafael.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.public.md) 
+
+### #is_/same_as :: [Nadal,Rafael.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.internal.md) 
+
+### #is_/same_as :: [Nadal,Rafael.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.protect.md) 
+
+### #is_/same_as :: [Nadal,Rafael.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.private.md) 
+
+### #is_/same_as :: [Nadal,Rafael.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.personal.md) 
+
+### #is_/same_as :: [Nadal,Rafael.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Nadal,Rafael.secret.md)
+

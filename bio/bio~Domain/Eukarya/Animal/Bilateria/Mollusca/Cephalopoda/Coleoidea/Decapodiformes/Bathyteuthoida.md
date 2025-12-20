@@ -149,7 +149,7 @@ the United States National Museum, 291:1-210.
   Comments          The visceral and ocular photophore are visible through the transparent mantle and head muscles.
   View              ventral
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
-  -------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

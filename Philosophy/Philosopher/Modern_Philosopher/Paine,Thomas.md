@@ -161,3 +161,22 @@ Krugosvet_article_archived_: istoriya/PEN_TOMAS.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Paine)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paine,Thomas](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.md) 
+
+### #is_/same_as :: [Paine,Thomas.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.public.md) 
+
+### #is_/same_as :: [Paine,Thomas.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.internal.md) 
+
+### #is_/same_as :: [Paine,Thomas.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.protect.md) 
+
+### #is_/same_as :: [Paine,Thomas.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.private.md) 
+
+### #is_/same_as :: [Paine,Thomas.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.personal.md) 
+
+### #is_/same_as :: [Paine,Thomas.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Paine,Thomas.secret.md)
+

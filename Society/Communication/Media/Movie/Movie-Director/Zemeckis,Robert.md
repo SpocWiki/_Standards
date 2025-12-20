@@ -128,3 +128,22 @@ birth_name: Robert Lee Zemeckis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Zemeckis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zemeckis,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.md) 
+
+### #is_/same_as :: [Zemeckis,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.public.md) 
+
+### #is_/same_as :: [Zemeckis,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.internal.md) 
+
+### #is_/same_as :: [Zemeckis,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.protect.md) 
+
+### #is_/same_as :: [Zemeckis,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.private.md) 
+
+### #is_/same_as :: [Zemeckis,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.personal.md) 
+
+### #is_/same_as :: [Zemeckis,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.secret.md)
+

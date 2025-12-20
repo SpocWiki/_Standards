@@ -94,17 +94,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_tennis,7112743]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tennis](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis.md) 
+### #is_/same_as :: [Tennis](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis.md) 
 
-### #is_/same_as :: [Tennis.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis.public.md) 
+### #is_/same_as :: [Tennis.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis.public.md) 
 
-### #is_/same_as :: [Tennis.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis.internal.md) 
+### #is_/same_as :: [Tennis.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis.internal.md) 
 
-### #is_/same_as :: [Tennis.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis.protect.md) 
+### #is_/same_as :: [Tennis.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis.protect.md) 
 
-### #is_/same_as :: [Tennis.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis.private.md) 
+### #is_/same_as :: [Tennis.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis.private.md) 
 
-### #is_/same_as :: [Tennis.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis.personal.md) 
+### #is_/same_as :: [Tennis.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis.personal.md) 
 
-### #is_/same_as :: [Tennis.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Tennis.secret.md)
+### #is_/same_as :: [Tennis.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis.secret.md)
 

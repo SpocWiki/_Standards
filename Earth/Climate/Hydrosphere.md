@@ -38,3 +38,22 @@ Commons_category: Hydrosphere
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrosphere) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydrosphere](/_Standards/Earth/Climate/Hydrosphere.md) 
+
+### #is_/same_as :: [Hydrosphere.public](/_public/Earth/Climate/Hydrosphere.public.md) 
+
+### #is_/same_as :: [Hydrosphere.internal](/_internal/Earth/Climate/Hydrosphere.internal.md) 
+
+### #is_/same_as :: [Hydrosphere.protect](/_protect/Earth/Climate/Hydrosphere.protect.md) 
+
+### #is_/same_as :: [Hydrosphere.private](/_private/Earth/Climate/Hydrosphere.private.md) 
+
+### #is_/same_as :: [Hydrosphere.personal](/_personal/Earth/Climate/Hydrosphere.personal.md) 
+
+### #is_/same_as :: [Hydrosphere.secret](/_secret/Earth/Climate/Hydrosphere.secret.md)
+

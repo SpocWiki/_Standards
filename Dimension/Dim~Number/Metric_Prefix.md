@@ -11,3 +11,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metric%20prefix) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metric_Prefix](/_Standards/Dimension/Dim~Number/Metric_Prefix.md) 
+
+### #is_/same_as :: [Metric_Prefix.public](/_public/Dimension/Dim~Number/Metric_Prefix.public.md) 
+
+### #is_/same_as :: [Metric_Prefix.internal](/_internal/Dimension/Dim~Number/Metric_Prefix.internal.md) 
+
+### #is_/same_as :: [Metric_Prefix.protect](/_protect/Dimension/Dim~Number/Metric_Prefix.protect.md) 
+
+### #is_/same_as :: [Metric_Prefix.private](/_private/Dimension/Dim~Number/Metric_Prefix.private.md) 
+
+### #is_/same_as :: [Metric_Prefix.personal](/_personal/Dimension/Dim~Number/Metric_Prefix.personal.md) 
+
+### #is_/same_as :: [Metric_Prefix.secret](/_secret/Dimension/Dim~Number/Metric_Prefix.secret.md)
+

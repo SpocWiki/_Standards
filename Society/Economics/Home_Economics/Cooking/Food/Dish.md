@@ -58,3 +58,22 @@ Provenio_UUID: d5ce6b0b-b3b3-4a3f-9074-7fe31889ff7b
 > [Wikipedia](https://en.wikipedia.org/wiki/Dish%20(food)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dish](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish.md) 
+
+### #is_/same_as :: [Dish.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish.public.md) 
+
+### #is_/same_as :: [Dish.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish.internal.md) 
+
+### #is_/same_as :: [Dish.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish.protect.md) 
+
+### #is_/same_as :: [Dish.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish.private.md) 
+
+### #is_/same_as :: [Dish.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish.personal.md) 
+
+### #is_/same_as :: [Dish.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish.secret.md)
+

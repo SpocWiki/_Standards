@@ -62,6 +62,7 @@ short_name: Sgr
 
 #is_/same_as :: [[../../WikiData/WD~Sagittarius,8866|WD~Sagittarius,8866]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Sagittarius](/_Standards/Astronomy/Star~Constellation/Zodiac~Sagittarius.md) 

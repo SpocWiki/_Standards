@@ -130,3 +130,22 @@ date_of_birth: 1098-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Hildegard%20of%20Bingen) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hildegard_of_Bingen](/_Standards/Science/Polymath/Hildegard_of_Bingen.md) 
+
+### #is_/same_as :: [Hildegard_of_Bingen.public](/_public/Science/Polymath/Hildegard_of_Bingen.public.md) 
+
+### #is_/same_as :: [Hildegard_of_Bingen.internal](/_internal/Science/Polymath/Hildegard_of_Bingen.internal.md) 
+
+### #is_/same_as :: [Hildegard_of_Bingen.protect](/_protect/Science/Polymath/Hildegard_of_Bingen.protect.md) 
+
+### #is_/same_as :: [Hildegard_of_Bingen.private](/_private/Science/Polymath/Hildegard_of_Bingen.private.md) 
+
+### #is_/same_as :: [Hildegard_of_Bingen.personal](/_personal/Science/Polymath/Hildegard_of_Bingen.personal.md) 
+
+### #is_/same_as :: [Hildegard_of_Bingen.secret](/_secret/Science/Polymath/Hildegard_of_Bingen.secret.md)
+

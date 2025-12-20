@@ -17,3 +17,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rodeo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rodeo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.md) 
+
+### #is_/same_as :: [Rodeo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.public.md) 
+
+### #is_/same_as :: [Rodeo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.internal.md) 
+
+### #is_/same_as :: [Rodeo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.protect.md) 
+
+### #is_/same_as :: [Rodeo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.private.md) 
+
+### #is_/same_as :: [Rodeo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.personal.md) 
+
+### #is_/same_as :: [Rodeo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding/Rodeo.secret.md)
+

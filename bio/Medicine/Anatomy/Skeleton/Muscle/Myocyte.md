@@ -35,3 +35,22 @@ native_label: myocytus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Muscle%20cell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Myocyte](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.md) 
+
+### #is_/same_as :: [Myocyte.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.public.md) 
+
+### #is_/same_as :: [Myocyte.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.internal.md) 
+
+### #is_/same_as :: [Myocyte.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.protect.md) 
+
+### #is_/same_as :: [Myocyte.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.private.md) 
+
+### #is_/same_as :: [Myocyte.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.personal.md) 
+
+### #is_/same_as :: [Myocyte.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Myocyte.secret.md)
+

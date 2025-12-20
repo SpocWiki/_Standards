@@ -55,17 +55,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [mri](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.md) 
+### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging)](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).md) 
 
-### #is_/same_as :: [mri.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.public.md) 
+### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).public](/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).public.md) 
 
-### #is_/same_as :: [mri.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.internal.md) 
+### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).internal.md) 
 
-### #is_/same_as :: [mri.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.protect.md) 
+### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).protect.md) 
 
-### #is_/same_as :: [mri.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.private.md) 
+### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).private](/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).private.md) 
 
-### #is_/same_as :: [mri.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.personal.md) 
+### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).personal.md) 
 
-### #is_/same_as :: [mri.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.secret.md)
+### #is_/same_as :: [MRI(Magnetic_Resonance_Imaging).secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/MRI(Magnetic_Resonance_Imaging).secret.md)
 

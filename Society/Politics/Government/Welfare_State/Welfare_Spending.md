@@ -45,3 +45,22 @@ Dewey_Decimal_Classification: "368.4"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Welfare%20spending) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Welfare_Spending](/_Standards/Society/Politics/Government/Welfare_State/Welfare_Spending.md) 
+
+### #is_/same_as :: [Welfare_Spending.public](/_public/Society/Politics/Government/Welfare_State/Welfare_Spending.public.md) 
+
+### #is_/same_as :: [Welfare_Spending.internal](/_internal/Society/Politics/Government/Welfare_State/Welfare_Spending.internal.md) 
+
+### #is_/same_as :: [Welfare_Spending.protect](/_protect/Society/Politics/Government/Welfare_State/Welfare_Spending.protect.md) 
+
+### #is_/same_as :: [Welfare_Spending.private](/_private/Society/Politics/Government/Welfare_State/Welfare_Spending.private.md) 
+
+### #is_/same_as :: [Welfare_Spending.personal](/_personal/Society/Politics/Government/Welfare_State/Welfare_Spending.personal.md) 
+
+### #is_/same_as :: [Welfare_Spending.secret](/_secret/Society/Politics/Government/Welfare_State/Welfare_Spending.secret.md)
+

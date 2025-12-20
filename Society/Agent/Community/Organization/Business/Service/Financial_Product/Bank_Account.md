@@ -41,17 +41,17 @@ A product or service offered by a bank whereby one may deposit, withdraw or tran
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bank_Account](Bank_Account.md) 
+### #is_/same_as :: [Bank_Account](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.md) 
 
-### #is_/same_as :: [bank_account.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.public.md) 
+### #is_/same_as :: [Bank_Account.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.public.md) 
 
-### #is_/same_as :: [bank_account.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.internal.md) 
+### #is_/same_as :: [Bank_Account.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.internal.md) 
 
-### #is_/same_as :: [bank_account.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.protect.md) 
+### #is_/same_as :: [Bank_Account.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.protect.md) 
 
-### #is_/same_as :: [bank_account.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.private.md) 
+### #is_/same_as :: [Bank_Account.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.private.md) 
 
-### #is_/same_as :: [bank_account.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.personal.md) 
+### #is_/same_as :: [Bank_Account.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.personal.md) 
 
-### #is_/same_as :: [bank_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.secret.md)
+### #is_/same_as :: [Bank_Account.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.secret.md)
 

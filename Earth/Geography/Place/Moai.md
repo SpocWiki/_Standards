@@ -59,3 +59,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moai) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moai](/_Standards/Earth/Geography/Place/Moai.md) 
+
+### #is_/same_as :: [Moai.public](/_public/Earth/Geography/Place/Moai.public.md) 
+
+### #is_/same_as :: [Moai.internal](/_internal/Earth/Geography/Place/Moai.internal.md) 
+
+### #is_/same_as :: [Moai.protect](/_protect/Earth/Geography/Place/Moai.protect.md) 
+
+### #is_/same_as :: [Moai.private](/_private/Earth/Geography/Place/Moai.private.md) 
+
+### #is_/same_as :: [Moai.personal](/_personal/Earth/Geography/Place/Moai.personal.md) 
+
+### #is_/same_as :: [Moai.secret](/_secret/Earth/Geography/Place/Moai.secret.md)
+

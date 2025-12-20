@@ -40,17 +40,17 @@ The payee received the payment, but it was declined for some reason.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Declined](Payment_Declined.md) 
+### #is_/same_as :: [Payment_Declined](/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.md) 
 
-### #is_/same_as :: [payment_declined.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.public.md) 
+### #is_/same_as :: [Payment_Declined.public](/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.public.md) 
 
-### #is_/same_as :: [payment_declined.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.internal.md) 
+### #is_/same_as :: [Payment_Declined.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.internal.md) 
 
-### #is_/same_as :: [payment_declined.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.protect.md) 
+### #is_/same_as :: [Payment_Declined.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.protect.md) 
 
-### #is_/same_as :: [payment_declined.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.private.md) 
+### #is_/same_as :: [Payment_Declined.private](/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.private.md) 
 
-### #is_/same_as :: [payment_declined.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.personal.md) 
+### #is_/same_as :: [Payment_Declined.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.personal.md) 
 
-### #is_/same_as :: [payment_declined.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.secret.md)
+### #is_/same_as :: [Payment_Declined.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.secret.md)
 

@@ -59,3 +59,22 @@ OpenStreetMap_tag: sport=rowing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rowing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rowing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.md) 
+
+### #is_/same_as :: [Rowing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.public.md) 
+
+### #is_/same_as :: [Rowing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.internal.md) 
+
+### #is_/same_as :: [Rowing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.protect.md) 
+
+### #is_/same_as :: [Rowing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.private.md) 
+
+### #is_/same_as :: [Rowing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.personal.md) 
+
+### #is_/same_as :: [Rowing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Rowing.secret.md)
+

@@ -113,3 +113,22 @@ MeSH_tree_code: C06.552.380
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hepatitis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hepatitis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.md) 
+
+### #is_/same_as :: [Hepatitis.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.public.md) 
+
+### #is_/same_as :: [Hepatitis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.internal.md) 
+
+### #is_/same_as :: [Hepatitis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.protect.md) 
+
+### #is_/same_as :: [Hepatitis.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.private.md) 
+
+### #is_/same_as :: [Hepatitis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.personal.md) 
+
+### #is_/same_as :: [Hepatitis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Hepatitis.secret.md)
+

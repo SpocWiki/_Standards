@@ -18,3 +18,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrofoil) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydrofoil](/_Standards/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.md) 
+
+### #is_/same_as :: [Hydrofoil.public](/_public/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.public.md) 
+
+### #is_/same_as :: [Hydrofoil.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.internal.md) 
+
+### #is_/same_as :: [Hydrofoil.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.protect.md) 
+
+### #is_/same_as :: [Hydrofoil.private](/_private/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.private.md) 
+
+### #is_/same_as :: [Hydrofoil.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.personal.md) 
+
+### #is_/same_as :: [Hydrofoil.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.secret.md)
+

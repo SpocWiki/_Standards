@@ -42,17 +42,17 @@ Inside leg (measured between crotch and soles of feet). Used, for example, to fi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Inside_Leg](Body_Measurement_Inside_Leg.md) 
+### #is_/same_as :: [Body_Measurement_Inside_Leg](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.md) 
 
-### #is_/same_as :: [body_measurement_inside_leg.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.public.md) 
+### #is_/same_as :: [Body_Measurement_Inside_Leg.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.public.md) 
 
-### #is_/same_as :: [body_measurement_inside_leg.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.internal.md) 
+### #is_/same_as :: [Body_Measurement_Inside_Leg.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.internal.md) 
 
-### #is_/same_as :: [body_measurement_inside_leg.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.protect.md) 
+### #is_/same_as :: [Body_Measurement_Inside_Leg.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.protect.md) 
 
-### #is_/same_as :: [body_measurement_inside_leg.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.private.md) 
+### #is_/same_as :: [Body_Measurement_Inside_Leg.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.private.md) 
 
-### #is_/same_as :: [body_measurement_inside_leg.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.personal.md) 
+### #is_/same_as :: [Body_Measurement_Inside_Leg.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.personal.md) 
 
-### #is_/same_as :: [body_measurement_inside_leg.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.secret.md)
+### #is_/same_as :: [Body_Measurement_Inside_Leg.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.secret.md)
 

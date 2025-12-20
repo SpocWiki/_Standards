@@ -39,3 +39,22 @@ publication_date: 1946-01-01T00:00:00Z
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anything_You_can_do](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Anything_You_can_do.md) 
+
+### #is_/same_as :: [Anything_You_can_do.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Anything_You_can_do.public.md) 
+
+### #is_/same_as :: [Anything_You_can_do.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Anything_You_can_do.internal.md) 
+
+### #is_/same_as :: [Anything_You_can_do.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Anything_You_can_do.protect.md) 
+
+### #is_/same_as :: [Anything_You_can_do.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Anything_You_can_do.private.md) 
+
+### #is_/same_as :: [Anything_You_can_do.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Anything_You_can_do.personal.md) 
+
+### #is_/same_as :: [Anything_You_can_do.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Anything_You_can_do.secret.md)
+

@@ -28,3 +28,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Endoscope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Endoscopy](/_Standards/Technology/Tool/Instrumentation/Endoscopy.md) 
+
+### #is_/same_as :: [Endoscopy.public](/_public/Technology/Tool/Instrumentation/Endoscopy.public.md) 
+
+### #is_/same_as :: [Endoscopy.internal](/_internal/Technology/Tool/Instrumentation/Endoscopy.internal.md) 
+
+### #is_/same_as :: [Endoscopy.protect](/_protect/Technology/Tool/Instrumentation/Endoscopy.protect.md) 
+
+### #is_/same_as :: [Endoscopy.private](/_private/Technology/Tool/Instrumentation/Endoscopy.private.md) 
+
+### #is_/same_as :: [Endoscopy.personal](/_personal/Technology/Tool/Instrumentation/Endoscopy.personal.md) 
+
+### #is_/same_as :: [Endoscopy.secret](/_secret/Technology/Tool/Instrumentation/Endoscopy.secret.md)
+

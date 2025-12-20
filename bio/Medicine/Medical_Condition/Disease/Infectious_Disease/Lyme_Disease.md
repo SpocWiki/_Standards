@@ -107,3 +107,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lyme%20disease) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lyme_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.md) 
+
+### #is_/same_as :: [Lyme_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.public.md) 
+
+### #is_/same_as :: [Lyme_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.internal.md) 
+
+### #is_/same_as :: [Lyme_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.protect.md) 
+
+### #is_/same_as :: [Lyme_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.private.md) 
+
+### #is_/same_as :: [Lyme_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.personal.md) 
+
+### #is_/same_as :: [Lyme_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.secret.md)
+

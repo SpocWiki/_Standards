@@ -160,3 +160,22 @@ name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Krishna) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Krishna](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Krishna.md) 
+
+### #is_/same_as :: [Krishna.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Krishna.public.md) 
+
+### #is_/same_as :: [Krishna.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Krishna.internal.md) 
+
+### #is_/same_as :: [Krishna.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Krishna.protect.md) 
+
+### #is_/same_as :: [Krishna.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Krishna.private.md) 
+
+### #is_/same_as :: [Krishna.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Krishna.personal.md) 
+
+### #is_/same_as :: [Krishna.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Krishna.secret.md)
+

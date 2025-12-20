@@ -73,3 +73,22 @@ j = \frac{i\hbar}{2m}\left(
 \right)
 $$
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Klein-Gordon_Equation](/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.md) 
+
+### #is_/same_as :: [Klein-Gordon_Equation.public](/_public/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.public.md) 
+
+### #is_/same_as :: [Klein-Gordon_Equation.internal](/_internal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.internal.md) 
+
+### #is_/same_as :: [Klein-Gordon_Equation.protect](/_protect/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.protect.md) 
+
+### #is_/same_as :: [Klein-Gordon_Equation.private](/_private/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.private.md) 
+
+### #is_/same_as :: [Klein-Gordon_Equation.personal](/_personal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.personal.md) 
+
+### #is_/same_as :: [Klein-Gordon_Equation.secret](/_secret/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)/Klein-Gordon_Equation.secret.md)
+

@@ -50,3 +50,22 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Planck%20units) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Planck_Time](/_Standards/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.md) 
+
+### #is_/same_as :: [Planck_Time.public](/_public/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.public.md) 
+
+### #is_/same_as :: [Planck_Time.internal](/_internal/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.internal.md) 
+
+### #is_/same_as :: [Planck_Time.protect](/_protect/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.protect.md) 
+
+### #is_/same_as :: [Planck_Time.private](/_private/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.private.md) 
+
+### #is_/same_as :: [Planck_Time.personal](/_personal/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.personal.md) 
+
+### #is_/same_as :: [Planck_Time.secret](/_secret/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.secret.md)
+

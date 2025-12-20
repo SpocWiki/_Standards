@@ -97,3 +97,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/IOANN_BOGOSLOV_SV.ht
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20the%20Apostle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [John_the_Apostle](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.md) 
+
+### #is_/same_as :: [John_the_Apostle.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.public.md) 
+
+### #is_/same_as :: [John_the_Apostle.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.internal.md) 
+
+### #is_/same_as :: [John_the_Apostle.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.protect.md) 
+
+### #is_/same_as :: [John_the_Apostle.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.private.md) 
+
+### #is_/same_as :: [John_the_Apostle.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.personal.md) 
+
+### #is_/same_as :: [John_the_Apostle.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.secret.md)
+

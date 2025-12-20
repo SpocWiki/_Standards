@@ -74,3 +74,22 @@ U_S_National_Archives_Identifier: "10581376"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joe%20Louis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Louis,Joe](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.md) 
+
+### #is_/same_as :: [Louis,Joe.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.public.md) 
+
+### #is_/same_as :: [Louis,Joe.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.internal.md) 
+
+### #is_/same_as :: [Louis,Joe.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.protect.md) 
+
+### #is_/same_as :: [Louis,Joe.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.private.md) 
+
+### #is_/same_as :: [Louis,Joe.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.personal.md) 
+
+### #is_/same_as :: [Louis,Joe.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Louis,Joe.secret.md)
+

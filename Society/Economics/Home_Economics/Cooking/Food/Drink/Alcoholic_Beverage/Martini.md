@@ -39,3 +39,21 @@ official_website: https://iba-world.com/iba-cocktails/
 > The **Martini** is a cocktail made with gin and vermouth, and garnished with an olive, a lemon twist, or both. Over the years, the martini has become one of the best-known mixed alcoholic beverages. A common variation, the vodka martini, uses vodka instead of gin for the cocktail's base spirit.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Martini%20(cocktail))
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Martini](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.md) 
+
+### #is_/same_as :: [Martini.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.public.md) 
+
+### #is_/same_as :: [Martini.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.internal.md) 
+
+### #is_/same_as :: [Martini.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.protect.md) 
+
+### #is_/same_as :: [Martini.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.private.md) 
+
+### #is_/same_as :: [Martini.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.personal.md) 
+
+### #is_/same_as :: [Martini.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Martini.secret.md)
+

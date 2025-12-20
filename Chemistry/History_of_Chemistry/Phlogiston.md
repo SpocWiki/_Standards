@@ -45,3 +45,22 @@ OmegaWiki_Defined_Meaning: "1341619"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phlogiston%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phlogiston](/_Standards/Chemistry/History_of_Chemistry/Phlogiston.md) 
+
+### #is_/same_as :: [Phlogiston.public](/_public/Chemistry/History_of_Chemistry/Phlogiston.public.md) 
+
+### #is_/same_as :: [Phlogiston.internal](/_internal/Chemistry/History_of_Chemistry/Phlogiston.internal.md) 
+
+### #is_/same_as :: [Phlogiston.protect](/_protect/Chemistry/History_of_Chemistry/Phlogiston.protect.md) 
+
+### #is_/same_as :: [Phlogiston.private](/_private/Chemistry/History_of_Chemistry/Phlogiston.private.md) 
+
+### #is_/same_as :: [Phlogiston.personal](/_personal/Chemistry/History_of_Chemistry/Phlogiston.personal.md) 
+
+### #is_/same_as :: [Phlogiston.secret](/_secret/Chemistry/History_of_Chemistry/Phlogiston.secret.md)
+

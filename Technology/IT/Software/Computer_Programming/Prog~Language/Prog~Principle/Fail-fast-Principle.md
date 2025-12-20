@@ -24,3 +24,22 @@
 [[BSoD(Blue_Screen_of_Death)]] 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fail-fast-Principle](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.md) 
+
+### #is_/same_as :: [Fail-fast-Principle.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.public.md) 
+
+### #is_/same_as :: [Fail-fast-Principle.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.internal.md) 
+
+### #is_/same_as :: [Fail-fast-Principle.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.protect.md) 
+
+### #is_/same_as :: [Fail-fast-Principle.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.private.md) 
+
+### #is_/same_as :: [Fail-fast-Principle.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.personal.md) 
+
+### #is_/same_as :: [Fail-fast-Principle.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.secret.md)
+

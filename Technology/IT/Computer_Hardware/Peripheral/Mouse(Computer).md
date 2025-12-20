@@ -70,3 +70,22 @@ Baidu_Tieba_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20mouse) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mouse(Computer)](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).md) 
+
+### #is_/same_as :: [Mouse(Computer).public](/_public/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).public.md) 
+
+### #is_/same_as :: [Mouse(Computer).internal](/_internal/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).internal.md) 
+
+### #is_/same_as :: [Mouse(Computer).protect](/_protect/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).protect.md) 
+
+### #is_/same_as :: [Mouse(Computer).private](/_private/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).private.md) 
+
+### #is_/same_as :: [Mouse(Computer).personal](/_personal/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).personal.md) 
+
+### #is_/same_as :: [Mouse(Computer).secret](/_secret/Technology/IT/Computer_Hardware/Peripheral/Mouse(Computer).secret.md)
+

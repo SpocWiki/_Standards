@@ -43,3 +43,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Creativ%20plumbing%20-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plumbing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plumbing](/_Standards/Technology/Transport/Pipeline_Transport/Plumbing.md) 
+
+### #is_/same_as :: [Plumbing.public](/_public/Technology/Transport/Pipeline_Transport/Plumbing.public.md) 
+
+### #is_/same_as :: [Plumbing.internal](/_internal/Technology/Transport/Pipeline_Transport/Plumbing.internal.md) 
+
+### #is_/same_as :: [Plumbing.protect](/_protect/Technology/Transport/Pipeline_Transport/Plumbing.protect.md) 
+
+### #is_/same_as :: [Plumbing.private](/_private/Technology/Transport/Pipeline_Transport/Plumbing.private.md) 
+
+### #is_/same_as :: [Plumbing.personal](/_personal/Technology/Transport/Pipeline_Transport/Plumbing.personal.md) 
+
+### #is_/same_as :: [Plumbing.secret](/_secret/Technology/Transport/Pipeline_Transport/Plumbing.secret.md)
+

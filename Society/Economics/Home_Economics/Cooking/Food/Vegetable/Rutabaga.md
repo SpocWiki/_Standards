@@ -77,3 +77,22 @@ NBN_System_Key: NHMSYS0000456604
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rutabaga) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rutabaga](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Rutabaga.md) 
+
+### #is_/same_as :: [Rutabaga.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Rutabaga.public.md) 
+
+### #is_/same_as :: [Rutabaga.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Rutabaga.internal.md) 
+
+### #is_/same_as :: [Rutabaga.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Rutabaga.protect.md) 
+
+### #is_/same_as :: [Rutabaga.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Rutabaga.private.md) 
+
+### #is_/same_as :: [Rutabaga.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Rutabaga.personal.md) 
+
+### #is_/same_as :: [Rutabaga.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Rutabaga.secret.md)
+

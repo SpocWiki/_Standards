@@ -166,17 +166,17 @@ X_Twitter_username: OPECSecretariat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries)](OPEC(Organization_of_the_Petroleum_Exporting_Countries).md) 
+### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries)](/_Standards/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).md) 
 
-### #is_/same_as :: [OPEC.public](/_public/International/OPEC.public.md) 
+### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).public](/_public/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).public.md) 
 
-### #is_/same_as :: [OPEC.internal](/_internal/International/OPEC.internal.md) 
+### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).internal](/_internal/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).internal.md) 
 
-### #is_/same_as :: [OPEC.protect](/_protect/International/OPEC.protect.md) 
+### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).protect](/_protect/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).protect.md) 
 
-### #is_/same_as :: [OPEC.private](/_private/International/OPEC.private.md) 
+### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).private](/_private/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).private.md) 
 
-### #is_/same_as :: [OPEC.personal](/_personal/International/OPEC.personal.md) 
+### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).personal](/_personal/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).personal.md) 
 
-### #is_/same_as :: [OPEC.secret](/_secret/International/OPEC.secret.md)
+### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).secret](/_secret/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).secret.md)
 

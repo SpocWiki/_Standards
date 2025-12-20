@@ -39,3 +39,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charge%20conservation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conservation_of_Charge](/_Standards/Science/Physics/Conservation_Law/Conservation_of_Charge.md) 
+
+### #is_/same_as :: [Conservation_of_Charge.public](/_public/Science/Physics/Conservation_Law/Conservation_of_Charge.public.md) 
+
+### #is_/same_as :: [Conservation_of_Charge.internal](/_internal/Science/Physics/Conservation_Law/Conservation_of_Charge.internal.md) 
+
+### #is_/same_as :: [Conservation_of_Charge.protect](/_protect/Science/Physics/Conservation_Law/Conservation_of_Charge.protect.md) 
+
+### #is_/same_as :: [Conservation_of_Charge.private](/_private/Science/Physics/Conservation_Law/Conservation_of_Charge.private.md) 
+
+### #is_/same_as :: [Conservation_of_Charge.personal](/_personal/Science/Physics/Conservation_Law/Conservation_of_Charge.personal.md) 
+
+### #is_/same_as :: [Conservation_of_Charge.secret](/_secret/Science/Physics/Conservation_Law/Conservation_of_Charge.secret.md)
+

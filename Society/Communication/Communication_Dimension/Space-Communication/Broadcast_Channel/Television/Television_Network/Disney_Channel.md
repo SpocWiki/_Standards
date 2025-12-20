@@ -47,3 +47,22 @@ catchphrase: The Best Place to Be
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Disney%20Channel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Disney_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.md) 
+
+### #is_/same_as :: [Disney_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.public.md) 
+
+### #is_/same_as :: [Disney_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.internal.md) 
+
+### #is_/same_as :: [Disney_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.protect.md) 
+
+### #is_/same_as :: [Disney_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.private.md) 
+
+### #is_/same_as :: [Disney_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.personal.md) 
+
+### #is_/same_as :: [Disney_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.secret.md)
+

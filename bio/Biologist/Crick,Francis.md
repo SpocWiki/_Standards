@@ -123,3 +123,22 @@ date_of_birth: 1916-06-08T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Crick) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crick,Francis](/_Standards/bio/Biologist/Crick,Francis.md) 
+
+### #is_/same_as :: [Crick,Francis.public](/_public/bio/Biologist/Crick,Francis.public.md) 
+
+### #is_/same_as :: [Crick,Francis.internal](/_internal/bio/Biologist/Crick,Francis.internal.md) 
+
+### #is_/same_as :: [Crick,Francis.protect](/_protect/bio/Biologist/Crick,Francis.protect.md) 
+
+### #is_/same_as :: [Crick,Francis.private](/_private/bio/Biologist/Crick,Francis.private.md) 
+
+### #is_/same_as :: [Crick,Francis.personal](/_personal/bio/Biologist/Crick,Francis.personal.md) 
+
+### #is_/same_as :: [Crick,Francis.secret](/_secret/bio/Biologist/Crick,Francis.secret.md)
+

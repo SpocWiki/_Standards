@@ -217,17 +217,17 @@ Whey-Powder is very valuable, but should be acquired pure which makes it also mo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protein](Protein.md) 
+### #is_/same_as :: [Protein](/_Standards/bio/Metabolism/Nutrition/Protein.md) 
 
-### #is_/same_as :: [protein.public](/_public/schema-org/Class/is_a_/bio_chem_entity/protein.public.md) 
+### #is_/same_as :: [Protein.public](/_public/bio/Metabolism/Nutrition/Protein.public.md) 
 
-### #is_/same_as :: [protein.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/protein.internal.md) 
+### #is_/same_as :: [Protein.internal](/_internal/bio/Metabolism/Nutrition/Protein.internal.md) 
 
-### #is_/same_as :: [protein.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity/protein.protect.md) 
+### #is_/same_as :: [Protein.protect](/_protect/bio/Metabolism/Nutrition/Protein.protect.md) 
 
-### #is_/same_as :: [protein.private](/_private/schema-org/Class/is_a_/bio_chem_entity/protein.private.md) 
+### #is_/same_as :: [Protein.private](/_private/bio/Metabolism/Nutrition/Protein.private.md) 
 
-### #is_/same_as :: [protein.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/protein.personal.md) 
+### #is_/same_as :: [Protein.personal](/_personal/bio/Metabolism/Nutrition/Protein.personal.md) 
 
-### #is_/same_as :: [protein.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/protein.secret.md)
+### #is_/same_as :: [Protein.secret](/_secret/bio/Metabolism/Nutrition/Protein.secret.md)
 

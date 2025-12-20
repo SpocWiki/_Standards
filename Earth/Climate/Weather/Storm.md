@@ -39,3 +39,22 @@ has_id_wikidata: Q81054
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Storm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Storm](/_Standards/Earth/Climate/Weather/Storm.md) 
+
+### #is_/same_as :: [Storm.public](/_public/Earth/Climate/Weather/Storm.public.md) 
+
+### #is_/same_as :: [Storm.internal](/_internal/Earth/Climate/Weather/Storm.internal.md) 
+
+### #is_/same_as :: [Storm.protect](/_protect/Earth/Climate/Weather/Storm.protect.md) 
+
+### #is_/same_as :: [Storm.private](/_private/Earth/Climate/Weather/Storm.private.md) 
+
+### #is_/same_as :: [Storm.personal](/_personal/Earth/Climate/Weather/Storm.personal.md) 
+
+### #is_/same_as :: [Storm.secret](/_secret/Earth/Climate/Weather/Storm.secret.md)
+

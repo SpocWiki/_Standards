@@ -38,3 +38,22 @@ subreddit: tonightsdinner
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dinner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dinner](/_Standards/Society/Economics/Home_Economics/Meal/Dinner.md) 
+
+### #is_/same_as :: [Dinner.public](/_public/Society/Economics/Home_Economics/Meal/Dinner.public.md) 
+
+### #is_/same_as :: [Dinner.internal](/_internal/Society/Economics/Home_Economics/Meal/Dinner.internal.md) 
+
+### #is_/same_as :: [Dinner.protect](/_protect/Society/Economics/Home_Economics/Meal/Dinner.protect.md) 
+
+### #is_/same_as :: [Dinner.private](/_private/Society/Economics/Home_Economics/Meal/Dinner.private.md) 
+
+### #is_/same_as :: [Dinner.personal](/_personal/Society/Economics/Home_Economics/Meal/Dinner.personal.md) 
+
+### #is_/same_as :: [Dinner.secret](/_secret/Society/Economics/Home_Economics/Meal/Dinner.secret.md)
+

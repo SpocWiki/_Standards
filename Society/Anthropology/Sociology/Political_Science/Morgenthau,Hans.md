@@ -86,3 +86,22 @@ ISNI: "0000000108553556"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Morgenthau) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Morgenthau,Hans](/_Standards/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.md) 
+
+### #is_/same_as :: [Morgenthau,Hans.public](/_public/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.public.md) 
+
+### #is_/same_as :: [Morgenthau,Hans.internal](/_internal/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.internal.md) 
+
+### #is_/same_as :: [Morgenthau,Hans.protect](/_protect/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.protect.md) 
+
+### #is_/same_as :: [Morgenthau,Hans.private](/_private/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.private.md) 
+
+### #is_/same_as :: [Morgenthau,Hans.personal](/_personal/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.personal.md) 
+
+### #is_/same_as :: [Morgenthau,Hans.secret](/_secret/Society/Anthropology/Sociology/Political_Science/Morgenthau,Hans.secret.md)
+

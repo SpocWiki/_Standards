@@ -48,3 +48,22 @@ Dewey_Decimal_Classification: "581.46"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tuber) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tuber](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.md) 
+
+### #is_/same_as :: [Tuber.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.public.md) 
+
+### #is_/same_as :: [Tuber.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.internal.md) 
+
+### #is_/same_as :: [Tuber.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.protect.md) 
+
+### #is_/same_as :: [Tuber.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.private.md) 
+
+### #is_/same_as :: [Tuber.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.personal.md) 
+
+### #is_/same_as :: [Tuber.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.secret.md)
+

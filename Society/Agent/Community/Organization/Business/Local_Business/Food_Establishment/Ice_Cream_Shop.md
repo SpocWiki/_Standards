@@ -39,17 +39,17 @@ An ice cream shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ice_Cream_Shop](Ice_Cream_Shop.md) 
+### #is_/same_as :: [Ice_Cream_Shop](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.md) 
 
-### #is_/same_as :: [Ice_Cream_Shop.public](/_public/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.public.md) 
+### #is_/same_as :: [Ice_Cream_Shop.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.public.md) 
 
-### #is_/same_as :: [Ice_Cream_Shop.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.internal.md) 
+### #is_/same_as :: [Ice_Cream_Shop.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.internal.md) 
 
-### #is_/same_as :: [Ice_Cream_Shop.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.protect.md) 
+### #is_/same_as :: [Ice_Cream_Shop.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.protect.md) 
 
-### #is_/same_as :: [Ice_Cream_Shop.private](/_private/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.private.md) 
+### #is_/same_as :: [Ice_Cream_Shop.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.private.md) 
 
-### #is_/same_as :: [Ice_Cream_Shop.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.personal.md) 
+### #is_/same_as :: [Ice_Cream_Shop.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.personal.md) 
 
-### #is_/same_as :: [Ice_Cream_Shop.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.secret.md)
+### #is_/same_as :: [Ice_Cream_Shop.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Ice_Cream_Shop.secret.md)
 

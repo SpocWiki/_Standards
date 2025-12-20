@@ -81,3 +81,22 @@ native_label: Nordic Council
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nordic%20Council) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nordic_Council](/_Standards/Society/Agent/Community/Organization/International_Organization/Nordic_Council.md) 
+
+### #is_/same_as :: [Nordic_Council.public](/_public/Society/Agent/Community/Organization/International_Organization/Nordic_Council.public.md) 
+
+### #is_/same_as :: [Nordic_Council.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Nordic_Council.internal.md) 
+
+### #is_/same_as :: [Nordic_Council.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Nordic_Council.protect.md) 
+
+### #is_/same_as :: [Nordic_Council.private](/_private/Society/Agent/Community/Organization/International_Organization/Nordic_Council.private.md) 
+
+### #is_/same_as :: [Nordic_Council.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Nordic_Council.personal.md) 
+
+### #is_/same_as :: [Nordic_Council.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Nordic_Council.secret.md)
+

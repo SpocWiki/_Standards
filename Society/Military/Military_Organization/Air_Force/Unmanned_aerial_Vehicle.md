@@ -91,3 +91,22 @@ Commons_gallery: Unmanned aerial vehicle
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Unmanned%20aerial%20vehicle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unmanned_aerial_Vehicle](/_Standards/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.md) 
+
+### #is_/same_as :: [Unmanned_aerial_Vehicle.public](/_public/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.public.md) 
+
+### #is_/same_as :: [Unmanned_aerial_Vehicle.internal](/_internal/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.internal.md) 
+
+### #is_/same_as :: [Unmanned_aerial_Vehicle.protect](/_protect/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.protect.md) 
+
+### #is_/same_as :: [Unmanned_aerial_Vehicle.private](/_private/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.private.md) 
+
+### #is_/same_as :: [Unmanned_aerial_Vehicle.personal](/_personal/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.personal.md) 
+
+### #is_/same_as :: [Unmanned_aerial_Vehicle.secret](/_secret/Society/Military/Military_Organization/Air_Force/Unmanned_aerial_Vehicle.secret.md)
+

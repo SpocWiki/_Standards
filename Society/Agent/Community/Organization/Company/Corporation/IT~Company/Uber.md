@@ -35,3 +35,22 @@ One problem for these drivers is to obtain good reviews,
 but since they don't incur negative Reviews, it is sufficient to serve a few actual bookings
 and provide excellent service on these. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Uber](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.md) 
+
+### #is_/same_as :: [Uber.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.public.md) 
+
+### #is_/same_as :: [Uber.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.internal.md) 
+
+### #is_/same_as :: [Uber.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.protect.md) 
+
+### #is_/same_as :: [Uber.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.private.md) 
+
+### #is_/same_as :: [Uber.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.personal.md) 
+
+### #is_/same_as :: [Uber.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.secret.md)
+

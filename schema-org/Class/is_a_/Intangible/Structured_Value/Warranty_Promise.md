@@ -39,17 +39,17 @@ A structured value representing the duration and scope of services that will be 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [warranty_promise](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.md) 
+### #is_/same_as :: [Warranty_Promise](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.md) 
 
-### #is_/same_as :: [warranty_promise.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.public.md) 
+### #is_/same_as :: [Warranty_Promise.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.public.md) 
 
-### #is_/same_as :: [warranty_promise.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.internal.md) 
+### #is_/same_as :: [Warranty_Promise.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.internal.md) 
 
-### #is_/same_as :: [warranty_promise.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.protect.md) 
+### #is_/same_as :: [Warranty_Promise.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.protect.md) 
 
-### #is_/same_as :: [warranty_promise.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.private.md) 
+### #is_/same_as :: [Warranty_Promise.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.private.md) 
 
-### #is_/same_as :: [warranty_promise.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.personal.md) 
+### #is_/same_as :: [Warranty_Promise.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal.md) 
 
-### #is_/same_as :: [warranty_promise.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.secret.md)
+### #is_/same_as :: [Warranty_Promise.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret.md)
 

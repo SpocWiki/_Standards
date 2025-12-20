@@ -133,3 +133,21 @@ birth_name: Κλαύδιος Πτολεμαῖος
 
 [[../../../_protect/Society/Communication/Media/Literature/Bridge_to_Terabithia]] 
 [[../../../_Standards/Society/Communication/Media/Movie/Role/Deadpan-Role]] 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ptolemy](/_Standards/Astronomy/Astronomer/Ptolemy.md) 
+
+### #is_/same_as :: [Ptolemy.public](/_public/Astronomy/Astronomer/Ptolemy.public.md) 
+
+### #is_/same_as :: [Ptolemy.internal](/_internal/Astronomy/Astronomer/Ptolemy.internal.md) 
+
+### #is_/same_as :: [Ptolemy.protect](/_protect/Astronomy/Astronomer/Ptolemy.protect.md) 
+
+### #is_/same_as :: [Ptolemy.private](/_private/Astronomy/Astronomer/Ptolemy.private.md) 
+
+### #is_/same_as :: [Ptolemy.personal](/_personal/Astronomy/Astronomer/Ptolemy.personal.md) 
+
+### #is_/same_as :: [Ptolemy.secret](/_secret/Astronomy/Astronomer/Ptolemy.secret.md)
+

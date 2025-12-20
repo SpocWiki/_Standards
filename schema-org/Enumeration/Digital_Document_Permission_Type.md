@@ -37,17 +37,17 @@ A type of permission which can be granted for accessing a digital document.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Digital_Document_Permission_Type](Digital_Document_Permission_Type.md) 
+### #is_/same_as :: [Digital_Document_Permission_Type](/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type.md) 
 
-### #is_/same_as :: [digital_document_permission_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type.public.md) 
+### #is_/same_as :: [Digital_Document_Permission_Type.public](/_public/schema-org/Enumeration/Digital_Document_Permission_Type.public.md) 
 
-### #is_/same_as :: [digital_document_permission_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type.internal.md) 
+### #is_/same_as :: [Digital_Document_Permission_Type.internal](/_internal/schema-org/Enumeration/Digital_Document_Permission_Type.internal.md) 
 
-### #is_/same_as :: [digital_document_permission_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type.protect.md) 
+### #is_/same_as :: [Digital_Document_Permission_Type.protect](/_protect/schema-org/Enumeration/Digital_Document_Permission_Type.protect.md) 
 
-### #is_/same_as :: [digital_document_permission_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type.private.md) 
+### #is_/same_as :: [Digital_Document_Permission_Type.private](/_private/schema-org/Enumeration/Digital_Document_Permission_Type.private.md) 
 
-### #is_/same_as :: [digital_document_permission_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type.personal.md) 
+### #is_/same_as :: [Digital_Document_Permission_Type.personal](/_personal/schema-org/Enumeration/Digital_Document_Permission_Type.personal.md) 
 
-### #is_/same_as :: [digital_document_permission_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type.secret.md)
+### #is_/same_as :: [Digital_Document_Permission_Type.secret](/_secret/schema-org/Enumeration/Digital_Document_Permission_Type.secret.md)
 

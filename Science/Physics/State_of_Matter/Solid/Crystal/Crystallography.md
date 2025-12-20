@@ -49,3 +49,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Crystallography::jy7v8"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crystallography) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crystallography](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.md) 
+
+### #is_/same_as :: [Crystallography.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.public.md) 
+
+### #is_/same_as :: [Crystallography.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.internal.md) 
+
+### #is_/same_as :: [Crystallography.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.protect.md) 
+
+### #is_/same_as :: [Crystallography.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.private.md) 
+
+### #is_/same_as :: [Crystallography.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.personal.md) 
+
+### #is_/same_as :: [Crystallography.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.secret.md)
+

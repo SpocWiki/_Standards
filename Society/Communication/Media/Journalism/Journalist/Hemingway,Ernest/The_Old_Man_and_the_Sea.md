@@ -93,3 +93,21 @@ OCLC_number: "232125095"
 > and on the character of the fisherman Santiago.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Old%20Man%20and%20the%20Sea)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [The_Old_Man_and_the_Sea](/_Standards/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.md) 
+
+### #is_/same_as :: [The_Old_Man_and_the_Sea.public](/_public/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.public.md) 
+
+### #is_/same_as :: [The_Old_Man_and_the_Sea.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.internal.md) 
+
+### #is_/same_as :: [The_Old_Man_and_the_Sea.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.protect.md) 
+
+### #is_/same_as :: [The_Old_Man_and_the_Sea.private](/_private/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.private.md) 
+
+### #is_/same_as :: [The_Old_Man_and_the_Sea.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.personal.md) 
+
+### #is_/same_as :: [The_Old_Man_and_the_Sea.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.secret.md)
+

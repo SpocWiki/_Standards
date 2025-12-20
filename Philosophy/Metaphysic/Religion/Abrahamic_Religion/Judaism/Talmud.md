@@ -69,3 +69,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TALMUD.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Talmud) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Talmud](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.md) 
+
+### #is_/same_as :: [Talmud.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.public.md) 
+
+### #is_/same_as :: [Talmud.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.internal.md) 
+
+### #is_/same_as :: [Talmud.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.protect.md) 
+
+### #is_/same_as :: [Talmud.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.private.md) 
+
+### #is_/same_as :: [Talmud.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.personal.md) 
+
+### #is_/same_as :: [Talmud.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Talmud.secret.md)
+

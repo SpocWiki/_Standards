@@ -39,3 +39,22 @@ Commons_category: Kirchhoff's circuit laws
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kirchhoff's%20circuit%20laws) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kirchhoff's_Circuit_Laws](/_Standards/Technology/Engineering/Electrical_Engineering/Kirchhoff's_Circuit_Laws.md) 
+
+### #is_/same_as :: [Kirchhoff's_Circuit_Laws.public](/_public/Technology/Engineering/Electrical_Engineering/Kirchhoff's_Circuit_Laws.public.md) 
+
+### #is_/same_as :: [Kirchhoff's_Circuit_Laws.internal](/_internal/Technology/Engineering/Electrical_Engineering/Kirchhoff's_Circuit_Laws.internal.md) 
+
+### #is_/same_as :: [Kirchhoff's_Circuit_Laws.protect](/_protect/Technology/Engineering/Electrical_Engineering/Kirchhoff's_Circuit_Laws.protect.md) 
+
+### #is_/same_as :: [Kirchhoff's_Circuit_Laws.private](/_private/Technology/Engineering/Electrical_Engineering/Kirchhoff's_Circuit_Laws.private.md) 
+
+### #is_/same_as :: [Kirchhoff's_Circuit_Laws.personal](/_personal/Technology/Engineering/Electrical_Engineering/Kirchhoff's_Circuit_Laws.personal.md) 
+
+### #is_/same_as :: [Kirchhoff's_Circuit_Laws.secret](/_secret/Technology/Engineering/Electrical_Engineering/Kirchhoff's_Circuit_Laws.secret.md)
+

@@ -53,3 +53,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frost) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frost](/_Standards/Science/Physics/State_of_Matter/Solid/Frost.md) 
+
+### #is_/same_as :: [Frost.public](/_public/Science/Physics/State_of_Matter/Solid/Frost.public.md) 
+
+### #is_/same_as :: [Frost.internal](/_internal/Science/Physics/State_of_Matter/Solid/Frost.internal.md) 
+
+### #is_/same_as :: [Frost.protect](/_protect/Science/Physics/State_of_Matter/Solid/Frost.protect.md) 
+
+### #is_/same_as :: [Frost.private](/_private/Science/Physics/State_of_Matter/Solid/Frost.private.md) 
+
+### #is_/same_as :: [Frost.personal](/_personal/Science/Physics/State_of_Matter/Solid/Frost.personal.md) 
+
+### #is_/same_as :: [Frost.secret](/_secret/Science/Physics/State_of_Matter/Solid/Frost.secret.md)
+

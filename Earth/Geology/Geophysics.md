@@ -49,3 +49,22 @@ Krugosvet_article: nauka_i_tehnika/fizika/GEOFIZIKA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Geophysics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Geophysics](/_Standards/Earth/Geology/Geophysics.md) 
+
+### #is_/same_as :: [Geophysics.public](/_public/Earth/Geology/Geophysics.public.md) 
+
+### #is_/same_as :: [Geophysics.internal](/_internal/Earth/Geology/Geophysics.internal.md) 
+
+### #is_/same_as :: [Geophysics.protect](/_protect/Earth/Geology/Geophysics.protect.md) 
+
+### #is_/same_as :: [Geophysics.private](/_private/Earth/Geology/Geophysics.private.md) 
+
+### #is_/same_as :: [Geophysics.personal](/_personal/Earth/Geology/Geophysics.personal.md) 
+
+### #is_/same_as :: [Geophysics.secret](/_secret/Earth/Geology/Geophysics.secret.md)
+

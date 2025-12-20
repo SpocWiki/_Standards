@@ -56,3 +56,22 @@ Baidu_Tieba_name: 台球
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cue%20sports) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cue_Sports](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.md) 
+
+### #is_/same_as :: [Cue_Sports.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.public.md) 
+
+### #is_/same_as :: [Cue_Sports.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.internal.md) 
+
+### #is_/same_as :: [Cue_Sports.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.protect.md) 
+
+### #is_/same_as :: [Cue_Sports.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.private.md) 
+
+### #is_/same_as :: [Cue_Sports.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.personal.md) 
+
+### #is_/same_as :: [Cue_Sports.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.secret.md)
+

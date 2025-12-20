@@ -136,3 +136,22 @@ Wolfram_Language_entity_code: Entity["Person", "FriedrichEngels::w3tyn"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Friedrich%20Engels) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Engels,Friedrich](/_Standards/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.md) 
+
+### #is_/same_as :: [Engels,Friedrich.public](/_public/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.public.md) 
+
+### #is_/same_as :: [Engels,Friedrich.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.internal.md) 
+
+### #is_/same_as :: [Engels,Friedrich.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.protect.md) 
+
+### #is_/same_as :: [Engels,Friedrich.private](/_private/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.private.md) 
+
+### #is_/same_as :: [Engels,Friedrich.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.personal.md) 
+
+### #is_/same_as :: [Engels,Friedrich.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Marxism/Engels,Friedrich.secret.md)
+

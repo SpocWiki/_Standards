@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Peter Naur"
 ---
@@ -42,4 +42,23 @@ This has multiple Benefits:
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Naur,Peter](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.md) 
+
+### #is_/same_as :: [Naur,Peter.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.public.md) 
+
+### #is_/same_as :: [Naur,Peter.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.internal.md) 
+
+### #is_/same_as :: [Naur,Peter.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.protect.md) 
+
+### #is_/same_as :: [Naur,Peter.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.private.md) 
+
+### #is_/same_as :: [Naur,Peter.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.personal.md) 
+
+### #is_/same_as :: [Naur,Peter.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.secret.md)
 

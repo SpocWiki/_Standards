@@ -116,3 +116,22 @@ date_of_birth: -0105-09-26T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pompey) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pompey](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Pompey.md) 
+
+### #is_/same_as :: [Pompey.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Pompey.public.md) 
+
+### #is_/same_as :: [Pompey.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Pompey.internal.md) 
+
+### #is_/same_as :: [Pompey.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Pompey.protect.md) 
+
+### #is_/same_as :: [Pompey.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Pompey.private.md) 
+
+### #is_/same_as :: [Pompey.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Pompey.personal.md) 
+
+### #is_/same_as :: [Pompey.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Pompey.secret.md)
+

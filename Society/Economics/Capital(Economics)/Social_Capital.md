@@ -47,3 +47,22 @@ Commons_category: Social capital
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20capital) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Capital](/_Standards/Society/Economics/Capital(Economics)/Social_Capital.md) 
+
+### #is_/same_as :: [Social_Capital.public](/_public/Society/Economics/Capital(Economics)/Social_Capital.public.md) 
+
+### #is_/same_as :: [Social_Capital.internal](/_internal/Society/Economics/Capital(Economics)/Social_Capital.internal.md) 
+
+### #is_/same_as :: [Social_Capital.protect](/_protect/Society/Economics/Capital(Economics)/Social_Capital.protect.md) 
+
+### #is_/same_as :: [Social_Capital.private](/_private/Society/Economics/Capital(Economics)/Social_Capital.private.md) 
+
+### #is_/same_as :: [Social_Capital.personal](/_personal/Society/Economics/Capital(Economics)/Social_Capital.personal.md) 
+
+### #is_/same_as :: [Social_Capital.secret](/_secret/Society/Economics/Capital(Economics)/Social_Capital.secret.md)
+

@@ -116,3 +116,22 @@ pseudonym: El Finlandès volador
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paavo%20Nurmi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nurmi,Paavo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Nurmi,Paavo.md) 
+
+### #is_/same_as :: [Nurmi,Paavo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Nurmi,Paavo.public.md) 
+
+### #is_/same_as :: [Nurmi,Paavo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Nurmi,Paavo.internal.md) 
+
+### #is_/same_as :: [Nurmi,Paavo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Nurmi,Paavo.protect.md) 
+
+### #is_/same_as :: [Nurmi,Paavo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Nurmi,Paavo.private.md) 
+
+### #is_/same_as :: [Nurmi,Paavo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Nurmi,Paavo.personal.md) 
+
+### #is_/same_as :: [Nurmi,Paavo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Nurmi,Paavo.secret.md)
+

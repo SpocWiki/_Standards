@@ -59,3 +59,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/HKCEC%20Wan%20Chai%20N
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magazine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magazine](/_Standards/Society/Communication/Media/Journalism/Magazine.md) 
+
+### #is_/same_as :: [Magazine.public](/_public/Society/Communication/Media/Journalism/Magazine.public.md) 
+
+### #is_/same_as :: [Magazine.internal](/_internal/Society/Communication/Media/Journalism/Magazine.internal.md) 
+
+### #is_/same_as :: [Magazine.protect](/_protect/Society/Communication/Media/Journalism/Magazine.protect.md) 
+
+### #is_/same_as :: [Magazine.private](/_private/Society/Communication/Media/Journalism/Magazine.private.md) 
+
+### #is_/same_as :: [Magazine.personal](/_personal/Society/Communication/Media/Journalism/Magazine.personal.md) 
+
+### #is_/same_as :: [Magazine.secret](/_secret/Society/Communication/Media/Journalism/Magazine.secret.md)
+

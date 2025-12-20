@@ -59,3 +59,22 @@ UMLS_CUI: C0032385
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pollen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pollen](/_Standards/bio/Reproduction/Sexual_Reproduction/Pollination/Pollen.md) 
+
+### #is_/same_as :: [Pollen.public](/_public/bio/Reproduction/Sexual_Reproduction/Pollination/Pollen.public.md) 
+
+### #is_/same_as :: [Pollen.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Pollination/Pollen.internal.md) 
+
+### #is_/same_as :: [Pollen.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Pollination/Pollen.protect.md) 
+
+### #is_/same_as :: [Pollen.private](/_private/bio/Reproduction/Sexual_Reproduction/Pollination/Pollen.private.md) 
+
+### #is_/same_as :: [Pollen.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Pollination/Pollen.personal.md) 
+
+### #is_/same_as :: [Pollen.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Pollination/Pollen.secret.md)
+

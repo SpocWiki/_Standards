@@ -34,3 +34,22 @@ has_id_wikidata: Q41421
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Jordan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jordan,Michael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.md) 
+
+### #is_/same_as :: [Jordan,Michael.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.public.md) 
+
+### #is_/same_as :: [Jordan,Michael.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.internal.md) 
+
+### #is_/same_as :: [Jordan,Michael.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.protect.md) 
+
+### #is_/same_as :: [Jordan,Michael.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.private.md) 
+
+### #is_/same_as :: [Jordan,Michael.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.personal.md) 
+
+### #is_/same_as :: [Jordan,Michael.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.secret.md)
+

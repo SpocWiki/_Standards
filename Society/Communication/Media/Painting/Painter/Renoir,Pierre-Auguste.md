@@ -404,3 +404,22 @@ ISNI: 000000012126066X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Auguste%20Renoir) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Renoir,Pierre-Auguste](/_Standards/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.md) 
+
+### #is_/same_as :: [Renoir,Pierre-Auguste.public](/_public/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.public.md) 
+
+### #is_/same_as :: [Renoir,Pierre-Auguste.internal](/_internal/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.internal.md) 
+
+### #is_/same_as :: [Renoir,Pierre-Auguste.protect](/_protect/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.protect.md) 
+
+### #is_/same_as :: [Renoir,Pierre-Auguste.private](/_private/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.private.md) 
+
+### #is_/same_as :: [Renoir,Pierre-Auguste.personal](/_personal/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.personal.md) 
+
+### #is_/same_as :: [Renoir,Pierre-Auguste.secret](/_secret/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.secret.md)
+

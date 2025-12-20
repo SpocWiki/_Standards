@@ -166,17 +166,17 @@ parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Solanum,1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Potato](/_Standards/bio/Botany/Potato.md) 
+### #is_/same_as :: [Potato](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Potato.md) 
 
-### #is_/same_as :: [Potato.public](/_public/bio/Botany/Potato.public.md) 
+### #is_/same_as :: [Potato.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Potato.public.md) 
 
-### #is_/same_as :: [Potato.internal](/_internal/bio/Botany/Potato.internal.md) 
+### #is_/same_as :: [Potato.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Potato.internal.md) 
 
-### #is_/same_as :: [Potato.protect](/_protect/bio/Botany/Potato.protect.md) 
+### #is_/same_as :: [Potato.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Potato.protect.md) 
 
-### #is_/same_as :: [Potato.private](/_private/bio/Botany/Potato.private.md) 
+### #is_/same_as :: [Potato.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Potato.private.md) 
 
-### #is_/same_as :: [Potato.personal](/_personal/bio/Botany/Potato.personal.md) 
+### #is_/same_as :: [Potato.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Potato.personal.md) 
 
-### #is_/same_as :: [Potato.secret](/_secret/bio/Botany/Potato.secret.md)
+### #is_/same_as :: [Potato.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Potato.secret.md)
 

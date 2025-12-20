@@ -95,3 +95,22 @@ Archive_of_Our_Own_tag: Gunsmoke (TV *a* Movies 1955)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gunsmoke) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gunsmoke](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.md) 
+
+### #is_/same_as :: [Gunsmoke.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.public.md) 
+
+### #is_/same_as :: [Gunsmoke.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.internal.md) 
+
+### #is_/same_as :: [Gunsmoke.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.protect.md) 
+
+### #is_/same_as :: [Gunsmoke.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.private.md) 
+
+### #is_/same_as :: [Gunsmoke.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.personal.md) 
+
+### #is_/same_as :: [Gunsmoke.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.secret.md)
+

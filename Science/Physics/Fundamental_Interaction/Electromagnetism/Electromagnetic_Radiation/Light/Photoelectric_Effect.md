@@ -42,3 +42,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/FOTOELEKTRICHESKI_EFFEKT.htm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Photoelectric%20effect) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Photoelectric_Effect](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.md) 
+
+### #is_/same_as :: [Photoelectric_Effect.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.public.md) 
+
+### #is_/same_as :: [Photoelectric_Effect.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.internal.md) 
+
+### #is_/same_as :: [Photoelectric_Effect.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.protect.md) 
+
+### #is_/same_as :: [Photoelectric_Effect.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.private.md) 
+
+### #is_/same_as :: [Photoelectric_Effect.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.personal.md) 
+
+### #is_/same_as :: [Photoelectric_Effect.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Photoelectric_Effect.secret.md)
+

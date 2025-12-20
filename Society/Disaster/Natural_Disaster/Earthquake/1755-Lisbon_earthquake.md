@@ -47,17 +47,17 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-1755%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1755-Lisbon_earthquake](/_Standards/Society/Disaster/1755-Lisbon_earthquake.md) 
+### #is_/same_as :: [1755-Lisbon_earthquake](/_Standards/Society/Disaster/Natural_Disaster/Earthquake/1755-Lisbon_earthquake.md) 
 
-### #is_/same_as :: [1755-Lisbon_earthquake.public](/_public/Society/Disaster/1755-Lisbon_earthquake.public.md) 
+### #is_/same_as :: [1755-Lisbon_earthquake.public](/_public/Society/Disaster/Natural_Disaster/Earthquake/1755-Lisbon_earthquake.public.md) 
 
-### #is_/same_as :: [1755-Lisbon_earthquake.internal](/_internal/Society/Disaster/1755-Lisbon_earthquake.internal.md) 
+### #is_/same_as :: [1755-Lisbon_earthquake.internal](/_internal/Society/Disaster/Natural_Disaster/Earthquake/1755-Lisbon_earthquake.internal.md) 
 
-### #is_/same_as :: [1755-Lisbon_earthquake.protect](/_protect/Society/Disaster/1755-Lisbon_earthquake.protect.md) 
+### #is_/same_as :: [1755-Lisbon_earthquake.protect](/_protect/Society/Disaster/Natural_Disaster/Earthquake/1755-Lisbon_earthquake.protect.md) 
 
-### #is_/same_as :: [1755-Lisbon_earthquake.private](/_private/Society/Disaster/1755-Lisbon_earthquake.private.md) 
+### #is_/same_as :: [1755-Lisbon_earthquake.private](/_private/Society/Disaster/Natural_Disaster/Earthquake/1755-Lisbon_earthquake.private.md) 
 
-### #is_/same_as :: [1755-Lisbon_earthquake.personal](/_personal/Society/Disaster/1755-Lisbon_earthquake.personal.md) 
+### #is_/same_as :: [1755-Lisbon_earthquake.personal](/_personal/Society/Disaster/Natural_Disaster/Earthquake/1755-Lisbon_earthquake.personal.md) 
 
-### #is_/same_as :: [1755-Lisbon_earthquake.secret](/_secret/Society/Disaster/1755-Lisbon_earthquake.secret.md)
+### #is_/same_as :: [1755-Lisbon_earthquake.secret](/_secret/Society/Disaster/Natural_Disaster/Earthquake/1755-Lisbon_earthquake.secret.md)
 

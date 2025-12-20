@@ -180,3 +180,22 @@ Munzinger_Sport_number: "01000003272"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pel%C3%A9) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pelé](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Pelé.md) 
+
+### #is_/same_as :: [Pelé.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Pelé.public.md) 
+
+### #is_/same_as :: [Pelé.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Pelé.internal.md) 
+
+### #is_/same_as :: [Pelé.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Pelé.protect.md) 
+
+### #is_/same_as :: [Pelé.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Pelé.private.md) 
+
+### #is_/same_as :: [Pelé.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Pelé.personal.md) 
+
+### #is_/same_as :: [Pelé.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Pelé.secret.md)
+

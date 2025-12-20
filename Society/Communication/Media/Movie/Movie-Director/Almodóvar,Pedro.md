@@ -140,3 +140,22 @@ Plex_person_key: 5d776824103a2d001f563a8c
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pedro%20Almod%C3%B3var) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Almodóvar,Pedro](/_Standards/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.md) 
+
+### #is_/same_as :: [Almodóvar,Pedro.public](/_public/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.public.md) 
+
+### #is_/same_as :: [Almodóvar,Pedro.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.internal.md) 
+
+### #is_/same_as :: [Almodóvar,Pedro.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.protect.md) 
+
+### #is_/same_as :: [Almodóvar,Pedro.private](/_private/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.private.md) 
+
+### #is_/same_as :: [Almodóvar,Pedro.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.personal.md) 
+
+### #is_/same_as :: [Almodóvar,Pedro.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.secret.md)
+

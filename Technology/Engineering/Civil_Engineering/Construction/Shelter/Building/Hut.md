@@ -17,3 +17,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hut) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hut](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Hut.md) 
+
+### #is_/same_as :: [Hut.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Hut.public.md) 
+
+### #is_/same_as :: [Hut.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Hut.internal.md) 
+
+### #is_/same_as :: [Hut.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Hut.protect.md) 
+
+### #is_/same_as :: [Hut.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Hut.private.md) 
+
+### #is_/same_as :: [Hut.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Hut.personal.md) 
+
+### #is_/same_as :: [Hut.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Hut.secret.md)
+

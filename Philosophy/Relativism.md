@@ -31,3 +31,22 @@ PhilPapers_topic: relativism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Relativism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Relativism](/_Standards/Philosophy/Relativism.md) 
+
+### #is_/same_as :: [Relativism.public](/_public/Philosophy/Relativism.public.md) 
+
+### #is_/same_as :: [Relativism.internal](/_internal/Philosophy/Relativism.internal.md) 
+
+### #is_/same_as :: [Relativism.protect](/_protect/Philosophy/Relativism.protect.md) 
+
+### #is_/same_as :: [Relativism.private](/_private/Philosophy/Relativism.private.md) 
+
+### #is_/same_as :: [Relativism.personal](/_personal/Philosophy/Relativism.personal.md) 
+
+### #is_/same_as :: [Relativism.secret](/_secret/Philosophy/Relativism.secret.md)
+

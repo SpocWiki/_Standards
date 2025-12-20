@@ -33,3 +33,22 @@ Commons_category: Eastern philosophy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eastern%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eastern_Philosophy](/_Standards/Philosophy/Eastern_Philosophy.md) 
+
+### #is_/same_as :: [Eastern_Philosophy.public](/_public/Philosophy/Eastern_Philosophy.public.md) 
+
+### #is_/same_as :: [Eastern_Philosophy.internal](/_internal/Philosophy/Eastern_Philosophy.internal.md) 
+
+### #is_/same_as :: [Eastern_Philosophy.protect](/_protect/Philosophy/Eastern_Philosophy.protect.md) 
+
+### #is_/same_as :: [Eastern_Philosophy.private](/_private/Philosophy/Eastern_Philosophy.private.md) 
+
+### #is_/same_as :: [Eastern_Philosophy.personal](/_personal/Philosophy/Eastern_Philosophy.personal.md) 
+
+### #is_/same_as :: [Eastern_Philosophy.secret](/_secret/Philosophy/Eastern_Philosophy.secret.md)
+

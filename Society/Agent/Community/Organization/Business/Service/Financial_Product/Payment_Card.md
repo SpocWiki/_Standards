@@ -41,17 +41,17 @@ A payment method using a credit, debit, store or other card to associate the pay
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Card](Payment_Card.md) 
+### #is_/same_as :: [Payment_Card](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.md) 
 
-### #is_/same_as :: [payment_card.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.public.md) 
+### #is_/same_as :: [Payment_Card.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.public.md) 
 
-### #is_/same_as :: [payment_card.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.internal.md) 
+### #is_/same_as :: [Payment_Card.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.internal.md) 
 
-### #is_/same_as :: [payment_card.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.protect.md) 
+### #is_/same_as :: [Payment_Card.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.protect.md) 
 
-### #is_/same_as :: [payment_card.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.private.md) 
+### #is_/same_as :: [Payment_Card.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.private.md) 
 
-### #is_/same_as :: [payment_card.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.personal.md) 
+### #is_/same_as :: [Payment_Card.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.personal.md) 
 
-### #is_/same_as :: [payment_card.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.secret.md)
+### #is_/same_as :: [Payment_Card.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.secret.md)
 

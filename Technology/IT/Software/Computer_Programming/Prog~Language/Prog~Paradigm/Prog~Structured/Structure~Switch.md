@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Structure~Switch
 - 
@@ -40,4 +40,23 @@ Vice versa, also Switch Statements can be constructed by nesting [[IF-Statements
 ## [[Structogram#switch-case-Structure]]: 
 
 ![[Structogram#switch-case-Structure]]
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Structure~Switch](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Switch.md) 
+
+### #is_/same_as :: [Structure~Switch.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Switch.public.md) 
+
+### #is_/same_as :: [Structure~Switch.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Switch.internal.md) 
+
+### #is_/same_as :: [Structure~Switch.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Switch.protect.md) 
+
+### #is_/same_as :: [Structure~Switch.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Switch.private.md) 
+
+### #is_/same_as :: [Structure~Switch.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Switch.personal.md) 
+
+### #is_/same_as :: [Structure~Switch.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structure~Switch.secret.md)
 

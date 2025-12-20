@@ -101,3 +101,21 @@ Europeana_entity: agent/base/146877
 > After the war, Riefenstahl was arrested and found to be a Nazi "fellow traveller" but was not charged with war crimes.  Throughout her later life, she denied having known about the Holocaust, and was criticized as the "voice of the 'how could we have known?' defence." Riefenstahl's postwar work included her autobiography and two photography books on the Nuba peoples of southern Sudan.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leni%20Riefenstahl)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Riefenstahl,Leni](/_Standards/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.md) 
+
+### #is_/same_as :: [Riefenstahl,Leni.public](/_public/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.public.md) 
+
+### #is_/same_as :: [Riefenstahl,Leni.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.internal.md) 
+
+### #is_/same_as :: [Riefenstahl,Leni.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.protect.md) 
+
+### #is_/same_as :: [Riefenstahl,Leni.private](/_private/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.private.md) 
+
+### #is_/same_as :: [Riefenstahl,Leni.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.personal.md) 
+
+### #is_/same_as :: [Riefenstahl,Leni.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Riefenstahl,Leni.secret.md)
+

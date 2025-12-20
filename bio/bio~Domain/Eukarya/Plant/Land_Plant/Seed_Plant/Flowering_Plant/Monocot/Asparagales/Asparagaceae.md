@@ -85,3 +85,22 @@ NBN_System_Key: NHMSYS0020824558
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Asparagaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.md) 
+
+### #is_/same_as :: [Asparagaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.public.md) 
+
+### #is_/same_as :: [Asparagaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.internal.md) 
+
+### #is_/same_as :: [Asparagaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.protect.md) 
+
+### #is_/same_as :: [Asparagaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.private.md) 
+
+### #is_/same_as :: [Asparagaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.personal.md) 
+
+### #is_/same_as :: [Asparagaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae.secret.md)
+

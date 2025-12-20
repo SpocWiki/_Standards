@@ -44,3 +44,22 @@ Commons_category: Metamaterials
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metamaterial) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metamaterial](/_Standards/Chemistry/Material/Metamaterial.md) 
+
+### #is_/same_as :: [Metamaterial.public](/_public/Chemistry/Material/Metamaterial.public.md) 
+
+### #is_/same_as :: [Metamaterial.internal](/_internal/Chemistry/Material/Metamaterial.internal.md) 
+
+### #is_/same_as :: [Metamaterial.protect](/_protect/Chemistry/Material/Metamaterial.protect.md) 
+
+### #is_/same_as :: [Metamaterial.private](/_private/Chemistry/Material/Metamaterial.private.md) 
+
+### #is_/same_as :: [Metamaterial.personal](/_personal/Chemistry/Material/Metamaterial.personal.md) 
+
+### #is_/same_as :: [Metamaterial.secret](/_secret/Chemistry/Material/Metamaterial.secret.md)
+

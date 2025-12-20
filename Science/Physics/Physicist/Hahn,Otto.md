@@ -205,3 +205,22 @@ ISNI: 000000010902412X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Otto%20Hahn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hahn,Otto](/_Standards/Science/Physics/Physicist/Hahn,Otto.md) 
+
+### #is_/same_as :: [Hahn,Otto.public](/_public/Science/Physics/Physicist/Hahn,Otto.public.md) 
+
+### #is_/same_as :: [Hahn,Otto.internal](/_internal/Science/Physics/Physicist/Hahn,Otto.internal.md) 
+
+### #is_/same_as :: [Hahn,Otto.protect](/_protect/Science/Physics/Physicist/Hahn,Otto.protect.md) 
+
+### #is_/same_as :: [Hahn,Otto.private](/_private/Science/Physics/Physicist/Hahn,Otto.private.md) 
+
+### #is_/same_as :: [Hahn,Otto.personal](/_personal/Science/Physics/Physicist/Hahn,Otto.personal.md) 
+
+### #is_/same_as :: [Hahn,Otto.secret](/_secret/Science/Physics/Physicist/Hahn,Otto.secret.md)
+

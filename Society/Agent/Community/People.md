@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ritt%20zum%20Kufenstec
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [People](/_Standards/Society/People.md) 
+### #is_/same_as :: [People](/_Standards/Society/Agent/Community/People.md) 
 
-### #is_/same_as :: [People.public](/_public/Society/People.public.md) 
+### #is_/same_as :: [People.public](/_public/Society/Agent/Community/People.public.md) 
 
-### #is_/same_as :: [People.internal](/_internal/Society/People.internal.md) 
+### #is_/same_as :: [People.internal](/_internal/Society/Agent/Community/People.internal.md) 
 
-### #is_/same_as :: [People.protect](/_protect/Society/People.protect.md) 
+### #is_/same_as :: [People.protect](/_protect/Society/Agent/Community/People.protect.md) 
 
-### #is_/same_as :: [People.private](/_private/Society/People.private.md) 
+### #is_/same_as :: [People.private](/_private/Society/Agent/Community/People.private.md) 
 
-### #is_/same_as :: [People.personal](/_personal/Society/People.personal.md) 
+### #is_/same_as :: [People.personal](/_personal/Society/Agent/Community/People.personal.md) 
 
-### #is_/same_as :: [People.secret](/_secret/Society/People.secret.md)
+### #is_/same_as :: [People.secret](/_secret/Society/Agent/Community/People.secret.md)
 

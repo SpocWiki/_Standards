@@ -64,3 +64,22 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Primary%20school) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Primary_School](/_Standards/Society/Culture/Education/Primary_School.md) 
+
+### #is_/same_as :: [Primary_School.public](/_public/Society/Culture/Education/Primary_School.public.md) 
+
+### #is_/same_as :: [Primary_School.internal](/_internal/Society/Culture/Education/Primary_School.internal.md) 
+
+### #is_/same_as :: [Primary_School.protect](/_protect/Society/Culture/Education/Primary_School.protect.md) 
+
+### #is_/same_as :: [Primary_School.private](/_private/Society/Culture/Education/Primary_School.private.md) 
+
+### #is_/same_as :: [Primary_School.personal](/_personal/Society/Culture/Education/Primary_School.personal.md) 
+
+### #is_/same_as :: [Primary_School.secret](/_secret/Society/Culture/Education/Primary_School.secret.md)
+

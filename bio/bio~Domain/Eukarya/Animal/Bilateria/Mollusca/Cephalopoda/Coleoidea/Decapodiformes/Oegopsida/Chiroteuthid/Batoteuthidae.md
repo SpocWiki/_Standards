@@ -139,7 +139,7 @@ Ser. 2: 185-202.
   View                 Ventral/dorsal
   Size                 350 mm ML (to tip of tail)
   Copyright ::            © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
-  --------------------------------------------------------------------------
+  --------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

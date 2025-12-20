@@ -39,3 +39,22 @@ Stack_Exchange_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Event%20horizon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Event_Horizon](/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Event_Horizon.md) 
+
+### #is_/same_as :: [Event_Horizon.public](/_public/Science/Physics/Theory_of_Relativity/General_Relativity/Event_Horizon.public.md) 
+
+### #is_/same_as :: [Event_Horizon.internal](/_internal/Science/Physics/Theory_of_Relativity/General_Relativity/Event_Horizon.internal.md) 
+
+### #is_/same_as :: [Event_Horizon.protect](/_protect/Science/Physics/Theory_of_Relativity/General_Relativity/Event_Horizon.protect.md) 
+
+### #is_/same_as :: [Event_Horizon.private](/_private/Science/Physics/Theory_of_Relativity/General_Relativity/Event_Horizon.private.md) 
+
+### #is_/same_as :: [Event_Horizon.personal](/_personal/Science/Physics/Theory_of_Relativity/General_Relativity/Event_Horizon.personal.md) 
+
+### #is_/same_as :: [Event_Horizon.secret](/_secret/Science/Physics/Theory_of_Relativity/General_Relativity/Event_Horizon.secret.md)
+

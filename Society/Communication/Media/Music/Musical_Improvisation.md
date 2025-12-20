@@ -42,3 +42,22 @@ Commons_category: Musical improvisation
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Musical_Improvisation](/_Standards/Society/Communication/Media/Music/Musical_Improvisation.md) 
+
+### #is_/same_as :: [Musical_Improvisation.public](/_public/Society/Communication/Media/Music/Musical_Improvisation.public.md) 
+
+### #is_/same_as :: [Musical_Improvisation.internal](/_internal/Society/Communication/Media/Music/Musical_Improvisation.internal.md) 
+
+### #is_/same_as :: [Musical_Improvisation.protect](/_protect/Society/Communication/Media/Music/Musical_Improvisation.protect.md) 
+
+### #is_/same_as :: [Musical_Improvisation.private](/_private/Society/Communication/Media/Music/Musical_Improvisation.private.md) 
+
+### #is_/same_as :: [Musical_Improvisation.personal](/_personal/Society/Communication/Media/Music/Musical_Improvisation.personal.md) 
+
+### #is_/same_as :: [Musical_Improvisation.secret](/_secret/Society/Communication/Media/Music/Musical_Improvisation.secret.md)
+

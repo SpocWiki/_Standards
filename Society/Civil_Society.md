@@ -34,3 +34,22 @@ Library_of_Congress_Classification: JC337
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Civil%20society) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Civil_Society](/_Standards/Society/Civil_Society.md) 
+
+### #is_/same_as :: [Civil_Society.public](/_public/Society/Civil_Society.public.md) 
+
+### #is_/same_as :: [Civil_Society.internal](/_internal/Society/Civil_Society.internal.md) 
+
+### #is_/same_as :: [Civil_Society.protect](/_protect/Society/Civil_Society.protect.md) 
+
+### #is_/same_as :: [Civil_Society.private](/_private/Society/Civil_Society.private.md) 
+
+### #is_/same_as :: [Civil_Society.personal](/_personal/Society/Civil_Society.personal.md) 
+
+### #is_/same_as :: [Civil_Society.secret](/_secret/Society/Civil_Society.secret.md)
+

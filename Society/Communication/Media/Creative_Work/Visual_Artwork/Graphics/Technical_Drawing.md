@@ -55,3 +55,22 @@ Dewey_Decimal_Classification: "604.2"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Technical%20drawing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Technical_Drawing](/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.md) 
+
+### #is_/same_as :: [Technical_Drawing.public](/_public/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.public.md) 
+
+### #is_/same_as :: [Technical_Drawing.internal](/_internal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.internal.md) 
+
+### #is_/same_as :: [Technical_Drawing.protect](/_protect/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.protect.md) 
+
+### #is_/same_as :: [Technical_Drawing.private](/_private/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.private.md) 
+
+### #is_/same_as :: [Technical_Drawing.personal](/_personal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.personal.md) 
+
+### #is_/same_as :: [Technical_Drawing.secret](/_secret/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics/Technical_Drawing.secret.md)
+

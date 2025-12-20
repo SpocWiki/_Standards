@@ -66,3 +66,22 @@ date_of_death: 1929-11-17T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Herman%20Hollerith) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hollerith,Herman](/_Standards/Technology/IT/Computer_Hardware/Hollerith,Herman.md) 
+
+### #is_/same_as :: [Hollerith,Herman.public](/_public/Technology/IT/Computer_Hardware/Hollerith,Herman.public.md) 
+
+### #is_/same_as :: [Hollerith,Herman.internal](/_internal/Technology/IT/Computer_Hardware/Hollerith,Herman.internal.md) 
+
+### #is_/same_as :: [Hollerith,Herman.protect](/_protect/Technology/IT/Computer_Hardware/Hollerith,Herman.protect.md) 
+
+### #is_/same_as :: [Hollerith,Herman.private](/_private/Technology/IT/Computer_Hardware/Hollerith,Herman.private.md) 
+
+### #is_/same_as :: [Hollerith,Herman.personal](/_personal/Technology/IT/Computer_Hardware/Hollerith,Herman.personal.md) 
+
+### #is_/same_as :: [Hollerith,Herman.secret](/_secret/Technology/IT/Computer_Hardware/Hollerith,Herman.secret.md)
+

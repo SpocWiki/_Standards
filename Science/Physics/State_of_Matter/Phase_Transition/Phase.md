@@ -32,3 +32,22 @@ has_id_wikidata: Q104837
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20of%20matter) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phase](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Phase.md) 
+
+### #is_/same_as :: [Phase.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Phase.public.md) 
+
+### #is_/same_as :: [Phase.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Phase.internal.md) 
+
+### #is_/same_as :: [Phase.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Phase.protect.md) 
+
+### #is_/same_as :: [Phase.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Phase.private.md) 
+
+### #is_/same_as :: [Phase.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Phase.personal.md) 
+
+### #is_/same_as :: [Phase.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Phase.secret.md)
+

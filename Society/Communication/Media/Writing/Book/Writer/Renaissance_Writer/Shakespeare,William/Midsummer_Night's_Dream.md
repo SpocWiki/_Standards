@@ -116,3 +116,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Midsommer%20nights%20d
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/A%20Midsummer%20Night's%20Dream) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Midsummer_Night's_Dream](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.md) 
+
+### #is_/same_as :: [Midsummer_Night's_Dream.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.public.md) 
+
+### #is_/same_as :: [Midsummer_Night's_Dream.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.internal.md) 
+
+### #is_/same_as :: [Midsummer_Night's_Dream.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.protect.md) 
+
+### #is_/same_as :: [Midsummer_Night's_Dream.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.private.md) 
+
+### #is_/same_as :: [Midsummer_Night's_Dream.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.personal.md) 
+
+### #is_/same_as :: [Midsummer_Night's_Dream.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.secret.md)
+

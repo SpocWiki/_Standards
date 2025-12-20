@@ -92,3 +92,22 @@ Commons_category: Waste management
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Waste%20management) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Waste_Management](/_Standards/bio/Ecology/Waste_Management.md) 
+
+### #is_/same_as :: [Waste_Management.public](/_public/bio/Ecology/Waste_Management.public.md) 
+
+### #is_/same_as :: [Waste_Management.internal](/_internal/bio/Ecology/Waste_Management.internal.md) 
+
+### #is_/same_as :: [Waste_Management.protect](/_protect/bio/Ecology/Waste_Management.protect.md) 
+
+### #is_/same_as :: [Waste_Management.private](/_private/bio/Ecology/Waste_Management.private.md) 
+
+### #is_/same_as :: [Waste_Management.personal](/_personal/bio/Ecology/Waste_Management.personal.md) 
+
+### #is_/same_as :: [Waste_Management.secret](/_secret/bio/Ecology/Waste_Management.secret.md)
+

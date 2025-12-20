@@ -37,3 +37,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transmission%20Control%20Protocol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [TCP(Transmission_Control_Protocol)](/_Standards/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).md) 
+
+### #is_/same_as :: [TCP(Transmission_Control_Protocol).public](/_public/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).public.md) 
+
+### #is_/same_as :: [TCP(Transmission_Control_Protocol).internal](/_internal/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).internal.md) 
+
+### #is_/same_as :: [TCP(Transmission_Control_Protocol).protect](/_protect/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).protect.md) 
+
+### #is_/same_as :: [TCP(Transmission_Control_Protocol).private](/_private/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).private.md) 
+
+### #is_/same_as :: [TCP(Transmission_Control_Protocol).personal](/_personal/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).personal.md) 
+
+### #is_/same_as :: [TCP(Transmission_Control_Protocol).secret](/_secret/Technology/IT/Computer_Network/Internet/TCP(Transmission_Control_Protocol).secret.md)
+

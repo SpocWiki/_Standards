@@ -21,3 +21,22 @@ has_id_wikidata: Q179277
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Giovanni%20Pierluigi%20da%20Palestrina) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Palestrina,Giovanni_Pierluigi_da](/_Standards/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Palestrina,Giovanni_Pierluigi_da.md) 
+
+### #is_/same_as :: [Palestrina,Giovanni_Pierluigi_da.public](/_public/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Palestrina,Giovanni_Pierluigi_da.public.md) 
+
+### #is_/same_as :: [Palestrina,Giovanni_Pierluigi_da.internal](/_internal/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Palestrina,Giovanni_Pierluigi_da.internal.md) 
+
+### #is_/same_as :: [Palestrina,Giovanni_Pierluigi_da.protect](/_protect/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Palestrina,Giovanni_Pierluigi_da.protect.md) 
+
+### #is_/same_as :: [Palestrina,Giovanni_Pierluigi_da.private](/_private/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Palestrina,Giovanni_Pierluigi_da.private.md) 
+
+### #is_/same_as :: [Palestrina,Giovanni_Pierluigi_da.personal](/_personal/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Palestrina,Giovanni_Pierluigi_da.personal.md) 
+
+### #is_/same_as :: [Palestrina,Giovanni_Pierluigi_da.secret](/_secret/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Palestrina,Giovanni_Pierluigi_da.secret.md)
+

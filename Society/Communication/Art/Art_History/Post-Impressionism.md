@@ -37,3 +37,22 @@ end_time: 1905-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Post-Impressionism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Post-Impressionism](/_Standards/Society/Communication/Art/Art_History/Post-Impressionism.md) 
+
+### #is_/same_as :: [Post-Impressionism.public](/_public/Society/Communication/Art/Art_History/Post-Impressionism.public.md) 
+
+### #is_/same_as :: [Post-Impressionism.internal](/_internal/Society/Communication/Art/Art_History/Post-Impressionism.internal.md) 
+
+### #is_/same_as :: [Post-Impressionism.protect](/_protect/Society/Communication/Art/Art_History/Post-Impressionism.protect.md) 
+
+### #is_/same_as :: [Post-Impressionism.private](/_private/Society/Communication/Art/Art_History/Post-Impressionism.private.md) 
+
+### #is_/same_as :: [Post-Impressionism.personal](/_personal/Society/Communication/Art/Art_History/Post-Impressionism.personal.md) 
+
+### #is_/same_as :: [Post-Impressionism.secret](/_secret/Society/Communication/Art/Art_History/Post-Impressionism.secret.md)
+

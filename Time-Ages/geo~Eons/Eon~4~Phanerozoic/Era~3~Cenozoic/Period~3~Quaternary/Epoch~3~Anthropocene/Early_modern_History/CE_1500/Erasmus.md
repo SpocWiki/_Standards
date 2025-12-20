@@ -185,3 +185,21 @@ Libris_URI: 20dg9h6l0n7mr32
 > Erasmus lived against the backdrop of the growing European religious reformations. He developed a biblical humanistic theology in which he advocated the religious and civil necessity both of peaceable concord and of pastoral tolerance on matters of indifference. He remained a member of the Catholic Church all his life, remaining committed to reforming the church from within. He promoted what he understood as the traditional doctrine of synergism, which some prominent reformers such as Martin Luther and John Calvin rejected in favour of the doctrine of monergism. His influential middle-road approach disappointed, and even angered, partisans in both camps.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Erasmus) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Erasmus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.md) 
+
+### #is_/same_as :: [Erasmus.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.public.md) 
+
+### #is_/same_as :: [Erasmus.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.internal.md) 
+
+### #is_/same_as :: [Erasmus.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.protect.md) 
+
+### #is_/same_as :: [Erasmus.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.private.md) 
+
+### #is_/same_as :: [Erasmus.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.personal.md) 
+
+### #is_/same_as :: [Erasmus.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/Erasmus.secret.md)
+

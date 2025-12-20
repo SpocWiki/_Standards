@@ -340,3 +340,22 @@ defining_formula: |-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Complex%20number) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Complex_Number](/_Standards/Mathematics/Complex_Analysis/Complex_Number.md) 
+
+### #is_/same_as :: [Complex_Number.public](/_public/Mathematics/Complex_Analysis/Complex_Number.public.md) 
+
+### #is_/same_as :: [Complex_Number.internal](/_internal/Mathematics/Complex_Analysis/Complex_Number.internal.md) 
+
+### #is_/same_as :: [Complex_Number.protect](/_protect/Mathematics/Complex_Analysis/Complex_Number.protect.md) 
+
+### #is_/same_as :: [Complex_Number.private](/_private/Mathematics/Complex_Analysis/Complex_Number.private.md) 
+
+### #is_/same_as :: [Complex_Number.personal](/_personal/Mathematics/Complex_Analysis/Complex_Number.personal.md) 
+
+### #is_/same_as :: [Complex_Number.secret](/_secret/Mathematics/Complex_Analysis/Complex_Number.secret.md)
+

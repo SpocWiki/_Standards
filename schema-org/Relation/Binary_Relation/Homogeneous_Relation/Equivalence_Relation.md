@@ -25,3 +25,22 @@ has_id_wikidata: Q130998
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equivalence%20relation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Equivalence_Relation](/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.md) 
+
+### #is_/same_as :: [Equivalence_Relation.public](/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.public.md) 
+
+### #is_/same_as :: [Equivalence_Relation.internal](/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.internal.md) 
+
+### #is_/same_as :: [Equivalence_Relation.protect](/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.protect.md) 
+
+### #is_/same_as :: [Equivalence_Relation.private](/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.private.md) 
+
+### #is_/same_as :: [Equivalence_Relation.personal](/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.personal.md) 
+
+### #is_/same_as :: [Equivalence_Relation.secret](/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.secret.md)
+

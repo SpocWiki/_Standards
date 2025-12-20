@@ -85,3 +85,22 @@ U_S_National_Archives_Identifier: "17366220"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Claudette%20Colbert) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Colbert,Claudette](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.md) 
+
+### #is_/same_as :: [Colbert,Claudette.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.public.md) 
+
+### #is_/same_as :: [Colbert,Claudette.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.internal.md) 
+
+### #is_/same_as :: [Colbert,Claudette.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.protect.md) 
+
+### #is_/same_as :: [Colbert,Claudette.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.private.md) 
+
+### #is_/same_as :: [Colbert,Claudette.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.personal.md) 
+
+### #is_/same_as :: [Colbert,Claudette.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.secret.md)
+

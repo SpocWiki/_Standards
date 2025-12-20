@@ -79,3 +79,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rick%20Wakeman) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rick Wakeman](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.md) 
+
+### #is_/same_as :: [Rick Wakeman.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.public.md) 
+
+### #is_/same_as :: [Rick Wakeman.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.internal.md) 
+
+### #is_/same_as :: [Rick Wakeman.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.protect.md) 
+
+### #is_/same_as :: [Rick Wakeman.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.private.md) 
+
+### #is_/same_as :: [Rick Wakeman.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.personal.md) 
+
+### #is_/same_as :: [Rick Wakeman.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Yes(Band)/Rick Wakeman.secret.md)
+

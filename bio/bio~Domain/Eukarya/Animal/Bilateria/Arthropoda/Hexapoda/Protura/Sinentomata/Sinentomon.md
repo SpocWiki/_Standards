@@ -28,7 +28,7 @@ title: Sinentomon
 -   *Sinentomon erythranum*
 -   *Sinentomon yoroi*
 
-Containing group:[Sinentomata](../Sinentomata.md))
+Containing group:[Sinentomata](../Sinentomata.md))
 
 
 ## Confidential Links & Embeds: 

@@ -78,3 +78,22 @@ OpenStreetMap_tag: shop=pottery
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pottery) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pottery](/_Standards/Technology/Engineering/Craft/Pottery.md) 
+
+### #is_/same_as :: [Pottery.public](/_public/Technology/Engineering/Craft/Pottery.public.md) 
+
+### #is_/same_as :: [Pottery.internal](/_internal/Technology/Engineering/Craft/Pottery.internal.md) 
+
+### #is_/same_as :: [Pottery.protect](/_protect/Technology/Engineering/Craft/Pottery.protect.md) 
+
+### #is_/same_as :: [Pottery.private](/_private/Technology/Engineering/Craft/Pottery.private.md) 
+
+### #is_/same_as :: [Pottery.personal](/_personal/Technology/Engineering/Craft/Pottery.personal.md) 
+
+### #is_/same_as :: [Pottery.secret](/_secret/Technology/Engineering/Craft/Pottery.secret.md)
+

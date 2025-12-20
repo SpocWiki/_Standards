@@ -40,3 +40,22 @@ Commons_category: Klezmer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Klezmer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Klezmer](/_Standards/Society/Communication/Media/Music/Music_Genre/Klezmer.md) 
+
+### #is_/same_as :: [Klezmer.public](/_public/Society/Communication/Media/Music/Music_Genre/Klezmer.public.md) 
+
+### #is_/same_as :: [Klezmer.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Klezmer.internal.md) 
+
+### #is_/same_as :: [Klezmer.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Klezmer.protect.md) 
+
+### #is_/same_as :: [Klezmer.private](/_private/Society/Communication/Media/Music/Music_Genre/Klezmer.private.md) 
+
+### #is_/same_as :: [Klezmer.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Klezmer.personal.md) 
+
+### #is_/same_as :: [Klezmer.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Klezmer.secret.md)
+

@@ -62,6 +62,7 @@ short_name: Cep
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cepheus%20(constellation))
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Cepheus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cepheus.md) 

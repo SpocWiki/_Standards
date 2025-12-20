@@ -146,3 +146,22 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/FRANTSISK_ASSIZSKI_SV.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20of%20Assisi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Francis_of_Assisi](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Francis_of_Assisi.md) 
+
+### #is_/same_as :: [Francis_of_Assisi.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Francis_of_Assisi.public.md) 
+
+### #is_/same_as :: [Francis_of_Assisi.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Francis_of_Assisi.internal.md) 
+
+### #is_/same_as :: [Francis_of_Assisi.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Francis_of_Assisi.protect.md) 
+
+### #is_/same_as :: [Francis_of_Assisi.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Francis_of_Assisi.private.md) 
+
+### #is_/same_as :: [Francis_of_Assisi.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Francis_of_Assisi.personal.md) 
+
+### #is_/same_as :: [Francis_of_Assisi.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Francis_of_Assisi.secret.md)
+

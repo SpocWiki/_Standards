@@ -397,3 +397,22 @@ date_of_death: 1926-12-05T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Claude%20Monet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monet,Claude](/_Standards/Society/Communication/Media/Painting/Painter/Monet,Claude.md) 
+
+### #is_/same_as :: [Monet,Claude.public](/_public/Society/Communication/Media/Painting/Painter/Monet,Claude.public.md) 
+
+### #is_/same_as :: [Monet,Claude.internal](/_internal/Society/Communication/Media/Painting/Painter/Monet,Claude.internal.md) 
+
+### #is_/same_as :: [Monet,Claude.protect](/_protect/Society/Communication/Media/Painting/Painter/Monet,Claude.protect.md) 
+
+### #is_/same_as :: [Monet,Claude.private](/_private/Society/Communication/Media/Painting/Painter/Monet,Claude.private.md) 
+
+### #is_/same_as :: [Monet,Claude.personal](/_personal/Society/Communication/Media/Painting/Painter/Monet,Claude.personal.md) 
+
+### #is_/same_as :: [Monet,Claude.secret](/_secret/Society/Communication/Media/Painting/Painter/Monet,Claude.secret.md)
+

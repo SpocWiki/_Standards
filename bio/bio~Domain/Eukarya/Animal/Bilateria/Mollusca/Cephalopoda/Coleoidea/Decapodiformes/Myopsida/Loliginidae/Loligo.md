@@ -208,7 +208,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   Specimen Condition   Live Specimen
   View                 side
   Copyright ::            © [Roger Hanlon](mailto:rhanlon@mbl.edu)
-  -----------------
+  -----------------
 
 
 ## Confidential Links & Embeds: 

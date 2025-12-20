@@ -91,3 +91,22 @@ Munzinger_Sport_number: "01000050035"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jesse%20Owens) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jesse_Owens](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Jesse_Owens.md) 
+
+### #is_/same_as :: [Jesse_Owens.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Jesse_Owens.public.md) 
+
+### #is_/same_as :: [Jesse_Owens.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Jesse_Owens.internal.md) 
+
+### #is_/same_as :: [Jesse_Owens.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Jesse_Owens.protect.md) 
+
+### #is_/same_as :: [Jesse_Owens.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Jesse_Owens.private.md) 
+
+### #is_/same_as :: [Jesse_Owens.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Jesse_Owens.personal.md) 
+
+### #is_/same_as :: [Jesse_Owens.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Jesse_Owens.secret.md)
+

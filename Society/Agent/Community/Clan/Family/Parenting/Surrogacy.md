@@ -25,3 +25,22 @@ has_id_wikidata: Q334645
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surrogacy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Surrogacy](/_Standards/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.md) 
+
+### #is_/same_as :: [Surrogacy.public](/_public/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.public.md) 
+
+### #is_/same_as :: [Surrogacy.internal](/_internal/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.internal.md) 
+
+### #is_/same_as :: [Surrogacy.protect](/_protect/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.protect.md) 
+
+### #is_/same_as :: [Surrogacy.private](/_private/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.private.md) 
+
+### #is_/same_as :: [Surrogacy.personal](/_personal/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.personal.md) 
+
+### #is_/same_as :: [Surrogacy.secret](/_secret/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.secret.md)
+

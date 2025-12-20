@@ -118,3 +118,22 @@ Commons_Creator_page: Jean-Baptiste de Lamarck
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Baptiste%20Lamarck) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lamarck,Jean-Baptiste_de](/_Standards/bio/Biologist/Lamarck,Jean-Baptiste_de.md) 
+
+### #is_/same_as :: [Lamarck,Jean-Baptiste_de.public](/_public/bio/Biologist/Lamarck,Jean-Baptiste_de.public.md) 
+
+### #is_/same_as :: [Lamarck,Jean-Baptiste_de.internal](/_internal/bio/Biologist/Lamarck,Jean-Baptiste_de.internal.md) 
+
+### #is_/same_as :: [Lamarck,Jean-Baptiste_de.protect](/_protect/bio/Biologist/Lamarck,Jean-Baptiste_de.protect.md) 
+
+### #is_/same_as :: [Lamarck,Jean-Baptiste_de.private](/_private/bio/Biologist/Lamarck,Jean-Baptiste_de.private.md) 
+
+### #is_/same_as :: [Lamarck,Jean-Baptiste_de.personal](/_personal/bio/Biologist/Lamarck,Jean-Baptiste_de.personal.md) 
+
+### #is_/same_as :: [Lamarck,Jean-Baptiste_de.secret](/_secret/bio/Biologist/Lamarck,Jean-Baptiste_de.secret.md)
+

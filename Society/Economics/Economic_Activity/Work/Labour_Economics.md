@@ -43,3 +43,22 @@ Commons_category: Work
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Labour%20economics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Labour_Economics](/_Standards/Society/Economics/Economic_Activity/Work/Labour_Economics.md) 
+
+### #is_/same_as :: [Labour_Economics.public](/_public/Society/Economics/Economic_Activity/Work/Labour_Economics.public.md) 
+
+### #is_/same_as :: [Labour_Economics.internal](/_internal/Society/Economics/Economic_Activity/Work/Labour_Economics.internal.md) 
+
+### #is_/same_as :: [Labour_Economics.protect](/_protect/Society/Economics/Economic_Activity/Work/Labour_Economics.protect.md) 
+
+### #is_/same_as :: [Labour_Economics.private](/_private/Society/Economics/Economic_Activity/Work/Labour_Economics.private.md) 
+
+### #is_/same_as :: [Labour_Economics.personal](/_personal/Society/Economics/Economic_Activity/Work/Labour_Economics.personal.md) 
+
+### #is_/same_as :: [Labour_Economics.secret](/_secret/Society/Economics/Economic_Activity/Work/Labour_Economics.secret.md)
+

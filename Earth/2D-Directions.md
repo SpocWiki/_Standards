@@ -59,8 +59,6 @@ Commons_category: Cardinal direction
 > [Wikipedia](https://en.wikipedia.org/wiki/Cardinal%20direction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [2D-Directions](/_Standards/Earth/2D-Directions.md) 

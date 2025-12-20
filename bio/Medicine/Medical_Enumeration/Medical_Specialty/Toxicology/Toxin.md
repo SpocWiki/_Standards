@@ -45,3 +45,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Toxin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Toxin](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.md) 
+
+### #is_/same_as :: [Toxin.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.public.md) 
+
+### #is_/same_as :: [Toxin.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.internal.md) 
+
+### #is_/same_as :: [Toxin.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.protect.md) 
+
+### #is_/same_as :: [Toxin.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.private.md) 
+
+### #is_/same_as :: [Toxin.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.personal.md) 
+
+### #is_/same_as :: [Toxin.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.secret.md)
+

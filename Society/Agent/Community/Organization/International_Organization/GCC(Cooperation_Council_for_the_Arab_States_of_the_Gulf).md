@@ -80,3 +80,22 @@ name: Gulfstaternas samarbetsråd
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gulf%20Cooperation%20Council) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf)](/_Standards/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).md) 
+
+### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).public](/_public/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).public.md) 
+
+### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).internal](/_internal/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).internal.md) 
+
+### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).protect](/_protect/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).protect.md) 
+
+### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).private](/_private/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).private.md) 
+
+### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).personal](/_personal/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).personal.md) 
+
+### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).secret](/_secret/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).secret.md)
+

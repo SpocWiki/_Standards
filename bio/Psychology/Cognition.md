@@ -60,3 +60,22 @@ Colon_Classification: S:4
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cognition) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cognition](/_Standards/bio/Psychology/Cognition.md) 
+
+### #is_/same_as :: [Cognition.public](/_public/bio/Psychology/Cognition.public.md) 
+
+### #is_/same_as :: [Cognition.internal](/_internal/bio/Psychology/Cognition.internal.md) 
+
+### #is_/same_as :: [Cognition.protect](/_protect/bio/Psychology/Cognition.protect.md) 
+
+### #is_/same_as :: [Cognition.private](/_private/bio/Psychology/Cognition.private.md) 
+
+### #is_/same_as :: [Cognition.personal](/_personal/bio/Psychology/Cognition.personal.md) 
+
+### #is_/same_as :: [Cognition.secret](/_secret/bio/Psychology/Cognition.secret.md)
+

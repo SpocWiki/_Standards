@@ -23,3 +23,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1395
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Japanese%20calendar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Japanese_Calendar](/_Standards/ISO/Calendar/Japanese_Calendar.md) 
+
+### #is_/same_as :: [Japanese_Calendar.public](/_public/ISO/Calendar/Japanese_Calendar.public.md) 
+
+### #is_/same_as :: [Japanese_Calendar.internal](/_internal/ISO/Calendar/Japanese_Calendar.internal.md) 
+
+### #is_/same_as :: [Japanese_Calendar.protect](/_protect/ISO/Calendar/Japanese_Calendar.protect.md) 
+
+### #is_/same_as :: [Japanese_Calendar.private](/_private/ISO/Calendar/Japanese_Calendar.private.md) 
+
+### #is_/same_as :: [Japanese_Calendar.personal](/_personal/ISO/Calendar/Japanese_Calendar.personal.md) 
+
+### #is_/same_as :: [Japanese_Calendar.secret](/_secret/ISO/Calendar/Japanese_Calendar.secret.md)
+

@@ -27,3 +27,22 @@ Commons_category: Microtechnology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Microtechnology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Microtechnology](/_Standards/Technology/Engineering/Microtechnology.md) 
+
+### #is_/same_as :: [Microtechnology.public](/_public/Technology/Engineering/Microtechnology.public.md) 
+
+### #is_/same_as :: [Microtechnology.internal](/_internal/Technology/Engineering/Microtechnology.internal.md) 
+
+### #is_/same_as :: [Microtechnology.protect](/_protect/Technology/Engineering/Microtechnology.protect.md) 
+
+### #is_/same_as :: [Microtechnology.private](/_private/Technology/Engineering/Microtechnology.private.md) 
+
+### #is_/same_as :: [Microtechnology.personal](/_personal/Technology/Engineering/Microtechnology.personal.md) 
+
+### #is_/same_as :: [Microtechnology.secret](/_secret/Technology/Engineering/Microtechnology.secret.md)
+

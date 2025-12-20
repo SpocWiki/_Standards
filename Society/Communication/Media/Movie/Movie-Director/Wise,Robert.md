@@ -97,3 +97,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20wise%201990.j
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Wise) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wise,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.md) 
+
+### #is_/same_as :: [Wise,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.public.md) 
+
+### #is_/same_as :: [Wise,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.internal.md) 
+
+### #is_/same_as :: [Wise,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.protect.md) 
+
+### #is_/same_as :: [Wise,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.private.md) 
+
+### #is_/same_as :: [Wise,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.personal.md) 
+
+### #is_/same_as :: [Wise,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Wise,Robert.secret.md)
+

@@ -44,3 +44,22 @@ late nineteenth-century art movement of French, Russian and Belgian origin.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Symbol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Symbolism](/_Standards/Society/Communication/Art/Art_History/Symbolism.md) 
+
+### #is_/same_as :: [Symbolism.public](/_public/Society/Communication/Art/Art_History/Symbolism.public.md) 
+
+### #is_/same_as :: [Symbolism.internal](/_internal/Society/Communication/Art/Art_History/Symbolism.internal.md) 
+
+### #is_/same_as :: [Symbolism.protect](/_protect/Society/Communication/Art/Art_History/Symbolism.protect.md) 
+
+### #is_/same_as :: [Symbolism.private](/_private/Society/Communication/Art/Art_History/Symbolism.private.md) 
+
+### #is_/same_as :: [Symbolism.personal](/_personal/Society/Communication/Art/Art_History/Symbolism.personal.md) 
+
+### #is_/same_as :: [Symbolism.secret](/_secret/Society/Communication/Art/Art_History/Symbolism.secret.md)
+

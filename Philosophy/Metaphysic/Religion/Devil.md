@@ -70,3 +70,22 @@ IMDb_keyword: reference-to-the-devil
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Devil) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Devil](/_Standards/Philosophy/Metaphysic/Religion/Devil.md) 
+
+### #is_/same_as :: [Devil.public](/_public/Philosophy/Metaphysic/Religion/Devil.public.md) 
+
+### #is_/same_as :: [Devil.internal](/_internal/Philosophy/Metaphysic/Religion/Devil.internal.md) 
+
+### #is_/same_as :: [Devil.protect](/_protect/Philosophy/Metaphysic/Religion/Devil.protect.md) 
+
+### #is_/same_as :: [Devil.private](/_private/Philosophy/Metaphysic/Religion/Devil.private.md) 
+
+### #is_/same_as :: [Devil.personal](/_personal/Philosophy/Metaphysic/Religion/Devil.personal.md) 
+
+### #is_/same_as :: [Devil.secret](/_secret/Philosophy/Metaphysic/Religion/Devil.secret.md)
+

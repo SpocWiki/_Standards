@@ -231,3 +231,22 @@ ISNI: "0000000120994768"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sandro%20Botticelli) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sandro_Botticelli](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.md) 
+
+### #is_/same_as :: [Sandro_Botticelli.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.public.md) 
+
+### #is_/same_as :: [Sandro_Botticelli.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.internal.md) 
+
+### #is_/same_as :: [Sandro_Botticelli.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.protect.md) 
+
+### #is_/same_as :: [Sandro_Botticelli.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.private.md) 
+
+### #is_/same_as :: [Sandro_Botticelli.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.personal.md) 
+
+### #is_/same_as :: [Sandro_Botticelli.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Sandro_Botticelli.secret.md)
+

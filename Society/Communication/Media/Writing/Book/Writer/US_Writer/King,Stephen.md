@@ -220,3 +220,22 @@ birth_name: Stephen Edwin King
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stephen%20King) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [King,Stephen](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.md) 
+
+### #is_/same_as :: [King,Stephen.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.public.md) 
+
+### #is_/same_as :: [King,Stephen.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.internal.md) 
+
+### #is_/same_as :: [King,Stephen.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.protect.md) 
+
+### #is_/same_as :: [King,Stephen.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.private.md) 
+
+### #is_/same_as :: [King,Stephen.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.personal.md) 
+
+### #is_/same_as :: [King,Stephen.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/King,Stephen.secret.md)
+

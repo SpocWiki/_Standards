@@ -33,3 +33,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Terra%20(mythology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Terra(mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Terra(mythology).md) 
+
+### #is_/same_as :: [Terra(mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Terra(mythology).public.md) 
+
+### #is_/same_as :: [Terra(mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Terra(mythology).internal.md) 
+
+### #is_/same_as :: [Terra(mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Terra(mythology).protect.md) 
+
+### #is_/same_as :: [Terra(mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Terra(mythology).private.md) 
+
+### #is_/same_as :: [Terra(mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Terra(mythology).personal.md) 
+
+### #is_/same_as :: [Terra(mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Terra(mythology).secret.md)
+

@@ -42,3 +42,22 @@ Commons_category: Military alliances
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20alliance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Alliance](/_Standards/Society/Agent/Community/Organization/International_Organization/Military_Alliance.md) 
+
+### #is_/same_as :: [Military_Alliance.public](/_public/Society/Agent/Community/Organization/International_Organization/Military_Alliance.public.md) 
+
+### #is_/same_as :: [Military_Alliance.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Military_Alliance.internal.md) 
+
+### #is_/same_as :: [Military_Alliance.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Military_Alliance.protect.md) 
+
+### #is_/same_as :: [Military_Alliance.private](/_private/Society/Agent/Community/Organization/International_Organization/Military_Alliance.private.md) 
+
+### #is_/same_as :: [Military_Alliance.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Military_Alliance.personal.md) 
+
+### #is_/same_as :: [Military_Alliance.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Military_Alliance.secret.md)
+

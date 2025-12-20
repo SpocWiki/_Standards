@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alecia Beth Moore"
 - "Pink Singer"
@@ -39,4 +39,23 @@ P!nk
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [P!nk](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/P!nk.md) 
+
+### #is_/same_as :: [P!nk.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/P!nk.public.md) 
+
+### #is_/same_as :: [P!nk.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/P!nk.internal.md) 
+
+### #is_/same_as :: [P!nk.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/P!nk.protect.md) 
+
+### #is_/same_as :: [P!nk.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/P!nk.private.md) 
+
+### #is_/same_as :: [P!nk.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/P!nk.personal.md) 
+
+### #is_/same_as :: [P!nk.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/P!nk.secret.md)
 

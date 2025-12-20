@@ -33,3 +33,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Charon(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Charon(Mythology).md) 
+
+### #is_/same_as :: [Charon(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Charon(Mythology).public.md) 
+
+### #is_/same_as :: [Charon(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Charon(Mythology).internal.md) 
+
+### #is_/same_as :: [Charon(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Charon(Mythology).protect.md) 
+
+### #is_/same_as :: [Charon(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Charon(Mythology).private.md) 
+
+### #is_/same_as :: [Charon(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Charon(Mythology).personal.md) 
+
+### #is_/same_as :: [Charon(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Charon(Mythology).secret.md)
+

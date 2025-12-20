@@ -31,3 +31,22 @@ Commons_category: Intimate relationships
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Intimate%20relationship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Intimate_Relationship](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Intimate_Relationship.md) 
+
+### #is_/same_as :: [Intimate_Relationship.public](/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Intimate_Relationship.public.md) 
+
+### #is_/same_as :: [Intimate_Relationship.internal](/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Intimate_Relationship.internal.md) 
+
+### #is_/same_as :: [Intimate_Relationship.protect](/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Intimate_Relationship.protect.md) 
+
+### #is_/same_as :: [Intimate_Relationship.private](/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Intimate_Relationship.private.md) 
+
+### #is_/same_as :: [Intimate_Relationship.personal](/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Intimate_Relationship.personal.md) 
+
+### #is_/same_as :: [Intimate_Relationship.secret](/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Intimate_Relationship.secret.md)
+

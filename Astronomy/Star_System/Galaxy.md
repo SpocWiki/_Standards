@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galaxy](/_Standards/Astronomy/Galaxy.md) 
+### #is_/same_as :: [Galaxy](/_Standards/Astronomy/Star_System/Galaxy.md) 
 
-### #is_/same_as :: [Galaxy.public](/_public/Astronomy/Galaxy.public.md) 
+### #is_/same_as :: [Galaxy.public](/_public/Astronomy/Star_System/Galaxy.public.md) 
 
-### #is_/same_as :: [Galaxy.internal](/_internal/Astronomy/Galaxy.internal.md) 
+### #is_/same_as :: [Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy.internal.md) 
 
-### #is_/same_as :: [Galaxy.protect](/_protect/Astronomy/Galaxy.protect.md) 
+### #is_/same_as :: [Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy.protect.md) 
 
-### #is_/same_as :: [Galaxy.private](/_private/Astronomy/Galaxy.private.md) 
+### #is_/same_as :: [Galaxy.private](/_private/Astronomy/Star_System/Galaxy.private.md) 
 
-### #is_/same_as :: [Galaxy.personal](/_personal/Astronomy/Galaxy.personal.md) 
+### #is_/same_as :: [Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy.personal.md) 
 
-### #is_/same_as :: [Galaxy.secret](/_secret/Astronomy/Galaxy.secret.md)
+### #is_/same_as :: [Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy.secret.md)
 

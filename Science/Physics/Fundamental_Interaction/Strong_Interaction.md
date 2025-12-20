@@ -57,17 +57,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strong_Interaction](/_Standards/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.md) 
+### #is_/same_as :: [Strong_Interaction](/_Standards/Science/Physics/Fundamental_Interaction/Strong_Interaction.md) 
 
-### #is_/same_as :: [Strong_Interaction.public](/_public/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.public.md) 
+### #is_/same_as :: [Strong_Interaction.public](/_public/Science/Physics/Fundamental_Interaction/Strong_Interaction.public.md) 
 
-### #is_/same_as :: [Strong_Interaction.internal](/_internal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.internal.md) 
+### #is_/same_as :: [Strong_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction/Strong_Interaction.internal.md) 
 
-### #is_/same_as :: [Strong_Interaction.protect](/_protect/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.protect.md) 
+### #is_/same_as :: [Strong_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction/Strong_Interaction.protect.md) 
 
-### #is_/same_as :: [Strong_Interaction.private](/_private/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.private.md) 
+### #is_/same_as :: [Strong_Interaction.private](/_private/Science/Physics/Fundamental_Interaction/Strong_Interaction.private.md) 
 
-### #is_/same_as :: [Strong_Interaction.personal](/_personal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.personal.md) 
+### #is_/same_as :: [Strong_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction/Strong_Interaction.personal.md) 
 
-### #is_/same_as :: [Strong_Interaction.secret](/_secret/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Strong_Interaction.secret.md)
+### #is_/same_as :: [Strong_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction/Strong_Interaction.secret.md)
 

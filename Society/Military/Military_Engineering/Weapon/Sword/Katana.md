@@ -38,3 +38,22 @@ native_label: 打刀
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Katana) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Katana](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Katana.md) 
+
+### #is_/same_as :: [Katana.public](/_public/Society/Military/Military_Engineering/Weapon/Sword/Katana.public.md) 
+
+### #is_/same_as :: [Katana.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword/Katana.internal.md) 
+
+### #is_/same_as :: [Katana.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword/Katana.protect.md) 
+
+### #is_/same_as :: [Katana.private](/_private/Society/Military/Military_Engineering/Weapon/Sword/Katana.private.md) 
+
+### #is_/same_as :: [Katana.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword/Katana.personal.md) 
+
+### #is_/same_as :: [Katana.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword/Katana.secret.md)
+

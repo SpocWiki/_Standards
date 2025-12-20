@@ -32,17 +32,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20ice%20on%20foo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Ice](/_Standards/Earth/Atmosphere,Earth/Climate/Weather/Black_Ice.md) 
+### #is_/same_as :: [Black_Ice](/_Standards/Earth/Climate/Weather/Black_Ice.md) 
 
-### #is_/same_as :: [Black_Ice.public](/_public/Earth/Atmosphere,Earth/Climate/Weather/Black_Ice.public.md) 
+### #is_/same_as :: [Black_Ice.public](/_public/Earth/Climate/Weather/Black_Ice.public.md) 
 
-### #is_/same_as :: [Black_Ice.internal](/_internal/Earth/Atmosphere,Earth/Climate/Weather/Black_Ice.internal.md) 
+### #is_/same_as :: [Black_Ice.internal](/_internal/Earth/Climate/Weather/Black_Ice.internal.md) 
 
-### #is_/same_as :: [Black_Ice.protect](/_protect/Earth/Atmosphere,Earth/Climate/Weather/Black_Ice.protect.md) 
+### #is_/same_as :: [Black_Ice.protect](/_protect/Earth/Climate/Weather/Black_Ice.protect.md) 
 
-### #is_/same_as :: [Black_Ice.private](/_private/Earth/Atmosphere,Earth/Climate/Weather/Black_Ice.private.md) 
+### #is_/same_as :: [Black_Ice.private](/_private/Earth/Climate/Weather/Black_Ice.private.md) 
 
-### #is_/same_as :: [Black_Ice.personal](/_personal/Earth/Atmosphere,Earth/Climate/Weather/Black_Ice.personal.md) 
+### #is_/same_as :: [Black_Ice.personal](/_personal/Earth/Climate/Weather/Black_Ice.personal.md) 
 
-### #is_/same_as :: [Black_Ice.secret](/_secret/Earth/Atmosphere,Earth/Climate/Weather/Black_Ice.secret.md)
+### #is_/same_as :: [Black_Ice.secret](/_secret/Earth/Climate/Weather/Black_Ice.secret.md)
 

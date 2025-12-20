@@ -69,3 +69,22 @@ time_of_discovery_or_invention: 1927-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hubble's%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hubble–Lemaître_Law](/_Standards/Astronomy/Astrometry/Hubble–Lemaître_Law.md) 
+
+### #is_/same_as :: [Hubble–Lemaître_Law.public](/_public/Astronomy/Astrometry/Hubble–Lemaître_Law.public.md) 
+
+### #is_/same_as :: [Hubble–Lemaître_Law.internal](/_internal/Astronomy/Astrometry/Hubble–Lemaître_Law.internal.md) 
+
+### #is_/same_as :: [Hubble–Lemaître_Law.protect](/_protect/Astronomy/Astrometry/Hubble–Lemaître_Law.protect.md) 
+
+### #is_/same_as :: [Hubble–Lemaître_Law.private](/_private/Astronomy/Astrometry/Hubble–Lemaître_Law.private.md) 
+
+### #is_/same_as :: [Hubble–Lemaître_Law.personal](/_personal/Astronomy/Astrometry/Hubble–Lemaître_Law.personal.md) 
+
+### #is_/same_as :: [Hubble–Lemaître_Law.secret](/_secret/Astronomy/Astrometry/Hubble–Lemaître_Law.secret.md)
+

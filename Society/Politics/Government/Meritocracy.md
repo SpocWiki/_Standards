@@ -33,3 +33,22 @@ Commons_category: Meritocracy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meritocracy)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meritocracy](/_Standards/Society/Politics/Government/Meritocracy.md) 
+
+### #is_/same_as :: [Meritocracy.public](/_public/Society/Politics/Government/Meritocracy.public.md) 
+
+### #is_/same_as :: [Meritocracy.internal](/_internal/Society/Politics/Government/Meritocracy.internal.md) 
+
+### #is_/same_as :: [Meritocracy.protect](/_protect/Society/Politics/Government/Meritocracy.protect.md) 
+
+### #is_/same_as :: [Meritocracy.private](/_private/Society/Politics/Government/Meritocracy.private.md) 
+
+### #is_/same_as :: [Meritocracy.personal](/_personal/Society/Politics/Government/Meritocracy.personal.md) 
+
+### #is_/same_as :: [Meritocracy.secret](/_secret/Society/Politics/Government/Meritocracy.secret.md)
+

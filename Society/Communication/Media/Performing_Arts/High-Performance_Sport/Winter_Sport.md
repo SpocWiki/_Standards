@@ -43,3 +43,22 @@ Commons_category: Winter sports
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Winter%20sports) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Winter_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.md) 
+
+### #is_/same_as :: [Winter_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.public.md) 
+
+### #is_/same_as :: [Winter_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.internal.md) 
+
+### #is_/same_as :: [Winter_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.protect.md) 
+
+### #is_/same_as :: [Winter_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.private.md) 
+
+### #is_/same_as :: [Winter_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.personal.md) 
+
+### #is_/same_as :: [Winter_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.secret.md)
+

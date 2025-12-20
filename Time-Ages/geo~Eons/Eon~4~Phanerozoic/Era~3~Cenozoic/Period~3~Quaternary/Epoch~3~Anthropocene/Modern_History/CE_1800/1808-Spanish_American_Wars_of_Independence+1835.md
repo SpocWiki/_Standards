@@ -40,3 +40,21 @@ start_time: 1808-09-25T00:00:00Z
 > Events in Spanish America transpired in the wake of the successful Haitian Revolution and transition to independence in Brazil. Brazil's independence in particular shared a common starting point with that of Spanish America, since both conflicts were triggered by Napoleon's invasion of the Iberian Peninsula, which forced the Portuguese royal family to flee to Brazil in 1807. The process of Hispanic American independence took place in the general political and intellectual climate of popular sovereignty that emerged from the Age of Enlightenment that influenced all of the Atlantic Revolutions, including the earlier revolutions in the United States and France. A more direct cause of the Spanish American wars of independence were the unique developments occurring within the Kingdom of Spain triggered by the Cortes of Cadiz, concluding with the emergence of the new Spanish American republics in the post-Napoleonic world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20American%20wars%20of%20independence)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.md) 
+
+### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.public.md) 
+
+### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.internal.md) 
+
+### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.protect.md) 
+
+### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.private.md) 
+
+### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.personal.md) 
+
+### #is_/same_as :: [1808-Spanish_American_Wars_of_Independence+1835.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.secret.md)
+

@@ -61,3 +61,22 @@ Krugosvet_article_archived_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Missile) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Missile](/_Standards/Society/Military/Military_Engineering/Weapon/Missile.md) 
+
+### #is_/same_as :: [Missile.public](/_public/Society/Military/Military_Engineering/Weapon/Missile.public.md) 
+
+### #is_/same_as :: [Missile.internal](/_internal/Society/Military/Military_Engineering/Weapon/Missile.internal.md) 
+
+### #is_/same_as :: [Missile.protect](/_protect/Society/Military/Military_Engineering/Weapon/Missile.protect.md) 
+
+### #is_/same_as :: [Missile.private](/_private/Society/Military/Military_Engineering/Weapon/Missile.private.md) 
+
+### #is_/same_as :: [Missile.personal](/_personal/Society/Military/Military_Engineering/Weapon/Missile.personal.md) 
+
+### #is_/same_as :: [Missile.secret](/_secret/Society/Military/Military_Engineering/Weapon/Missile.secret.md)
+

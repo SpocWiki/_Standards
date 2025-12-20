@@ -63,3 +63,22 @@ ISNI: "0000000108697437"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eudoxus%20of%20Cnidus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eudoxus_of_Cnidus](/_Standards/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.md) 
+
+### #is_/same_as :: [Eudoxus_of_Cnidus.public](/_public/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.public.md) 
+
+### #is_/same_as :: [Eudoxus_of_Cnidus.internal](/_internal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.internal.md) 
+
+### #is_/same_as :: [Eudoxus_of_Cnidus.protect](/_protect/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.protect.md) 
+
+### #is_/same_as :: [Eudoxus_of_Cnidus.private](/_private/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.private.md) 
+
+### #is_/same_as :: [Eudoxus_of_Cnidus.personal](/_personal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.personal.md) 
+
+### #is_/same_as :: [Eudoxus_of_Cnidus.secret](/_secret/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.secret.md)
+

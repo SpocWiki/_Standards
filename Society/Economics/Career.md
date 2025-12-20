@@ -30,8 +30,6 @@ Stack_Exchange_tag:
 > [Wikipedia](https://en.wikipedia.org/wiki/Career) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Career](/_Standards/Society/Economics/Career.md) 

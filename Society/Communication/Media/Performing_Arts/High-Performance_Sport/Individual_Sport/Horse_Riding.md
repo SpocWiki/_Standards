@@ -62,3 +62,22 @@ IPTC_NewsCode: mediatopic/20000923
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equestrianism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Horse_Riding](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding.md) 
+
+### #is_/same_as :: [Horse_Riding.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding.public.md) 
+
+### #is_/same_as :: [Horse_Riding.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding.internal.md) 
+
+### #is_/same_as :: [Horse_Riding.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding.protect.md) 
+
+### #is_/same_as :: [Horse_Riding.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding.private.md) 
+
+### #is_/same_as :: [Horse_Riding.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding.personal.md) 
+
+### #is_/same_as :: [Horse_Riding.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Horse_Riding.secret.md)
+

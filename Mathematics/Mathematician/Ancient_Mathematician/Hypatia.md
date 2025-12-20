@@ -99,3 +99,21 @@ ISNI: "0000000450923663"
 > Hypatia's murder shocked the empire and transformed her into a "martyr for philosophy", leading future Neoplatonists such as the historian Damascius (c. 458 – c. 538) to become increasingly fervent in their opposition to Christianity. During the Middle Ages, Hypatia was co-opted as a symbol of Christian virtue and scholars believe she was part of the basis for the legend of Saint Catherine of Alexandria. During the Age of Enlightenment, she became a symbol of opposition to Catholicism. In the nineteenth century, European literature, especially Charles Kingsley's 1853 novel Hypatia, romanticized her as "the last of the Hellenes". In the twentieth century, Hypatia became seen as an icon for women's rights and a precursor to the feminist movement. Since the late twentieth century, some portrayals have associated Hypatia's death with the destruction of the Library of Alexandria, despite the historical fact that the library no longer existed during Hypatia's lifetime.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypatia)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hypatia](/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.md) 
+
+### #is_/same_as :: [Hypatia.public](/_public/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.public.md) 
+
+### #is_/same_as :: [Hypatia.internal](/_internal/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.internal.md) 
+
+### #is_/same_as :: [Hypatia.protect](/_protect/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.protect.md) 
+
+### #is_/same_as :: [Hypatia.private](/_private/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.private.md) 
+
+### #is_/same_as :: [Hypatia.personal](/_personal/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.personal.md) 
+
+### #is_/same_as :: [Hypatia.secret](/_secret/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.secret.md)
+

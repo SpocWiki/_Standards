@@ -49,3 +49,22 @@ has_/time_/started: `=this.has_time_started`
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Viking%20Age) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0793-Viking_Age+1066](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.md) 
+
+### #is_/same_as :: [0793-Viking_Age+1066.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.public.md) 
+
+### #is_/same_as :: [0793-Viking_Age+1066.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.internal.md) 
+
+### #is_/same_as :: [0793-Viking_Age+1066.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.protect.md) 
+
+### #is_/same_as :: [0793-Viking_Age+1066.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.private.md) 
+
+### #is_/same_as :: [0793-Viking_Age+1066.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.personal.md) 
+
+### #is_/same_as :: [0793-Viking_Age+1066.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.secret.md)
+

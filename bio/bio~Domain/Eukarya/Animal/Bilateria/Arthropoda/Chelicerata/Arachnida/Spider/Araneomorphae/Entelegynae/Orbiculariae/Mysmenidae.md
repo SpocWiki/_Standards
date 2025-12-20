@@ -75,7 +75,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
   Behavior             Note pendant, out of plane sticky lines, that not all radii reach the hub, and eggsacs grouped at hu
   Sex ::                Female
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forster,Marc](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forster,Marc.md) 
+### #is_/same_as :: [Forster,Marc](/_Standards/Society/Communication/Media/Movie/Movie-Director/Forster,Marc.md) 
 
-### #is_/same_as :: [Forster,Marc.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forster,Marc.public.md) 
+### #is_/same_as :: [Forster,Marc.public](/_public/Society/Communication/Media/Movie/Movie-Director/Forster,Marc.public.md) 
 
-### #is_/same_as :: [Forster,Marc.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forster,Marc.internal.md) 
+### #is_/same_as :: [Forster,Marc.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Forster,Marc.internal.md) 
 
-### #is_/same_as :: [Forster,Marc.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forster,Marc.protect.md) 
+### #is_/same_as :: [Forster,Marc.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Forster,Marc.protect.md) 
 
-### #is_/same_as :: [Forster,Marc.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forster,Marc.private.md) 
+### #is_/same_as :: [Forster,Marc.private](/_private/Society/Communication/Media/Movie/Movie-Director/Forster,Marc.private.md) 
 
-### #is_/same_as :: [Forster,Marc.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forster,Marc.personal.md) 
+### #is_/same_as :: [Forster,Marc.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Forster,Marc.personal.md) 
 
-### #is_/same_as :: [Forster,Marc.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forster,Marc.secret.md)
+### #is_/same_as :: [Forster,Marc.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Forster,Marc.secret.md)
 

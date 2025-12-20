@@ -135,17 +135,17 @@ Europeana_entity: agent/base/146848
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haydn,Joseph](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composers/Haydn,Joseph.md) 
+### #is_/same_as :: [Haydn,Joseph](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.md) 
 
-### #is_/same_as :: [Haydn,Joseph.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composers/Haydn,Joseph.public.md) 
+### #is_/same_as :: [Haydn,Joseph.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.public.md) 
 
-### #is_/same_as :: [Haydn,Joseph.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composers/Haydn,Joseph.internal.md) 
+### #is_/same_as :: [Haydn,Joseph.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.internal.md) 
 
-### #is_/same_as :: [Haydn,Joseph.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composers/Haydn,Joseph.protect.md) 
+### #is_/same_as :: [Haydn,Joseph.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.protect.md) 
 
-### #is_/same_as :: [Haydn,Joseph.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composers/Haydn,Joseph.private.md) 
+### #is_/same_as :: [Haydn,Joseph.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.private.md) 
 
-### #is_/same_as :: [Haydn,Joseph.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composers/Haydn,Joseph.personal.md) 
+### #is_/same_as :: [Haydn,Joseph.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.personal.md) 
 
-### #is_/same_as :: [Haydn,Joseph.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composers/Haydn,Joseph.secret.md)
+### #is_/same_as :: [Haydn,Joseph.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.secret.md)
 

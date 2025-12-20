@@ -66,3 +66,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Forgiveness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Forgiveness](/_Standards/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.md) 
+
+### #is_/same_as :: [Forgiveness.public](/_public/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.public.md) 
+
+### #is_/same_as :: [Forgiveness.internal](/_internal/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.internal.md) 
+
+### #is_/same_as :: [Forgiveness.protect](/_protect/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.protect.md) 
+
+### #is_/same_as :: [Forgiveness.private](/_private/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.private.md) 
+
+### #is_/same_as :: [Forgiveness.personal](/_personal/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.personal.md) 
+
+### #is_/same_as :: [Forgiveness.secret](/_secret/bio/Psychology/Affect/Emotion/Compassion/Forgiveness.secret.md)
+

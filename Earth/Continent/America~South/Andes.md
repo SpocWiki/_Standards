@@ -72,6 +72,7 @@ width: 500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Andes) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Andes](/_Standards/Earth/Continent/America~South/Andes.md) 

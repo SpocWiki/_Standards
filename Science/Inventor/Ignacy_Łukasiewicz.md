@@ -66,3 +66,22 @@ name_in_native_language: Ignacy Łukasiewicz
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ignacy_Łukasiewicz](/_Standards/Science/Inventor/Ignacy_Łukasiewicz.md) 
+
+### #is_/same_as :: [Ignacy_Łukasiewicz.public](/_public/Science/Inventor/Ignacy_Łukasiewicz.public.md) 
+
+### #is_/same_as :: [Ignacy_Łukasiewicz.internal](/_internal/Science/Inventor/Ignacy_Łukasiewicz.internal.md) 
+
+### #is_/same_as :: [Ignacy_Łukasiewicz.protect](/_protect/Science/Inventor/Ignacy_Łukasiewicz.protect.md) 
+
+### #is_/same_as :: [Ignacy_Łukasiewicz.private](/_private/Science/Inventor/Ignacy_Łukasiewicz.private.md) 
+
+### #is_/same_as :: [Ignacy_Łukasiewicz.personal](/_personal/Science/Inventor/Ignacy_Łukasiewicz.personal.md) 
+
+### #is_/same_as :: [Ignacy_Łukasiewicz.secret](/_secret/Science/Inventor/Ignacy_Łukasiewicz.secret.md)
+

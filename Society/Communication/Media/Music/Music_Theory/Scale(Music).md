@@ -38,3 +38,22 @@ Commons_category: Musical scales
 > [Wikipedia](https://en.wikipedia.org/wiki/Scale%20(music)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scale(Music)](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music).md) 
+
+### #is_/same_as :: [Scale(Music).public](/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music).public.md) 
+
+### #is_/same_as :: [Scale(Music).internal](/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music).internal.md) 
+
+### #is_/same_as :: [Scale(Music).protect](/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music).protect.md) 
+
+### #is_/same_as :: [Scale(Music).private](/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music).private.md) 
+
+### #is_/same_as :: [Scale(Music).personal](/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music).personal.md) 
+
+### #is_/same_as :: [Scale(Music).secret](/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music).secret.md)
+

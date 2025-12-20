@@ -65,3 +65,22 @@ ComputerLanguage_com_definition: risk+management
 > [Wikipedia](https://en.wikipedia.org/wiki/Risk%20management) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Risk-Management](/_Standards/Society/Agent/Management/Risk-Management.md) 
+
+### #is_/same_as :: [Risk-Management.public](/_public/Society/Agent/Management/Risk-Management.public.md) 
+
+### #is_/same_as :: [Risk-Management.internal](/_internal/Society/Agent/Management/Risk-Management.internal.md) 
+
+### #is_/same_as :: [Risk-Management.protect](/_protect/Society/Agent/Management/Risk-Management.protect.md) 
+
+### #is_/same_as :: [Risk-Management.private](/_private/Society/Agent/Management/Risk-Management.private.md) 
+
+### #is_/same_as :: [Risk-Management.personal](/_personal/Society/Agent/Management/Risk-Management.personal.md) 
+
+### #is_/same_as :: [Risk-Management.secret](/_secret/Society/Agent/Management/Risk-Management.secret.md)
+

@@ -31,3 +31,22 @@ has_id_wikidata: Q177826
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clergy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clergy](/_Standards/Philosophy/Metaphysic/Religion/Clergy.md) 
+
+### #is_/same_as :: [Clergy.public](/_public/Philosophy/Metaphysic/Religion/Clergy.public.md) 
+
+### #is_/same_as :: [Clergy.internal](/_internal/Philosophy/Metaphysic/Religion/Clergy.internal.md) 
+
+### #is_/same_as :: [Clergy.protect](/_protect/Philosophy/Metaphysic/Religion/Clergy.protect.md) 
+
+### #is_/same_as :: [Clergy.private](/_private/Philosophy/Metaphysic/Religion/Clergy.private.md) 
+
+### #is_/same_as :: [Clergy.personal](/_personal/Philosophy/Metaphysic/Religion/Clergy.personal.md) 
+
+### #is_/same_as :: [Clergy.secret](/_secret/Philosophy/Metaphysic/Religion/Clergy.secret.md)
+

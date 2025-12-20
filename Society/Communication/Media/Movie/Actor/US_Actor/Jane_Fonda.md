@@ -129,3 +129,22 @@ U_S_National_Archives_Identifier: "75444106"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jane%20Fonda) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jane_Fonda](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jane_Fonda.md) 
+
+### #is_/same_as :: [Jane_Fonda.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jane_Fonda.public.md) 
+
+### #is_/same_as :: [Jane_Fonda.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jane_Fonda.internal.md) 
+
+### #is_/same_as :: [Jane_Fonda.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jane_Fonda.protect.md) 
+
+### #is_/same_as :: [Jane_Fonda.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jane_Fonda.private.md) 
+
+### #is_/same_as :: [Jane_Fonda.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jane_Fonda.personal.md) 
+
+### #is_/same_as :: [Jane_Fonda.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jane_Fonda.secret.md)
+

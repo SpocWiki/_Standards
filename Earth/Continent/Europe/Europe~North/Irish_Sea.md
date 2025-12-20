@@ -26,3 +26,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Irish%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Irish_Sea](/_Standards/Earth/Continent/Europe/Europe~North/Irish_Sea.md) 
+
+### #is_/same_as :: [Irish_Sea.public](/_public/Earth/Continent/Europe/Europe~North/Irish_Sea.public.md) 
+
+### #is_/same_as :: [Irish_Sea.internal](/_internal/Earth/Continent/Europe/Europe~North/Irish_Sea.internal.md) 
+
+### #is_/same_as :: [Irish_Sea.protect](/_protect/Earth/Continent/Europe/Europe~North/Irish_Sea.protect.md) 
+
+### #is_/same_as :: [Irish_Sea.private](/_private/Earth/Continent/Europe/Europe~North/Irish_Sea.private.md) 
+
+### #is_/same_as :: [Irish_Sea.personal](/_personal/Earth/Continent/Europe/Europe~North/Irish_Sea.personal.md) 
+
+### #is_/same_as :: [Irish_Sea.secret](/_secret/Earth/Continent/Europe/Europe~North/Irish_Sea.secret.md)
+

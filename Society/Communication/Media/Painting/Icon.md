@@ -55,3 +55,22 @@ Krugosvet_article_archived_:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Icon](/_Standards/Society/Communication/Media/Painting/Icon.md) 
+
+### #is_/same_as :: [Icon.public](/_public/Society/Communication/Media/Painting/Icon.public.md) 
+
+### #is_/same_as :: [Icon.internal](/_internal/Society/Communication/Media/Painting/Icon.internal.md) 
+
+### #is_/same_as :: [Icon.protect](/_protect/Society/Communication/Media/Painting/Icon.protect.md) 
+
+### #is_/same_as :: [Icon.private](/_private/Society/Communication/Media/Painting/Icon.private.md) 
+
+### #is_/same_as :: [Icon.personal](/_personal/Society/Communication/Media/Painting/Icon.personal.md) 
+
+### #is_/same_as :: [Icon.secret](/_secret/Society/Communication/Media/Painting/Icon.secret.md)
+

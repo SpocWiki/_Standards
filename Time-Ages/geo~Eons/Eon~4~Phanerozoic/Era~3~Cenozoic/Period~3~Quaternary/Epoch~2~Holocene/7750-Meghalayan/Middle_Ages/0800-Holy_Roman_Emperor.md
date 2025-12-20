@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holy%20Roman%20Emperor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0800-Holy_Roman_Emperor](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.md) 
+
+### #is_/same_as :: [0800-Holy_Roman_Emperor.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.public.md) 
+
+### #is_/same_as :: [0800-Holy_Roman_Emperor.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.internal.md) 
+
+### #is_/same_as :: [0800-Holy_Roman_Emperor.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.protect.md) 
+
+### #is_/same_as :: [0800-Holy_Roman_Emperor.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.private.md) 
+
+### #is_/same_as :: [0800-Holy_Roman_Emperor.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.personal.md) 
+
+### #is_/same_as :: [0800-Holy_Roman_Emperor.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.secret.md)
+

@@ -31,3 +31,22 @@ Wolfram_Language_entity_type: CrystalSystem
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crystal%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crystal_System](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.md) 
+
+### #is_/same_as :: [Crystal_System.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.public.md) 
+
+### #is_/same_as :: [Crystal_System.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.internal.md) 
+
+### #is_/same_as :: [Crystal_System.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.protect.md) 
+
+### #is_/same_as :: [Crystal_System.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.private.md) 
+
+### #is_/same_as :: [Crystal_System.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.personal.md) 
+
+### #is_/same_as :: [Crystal_System.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystal_System.secret.md)
+

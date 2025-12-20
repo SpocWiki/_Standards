@@ -119,3 +119,22 @@ used to write most Operating Systems like [[../../../../../OS(Operating-System)/
 - ...with any parameters 
 - memory leaks: allocation w/o freeing 
 - 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~C](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~C.md) 
+
+### #is_/same_as :: [Prog~C.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~C.public.md) 
+
+### #is_/same_as :: [Prog~C.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~C.internal.md) 
+
+### #is_/same_as :: [Prog~C.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~C.protect.md) 
+
+### #is_/same_as :: [Prog~C.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~C.private.md) 
+
+### #is_/same_as :: [Prog~C.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~C.personal.md) 
+
+### #is_/same_as :: [Prog~C.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Prog~C.secret.md)
+

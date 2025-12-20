@@ -90,3 +90,22 @@ Wikidata_usage_instructions:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/President%20(government%20title)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [President](/_Standards/Society/Politics/Government/Republic/President.md) 
+
+### #is_/same_as :: [President.public](/_public/Society/Politics/Government/Republic/President.public.md) 
+
+### #is_/same_as :: [President.internal](/_internal/Society/Politics/Government/Republic/President.internal.md) 
+
+### #is_/same_as :: [President.protect](/_protect/Society/Politics/Government/Republic/President.protect.md) 
+
+### #is_/same_as :: [President.private](/_private/Society/Politics/Government/Republic/President.private.md) 
+
+### #is_/same_as :: [President.personal](/_personal/Society/Politics/Government/Republic/President.personal.md) 
+
+### #is_/same_as :: [President.secret](/_secret/Society/Politics/Government/Republic/President.secret.md)
+

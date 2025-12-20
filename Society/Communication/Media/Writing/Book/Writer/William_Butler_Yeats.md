@@ -152,3 +152,21 @@ Swedish_Royal_Theater_Archive: Person/1043
 > From 1900 his poetry grew more physical, realistic and politicised. He moved away from the transcendental beliefs of his youth, though he remained preoccupied with some elements including cyclical theories of life. He had become the chief playwright for the Irish Literary Theatre in 1897, and early on promoted younger poets such as Ezra Pound. His major works include The Land of Heart's Desire (1894), Cathleen ni Houlihan (1902), Deirdre (1907), The Wild Swans at Coole (1919), The Tower (1928) and Last Poems and Plays (1940).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/W.%20B.%20Yeats)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [William_Butler_Yeats](/_Standards/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.md) 
+
+### #is_/same_as :: [William_Butler_Yeats.public](/_public/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.public.md) 
+
+### #is_/same_as :: [William_Butler_Yeats.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.internal.md) 
+
+### #is_/same_as :: [William_Butler_Yeats.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.protect.md) 
+
+### #is_/same_as :: [William_Butler_Yeats.private](/_private/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.private.md) 
+
+### #is_/same_as :: [William_Butler_Yeats.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.personal.md) 
+
+### #is_/same_as :: [William_Butler_Yeats.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/William_Butler_Yeats.secret.md)
+

@@ -44,3 +44,21 @@ taxon_name: Hydrophiinae
 > All sea snakes have paddle-like tails and many have laterally compressed bodies that give them an eel-like appearance. Unlike fish, they do not have gills and must surface regularly to breathe. Along with cetaceans, they are among the most completely aquatic of all extant air-breathing vertebrates. Among this group are species with some of the most potent venoms of all snakes. Some have gentle dispositions and bite only when provoked, while others are much more aggressive.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20snake)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sea Snake](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Snake/Sea Snake.md) 
+
+### #is_/same_as :: [Sea Snake.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Snake/Sea Snake.public.md) 
+
+### #is_/same_as :: [Sea Snake.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Snake/Sea Snake.internal.md) 
+
+### #is_/same_as :: [Sea Snake.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Snake/Sea Snake.protect.md) 
+
+### #is_/same_as :: [Sea Snake.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Snake/Sea Snake.private.md) 
+
+### #is_/same_as :: [Sea Snake.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Snake/Sea Snake.personal.md) 
+
+### #is_/same_as :: [Sea Snake.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Snake/Sea Snake.secret.md)
+

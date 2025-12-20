@@ -83,3 +83,22 @@ OpenStreetMap_tag: amenity=microwave
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Microwave%20oven) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Microwave_Oven](/_Standards/Society/Economics/Home_Economics/Cooking/Microwave_Oven.md) 
+
+### #is_/same_as :: [Microwave_Oven.public](/_public/Society/Economics/Home_Economics/Cooking/Microwave_Oven.public.md) 
+
+### #is_/same_as :: [Microwave_Oven.internal](/_internal/Society/Economics/Home_Economics/Cooking/Microwave_Oven.internal.md) 
+
+### #is_/same_as :: [Microwave_Oven.protect](/_protect/Society/Economics/Home_Economics/Cooking/Microwave_Oven.protect.md) 
+
+### #is_/same_as :: [Microwave_Oven.private](/_private/Society/Economics/Home_Economics/Cooking/Microwave_Oven.private.md) 
+
+### #is_/same_as :: [Microwave_Oven.personal](/_personal/Society/Economics/Home_Economics/Cooking/Microwave_Oven.personal.md) 
+
+### #is_/same_as :: [Microwave_Oven.secret](/_secret/Society/Economics/Home_Economics/Cooking/Microwave_Oven.secret.md)
+

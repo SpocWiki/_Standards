@@ -37,17 +37,17 @@ Any specific branch of medical science or practice. Medical specialities include
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [medical_specialty](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.md) 
+### #is_/same_as :: [Medical_Specialty](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty.md) 
 
-### #is_/same_as :: [medical_specialty.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.public.md) 
+### #is_/same_as :: [Medical_Specialty.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty.public.md) 
 
-### #is_/same_as :: [medical_specialty.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.internal.md) 
+### #is_/same_as :: [Medical_Specialty.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty.internal.md) 
 
-### #is_/same_as :: [medical_specialty.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.protect.md) 
+### #is_/same_as :: [Medical_Specialty.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty.protect.md) 
 
-### #is_/same_as :: [medical_specialty.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.private.md) 
+### #is_/same_as :: [Medical_Specialty.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty.private.md) 
 
-### #is_/same_as :: [medical_specialty.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.personal.md) 
+### #is_/same_as :: [Medical_Specialty.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty.personal.md) 
 
-### #is_/same_as :: [medical_specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.secret.md)
+### #is_/same_as :: [Medical_Specialty.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty.secret.md)
 

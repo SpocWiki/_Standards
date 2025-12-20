@@ -43,17 +43,17 @@ Specifies that there is a finite window for product returns.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merchant_Return_Finite_Return_Window](Merchant_Return_Finite_Return_Window.md) 
+### #is_/same_as :: [Merchant_Return_Finite_Return_Window](/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.md) 
 
-### #is_/same_as :: [merchant_return_finite_return_window.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.public.md) 
+### #is_/same_as :: [Merchant_Return_Finite_Return_Window.public](/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.public.md) 
 
-### #is_/same_as :: [merchant_return_finite_return_window.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.internal.md) 
+### #is_/same_as :: [Merchant_Return_Finite_Return_Window.internal](/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.internal.md) 
 
-### #is_/same_as :: [merchant_return_finite_return_window.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.protect.md) 
+### #is_/same_as :: [Merchant_Return_Finite_Return_Window.protect](/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.protect.md) 
 
-### #is_/same_as :: [merchant_return_finite_return_window.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.private.md) 
+### #is_/same_as :: [Merchant_Return_Finite_Return_Window.private](/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.private.md) 
 
-### #is_/same_as :: [merchant_return_finite_return_window.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.personal.md) 
+### #is_/same_as :: [Merchant_Return_Finite_Return_Window.personal](/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.personal.md) 
 
-### #is_/same_as :: [merchant_return_finite_return_window.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.secret.md)
+### #is_/same_as :: [Merchant_Return_Finite_Return_Window.secret](/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.secret.md)
 

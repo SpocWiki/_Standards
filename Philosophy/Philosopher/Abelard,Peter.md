@@ -137,3 +137,22 @@ PhilPapers_topic: peter-abelard
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Abelard) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abelard,Peter](/_Standards/Philosophy/Philosopher/Abelard,Peter.md) 
+
+### #is_/same_as :: [Abelard,Peter.public](/_public/Philosophy/Philosopher/Abelard,Peter.public.md) 
+
+### #is_/same_as :: [Abelard,Peter.internal](/_internal/Philosophy/Philosopher/Abelard,Peter.internal.md) 
+
+### #is_/same_as :: [Abelard,Peter.protect](/_protect/Philosophy/Philosopher/Abelard,Peter.protect.md) 
+
+### #is_/same_as :: [Abelard,Peter.private](/_private/Philosophy/Philosopher/Abelard,Peter.private.md) 
+
+### #is_/same_as :: [Abelard,Peter.personal](/_personal/Philosophy/Philosopher/Abelard,Peter.personal.md) 
+
+### #is_/same_as :: [Abelard,Peter.secret](/_secret/Philosophy/Philosopher/Abelard,Peter.secret.md)
+

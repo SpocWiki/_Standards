@@ -99,3 +99,22 @@ ISNI: "0000000121033889"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tacitus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tacitus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Tacitus.md) 
+
+### #is_/same_as :: [Tacitus.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Tacitus.public.md) 
+
+### #is_/same_as :: [Tacitus.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Tacitus.internal.md) 
+
+### #is_/same_as :: [Tacitus.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Tacitus.protect.md) 
+
+### #is_/same_as :: [Tacitus.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Tacitus.private.md) 
+
+### #is_/same_as :: [Tacitus.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Tacitus.personal.md) 
+
+### #is_/same_as :: [Tacitus.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Tacitus.secret.md)
+

@@ -64,3 +64,22 @@ Library_of_Congress_Classification: Q179.9-Q180.7
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Research) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Research](/_Standards/Science/Research.md) 
+
+### #is_/same_as :: [Research.public](/_public/Science/Research.public.md) 
+
+### #is_/same_as :: [Research.internal](/_internal/Science/Research.internal.md) 
+
+### #is_/same_as :: [Research.protect](/_protect/Science/Research.protect.md) 
+
+### #is_/same_as :: [Research.private](/_private/Science/Research.private.md) 
+
+### #is_/same_as :: [Research.personal](/_personal/Science/Research.personal.md) 
+
+### #is_/same_as :: [Research.secret](/_secret/Science/Research.secret.md)
+

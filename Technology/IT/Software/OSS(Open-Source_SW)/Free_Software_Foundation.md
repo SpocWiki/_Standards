@@ -122,3 +122,22 @@ PeerTube_channel_address: fsf@framatube.org
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Free%20Software%20Foundation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Free_Software_Foundation](/_Standards/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.md) 
+
+### #is_/same_as :: [Free_Software_Foundation.public](/_public/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.public.md) 
+
+### #is_/same_as :: [Free_Software_Foundation.internal](/_internal/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.internal.md) 
+
+### #is_/same_as :: [Free_Software_Foundation.protect](/_protect/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.protect.md) 
+
+### #is_/same_as :: [Free_Software_Foundation.private](/_private/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.private.md) 
+
+### #is_/same_as :: [Free_Software_Foundation.personal](/_personal/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.personal.md) 
+
+### #is_/same_as :: [Free_Software_Foundation.secret](/_secret/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.secret.md)
+

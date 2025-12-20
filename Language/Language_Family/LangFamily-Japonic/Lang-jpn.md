@@ -214,17 +214,17 @@ writing_system:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ja](/_Standards/Language/Lang~Family/LangFamily-Japonic/Lang-ja.md) 
+### #is_/same_as :: [Lang-jpn](/_Standards/Language/Language_Family/LangFamily-Japonic/Lang-jpn.md) 
 
-### #is_/same_as :: [Lang-ja.public](/_public/Language/Lang~Family/LangFamily-Japonic/Lang-ja.public.md) 
+### #is_/same_as :: [Lang-jpn.public](/_public/Language/Language_Family/LangFamily-Japonic/Lang-jpn.public.md) 
 
-### #is_/same_as :: [Lang-ja.internal](/_internal/Language/Lang~Family/LangFamily-Japonic/Lang-ja.internal.md) 
+### #is_/same_as :: [Lang-jpn.internal](/_internal/Language/Language_Family/LangFamily-Japonic/Lang-jpn.internal.md) 
 
-### #is_/same_as :: [Lang-ja.protect](/_protect/Language/Lang~Family/LangFamily-Japonic/Lang-ja.protect.md) 
+### #is_/same_as :: [Lang-jpn.protect](/_protect/Language/Language_Family/LangFamily-Japonic/Lang-jpn.protect.md) 
 
-### #is_/same_as :: [Lang-ja.private](/_private/Language/Lang~Family/LangFamily-Japonic/Lang-ja.private.md) 
+### #is_/same_as :: [Lang-jpn.private](/_private/Language/Language_Family/LangFamily-Japonic/Lang-jpn.private.md) 
 
-### #is_/same_as :: [Lang-ja.personal](/_personal/Language/Lang~Family/LangFamily-Japonic/Lang-ja.personal.md) 
+### #is_/same_as :: [Lang-jpn.personal](/_personal/Language/Language_Family/LangFamily-Japonic/Lang-jpn.personal.md) 
 
-### #is_/same_as :: [Lang-ja.secret](/_secret/Language/Lang~Family/LangFamily-Japonic/Lang-ja.secret.md)
+### #is_/same_as :: [Lang-jpn.secret](/_secret/Language/Language_Family/LangFamily-Japonic/Lang-jpn.secret.md)
 

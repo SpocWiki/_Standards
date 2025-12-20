@@ -461,17 +461,17 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sudan~South](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South.md) 
+### #is_/same_as :: [Sudan~South](/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.md) 
 
-### #is_/same_as :: [Sudan~South.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South.public.md) 
+### #is_/same_as :: [Sudan~South.public](/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.public.md) 
 
-### #is_/same_as :: [Sudan~South.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South.internal.md) 
+### #is_/same_as :: [Sudan~South.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.internal.md) 
 
-### #is_/same_as :: [Sudan~South.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South.protect.md) 
+### #is_/same_as :: [Sudan~South.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.protect.md) 
 
-### #is_/same_as :: [Sudan~South.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South.private.md) 
+### #is_/same_as :: [Sudan~South.private](/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.private.md) 
 
-### #is_/same_as :: [Sudan~South.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South.personal.md) 
+### #is_/same_as :: [Sudan~South.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.personal.md) 
 
-### #is_/same_as :: [Sudan~South.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South.secret.md)
+### #is_/same_as :: [Sudan~South.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.secret.md)
 

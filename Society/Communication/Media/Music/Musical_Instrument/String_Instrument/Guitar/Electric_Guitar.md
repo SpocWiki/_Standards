@@ -60,3 +60,22 @@ Baidu_Tieba_name: 电吉他
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20guitar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electric_Guitar](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.md) 
+
+### #is_/same_as :: [Electric_Guitar.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.public.md) 
+
+### #is_/same_as :: [Electric_Guitar.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.internal.md) 
+
+### #is_/same_as :: [Electric_Guitar.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.protect.md) 
+
+### #is_/same_as :: [Electric_Guitar.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.private.md) 
+
+### #is_/same_as :: [Electric_Guitar.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.personal.md) 
+
+### #is_/same_as :: [Electric_Guitar.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Electric_Guitar.secret.md)
+

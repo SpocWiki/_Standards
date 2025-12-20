@@ -41,17 +41,17 @@ Lists or enumerationsâ€”for example, a list of cuisines or music genres, et
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enumeration](Enumeration.md) 
+### #is_/same_as :: [Enumeration](/_Standards/schema-org/Enumeration.md) 
 
-### #is_/same_as :: [enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration.public.md) 
+### #is_/same_as :: [Enumeration.public](/_public/schema-org/Enumeration.public.md) 
 
-### #is_/same_as :: [enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration.internal.md) 
+### #is_/same_as :: [Enumeration.internal](/_internal/schema-org/Enumeration.internal.md) 
 
-### #is_/same_as :: [enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration.protect.md) 
+### #is_/same_as :: [Enumeration.protect](/_protect/schema-org/Enumeration.protect.md) 
 
-### #is_/same_as :: [enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration.private.md) 
+### #is_/same_as :: [Enumeration.private](/_private/schema-org/Enumeration.private.md) 
 
-### #is_/same_as :: [enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration.personal.md) 
+### #is_/same_as :: [Enumeration.personal](/_personal/schema-org/Enumeration.personal.md) 
 
-### #is_/same_as :: [enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration.secret.md)
+### #is_/same_as :: [Enumeration.secret](/_secret/schema-org/Enumeration.secret.md)
 

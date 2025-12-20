@@ -51,6 +51,7 @@ Predicate describes that:
 
 #is_/similar_to :: [[../../../WikiData/WD~Latitude,34027|WD~Latitude,34027]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [has_place_latitude](/_Standards/schema-org/Property/has_value_for/has_place_latitude.md) 

@@ -91,3 +91,22 @@ start_time: 1493-10-03T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20colonization%20of%20the%20Americas) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1493-Spanish_Colonization-Americas+1898](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.md) 
+
+### #is_/same_as :: [1493-Spanish_Colonization-Americas+1898.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.public.md) 
+
+### #is_/same_as :: [1493-Spanish_Colonization-Americas+1898.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.internal.md) 
+
+### #is_/same_as :: [1493-Spanish_Colonization-Americas+1898.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.protect.md) 
+
+### #is_/same_as :: [1493-Spanish_Colonization-Americas+1898.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.private.md) 
+
+### #is_/same_as :: [1493-Spanish_Colonization-Americas+1898.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.personal.md) 
+
+### #is_/same_as :: [1493-Spanish_Colonization-Americas+1898.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.secret.md)
+

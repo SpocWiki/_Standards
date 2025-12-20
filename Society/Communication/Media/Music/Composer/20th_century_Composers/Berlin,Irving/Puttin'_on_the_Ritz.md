@@ -39,3 +39,22 @@ Commons_category: Puttin' On the Ritz
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Puttin'_on_the_Ritz](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Puttin'_on_the_Ritz.md) 
+
+### #is_/same_as :: [Puttin'_on_the_Ritz.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Puttin'_on_the_Ritz.public.md) 
+
+### #is_/same_as :: [Puttin'_on_the_Ritz.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Puttin'_on_the_Ritz.internal.md) 
+
+### #is_/same_as :: [Puttin'_on_the_Ritz.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Puttin'_on_the_Ritz.protect.md) 
+
+### #is_/same_as :: [Puttin'_on_the_Ritz.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Puttin'_on_the_Ritz.private.md) 
+
+### #is_/same_as :: [Puttin'_on_the_Ritz.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Puttin'_on_the_Ritz.personal.md) 
+
+### #is_/same_as :: [Puttin'_on_the_Ritz.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Puttin'_on_the_Ritz.secret.md)
+

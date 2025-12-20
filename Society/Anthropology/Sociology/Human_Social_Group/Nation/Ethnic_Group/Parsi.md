@@ -28,3 +28,22 @@ has_id_wikidata: Q200263
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parsis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parsi](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Parsi.md) 
+
+### #is_/same_as :: [Parsi.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Parsi.public.md) 
+
+### #is_/same_as :: [Parsi.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Parsi.internal.md) 
+
+### #is_/same_as :: [Parsi.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Parsi.protect.md) 
+
+### #is_/same_as :: [Parsi.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Parsi.private.md) 
+
+### #is_/same_as :: [Parsi.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Parsi.personal.md) 
+
+### #is_/same_as :: [Parsi.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Parsi.secret.md)
+

@@ -50,3 +50,22 @@ studied_by: "[[_Standards/WikiData/WD~topology,42989]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Open%20set) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Open_Set](/_Standards/Mathematics/Topology/Open_Set.md) 
+
+### #is_/same_as :: [Open_Set.public](/_public/Mathematics/Topology/Open_Set.public.md) 
+
+### #is_/same_as :: [Open_Set.internal](/_internal/Mathematics/Topology/Open_Set.internal.md) 
+
+### #is_/same_as :: [Open_Set.protect](/_protect/Mathematics/Topology/Open_Set.protect.md) 
+
+### #is_/same_as :: [Open_Set.private](/_private/Mathematics/Topology/Open_Set.private.md) 
+
+### #is_/same_as :: [Open_Set.personal](/_personal/Mathematics/Topology/Open_Set.personal.md) 
+
+### #is_/same_as :: [Open_Set.secret](/_secret/Mathematics/Topology/Open_Set.secret.md)
+

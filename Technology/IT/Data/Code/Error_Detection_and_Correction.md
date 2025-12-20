@@ -40,3 +40,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Reed%E2%80%93Solomon%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Error%20detection%20and%20correction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Error_Detection_and_Correction](/_Standards/Technology/IT/Data/Code/Error_Detection_and_Correction.md) 
+
+### #is_/same_as :: [Error_Detection_and_Correction.public](/_public/Technology/IT/Data/Code/Error_Detection_and_Correction.public.md) 
+
+### #is_/same_as :: [Error_Detection_and_Correction.internal](/_internal/Technology/IT/Data/Code/Error_Detection_and_Correction.internal.md) 
+
+### #is_/same_as :: [Error_Detection_and_Correction.protect](/_protect/Technology/IT/Data/Code/Error_Detection_and_Correction.protect.md) 
+
+### #is_/same_as :: [Error_Detection_and_Correction.private](/_private/Technology/IT/Data/Code/Error_Detection_and_Correction.private.md) 
+
+### #is_/same_as :: [Error_Detection_and_Correction.personal](/_personal/Technology/IT/Data/Code/Error_Detection_and_Correction.personal.md) 
+
+### #is_/same_as :: [Error_Detection_and_Correction.secret](/_secret/Technology/IT/Data/Code/Error_Detection_and_Correction.secret.md)
+

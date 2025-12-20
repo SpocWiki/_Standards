@@ -62,3 +62,22 @@ Debian_Wiki_article: fr/Keyboard
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20keyboard) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computer_Keyboard](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.md) 
+
+### #is_/same_as :: [Computer_Keyboard.public](/_public/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.public.md) 
+
+### #is_/same_as :: [Computer_Keyboard.internal](/_internal/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.internal.md) 
+
+### #is_/same_as :: [Computer_Keyboard.protect](/_protect/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.protect.md) 
+
+### #is_/same_as :: [Computer_Keyboard.private](/_private/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.private.md) 
+
+### #is_/same_as :: [Computer_Keyboard.personal](/_personal/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.personal.md) 
+
+### #is_/same_as :: [Computer_Keyboard.secret](/_secret/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.secret.md)
+

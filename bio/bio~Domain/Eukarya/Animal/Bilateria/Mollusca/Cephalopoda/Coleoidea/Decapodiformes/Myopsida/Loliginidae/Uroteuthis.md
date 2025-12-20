@@ -209,7 +209,7 @@ Cook University, North Queensland, Australia.
   Scientific Name ::  Uroteuthis chinensis
   Location ::        off Australia
   Copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
-  --------------------------------------------------------------------------
+  --------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

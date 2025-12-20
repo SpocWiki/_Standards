@@ -50,7 +50,6 @@ Tag Instances like this:
 > [Wikipedia](https://en.wikipedia.org/wiki/Crematorium) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Crematorium](/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium.md) 

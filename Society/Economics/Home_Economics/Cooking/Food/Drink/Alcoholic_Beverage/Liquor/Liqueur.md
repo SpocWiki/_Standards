@@ -42,3 +42,22 @@ Commons_category: Liqueurs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liqueur) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Liqueur](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.md) 
+
+### #is_/same_as :: [Liqueur.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.public.md) 
+
+### #is_/same_as :: [Liqueur.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.internal.md) 
+
+### #is_/same_as :: [Liqueur.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.protect.md) 
+
+### #is_/same_as :: [Liqueur.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.private.md) 
+
+### #is_/same_as :: [Liqueur.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.personal.md) 
+
+### #is_/same_as :: [Liqueur.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.secret.md)
+

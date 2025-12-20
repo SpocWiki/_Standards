@@ -38,3 +38,22 @@ Commons_gallery: Skirt
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skirt) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skirt](/_Standards/Technology/Tool/Clothing/Skirt.md) 
+
+### #is_/same_as :: [Skirt.public](/_public/Technology/Tool/Clothing/Skirt.public.md) 
+
+### #is_/same_as :: [Skirt.internal](/_internal/Technology/Tool/Clothing/Skirt.internal.md) 
+
+### #is_/same_as :: [Skirt.protect](/_protect/Technology/Tool/Clothing/Skirt.protect.md) 
+
+### #is_/same_as :: [Skirt.private](/_private/Technology/Tool/Clothing/Skirt.private.md) 
+
+### #is_/same_as :: [Skirt.personal](/_personal/Technology/Tool/Clothing/Skirt.personal.md) 
+
+### #is_/same_as :: [Skirt.secret](/_secret/Technology/Tool/Clothing/Skirt.secret.md)
+

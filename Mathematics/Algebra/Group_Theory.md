@@ -43,3 +43,22 @@ subreddit: grouptheory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Group_Theory](/_Standards/Mathematics/Algebra/Group_Theory.md) 
+
+### #is_/same_as :: [Group_Theory.public](/_public/Mathematics/Algebra/Group_Theory.public.md) 
+
+### #is_/same_as :: [Group_Theory.internal](/_internal/Mathematics/Algebra/Group_Theory.internal.md) 
+
+### #is_/same_as :: [Group_Theory.protect](/_protect/Mathematics/Algebra/Group_Theory.protect.md) 
+
+### #is_/same_as :: [Group_Theory.private](/_private/Mathematics/Algebra/Group_Theory.private.md) 
+
+### #is_/same_as :: [Group_Theory.personal](/_personal/Mathematics/Algebra/Group_Theory.personal.md) 
+
+### #is_/same_as :: [Group_Theory.secret](/_secret/Mathematics/Algebra/Group_Theory.secret.md)
+

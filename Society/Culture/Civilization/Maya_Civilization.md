@@ -66,3 +66,22 @@ OpenStreetMap_tag: historic:civilization=mayan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maya%20civilization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maya_Civilization](/_Standards/Society/Culture/Civilization/Maya_Civilization.md) 
+
+### #is_/same_as :: [Maya_Civilization.public](/_public/Society/Culture/Civilization/Maya_Civilization.public.md) 
+
+### #is_/same_as :: [Maya_Civilization.internal](/_internal/Society/Culture/Civilization/Maya_Civilization.internal.md) 
+
+### #is_/same_as :: [Maya_Civilization.protect](/_protect/Society/Culture/Civilization/Maya_Civilization.protect.md) 
+
+### #is_/same_as :: [Maya_Civilization.private](/_private/Society/Culture/Civilization/Maya_Civilization.private.md) 
+
+### #is_/same_as :: [Maya_Civilization.personal](/_personal/Society/Culture/Civilization/Maya_Civilization.personal.md) 
+
+### #is_/same_as :: [Maya_Civilization.secret](/_secret/Society/Culture/Civilization/Maya_Civilization.secret.md)
+

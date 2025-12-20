@@ -30,3 +30,22 @@ Commons_category: Positional numeral systems
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Positional%20notation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Positional_Notation](/_Standards/Mathematics/Number/Numeral_System/Positional_Notation.md) 
+
+### #is_/same_as :: [Positional_Notation.public](/_public/Mathematics/Number/Numeral_System/Positional_Notation.public.md) 
+
+### #is_/same_as :: [Positional_Notation.internal](/_internal/Mathematics/Number/Numeral_System/Positional_Notation.internal.md) 
+
+### #is_/same_as :: [Positional_Notation.protect](/_protect/Mathematics/Number/Numeral_System/Positional_Notation.protect.md) 
+
+### #is_/same_as :: [Positional_Notation.private](/_private/Mathematics/Number/Numeral_System/Positional_Notation.private.md) 
+
+### #is_/same_as :: [Positional_Notation.personal](/_personal/Mathematics/Number/Numeral_System/Positional_Notation.personal.md) 
+
+### #is_/same_as :: [Positional_Notation.secret](/_secret/Mathematics/Number/Numeral_System/Positional_Notation.secret.md)
+

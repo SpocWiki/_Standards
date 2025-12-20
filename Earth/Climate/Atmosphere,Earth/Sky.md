@@ -30,3 +30,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sky) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sky](/_Standards/Earth/Climate/Atmosphere,Earth/Sky.md) 
+
+### #is_/same_as :: [Sky.public](/_public/Earth/Climate/Atmosphere,Earth/Sky.public.md) 
+
+### #is_/same_as :: [Sky.internal](/_internal/Earth/Climate/Atmosphere,Earth/Sky.internal.md) 
+
+### #is_/same_as :: [Sky.protect](/_protect/Earth/Climate/Atmosphere,Earth/Sky.protect.md) 
+
+### #is_/same_as :: [Sky.private](/_private/Earth/Climate/Atmosphere,Earth/Sky.private.md) 
+
+### #is_/same_as :: [Sky.personal](/_personal/Earth/Climate/Atmosphere,Earth/Sky.personal.md) 
+
+### #is_/same_as :: [Sky.secret](/_secret/Earth/Climate/Atmosphere,Earth/Sky.secret.md)
+

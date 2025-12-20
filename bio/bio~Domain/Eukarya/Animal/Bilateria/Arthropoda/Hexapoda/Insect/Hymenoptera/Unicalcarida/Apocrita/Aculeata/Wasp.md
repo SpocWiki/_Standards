@@ -58,3 +58,22 @@ Krugosvet_article: nauka_i_tehnika/biologiya/OSI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wasp) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wasp](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Wasp.md) 
+
+### #is_/same_as :: [Wasp.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Wasp.public.md) 
+
+### #is_/same_as :: [Wasp.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Wasp.internal.md) 
+
+### #is_/same_as :: [Wasp.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Wasp.protect.md) 
+
+### #is_/same_as :: [Wasp.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Wasp.private.md) 
+
+### #is_/same_as :: [Wasp.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Wasp.personal.md) 
+
+### #is_/same_as :: [Wasp.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata/Wasp.secret.md)
+

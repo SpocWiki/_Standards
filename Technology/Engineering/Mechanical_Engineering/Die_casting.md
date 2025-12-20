@@ -40,3 +40,22 @@ Commons_category: Die casting
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Die%20casting) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Die_casting](/_Standards/Technology/Engineering/Mechanical_Engineering/Die_casting.md) 
+
+### #is_/same_as :: [Die_casting.public](/_public/Technology/Engineering/Mechanical_Engineering/Die_casting.public.md) 
+
+### #is_/same_as :: [Die_casting.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Die_casting.internal.md) 
+
+### #is_/same_as :: [Die_casting.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Die_casting.protect.md) 
+
+### #is_/same_as :: [Die_casting.private](/_private/Technology/Engineering/Mechanical_Engineering/Die_casting.private.md) 
+
+### #is_/same_as :: [Die_casting.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Die_casting.personal.md) 
+
+### #is_/same_as :: [Die_casting.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Die_casting.secret.md)
+

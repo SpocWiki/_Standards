@@ -92,3 +92,22 @@ Unicode_character: 🗳
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Voting) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Voting](/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.md) 
+
+### #is_/same_as :: [Voting.public](/_public/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.public.md) 
+
+### #is_/same_as :: [Voting.internal](/_internal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.internal.md) 
+
+### #is_/same_as :: [Voting.protect](/_protect/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.protect.md) 
+
+### #is_/same_as :: [Voting.private](/_private/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.private.md) 
+
+### #is_/same_as :: [Voting.personal](/_personal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.personal.md) 
+
+### #is_/same_as :: [Voting.secret](/_secret/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making/Voting.secret.md)
+

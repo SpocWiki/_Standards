@@ -40,17 +40,17 @@ The status of a confirmed reservation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reservation_Confirmed](Reservation_Confirmed.md) 
+### #is_/same_as :: [Reservation_Confirmed](/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.md) 
 
-### #is_/same_as :: [reservation_confirmed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.public.md) 
+### #is_/same_as :: [Reservation_Confirmed.public](/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.public.md) 
 
-### #is_/same_as :: [reservation_confirmed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.internal.md) 
+### #is_/same_as :: [Reservation_Confirmed.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.internal.md) 
 
-### #is_/same_as :: [reservation_confirmed.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.protect.md) 
+### #is_/same_as :: [Reservation_Confirmed.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.protect.md) 
 
-### #is_/same_as :: [reservation_confirmed.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.private.md) 
+### #is_/same_as :: [Reservation_Confirmed.private](/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.private.md) 
 
-### #is_/same_as :: [reservation_confirmed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.personal.md) 
+### #is_/same_as :: [Reservation_Confirmed.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.personal.md) 
 
-### #is_/same_as :: [reservation_confirmed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.secret.md)
+### #is_/same_as :: [Reservation_Confirmed.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.secret.md)
 

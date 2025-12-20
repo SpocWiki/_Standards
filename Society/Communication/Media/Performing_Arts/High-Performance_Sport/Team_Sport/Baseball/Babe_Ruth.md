@@ -122,17 +122,17 @@ work_period_start_: 1914-07-11T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Babe_Ruth](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball/Babe_Ruth.md) 
+### #is_/same_as :: [Babe_Ruth](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Babe_Ruth.md) 
 
-### #is_/same_as :: [Babe_Ruth.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball/Babe_Ruth.public.md) 
+### #is_/same_as :: [Babe_Ruth.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Babe_Ruth.public.md) 
 
-### #is_/same_as :: [Babe_Ruth.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball/Babe_Ruth.internal.md) 
+### #is_/same_as :: [Babe_Ruth.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Babe_Ruth.internal.md) 
 
-### #is_/same_as :: [Babe_Ruth.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball/Babe_Ruth.protect.md) 
+### #is_/same_as :: [Babe_Ruth.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Babe_Ruth.protect.md) 
 
-### #is_/same_as :: [Babe_Ruth.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball/Babe_Ruth.private.md) 
+### #is_/same_as :: [Babe_Ruth.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Babe_Ruth.private.md) 
 
-### #is_/same_as :: [Babe_Ruth.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball/Babe_Ruth.personal.md) 
+### #is_/same_as :: [Babe_Ruth.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Babe_Ruth.personal.md) 
 
-### #is_/same_as :: [Babe_Ruth.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Baseball/Babe_Ruth.secret.md)
+### #is_/same_as :: [Babe_Ruth.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Babe_Ruth.secret.md)
 

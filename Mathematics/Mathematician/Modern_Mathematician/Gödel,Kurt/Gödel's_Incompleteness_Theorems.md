@@ -48,3 +48,22 @@ Dewey_Decimal_Classification: "511.3"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del's%20incompleteness%20theorems) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gödel's_Incompleteness_Theorems](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.md) 
+
+### #is_/same_as :: [Gödel's_Incompleteness_Theorems.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.public.md) 
+
+### #is_/same_as :: [Gödel's_Incompleteness_Theorems.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.internal.md) 
+
+### #is_/same_as :: [Gödel's_Incompleteness_Theorems.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.protect.md) 
+
+### #is_/same_as :: [Gödel's_Incompleteness_Theorems.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.private.md) 
+
+### #is_/same_as :: [Gödel's_Incompleteness_Theorems.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.personal.md) 
+
+### #is_/same_as :: [Gödel's_Incompleteness_Theorems.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.secret.md)
+

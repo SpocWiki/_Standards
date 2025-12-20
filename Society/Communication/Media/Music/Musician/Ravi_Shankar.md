@@ -134,3 +134,22 @@ Google_Doodle: pandit-ravi-shankars-96th-birthday
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ravi%20Shankar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ravi_Shankar](/_Standards/Society/Communication/Media/Music/Musician/Ravi_Shankar.md) 
+
+### #is_/same_as :: [Ravi_Shankar.public](/_public/Society/Communication/Media/Music/Musician/Ravi_Shankar.public.md) 
+
+### #is_/same_as :: [Ravi_Shankar.internal](/_internal/Society/Communication/Media/Music/Musician/Ravi_Shankar.internal.md) 
+
+### #is_/same_as :: [Ravi_Shankar.protect](/_protect/Society/Communication/Media/Music/Musician/Ravi_Shankar.protect.md) 
+
+### #is_/same_as :: [Ravi_Shankar.private](/_private/Society/Communication/Media/Music/Musician/Ravi_Shankar.private.md) 
+
+### #is_/same_as :: [Ravi_Shankar.personal](/_personal/Society/Communication/Media/Music/Musician/Ravi_Shankar.personal.md) 
+
+### #is_/same_as :: [Ravi_Shankar.secret](/_secret/Society/Communication/Media/Music/Musician/Ravi_Shankar.secret.md)
+

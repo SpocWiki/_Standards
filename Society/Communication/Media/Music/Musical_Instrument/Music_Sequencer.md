@@ -31,3 +31,22 @@ Commons_category: Music sequencers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20sequencer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Music_Sequencer](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.md) 
+
+### #is_/same_as :: [Music_Sequencer.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.public.md) 
+
+### #is_/same_as :: [Music_Sequencer.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.internal.md) 
+
+### #is_/same_as :: [Music_Sequencer.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.protect.md) 
+
+### #is_/same_as :: [Music_Sequencer.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.private.md) 
+
+### #is_/same_as :: [Music_Sequencer.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.personal.md) 
+
+### #is_/same_as :: [Music_Sequencer.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Music_Sequencer.secret.md)
+

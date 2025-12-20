@@ -42,17 +42,17 @@ Nonprofit501c1: Non-profit type referring to Corporations Organized Under Act of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c1](Nonprofit501c1.md) 
+### #is_/same_as :: [Nonprofit501c1](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.md) 
 
-### #is_/same_as :: [nonprofit501c1.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.public.md) 
+### #is_/same_as :: [Nonprofit501c1.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.public.md) 
 
-### #is_/same_as :: [nonprofit501c1.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.internal.md) 
+### #is_/same_as :: [Nonprofit501c1.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.internal.md) 
 
-### #is_/same_as :: [nonprofit501c1.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.protect.md) 
+### #is_/same_as :: [Nonprofit501c1.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.protect.md) 
 
-### #is_/same_as :: [nonprofit501c1.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.private.md) 
+### #is_/same_as :: [Nonprofit501c1.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.private.md) 
 
-### #is_/same_as :: [nonprofit501c1.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.personal.md) 
+### #is_/same_as :: [Nonprofit501c1.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.personal.md) 
 
-### #is_/same_as :: [nonprofit501c1.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.secret.md)
+### #is_/same_as :: [Nonprofit501c1.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c1.secret.md)
 

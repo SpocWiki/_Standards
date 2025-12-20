@@ -33,3 +33,22 @@ Commons_category: Vector calculus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vector%20calculus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vector_Calculus](/_Standards/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.md) 
+
+### #is_/same_as :: [Vector_Calculus.public](/_public/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.public.md) 
+
+### #is_/same_as :: [Vector_Calculus.internal](/_internal/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.internal.md) 
+
+### #is_/same_as :: [Vector_Calculus.protect](/_protect/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.protect.md) 
+
+### #is_/same_as :: [Vector_Calculus.private](/_private/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.private.md) 
+
+### #is_/same_as :: [Vector_Calculus.personal](/_personal/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.personal.md) 
+
+### #is_/same_as :: [Vector_Calculus.secret](/_secret/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.secret.md)
+

@@ -69,3 +69,22 @@ Commons_category: Classical elements
 > [Wikipedia](https://en.wikipedia.org/wiki/Classical%20element) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Four_elements](/_Standards/Chemistry/Alchemy/Four_elements.md) 
+
+### #is_/same_as :: [Four_elements.public](/_public/Chemistry/Alchemy/Four_elements.public.md) 
+
+### #is_/same_as :: [Four_elements.internal](/_internal/Chemistry/Alchemy/Four_elements.internal.md) 
+
+### #is_/same_as :: [Four_elements.protect](/_protect/Chemistry/Alchemy/Four_elements.protect.md) 
+
+### #is_/same_as :: [Four_elements.private](/_private/Chemistry/Alchemy/Four_elements.private.md) 
+
+### #is_/same_as :: [Four_elements.personal](/_personal/Chemistry/Alchemy/Four_elements.personal.md) 
+
+### #is_/same_as :: [Four_elements.secret](/_secret/Chemistry/Alchemy/Four_elements.secret.md)
+

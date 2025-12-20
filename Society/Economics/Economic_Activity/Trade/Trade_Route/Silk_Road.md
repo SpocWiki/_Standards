@@ -75,3 +75,22 @@ Commons_category: Silk Road
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silk%20Road) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Silk_Road](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.md) 
+
+### #is_/same_as :: [Silk_Road.public](/_public/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.public.md) 
+
+### #is_/same_as :: [Silk_Road.internal](/_internal/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.internal.md) 
+
+### #is_/same_as :: [Silk_Road.protect](/_protect/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.protect.md) 
+
+### #is_/same_as :: [Silk_Road.private](/_private/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.private.md) 
+
+### #is_/same_as :: [Silk_Road.personal](/_personal/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.personal.md) 
+
+### #is_/same_as :: [Silk_Road.secret](/_secret/Society/Economics/Economic_Activity/Trade/Trade_Route/Silk_Road.secret.md)
+

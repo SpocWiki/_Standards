@@ -40,3 +40,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rustning%2C%20Gustav%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plate%20armour) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plate_Armor](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.md) 
+
+### #is_/same_as :: [Plate_Armor.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.public.md) 
+
+### #is_/same_as :: [Plate_Armor.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.internal.md) 
+
+### #is_/same_as :: [Plate_Armor.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.protect.md) 
+
+### #is_/same_as :: [Plate_Armor.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.private.md) 
+
+### #is_/same_as :: [Plate_Armor.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.personal.md) 
+
+### #is_/same_as :: [Plate_Armor.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.secret.md)
+

@@ -252,3 +252,22 @@ Wolfram_Language_entity_code: Entity["MusicAct", "PaulMcCartney::35xtf"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20McCartney) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [McCartney,Paul](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.md) 
+
+### #is_/same_as :: [McCartney,Paul.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.public.md) 
+
+### #is_/same_as :: [McCartney,Paul.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.internal.md) 
+
+### #is_/same_as :: [McCartney,Paul.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.protect.md) 
+
+### #is_/same_as :: [McCartney,Paul.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.private.md) 
+
+### #is_/same_as :: [McCartney,Paul.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.personal.md) 
+
+### #is_/same_as :: [McCartney,Paul.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles/McCartney,Paul.secret.md)
+

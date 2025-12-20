@@ -98,3 +98,21 @@ OpenStreetMap_tag: amenity=theatre
 > allowing the production to create a performance area suitable for the production.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theater%20(structure))
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theater_Building](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Theater_Building.md) 
+
+### #is_/same_as :: [Theater_Building.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Theater_Building.public.md) 
+
+### #is_/same_as :: [Theater_Building.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Theater_Building.internal.md) 
+
+### #is_/same_as :: [Theater_Building.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Theater_Building.protect.md) 
+
+### #is_/same_as :: [Theater_Building.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Theater_Building.private.md) 
+
+### #is_/same_as :: [Theater_Building.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Theater_Building.personal.md) 
+
+### #is_/same_as :: [Theater_Building.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Theater_Building.secret.md)
+

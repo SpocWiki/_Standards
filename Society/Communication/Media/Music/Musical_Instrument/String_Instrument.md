@@ -47,3 +47,22 @@ Commons_category: String instruments
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/String%20instrument) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [String_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument.md) 
+
+### #is_/same_as :: [String_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument.public.md) 
+
+### #is_/same_as :: [String_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument.internal.md) 
+
+### #is_/same_as :: [String_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument.protect.md) 
+
+### #is_/same_as :: [String_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument.private.md) 
+
+### #is_/same_as :: [String_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument.personal.md) 
+
+### #is_/same_as :: [String_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument.secret.md)
+

@@ -29,3 +29,22 @@ topic_s_main_category: "[[_Standards/WikiData/WD~Q32516772,32516772]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20representation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Group_Representation](/_Standards/Mathematics/Algebra/Group_Representation.md) 
+
+### #is_/same_as :: [Group_Representation.public](/_public/Mathematics/Algebra/Group_Representation.public.md) 
+
+### #is_/same_as :: [Group_Representation.internal](/_internal/Mathematics/Algebra/Group_Representation.internal.md) 
+
+### #is_/same_as :: [Group_Representation.protect](/_protect/Mathematics/Algebra/Group_Representation.protect.md) 
+
+### #is_/same_as :: [Group_Representation.private](/_private/Mathematics/Algebra/Group_Representation.private.md) 
+
+### #is_/same_as :: [Group_Representation.personal](/_personal/Mathematics/Algebra/Group_Representation.personal.md) 
+
+### #is_/same_as :: [Group_Representation.secret](/_secret/Mathematics/Algebra/Group_Representation.secret.md)
+

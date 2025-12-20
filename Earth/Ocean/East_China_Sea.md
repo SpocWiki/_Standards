@@ -86,3 +86,21 @@ markerFolder: ./East_China_Sea/
 > The Korean peninsula, China, Japan, and Taiwan lie within or border the East China Sea.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/East%20China%20Sea)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [East_China_Sea](/_Standards/Earth/Ocean/East_China_Sea.md) 
+
+### #is_/same_as :: [East_China_Sea.public](/_public/Earth/Ocean/East_China_Sea.public.md) 
+
+### #is_/same_as :: [East_China_Sea.internal](/_internal/Earth/Ocean/East_China_Sea.internal.md) 
+
+### #is_/same_as :: [East_China_Sea.protect](/_protect/Earth/Ocean/East_China_Sea.protect.md) 
+
+### #is_/same_as :: [East_China_Sea.private](/_private/Earth/Ocean/East_China_Sea.private.md) 
+
+### #is_/same_as :: [East_China_Sea.personal](/_personal/Earth/Ocean/East_China_Sea.personal.md) 
+
+### #is_/same_as :: [East_China_Sea.secret](/_secret/Earth/Ocean/East_China_Sea.secret.md)
+

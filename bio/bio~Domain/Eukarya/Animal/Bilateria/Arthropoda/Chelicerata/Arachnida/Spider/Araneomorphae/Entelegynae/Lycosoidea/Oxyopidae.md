@@ -47,7 +47,7 @@ Containing group:[Lycosoidea](../Lycosoidea.md))
   Specimen Condition   Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
-  ----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

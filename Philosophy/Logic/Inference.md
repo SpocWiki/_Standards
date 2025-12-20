@@ -52,3 +52,22 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/inference
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inference) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Inference](/_Standards/Philosophy/Logic/Inference.md) 
+
+### #is_/same_as :: [Inference.public](/_public/Philosophy/Logic/Inference.public.md) 
+
+### #is_/same_as :: [Inference.internal](/_internal/Philosophy/Logic/Inference.internal.md) 
+
+### #is_/same_as :: [Inference.protect](/_protect/Philosophy/Logic/Inference.protect.md) 
+
+### #is_/same_as :: [Inference.private](/_private/Philosophy/Logic/Inference.private.md) 
+
+### #is_/same_as :: [Inference.personal](/_personal/Philosophy/Logic/Inference.personal.md) 
+
+### #is_/same_as :: [Inference.secret](/_secret/Philosophy/Logic/Inference.secret.md)
+

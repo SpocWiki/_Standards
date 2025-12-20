@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Integral) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Integral](/_Standards/Mathematics/Calculus/Integral.md) 
+
+### #is_/same_as :: [Integral.public](/_public/Mathematics/Calculus/Integral.public.md) 
+
+### #is_/same_as :: [Integral.internal](/_internal/Mathematics/Calculus/Integral.internal.md) 
+
+### #is_/same_as :: [Integral.protect](/_protect/Mathematics/Calculus/Integral.protect.md) 
+
+### #is_/same_as :: [Integral.private](/_private/Mathematics/Calculus/Integral.private.md) 
+
+### #is_/same_as :: [Integral.personal](/_personal/Mathematics/Calculus/Integral.personal.md) 
+
+### #is_/same_as :: [Integral.secret](/_secret/Mathematics/Calculus/Integral.secret.md)
+

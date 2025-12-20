@@ -126,3 +126,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SHOINKA_VOLE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wole%20Soyinka)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soyinka,Wole](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.md) 
+
+### #is_/same_as :: [Soyinka,Wole.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.public.md) 
+
+### #is_/same_as :: [Soyinka,Wole.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.internal.md) 
+
+### #is_/same_as :: [Soyinka,Wole.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.protect.md) 
+
+### #is_/same_as :: [Soyinka,Wole.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.private.md) 
+
+### #is_/same_as :: [Soyinka,Wole.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.personal.md) 
+
+### #is_/same_as :: [Soyinka,Wole.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.secret.md)
+

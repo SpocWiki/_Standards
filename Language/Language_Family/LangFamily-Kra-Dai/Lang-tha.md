@@ -129,3 +129,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/TASKI_YAZIK.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thai%20language) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-tha](/_Standards/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.md) 
+
+### #is_/same_as :: [Lang-tha.public](/_public/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.public.md) 
+
+### #is_/same_as :: [Lang-tha.internal](/_internal/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.internal.md) 
+
+### #is_/same_as :: [Lang-tha.protect](/_protect/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.protect.md) 
+
+### #is_/same_as :: [Lang-tha.private](/_private/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.private.md) 
+
+### #is_/same_as :: [Lang-tha.personal](/_personal/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.personal.md) 
+
+### #is_/same_as :: [Lang-tha.secret](/_secret/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.secret.md)
+

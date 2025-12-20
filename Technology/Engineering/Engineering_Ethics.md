@@ -26,3 +26,22 @@ facet_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Engineering%20ethics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Engineering_Ethics](/_Standards/Technology/Engineering/Engineering_Ethics.md) 
+
+### #is_/same_as :: [Engineering_Ethics.public](/_public/Technology/Engineering/Engineering_Ethics.public.md) 
+
+### #is_/same_as :: [Engineering_Ethics.internal](/_internal/Technology/Engineering/Engineering_Ethics.internal.md) 
+
+### #is_/same_as :: [Engineering_Ethics.protect](/_protect/Technology/Engineering/Engineering_Ethics.protect.md) 
+
+### #is_/same_as :: [Engineering_Ethics.private](/_private/Technology/Engineering/Engineering_Ethics.private.md) 
+
+### #is_/same_as :: [Engineering_Ethics.personal](/_personal/Technology/Engineering/Engineering_Ethics.personal.md) 
+
+### #is_/same_as :: [Engineering_Ethics.secret](/_secret/Technology/Engineering/Engineering_Ethics.secret.md)
+

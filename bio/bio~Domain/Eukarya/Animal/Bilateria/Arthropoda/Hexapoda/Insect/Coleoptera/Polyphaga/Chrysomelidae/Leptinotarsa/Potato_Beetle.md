@@ -89,3 +89,22 @@ NBN_System_Key: NHMSYS0020152403
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colorado%20potato%20beetle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Potato_Beetle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.md) 
+
+### #is_/same_as :: [Potato_Beetle.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.public.md) 
+
+### #is_/same_as :: [Potato_Beetle.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.internal.md) 
+
+### #is_/same_as :: [Potato_Beetle.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.protect.md) 
+
+### #is_/same_as :: [Potato_Beetle.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.private.md) 
+
+### #is_/same_as :: [Potato_Beetle.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.personal.md) 
+
+### #is_/same_as :: [Potato_Beetle.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.secret.md)
+

@@ -56,3 +56,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lublin%20Union%201569.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Union%20of%20Lublin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1569-Union_of_Lublin](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Union_of_Lublin.md) 
+
+### #is_/same_as :: [1569-Union_of_Lublin.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Union_of_Lublin.public.md) 
+
+### #is_/same_as :: [1569-Union_of_Lublin.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Union_of_Lublin.internal.md) 
+
+### #is_/same_as :: [1569-Union_of_Lublin.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Union_of_Lublin.protect.md) 
+
+### #is_/same_as :: [1569-Union_of_Lublin.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Union_of_Lublin.private.md) 
+
+### #is_/same_as :: [1569-Union_of_Lublin.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Union_of_Lublin.personal.md) 
+
+### #is_/same_as :: [1569-Union_of_Lublin.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Union_of_Lublin.secret.md)
+

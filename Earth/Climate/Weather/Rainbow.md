@@ -56,3 +56,22 @@ Commons_category: Rainbows
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rainbow) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rainbow](/_Standards/Earth/Climate/Weather/Rainbow.md) 
+
+### #is_/same_as :: [Rainbow.public](/_public/Earth/Climate/Weather/Rainbow.public.md) 
+
+### #is_/same_as :: [Rainbow.internal](/_internal/Earth/Climate/Weather/Rainbow.internal.md) 
+
+### #is_/same_as :: [Rainbow.protect](/_protect/Earth/Climate/Weather/Rainbow.protect.md) 
+
+### #is_/same_as :: [Rainbow.private](/_private/Earth/Climate/Weather/Rainbow.private.md) 
+
+### #is_/same_as :: [Rainbow.personal](/_personal/Earth/Climate/Weather/Rainbow.personal.md) 
+
+### #is_/same_as :: [Rainbow.secret](/_secret/Earth/Climate/Weather/Rainbow.secret.md)
+

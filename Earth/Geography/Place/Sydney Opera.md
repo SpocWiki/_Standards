@@ -100,3 +100,22 @@ Commons_gallery: Sydney Opera House
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sydney%20Opera%20House) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sydney Opera](/_Standards/Earth/Geography/Place/Sydney Opera.md) 
+
+### #is_/same_as :: [Sydney Opera.public](/_public/Earth/Geography/Place/Sydney Opera.public.md) 
+
+### #is_/same_as :: [Sydney Opera.internal](/_internal/Earth/Geography/Place/Sydney Opera.internal.md) 
+
+### #is_/same_as :: [Sydney Opera.protect](/_protect/Earth/Geography/Place/Sydney Opera.protect.md) 
+
+### #is_/same_as :: [Sydney Opera.private](/_private/Earth/Geography/Place/Sydney Opera.private.md) 
+
+### #is_/same_as :: [Sydney Opera.personal](/_personal/Earth/Geography/Place/Sydney Opera.personal.md) 
+
+### #is_/same_as :: [Sydney Opera.secret](/_secret/Earth/Geography/Place/Sydney Opera.secret.md)
+

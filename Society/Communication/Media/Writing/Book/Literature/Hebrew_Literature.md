@@ -40,3 +40,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/EVRESKAYA_LITERATU
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hebrew%20literature) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hebrew_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.md) 
+
+### #is_/same_as :: [Hebrew_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.public.md) 
+
+### #is_/same_as :: [Hebrew_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.internal.md) 
+
+### #is_/same_as :: [Hebrew_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.protect.md) 
+
+### #is_/same_as :: [Hebrew_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.private.md) 
+
+### #is_/same_as :: [Hebrew_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.personal.md) 
+
+### #is_/same_as :: [Hebrew_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.secret.md)
+

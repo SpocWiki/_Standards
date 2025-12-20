@@ -52,3 +52,22 @@ Baidu_Tieba_name: 儿童文学
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Children's%20literature) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Children's_Literature](/_Standards/Society/Communication/Genre/Children's_Literature.md) 
+
+### #is_/same_as :: [Children's_Literature.public](/_public/Society/Communication/Genre/Children's_Literature.public.md) 
+
+### #is_/same_as :: [Children's_Literature.internal](/_internal/Society/Communication/Genre/Children's_Literature.internal.md) 
+
+### #is_/same_as :: [Children's_Literature.protect](/_protect/Society/Communication/Genre/Children's_Literature.protect.md) 
+
+### #is_/same_as :: [Children's_Literature.private](/_private/Society/Communication/Genre/Children's_Literature.private.md) 
+
+### #is_/same_as :: [Children's_Literature.personal](/_personal/Society/Communication/Genre/Children's_Literature.personal.md) 
+
+### #is_/same_as :: [Children's_Literature.secret](/_secret/Society/Communication/Genre/Children's_Literature.secret.md)
+

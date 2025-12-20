@@ -57,3 +57,22 @@ inception: 1937-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guernica%20(Picasso)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guernica(Picasso)](/_Standards/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).md) 
+
+### #is_/same_as :: [Guernica(Picasso).public](/_public/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).public.md) 
+
+### #is_/same_as :: [Guernica(Picasso).internal](/_internal/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).internal.md) 
+
+### #is_/same_as :: [Guernica(Picasso).protect](/_protect/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).protect.md) 
+
+### #is_/same_as :: [Guernica(Picasso).private](/_private/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).private.md) 
+
+### #is_/same_as :: [Guernica(Picasso).personal](/_personal/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).personal.md) 
+
+### #is_/same_as :: [Guernica(Picasso).secret](/_secret/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).secret.md)
+

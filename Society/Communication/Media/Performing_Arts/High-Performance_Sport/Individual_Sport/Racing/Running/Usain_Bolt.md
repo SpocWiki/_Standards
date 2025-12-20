@@ -122,3 +122,22 @@ date_of_birth: 1986-08-21T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Usain%20Bolt)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Usain_Bolt](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Usain_Bolt.md) 
+
+### #is_/same_as :: [Usain_Bolt.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Usain_Bolt.public.md) 
+
+### #is_/same_as :: [Usain_Bolt.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Usain_Bolt.internal.md) 
+
+### #is_/same_as :: [Usain_Bolt.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Usain_Bolt.protect.md) 
+
+### #is_/same_as :: [Usain_Bolt.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Usain_Bolt.private.md) 
+
+### #is_/same_as :: [Usain_Bolt.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Usain_Bolt.personal.md) 
+
+### #is_/same_as :: [Usain_Bolt.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Usain_Bolt.secret.md)
+

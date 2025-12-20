@@ -45,3 +45,22 @@ IEV_number: 102-05-12
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Field%20(physics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Field(Physics)](/_Standards/Science/Physics/Field(Physics).md) 
+
+### #is_/same_as :: [Field(Physics).public](/_public/Science/Physics/Field(Physics).public.md) 
+
+### #is_/same_as :: [Field(Physics).internal](/_internal/Science/Physics/Field(Physics).internal.md) 
+
+### #is_/same_as :: [Field(Physics).protect](/_protect/Science/Physics/Field(Physics).protect.md) 
+
+### #is_/same_as :: [Field(Physics).private](/_private/Science/Physics/Field(Physics).private.md) 
+
+### #is_/same_as :: [Field(Physics).personal](/_personal/Science/Physics/Field(Physics).personal.md) 
+
+### #is_/same_as :: [Field(Physics).secret](/_secret/Science/Physics/Field(Physics).secret.md)
+

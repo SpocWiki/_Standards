@@ -102,3 +102,22 @@ P8189: "987007283907105171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coin](/_Standards/Society/Economics/Money/Coin.md) 
+
+### #is_/same_as :: [Coin.public](/_public/Society/Economics/Money/Coin.public.md) 
+
+### #is_/same_as :: [Coin.internal](/_internal/Society/Economics/Money/Coin.internal.md) 
+
+### #is_/same_as :: [Coin.protect](/_protect/Society/Economics/Money/Coin.protect.md) 
+
+### #is_/same_as :: [Coin.private](/_private/Society/Economics/Money/Coin.private.md) 
+
+### #is_/same_as :: [Coin.personal](/_personal/Society/Economics/Money/Coin.personal.md) 
+
+### #is_/same_as :: [Coin.secret](/_secret/Society/Economics/Money/Coin.secret.md)
+

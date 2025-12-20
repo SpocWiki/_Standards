@@ -40,3 +40,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spear)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spear](/_Standards/Society/Military/Military_Engineering/Weapon/Spear.md) 
+
+### #is_/same_as :: [Spear.public](/_public/Society/Military/Military_Engineering/Weapon/Spear.public.md) 
+
+### #is_/same_as :: [Spear.internal](/_internal/Society/Military/Military_Engineering/Weapon/Spear.internal.md) 
+
+### #is_/same_as :: [Spear.protect](/_protect/Society/Military/Military_Engineering/Weapon/Spear.protect.md) 
+
+### #is_/same_as :: [Spear.private](/_private/Society/Military/Military_Engineering/Weapon/Spear.private.md) 
+
+### #is_/same_as :: [Spear.personal](/_personal/Society/Military/Military_Engineering/Weapon/Spear.personal.md) 
+
+### #is_/same_as :: [Spear.secret](/_secret/Society/Military/Military_Engineering/Weapon/Spear.secret.md)
+

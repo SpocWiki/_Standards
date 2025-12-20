@@ -154,3 +154,22 @@ ISNI: "0000000400156574"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Washington%20Irving) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Irving,Washington](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.md) 
+
+### #is_/same_as :: [Irving,Washington.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.public.md) 
+
+### #is_/same_as :: [Irving,Washington.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.internal.md) 
+
+### #is_/same_as :: [Irving,Washington.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.protect.md) 
+
+### #is_/same_as :: [Irving,Washington.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.private.md) 
+
+### #is_/same_as :: [Irving,Washington.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.personal.md) 
+
+### #is_/same_as :: [Irving,Washington.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Irving,Washington.secret.md)
+

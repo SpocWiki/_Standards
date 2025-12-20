@@ -64,3 +64,22 @@ IPTC_NewsCode: mediatopic/20000621
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Public%20policy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Public_Policy](/_Standards/Society/Anthropology/Sociology/Political_Science/Public_Policy.md) 
+
+### #is_/same_as :: [Public_Policy.public](/_public/Society/Anthropology/Sociology/Political_Science/Public_Policy.public.md) 
+
+### #is_/same_as :: [Public_Policy.internal](/_internal/Society/Anthropology/Sociology/Political_Science/Public_Policy.internal.md) 
+
+### #is_/same_as :: [Public_Policy.protect](/_protect/Society/Anthropology/Sociology/Political_Science/Public_Policy.protect.md) 
+
+### #is_/same_as :: [Public_Policy.private](/_private/Society/Anthropology/Sociology/Political_Science/Public_Policy.private.md) 
+
+### #is_/same_as :: [Public_Policy.personal](/_personal/Society/Anthropology/Sociology/Political_Science/Public_Policy.personal.md) 
+
+### #is_/same_as :: [Public_Policy.secret](/_secret/Society/Anthropology/Sociology/Political_Science/Public_Policy.secret.md)
+

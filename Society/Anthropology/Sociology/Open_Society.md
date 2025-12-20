@@ -40,3 +40,22 @@ Commons_category: Open Society
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Open%20society) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Open_Society](/_Standards/Society/Anthropology/Sociology/Open_Society.md) 
+
+### #is_/same_as :: [Open_Society.public](/_public/Society/Anthropology/Sociology/Open_Society.public.md) 
+
+### #is_/same_as :: [Open_Society.internal](/_internal/Society/Anthropology/Sociology/Open_Society.internal.md) 
+
+### #is_/same_as :: [Open_Society.protect](/_protect/Society/Anthropology/Sociology/Open_Society.protect.md) 
+
+### #is_/same_as :: [Open_Society.private](/_private/Society/Anthropology/Sociology/Open_Society.private.md) 
+
+### #is_/same_as :: [Open_Society.personal](/_personal/Society/Anthropology/Sociology/Open_Society.personal.md) 
+
+### #is_/same_as :: [Open_Society.secret](/_secret/Society/Anthropology/Sociology/Open_Society.secret.md)
+

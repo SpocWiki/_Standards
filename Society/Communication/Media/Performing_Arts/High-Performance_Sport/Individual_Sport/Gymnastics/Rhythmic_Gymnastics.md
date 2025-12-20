@@ -57,3 +57,22 @@ Commons_category: Rhythmic gymnastics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhythmic%20gymnastics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rhythmic_Gymnastics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.md) 
+
+### #is_/same_as :: [Rhythmic_Gymnastics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.public.md) 
+
+### #is_/same_as :: [Rhythmic_Gymnastics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.internal.md) 
+
+### #is_/same_as :: [Rhythmic_Gymnastics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.protect.md) 
+
+### #is_/same_as :: [Rhythmic_Gymnastics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.private.md) 
+
+### #is_/same_as :: [Rhythmic_Gymnastics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.personal.md) 
+
+### #is_/same_as :: [Rhythmic_Gymnastics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.secret.md)
+

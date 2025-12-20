@@ -187,3 +187,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/BOL.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pain) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pain](/_Standards/bio/Psychology/Affect/Emotion/Pain.md) 
+
+### #is_/same_as :: [Pain.public](/_public/bio/Psychology/Affect/Emotion/Pain.public.md) 
+
+### #is_/same_as :: [Pain.internal](/_internal/bio/Psychology/Affect/Emotion/Pain.internal.md) 
+
+### #is_/same_as :: [Pain.protect](/_protect/bio/Psychology/Affect/Emotion/Pain.protect.md) 
+
+### #is_/same_as :: [Pain.private](/_private/bio/Psychology/Affect/Emotion/Pain.private.md) 
+
+### #is_/same_as :: [Pain.personal](/_personal/bio/Psychology/Affect/Emotion/Pain.personal.md) 
+
+### #is_/same_as :: [Pain.secret](/_secret/bio/Psychology/Affect/Emotion/Pain.secret.md)
+

@@ -58,3 +58,22 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Metalmania%20%28ISRC%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heavy%20metal%20music) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heavy_Metal](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.md) 
+
+### #is_/same_as :: [Heavy_Metal.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.public.md) 
+
+### #is_/same_as :: [Heavy_Metal.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.internal.md) 
+
+### #is_/same_as :: [Heavy_Metal.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.protect.md) 
+
+### #is_/same_as :: [Heavy_Metal.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.private.md) 
+
+### #is_/same_as :: [Heavy_Metal.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.personal.md) 
+
+### #is_/same_as :: [Heavy_Metal.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Heavy_Metal.secret.md)
+

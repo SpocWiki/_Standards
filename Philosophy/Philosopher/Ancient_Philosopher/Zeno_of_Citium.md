@@ -82,3 +82,22 @@ ISNI: "0000000381760310"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zeno%20of%20Citium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zeno_of_Citium](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.md) 
+
+### #is_/same_as :: [Zeno_of_Citium.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.public.md) 
+
+### #is_/same_as :: [Zeno_of_Citium.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.internal.md) 
+
+### #is_/same_as :: [Zeno_of_Citium.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.protect.md) 
+
+### #is_/same_as :: [Zeno_of_Citium.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.private.md) 
+
+### #is_/same_as :: [Zeno_of_Citium.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.personal.md) 
+
+### #is_/same_as :: [Zeno_of_Citium.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Zeno_of_Citium.secret.md)
+

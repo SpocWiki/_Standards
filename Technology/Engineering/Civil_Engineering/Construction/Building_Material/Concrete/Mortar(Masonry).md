@@ -58,3 +58,22 @@ Commons_category: Mortar (masonry)
 > [Wikipedia](https://en.wikipedia.org/wiki/Mortar%20(masonry)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mortar(Masonry)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).md) 
+
+### #is_/same_as :: [Mortar(Masonry).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).public.md) 
+
+### #is_/same_as :: [Mortar(Masonry).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).internal.md) 
+
+### #is_/same_as :: [Mortar(Masonry).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).protect.md) 
+
+### #is_/same_as :: [Mortar(Masonry).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).private.md) 
+
+### #is_/same_as :: [Mortar(Masonry).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).personal.md) 
+
+### #is_/same_as :: [Mortar(Masonry).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Mortar(Masonry).secret.md)
+

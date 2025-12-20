@@ -31,3 +31,22 @@ has_id_wikidata: Q184996
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dielectric) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dielectric](/_Standards/Science/Physics/Electricity/Dielectric.md) 
+
+### #is_/same_as :: [Dielectric.public](/_public/Science/Physics/Electricity/Dielectric.public.md) 
+
+### #is_/same_as :: [Dielectric.internal](/_internal/Science/Physics/Electricity/Dielectric.internal.md) 
+
+### #is_/same_as :: [Dielectric.protect](/_protect/Science/Physics/Electricity/Dielectric.protect.md) 
+
+### #is_/same_as :: [Dielectric.private](/_private/Science/Physics/Electricity/Dielectric.private.md) 
+
+### #is_/same_as :: [Dielectric.personal](/_personal/Science/Physics/Electricity/Dielectric.personal.md) 
+
+### #is_/same_as :: [Dielectric.secret](/_secret/Science/Physics/Electricity/Dielectric.secret.md)
+

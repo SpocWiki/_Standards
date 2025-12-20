@@ -143,3 +143,22 @@ ISNI: "0000000121194025"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Santiago%20Ram%C3%B3n%20y%20Cajal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Santiago_Ramón_y_Cajal](/_Standards/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.md) 
+
+### #is_/same_as :: [Santiago_Ramón_y_Cajal.public](/_public/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.public.md) 
+
+### #is_/same_as :: [Santiago_Ramón_y_Cajal.internal](/_internal/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.internal.md) 
+
+### #is_/same_as :: [Santiago_Ramón_y_Cajal.protect](/_protect/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.protect.md) 
+
+### #is_/same_as :: [Santiago_Ramón_y_Cajal.private](/_private/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.private.md) 
+
+### #is_/same_as :: [Santiago_Ramón_y_Cajal.personal](/_personal/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.personal.md) 
+
+### #is_/same_as :: [Santiago_Ramón_y_Cajal.secret](/_secret/Science/Scientist/Modern_Scientists/Santiago_Ramón_y_Cajal.secret.md)
+

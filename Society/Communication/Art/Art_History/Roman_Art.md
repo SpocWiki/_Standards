@@ -43,3 +43,22 @@ Commons_category: Ancient Roman art
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roman_Art](/_Standards/Society/Communication/Art/Art_History/Roman_Art.md) 
+
+### #is_/same_as :: [Roman_Art.public](/_public/Society/Communication/Art/Art_History/Roman_Art.public.md) 
+
+### #is_/same_as :: [Roman_Art.internal](/_internal/Society/Communication/Art/Art_History/Roman_Art.internal.md) 
+
+### #is_/same_as :: [Roman_Art.protect](/_protect/Society/Communication/Art/Art_History/Roman_Art.protect.md) 
+
+### #is_/same_as :: [Roman_Art.private](/_private/Society/Communication/Art/Art_History/Roman_Art.private.md) 
+
+### #is_/same_as :: [Roman_Art.personal](/_personal/Society/Communication/Art/Art_History/Roman_Art.personal.md) 
+
+### #is_/same_as :: [Roman_Art.secret](/_secret/Society/Communication/Art/Art_History/Roman_Art.secret.md)
+

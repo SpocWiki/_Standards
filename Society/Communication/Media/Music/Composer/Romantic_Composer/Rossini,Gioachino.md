@@ -123,3 +123,22 @@ Libris_URI: ljx01rd432x86fs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gioachino%20Rossini) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rossini,Gioachino](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.md) 
+
+### #is_/same_as :: [Rossini,Gioachino.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.public.md) 
+
+### #is_/same_as :: [Rossini,Gioachino.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.internal.md) 
+
+### #is_/same_as :: [Rossini,Gioachino.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.protect.md) 
+
+### #is_/same_as :: [Rossini,Gioachino.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.private.md) 
+
+### #is_/same_as :: [Rossini,Gioachino.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.personal.md) 
+
+### #is_/same_as :: [Rossini,Gioachino.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Rossini,Gioachino.secret.md)
+

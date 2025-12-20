@@ -23,3 +23,22 @@ has_id_wikidata: Q274639
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89lie%20Cartan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Élie_Cartan](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.md) 
+
+### #is_/same_as :: [Élie_Cartan.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.public.md) 
+
+### #is_/same_as :: [Élie_Cartan.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.internal.md) 
+
+### #is_/same_as :: [Élie_Cartan.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.protect.md) 
+
+### #is_/same_as :: [Élie_Cartan.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.private.md) 
+
+### #is_/same_as :: [Élie_Cartan.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.personal.md) 
+
+### #is_/same_as :: [Élie_Cartan.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.secret.md)
+

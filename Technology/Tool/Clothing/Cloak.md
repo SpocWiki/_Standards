@@ -33,3 +33,22 @@ Commons_category: Cloaks
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cloak) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cloak](/_Standards/Technology/Tool/Clothing/Cloak.md) 
+
+### #is_/same_as :: [Cloak.public](/_public/Technology/Tool/Clothing/Cloak.public.md) 
+
+### #is_/same_as :: [Cloak.internal](/_internal/Technology/Tool/Clothing/Cloak.internal.md) 
+
+### #is_/same_as :: [Cloak.protect](/_protect/Technology/Tool/Clothing/Cloak.protect.md) 
+
+### #is_/same_as :: [Cloak.private](/_private/Technology/Tool/Clothing/Cloak.private.md) 
+
+### #is_/same_as :: [Cloak.personal](/_personal/Technology/Tool/Clothing/Cloak.personal.md) 
+
+### #is_/same_as :: [Cloak.secret](/_secret/Technology/Tool/Clothing/Cloak.secret.md)
+

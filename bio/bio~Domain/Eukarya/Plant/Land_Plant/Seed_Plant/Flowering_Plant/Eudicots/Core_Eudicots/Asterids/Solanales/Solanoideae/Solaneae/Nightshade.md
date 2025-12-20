@@ -98,3 +98,22 @@ NBN_System_Key: NHMSYS0000463743
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solanum) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nightshade](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.md) 
+
+### #is_/same_as :: [Nightshade.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.public.md) 
+
+### #is_/same_as :: [Nightshade.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.internal.md) 
+
+### #is_/same_as :: [Nightshade.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.protect.md) 
+
+### #is_/same_as :: [Nightshade.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.private.md) 
+
+### #is_/same_as :: [Nightshade.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.personal.md) 
+
+### #is_/same_as :: [Nightshade.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade.secret.md)
+

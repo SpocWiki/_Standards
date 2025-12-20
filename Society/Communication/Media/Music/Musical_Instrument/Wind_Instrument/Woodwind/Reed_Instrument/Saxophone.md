@@ -58,3 +58,22 @@ Baidu_Tieba_name: 萨克斯
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saxophone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saxophone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Saxophone.md) 
+
+### #is_/same_as :: [Saxophone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Saxophone.public.md) 
+
+### #is_/same_as :: [Saxophone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Saxophone.internal.md) 
+
+### #is_/same_as :: [Saxophone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Saxophone.protect.md) 
+
+### #is_/same_as :: [Saxophone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Saxophone.private.md) 
+
+### #is_/same_as :: [Saxophone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Saxophone.personal.md) 
+
+### #is_/same_as :: [Saxophone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Saxophone.secret.md)
+

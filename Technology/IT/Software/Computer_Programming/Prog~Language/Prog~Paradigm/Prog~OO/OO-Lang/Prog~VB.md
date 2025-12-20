@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Visual-Basic
 ---
@@ -41,4 +41,23 @@ col: 2
 briefMax: 128
 noteOnly: true
 ```
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~VB](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB.md) 
+
+### #is_/same_as :: [Prog~VB.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB.public.md) 
+
+### #is_/same_as :: [Prog~VB.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB.internal.md) 
+
+### #is_/same_as :: [Prog~VB.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB.protect.md) 
+
+### #is_/same_as :: [Prog~VB.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB.private.md) 
+
+### #is_/same_as :: [Prog~VB.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB.personal.md) 
+
+### #is_/same_as :: [Prog~VB.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~VB.secret.md)
 

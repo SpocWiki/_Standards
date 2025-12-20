@@ -126,17 +126,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parthenon](Parthenon.md) 
+### #is_/same_as :: [Parthenon](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.md) 
 
-### #is_/same_as :: [Parthenon.public](/_public/Technology/Construction/Architecture/Parthenon.public.md) 
+### #is_/same_as :: [Parthenon.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.public.md) 
 
-### #is_/same_as :: [Parthenon.internal](/_internal/Technology/Construction/Architecture/Parthenon.internal.md) 
+### #is_/same_as :: [Parthenon.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.internal.md) 
 
-### #is_/same_as :: [Parthenon.protect](/_protect/Technology/Construction/Architecture/Parthenon.protect.md) 
+### #is_/same_as :: [Parthenon.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.protect.md) 
 
-### #is_/same_as :: [Parthenon.private](/_private/Technology/Construction/Architecture/Parthenon.private.md) 
+### #is_/same_as :: [Parthenon.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.private.md) 
 
-### #is_/same_as :: [Parthenon.personal](/_personal/Technology/Construction/Architecture/Parthenon.personal.md) 
+### #is_/same_as :: [Parthenon.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.personal.md) 
 
-### #is_/same_as :: [Parthenon.secret](/_secret/Technology/Construction/Architecture/Parthenon.secret.md)
+### #is_/same_as :: [Parthenon.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.secret.md)
 

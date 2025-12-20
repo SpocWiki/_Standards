@@ -112,17 +112,17 @@ X_Twitter_username: icrc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent](Red_Cross_and_Red_Crescent.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.md) 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.public](/_public/International/NGO/Red_Cross_and_Red_Crescent.public.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.public.md) 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.internal](/_internal/International/NGO/Red_Cross_and_Red_Crescent.internal.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.internal.md) 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.protect](/_protect/International/NGO/Red_Cross_and_Red_Crescent.protect.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.protect.md) 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.private](/_private/International/NGO/Red_Cross_and_Red_Crescent.private.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.private.md) 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.personal](/_personal/International/NGO/Red_Cross_and_Red_Crescent.personal.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.personal.md) 
 
-### #is_/same_as :: [Red_Cross_and_Red_Crescent.secret](/_secret/International/NGO/Red_Cross_and_Red_Crescent.secret.md)
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Red_Cross_and_Red_Crescent.secret.md)
 

@@ -35,3 +35,22 @@ Commons_category: Physical layer
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OSI~1-Physical](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.md) 
+
+### #is_/same_as :: [OSI~1-Physical.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.public.md) 
+
+### #is_/same_as :: [OSI~1-Physical.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.internal.md) 
+
+### #is_/same_as :: [OSI~1-Physical.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.protect.md) 
+
+### #is_/same_as :: [OSI~1-Physical.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.private.md) 
+
+### #is_/same_as :: [OSI~1-Physical.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.personal.md) 
+
+### #is_/same_as :: [OSI~1-Physical.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.secret.md)
+

@@ -38,3 +38,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ballroom%20dance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ballroom_Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.md) 
+
+### #is_/same_as :: [Ballroom_Dance.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.public.md) 
+
+### #is_/same_as :: [Ballroom_Dance.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.internal.md) 
+
+### #is_/same_as :: [Ballroom_Dance.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.protect.md) 
+
+### #is_/same_as :: [Ballroom_Dance.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.private.md) 
+
+### #is_/same_as :: [Ballroom_Dance.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.personal.md) 
+
+### #is_/same_as :: [Ballroom_Dance.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance.secret.md)
+

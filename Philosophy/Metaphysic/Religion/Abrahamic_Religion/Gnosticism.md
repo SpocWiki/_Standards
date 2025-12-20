@@ -104,3 +104,22 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/GNOSTITSIZM.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gnosticism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gnosticism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Gnosticism.md) 
+
+### #is_/same_as :: [Gnosticism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Gnosticism.public.md) 
+
+### #is_/same_as :: [Gnosticism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Gnosticism.internal.md) 
+
+### #is_/same_as :: [Gnosticism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Gnosticism.protect.md) 
+
+### #is_/same_as :: [Gnosticism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Gnosticism.private.md) 
+
+### #is_/same_as :: [Gnosticism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Gnosticism.personal.md) 
+
+### #is_/same_as :: [Gnosticism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Gnosticism.secret.md)
+

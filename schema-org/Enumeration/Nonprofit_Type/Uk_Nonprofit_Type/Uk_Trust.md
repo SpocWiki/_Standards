@@ -42,17 +42,17 @@ UKTrust: Non-profit type referring to a UK trust.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uk_Trust](Uk_Trust.md) 
+### #is_/same_as :: [Uk_Trust](/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.md) 
 
-### #is_/same_as :: [uk_trust.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.public.md) 
+### #is_/same_as :: [Uk_Trust.public](/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.public.md) 
 
-### #is_/same_as :: [uk_trust.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.internal.md) 
+### #is_/same_as :: [Uk_Trust.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.internal.md) 
 
-### #is_/same_as :: [uk_trust.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.protect.md) 
+### #is_/same_as :: [Uk_Trust.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.protect.md) 
 
-### #is_/same_as :: [uk_trust.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.private.md) 
+### #is_/same_as :: [Uk_Trust.private](/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.private.md) 
 
-### #is_/same_as :: [uk_trust.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.personal.md) 
+### #is_/same_as :: [Uk_Trust.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.personal.md) 
 
-### #is_/same_as :: [uk_trust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.secret.md)
+### #is_/same_as :: [Uk_Trust.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.secret.md)
 

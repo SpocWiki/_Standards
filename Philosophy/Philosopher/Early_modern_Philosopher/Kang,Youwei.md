@@ -118,3 +118,22 @@ CYT_CCS: AC000207483
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kang%20Youwei) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kang,Youwei](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.md) 
+
+### #is_/same_as :: [Kang,Youwei.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.public.md) 
+
+### #is_/same_as :: [Kang,Youwei.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.internal.md) 
+
+### #is_/same_as :: [Kang,Youwei.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.protect.md) 
+
+### #is_/same_as :: [Kang,Youwei.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.private.md) 
+
+### #is_/same_as :: [Kang,Youwei.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.personal.md) 
+
+### #is_/same_as :: [Kang,Youwei.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.secret.md)
+

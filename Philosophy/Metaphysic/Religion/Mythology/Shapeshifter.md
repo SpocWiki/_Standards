@@ -35,3 +35,22 @@ Commons_category: Shapeshifting
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shapeshifting) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shapeshifter](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.md) 
+
+### #is_/same_as :: [Shapeshifter.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.public.md) 
+
+### #is_/same_as :: [Shapeshifter.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.internal.md) 
+
+### #is_/same_as :: [Shapeshifter.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.protect.md) 
+
+### #is_/same_as :: [Shapeshifter.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.private.md) 
+
+### #is_/same_as :: [Shapeshifter.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.personal.md) 
+
+### #is_/same_as :: [Shapeshifter.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Shapeshifter.secret.md)
+

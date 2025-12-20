@@ -33,3 +33,22 @@ These are notoriously difficult, because
 
 The best solution to this is a generic Scheduling Solution like [Hangfire](https://www.hangfire.io/). 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Event(computing)](/_Standards/schema-org/Class/is_a_/Event(computing).md) 
+
+### #is_/same_as :: [Event(computing).public](/_public/schema-org/Class/is_a_/Event(computing).public.md) 
+
+### #is_/same_as :: [Event(computing).internal](/_internal/schema-org/Class/is_a_/Event(computing).internal.md) 
+
+### #is_/same_as :: [Event(computing).protect](/_protect/schema-org/Class/is_a_/Event(computing).protect.md) 
+
+### #is_/same_as :: [Event(computing).private](/_private/schema-org/Class/is_a_/Event(computing).private.md) 
+
+### #is_/same_as :: [Event(computing).personal](/_personal/schema-org/Class/is_a_/Event(computing).personal.md) 
+
+### #is_/same_as :: [Event(computing).secret](/_secret/schema-org/Class/is_a_/Event(computing).secret.md)
+

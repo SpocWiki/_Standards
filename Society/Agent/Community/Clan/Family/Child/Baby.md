@@ -77,3 +77,22 @@ female_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Infant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Baby](/_Standards/Society/Agent/Community/Clan/Family/Child/Baby.md) 
+
+### #is_/same_as :: [Baby.public](/_public/Society/Agent/Community/Clan/Family/Child/Baby.public.md) 
+
+### #is_/same_as :: [Baby.internal](/_internal/Society/Agent/Community/Clan/Family/Child/Baby.internal.md) 
+
+### #is_/same_as :: [Baby.protect](/_protect/Society/Agent/Community/Clan/Family/Child/Baby.protect.md) 
+
+### #is_/same_as :: [Baby.private](/_private/Society/Agent/Community/Clan/Family/Child/Baby.private.md) 
+
+### #is_/same_as :: [Baby.personal](/_personal/Society/Agent/Community/Clan/Family/Child/Baby.personal.md) 
+
+### #is_/same_as :: [Baby.secret](/_secret/Society/Agent/Community/Clan/Family/Child/Baby.secret.md)
+

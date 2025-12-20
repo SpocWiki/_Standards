@@ -152,3 +152,22 @@ Wolfram_Language_entity_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Daugava) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Daugava](/_Standards/Earth/Continent/Europe/Europe~East/Daugava.md) 
+
+### #is_/same_as :: [Daugava.public](/_public/Earth/Continent/Europe/Europe~East/Daugava.public.md) 
+
+### #is_/same_as :: [Daugava.internal](/_internal/Earth/Continent/Europe/Europe~East/Daugava.internal.md) 
+
+### #is_/same_as :: [Daugava.protect](/_protect/Earth/Continent/Europe/Europe~East/Daugava.protect.md) 
+
+### #is_/same_as :: [Daugava.private](/_private/Earth/Continent/Europe/Europe~East/Daugava.private.md) 
+
+### #is_/same_as :: [Daugava.personal](/_personal/Earth/Continent/Europe/Europe~East/Daugava.personal.md) 
+
+### #is_/same_as :: [Daugava.secret](/_secret/Earth/Continent/Europe/Europe~East/Daugava.secret.md)
+

@@ -36,3 +36,22 @@ has_id_wikidata: Q141488
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Graph%20(discrete%20mathematics)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Graph(Math)](/_Standards/Mathematics/Graph_Theory/Graph(Math).md) 
+
+### #is_/same_as :: [Graph(Math).public](/_public/Mathematics/Graph_Theory/Graph(Math).public.md) 
+
+### #is_/same_as :: [Graph(Math).internal](/_internal/Mathematics/Graph_Theory/Graph(Math).internal.md) 
+
+### #is_/same_as :: [Graph(Math).protect](/_protect/Mathematics/Graph_Theory/Graph(Math).protect.md) 
+
+### #is_/same_as :: [Graph(Math).private](/_private/Mathematics/Graph_Theory/Graph(Math).private.md) 
+
+### #is_/same_as :: [Graph(Math).personal](/_personal/Mathematics/Graph_Theory/Graph(Math).personal.md) 
+
+### #is_/same_as :: [Graph(Math).secret](/_secret/Mathematics/Graph_Theory/Graph(Math).secret.md)
+

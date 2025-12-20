@@ -32,3 +32,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Braveheart) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Braveheart](/_Standards/Society/Communication/Media/Movie/Braveheart.md) 
+
+### #is_/same_as :: [Braveheart.public](/_public/Society/Communication/Media/Movie/Braveheart.public.md) 
+
+### #is_/same_as :: [Braveheart.internal](/_internal/Society/Communication/Media/Movie/Braveheart.internal.md) 
+
+### #is_/same_as :: [Braveheart.protect](/_protect/Society/Communication/Media/Movie/Braveheart.protect.md) 
+
+### #is_/same_as :: [Braveheart.private](/_private/Society/Communication/Media/Movie/Braveheart.private.md) 
+
+### #is_/same_as :: [Braveheart.personal](/_personal/Society/Communication/Media/Movie/Braveheart.personal.md) 
+
+### #is_/same_as :: [Braveheart.secret](/_secret/Society/Communication/Media/Movie/Braveheart.secret.md)
+

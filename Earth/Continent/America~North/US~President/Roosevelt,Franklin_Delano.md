@@ -252,3 +252,22 @@ Both also have a common Ancestor:
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roosevelt,Franklin_Delano](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.md) 
+
+### #is_/same_as :: [Roosevelt,Franklin_Delano.public](/_public/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.public.md) 
+
+### #is_/same_as :: [Roosevelt,Franklin_Delano.internal](/_internal/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.internal.md) 
+
+### #is_/same_as :: [Roosevelt,Franklin_Delano.protect](/_protect/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.protect.md) 
+
+### #is_/same_as :: [Roosevelt,Franklin_Delano.private](/_private/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.private.md) 
+
+### #is_/same_as :: [Roosevelt,Franklin_Delano.personal](/_personal/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.personal.md) 
+
+### #is_/same_as :: [Roosevelt,Franklin_Delano.secret](/_secret/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.secret.md)
+

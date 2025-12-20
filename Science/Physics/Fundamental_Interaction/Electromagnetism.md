@@ -53,3 +53,22 @@ IPTC_NewsCode: mediatopic/20000732
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electromagnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism.md) 
+
+### #is_/same_as :: [Electromagnetism.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism.public.md) 
+
+### #is_/same_as :: [Electromagnetism.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism.internal.md) 
+
+### #is_/same_as :: [Electromagnetism.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism.protect.md) 
+
+### #is_/same_as :: [Electromagnetism.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism.private.md) 
+
+### #is_/same_as :: [Electromagnetism.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism.personal.md) 
+
+### #is_/same_as :: [Electromagnetism.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism.secret.md)
+

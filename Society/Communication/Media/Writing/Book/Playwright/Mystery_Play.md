@@ -25,3 +25,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/MISTERIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mystery%20play) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mystery_Play](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.md) 
+
+### #is_/same_as :: [Mystery_Play.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.public.md) 
+
+### #is_/same_as :: [Mystery_Play.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.internal.md) 
+
+### #is_/same_as :: [Mystery_Play.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.protect.md) 
+
+### #is_/same_as :: [Mystery_Play.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.private.md) 
+
+### #is_/same_as :: [Mystery_Play.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.personal.md) 
+
+### #is_/same_as :: [Mystery_Play.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.secret.md)
+

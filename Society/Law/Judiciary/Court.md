@@ -60,3 +60,22 @@ IPTC_NewsCode: mediatopic/20000107
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Court) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Court](/_Standards/Society/Law/Judiciary/Court.md) 
+
+### #is_/same_as :: [Court.public](/_public/Society/Law/Judiciary/Court.public.md) 
+
+### #is_/same_as :: [Court.internal](/_internal/Society/Law/Judiciary/Court.internal.md) 
+
+### #is_/same_as :: [Court.protect](/_protect/Society/Law/Judiciary/Court.protect.md) 
+
+### #is_/same_as :: [Court.private](/_private/Society/Law/Judiciary/Court.private.md) 
+
+### #is_/same_as :: [Court.personal](/_personal/Society/Law/Judiciary/Court.personal.md) 
+
+### #is_/same_as :: [Court.secret](/_secret/Society/Law/Judiciary/Court.secret.md)
+

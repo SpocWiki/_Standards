@@ -42,3 +42,21 @@ Commons_category: Great Turkish War
 > The war largely overlapped with the Nine Years' War (1688–1697), which took up the vast majority of the Habsburgs' attention while it was active. In 1695, for instance, the Holy Roman Empire states had 280,000 troops in the field, with England, the Dutch Republic, and Spain contributing another 156,000, specifically to the conflict against France. Of those 280,000, only 74,000, or about one quarter, were positioned against the Turks; the rest were fighting France. Overall, from 1683 to 1699, the Imperial States had on average 88,100 men fighting the Turks, while from 1688 to 1697, they had on average 127,410 fighting the French.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Turkish%20War)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1683-Great_Turkish_War–1699](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.md) 
+
+### #is_/same_as :: [1683-Great_Turkish_War–1699.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.public.md) 
+
+### #is_/same_as :: [1683-Great_Turkish_War–1699.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.internal.md) 
+
+### #is_/same_as :: [1683-Great_Turkish_War–1699.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.protect.md) 
+
+### #is_/same_as :: [1683-Great_Turkish_War–1699.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.private.md) 
+
+### #is_/same_as :: [1683-Great_Turkish_War–1699.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.personal.md) 
+
+### #is_/same_as :: [1683-Great_Turkish_War–1699.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.secret.md)
+

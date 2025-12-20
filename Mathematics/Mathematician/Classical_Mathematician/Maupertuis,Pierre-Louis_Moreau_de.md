@@ -104,3 +104,22 @@ Libris_URI: zw9cdfph4tx0msv
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20Louis%20Maupertuis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maupertuis,Pierre-Louis_Moreau_de](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Maupertuis,Pierre-Louis_Moreau_de.md) 
+
+### #is_/same_as :: [Maupertuis,Pierre-Louis_Moreau_de.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Maupertuis,Pierre-Louis_Moreau_de.public.md) 
+
+### #is_/same_as :: [Maupertuis,Pierre-Louis_Moreau_de.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Maupertuis,Pierre-Louis_Moreau_de.internal.md) 
+
+### #is_/same_as :: [Maupertuis,Pierre-Louis_Moreau_de.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Maupertuis,Pierre-Louis_Moreau_de.protect.md) 
+
+### #is_/same_as :: [Maupertuis,Pierre-Louis_Moreau_de.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Maupertuis,Pierre-Louis_Moreau_de.private.md) 
+
+### #is_/same_as :: [Maupertuis,Pierre-Louis_Moreau_de.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Maupertuis,Pierre-Louis_Moreau_de.personal.md) 
+
+### #is_/same_as :: [Maupertuis,Pierre-Louis_Moreau_de.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Maupertuis,Pierre-Louis_Moreau_de.secret.md)
+

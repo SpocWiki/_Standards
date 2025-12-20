@@ -38,3 +38,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/IKEA) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IKEA](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.md) 
+
+### #is_/same_as :: [IKEA.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.public.md) 
+
+### #is_/same_as :: [IKEA.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.internal.md) 
+
+### #is_/same_as :: [IKEA.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.protect.md) 
+
+### #is_/same_as :: [IKEA.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.private.md) 
+
+### #is_/same_as :: [IKEA.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.personal.md) 
+
+### #is_/same_as :: [IKEA.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.secret.md)
+

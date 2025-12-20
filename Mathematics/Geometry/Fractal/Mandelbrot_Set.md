@@ -59,3 +59,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot%20set) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mandelbrot_Set](/_Standards/Mathematics/Geometry/Fractal/Mandelbrot_Set.md) 
+
+### #is_/same_as :: [Mandelbrot_Set.public](/_public/Mathematics/Geometry/Fractal/Mandelbrot_Set.public.md) 
+
+### #is_/same_as :: [Mandelbrot_Set.internal](/_internal/Mathematics/Geometry/Fractal/Mandelbrot_Set.internal.md) 
+
+### #is_/same_as :: [Mandelbrot_Set.protect](/_protect/Mathematics/Geometry/Fractal/Mandelbrot_Set.protect.md) 
+
+### #is_/same_as :: [Mandelbrot_Set.private](/_private/Mathematics/Geometry/Fractal/Mandelbrot_Set.private.md) 
+
+### #is_/same_as :: [Mandelbrot_Set.personal](/_personal/Mathematics/Geometry/Fractal/Mandelbrot_Set.personal.md) 
+
+### #is_/same_as :: [Mandelbrot_Set.secret](/_secret/Mathematics/Geometry/Fractal/Mandelbrot_Set.secret.md)
+

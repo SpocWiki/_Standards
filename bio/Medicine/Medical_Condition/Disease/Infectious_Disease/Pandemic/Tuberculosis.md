@@ -154,17 +154,17 @@ U_S_National_Archives_Identifier: 10646685
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuberculosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tuberculosis.md) 
+### #is_/same_as :: [Tuberculosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.md) 
 
-### #is_/same_as :: [Tuberculosis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tuberculosis.public.md) 
+### #is_/same_as :: [Tuberculosis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.public.md) 
 
-### #is_/same_as :: [Tuberculosis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tuberculosis.internal.md) 
+### #is_/same_as :: [Tuberculosis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.internal.md) 
 
-### #is_/same_as :: [Tuberculosis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tuberculosis.protect.md) 
+### #is_/same_as :: [Tuberculosis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.protect.md) 
 
-### #is_/same_as :: [Tuberculosis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tuberculosis.private.md) 
+### #is_/same_as :: [Tuberculosis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.private.md) 
 
-### #is_/same_as :: [Tuberculosis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tuberculosis.personal.md) 
+### #is_/same_as :: [Tuberculosis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.personal.md) 
 
-### #is_/same_as :: [Tuberculosis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tuberculosis.secret.md)
+### #is_/same_as :: [Tuberculosis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Tuberculosis.secret.md)
 

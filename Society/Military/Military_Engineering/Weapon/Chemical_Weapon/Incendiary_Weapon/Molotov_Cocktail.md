@@ -42,3 +42,22 @@ IMDb_keyword: molotov-cocktail
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molotov%20cocktail) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Molotov_Cocktail](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Molotov_Cocktail.md) 
+
+### #is_/same_as :: [Molotov_Cocktail.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Molotov_Cocktail.public.md) 
+
+### #is_/same_as :: [Molotov_Cocktail.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Molotov_Cocktail.internal.md) 
+
+### #is_/same_as :: [Molotov_Cocktail.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Molotov_Cocktail.protect.md) 
+
+### #is_/same_as :: [Molotov_Cocktail.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Molotov_Cocktail.private.md) 
+
+### #is_/same_as :: [Molotov_Cocktail.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Molotov_Cocktail.personal.md) 
+
+### #is_/same_as :: [Molotov_Cocktail.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Molotov_Cocktail.secret.md)
+

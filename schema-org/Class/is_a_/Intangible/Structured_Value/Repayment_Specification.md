@@ -41,17 +41,17 @@ A structured value representing repayment.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [repayment_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.md) 
+### #is_/same_as :: [Repayment_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Repayment_Specification.md) 
 
-### #is_/same_as :: [repayment_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.public.md) 
+### #is_/same_as :: [Repayment_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Repayment_Specification.public.md) 
 
-### #is_/same_as :: [repayment_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.internal.md) 
+### #is_/same_as :: [Repayment_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Repayment_Specification.internal.md) 
 
-### #is_/same_as :: [repayment_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.protect.md) 
+### #is_/same_as :: [Repayment_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Repayment_Specification.protect.md) 
 
-### #is_/same_as :: [repayment_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.private.md) 
+### #is_/same_as :: [Repayment_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Repayment_Specification.private.md) 
 
-### #is_/same_as :: [repayment_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.personal.md) 
+### #is_/same_as :: [Repayment_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Repayment_Specification.personal.md) 
 
-### #is_/same_as :: [repayment_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.secret.md)
+### #is_/same_as :: [Repayment_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Repayment_Specification.secret.md)
 

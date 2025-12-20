@@ -63,3 +63,22 @@ amicability or agreeableness (A) measures kindness, helpfulness, and willingness
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big5~Agreeableness](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.md) 
+
+### #is_/same_as :: [Big5~Agreeableness.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.public.md) 
+
+### #is_/same_as :: [Big5~Agreeableness.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.internal.md) 
+
+### #is_/same_as :: [Big5~Agreeableness.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.protect.md) 
+
+### #is_/same_as :: [Big5~Agreeableness.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.private.md) 
+
+### #is_/same_as :: [Big5~Agreeableness.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.personal.md) 
+
+### #is_/same_as :: [Big5~Agreeableness.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.secret.md)
+

@@ -40,17 +40,17 @@ LaserDiscFormat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laser_Disc_Format](Laser_Disc_Format.md) 
+### #is_/same_as :: [Laser_Disc_Format](/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.md) 
 
-### #is_/same_as :: [laser_disc_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.public.md) 
+### #is_/same_as :: [Laser_Disc_Format.public](/_public/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.public.md) 
 
-### #is_/same_as :: [laser_disc_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.internal.md) 
+### #is_/same_as :: [Laser_Disc_Format.internal](/_internal/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.internal.md) 
 
-### #is_/same_as :: [laser_disc_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.protect.md) 
+### #is_/same_as :: [Laser_Disc_Format.protect](/_protect/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.protect.md) 
 
-### #is_/same_as :: [laser_disc_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.private.md) 
+### #is_/same_as :: [Laser_Disc_Format.private](/_private/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.private.md) 
 
-### #is_/same_as :: [laser_disc_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.personal.md) 
+### #is_/same_as :: [Laser_Disc_Format.personal](/_personal/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.personal.md) 
 
-### #is_/same_as :: [laser_disc_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.secret.md)
+### #is_/same_as :: [Laser_Disc_Format.secret](/_secret/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.secret.md)
 

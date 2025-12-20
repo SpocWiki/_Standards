@@ -50,3 +50,22 @@ Commons_category: Quenching
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quenching) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quenching](/_Standards/Chemistry/Material/Materials_Science/Quenching.md) 
+
+### #is_/same_as :: [Quenching.public](/_public/Chemistry/Material/Materials_Science/Quenching.public.md) 
+
+### #is_/same_as :: [Quenching.internal](/_internal/Chemistry/Material/Materials_Science/Quenching.internal.md) 
+
+### #is_/same_as :: [Quenching.protect](/_protect/Chemistry/Material/Materials_Science/Quenching.protect.md) 
+
+### #is_/same_as :: [Quenching.private](/_private/Chemistry/Material/Materials_Science/Quenching.private.md) 
+
+### #is_/same_as :: [Quenching.personal](/_personal/Chemistry/Material/Materials_Science/Quenching.personal.md) 
+
+### #is_/same_as :: [Quenching.secret](/_secret/Chemistry/Material/Materials_Science/Quenching.secret.md)
+

@@ -88,7 +88,7 @@ cephalopods from the Atlantic Ocean. Mitt. Hamb. Zool. Mus. Inst., 97:
   Life Cycle Stage ::   mature
   Size               63 mm ML
   Type               holotype
-  ------------------------------------------------
+  ------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

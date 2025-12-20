@@ -233,3 +233,22 @@ NLC_authorities: "038192850"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hannah%20Arendt) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arendt,Hannah](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.md) 
+
+### #is_/same_as :: [Arendt,Hannah.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.public.md) 
+
+### #is_/same_as :: [Arendt,Hannah.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.internal.md) 
+
+### #is_/same_as :: [Arendt,Hannah.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.protect.md) 
+
+### #is_/same_as :: [Arendt,Hannah.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.private.md) 
+
+### #is_/same_as :: [Arendt,Hannah.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.personal.md) 
+
+### #is_/same_as :: [Arendt,Hannah.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Arendt,Hannah.secret.md)
+

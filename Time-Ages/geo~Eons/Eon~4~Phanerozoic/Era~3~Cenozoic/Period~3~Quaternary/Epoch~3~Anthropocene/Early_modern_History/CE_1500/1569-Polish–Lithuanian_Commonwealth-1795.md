@@ -111,3 +111,22 @@ dissolved_abolished_or_demolished_date: 1795-10-24T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian%20Commonwealth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1569-Polish–Lithuanian_Commonwealth-1795](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Polish–Lithuanian_Commonwealth-1795.md) 
+
+### #is_/same_as :: [1569-Polish–Lithuanian_Commonwealth-1795.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Polish–Lithuanian_Commonwealth-1795.public.md) 
+
+### #is_/same_as :: [1569-Polish–Lithuanian_Commonwealth-1795.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Polish–Lithuanian_Commonwealth-1795.internal.md) 
+
+### #is_/same_as :: [1569-Polish–Lithuanian_Commonwealth-1795.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Polish–Lithuanian_Commonwealth-1795.protect.md) 
+
+### #is_/same_as :: [1569-Polish–Lithuanian_Commonwealth-1795.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Polish–Lithuanian_Commonwealth-1795.private.md) 
+
+### #is_/same_as :: [1569-Polish–Lithuanian_Commonwealth-1795.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Polish–Lithuanian_Commonwealth-1795.personal.md) 
+
+### #is_/same_as :: [1569-Polish–Lithuanian_Commonwealth-1795.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1569-Polish–Lithuanian_Commonwealth-1795.secret.md)
+

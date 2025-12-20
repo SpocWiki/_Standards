@@ -29,3 +29,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Observatories.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Observatories%20program) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Great_Observatories_Program](/_Standards/Astronomy/Astrometry/Great_Observatories_Program.md) 
+
+### #is_/same_as :: [Great_Observatories_Program.public](/_public/Astronomy/Astrometry/Great_Observatories_Program.public.md) 
+
+### #is_/same_as :: [Great_Observatories_Program.internal](/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal.md) 
+
+### #is_/same_as :: [Great_Observatories_Program.protect](/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect.md) 
+
+### #is_/same_as :: [Great_Observatories_Program.private](/_private/Astronomy/Astrometry/Great_Observatories_Program.private.md) 
+
+### #is_/same_as :: [Great_Observatories_Program.personal](/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal.md) 
+
+### #is_/same_as :: [Great_Observatories_Program.secret](/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret.md)
+

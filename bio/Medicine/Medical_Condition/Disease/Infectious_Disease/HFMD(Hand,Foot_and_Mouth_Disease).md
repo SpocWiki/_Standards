@@ -82,3 +82,22 @@ Commons_category: Hand, foot and mouth disease
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hand,%20foot,%20and%20mouth%20disease) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [HFMD(Hand,Foot_and_Mouth_Disease)](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/HFMD(Hand,Foot_and_Mouth_Disease).md) 
+
+### #is_/same_as :: [HFMD(Hand,Foot_and_Mouth_Disease).public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/HFMD(Hand,Foot_and_Mouth_Disease).public.md) 
+
+### #is_/same_as :: [HFMD(Hand,Foot_and_Mouth_Disease).internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/HFMD(Hand,Foot_and_Mouth_Disease).internal.md) 
+
+### #is_/same_as :: [HFMD(Hand,Foot_and_Mouth_Disease).protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/HFMD(Hand,Foot_and_Mouth_Disease).protect.md) 
+
+### #is_/same_as :: [HFMD(Hand,Foot_and_Mouth_Disease).private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/HFMD(Hand,Foot_and_Mouth_Disease).private.md) 
+
+### #is_/same_as :: [HFMD(Hand,Foot_and_Mouth_Disease).personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/HFMD(Hand,Foot_and_Mouth_Disease).personal.md) 
+
+### #is_/same_as :: [HFMD(Hand,Foot_and_Mouth_Disease).secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/HFMD(Hand,Foot_and_Mouth_Disease).secret.md)
+

@@ -133,3 +133,22 @@ end_time: 1902-05-31T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Second%20Boer%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1899-Second_Boer_War+1902](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1899-Second_Boer_War+1902.md) 
+
+### #is_/same_as :: [1899-Second_Boer_War+1902.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1899-Second_Boer_War+1902.public.md) 
+
+### #is_/same_as :: [1899-Second_Boer_War+1902.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1899-Second_Boer_War+1902.internal.md) 
+
+### #is_/same_as :: [1899-Second_Boer_War+1902.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1899-Second_Boer_War+1902.protect.md) 
+
+### #is_/same_as :: [1899-Second_Boer_War+1902.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1899-Second_Boer_War+1902.private.md) 
+
+### #is_/same_as :: [1899-Second_Boer_War+1902.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1899-Second_Boer_War+1902.personal.md) 
+
+### #is_/same_as :: [1899-Second_Boer_War+1902.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1899-Second_Boer_War+1902.secret.md)
+

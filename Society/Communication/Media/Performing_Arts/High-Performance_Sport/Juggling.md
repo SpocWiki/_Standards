@@ -26,3 +26,22 @@ has_id_wikidata: Q194326
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Juggling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Juggling](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.md) 
+
+### #is_/same_as :: [Juggling.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.public.md) 
+
+### #is_/same_as :: [Juggling.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.internal.md) 
+
+### #is_/same_as :: [Juggling.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.protect.md) 
+
+### #is_/same_as :: [Juggling.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.private.md) 
+
+### #is_/same_as :: [Juggling.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.personal.md) 
+
+### #is_/same_as :: [Juggling.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Juggling.secret.md)
+

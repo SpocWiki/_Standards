@@ -51,3 +51,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Demeter) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Demeter](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.md) 
+
+### #is_/same_as :: [Demeter.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.public.md) 
+
+### #is_/same_as :: [Demeter.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.internal.md) 
+
+### #is_/same_as :: [Demeter.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.protect.md) 
+
+### #is_/same_as :: [Demeter.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.private.md) 
+
+### #is_/same_as :: [Demeter.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.personal.md) 
+
+### #is_/same_as :: [Demeter.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.secret.md)
+

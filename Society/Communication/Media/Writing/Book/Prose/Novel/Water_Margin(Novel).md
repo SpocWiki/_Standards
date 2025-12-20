@@ -101,3 +101,21 @@ This series was broadcast
 #### China,1983 
 
 **Chinese Mainland production** _Outlaws of the Marsh_ (_水滸_, 1983 – 1986) with **~40 episodes**, first broadcast in China;
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Water_Margin(Novel)](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).md) 
+
+### #is_/same_as :: [Water_Margin(Novel).public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).public.md) 
+
+### #is_/same_as :: [Water_Margin(Novel).internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).internal.md) 
+
+### #is_/same_as :: [Water_Margin(Novel).protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).protect.md) 
+
+### #is_/same_as :: [Water_Margin(Novel).private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).private.md) 
+
+### #is_/same_as :: [Water_Margin(Novel).personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).personal.md) 
+
+### #is_/same_as :: [Water_Margin(Novel).secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Water_Margin(Novel).secret.md)
+

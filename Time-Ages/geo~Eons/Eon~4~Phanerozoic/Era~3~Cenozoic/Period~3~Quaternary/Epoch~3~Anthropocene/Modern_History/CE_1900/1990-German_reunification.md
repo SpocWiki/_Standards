@@ -39,3 +39,21 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "GermanReuinification"]
 > The reunited state is not a successor state, but an enlarged continuation of the 1949–1990 West German state. The enlarged Federal Republic of Germany retained the West German seats in the governing bodies of the European Economic Community (EEC) (later the European Union) and in international organizations including the North Atlantic Treaty Organization (NATO) and the United Nations (UN), while relinquishing membership in the Warsaw Pact (WP) and other international organizations to which only East Germany belonged.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/German%20reunification)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1990-German_reunification](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1990-German_reunification.md) 
+
+### #is_/same_as :: [1990-German_reunification.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1990-German_reunification.public.md) 
+
+### #is_/same_as :: [1990-German_reunification.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1990-German_reunification.internal.md) 
+
+### #is_/same_as :: [1990-German_reunification.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1990-German_reunification.protect.md) 
+
+### #is_/same_as :: [1990-German_reunification.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1990-German_reunification.private.md) 
+
+### #is_/same_as :: [1990-German_reunification.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1990-German_reunification.personal.md) 
+
+### #is_/same_as :: [1990-German_reunification.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1990-German_reunification.secret.md)
+

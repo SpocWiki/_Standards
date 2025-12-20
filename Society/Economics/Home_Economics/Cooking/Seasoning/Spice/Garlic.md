@@ -63,3 +63,22 @@ Wikidata_usage_instructions: Untuk bawang putih sebagai spesies, gunakan Q23400
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Garlic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Garlic](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.md) 
+
+### #is_/same_as :: [Garlic.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.public.md) 
+
+### #is_/same_as :: [Garlic.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.internal.md) 
+
+### #is_/same_as :: [Garlic.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.protect.md) 
+
+### #is_/same_as :: [Garlic.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.private.md) 
+
+### #is_/same_as :: [Garlic.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.personal.md) 
+
+### #is_/same_as :: [Garlic.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.secret.md)
+

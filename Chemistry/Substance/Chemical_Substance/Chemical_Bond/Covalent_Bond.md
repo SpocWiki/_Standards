@@ -50,8 +50,6 @@ and therefore (since the average momentum is 0), also lower-energy.
 > [Wikipedia](https://en.wikipedia.org/wiki/Covalent%20bond) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Covalent_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.md) 

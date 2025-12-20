@@ -110,3 +110,22 @@ DSSTOX_compound_identifier: DTXCID804263
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phosphoric%20acid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phosphoric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.md) 
+
+### #is_/same_as :: [Phosphoric_Acid.public](/_public/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.public.md) 
+
+### #is_/same_as :: [Phosphoric_Acid.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.internal.md) 
+
+### #is_/same_as :: [Phosphoric_Acid.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.protect.md) 
+
+### #is_/same_as :: [Phosphoric_Acid.private](/_private/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.private.md) 
+
+### #is_/same_as :: [Phosphoric_Acid.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.personal.md) 
+
+### #is_/same_as :: [Phosphoric_Acid.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.secret.md)
+

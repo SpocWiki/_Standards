@@ -259,3 +259,22 @@ official_name: Union cycliste internationale
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Union%20Cycliste%20Internationale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Union_Cycliste_Internationale](/_Standards/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.md) 
+
+### #is_/same_as :: [Union_Cycliste_Internationale.public](/_public/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.public.md) 
+
+### #is_/same_as :: [Union_Cycliste_Internationale.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.internal.md) 
+
+### #is_/same_as :: [Union_Cycliste_Internationale.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.protect.md) 
+
+### #is_/same_as :: [Union_Cycliste_Internationale.private](/_private/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.private.md) 
+
+### #is_/same_as :: [Union_Cycliste_Internationale.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.personal.md) 
+
+### #is_/same_as :: [Union_Cycliste_Internationale.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/Union_Cycliste_Internationale.secret.md)
+

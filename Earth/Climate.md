@@ -97,17 +97,17 @@ Wikidata_property: Köppen climate classification
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Climate](/_Standards/Earth/Atmosphere,Earth/Climate.md) 
+### #is_/same_as :: [Climate](/_Standards/Earth/Climate.md) 
 
-### #is_/same_as :: [Climate.public](/_public/Earth/Atmosphere,Earth/Climate.public.md) 
+### #is_/same_as :: [Climate.public](/_public/Earth/Climate.public.md) 
 
-### #is_/same_as :: [Climate.internal](/_internal/Earth/Atmosphere,Earth/Climate.internal.md) 
+### #is_/same_as :: [Climate.internal](/_internal/Earth/Climate.internal.md) 
 
-### #is_/same_as :: [Climate.protect](/_protect/Earth/Atmosphere,Earth/Climate.protect.md) 
+### #is_/same_as :: [Climate.protect](/_protect/Earth/Climate.protect.md) 
 
-### #is_/same_as :: [Climate.private](/_private/Earth/Atmosphere,Earth/Climate.private.md) 
+### #is_/same_as :: [Climate.private](/_private/Earth/Climate.private.md) 
 
-### #is_/same_as :: [Climate.personal](/_personal/Earth/Atmosphere,Earth/Climate.personal.md) 
+### #is_/same_as :: [Climate.personal](/_personal/Earth/Climate.personal.md) 
 
-### #is_/same_as :: [Climate.secret](/_secret/Earth/Atmosphere,Earth/Climate.secret.md)
+### #is_/same_as :: [Climate.secret](/_secret/Earth/Climate.secret.md)
 

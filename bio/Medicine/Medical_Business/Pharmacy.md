@@ -87,17 +87,17 @@ A pharmacy or drugstore.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pharmacy](Pharmacy.md) 
+### #is_/same_as :: [Pharmacy](/_Standards/bio/Medicine/Medical_Business/Pharmacy.md) 
 
-### #is_/same_as :: [Pharmacy.public](/_public/Society/Organization/Local_Business/Medical_Business/Pharmacy.public.md) 
+### #is_/same_as :: [Pharmacy.public](/_public/bio/Medicine/Medical_Business/Pharmacy.public.md) 
 
-### #is_/same_as :: [Pharmacy.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Pharmacy.internal.md) 
+### #is_/same_as :: [Pharmacy.internal](/_internal/bio/Medicine/Medical_Business/Pharmacy.internal.md) 
 
-### #is_/same_as :: [Pharmacy.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Pharmacy.protect.md) 
+### #is_/same_as :: [Pharmacy.protect](/_protect/bio/Medicine/Medical_Business/Pharmacy.protect.md) 
 
-### #is_/same_as :: [Pharmacy.private](/_private/Society/Organization/Local_Business/Medical_Business/Pharmacy.private.md) 
+### #is_/same_as :: [Pharmacy.private](/_private/bio/Medicine/Medical_Business/Pharmacy.private.md) 
 
-### #is_/same_as :: [Pharmacy.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Pharmacy.personal.md) 
+### #is_/same_as :: [Pharmacy.personal](/_personal/bio/Medicine/Medical_Business/Pharmacy.personal.md) 
 
-### #is_/same_as :: [Pharmacy.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Pharmacy.secret.md)
+### #is_/same_as :: [Pharmacy.secret](/_secret/bio/Medicine/Medical_Business/Pharmacy.secret.md)
 

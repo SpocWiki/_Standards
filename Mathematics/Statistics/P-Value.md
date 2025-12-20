@@ -45,3 +45,22 @@ Commons_category: P-value
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/P-value) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [P-Value](/_Standards/Mathematics/Statistics/P-Value.md) 
+
+### #is_/same_as :: [P-Value.public](/_public/Mathematics/Statistics/P-Value.public.md) 
+
+### #is_/same_as :: [P-Value.internal](/_internal/Mathematics/Statistics/P-Value.internal.md) 
+
+### #is_/same_as :: [P-Value.protect](/_protect/Mathematics/Statistics/P-Value.protect.md) 
+
+### #is_/same_as :: [P-Value.private](/_private/Mathematics/Statistics/P-Value.private.md) 
+
+### #is_/same_as :: [P-Value.personal](/_personal/Mathematics/Statistics/P-Value.personal.md) 
+
+### #is_/same_as :: [P-Value.secret](/_secret/Mathematics/Statistics/P-Value.secret.md)
+

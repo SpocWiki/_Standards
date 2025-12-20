@@ -42,3 +42,22 @@ Commons_category: Radio programmes
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio%20program) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Radio_Program](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.md) 
+
+### #is_/same_as :: [Radio_Program.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.public.md) 
+
+### #is_/same_as :: [Radio_Program.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.internal.md) 
+
+### #is_/same_as :: [Radio_Program.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.protect.md) 
+
+### #is_/same_as :: [Radio_Program.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.private.md) 
+
+### #is_/same_as :: [Radio_Program.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.personal.md) 
+
+### #is_/same_as :: [Radio_Program.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.secret.md)
+

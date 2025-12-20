@@ -53,3 +53,22 @@ Commons_category: Ancient Egyptian calendar
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Egyptian%20calendar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Egyptian_Calendar](/_Standards/ISO/Calendar/Egyptian_Calendar.md) 
+
+### #is_/same_as :: [Egyptian_Calendar.public](/_public/ISO/Calendar/Egyptian_Calendar.public.md) 
+
+### #is_/same_as :: [Egyptian_Calendar.internal](/_internal/ISO/Calendar/Egyptian_Calendar.internal.md) 
+
+### #is_/same_as :: [Egyptian_Calendar.protect](/_protect/ISO/Calendar/Egyptian_Calendar.protect.md) 
+
+### #is_/same_as :: [Egyptian_Calendar.private](/_private/ISO/Calendar/Egyptian_Calendar.private.md) 
+
+### #is_/same_as :: [Egyptian_Calendar.personal](/_personal/ISO/Calendar/Egyptian_Calendar.personal.md) 
+
+### #is_/same_as :: [Egyptian_Calendar.secret](/_secret/ISO/Calendar/Egyptian_Calendar.secret.md)
+

@@ -232,3 +232,22 @@ Europeana_entity: agent/base/85053
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elton%20John) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [John,Elton](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.md) 
+
+### #is_/same_as :: [John,Elton.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.public.md) 
+
+### #is_/same_as :: [John,Elton.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.internal.md) 
+
+### #is_/same_as :: [John,Elton.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.protect.md) 
+
+### #is_/same_as :: [John,Elton.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.private.md) 
+
+### #is_/same_as :: [John,Elton.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.personal.md) 
+
+### #is_/same_as :: [John,Elton.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.secret.md)
+

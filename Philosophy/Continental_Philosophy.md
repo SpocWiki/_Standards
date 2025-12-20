@@ -28,3 +28,22 @@ subreddit: continentaltheory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Continental%20philosophy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Continental_Philosophy](/_Standards/Philosophy/Continental_Philosophy.md) 
+
+### #is_/same_as :: [Continental_Philosophy.public](/_public/Philosophy/Continental_Philosophy.public.md) 
+
+### #is_/same_as :: [Continental_Philosophy.internal](/_internal/Philosophy/Continental_Philosophy.internal.md) 
+
+### #is_/same_as :: [Continental_Philosophy.protect](/_protect/Philosophy/Continental_Philosophy.protect.md) 
+
+### #is_/same_as :: [Continental_Philosophy.private](/_private/Philosophy/Continental_Philosophy.private.md) 
+
+### #is_/same_as :: [Continental_Philosophy.personal](/_personal/Philosophy/Continental_Philosophy.personal.md) 
+
+### #is_/same_as :: [Continental_Philosophy.secret](/_secret/Philosophy/Continental_Philosophy.secret.md)
+

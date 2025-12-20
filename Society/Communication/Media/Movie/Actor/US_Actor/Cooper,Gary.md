@@ -93,3 +93,22 @@ birth_name: Frank James Cooper
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gary%20Cooper) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cooper,Gary](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.md) 
+
+### #is_/same_as :: [Cooper,Gary.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.public.md) 
+
+### #is_/same_as :: [Cooper,Gary.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.internal.md) 
+
+### #is_/same_as :: [Cooper,Gary.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.protect.md) 
+
+### #is_/same_as :: [Cooper,Gary.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.private.md) 
+
+### #is_/same_as :: [Cooper,Gary.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.personal.md) 
+
+### #is_/same_as :: [Cooper,Gary.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.secret.md)
+

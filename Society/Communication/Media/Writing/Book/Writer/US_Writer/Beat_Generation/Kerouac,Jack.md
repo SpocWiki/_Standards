@@ -116,3 +116,22 @@ ISNI: 000000012125127X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jack%20Kerouac) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kerouac,Jack](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.md) 
+
+### #is_/same_as :: [Kerouac,Jack.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.public.md) 
+
+### #is_/same_as :: [Kerouac,Jack.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.internal.md) 
+
+### #is_/same_as :: [Kerouac,Jack.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.protect.md) 
+
+### #is_/same_as :: [Kerouac,Jack.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.private.md) 
+
+### #is_/same_as :: [Kerouac,Jack.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.personal.md) 
+
+### #is_/same_as :: [Kerouac,Jack.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation/Kerouac,Jack.secret.md)
+

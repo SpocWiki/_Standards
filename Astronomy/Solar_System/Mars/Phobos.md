@@ -23,3 +23,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Phobos%20(moon)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phobos](/_Standards/Astronomy/Solar_System/Mars/Phobos.md) 
+
+### #is_/same_as :: [Phobos.public](/_public/Astronomy/Solar_System/Mars/Phobos.public.md) 
+
+### #is_/same_as :: [Phobos.internal](/_internal/Astronomy/Solar_System/Mars/Phobos.internal.md) 
+
+### #is_/same_as :: [Phobos.protect](/_protect/Astronomy/Solar_System/Mars/Phobos.protect.md) 
+
+### #is_/same_as :: [Phobos.private](/_private/Astronomy/Solar_System/Mars/Phobos.private.md) 
+
+### #is_/same_as :: [Phobos.personal](/_personal/Astronomy/Solar_System/Mars/Phobos.personal.md) 
+
+### #is_/same_as :: [Phobos.secret](/_secret/Astronomy/Solar_System/Mars/Phobos.secret.md)
+

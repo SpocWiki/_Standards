@@ -80,3 +80,22 @@ native_label: 𐤊𐤍𐤏𐤍
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phoenicia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-2499-Phoenicia-0063](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2499-Phoenicia-0063.md) 
+
+### #is_/same_as :: [-2499-Phoenicia-0063.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2499-Phoenicia-0063.public.md) 
+
+### #is_/same_as :: [-2499-Phoenicia-0063.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2499-Phoenicia-0063.internal.md) 
+
+### #is_/same_as :: [-2499-Phoenicia-0063.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2499-Phoenicia-0063.protect.md) 
+
+### #is_/same_as :: [-2499-Phoenicia-0063.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2499-Phoenicia-0063.private.md) 
+
+### #is_/same_as :: [-2499-Phoenicia-0063.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2499-Phoenicia-0063.personal.md) 
+
+### #is_/same_as :: [-2499-Phoenicia-0063.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2499-Phoenicia-0063.secret.md)
+

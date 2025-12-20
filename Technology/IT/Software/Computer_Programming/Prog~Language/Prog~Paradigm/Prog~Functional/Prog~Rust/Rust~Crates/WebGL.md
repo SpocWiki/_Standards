@@ -22,3 +22,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/WebGL)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [WebGL](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGL.md) 
+
+### #is_/same_as :: [WebGL.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGL.public.md) 
+
+### #is_/same_as :: [WebGL.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGL.internal.md) 
+
+### #is_/same_as :: [WebGL.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGL.protect.md) 
+
+### #is_/same_as :: [WebGL.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGL.private.md) 
+
+### #is_/same_as :: [WebGL.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGL.personal.md) 
+
+### #is_/same_as :: [WebGL.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/WebGL.secret.md)
+

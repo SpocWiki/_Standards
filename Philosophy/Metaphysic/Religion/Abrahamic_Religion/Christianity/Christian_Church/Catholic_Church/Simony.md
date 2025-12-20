@@ -30,3 +30,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Simonie%20-%20Medieval
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Simony) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Simony](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Simony.md) 
+
+### #is_/same_as :: [Simony.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Simony.public.md) 
+
+### #is_/same_as :: [Simony.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Simony.internal.md) 
+
+### #is_/same_as :: [Simony.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Simony.protect.md) 
+
+### #is_/same_as :: [Simony.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Simony.private.md) 
+
+### #is_/same_as :: [Simony.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Simony.personal.md) 
+
+### #is_/same_as :: [Simony.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Simony.secret.md)
+

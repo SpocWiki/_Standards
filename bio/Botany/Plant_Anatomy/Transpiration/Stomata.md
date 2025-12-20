@@ -50,3 +50,22 @@ Commons_category: Stoma
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stoma) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stomata](/_Standards/bio/Botany/Plant_Anatomy/Transpiration/Stomata.md) 
+
+### #is_/same_as :: [Stomata.public](/_public/bio/Botany/Plant_Anatomy/Transpiration/Stomata.public.md) 
+
+### #is_/same_as :: [Stomata.internal](/_internal/bio/Botany/Plant_Anatomy/Transpiration/Stomata.internal.md) 
+
+### #is_/same_as :: [Stomata.protect](/_protect/bio/Botany/Plant_Anatomy/Transpiration/Stomata.protect.md) 
+
+### #is_/same_as :: [Stomata.private](/_private/bio/Botany/Plant_Anatomy/Transpiration/Stomata.private.md) 
+
+### #is_/same_as :: [Stomata.personal](/_personal/bio/Botany/Plant_Anatomy/Transpiration/Stomata.personal.md) 
+
+### #is_/same_as :: [Stomata.secret](/_secret/bio/Botany/Plant_Anatomy/Transpiration/Stomata.secret.md)
+

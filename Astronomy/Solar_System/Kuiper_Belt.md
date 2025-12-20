@@ -26,3 +26,22 @@ has_id_wikidata: Q427
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kuiper%20belt) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kuiper_Belt](/_Standards/Astronomy/Solar_System/Kuiper_Belt.md) 
+
+### #is_/same_as :: [Kuiper_Belt.public](/_public/Astronomy/Solar_System/Kuiper_Belt.public.md) 
+
+### #is_/same_as :: [Kuiper_Belt.internal](/_internal/Astronomy/Solar_System/Kuiper_Belt.internal.md) 
+
+### #is_/same_as :: [Kuiper_Belt.protect](/_protect/Astronomy/Solar_System/Kuiper_Belt.protect.md) 
+
+### #is_/same_as :: [Kuiper_Belt.private](/_private/Astronomy/Solar_System/Kuiper_Belt.private.md) 
+
+### #is_/same_as :: [Kuiper_Belt.personal](/_personal/Astronomy/Solar_System/Kuiper_Belt.personal.md) 
+
+### #is_/same_as :: [Kuiper_Belt.secret](/_secret/Astronomy/Solar_System/Kuiper_Belt.secret.md)
+

@@ -74,3 +74,22 @@ date_of_birth: 1903-10-04T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Vincent%20Atanasoff) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atanasoff,John_Vincent](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.md) 
+
+### #is_/same_as :: [Atanasoff,John_Vincent.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.public.md) 
+
+### #is_/same_as :: [Atanasoff,John_Vincent.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.internal.md) 
+
+### #is_/same_as :: [Atanasoff,John_Vincent.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.protect.md) 
+
+### #is_/same_as :: [Atanasoff,John_Vincent.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.private.md) 
+
+### #is_/same_as :: [Atanasoff,John_Vincent.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.personal.md) 
+
+### #is_/same_as :: [Atanasoff,John_Vincent.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.secret.md)
+

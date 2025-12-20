@@ -60,3 +60,22 @@ name_in_kana: せんけいけいかくほう
 > [Wikipedia](https://en.wikipedia.org/wiki/Linear%20programming) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Linear_Programming](/_Standards/Mathematics/Optimization(Math)/Linear_Programming.md) 
+
+### #is_/same_as :: [Linear_Programming.public](/_public/Mathematics/Optimization(Math)/Linear_Programming.public.md) 
+
+### #is_/same_as :: [Linear_Programming.internal](/_internal/Mathematics/Optimization(Math)/Linear_Programming.internal.md) 
+
+### #is_/same_as :: [Linear_Programming.protect](/_protect/Mathematics/Optimization(Math)/Linear_Programming.protect.md) 
+
+### #is_/same_as :: [Linear_Programming.private](/_private/Mathematics/Optimization(Math)/Linear_Programming.private.md) 
+
+### #is_/same_as :: [Linear_Programming.personal](/_personal/Mathematics/Optimization(Math)/Linear_Programming.personal.md) 
+
+### #is_/same_as :: [Linear_Programming.secret](/_secret/Mathematics/Optimization(Math)/Linear_Programming.secret.md)
+

@@ -115,3 +115,22 @@ Europeana_entity: agent/base/59995
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gustave%20Flaubert) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Flaubert,Gustave](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Flaubert,Gustave.md) 
+
+### #is_/same_as :: [Flaubert,Gustave.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Flaubert,Gustave.public.md) 
+
+### #is_/same_as :: [Flaubert,Gustave.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Flaubert,Gustave.internal.md) 
+
+### #is_/same_as :: [Flaubert,Gustave.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Flaubert,Gustave.protect.md) 
+
+### #is_/same_as :: [Flaubert,Gustave.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Flaubert,Gustave.private.md) 
+
+### #is_/same_as :: [Flaubert,Gustave.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Flaubert,Gustave.personal.md) 
+
+### #is_/same_as :: [Flaubert,Gustave.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Flaubert,Gustave.secret.md)
+

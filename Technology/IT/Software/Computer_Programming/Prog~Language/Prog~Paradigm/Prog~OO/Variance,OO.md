@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Variance
 ---
@@ -132,3 +132,22 @@ Then for example the function type constructor takes two types _p_ and _r_ 
 and creates a new type _p_ → _r_; so it takes objects in 𝐶² to objects in 𝐶. 
 By the subtyping rule for function types this operation reverses ≤ for the first parameter and preserves it for the second, 
 so it is a contravariant functor in the first parameter and a covariant functor in the second.
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Variance,OO](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.md) 
+
+### #is_/same_as :: [Variance,OO.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.public.md) 
+
+### #is_/same_as :: [Variance,OO.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.internal.md) 
+
+### #is_/same_as :: [Variance,OO.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.protect.md) 
+
+### #is_/same_as :: [Variance,OO.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.private.md) 
+
+### #is_/same_as :: [Variance,OO.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.personal.md) 
+
+### #is_/same_as :: [Variance,OO.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO.secret.md)
+

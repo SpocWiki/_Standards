@@ -135,3 +135,22 @@ Libris_URI: ljx00xc42pszvt1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edsger%20W.%20Dijkstra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dijkstra,Edsger_W](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Dijkstra,Edsger_W.md) 
+
+### #is_/same_as :: [Dijkstra,Edsger_W.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Dijkstra,Edsger_W.public.md) 
+
+### #is_/same_as :: [Dijkstra,Edsger_W.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Dijkstra,Edsger_W.internal.md) 
+
+### #is_/same_as :: [Dijkstra,Edsger_W.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Dijkstra,Edsger_W.protect.md) 
+
+### #is_/same_as :: [Dijkstra,Edsger_W.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Dijkstra,Edsger_W.private.md) 
+
+### #is_/same_as :: [Dijkstra,Edsger_W.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Dijkstra,Edsger_W.personal.md) 
+
+### #is_/same_as :: [Dijkstra,Edsger_W.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Dijkstra,Edsger_W.secret.md)
+

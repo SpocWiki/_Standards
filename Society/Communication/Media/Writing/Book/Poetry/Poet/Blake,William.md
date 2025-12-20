@@ -259,3 +259,22 @@ Europeana_entity: agent/base/60307
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Blake) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blake,William](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.md) 
+
+### #is_/same_as :: [Blake,William.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.public.md) 
+
+### #is_/same_as :: [Blake,William.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.internal.md) 
+
+### #is_/same_as :: [Blake,William.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.protect.md) 
+
+### #is_/same_as :: [Blake,William.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.private.md) 
+
+### #is_/same_as :: [Blake,William.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.personal.md) 
+
+### #is_/same_as :: [Blake,William.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.secret.md)
+

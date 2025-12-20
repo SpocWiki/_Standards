@@ -40,17 +40,17 @@ EPRelease.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ep_Release](Ep_Release.md) 
+### #is_/same_as :: [Ep_Release](/_Standards/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.md) 
 
-### #is_/same_as :: [ep_release.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.public.md) 
+### #is_/same_as :: [Ep_Release.public](/_public/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.public.md) 
 
-### #is_/same_as :: [ep_release.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.internal.md) 
+### #is_/same_as :: [Ep_Release.internal](/_internal/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.internal.md) 
 
-### #is_/same_as :: [ep_release.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.protect.md) 
+### #is_/same_as :: [Ep_Release.protect](/_protect/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.protect.md) 
 
-### #is_/same_as :: [ep_release.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.private.md) 
+### #is_/same_as :: [Ep_Release.private](/_private/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.private.md) 
 
-### #is_/same_as :: [ep_release.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.personal.md) 
+### #is_/same_as :: [Ep_Release.personal](/_personal/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.personal.md) 
 
-### #is_/same_as :: [ep_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.secret.md)
+### #is_/same_as :: [Ep_Release.secret](/_secret/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.secret.md)
 

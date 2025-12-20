@@ -34,3 +34,22 @@ Commons_category: Hadley cells
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hadley%20cell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hadley_Cell](/_Standards/Earth/Climate/Hadley_Cell.md) 
+
+### #is_/same_as :: [Hadley_Cell.public](/_public/Earth/Climate/Hadley_Cell.public.md) 
+
+### #is_/same_as :: [Hadley_Cell.internal](/_internal/Earth/Climate/Hadley_Cell.internal.md) 
+
+### #is_/same_as :: [Hadley_Cell.protect](/_protect/Earth/Climate/Hadley_Cell.protect.md) 
+
+### #is_/same_as :: [Hadley_Cell.private](/_private/Earth/Climate/Hadley_Cell.private.md) 
+
+### #is_/same_as :: [Hadley_Cell.personal](/_personal/Earth/Climate/Hadley_Cell.personal.md) 
+
+### #is_/same_as :: [Hadley_Cell.secret](/_secret/Earth/Climate/Hadley_Cell.secret.md)
+

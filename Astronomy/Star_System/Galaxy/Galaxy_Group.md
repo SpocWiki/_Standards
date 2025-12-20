@@ -24,3 +24,22 @@ has_id_wikidata: Q1491746
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy%20group) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Galaxy_Group](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Group.md) 
+
+### #is_/same_as :: [Galaxy_Group.public](/_public/Astronomy/Star_System/Galaxy/Galaxy_Group.public.md) 
+
+### #is_/same_as :: [Galaxy_Group.internal](/_internal/Astronomy/Star_System/Galaxy/Galaxy_Group.internal.md) 
+
+### #is_/same_as :: [Galaxy_Group.protect](/_protect/Astronomy/Star_System/Galaxy/Galaxy_Group.protect.md) 
+
+### #is_/same_as :: [Galaxy_Group.private](/_private/Astronomy/Star_System/Galaxy/Galaxy_Group.private.md) 
+
+### #is_/same_as :: [Galaxy_Group.personal](/_personal/Astronomy/Star_System/Galaxy/Galaxy_Group.personal.md) 
+
+### #is_/same_as :: [Galaxy_Group.secret](/_secret/Astronomy/Star_System/Galaxy/Galaxy_Group.secret.md)
+

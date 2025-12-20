@@ -115,3 +115,22 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rio%20Grande) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rio_Grande](/_Standards/Earth/Continent/America~Central/Rio_Grande.md) 
+
+### #is_/same_as :: [Rio_Grande.public](/_public/Earth/Continent/America~Central/Rio_Grande.public.md) 
+
+### #is_/same_as :: [Rio_Grande.internal](/_internal/Earth/Continent/America~Central/Rio_Grande.internal.md) 
+
+### #is_/same_as :: [Rio_Grande.protect](/_protect/Earth/Continent/America~Central/Rio_Grande.protect.md) 
+
+### #is_/same_as :: [Rio_Grande.private](/_private/Earth/Continent/America~Central/Rio_Grande.private.md) 
+
+### #is_/same_as :: [Rio_Grande.personal](/_personal/Earth/Continent/America~Central/Rio_Grande.personal.md) 
+
+### #is_/same_as :: [Rio_Grande.secret](/_secret/Earth/Continent/America~Central/Rio_Grande.secret.md)
+

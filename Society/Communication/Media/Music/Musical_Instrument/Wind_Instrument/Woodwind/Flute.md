@@ -56,17 +56,17 @@ used_by: "[[_Standards/WikiData/WD~flautist,12902372]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Flute](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Flute.md) 
+### #is_/same_as :: [Flute](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Flute.md) 
 
-### #is_/same_as :: [Flute.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Flute.public.md) 
+### #is_/same_as :: [Flute.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Flute.public.md) 
 
-### #is_/same_as :: [Flute.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Flute.internal.md) 
+### #is_/same_as :: [Flute.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Flute.internal.md) 
 
-### #is_/same_as :: [Flute.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Flute.protect.md) 
+### #is_/same_as :: [Flute.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Flute.protect.md) 
 
-### #is_/same_as :: [Flute.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Flute.private.md) 
+### #is_/same_as :: [Flute.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Flute.private.md) 
 
-### #is_/same_as :: [Flute.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Flute.personal.md) 
+### #is_/same_as :: [Flute.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Flute.personal.md) 
 
-### #is_/same_as :: [Flute.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Flute.secret.md)
+### #is_/same_as :: [Flute.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Flute.secret.md)
 

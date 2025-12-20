@@ -106,3 +106,22 @@ work_period_end_: 1926-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harry%20Houdini) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Houdini,Harry](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Houdini,Harry.md) 
+
+### #is_/same_as :: [Houdini,Harry.public](/_public/Society/Communication/Media/Performing_Arts/Performer/Houdini,Harry.public.md) 
+
+### #is_/same_as :: [Houdini,Harry.internal](/_internal/Society/Communication/Media/Performing_Arts/Performer/Houdini,Harry.internal.md) 
+
+### #is_/same_as :: [Houdini,Harry.protect](/_protect/Society/Communication/Media/Performing_Arts/Performer/Houdini,Harry.protect.md) 
+
+### #is_/same_as :: [Houdini,Harry.private](/_private/Society/Communication/Media/Performing_Arts/Performer/Houdini,Harry.private.md) 
+
+### #is_/same_as :: [Houdini,Harry.personal](/_personal/Society/Communication/Media/Performing_Arts/Performer/Houdini,Harry.personal.md) 
+
+### #is_/same_as :: [Houdini,Harry.secret](/_secret/Society/Communication/Media/Performing_Arts/Performer/Houdini,Harry.secret.md)
+

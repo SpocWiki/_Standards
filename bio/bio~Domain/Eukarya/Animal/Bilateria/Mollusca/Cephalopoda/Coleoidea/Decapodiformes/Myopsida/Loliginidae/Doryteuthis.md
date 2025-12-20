@@ -116,7 +116,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   Specimen Condition   Live Specimen
   View                 Dorsal
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
-  -----------------------------------------------------------------------
+  -----------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

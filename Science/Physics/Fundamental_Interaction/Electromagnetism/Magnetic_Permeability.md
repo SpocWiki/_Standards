@@ -57,3 +57,22 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Permeability%20(electromagnetism)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magnetic_Permeability](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetic_Permeability.md) 
+
+### #is_/same_as :: [Magnetic_Permeability.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetic_Permeability.public.md) 
+
+### #is_/same_as :: [Magnetic_Permeability.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetic_Permeability.internal.md) 
+
+### #is_/same_as :: [Magnetic_Permeability.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetic_Permeability.protect.md) 
+
+### #is_/same_as :: [Magnetic_Permeability.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetic_Permeability.private.md) 
+
+### #is_/same_as :: [Magnetic_Permeability.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetic_Permeability.personal.md) 
+
+### #is_/same_as :: [Magnetic_Permeability.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetic_Permeability.secret.md)
+

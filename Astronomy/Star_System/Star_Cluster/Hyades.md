@@ -58,3 +58,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyades.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Hyades%20(star%20cluster)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hyades](/_Standards/Astronomy/Star_System/Star_Cluster/Hyades.md) 
+
+### #is_/same_as :: [Hyades.public](/_public/Astronomy/Star_System/Star_Cluster/Hyades.public.md) 
+
+### #is_/same_as :: [Hyades.internal](/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal.md) 
+
+### #is_/same_as :: [Hyades.protect](/_protect/Astronomy/Star_System/Star_Cluster/Hyades.protect.md) 
+
+### #is_/same_as :: [Hyades.private](/_private/Astronomy/Star_System/Star_Cluster/Hyades.private.md) 
+
+### #is_/same_as :: [Hyades.personal](/_personal/Astronomy/Star_System/Star_Cluster/Hyades.personal.md) 
+
+### #is_/same_as :: [Hyades.secret](/_secret/Astronomy/Star_System/Star_Cluster/Hyades.secret.md)
+

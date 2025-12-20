@@ -136,17 +136,17 @@ MeSH_tree_code: F01.470.132
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anxiety](/_Standards/bio/Psychology/Emotion/Anxiety.md) 
+### #is_/same_as :: [Anxiety](/_Standards/bio/Psychology/Affect/Emotion/Anxiety.md) 
 
-### #is_/same_as :: [Anxiety.public](/_public/bio/Psychology/Emotion/Anxiety.public.md) 
+### #is_/same_as :: [Anxiety.public](/_public/bio/Psychology/Affect/Emotion/Anxiety.public.md) 
 
-### #is_/same_as :: [Anxiety.internal](/_internal/bio/Psychology/Emotion/Anxiety.internal.md) 
+### #is_/same_as :: [Anxiety.internal](/_internal/bio/Psychology/Affect/Emotion/Anxiety.internal.md) 
 
-### #is_/same_as :: [Anxiety.protect](/_protect/bio/Psychology/Emotion/Anxiety.protect.md) 
+### #is_/same_as :: [Anxiety.protect](/_protect/bio/Psychology/Affect/Emotion/Anxiety.protect.md) 
 
-### #is_/same_as :: [Anxiety.private](/_private/bio/Psychology/Emotion/Anxiety.private.md) 
+### #is_/same_as :: [Anxiety.private](/_private/bio/Psychology/Affect/Emotion/Anxiety.private.md) 
 
-### #is_/same_as :: [Anxiety.personal](/_personal/bio/Psychology/Emotion/Anxiety.personal.md) 
+### #is_/same_as :: [Anxiety.personal](/_personal/bio/Psychology/Affect/Emotion/Anxiety.personal.md) 
 
-### #is_/same_as :: [Anxiety.secret](/_secret/bio/Psychology/Emotion/Anxiety.secret.md)
+### #is_/same_as :: [Anxiety.secret](/_secret/bio/Psychology/Affect/Emotion/Anxiety.secret.md)
 

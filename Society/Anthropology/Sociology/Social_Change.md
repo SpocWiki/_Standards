@@ -34,3 +34,22 @@ Commons_category: Social change
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20change) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Change](/_Standards/Society/Anthropology/Sociology/Social_Change.md) 
+
+### #is_/same_as :: [Social_Change.public](/_public/Society/Anthropology/Sociology/Social_Change.public.md) 
+
+### #is_/same_as :: [Social_Change.internal](/_internal/Society/Anthropology/Sociology/Social_Change.internal.md) 
+
+### #is_/same_as :: [Social_Change.protect](/_protect/Society/Anthropology/Sociology/Social_Change.protect.md) 
+
+### #is_/same_as :: [Social_Change.private](/_private/Society/Anthropology/Sociology/Social_Change.private.md) 
+
+### #is_/same_as :: [Social_Change.personal](/_personal/Society/Anthropology/Sociology/Social_Change.personal.md) 
+
+### #is_/same_as :: [Social_Change.secret](/_secret/Society/Anthropology/Sociology/Social_Change.secret.md)
+

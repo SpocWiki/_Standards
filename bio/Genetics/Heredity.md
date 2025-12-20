@@ -37,3 +37,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NASLEDSTVENNOST.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Heredity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heredity](/_Standards/bio/Genetics/Heredity.md) 
+
+### #is_/same_as :: [Heredity.public](/_public/bio/Genetics/Heredity.public.md) 
+
+### #is_/same_as :: [Heredity.internal](/_internal/bio/Genetics/Heredity.internal.md) 
+
+### #is_/same_as :: [Heredity.protect](/_protect/bio/Genetics/Heredity.protect.md) 
+
+### #is_/same_as :: [Heredity.private](/_private/bio/Genetics/Heredity.private.md) 
+
+### #is_/same_as :: [Heredity.personal](/_personal/bio/Genetics/Heredity.personal.md) 
+
+### #is_/same_as :: [Heredity.secret](/_secret/bio/Genetics/Heredity.secret.md)
+

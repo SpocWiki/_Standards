@@ -344,17 +344,17 @@ writing_system: "[[_Standards/WikiData/WD~Latin_script,8229]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-fr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.md) 
+### #is_/same_as :: [Lang-fra](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fra.md) 
 
-### #is_/same_as :: [Lang-fr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.public.md) 
+### #is_/same_as :: [Lang-fra.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fra.public.md) 
 
-### #is_/same_as :: [Lang-fr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.internal.md) 
+### #is_/same_as :: [Lang-fra.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fra.internal.md) 
 
-### #is_/same_as :: [Lang-fr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.protect.md) 
+### #is_/same_as :: [Lang-fra.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fra.protect.md) 
 
-### #is_/same_as :: [Lang-fr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.private.md) 
+### #is_/same_as :: [Lang-fra.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fra.private.md) 
 
-### #is_/same_as :: [Lang-fr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.personal.md) 
+### #is_/same_as :: [Lang-fra.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fra.personal.md) 
 
-### #is_/same_as :: [Lang-fr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.secret.md)
+### #is_/same_as :: [Lang-fra.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fra.secret.md)
 

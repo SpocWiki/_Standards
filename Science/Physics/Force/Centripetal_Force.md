@@ -56,3 +56,21 @@ Commons_category: Centripetal force
 > The mathematical description was derived in 1659 by the Dutch physicist Christiaan Huygens.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Centripetal%20force) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Centripetal_Force](/_Standards/Science/Physics/Force/Centripetal_Force.md) 
+
+### #is_/same_as :: [Centripetal_Force.public](/_public/Science/Physics/Force/Centripetal_Force.public.md) 
+
+### #is_/same_as :: [Centripetal_Force.internal](/_internal/Science/Physics/Force/Centripetal_Force.internal.md) 
+
+### #is_/same_as :: [Centripetal_Force.protect](/_protect/Science/Physics/Force/Centripetal_Force.protect.md) 
+
+### #is_/same_as :: [Centripetal_Force.private](/_private/Science/Physics/Force/Centripetal_Force.private.md) 
+
+### #is_/same_as :: [Centripetal_Force.personal](/_personal/Science/Physics/Force/Centripetal_Force.personal.md) 
+
+### #is_/same_as :: [Centripetal_Force.secret](/_secret/Science/Physics/Force/Centripetal_Force.secret.md)
+

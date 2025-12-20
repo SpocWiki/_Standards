@@ -17,3 +17,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grave) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grave](/_Standards/bio/Metabolism/Death/Funeral/Burial/Grave.md) 
+
+### #is_/same_as :: [Grave.public](/_public/bio/Metabolism/Death/Funeral/Burial/Grave.public.md) 
+
+### #is_/same_as :: [Grave.internal](/_internal/bio/Metabolism/Death/Funeral/Burial/Grave.internal.md) 
+
+### #is_/same_as :: [Grave.protect](/_protect/bio/Metabolism/Death/Funeral/Burial/Grave.protect.md) 
+
+### #is_/same_as :: [Grave.private](/_private/bio/Metabolism/Death/Funeral/Burial/Grave.private.md) 
+
+### #is_/same_as :: [Grave.personal](/_personal/bio/Metabolism/Death/Funeral/Burial/Grave.personal.md) 
+
+### #is_/same_as :: [Grave.secret](/_secret/bio/Metabolism/Death/Funeral/Burial/Grave.secret.md)
+

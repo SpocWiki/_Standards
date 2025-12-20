@@ -40,17 +40,17 @@ A diet focused on reduced fat and cholesterol intake.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Low_Fat_Diet](Low_Fat_Diet.md) 
+### #is_/same_as :: [Low_Fat_Diet](/_Standards/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.md) 
 
-### #is_/same_as :: [low_fat_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.public.md) 
+### #is_/same_as :: [Low_Fat_Diet.public](/_public/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.public.md) 
 
-### #is_/same_as :: [low_fat_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.internal.md) 
+### #is_/same_as :: [Low_Fat_Diet.internal](/_internal/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.internal.md) 
 
-### #is_/same_as :: [low_fat_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.protect.md) 
+### #is_/same_as :: [Low_Fat_Diet.protect](/_protect/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.protect.md) 
 
-### #is_/same_as :: [low_fat_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.private.md) 
+### #is_/same_as :: [Low_Fat_Diet.private](/_private/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.private.md) 
 
-### #is_/same_as :: [low_fat_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.personal.md) 
+### #is_/same_as :: [Low_Fat_Diet.personal](/_personal/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.personal.md) 
 
-### #is_/same_as :: [low_fat_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.secret.md)
+### #is_/same_as :: [Low_Fat_Diet.secret](/_secret/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.secret.md)
 

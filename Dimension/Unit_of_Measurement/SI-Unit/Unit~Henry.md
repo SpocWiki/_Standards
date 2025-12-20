@@ -17,3 +17,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20(unit)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Henry](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Henry.md) 
+
+### #is_/same_as :: [Unit~Henry.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Henry.public.md) 
+
+### #is_/same_as :: [Unit~Henry.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Henry.internal.md) 
+
+### #is_/same_as :: [Unit~Henry.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Henry.protect.md) 
+
+### #is_/same_as :: [Unit~Henry.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Henry.private.md) 
+
+### #is_/same_as :: [Unit~Henry.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Henry.personal.md) 
+
+### #is_/same_as :: [Unit~Henry.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Henry.secret.md)
+

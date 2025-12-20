@@ -254,3 +254,22 @@ Baidu_Tieba_name: 神秘博士
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doctor%20Who) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Doctor_Who](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.md) 
+
+### #is_/same_as :: [Doctor_Who.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.public.md) 
+
+### #is_/same_as :: [Doctor_Who.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.internal.md) 
+
+### #is_/same_as :: [Doctor_Who.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.protect.md) 
+
+### #is_/same_as :: [Doctor_Who.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.private.md) 
+
+### #is_/same_as :: [Doctor_Who.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.personal.md) 
+
+### #is_/same_as :: [Doctor_Who.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Doctor_Who.secret.md)
+

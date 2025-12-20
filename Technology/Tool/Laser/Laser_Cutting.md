@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laser%20cutting) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Laser_Cutting](/_Standards/Technology/Tool/Laser/Laser_Cutting.md) 
+
+### #is_/same_as :: [Laser_Cutting.public](/_public/Technology/Tool/Laser/Laser_Cutting.public.md) 
+
+### #is_/same_as :: [Laser_Cutting.internal](/_internal/Technology/Tool/Laser/Laser_Cutting.internal.md) 
+
+### #is_/same_as :: [Laser_Cutting.protect](/_protect/Technology/Tool/Laser/Laser_Cutting.protect.md) 
+
+### #is_/same_as :: [Laser_Cutting.private](/_private/Technology/Tool/Laser/Laser_Cutting.private.md) 
+
+### #is_/same_as :: [Laser_Cutting.personal](/_personal/Technology/Tool/Laser/Laser_Cutting.personal.md) 
+
+### #is_/same_as :: [Laser_Cutting.secret](/_secret/Technology/Tool/Laser/Laser_Cutting.secret.md)
+

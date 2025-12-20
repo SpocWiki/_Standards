@@ -42,17 +42,17 @@ Represents the downpayment (up-front payment) price component of the total price
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Downpayment](Downpayment.md) 
+### #is_/same_as :: [Downpayment](/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.md) 
 
-### #is_/same_as :: [downpayment.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.public.md) 
+### #is_/same_as :: [Downpayment.public](/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.public.md) 
 
-### #is_/same_as :: [downpayment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.internal.md) 
+### #is_/same_as :: [Downpayment.internal](/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.internal.md) 
 
-### #is_/same_as :: [downpayment.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.protect.md) 
+### #is_/same_as :: [Downpayment.protect](/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.protect.md) 
 
-### #is_/same_as :: [downpayment.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.private.md) 
+### #is_/same_as :: [Downpayment.private](/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.private.md) 
 
-### #is_/same_as :: [downpayment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.personal.md) 
+### #is_/same_as :: [Downpayment.personal](/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.personal.md) 
 
-### #is_/same_as :: [downpayment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.secret.md)
+### #is_/same_as :: [Downpayment.secret](/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.secret.md)
 

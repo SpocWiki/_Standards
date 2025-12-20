@@ -28,3 +28,21 @@ code_name: protective custody
 > Museums commemorating the victims of the Nazi regime have been established at many of the former camps, and the **Nazi concentration camp** system is universally known for violence, terror, and mass murder.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nazi%20concentration%20camps)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nazi_Concentration_Camp](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.md) 
+
+### #is_/same_as :: [Nazi_Concentration_Camp.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.public.md) 
+
+### #is_/same_as :: [Nazi_Concentration_Camp.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.internal.md) 
+
+### #is_/same_as :: [Nazi_Concentration_Camp.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.protect.md) 
+
+### #is_/same_as :: [Nazi_Concentration_Camp.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.private.md) 
+
+### #is_/same_as :: [Nazi_Concentration_Camp.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.personal.md) 
+
+### #is_/same_as :: [Nazi_Concentration_Camp.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.secret.md)
+

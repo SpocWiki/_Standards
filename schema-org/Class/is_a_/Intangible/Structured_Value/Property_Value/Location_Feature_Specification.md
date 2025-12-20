@@ -39,17 +39,17 @@ Specifies a location feature by providing a structured value representing a feat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [location_feature_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.md) 
+### #is_/same_as :: [Location_Feature_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.md) 
 
-### #is_/same_as :: [location_feature_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.public.md) 
+### #is_/same_as :: [Location_Feature_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.public.md) 
 
-### #is_/same_as :: [location_feature_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.internal.md) 
+### #is_/same_as :: [Location_Feature_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.internal.md) 
 
-### #is_/same_as :: [location_feature_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.protect.md) 
+### #is_/same_as :: [Location_Feature_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.protect.md) 
 
-### #is_/same_as :: [location_feature_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.private.md) 
+### #is_/same_as :: [Location_Feature_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.private.md) 
 
-### #is_/same_as :: [location_feature_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.personal.md) 
+### #is_/same_as :: [Location_Feature_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.personal.md) 
 
-### #is_/same_as :: [location_feature_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.secret.md)
+### #is_/same_as :: [Location_Feature_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.secret.md)
 

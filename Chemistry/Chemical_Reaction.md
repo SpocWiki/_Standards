@@ -47,3 +47,22 @@ subreddit: chemicalreactiongifs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20reaction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chemical_Reaction](/_Standards/Chemistry/Chemical_Reaction.md) 
+
+### #is_/same_as :: [Chemical_Reaction.public](/_public/Chemistry/Chemical_Reaction.public.md) 
+
+### #is_/same_as :: [Chemical_Reaction.internal](/_internal/Chemistry/Chemical_Reaction.internal.md) 
+
+### #is_/same_as :: [Chemical_Reaction.protect](/_protect/Chemistry/Chemical_Reaction.protect.md) 
+
+### #is_/same_as :: [Chemical_Reaction.private](/_private/Chemistry/Chemical_Reaction.private.md) 
+
+### #is_/same_as :: [Chemical_Reaction.personal](/_personal/Chemistry/Chemical_Reaction.personal.md) 
+
+### #is_/same_as :: [Chemical_Reaction.secret](/_secret/Chemistry/Chemical_Reaction.secret.md)
+

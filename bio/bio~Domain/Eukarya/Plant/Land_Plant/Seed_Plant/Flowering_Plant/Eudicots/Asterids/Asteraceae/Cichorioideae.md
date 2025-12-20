@@ -30,3 +30,22 @@ taxon_name: Cichorioideae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cichorioideae) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cichorioideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae.md) 
+
+### #is_/same_as :: [Cichorioideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae.public.md) 
+
+### #is_/same_as :: [Cichorioideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae.internal.md) 
+
+### #is_/same_as :: [Cichorioideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae.protect.md) 
+
+### #is_/same_as :: [Cichorioideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae.private.md) 
+
+### #is_/same_as :: [Cichorioideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae.personal.md) 
+
+### #is_/same_as :: [Cichorioideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Cichorioideae.secret.md)
+

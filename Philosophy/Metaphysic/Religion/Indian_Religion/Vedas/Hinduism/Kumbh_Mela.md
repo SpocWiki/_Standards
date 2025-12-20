@@ -43,3 +43,22 @@ Commons_category: Kumbh Mela
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kumbh%20Mela) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kumbh_Mela](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.md) 
+
+### #is_/same_as :: [Kumbh_Mela.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.public.md) 
+
+### #is_/same_as :: [Kumbh_Mela.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.internal.md) 
+
+### #is_/same_as :: [Kumbh_Mela.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.protect.md) 
+
+### #is_/same_as :: [Kumbh_Mela.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.private.md) 
+
+### #is_/same_as :: [Kumbh_Mela.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.personal.md) 
+
+### #is_/same_as :: [Kumbh_Mela.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.secret.md)
+

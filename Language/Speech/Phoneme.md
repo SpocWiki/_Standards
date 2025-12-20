@@ -36,17 +36,17 @@ Wikidata_property: "has phoneme"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phoneme](Phoneme.md) 
+### #is_/same_as :: [Phoneme](/_Standards/Language/Speech/Phoneme.md) 
 
-### #is_/same_as :: [Phoneme.public](/_public/Language/Word/Phoneme.public.md) 
+### #is_/same_as :: [Phoneme.public](/_public/Language/Speech/Phoneme.public.md) 
 
-### #is_/same_as :: [Phoneme.internal](/_internal/Language/Word/Phoneme.internal.md) 
+### #is_/same_as :: [Phoneme.internal](/_internal/Language/Speech/Phoneme.internal.md) 
 
-### #is_/same_as :: [Phoneme.protect](/_protect/Language/Word/Phoneme.protect.md) 
+### #is_/same_as :: [Phoneme.protect](/_protect/Language/Speech/Phoneme.protect.md) 
 
-### #is_/same_as :: [Phoneme.private](/_private/Language/Word/Phoneme.private.md) 
+### #is_/same_as :: [Phoneme.private](/_private/Language/Speech/Phoneme.private.md) 
 
-### #is_/same_as :: [Phoneme.personal](/_personal/Language/Word/Phoneme.personal.md) 
+### #is_/same_as :: [Phoneme.personal](/_personal/Language/Speech/Phoneme.personal.md) 
 
-### #is_/same_as :: [Phoneme.secret](/_secret/Language/Word/Phoneme.secret.md)
+### #is_/same_as :: [Phoneme.secret](/_secret/Language/Speech/Phoneme.secret.md)
 

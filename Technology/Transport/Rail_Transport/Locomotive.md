@@ -51,3 +51,22 @@ Iconclass_notation: 46C152
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Locomotive) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Locomotive](/_Standards/Technology/Transport/Rail_Transport/Locomotive.md) 
+
+### #is_/same_as :: [Locomotive.public](/_public/Technology/Transport/Rail_Transport/Locomotive.public.md) 
+
+### #is_/same_as :: [Locomotive.internal](/_internal/Technology/Transport/Rail_Transport/Locomotive.internal.md) 
+
+### #is_/same_as :: [Locomotive.protect](/_protect/Technology/Transport/Rail_Transport/Locomotive.protect.md) 
+
+### #is_/same_as :: [Locomotive.private](/_private/Technology/Transport/Rail_Transport/Locomotive.private.md) 
+
+### #is_/same_as :: [Locomotive.personal](/_personal/Technology/Transport/Rail_Transport/Locomotive.personal.md) 
+
+### #is_/same_as :: [Locomotive.secret](/_secret/Technology/Transport/Rail_Transport/Locomotive.secret.md)
+

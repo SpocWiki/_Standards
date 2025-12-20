@@ -76,3 +76,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PERSE.html
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Perseus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Perseus.md) 
+
+### #is_/same_as :: [Perseus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Perseus.public.md) 
+
+### #is_/same_as :: [Perseus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Perseus.internal.md) 
+
+### #is_/same_as :: [Perseus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Perseus.protect.md) 
+
+### #is_/same_as :: [Perseus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Perseus.private.md) 
+
+### #is_/same_as :: [Perseus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Perseus.personal.md) 
+
+### #is_/same_as :: [Perseus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Perseus.secret.md)
+

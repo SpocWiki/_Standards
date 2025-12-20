@@ -47,3 +47,22 @@ Krugosvet_article:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dharma) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dharma](/_Standards/Philosophy/Metaphysic/Religion/Dharma.md) 
+
+### #is_/same_as :: [Dharma.public](/_public/Philosophy/Metaphysic/Religion/Dharma.public.md) 
+
+### #is_/same_as :: [Dharma.internal](/_internal/Philosophy/Metaphysic/Religion/Dharma.internal.md) 
+
+### #is_/same_as :: [Dharma.protect](/_protect/Philosophy/Metaphysic/Religion/Dharma.protect.md) 
+
+### #is_/same_as :: [Dharma.private](/_private/Philosophy/Metaphysic/Religion/Dharma.private.md) 
+
+### #is_/same_as :: [Dharma.personal](/_personal/Philosophy/Metaphysic/Religion/Dharma.personal.md) 
+
+### #is_/same_as :: [Dharma.secret](/_secret/Philosophy/Metaphysic/Religion/Dharma.secret.md)
+

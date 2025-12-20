@@ -45,7 +45,7 @@ Araneoidea, Cyatholipidae). Mem. Calif. Acad. Sci. 26:1-251.
 
 Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
 [http://research.amnh.org/entomology/spiders/catalog/INTRO1.html.](){http:=""
-research.amnh.org="" entomology="" spiders="" catalog="" index.html=""}
+research.amnh.org="" entomology="" spiders="" catalog="" index.html=""}
 
 
 ## Confidential Links & Embeds: 

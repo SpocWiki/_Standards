@@ -68,3 +68,22 @@ Commons_category: Radio modulation modes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Signal%20modulation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modulation](/_Standards/Technology/IT/Data/Code/Encoding/Modulation.md) 
+
+### #is_/same_as :: [Modulation.public](/_public/Technology/IT/Data/Code/Encoding/Modulation.public.md) 
+
+### #is_/same_as :: [Modulation.internal](/_internal/Technology/IT/Data/Code/Encoding/Modulation.internal.md) 
+
+### #is_/same_as :: [Modulation.protect](/_protect/Technology/IT/Data/Code/Encoding/Modulation.protect.md) 
+
+### #is_/same_as :: [Modulation.private](/_private/Technology/IT/Data/Code/Encoding/Modulation.private.md) 
+
+### #is_/same_as :: [Modulation.personal](/_personal/Technology/IT/Data/Code/Encoding/Modulation.personal.md) 
+
+### #is_/same_as :: [Modulation.secret](/_secret/Technology/IT/Data/Code/Encoding/Modulation.secret.md)
+

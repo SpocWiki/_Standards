@@ -28,3 +28,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Schmeling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schmeling,Max](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.md) 
+
+### #is_/same_as :: [Schmeling,Max.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.public.md) 
+
+### #is_/same_as :: [Schmeling,Max.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.internal.md) 
+
+### #is_/same_as :: [Schmeling,Max.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.protect.md) 
+
+### #is_/same_as :: [Schmeling,Max.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.private.md) 
+
+### #is_/same_as :: [Schmeling,Max.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.personal.md) 
+
+### #is_/same_as :: [Schmeling,Max.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Schmeling,Max.secret.md)
+

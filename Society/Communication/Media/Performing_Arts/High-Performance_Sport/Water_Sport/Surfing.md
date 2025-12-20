@@ -69,3 +69,22 @@ OpenStreetMap_tag: sport=surfing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surfing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Surfing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.md) 
+
+### #is_/same_as :: [Surfing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.public.md) 
+
+### #is_/same_as :: [Surfing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.internal.md) 
+
+### #is_/same_as :: [Surfing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.protect.md) 
+
+### #is_/same_as :: [Surfing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.private.md) 
+
+### #is_/same_as :: [Surfing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.personal.md) 
+
+### #is_/same_as :: [Surfing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.secret.md)
+

@@ -52,3 +52,22 @@ IMDb_keyword: lottery
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lottery) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lottery](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.md) 
+
+### #is_/same_as :: [Lottery.public](/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.public.md) 
+
+### #is_/same_as :: [Lottery.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.internal.md) 
+
+### #is_/same_as :: [Lottery.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.protect.md) 
+
+### #is_/same_as :: [Lottery.private](/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.private.md) 
+
+### #is_/same_as :: [Lottery.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.personal.md) 
+
+### #is_/same_as :: [Lottery.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.secret.md)
+

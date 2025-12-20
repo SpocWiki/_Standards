@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lock%20and%20key) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lock](/_Standards/Society/Agent/Management/Risk-Management/Security/Lock.md) 
+
+### #is_/same_as :: [Lock.public](/_public/Society/Agent/Management/Risk-Management/Security/Lock.public.md) 
+
+### #is_/same_as :: [Lock.internal](/_internal/Society/Agent/Management/Risk-Management/Security/Lock.internal.md) 
+
+### #is_/same_as :: [Lock.protect](/_protect/Society/Agent/Management/Risk-Management/Security/Lock.protect.md) 
+
+### #is_/same_as :: [Lock.private](/_private/Society/Agent/Management/Risk-Management/Security/Lock.private.md) 
+
+### #is_/same_as :: [Lock.personal](/_personal/Society/Agent/Management/Risk-Management/Security/Lock.personal.md) 
+
+### #is_/same_as :: [Lock.secret](/_secret/Society/Agent/Management/Risk-Management/Security/Lock.secret.md)
+

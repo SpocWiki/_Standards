@@ -170,3 +170,22 @@ ISNI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rosa%20Luxemburg) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rosa_Luxemburg](/_Standards/Society/Politics/Government/Leader/Rosa_Luxemburg.md) 
+
+### #is_/same_as :: [Rosa_Luxemburg.public](/_public/Society/Politics/Government/Leader/Rosa_Luxemburg.public.md) 
+
+### #is_/same_as :: [Rosa_Luxemburg.internal](/_internal/Society/Politics/Government/Leader/Rosa_Luxemburg.internal.md) 
+
+### #is_/same_as :: [Rosa_Luxemburg.protect](/_protect/Society/Politics/Government/Leader/Rosa_Luxemburg.protect.md) 
+
+### #is_/same_as :: [Rosa_Luxemburg.private](/_private/Society/Politics/Government/Leader/Rosa_Luxemburg.private.md) 
+
+### #is_/same_as :: [Rosa_Luxemburg.personal](/_personal/Society/Politics/Government/Leader/Rosa_Luxemburg.personal.md) 
+
+### #is_/same_as :: [Rosa_Luxemburg.secret](/_secret/Society/Politics/Government/Leader/Rosa_Luxemburg.secret.md)
+

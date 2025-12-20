@@ -42,3 +42,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Demilitarized%20zone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Demilitarized_Zone](/_Standards/Society/Military/Demilitarized_Zone.md) 
+
+### #is_/same_as :: [Demilitarized_Zone.public](/_public/Society/Military/Demilitarized_Zone.public.md) 
+
+### #is_/same_as :: [Demilitarized_Zone.internal](/_internal/Society/Military/Demilitarized_Zone.internal.md) 
+
+### #is_/same_as :: [Demilitarized_Zone.protect](/_protect/Society/Military/Demilitarized_Zone.protect.md) 
+
+### #is_/same_as :: [Demilitarized_Zone.private](/_private/Society/Military/Demilitarized_Zone.private.md) 
+
+### #is_/same_as :: [Demilitarized_Zone.personal](/_personal/Society/Military/Demilitarized_Zone.personal.md) 
+
+### #is_/same_as :: [Demilitarized_Zone.secret](/_secret/Society/Military/Demilitarized_Zone.secret.md)
+

@@ -100,3 +100,22 @@ Libris_URI: 1zcf9swk0mbjv0l
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Herodotus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Herodotus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Herodotus.md) 
+
+### #is_/same_as :: [Herodotus.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Herodotus.public.md) 
+
+### #is_/same_as :: [Herodotus.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Herodotus.internal.md) 
+
+### #is_/same_as :: [Herodotus.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Herodotus.protect.md) 
+
+### #is_/same_as :: [Herodotus.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Herodotus.private.md) 
+
+### #is_/same_as :: [Herodotus.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Herodotus.personal.md) 
+
+### #is_/same_as :: [Herodotus.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Herodotus.secret.md)
+

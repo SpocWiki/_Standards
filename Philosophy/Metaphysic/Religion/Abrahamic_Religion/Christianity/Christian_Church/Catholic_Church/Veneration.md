@@ -32,3 +32,22 @@ Provenio_UUID: 534e1e79-a17a-43cc-b159-c3e7f7dd3bee
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Veneration  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Veneration](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Veneration.md) 
+
+### #is_/same_as :: [Veneration.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Veneration.public.md) 
+
+### #is_/same_as :: [Veneration.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Veneration.internal.md) 
+
+### #is_/same_as :: [Veneration.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Veneration.protect.md) 
+
+### #is_/same_as :: [Veneration.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Veneration.private.md) 
+
+### #is_/same_as :: [Veneration.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Veneration.personal.md) 
+
+### #is_/same_as :: [Veneration.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Veneration.secret.md)
+

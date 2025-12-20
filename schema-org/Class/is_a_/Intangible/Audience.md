@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [audience](/_Standards/schema-org/Class/is_a_/Intangible/audience.md) 
+### #is_/same_as :: [Audience](/_Standards/schema-org/Class/is_a_/Intangible/Audience.md) 
 
-### #is_/same_as :: [audience.public](/_public/schema-org/Class/is_a_/Intangible/audience.public.md) 
+### #is_/same_as :: [Audience.public](/_public/schema-org/Class/is_a_/Intangible/Audience.public.md) 
 
-### #is_/same_as :: [audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience.internal.md) 
+### #is_/same_as :: [Audience.internal](/_internal/schema-org/Class/is_a_/Intangible/Audience.internal.md) 
 
-### #is_/same_as :: [audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience.protect.md) 
+### #is_/same_as :: [Audience.protect](/_protect/schema-org/Class/is_a_/Intangible/Audience.protect.md) 
 
-### #is_/same_as :: [audience.private](/_private/schema-org/Class/is_a_/Intangible/audience.private.md) 
+### #is_/same_as :: [Audience.private](/_private/schema-org/Class/is_a_/Intangible/Audience.private.md) 
 
-### #is_/same_as :: [audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience.personal.md) 
+### #is_/same_as :: [Audience.personal](/_personal/schema-org/Class/is_a_/Intangible/Audience.personal.md) 
 
-### #is_/same_as :: [audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience.secret.md)
+### #is_/same_as :: [Audience.secret](/_secret/schema-org/Class/is_a_/Intangible/Audience.secret.md)
 

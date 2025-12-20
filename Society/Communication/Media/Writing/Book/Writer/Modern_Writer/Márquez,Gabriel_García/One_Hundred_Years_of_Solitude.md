@@ -60,3 +60,22 @@ first_line: Muchos años después, frente al pelotón de fusilamiento, el corone
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/One%20Hundred%20Years%20of%20Solitude) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [One_Hundred_Years_of_Solitude](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.md) 
+
+### #is_/same_as :: [One_Hundred_Years_of_Solitude.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.public.md) 
+
+### #is_/same_as :: [One_Hundred_Years_of_Solitude.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.internal.md) 
+
+### #is_/same_as :: [One_Hundred_Years_of_Solitude.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.protect.md) 
+
+### #is_/same_as :: [One_Hundred_Years_of_Solitude.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.private.md) 
+
+### #is_/same_as :: [One_Hundred_Years_of_Solitude.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.personal.md) 
+
+### #is_/same_as :: [One_Hundred_Years_of_Solitude.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García/One_Hundred_Years_of_Solitude.secret.md)
+

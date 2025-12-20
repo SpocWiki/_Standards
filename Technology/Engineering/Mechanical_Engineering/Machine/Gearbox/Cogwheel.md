@@ -89,3 +89,22 @@ Commons_category: Gears
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gear) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cogwheel](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.md) 
+
+### #is_/same_as :: [Cogwheel.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.public.md) 
+
+### #is_/same_as :: [Cogwheel.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.internal.md) 
+
+### #is_/same_as :: [Cogwheel.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.protect.md) 
+
+### #is_/same_as :: [Cogwheel.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.private.md) 
+
+### #is_/same_as :: [Cogwheel.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.personal.md) 
+
+### #is_/same_as :: [Cogwheel.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.secret.md)
+

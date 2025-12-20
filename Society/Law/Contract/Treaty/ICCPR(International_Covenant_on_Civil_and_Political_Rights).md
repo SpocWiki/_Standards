@@ -98,3 +98,22 @@ title:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Covenant%20on%20Civil%20and%20Political%20Rights) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ICCPR(International_Covenant_on_Civil_and_Political_Rights)](/_Standards/Society/Law/Contract/Treaty/ICCPR(International_Covenant_on_Civil_and_Political_Rights).md) 
+
+### #is_/same_as :: [ICCPR(International_Covenant_on_Civil_and_Political_Rights).public](/_public/Society/Law/Contract/Treaty/ICCPR(International_Covenant_on_Civil_and_Political_Rights).public.md) 
+
+### #is_/same_as :: [ICCPR(International_Covenant_on_Civil_and_Political_Rights).internal](/_internal/Society/Law/Contract/Treaty/ICCPR(International_Covenant_on_Civil_and_Political_Rights).internal.md) 
+
+### #is_/same_as :: [ICCPR(International_Covenant_on_Civil_and_Political_Rights).protect](/_protect/Society/Law/Contract/Treaty/ICCPR(International_Covenant_on_Civil_and_Political_Rights).protect.md) 
+
+### #is_/same_as :: [ICCPR(International_Covenant_on_Civil_and_Political_Rights).private](/_private/Society/Law/Contract/Treaty/ICCPR(International_Covenant_on_Civil_and_Political_Rights).private.md) 
+
+### #is_/same_as :: [ICCPR(International_Covenant_on_Civil_and_Political_Rights).personal](/_personal/Society/Law/Contract/Treaty/ICCPR(International_Covenant_on_Civil_and_Political_Rights).personal.md) 
+
+### #is_/same_as :: [ICCPR(International_Covenant_on_Civil_and_Political_Rights).secret](/_secret/Society/Law/Contract/Treaty/ICCPR(International_Covenant_on_Civil_and_Political_Rights).secret.md)
+

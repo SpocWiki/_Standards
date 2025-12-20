@@ -158,19 +158,20 @@ The Advent of Nuclear Bombs has frozen Imperial Borders since 1945.
 | Environmental shocks (droughts, disease) | 54       | 0.69                                  |
 | Internal political fragmentation         | 52       | 0.66                                  |
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civilization](/_Standards/Society/Civilization.md) 
+### #is_/same_as :: [Civilization](/_Standards/Society/Culture/Civilization.md) 
 
-### #is_/same_as :: [Civilization.public](/_public/Society/Civilization.public.md) 
+### #is_/same_as :: [Civilization.public](/_public/Society/Culture/Civilization.public.md) 
 
-### #is_/same_as :: [Civilization.internal](/_internal/Society/Civilization.internal.md) 
+### #is_/same_as :: [Civilization.internal](/_internal/Society/Culture/Civilization.internal.md) 
 
-### #is_/same_as :: [Civilization.protect](/_protect/Society/Civilization.protect.md) 
+### #is_/same_as :: [Civilization.protect](/_protect/Society/Culture/Civilization.protect.md) 
 
-### #is_/same_as :: [Civilization.private](/_private/Society/Civilization.private.md) 
+### #is_/same_as :: [Civilization.private](/_private/Society/Culture/Civilization.private.md) 
 
-### #is_/same_as :: [Civilization.personal](/_personal/Society/Civilization.personal.md) 
+### #is_/same_as :: [Civilization.personal](/_personal/Society/Culture/Civilization.personal.md) 
 
-### #is_/same_as :: [Civilization.secret](/_secret/Society/Civilization.secret.md)
+### #is_/same_as :: [Civilization.secret](/_secret/Society/Culture/Civilization.secret.md)
 

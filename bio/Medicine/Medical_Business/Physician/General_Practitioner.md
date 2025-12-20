@@ -91,3 +91,22 @@ male_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20practitioner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [General_Practitioner](/_Standards/bio/Medicine/Medical_Business/Physician/General_Practitioner.md) 
+
+### #is_/same_as :: [General_Practitioner.public](/_public/bio/Medicine/Medical_Business/Physician/General_Practitioner.public.md) 
+
+### #is_/same_as :: [General_Practitioner.internal](/_internal/bio/Medicine/Medical_Business/Physician/General_Practitioner.internal.md) 
+
+### #is_/same_as :: [General_Practitioner.protect](/_protect/bio/Medicine/Medical_Business/Physician/General_Practitioner.protect.md) 
+
+### #is_/same_as :: [General_Practitioner.private](/_private/bio/Medicine/Medical_Business/Physician/General_Practitioner.private.md) 
+
+### #is_/same_as :: [General_Practitioner.personal](/_personal/bio/Medicine/Medical_Business/Physician/General_Practitioner.personal.md) 
+
+### #is_/same_as :: [General_Practitioner.secret](/_secret/bio/Medicine/Medical_Business/Physician/General_Practitioner.secret.md)
+

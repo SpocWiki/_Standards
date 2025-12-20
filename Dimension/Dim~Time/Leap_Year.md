@@ -60,3 +60,22 @@ Google_Doodle: leap-year-2008
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leap%20year) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leap_Year](/_Standards/Dimension/Dim~Time/Leap_Year.md) 
+
+### #is_/same_as :: [Leap_Year.public](/_public/Dimension/Dim~Time/Leap_Year.public.md) 
+
+### #is_/same_as :: [Leap_Year.internal](/_internal/Dimension/Dim~Time/Leap_Year.internal.md) 
+
+### #is_/same_as :: [Leap_Year.protect](/_protect/Dimension/Dim~Time/Leap_Year.protect.md) 
+
+### #is_/same_as :: [Leap_Year.private](/_private/Dimension/Dim~Time/Leap_Year.private.md) 
+
+### #is_/same_as :: [Leap_Year.personal](/_personal/Dimension/Dim~Time/Leap_Year.personal.md) 
+
+### #is_/same_as :: [Leap_Year.secret](/_secret/Dimension/Dim~Time/Leap_Year.secret.md)
+

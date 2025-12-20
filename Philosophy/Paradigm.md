@@ -26,3 +26,22 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/PARADIGMA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paradigm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paradigm](/_Standards/Philosophy/Paradigm.md) 
+
+### #is_/same_as :: [Paradigm.public](/_public/Philosophy/Paradigm.public.md) 
+
+### #is_/same_as :: [Paradigm.internal](/_internal/Philosophy/Paradigm.internal.md) 
+
+### #is_/same_as :: [Paradigm.protect](/_protect/Philosophy/Paradigm.protect.md) 
+
+### #is_/same_as :: [Paradigm.private](/_private/Philosophy/Paradigm.private.md) 
+
+### #is_/same_as :: [Paradigm.personal](/_personal/Philosophy/Paradigm.personal.md) 
+
+### #is_/same_as :: [Paradigm.secret](/_secret/Philosophy/Paradigm.secret.md)
+

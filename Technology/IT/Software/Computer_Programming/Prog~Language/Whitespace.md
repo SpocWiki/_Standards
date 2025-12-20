@@ -69,3 +69,22 @@ XML has the broadest Definition of Unicode Whitespace Characters:
 | [zero width joiner](https://en.wikipedia.org/wiki/Zero_width_joiner "Zero width joiner")             |     |
 | [word joiner](https://en.wikipedia.org/wiki/Word_joiner "Word joiner")                               |     |
 | [zero width non-breaking space](https://en.wikipedia.org/wiki/Word_joiner "Word joiner")             |     |
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Whitespace](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.md) 
+
+### #is_/same_as :: [Whitespace.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.public.md) 
+
+### #is_/same_as :: [Whitespace.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.internal.md) 
+
+### #is_/same_as :: [Whitespace.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.protect.md) 
+
+### #is_/same_as :: [Whitespace.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.private.md) 
+
+### #is_/same_as :: [Whitespace.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.personal.md) 
+
+### #is_/same_as :: [Whitespace.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Whitespace.secret.md)
+

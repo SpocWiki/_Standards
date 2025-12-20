@@ -46,3 +46,22 @@ Commons_category: Watering cans
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Watering%20can) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Watering_Can](/_Standards/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.md) 
+
+### #is_/same_as :: [Watering_Can.public](/_public/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.public.md) 
+
+### #is_/same_as :: [Watering_Can.internal](/_internal/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.internal.md) 
+
+### #is_/same_as :: [Watering_Can.protect](/_protect/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.protect.md) 
+
+### #is_/same_as :: [Watering_Can.private](/_private/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.private.md) 
+
+### #is_/same_as :: [Watering_Can.personal](/_personal/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.personal.md) 
+
+### #is_/same_as :: [Watering_Can.secret](/_secret/Society/Economics/Industry/Agriculture/Irrigation/Watering_Can.secret.md)
+

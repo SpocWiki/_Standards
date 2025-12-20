@@ -168,7 +168,7 @@ Neptune City, NJ, 351pp.
   Scientific Name ::  Cirrothauma murrayi
   Reference         Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18: 1-522 + Atlas.
   Size              37 mm ML
-  ---------------------------------------------------
+  ---------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

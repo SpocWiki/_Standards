@@ -47,3 +47,22 @@ Commons_category: Philately
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philately) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Philately](/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.md) 
+
+### #is_/same_as :: [Philately.public](/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.public.md) 
+
+### #is_/same_as :: [Philately.internal](/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.internal.md) 
+
+### #is_/same_as :: [Philately.protect](/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.protect.md) 
+
+### #is_/same_as :: [Philately.private](/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.private.md) 
+
+### #is_/same_as :: [Philately.personal](/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.personal.md) 
+
+### #is_/same_as :: [Philately.secret](/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.secret.md)
+

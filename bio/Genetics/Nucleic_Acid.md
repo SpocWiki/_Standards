@@ -45,3 +45,22 @@ Commons_category: Nucleic acids
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nucleic%20acid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nucleic_Acid](/_Standards/bio/Genetics/Nucleic_Acid.md) 
+
+### #is_/same_as :: [Nucleic_Acid.public](/_public/bio/Genetics/Nucleic_Acid.public.md) 
+
+### #is_/same_as :: [Nucleic_Acid.internal](/_internal/bio/Genetics/Nucleic_Acid.internal.md) 
+
+### #is_/same_as :: [Nucleic_Acid.protect](/_protect/bio/Genetics/Nucleic_Acid.protect.md) 
+
+### #is_/same_as :: [Nucleic_Acid.private](/_private/bio/Genetics/Nucleic_Acid.private.md) 
+
+### #is_/same_as :: [Nucleic_Acid.personal](/_personal/bio/Genetics/Nucleic_Acid.personal.md) 
+
+### #is_/same_as :: [Nucleic_Acid.secret](/_secret/bio/Genetics/Nucleic_Acid.secret.md)
+

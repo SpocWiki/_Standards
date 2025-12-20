@@ -113,3 +113,21 @@ Libris_URI: gdsvpsv01w1kcbk
 > Genghis Khan remains a controversial figure. He was generous and intensely loyal to his followers, but ruthless towards his enemies. He welcomed advice from diverse sources in his quest for world domination, for which he believed the shamanic supreme deity Tengri had destined him. The Mongol army under Genghis killed millions of people, yet his conquests also facilitated unprecedented commercial and cultural exchange over a vast geographical area. He is remembered as a backwards, savage tyrant in Russia and the Arab world, while recent Western scholarship has begun to reassess its previous view of him as a barbarian warlord. He was posthumously deified in Mongolia; modern Mongolians recognise him as the founding father of their nation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genghis%20Khan)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Genghis_Khan](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.md) 
+
+### #is_/same_as :: [Genghis_Khan.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.public.md) 
+
+### #is_/same_as :: [Genghis_Khan.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.internal.md) 
+
+### #is_/same_as :: [Genghis_Khan.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.protect.md) 
+
+### #is_/same_as :: [Genghis_Khan.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.private.md) 
+
+### #is_/same_as :: [Genghis_Khan.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.personal.md) 
+
+### #is_/same_as :: [Genghis_Khan.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1200/Genghis_Khan.secret.md)
+

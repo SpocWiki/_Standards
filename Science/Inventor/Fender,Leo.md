@@ -60,3 +60,22 @@ date_of_birth: 1909-08-10T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leo%20Fender) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fender,Leo](/_Standards/Science/Inventor/Fender,Leo.md) 
+
+### #is_/same_as :: [Fender,Leo.public](/_public/Science/Inventor/Fender,Leo.public.md) 
+
+### #is_/same_as :: [Fender,Leo.internal](/_internal/Science/Inventor/Fender,Leo.internal.md) 
+
+### #is_/same_as :: [Fender,Leo.protect](/_protect/Science/Inventor/Fender,Leo.protect.md) 
+
+### #is_/same_as :: [Fender,Leo.private](/_private/Science/Inventor/Fender,Leo.private.md) 
+
+### #is_/same_as :: [Fender,Leo.personal](/_personal/Science/Inventor/Fender,Leo.personal.md) 
+
+### #is_/same_as :: [Fender,Leo.secret](/_secret/Science/Inventor/Fender,Leo.secret.md)
+

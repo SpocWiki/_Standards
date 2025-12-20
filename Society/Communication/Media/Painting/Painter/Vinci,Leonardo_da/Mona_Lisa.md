@@ -108,3 +108,22 @@ depicts_Iconclass_notation: 61BB2(Lisa del Giocondo)11
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mona%20Lisa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mona_Lisa](/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.md) 
+
+### #is_/same_as :: [Mona_Lisa.public](/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.public.md) 
+
+### #is_/same_as :: [Mona_Lisa.internal](/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.internal.md) 
+
+### #is_/same_as :: [Mona_Lisa.protect](/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.protect.md) 
+
+### #is_/same_as :: [Mona_Lisa.private](/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.private.md) 
+
+### #is_/same_as :: [Mona_Lisa.personal](/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.personal.md) 
+
+### #is_/same_as :: [Mona_Lisa.secret](/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da/Mona_Lisa.secret.md)
+

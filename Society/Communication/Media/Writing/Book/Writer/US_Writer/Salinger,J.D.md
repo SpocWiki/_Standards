@@ -98,3 +98,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SELINDZHER_DZHEROM
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20D.%20Salinger) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Salinger,J.D](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D.md) 
+
+### #is_/same_as :: [Salinger,J.D.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D.public.md) 
+
+### #is_/same_as :: [Salinger,J.D.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D.internal.md) 
+
+### #is_/same_as :: [Salinger,J.D.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D.protect.md) 
+
+### #is_/same_as :: [Salinger,J.D.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D.private.md) 
+
+### #is_/same_as :: [Salinger,J.D.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D.personal.md) 
+
+### #is_/same_as :: [Salinger,J.D.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D.secret.md)
+

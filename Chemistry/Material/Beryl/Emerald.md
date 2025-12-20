@@ -44,3 +44,22 @@ Baidu_Tieba_name: 祖母绿
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emerald) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Emerald](/_Standards/Chemistry/Material/Beryl/Emerald.md) 
+
+### #is_/same_as :: [Emerald.public](/_public/Chemistry/Material/Beryl/Emerald.public.md) 
+
+### #is_/same_as :: [Emerald.internal](/_internal/Chemistry/Material/Beryl/Emerald.internal.md) 
+
+### #is_/same_as :: [Emerald.protect](/_protect/Chemistry/Material/Beryl/Emerald.protect.md) 
+
+### #is_/same_as :: [Emerald.private](/_private/Chemistry/Material/Beryl/Emerald.private.md) 
+
+### #is_/same_as :: [Emerald.personal](/_personal/Chemistry/Material/Beryl/Emerald.personal.md) 
+
+### #is_/same_as :: [Emerald.secret](/_secret/Chemistry/Material/Beryl/Emerald.secret.md)
+

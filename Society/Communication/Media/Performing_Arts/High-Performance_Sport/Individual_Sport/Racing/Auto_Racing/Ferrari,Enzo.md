@@ -72,3 +72,22 @@ work_period_start_: 1918-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Enzo%20Ferrari) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ferrari,Enzo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Ferrari,Enzo.md) 
+
+### #is_/same_as :: [Ferrari,Enzo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Ferrari,Enzo.public.md) 
+
+### #is_/same_as :: [Ferrari,Enzo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Ferrari,Enzo.internal.md) 
+
+### #is_/same_as :: [Ferrari,Enzo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Ferrari,Enzo.protect.md) 
+
+### #is_/same_as :: [Ferrari,Enzo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Ferrari,Enzo.private.md) 
+
+### #is_/same_as :: [Ferrari,Enzo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Ferrari,Enzo.personal.md) 
+
+### #is_/same_as :: [Ferrari,Enzo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Ferrari,Enzo.secret.md)
+

@@ -33,3 +33,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harmonic%20analysis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harmonic_Analysis](/_Standards/Mathematics/Algebra/Linear_Algebra/Harmonic_Analysis.md) 
+
+### #is_/same_as :: [Harmonic_Analysis.public](/_public/Mathematics/Algebra/Linear_Algebra/Harmonic_Analysis.public.md) 
+
+### #is_/same_as :: [Harmonic_Analysis.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Harmonic_Analysis.internal.md) 
+
+### #is_/same_as :: [Harmonic_Analysis.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Harmonic_Analysis.protect.md) 
+
+### #is_/same_as :: [Harmonic_Analysis.private](/_private/Mathematics/Algebra/Linear_Algebra/Harmonic_Analysis.private.md) 
+
+### #is_/same_as :: [Harmonic_Analysis.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Harmonic_Analysis.personal.md) 
+
+### #is_/same_as :: [Harmonic_Analysis.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Harmonic_Analysis.secret.md)
+

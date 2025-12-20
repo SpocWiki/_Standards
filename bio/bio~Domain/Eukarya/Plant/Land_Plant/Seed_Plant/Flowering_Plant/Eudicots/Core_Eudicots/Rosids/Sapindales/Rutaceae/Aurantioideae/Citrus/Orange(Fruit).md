@@ -98,17 +98,17 @@ Gujarati_Vishwakosh_entry: નારંગી
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orange(Fruit)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Orange(Fruit).md) 
+### #is_/same_as :: [Orange(Fruit)](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Orange(Fruit).md) 
 
-### #is_/same_as :: [Orange(Fruit).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Orange(Fruit).public.md) 
+### #is_/same_as :: [Orange(Fruit).public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Orange(Fruit).public.md) 
 
-### #is_/same_as :: [Orange(Fruit).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Orange(Fruit).internal.md) 
+### #is_/same_as :: [Orange(Fruit).internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Orange(Fruit).internal.md) 
 
-### #is_/same_as :: [Orange(Fruit).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Orange(Fruit).protect.md) 
+### #is_/same_as :: [Orange(Fruit).protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Orange(Fruit).protect.md) 
 
-### #is_/same_as :: [Orange(Fruit).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Orange(Fruit).private.md) 
+### #is_/same_as :: [Orange(Fruit).private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Orange(Fruit).private.md) 
 
-### #is_/same_as :: [Orange(Fruit).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Orange(Fruit).personal.md) 
+### #is_/same_as :: [Orange(Fruit).personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Orange(Fruit).personal.md) 
 
-### #is_/same_as :: [Orange(Fruit).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Orange(Fruit).secret.md)
+### #is_/same_as :: [Orange(Fruit).secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Orange(Fruit).secret.md)
 

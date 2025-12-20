@@ -110,3 +110,22 @@ Mastodon_address: RollingStone@mstdn.social
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rolling%20Stone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rolling_Stone](/_Standards/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.md) 
+
+### #is_/same_as :: [Rolling_Stone.public](/_public/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.public.md) 
+
+### #is_/same_as :: [Rolling_Stone.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.internal.md) 
+
+### #is_/same_as :: [Rolling_Stone.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.protect.md) 
+
+### #is_/same_as :: [Rolling_Stone.private](/_private/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.private.md) 
+
+### #is_/same_as :: [Rolling_Stone.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.personal.md) 
+
+### #is_/same_as :: [Rolling_Stone.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Rolling_Stone.secret.md)
+

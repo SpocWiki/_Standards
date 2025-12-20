@@ -85,36 +85,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dermatology](Dermatology.md) 
+### #is_/same_as :: [Dermatology](/_Standards/bio/Medicine/Medical_Business/Dermatology.md) 
 
-### #is_/same_as :: [Dermatology.public](/_public/Society/Organization/Local_Business/Medical_Business/Dermatology.public.md) 
+### #is_/same_as :: [Dermatology.public](/_public/bio/Medicine/Medical_Business/Dermatology.public.md) 
 
-### #is_/same_as :: [Dermatology.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Dermatology.internal.md) 
+### #is_/same_as :: [Dermatology.internal](/_internal/bio/Medicine/Medical_Business/Dermatology.internal.md) 
 
-### #is_/same_as :: [Dermatology.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Dermatology.protect.md) 
+### #is_/same_as :: [Dermatology.protect](/_protect/bio/Medicine/Medical_Business/Dermatology.protect.md) 
 
-### #is_/same_as :: [Dermatology.private](/_private/Society/Organization/Local_Business/Medical_Business/Dermatology.private.md) 
+### #is_/same_as :: [Dermatology.private](/_private/bio/Medicine/Medical_Business/Dermatology.private.md) 
 
-### #is_/same_as :: [Dermatology.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Dermatology.personal.md) 
+### #is_/same_as :: [Dermatology.personal](/_personal/bio/Medicine/Medical_Business/Dermatology.personal.md) 
 
-### #is_/same_as :: [Dermatology.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Dermatology.secret.md)
+### #is_/same_as :: [Dermatology.secret](/_secret/bio/Medicine/Medical_Business/Dermatology.secret.md)
 
-
-# [[Dermatology]] 
-
-#is_/part_of :: [[Dermatology]] 
-
-![[Dermatology.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Dermatology.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

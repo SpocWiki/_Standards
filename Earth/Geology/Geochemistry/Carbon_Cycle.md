@@ -66,8 +66,6 @@ Krugosvet_article: nauka_i_tehnika/himiya/TSIKL_UGLERODA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon%20cycle) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Carbon_Cycle](/_Standards/Earth/Geology/Geochemistry/Carbon_Cycle.md) 

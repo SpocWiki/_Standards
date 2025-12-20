@@ -167,3 +167,22 @@ Munzinger_Sport_number: "01000006594"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cristiano%20Ronaldo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ronaldo,Cristiano](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Ronaldo,Cristiano.md) 
+
+### #is_/same_as :: [Ronaldo,Cristiano.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Ronaldo,Cristiano.public.md) 
+
+### #is_/same_as :: [Ronaldo,Cristiano.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Ronaldo,Cristiano.internal.md) 
+
+### #is_/same_as :: [Ronaldo,Cristiano.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Ronaldo,Cristiano.protect.md) 
+
+### #is_/same_as :: [Ronaldo,Cristiano.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Ronaldo,Cristiano.private.md) 
+
+### #is_/same_as :: [Ronaldo,Cristiano.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Ronaldo,Cristiano.personal.md) 
+
+### #is_/same_as :: [Ronaldo,Cristiano.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Ronaldo,Cristiano.secret.md)
+

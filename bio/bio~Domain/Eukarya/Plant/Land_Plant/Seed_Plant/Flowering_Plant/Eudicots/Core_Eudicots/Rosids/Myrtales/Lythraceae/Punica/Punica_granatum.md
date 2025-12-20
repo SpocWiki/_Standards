@@ -143,3 +143,22 @@ external_data_available_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pomegranate) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Punica_granatum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica/Punica_granatum.md) 
+
+### #is_/same_as :: [Punica_granatum.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica/Punica_granatum.public.md) 
+
+### #is_/same_as :: [Punica_granatum.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica/Punica_granatum.internal.md) 
+
+### #is_/same_as :: [Punica_granatum.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica/Punica_granatum.protect.md) 
+
+### #is_/same_as :: [Punica_granatum.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica/Punica_granatum.private.md) 
+
+### #is_/same_as :: [Punica_granatum.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica/Punica_granatum.personal.md) 
+
+### #is_/same_as :: [Punica_granatum.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Lythraceae/Punica/Punica_granatum.secret.md)
+

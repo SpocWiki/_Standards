@@ -100,3 +100,22 @@ GOST_7_75_97_code: неп 485
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nepali](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Nepali.md) 
+
+### #is_/same_as :: [Nepali.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Nepali.public.md) 
+
+### #is_/same_as :: [Nepali.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Nepali.internal.md) 
+
+### #is_/same_as :: [Nepali.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Nepali.protect.md) 
+
+### #is_/same_as :: [Nepali.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Nepali.private.md) 
+
+### #is_/same_as :: [Nepali.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Nepali.personal.md) 
+
+### #is_/same_as :: [Nepali.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Nepali.secret.md)
+

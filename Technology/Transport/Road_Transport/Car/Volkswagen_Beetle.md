@@ -99,3 +99,22 @@ service_entry: 1936-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Volkswagen%20Beetle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Volkswagen_Beetle](/_Standards/Technology/Transport/Road_Transport/Car/Volkswagen_Beetle.md) 
+
+### #is_/same_as :: [Volkswagen_Beetle.public](/_public/Technology/Transport/Road_Transport/Car/Volkswagen_Beetle.public.md) 
+
+### #is_/same_as :: [Volkswagen_Beetle.internal](/_internal/Technology/Transport/Road_Transport/Car/Volkswagen_Beetle.internal.md) 
+
+### #is_/same_as :: [Volkswagen_Beetle.protect](/_protect/Technology/Transport/Road_Transport/Car/Volkswagen_Beetle.protect.md) 
+
+### #is_/same_as :: [Volkswagen_Beetle.private](/_private/Technology/Transport/Road_Transport/Car/Volkswagen_Beetle.private.md) 
+
+### #is_/same_as :: [Volkswagen_Beetle.personal](/_personal/Technology/Transport/Road_Transport/Car/Volkswagen_Beetle.personal.md) 
+
+### #is_/same_as :: [Volkswagen_Beetle.secret](/_secret/Technology/Transport/Road_Transport/Car/Volkswagen_Beetle.secret.md)
+

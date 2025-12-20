@@ -43,3 +43,22 @@ OpenStreetMap_tag: natural=strait
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strait) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Strait](/_Standards/Earth/Geology/Landform/Strait.md) 
+
+### #is_/same_as :: [Strait.public](/_public/Earth/Geology/Landform/Strait.public.md) 
+
+### #is_/same_as :: [Strait.internal](/_internal/Earth/Geology/Landform/Strait.internal.md) 
+
+### #is_/same_as :: [Strait.protect](/_protect/Earth/Geology/Landform/Strait.protect.md) 
+
+### #is_/same_as :: [Strait.private](/_private/Earth/Geology/Landform/Strait.private.md) 
+
+### #is_/same_as :: [Strait.personal](/_personal/Earth/Geology/Landform/Strait.personal.md) 
+
+### #is_/same_as :: [Strait.secret](/_secret/Earth/Geology/Landform/Strait.secret.md)
+

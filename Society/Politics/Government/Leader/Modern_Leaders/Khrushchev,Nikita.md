@@ -164,3 +164,22 @@ ISNI: "0000000110281676"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nikita%20Khrushchev) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Khrushchev,Nikita](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.md) 
+
+### #is_/same_as :: [Khrushchev,Nikita.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.public.md) 
+
+### #is_/same_as :: [Khrushchev,Nikita.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.internal.md) 
+
+### #is_/same_as :: [Khrushchev,Nikita.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.protect.md) 
+
+### #is_/same_as :: [Khrushchev,Nikita.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.private.md) 
+
+### #is_/same_as :: [Khrushchev,Nikita.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.personal.md) 
+
+### #is_/same_as :: [Khrushchev,Nikita.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Khrushchev,Nikita.secret.md)
+

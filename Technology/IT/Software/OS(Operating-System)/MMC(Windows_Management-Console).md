@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - MMC(Windows_Management-Console)
 - 
@@ -91,3 +91,22 @@ The exact availability of each `.msc` depends on the Windows edition (Home, Pro,
 This table is based on official Microsoft documentation and verified sources:  
 - https://learn.microsoft.com/en-us/windows-server/  
 - https://learn.microsoft.com/en-us/windows/client-management/  
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [MMC(Windows_Management-Console)](/_Standards/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).md) 
+
+### #is_/same_as :: [MMC(Windows_Management-Console).public](/_public/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).public.md) 
+
+### #is_/same_as :: [MMC(Windows_Management-Console).internal](/_internal/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).internal.md) 
+
+### #is_/same_as :: [MMC(Windows_Management-Console).protect](/_protect/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).protect.md) 
+
+### #is_/same_as :: [MMC(Windows_Management-Console).private](/_private/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).private.md) 
+
+### #is_/same_as :: [MMC(Windows_Management-Console).personal](/_personal/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).personal.md) 
+
+### #is_/same_as :: [MMC(Windows_Management-Console).secret](/_secret/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).secret.md)
+

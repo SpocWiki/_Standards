@@ -52,21 +52,19 @@ O   O
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbonate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carbonate](Carbonate.md) 
+### #is_/same_as :: [Carbonate](/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.md) 
 
-### #is_/same_as :: [Carbonate.public](/_public/Chemistry/inOrganic/Carbon_Dioxide/Carbonate.public.md) 
+### #is_/same_as :: [Carbonate.public](/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.public.md) 
 
-### #is_/same_as :: [Carbonate.internal](/_internal/Chemistry/inOrganic/Carbon_Dioxide/Carbonate.internal.md) 
+### #is_/same_as :: [Carbonate.internal](/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.internal.md) 
 
-### #is_/same_as :: [Carbonate.protect](/_protect/Chemistry/inOrganic/Carbon_Dioxide/Carbonate.protect.md) 
+### #is_/same_as :: [Carbonate.protect](/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.protect.md) 
 
-### #is_/same_as :: [Carbonate.private](/_private/Chemistry/inOrganic/Carbon_Dioxide/Carbonate.private.md) 
+### #is_/same_as :: [Carbonate.private](/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.private.md) 
 
-### #is_/same_as :: [Carbonate.personal](/_personal/Chemistry/inOrganic/Carbon_Dioxide/Carbonate.personal.md) 
+### #is_/same_as :: [Carbonate.personal](/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.personal.md) 
 
-### #is_/same_as :: [Carbonate.secret](/_secret/Chemistry/inOrganic/Carbon_Dioxide/Carbonate.secret.md)
+### #is_/same_as :: [Carbonate.secret](/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.secret.md)
 

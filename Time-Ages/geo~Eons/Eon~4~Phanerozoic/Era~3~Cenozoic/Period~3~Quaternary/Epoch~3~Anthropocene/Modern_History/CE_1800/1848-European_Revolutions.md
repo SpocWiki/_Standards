@@ -29,3 +29,22 @@ has_id_wikidata: Q3588
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1848-European_Revolutions](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1848-European_Revolutions.md) 
+
+### #is_/same_as :: [1848-European_Revolutions.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1848-European_Revolutions.public.md) 
+
+### #is_/same_as :: [1848-European_Revolutions.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1848-European_Revolutions.internal.md) 
+
+### #is_/same_as :: [1848-European_Revolutions.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1848-European_Revolutions.protect.md) 
+
+### #is_/same_as :: [1848-European_Revolutions.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1848-European_Revolutions.private.md) 
+
+### #is_/same_as :: [1848-European_Revolutions.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1848-European_Revolutions.personal.md) 
+
+### #is_/same_as :: [1848-European_Revolutions.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1848-European_Revolutions.secret.md)
+

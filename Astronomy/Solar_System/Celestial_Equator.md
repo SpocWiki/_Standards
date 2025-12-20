@@ -39,3 +39,22 @@ Commons_category: Celestial equator
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Celestial%20equator) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Celestial_Equator](/_Standards/Astronomy/Solar_System/Celestial_Equator.md) 
+
+### #is_/same_as :: [Celestial_Equator.public](/_public/Astronomy/Solar_System/Celestial_Equator.public.md) 
+
+### #is_/same_as :: [Celestial_Equator.internal](/_internal/Astronomy/Solar_System/Celestial_Equator.internal.md) 
+
+### #is_/same_as :: [Celestial_Equator.protect](/_protect/Astronomy/Solar_System/Celestial_Equator.protect.md) 
+
+### #is_/same_as :: [Celestial_Equator.private](/_private/Astronomy/Solar_System/Celestial_Equator.private.md) 
+
+### #is_/same_as :: [Celestial_Equator.personal](/_personal/Astronomy/Solar_System/Celestial_Equator.personal.md) 
+
+### #is_/same_as :: [Celestial_Equator.secret](/_secret/Astronomy/Solar_System/Celestial_Equator.secret.md)
+

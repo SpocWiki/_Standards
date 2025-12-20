@@ -67,3 +67,21 @@ Unicode_character: 🪟
 > - eyebrow window, fixed windows, hexagonal windows, single-hung, and double-hung sash windows, horizontal sliding sash windows, casement windows, awning windows, hopper windows, tilt, and slide windows (often door-sized), tilt and turn windows, transom windows, sidelight windows, jalousie or louvered windows, clerestory windows, lancet windows, skylights, roof windows, roof lanterns, bay windows, oriel windows, thermal, or Diocletian, windows, picture windows, rose windows, emergency exit windows, stained glass windows, French windows, panel windows, double/triple-paned windows, and witch windows.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Window)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Window](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.md) 
+
+### #is_/same_as :: [Window.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.public.md) 
+
+### #is_/same_as :: [Window.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.internal.md) 
+
+### #is_/same_as :: [Window.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.protect.md) 
+
+### #is_/same_as :: [Window.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.private.md) 
+
+### #is_/same_as :: [Window.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.personal.md) 
+
+### #is_/same_as :: [Window.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window.secret.md)
+

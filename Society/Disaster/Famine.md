@@ -47,3 +47,22 @@ Colon_Classification: Y:4353
 > [Wikipedia](https://en.wikipedia.org/wiki/Famine) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Famine](/_Standards/Society/Disaster/Famine.md) 
+
+### #is_/same_as :: [Famine.public](/_public/Society/Disaster/Famine.public.md) 
+
+### #is_/same_as :: [Famine.internal](/_internal/Society/Disaster/Famine.internal.md) 
+
+### #is_/same_as :: [Famine.protect](/_protect/Society/Disaster/Famine.protect.md) 
+
+### #is_/same_as :: [Famine.private](/_private/Society/Disaster/Famine.private.md) 
+
+### #is_/same_as :: [Famine.personal](/_personal/Society/Disaster/Famine.personal.md) 
+
+### #is_/same_as :: [Famine.secret](/_secret/Society/Disaster/Famine.secret.md)
+

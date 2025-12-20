@@ -31,3 +31,22 @@ PhilPapers_topic: gestalt-theory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gestalt%20psychology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gestalt_Psychology](/_Standards/bio/Psychology/Gestalt_Psychology.md) 
+
+### #is_/same_as :: [Gestalt_Psychology.public](/_public/bio/Psychology/Gestalt_Psychology.public.md) 
+
+### #is_/same_as :: [Gestalt_Psychology.internal](/_internal/bio/Psychology/Gestalt_Psychology.internal.md) 
+
+### #is_/same_as :: [Gestalt_Psychology.protect](/_protect/bio/Psychology/Gestalt_Psychology.protect.md) 
+
+### #is_/same_as :: [Gestalt_Psychology.private](/_private/bio/Psychology/Gestalt_Psychology.private.md) 
+
+### #is_/same_as :: [Gestalt_Psychology.personal](/_personal/bio/Psychology/Gestalt_Psychology.personal.md) 
+
+### #is_/same_as :: [Gestalt_Psychology.secret](/_secret/bio/Psychology/Gestalt_Psychology.secret.md)
+

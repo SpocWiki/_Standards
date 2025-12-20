@@ -30,3 +30,22 @@ has_id_wikidata: Q889796
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surface%20wave) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Surface_Wave](/_Standards/Science/Physics/Wave/Surface_Wave.md) 
+
+### #is_/same_as :: [Surface_Wave.public](/_public/Science/Physics/Wave/Surface_Wave.public.md) 
+
+### #is_/same_as :: [Surface_Wave.internal](/_internal/Science/Physics/Wave/Surface_Wave.internal.md) 
+
+### #is_/same_as :: [Surface_Wave.protect](/_protect/Science/Physics/Wave/Surface_Wave.protect.md) 
+
+### #is_/same_as :: [Surface_Wave.private](/_private/Science/Physics/Wave/Surface_Wave.private.md) 
+
+### #is_/same_as :: [Surface_Wave.personal](/_personal/Science/Physics/Wave/Surface_Wave.personal.md) 
+
+### #is_/same_as :: [Surface_Wave.secret](/_secret/Science/Physics/Wave/Surface_Wave.secret.md)
+

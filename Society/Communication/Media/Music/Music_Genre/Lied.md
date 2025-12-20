@@ -50,3 +50,22 @@ Commons_category: Lieder
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lied) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lied](/_Standards/Society/Communication/Media/Music/Music_Genre/Lied.md) 
+
+### #is_/same_as :: [Lied.public](/_public/Society/Communication/Media/Music/Music_Genre/Lied.public.md) 
+
+### #is_/same_as :: [Lied.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Lied.internal.md) 
+
+### #is_/same_as :: [Lied.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Lied.protect.md) 
+
+### #is_/same_as :: [Lied.private](/_private/Society/Communication/Media/Music/Music_Genre/Lied.private.md) 
+
+### #is_/same_as :: [Lied.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Lied.personal.md) 
+
+### #is_/same_as :: [Lied.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Lied.secret.md)
+

@@ -38,3 +38,22 @@ Commons_category: Dishwashers
 > In addition to domestic units, industrial dishwashers are available for use in commercial establishments such as hotels and restaurants, where many dishes must be cleaned. Washing is conducted with temperatures of 65–71 °C (149–160 °F) and sanitation is achieved by either the use of a booster heater that will provide an 82 °C (180 °F) "final rinse" temperature or through the use of a chemical sanitizer.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dishwasher) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dishwasher](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.md) 
+
+### #is_/same_as :: [Dishwasher.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.public.md) 
+
+### #is_/same_as :: [Dishwasher.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.internal.md) 
+
+### #is_/same_as :: [Dishwasher.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.protect.md) 
+
+### #is_/same_as :: [Dishwasher.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.private.md) 
+
+### #is_/same_as :: [Dishwasher.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.personal.md) 
+
+### #is_/same_as :: [Dishwasher.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Dishwasher.secret.md)
+

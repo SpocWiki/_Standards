@@ -36,3 +36,22 @@ IEV_number:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Resonance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Resonance](/_Standards/Science/Physics/Wave/Resonance.md) 
+
+### #is_/same_as :: [Resonance.public](/_public/Science/Physics/Wave/Resonance.public.md) 
+
+### #is_/same_as :: [Resonance.internal](/_internal/Science/Physics/Wave/Resonance.internal.md) 
+
+### #is_/same_as :: [Resonance.protect](/_protect/Science/Physics/Wave/Resonance.protect.md) 
+
+### #is_/same_as :: [Resonance.private](/_private/Science/Physics/Wave/Resonance.private.md) 
+
+### #is_/same_as :: [Resonance.personal](/_personal/Science/Physics/Wave/Resonance.personal.md) 
+
+### #is_/same_as :: [Resonance.secret](/_secret/Science/Physics/Wave/Resonance.secret.md)
+

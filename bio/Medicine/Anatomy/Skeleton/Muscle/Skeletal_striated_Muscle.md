@@ -27,3 +27,22 @@ has_id_wikidata: Q1048687
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skeletal%20muscle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skeletal_striated_Muscle](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.md) 
+
+### #is_/same_as :: [Skeletal_striated_Muscle.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.public.md) 
+
+### #is_/same_as :: [Skeletal_striated_Muscle.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.internal.md) 
+
+### #is_/same_as :: [Skeletal_striated_Muscle.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.protect.md) 
+
+### #is_/same_as :: [Skeletal_striated_Muscle.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.private.md) 
+
+### #is_/same_as :: [Skeletal_striated_Muscle.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.personal.md) 
+
+### #is_/same_as :: [Skeletal_striated_Muscle.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Skeletal_striated_Muscle.secret.md)
+

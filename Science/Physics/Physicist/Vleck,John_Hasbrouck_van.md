@@ -19,3 +19,22 @@ has_id_wikidata: Q193655
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Hasbrouck%20Van%20Vleck) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vleck,John_Hasbrouck_van](/_Standards/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.md) 
+
+### #is_/same_as :: [Vleck,John_Hasbrouck_van.public](/_public/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.public.md) 
+
+### #is_/same_as :: [Vleck,John_Hasbrouck_van.internal](/_internal/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.internal.md) 
+
+### #is_/same_as :: [Vleck,John_Hasbrouck_van.protect](/_protect/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.protect.md) 
+
+### #is_/same_as :: [Vleck,John_Hasbrouck_van.private](/_private/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.private.md) 
+
+### #is_/same_as :: [Vleck,John_Hasbrouck_van.personal](/_personal/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.personal.md) 
+
+### #is_/same_as :: [Vleck,John_Hasbrouck_van.secret](/_secret/Science/Physics/Physicist/Vleck,John_Hasbrouck_van.secret.md)
+

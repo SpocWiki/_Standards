@@ -44,3 +44,22 @@ Commons_category: Metamorphic rocks
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metamorphic%20rock) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metamorphic_Rock](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.md) 
+
+### #is_/same_as :: [Metamorphic_Rock.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.public.md) 
+
+### #is_/same_as :: [Metamorphic_Rock.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.internal.md) 
+
+### #is_/same_as :: [Metamorphic_Rock.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.protect.md) 
+
+### #is_/same_as :: [Metamorphic_Rock.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.private.md) 
+
+### #is_/same_as :: [Metamorphic_Rock.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.personal.md) 
+
+### #is_/same_as :: [Metamorphic_Rock.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.secret.md)
+

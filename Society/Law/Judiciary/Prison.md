@@ -98,3 +98,22 @@ UMLS_CUI: C0033168
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prison) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prison](/_Standards/Society/Law/Judiciary/Prison.md) 
+
+### #is_/same_as :: [Prison.public](/_public/Society/Law/Judiciary/Prison.public.md) 
+
+### #is_/same_as :: [Prison.internal](/_internal/Society/Law/Judiciary/Prison.internal.md) 
+
+### #is_/same_as :: [Prison.protect](/_protect/Society/Law/Judiciary/Prison.protect.md) 
+
+### #is_/same_as :: [Prison.private](/_private/Society/Law/Judiciary/Prison.private.md) 
+
+### #is_/same_as :: [Prison.personal](/_personal/Society/Law/Judiciary/Prison.personal.md) 
+
+### #is_/same_as :: [Prison.secret](/_secret/Society/Law/Judiciary/Prison.secret.md)
+

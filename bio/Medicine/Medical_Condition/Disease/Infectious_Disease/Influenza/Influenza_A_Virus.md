@@ -38,3 +38,22 @@ taxon_name: Influenza A virus subtype H5N1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Influenza%20A%20virus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Influenza_A_Virus](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.md) 
+
+### #is_/same_as :: [Influenza_A_Virus.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.public.md) 
+
+### #is_/same_as :: [Influenza_A_Virus.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.internal.md) 
+
+### #is_/same_as :: [Influenza_A_Virus.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.protect.md) 
+
+### #is_/same_as :: [Influenza_A_Virus.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.private.md) 
+
+### #is_/same_as :: [Influenza_A_Virus.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.personal.md) 
+
+### #is_/same_as :: [Influenza_A_Virus.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Influenza/Influenza_A_Virus.secret.md)
+

@@ -64,19 +64,20 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Television%20channel) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Television_Channel](Television_Channel.md) 
+### #is_/same_as :: [Television_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Channel.md) 
 
-### #is_/same_as :: [television_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.public.md) 
+### #is_/same_as :: [Television_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Channel.public.md) 
 
-### #is_/same_as :: [television_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.internal.md) 
+### #is_/same_as :: [Television_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Channel.internal.md) 
 
-### #is_/same_as :: [television_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.protect.md) 
+### #is_/same_as :: [Television_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Channel.protect.md) 
 
-### #is_/same_as :: [television_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.private.md) 
+### #is_/same_as :: [Television_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Channel.private.md) 
 
-### #is_/same_as :: [television_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.personal.md) 
+### #is_/same_as :: [Television_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Channel.personal.md) 
 
-### #is_/same_as :: [television_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.secret.md)
+### #is_/same_as :: [Television_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Channel.secret.md)
 

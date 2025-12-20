@@ -30,3 +30,22 @@ parent_taxon: "[[../Cryptodira|Cryptodira]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Testudinoidea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Testudinoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea.md) 
+
+### #is_/same_as :: [Testudinoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea.public.md) 
+
+### #is_/same_as :: [Testudinoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea.internal.md) 
+
+### #is_/same_as :: [Testudinoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea.protect.md) 
+
+### #is_/same_as :: [Testudinoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea.private.md) 
+
+### #is_/same_as :: [Testudinoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea.personal.md) 
+
+### #is_/same_as :: [Testudinoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Turtle/Cryptodira/Testudinoidea.secret.md)
+

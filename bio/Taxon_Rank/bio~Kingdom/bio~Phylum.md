@@ -52,17 +52,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Linnaeus%20-%20%C3%96r
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Phylum](bio~Phylum.md) 
+### #is_/same_as :: [bio~Phylum](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.md) 
 
-### #is_/same_as :: [bio~Phylum.public](/_public/bio/bio~Domain/Eukarya/Animal/bio~Phylum.public.md) 
+### #is_/same_as :: [bio~Phylum.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.public.md) 
 
-### #is_/same_as :: [bio~Phylum.internal](/_internal/bio/bio~Domain/Eukarya/Animal/bio~Phylum.internal.md) 
+### #is_/same_as :: [bio~Phylum.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.internal.md) 
 
-### #is_/same_as :: [bio~Phylum.protect](/_protect/bio/bio~Domain/Eukarya/Animal/bio~Phylum.protect.md) 
+### #is_/same_as :: [bio~Phylum.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.protect.md) 
 
-### #is_/same_as :: [bio~Phylum.private](/_private/bio/bio~Domain/Eukarya/Animal/bio~Phylum.private.md) 
+### #is_/same_as :: [bio~Phylum.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.private.md) 
 
-### #is_/same_as :: [bio~Phylum.personal](/_personal/bio/bio~Domain/Eukarya/Animal/bio~Phylum.personal.md) 
+### #is_/same_as :: [bio~Phylum.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.personal.md) 
 
-### #is_/same_as :: [bio~Phylum.secret](/_secret/bio/bio~Domain/Eukarya/Animal/bio~Phylum.secret.md)
+### #is_/same_as :: [bio~Phylum.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum.secret.md)
 

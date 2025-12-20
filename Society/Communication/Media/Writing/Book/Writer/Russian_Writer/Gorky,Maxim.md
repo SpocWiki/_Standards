@@ -139,3 +139,22 @@ Europeana_entity: agent/base/60863
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maxim%20Gorky) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gorky,Maxim](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.md) 
+
+### #is_/same_as :: [Gorky,Maxim.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.public.md) 
+
+### #is_/same_as :: [Gorky,Maxim.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.internal.md) 
+
+### #is_/same_as :: [Gorky,Maxim.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.protect.md) 
+
+### #is_/same_as :: [Gorky,Maxim.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.private.md) 
+
+### #is_/same_as :: [Gorky,Maxim.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.personal.md) 
+
+### #is_/same_as :: [Gorky,Maxim.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.secret.md)
+

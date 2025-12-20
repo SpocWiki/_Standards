@@ -38,3 +38,21 @@
 > A short-sided version of the sport, rugby league nines, using modified rugby league rules also exists, and is comparable to rugby sevens. Wheelchair rugby league is a mixed-gender sport using heavily modified rugby league rules for disabled and able-bodied players. Unlike wheelchair rugby which adopted its name after the invention of the sport previously called murderball and is not directly linked to rugby union, wheelchair rugby league has grown out of the parent sport, and retains key aspects of that sport such as an egg shaped ball, the forward-pass rule and conversions. While not a Paralympic sport, the sport has its own Wheelchair Rugby League World Cup. A further variation for ambulatory disabled players, physical disability rugby league, was created and had its first world cup in 2022 to coincide with the rescheduled 2021 Rugby League World Cup competitions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rugby%20league)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rugby_League](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_League.md) 
+
+### #is_/same_as :: [Rugby_League.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_League.public.md) 
+
+### #is_/same_as :: [Rugby_League.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_League.internal.md) 
+
+### #is_/same_as :: [Rugby_League.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_League.protect.md) 
+
+### #is_/same_as :: [Rugby_League.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_League.private.md) 
+
+### #is_/same_as :: [Rugby_League.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_League.personal.md) 
+
+### #is_/same_as :: [Rugby_League.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_League.secret.md)
+

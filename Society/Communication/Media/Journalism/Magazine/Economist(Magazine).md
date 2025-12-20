@@ -93,3 +93,22 @@ X_Twitter_username: TheEconomist
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Economist) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Economist(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).md) 
+
+### #is_/same_as :: [Economist(Magazine).public](/_public/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).public.md) 
+
+### #is_/same_as :: [Economist(Magazine).internal](/_internal/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).internal.md) 
+
+### #is_/same_as :: [Economist(Magazine).protect](/_protect/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).protect.md) 
+
+### #is_/same_as :: [Economist(Magazine).private](/_private/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).private.md) 
+
+### #is_/same_as :: [Economist(Magazine).personal](/_personal/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).personal.md) 
+
+### #is_/same_as :: [Economist(Magazine).secret](/_secret/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).secret.md)
+

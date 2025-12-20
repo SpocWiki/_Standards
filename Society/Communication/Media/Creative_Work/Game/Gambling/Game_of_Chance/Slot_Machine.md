@@ -67,3 +67,22 @@ Commons_category: Slot machines
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Slot%20machine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Slot_Machine](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.md) 
+
+### #is_/same_as :: [Slot_Machine.public](/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.public.md) 
+
+### #is_/same_as :: [Slot_Machine.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.internal.md) 
+
+### #is_/same_as :: [Slot_Machine.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.protect.md) 
+
+### #is_/same_as :: [Slot_Machine.private](/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.private.md) 
+
+### #is_/same_as :: [Slot_Machine.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.personal.md) 
+
+### #is_/same_as :: [Slot_Machine.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.secret.md)
+

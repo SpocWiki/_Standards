@@ -36,3 +36,22 @@ OpenStreetMap_tag_or_key:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cooling%20tower) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cooling_Tower](/_Standards/Technology/Energy-Technology/Cooling_Tower.md) 
+
+### #is_/same_as :: [Cooling_Tower.public](/_public/Technology/Energy-Technology/Cooling_Tower.public.md) 
+
+### #is_/same_as :: [Cooling_Tower.internal](/_internal/Technology/Energy-Technology/Cooling_Tower.internal.md) 
+
+### #is_/same_as :: [Cooling_Tower.protect](/_protect/Technology/Energy-Technology/Cooling_Tower.protect.md) 
+
+### #is_/same_as :: [Cooling_Tower.private](/_private/Technology/Energy-Technology/Cooling_Tower.private.md) 
+
+### #is_/same_as :: [Cooling_Tower.personal](/_personal/Technology/Energy-Technology/Cooling_Tower.personal.md) 
+
+### #is_/same_as :: [Cooling_Tower.secret](/_secret/Technology/Energy-Technology/Cooling_Tower.secret.md)
+

@@ -53,3 +53,22 @@ date_of_birth: 1664-02-28T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Newcomen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Newcomen,Thomas](/_Standards/Science/Inventor/Newcomen,Thomas.md) 
+
+### #is_/same_as :: [Newcomen,Thomas.public](/_public/Science/Inventor/Newcomen,Thomas.public.md) 
+
+### #is_/same_as :: [Newcomen,Thomas.internal](/_internal/Science/Inventor/Newcomen,Thomas.internal.md) 
+
+### #is_/same_as :: [Newcomen,Thomas.protect](/_protect/Science/Inventor/Newcomen,Thomas.protect.md) 
+
+### #is_/same_as :: [Newcomen,Thomas.private](/_private/Science/Inventor/Newcomen,Thomas.private.md) 
+
+### #is_/same_as :: [Newcomen,Thomas.personal](/_personal/Science/Inventor/Newcomen,Thomas.personal.md) 
+
+### #is_/same_as :: [Newcomen,Thomas.secret](/_secret/Science/Inventor/Newcomen,Thomas.secret.md)
+

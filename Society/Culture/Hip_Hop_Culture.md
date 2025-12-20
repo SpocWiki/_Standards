@@ -57,3 +57,22 @@ Library_of_Congress_Classification: NX456.5.H57
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hip-hop%20culture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hip_Hop_Culture](/_Standards/Society/Culture/Hip_Hop_Culture.md) 
+
+### #is_/same_as :: [Hip_Hop_Culture.public](/_public/Society/Culture/Hip_Hop_Culture.public.md) 
+
+### #is_/same_as :: [Hip_Hop_Culture.internal](/_internal/Society/Culture/Hip_Hop_Culture.internal.md) 
+
+### #is_/same_as :: [Hip_Hop_Culture.protect](/_protect/Society/Culture/Hip_Hop_Culture.protect.md) 
+
+### #is_/same_as :: [Hip_Hop_Culture.private](/_private/Society/Culture/Hip_Hop_Culture.private.md) 
+
+### #is_/same_as :: [Hip_Hop_Culture.personal](/_personal/Society/Culture/Hip_Hop_Culture.personal.md) 
+
+### #is_/same_as :: [Hip_Hop_Culture.secret](/_secret/Society/Culture/Hip_Hop_Culture.secret.md)
+

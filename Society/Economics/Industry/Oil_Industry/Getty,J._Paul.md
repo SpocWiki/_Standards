@@ -104,3 +104,22 @@ work_period_start_: 1907-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20Paul%20Getty) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Getty,J._Paul](/_Standards/Society/Economics/Industry/Oil_Industry/Getty,J._Paul.md) 
+
+### #is_/same_as :: [Getty,J._Paul.public](/_public/Society/Economics/Industry/Oil_Industry/Getty,J._Paul.public.md) 
+
+### #is_/same_as :: [Getty,J._Paul.internal](/_internal/Society/Economics/Industry/Oil_Industry/Getty,J._Paul.internal.md) 
+
+### #is_/same_as :: [Getty,J._Paul.protect](/_protect/Society/Economics/Industry/Oil_Industry/Getty,J._Paul.protect.md) 
+
+### #is_/same_as :: [Getty,J._Paul.private](/_private/Society/Economics/Industry/Oil_Industry/Getty,J._Paul.private.md) 
+
+### #is_/same_as :: [Getty,J._Paul.personal](/_personal/Society/Economics/Industry/Oil_Industry/Getty,J._Paul.personal.md) 
+
+### #is_/same_as :: [Getty,J._Paul.secret](/_secret/Society/Economics/Industry/Oil_Industry/Getty,J._Paul.secret.md)
+

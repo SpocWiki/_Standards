@@ -99,7 +99,7 @@ Mar. Sci. 20: 421-428.\'
   Size              90 mm ML
   Type              Holotype
   Copyright ::         © [Steve O\'Shea](mailto:steve.oshea@aut.ac.nz) 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

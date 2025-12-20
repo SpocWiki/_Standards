@@ -125,3 +125,22 @@ Europeana_entity: agent/base/145435
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paracelsus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Paracelsus](/_Standards/bio/Medicine/Medical_Business/Physician/Paracelsus.md) 
+
+### #is_/same_as :: [Paracelsus.public](/_public/bio/Medicine/Medical_Business/Physician/Paracelsus.public.md) 
+
+### #is_/same_as :: [Paracelsus.internal](/_internal/bio/Medicine/Medical_Business/Physician/Paracelsus.internal.md) 
+
+### #is_/same_as :: [Paracelsus.protect](/_protect/bio/Medicine/Medical_Business/Physician/Paracelsus.protect.md) 
+
+### #is_/same_as :: [Paracelsus.private](/_private/bio/Medicine/Medical_Business/Physician/Paracelsus.private.md) 
+
+### #is_/same_as :: [Paracelsus.personal](/_personal/bio/Medicine/Medical_Business/Physician/Paracelsus.personal.md) 
+
+### #is_/same_as :: [Paracelsus.secret](/_secret/bio/Medicine/Medical_Business/Physician/Paracelsus.secret.md)
+

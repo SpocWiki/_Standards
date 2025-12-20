@@ -96,3 +96,22 @@ NBN_System_Key: NBNSYS0000034337
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cabbage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [White_Cabbage](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea/White_Cabbage.md) 
+
+### #is_/same_as :: [White_Cabbage.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea/White_Cabbage.public.md) 
+
+### #is_/same_as :: [White_Cabbage.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea/White_Cabbage.internal.md) 
+
+### #is_/same_as :: [White_Cabbage.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea/White_Cabbage.protect.md) 
+
+### #is_/same_as :: [White_Cabbage.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea/White_Cabbage.private.md) 
+
+### #is_/same_as :: [White_Cabbage.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea/White_Cabbage.personal.md) 
+
+### #is_/same_as :: [White_Cabbage.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea/White_Cabbage.secret.md)
+

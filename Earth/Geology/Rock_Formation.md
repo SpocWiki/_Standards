@@ -40,3 +40,22 @@ Commons_category: Geologic formations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20rock%20formations) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rock_Formation](/_Standards/Earth/Geology/Rock_Formation.md) 
+
+### #is_/same_as :: [Rock_Formation.public](/_public/Earth/Geology/Rock_Formation.public.md) 
+
+### #is_/same_as :: [Rock_Formation.internal](/_internal/Earth/Geology/Rock_Formation.internal.md) 
+
+### #is_/same_as :: [Rock_Formation.protect](/_protect/Earth/Geology/Rock_Formation.protect.md) 
+
+### #is_/same_as :: [Rock_Formation.private](/_private/Earth/Geology/Rock_Formation.private.md) 
+
+### #is_/same_as :: [Rock_Formation.personal](/_personal/Earth/Geology/Rock_Formation.personal.md) 
+
+### #is_/same_as :: [Rock_Formation.secret](/_secret/Earth/Geology/Rock_Formation.secret.md)
+

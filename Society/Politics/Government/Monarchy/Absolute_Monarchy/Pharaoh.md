@@ -94,3 +94,22 @@ male_form_of_label: Pharao
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pharaoh) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pharaoh](/_Standards/Society/Politics/Government/Monarchy/Absolute_Monarchy/Pharaoh.md) 
+
+### #is_/same_as :: [Pharaoh.public](/_public/Society/Politics/Government/Monarchy/Absolute_Monarchy/Pharaoh.public.md) 
+
+### #is_/same_as :: [Pharaoh.internal](/_internal/Society/Politics/Government/Monarchy/Absolute_Monarchy/Pharaoh.internal.md) 
+
+### #is_/same_as :: [Pharaoh.protect](/_protect/Society/Politics/Government/Monarchy/Absolute_Monarchy/Pharaoh.protect.md) 
+
+### #is_/same_as :: [Pharaoh.private](/_private/Society/Politics/Government/Monarchy/Absolute_Monarchy/Pharaoh.private.md) 
+
+### #is_/same_as :: [Pharaoh.personal](/_personal/Society/Politics/Government/Monarchy/Absolute_Monarchy/Pharaoh.personal.md) 
+
+### #is_/same_as :: [Pharaoh.secret](/_secret/Society/Politics/Government/Monarchy/Absolute_Monarchy/Pharaoh.secret.md)
+

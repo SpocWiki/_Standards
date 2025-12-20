@@ -28,7 +28,7 @@ title: Leotiomycetes
 -   *Rhytismatales*
 -   *Thelebolales*
 
-Containing group:[Pezizomycotina](../Pezizomycotina.md))
+Containing group:[Pezizomycotina](../Pezizomycotina.md))
 
 
 ## Confidential Links & Embeds: 

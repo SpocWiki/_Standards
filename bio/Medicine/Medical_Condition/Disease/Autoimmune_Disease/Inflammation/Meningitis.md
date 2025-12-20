@@ -101,3 +101,22 @@ MeSH_tree_code: C10.586.625
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meningitis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meningitis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.md) 
+
+### #is_/same_as :: [Meningitis.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.public.md) 
+
+### #is_/same_as :: [Meningitis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.internal.md) 
+
+### #is_/same_as :: [Meningitis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.protect.md) 
+
+### #is_/same_as :: [Meningitis.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.private.md) 
+
+### #is_/same_as :: [Meningitis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.personal.md) 
+
+### #is_/same_as :: [Meningitis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.secret.md)
+

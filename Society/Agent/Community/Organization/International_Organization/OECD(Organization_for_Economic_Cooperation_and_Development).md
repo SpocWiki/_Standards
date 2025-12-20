@@ -184,36 +184,17 @@ dv.view("TableByName", ["OECD.tsv"]);
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development)](OECD(Organization_for_Economic_Cooperation_and_Development).md) 
+### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development)](/_Standards/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development).md) 
 
-### #is_/same_as :: [OECD.public](/_public/International/OECD.public.md) 
+### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development).public](/_public/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development).public.md) 
 
-### #is_/same_as :: [OECD.internal](/_internal/International/OECD.internal.md) 
+### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development).internal](/_internal/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development).internal.md) 
 
-### #is_/same_as :: [OECD.protect](/_protect/International/OECD.protect.md) 
+### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development).protect](/_protect/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development).protect.md) 
 
-### #is_/same_as :: [OECD.private](/_private/International/OECD.private.md) 
+### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development).private](/_private/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development).private.md) 
 
-### #is_/same_as :: [OECD.personal](/_personal/International/OECD.personal.md) 
+### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development).personal](/_personal/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development).personal.md) 
 
-### #is_/same_as :: [OECD.secret](/_secret/International/OECD.secret.md)
+### #is_/same_as :: [OECD(Organization_for_Economic_Cooperation_and_Development).secret](/_secret/Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development).secret.md)
 
-
-# [[OECD(Organization_for_Economic_Cooperation_and_Development)]] 
-
-#is_/part_of :: [[OECD(Organization_for_Economic_Cooperation_and_Development)]] 
-
-![[OECD.svg]]
-
- 
-
-## Embedded Graph 
-
-![[OECD.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

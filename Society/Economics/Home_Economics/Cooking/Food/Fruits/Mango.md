@@ -60,3 +60,21 @@ Unicode_character: 🥭
 > Worldwide, there are several hundred cultivars of mango. Depending on the cultivar, mango fruit varies in size, shape, sweetness, skin color, and flesh color, which may be pale yellow, gold, green, or orange. Mango is the national fruit of India, Pakistan and the Philippines, while the mango tree is the national tree of Bangladesh.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mango)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mango](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.md) 
+
+### #is_/same_as :: [Mango.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.public.md) 
+
+### #is_/same_as :: [Mango.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.internal.md) 
+
+### #is_/same_as :: [Mango.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.protect.md) 
+
+### #is_/same_as :: [Mango.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.private.md) 
+
+### #is_/same_as :: [Mango.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.personal.md) 
+
+### #is_/same_as :: [Mango.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.secret.md)
+

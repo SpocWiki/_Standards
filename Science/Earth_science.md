@@ -47,3 +47,21 @@ MeSH_tree_code: H01.277
 > **Earth science** or geoscience includes all fields of natural science related to the planet Earth. This is a branch of science dealing with the physical, chemical, and biological complex constitutions and synergistic linkages of Earth's four spheres: the biosphere, hydrosphere/cryosphere, atmosphere, and geosphere (or lithosphere). Earth science can be considered to be a branch of planetary science but with a much older history.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth%20science)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Earth_science](/_Standards/Science/Earth_science.md) 
+
+### #is_/same_as :: [Earth_science.public](/_public/Science/Earth_science.public.md) 
+
+### #is_/same_as :: [Earth_science.internal](/_internal/Science/Earth_science.internal.md) 
+
+### #is_/same_as :: [Earth_science.protect](/_protect/Science/Earth_science.protect.md) 
+
+### #is_/same_as :: [Earth_science.private](/_private/Science/Earth_science.private.md) 
+
+### #is_/same_as :: [Earth_science.personal](/_personal/Science/Earth_science.personal.md) 
+
+### #is_/same_as :: [Earth_science.secret](/_secret/Science/Earth_science.secret.md)
+

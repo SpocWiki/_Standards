@@ -22,3 +22,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Knot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Knot](/_Standards/Technology/Tool/Mechanical_Tool/Knot.md) 
+
+### #is_/same_as :: [Knot.public](/_public/Technology/Tool/Mechanical_Tool/Knot.public.md) 
+
+### #is_/same_as :: [Knot.internal](/_internal/Technology/Tool/Mechanical_Tool/Knot.internal.md) 
+
+### #is_/same_as :: [Knot.protect](/_protect/Technology/Tool/Mechanical_Tool/Knot.protect.md) 
+
+### #is_/same_as :: [Knot.private](/_private/Technology/Tool/Mechanical_Tool/Knot.private.md) 
+
+### #is_/same_as :: [Knot.personal](/_personal/Technology/Tool/Mechanical_Tool/Knot.personal.md) 
+
+### #is_/same_as :: [Knot.secret](/_secret/Technology/Tool/Mechanical_Tool/Knot.secret.md)
+

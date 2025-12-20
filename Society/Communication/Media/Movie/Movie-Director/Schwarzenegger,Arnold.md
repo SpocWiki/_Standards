@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwarzenegger,Arnold](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.md) 
+### #is_/same_as :: [Schwarzenegger,Arnold](/_Standards/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.md) 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.public.md) 
+### #is_/same_as :: [Schwarzenegger,Arnold.public](/_public/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.public.md) 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.internal.md) 
+### #is_/same_as :: [Schwarzenegger,Arnold.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.internal.md) 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.protect.md) 
+### #is_/same_as :: [Schwarzenegger,Arnold.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.protect.md) 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.private.md) 
+### #is_/same_as :: [Schwarzenegger,Arnold.private](/_private/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.private.md) 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.personal.md) 
+### #is_/same_as :: [Schwarzenegger,Arnold.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.personal.md) 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.secret.md)
+### #is_/same_as :: [Schwarzenegger,Arnold.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.secret.md)
 

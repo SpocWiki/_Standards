@@ -134,3 +134,22 @@ NLC_authorities: "000244550"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Steinbeck) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Steinbeck,John](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.md) 
+
+### #is_/same_as :: [Steinbeck,John.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.public.md) 
+
+### #is_/same_as :: [Steinbeck,John.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.internal.md) 
+
+### #is_/same_as :: [Steinbeck,John.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.protect.md) 
+
+### #is_/same_as :: [Steinbeck,John.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.private.md) 
+
+### #is_/same_as :: [Steinbeck,John.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.personal.md) 
+
+### #is_/same_as :: [Steinbeck,John.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.secret.md)
+

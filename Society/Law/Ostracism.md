@@ -38,3 +38,22 @@ Krugosvet_article_archived_: istoriya/ostrakizm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ostracism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ostracism](/_Standards/Society/Law/Ostracism.md) 
+
+### #is_/same_as :: [Ostracism.public](/_public/Society/Law/Ostracism.public.md) 
+
+### #is_/same_as :: [Ostracism.internal](/_internal/Society/Law/Ostracism.internal.md) 
+
+### #is_/same_as :: [Ostracism.protect](/_protect/Society/Law/Ostracism.protect.md) 
+
+### #is_/same_as :: [Ostracism.private](/_private/Society/Law/Ostracism.private.md) 
+
+### #is_/same_as :: [Ostracism.personal](/_personal/Society/Law/Ostracism.personal.md) 
+
+### #is_/same_as :: [Ostracism.secret](/_secret/Society/Law/Ostracism.secret.md)
+

@@ -36,3 +36,22 @@ has_id_wikidata: Q185467
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Socialization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Socialization](/_Standards/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.md) 
+
+### #is_/same_as :: [Socialization.public](/_public/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.public.md) 
+
+### #is_/same_as :: [Socialization.internal](/_internal/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.internal.md) 
+
+### #is_/same_as :: [Socialization.protect](/_protect/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.protect.md) 
+
+### #is_/same_as :: [Socialization.private](/_private/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.private.md) 
+
+### #is_/same_as :: [Socialization.personal](/_personal/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.personal.md) 
+
+### #is_/same_as :: [Socialization.secret](/_secret/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.secret.md)
+

@@ -156,7 +156,7 @@ America: an identification manual. American Arachnological Society,
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1994 [Wolfgang Wuster](mailto:w.wuster@bangor.ac.uk)
-  ---------------------
+  ---------------------
 
 
 ## Confidential Links & Embeds: 

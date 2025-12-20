@@ -38,3 +38,22 @@ dissolved_abolished_or_demolished_date: 2035-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leap%20second) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leap_Second](/_Standards/Dimension/Dim~Time/Leap_Second.md) 
+
+### #is_/same_as :: [Leap_Second.public](/_public/Dimension/Dim~Time/Leap_Second.public.md) 
+
+### #is_/same_as :: [Leap_Second.internal](/_internal/Dimension/Dim~Time/Leap_Second.internal.md) 
+
+### #is_/same_as :: [Leap_Second.protect](/_protect/Dimension/Dim~Time/Leap_Second.protect.md) 
+
+### #is_/same_as :: [Leap_Second.private](/_private/Dimension/Dim~Time/Leap_Second.private.md) 
+
+### #is_/same_as :: [Leap_Second.personal](/_personal/Dimension/Dim~Time/Leap_Second.personal.md) 
+
+### #is_/same_as :: [Leap_Second.secret](/_secret/Dimension/Dim~Time/Leap_Second.secret.md)
+

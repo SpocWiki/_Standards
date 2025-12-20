@@ -57,3 +57,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eigenvalues%20and%20eigenvectors) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eigenvector](/_Standards/Mathematics/Geometry/Vector/Eigenvector.md) 
+
+### #is_/same_as :: [Eigenvector.public](/_public/Mathematics/Geometry/Vector/Eigenvector.public.md) 
+
+### #is_/same_as :: [Eigenvector.internal](/_internal/Mathematics/Geometry/Vector/Eigenvector.internal.md) 
+
+### #is_/same_as :: [Eigenvector.protect](/_protect/Mathematics/Geometry/Vector/Eigenvector.protect.md) 
+
+### #is_/same_as :: [Eigenvector.private](/_private/Mathematics/Geometry/Vector/Eigenvector.private.md) 
+
+### #is_/same_as :: [Eigenvector.personal](/_personal/Mathematics/Geometry/Vector/Eigenvector.personal.md) 
+
+### #is_/same_as :: [Eigenvector.secret](/_secret/Mathematics/Geometry/Vector/Eigenvector.secret.md)
+

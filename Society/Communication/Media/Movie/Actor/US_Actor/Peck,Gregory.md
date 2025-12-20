@@ -163,3 +163,22 @@ Plex_person_key: 5d77682754f42c001f8c2a54
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Peck,Gregory](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Peck,Gregory.md) 
+
+### #is_/same_as :: [Peck,Gregory.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Peck,Gregory.public.md) 
+
+### #is_/same_as :: [Peck,Gregory.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Peck,Gregory.internal.md) 
+
+### #is_/same_as :: [Peck,Gregory.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Peck,Gregory.protect.md) 
+
+### #is_/same_as :: [Peck,Gregory.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Peck,Gregory.private.md) 
+
+### #is_/same_as :: [Peck,Gregory.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Peck,Gregory.personal.md) 
+
+### #is_/same_as :: [Peck,Gregory.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Peck,Gregory.secret.md)
+

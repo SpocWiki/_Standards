@@ -36,3 +36,22 @@ Wolfram_Language_entity_type: StarCluster
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20cluster) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Star_Cluster](/_Standards/Astronomy/Star_System/Star_Cluster.md) 
+
+### #is_/same_as :: [Star_Cluster.public](/_public/Astronomy/Star_System/Star_Cluster.public.md) 
+
+### #is_/same_as :: [Star_Cluster.internal](/_internal/Astronomy/Star_System/Star_Cluster.internal.md) 
+
+### #is_/same_as :: [Star_Cluster.protect](/_protect/Astronomy/Star_System/Star_Cluster.protect.md) 
+
+### #is_/same_as :: [Star_Cluster.private](/_private/Astronomy/Star_System/Star_Cluster.private.md) 
+
+### #is_/same_as :: [Star_Cluster.personal](/_personal/Astronomy/Star_System/Star_Cluster.personal.md) 
+
+### #is_/same_as :: [Star_Cluster.secret](/_secret/Astronomy/Star_System/Star_Cluster.secret.md)
+

@@ -91,3 +91,22 @@ inception: 1931-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hoover%20Dam) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hoover_Dam](/_Standards/Earth/Geography/Place/Hoover_Dam.md) 
+
+### #is_/same_as :: [Hoover_Dam.public](/_public/Earth/Geography/Place/Hoover_Dam.public.md) 
+
+### #is_/same_as :: [Hoover_Dam.internal](/_internal/Earth/Geography/Place/Hoover_Dam.internal.md) 
+
+### #is_/same_as :: [Hoover_Dam.protect](/_protect/Earth/Geography/Place/Hoover_Dam.protect.md) 
+
+### #is_/same_as :: [Hoover_Dam.private](/_private/Earth/Geography/Place/Hoover_Dam.private.md) 
+
+### #is_/same_as :: [Hoover_Dam.personal](/_personal/Earth/Geography/Place/Hoover_Dam.personal.md) 
+
+### #is_/same_as :: [Hoover_Dam.secret](/_secret/Earth/Geography/Place/Hoover_Dam.secret.md)
+

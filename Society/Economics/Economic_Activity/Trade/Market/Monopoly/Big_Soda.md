@@ -25,3 +25,22 @@ has_id_wikidata: Q4906383
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Soda) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big_Soda](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Soda.md) 
+
+### #is_/same_as :: [Big_Soda.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Soda.public.md) 
+
+### #is_/same_as :: [Big_Soda.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Soda.internal.md) 
+
+### #is_/same_as :: [Big_Soda.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Soda.protect.md) 
+
+### #is_/same_as :: [Big_Soda.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Soda.private.md) 
+
+### #is_/same_as :: [Big_Soda.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Soda.personal.md) 
+
+### #is_/same_as :: [Big_Soda.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Soda.secret.md)
+

@@ -67,3 +67,22 @@ inception: 2006-10-04T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/WikiLeaks) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [WikiLeaks](/_Standards/Society/Agent/Community/Organization/International_Organization/WikiLeaks.md) 
+
+### #is_/same_as :: [WikiLeaks.public](/_public/Society/Agent/Community/Organization/International_Organization/WikiLeaks.public.md) 
+
+### #is_/same_as :: [WikiLeaks.internal](/_internal/Society/Agent/Community/Organization/International_Organization/WikiLeaks.internal.md) 
+
+### #is_/same_as :: [WikiLeaks.protect](/_protect/Society/Agent/Community/Organization/International_Organization/WikiLeaks.protect.md) 
+
+### #is_/same_as :: [WikiLeaks.private](/_private/Society/Agent/Community/Organization/International_Organization/WikiLeaks.private.md) 
+
+### #is_/same_as :: [WikiLeaks.personal](/_personal/Society/Agent/Community/Organization/International_Organization/WikiLeaks.personal.md) 
+
+### #is_/same_as :: [WikiLeaks.secret](/_secret/Society/Agent/Community/Organization/International_Organization/WikiLeaks.secret.md)
+

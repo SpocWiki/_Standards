@@ -98,3 +98,22 @@ inception: 1768-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia%20Britannica) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Encyclopædia_Britannica](/_Standards/Society/Communication/Media/Writing/Book/Encyclopedia/Encyclopædia_Britannica.md) 
+
+### #is_/same_as :: [Encyclopædia_Britannica.public](/_public/Society/Communication/Media/Writing/Book/Encyclopedia/Encyclopædia_Britannica.public.md) 
+
+### #is_/same_as :: [Encyclopædia_Britannica.internal](/_internal/Society/Communication/Media/Writing/Book/Encyclopedia/Encyclopædia_Britannica.internal.md) 
+
+### #is_/same_as :: [Encyclopædia_Britannica.protect](/_protect/Society/Communication/Media/Writing/Book/Encyclopedia/Encyclopædia_Britannica.protect.md) 
+
+### #is_/same_as :: [Encyclopædia_Britannica.private](/_private/Society/Communication/Media/Writing/Book/Encyclopedia/Encyclopædia_Britannica.private.md) 
+
+### #is_/same_as :: [Encyclopædia_Britannica.personal](/_personal/Society/Communication/Media/Writing/Book/Encyclopedia/Encyclopædia_Britannica.personal.md) 
+
+### #is_/same_as :: [Encyclopædia_Britannica.secret](/_secret/Society/Communication/Media/Writing/Book/Encyclopedia/Encyclopædia_Britannica.secret.md)
+

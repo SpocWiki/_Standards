@@ -147,3 +147,22 @@ IPI_name_number:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89dith%20Piaf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Piaf,Édith](/_Standards/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.md) 
+
+### #is_/same_as :: [Piaf,Édith.public](/_public/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.public.md) 
+
+### #is_/same_as :: [Piaf,Édith.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.internal.md) 
+
+### #is_/same_as :: [Piaf,Édith.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.protect.md) 
+
+### #is_/same_as :: [Piaf,Édith.private](/_private/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.private.md) 
+
+### #is_/same_as :: [Piaf,Édith.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.personal.md) 
+
+### #is_/same_as :: [Piaf,Édith.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Piaf,Édith.secret.md)
+

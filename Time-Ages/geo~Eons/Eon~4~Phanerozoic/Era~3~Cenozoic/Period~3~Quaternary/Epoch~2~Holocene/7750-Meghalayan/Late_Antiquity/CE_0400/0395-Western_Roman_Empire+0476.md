@@ -89,3 +89,21 @@ OpenStreetMap_tag: historic:civilization=western_roman
 > In the 6th century, Emperor Justinian I re-imposed direct Imperial rule on large parts of the former Western Roman Empire, including the prosperous regions of North Africa, the ancient Roman heartland of Italy and parts of Hispania. Political instability in the Eastern heartlands, combined with foreign invasions, plague, and religious differences, made efforts to retain control of these territories difficult and they were gradually lost for good. Though the Eastern Empire retained territories in the south of Italy until the eleventh century, the influence that the Empire had over Western Europe had diminished significantly. The papal coronation of the Frankish king Charlemagne as Roman Emperor in 800 marked a new imperial line that would evolve into the Holy Roman Empire, which presented a revival of the Imperial title in Western Europe but was in no meaningful sense an extension of Roman traditions or institutions. The Great Schism of 1054 between the churches of Rome and Constantinople further diminished any authority the emperor in Constantinople could hope to exert in the West.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20Roman%20Empire)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0395-Western_Roman_Empire+0476](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.md) 
+
+### #is_/same_as :: [0395-Western_Roman_Empire+0476.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.public.md) 
+
+### #is_/same_as :: [0395-Western_Roman_Empire+0476.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.internal.md) 
+
+### #is_/same_as :: [0395-Western_Roman_Empire+0476.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.protect.md) 
+
+### #is_/same_as :: [0395-Western_Roman_Empire+0476.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.private.md) 
+
+### #is_/same_as :: [0395-Western_Roman_Empire+0476.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.personal.md) 
+
+### #is_/same_as :: [0395-Western_Roman_Empire+0476.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.secret.md)
+

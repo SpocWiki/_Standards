@@ -94,16 +94,17 @@ uses: "[[_Standards/WikiData/WD~athletics_track,1004435]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Athletics](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Athletics.md) 
+### #is_/same_as :: [Athletics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics.md) 
 
-### #is_/same_as :: [Athletics.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Athletics.public.md) 
+### #is_/same_as :: [Athletics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics.public.md) 
 
-### #is_/same_as :: [Athletics.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Athletics.internal.md) 
+### #is_/same_as :: [Athletics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics.internal.md) 
 
-### #is_/same_as :: [Athletics.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Athletics.protect.md) 
+### #is_/same_as :: [Athletics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics.protect.md) 
 
-### #is_/same_as :: [Athletics.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Athletics.private.md) 
+### #is_/same_as :: [Athletics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics.private.md) 
 
-### #is_/same_as :: [Athletics.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Athletics.personal.md) 
+### #is_/same_as :: [Athletics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics.personal.md) 
 
-### #is_/same_as :: [Athletics.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Athletics.secret.md)
+### #is_/same_as :: [Athletics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics.secret.md)
+

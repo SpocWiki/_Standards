@@ -61,3 +61,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Volume) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Volume](/_Standards/Dimension/Linear_Dimension/Volume.md) 
+
+### #is_/same_as :: [Volume.public](/_public/Dimension/Linear_Dimension/Volume.public.md) 
+
+### #is_/same_as :: [Volume.internal](/_internal/Dimension/Linear_Dimension/Volume.internal.md) 
+
+### #is_/same_as :: [Volume.protect](/_protect/Dimension/Linear_Dimension/Volume.protect.md) 
+
+### #is_/same_as :: [Volume.private](/_private/Dimension/Linear_Dimension/Volume.private.md) 
+
+### #is_/same_as :: [Volume.personal](/_personal/Dimension/Linear_Dimension/Volume.personal.md) 
+
+### #is_/same_as :: [Volume.secret](/_secret/Dimension/Linear_Dimension/Volume.secret.md)
+

@@ -25,3 +25,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kalmar%20Union) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1397-Kalmar_Union-1523](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.md) 
+
+### #is_/same_as :: [1397-Kalmar_Union-1523.public](/_public/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.public.md) 
+
+### #is_/same_as :: [1397-Kalmar_Union-1523.internal](/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.internal.md) 
+
+### #is_/same_as :: [1397-Kalmar_Union-1523.protect](/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.protect.md) 
+
+### #is_/same_as :: [1397-Kalmar_Union-1523.private](/_private/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.private.md) 
+
+### #is_/same_as :: [1397-Kalmar_Union-1523.personal](/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.personal.md) 
+
+### #is_/same_as :: [1397-Kalmar_Union-1523.secret](/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.secret.md)
+

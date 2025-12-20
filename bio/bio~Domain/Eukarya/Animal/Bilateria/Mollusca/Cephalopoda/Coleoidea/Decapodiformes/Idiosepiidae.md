@@ -144,7 +144,7 @@ Nat. Mus., 234: 1-180.
   Sex ::             Male
   View              Dorsal and ventral
   Size              18 mm ML
-  ---------------------------------
+  ---------------------------------
 
 
 ## Confidential Links & Embeds: 

@@ -83,3 +83,22 @@ ISNI: "0000000108149043"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Cavendish) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cavendish,Henry](/_Standards/Chemistry/Chemist/Cavendish,Henry.md) 
+
+### #is_/same_as :: [Cavendish,Henry.public](/_public/Chemistry/Chemist/Cavendish,Henry.public.md) 
+
+### #is_/same_as :: [Cavendish,Henry.internal](/_internal/Chemistry/Chemist/Cavendish,Henry.internal.md) 
+
+### #is_/same_as :: [Cavendish,Henry.protect](/_protect/Chemistry/Chemist/Cavendish,Henry.protect.md) 
+
+### #is_/same_as :: [Cavendish,Henry.private](/_private/Chemistry/Chemist/Cavendish,Henry.private.md) 
+
+### #is_/same_as :: [Cavendish,Henry.personal](/_personal/Chemistry/Chemist/Cavendish,Henry.personal.md) 
+
+### #is_/same_as :: [Cavendish,Henry.secret](/_secret/Chemistry/Chemist/Cavendish,Henry.secret.md)
+

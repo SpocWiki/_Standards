@@ -39,3 +39,22 @@ has_id_wikidata: Q47988
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Identity%20document) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Identity_Document](/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.md) 
+
+### #is_/same_as :: [Identity_Document.public](/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public.md) 
+
+### #is_/same_as :: [Identity_Document.internal](/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal.md) 
+
+### #is_/same_as :: [Identity_Document.protect](/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect.md) 
+
+### #is_/same_as :: [Identity_Document.private](/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private.md) 
+
+### #is_/same_as :: [Identity_Document.personal](/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal.md) 
+
+### #is_/same_as :: [Identity_Document.secret](/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret.md)
+

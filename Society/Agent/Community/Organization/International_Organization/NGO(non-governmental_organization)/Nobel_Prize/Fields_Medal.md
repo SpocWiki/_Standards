@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fields_Medal](Fields_Medal.md) 
+### #is_/same_as :: [Fields_Medal](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.md) 
 
-### #is_/same_as :: [Fields_Medal.public](/_public/International/NGO/Nobel_Prize/Fields_Medal.public.md) 
+### #is_/same_as :: [Fields_Medal.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.public.md) 
 
-### #is_/same_as :: [Fields_Medal.internal](/_internal/International/NGO/Nobel_Prize/Fields_Medal.internal.md) 
+### #is_/same_as :: [Fields_Medal.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.internal.md) 
 
-### #is_/same_as :: [Fields_Medal.protect](/_protect/International/NGO/Nobel_Prize/Fields_Medal.protect.md) 
+### #is_/same_as :: [Fields_Medal.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.protect.md) 
 
-### #is_/same_as :: [Fields_Medal.private](/_private/International/NGO/Nobel_Prize/Fields_Medal.private.md) 
+### #is_/same_as :: [Fields_Medal.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.private.md) 
 
-### #is_/same_as :: [Fields_Medal.personal](/_personal/International/NGO/Nobel_Prize/Fields_Medal.personal.md) 
+### #is_/same_as :: [Fields_Medal.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.personal.md) 
 
-### #is_/same_as :: [Fields_Medal.secret](/_secret/International/NGO/Nobel_Prize/Fields_Medal.secret.md)
+### #is_/same_as :: [Fields_Medal.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.secret.md)
 

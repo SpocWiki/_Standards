@@ -81,17 +81,17 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "Astrolabe"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astrolabe](Astrolabe.md) 
+### #is_/same_as :: [Astrolabe](/_Standards/Astronomy/Astrometry/Astrolabe.md) 
 
-### #is_/same_as :: [Astrolabe.public](/_public/Astronomy/Astrolabe.public.md) 
+### #is_/same_as :: [Astrolabe.public](/_public/Astronomy/Astrometry/Astrolabe.public.md) 
 
-### #is_/same_as :: [Astrolabe.internal](/_internal/Astronomy/Astrolabe.internal.md) 
+### #is_/same_as :: [Astrolabe.internal](/_internal/Astronomy/Astrometry/Astrolabe.internal.md) 
 
-### #is_/same_as :: [Astrolabe.protect](/_protect/Astronomy/Astrolabe.protect.md) 
+### #is_/same_as :: [Astrolabe.protect](/_protect/Astronomy/Astrometry/Astrolabe.protect.md) 
 
-### #is_/same_as :: [Astrolabe.private](/_private/Astronomy/Astrolabe.private.md) 
+### #is_/same_as :: [Astrolabe.private](/_private/Astronomy/Astrometry/Astrolabe.private.md) 
 
-### #is_/same_as :: [Astrolabe.personal](/_personal/Astronomy/Astrolabe.personal.md) 
+### #is_/same_as :: [Astrolabe.personal](/_personal/Astronomy/Astrometry/Astrolabe.personal.md) 
 
-### #is_/same_as :: [Astrolabe.secret](/_secret/Astronomy/Astrolabe.secret.md)
+### #is_/same_as :: [Astrolabe.secret](/_secret/Astronomy/Astrometry/Astrolabe.secret.md)
 

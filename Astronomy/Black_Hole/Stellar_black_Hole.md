@@ -24,3 +24,22 @@ short_name: SBH
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20black%20hole) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stellar_black_Hole](/_Standards/Astronomy/Black_Hole/Stellar_black_Hole.md) 
+
+### #is_/same_as :: [Stellar_black_Hole.public](/_public/Astronomy/Black_Hole/Stellar_black_Hole.public.md) 
+
+### #is_/same_as :: [Stellar_black_Hole.internal](/_internal/Astronomy/Black_Hole/Stellar_black_Hole.internal.md) 
+
+### #is_/same_as :: [Stellar_black_Hole.protect](/_protect/Astronomy/Black_Hole/Stellar_black_Hole.protect.md) 
+
+### #is_/same_as :: [Stellar_black_Hole.private](/_private/Astronomy/Black_Hole/Stellar_black_Hole.private.md) 
+
+### #is_/same_as :: [Stellar_black_Hole.personal](/_personal/Astronomy/Black_Hole/Stellar_black_Hole.personal.md) 
+
+### #is_/same_as :: [Stellar_black_Hole.secret](/_secret/Astronomy/Black_Hole/Stellar_black_Hole.secret.md)
+

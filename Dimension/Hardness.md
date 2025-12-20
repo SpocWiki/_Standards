@@ -51,3 +51,22 @@ Commons_category: Hardness
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hardness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hardness](/_Standards/Dimension/Hardness.md) 
+
+### #is_/same_as :: [Hardness.public](/_public/Dimension/Hardness.public.md) 
+
+### #is_/same_as :: [Hardness.internal](/_internal/Dimension/Hardness.internal.md) 
+
+### #is_/same_as :: [Hardness.protect](/_protect/Dimension/Hardness.protect.md) 
+
+### #is_/same_as :: [Hardness.private](/_private/Dimension/Hardness.private.md) 
+
+### #is_/same_as :: [Hardness.personal](/_personal/Dimension/Hardness.personal.md) 
+
+### #is_/same_as :: [Hardness.secret](/_secret/Dimension/Hardness.secret.md)
+

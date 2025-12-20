@@ -35,3 +35,22 @@ PhilPapers_topic: history-of-economics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20economic%20thought) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_economic_Thought](/_Standards/Society/Economics/History_of_economic_Thought.md) 
+
+### #is_/same_as :: [History_of_economic_Thought.public](/_public/Society/Economics/History_of_economic_Thought.public.md) 
+
+### #is_/same_as :: [History_of_economic_Thought.internal](/_internal/Society/Economics/History_of_economic_Thought.internal.md) 
+
+### #is_/same_as :: [History_of_economic_Thought.protect](/_protect/Society/Economics/History_of_economic_Thought.protect.md) 
+
+### #is_/same_as :: [History_of_economic_Thought.private](/_private/Society/Economics/History_of_economic_Thought.private.md) 
+
+### #is_/same_as :: [History_of_economic_Thought.personal](/_personal/Society/Economics/History_of_economic_Thought.personal.md) 
+
+### #is_/same_as :: [History_of_economic_Thought.secret](/_secret/Society/Economics/History_of_economic_Thought.secret.md)
+

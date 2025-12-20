@@ -156,3 +156,22 @@ REDnote_profile: 66ac93f9000000000b031421
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mariah%20Carey) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carey,Mariah](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.md) 
+
+### #is_/same_as :: [Carey,Mariah.public](/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.public.md) 
+
+### #is_/same_as :: [Carey,Mariah.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.internal.md) 
+
+### #is_/same_as :: [Carey,Mariah.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.protect.md) 
+
+### #is_/same_as :: [Carey,Mariah.private](/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.private.md) 
+
+### #is_/same_as :: [Carey,Mariah.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.personal.md) 
+
+### #is_/same_as :: [Carey,Mariah.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.secret.md)
+

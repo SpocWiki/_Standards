@@ -112,3 +112,22 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/October-banner-0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/October) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [October](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.md) 
+
+### #is_/same_as :: [October.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.public.md) 
+
+### #is_/same_as :: [October.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.internal.md) 
+
+### #is_/same_as :: [October.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.protect.md) 
+
+### #is_/same_as :: [October.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.private.md) 
+
+### #is_/same_as :: [October.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.personal.md) 
+
+### #is_/same_as :: [October.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Month_of_Year/October.secret.md)
+

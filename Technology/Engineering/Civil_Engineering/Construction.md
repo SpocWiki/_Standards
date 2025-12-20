@@ -100,17 +100,17 @@ This is about the Industry.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Construction](Construction.md) 
+### #is_/same_as :: [Construction](/_Standards/Technology/Engineering/Civil_Engineering/Construction.md) 
 
-### #is_/same_as :: [Construction.public](/_public/Technology/Construction.public.md) 
+### #is_/same_as :: [Construction.public](/_public/Technology/Engineering/Civil_Engineering/Construction.public.md) 
 
-### #is_/same_as :: [Construction.internal](/_internal/Technology/Construction.internal.md) 
+### #is_/same_as :: [Construction.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction.internal.md) 
 
-### #is_/same_as :: [Construction.protect](/_protect/Technology/Construction.protect.md) 
+### #is_/same_as :: [Construction.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction.protect.md) 
 
-### #is_/same_as :: [Construction.private](/_private/Technology/Construction.private.md) 
+### #is_/same_as :: [Construction.private](/_private/Technology/Engineering/Civil_Engineering/Construction.private.md) 
 
-### #is_/same_as :: [Construction.personal](/_personal/Technology/Construction.personal.md) 
+### #is_/same_as :: [Construction.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction.personal.md) 
 
-### #is_/same_as :: [Construction.secret](/_secret/Technology/Construction.secret.md)
+### #is_/same_as :: [Construction.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction.secret.md)
 

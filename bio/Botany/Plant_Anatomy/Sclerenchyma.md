@@ -42,3 +42,22 @@ Commons_category: Sclerenchyma
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ground%20tissue) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sclerenchyma](/_Standards/bio/Botany/Plant_Anatomy/Sclerenchyma.md) 
+
+### #is_/same_as :: [Sclerenchyma.public](/_public/bio/Botany/Plant_Anatomy/Sclerenchyma.public.md) 
+
+### #is_/same_as :: [Sclerenchyma.internal](/_internal/bio/Botany/Plant_Anatomy/Sclerenchyma.internal.md) 
+
+### #is_/same_as :: [Sclerenchyma.protect](/_protect/bio/Botany/Plant_Anatomy/Sclerenchyma.protect.md) 
+
+### #is_/same_as :: [Sclerenchyma.private](/_private/bio/Botany/Plant_Anatomy/Sclerenchyma.private.md) 
+
+### #is_/same_as :: [Sclerenchyma.personal](/_personal/bio/Botany/Plant_Anatomy/Sclerenchyma.personal.md) 
+
+### #is_/same_as :: [Sclerenchyma.secret](/_secret/bio/Botany/Plant_Anatomy/Sclerenchyma.secret.md)
+

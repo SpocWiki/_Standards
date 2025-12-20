@@ -28,3 +28,22 @@ Krugosvet_article: nauka_i_tehnika/biologiya/DNK-IDENTIFIKATSIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/DNA%20profiling) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [DNA_Profiling](/_Standards/Society/Law/Criminal_Law/Criminology/DNA_Profiling.md) 
+
+### #is_/same_as :: [DNA_Profiling.public](/_public/Society/Law/Criminal_Law/Criminology/DNA_Profiling.public.md) 
+
+### #is_/same_as :: [DNA_Profiling.internal](/_internal/Society/Law/Criminal_Law/Criminology/DNA_Profiling.internal.md) 
+
+### #is_/same_as :: [DNA_Profiling.protect](/_protect/Society/Law/Criminal_Law/Criminology/DNA_Profiling.protect.md) 
+
+### #is_/same_as :: [DNA_Profiling.private](/_private/Society/Law/Criminal_Law/Criminology/DNA_Profiling.private.md) 
+
+### #is_/same_as :: [DNA_Profiling.personal](/_personal/Society/Law/Criminal_Law/Criminology/DNA_Profiling.personal.md) 
+
+### #is_/same_as :: [DNA_Profiling.secret](/_secret/Society/Law/Criminal_Law/Criminology/DNA_Profiling.secret.md)
+

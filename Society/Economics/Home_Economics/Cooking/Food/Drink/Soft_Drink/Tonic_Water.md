@@ -27,3 +27,22 @@ AFCD_PFKID: F008460
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tonic%20water) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tonic_Water](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.md) 
+
+### #is_/same_as :: [Tonic_Water.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.public.md) 
+
+### #is_/same_as :: [Tonic_Water.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.internal.md) 
+
+### #is_/same_as :: [Tonic_Water.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.protect.md) 
+
+### #is_/same_as :: [Tonic_Water.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.private.md) 
+
+### #is_/same_as :: [Tonic_Water.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.personal.md) 
+
+### #is_/same_as :: [Tonic_Water.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.secret.md)
+

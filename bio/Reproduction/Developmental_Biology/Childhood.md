@@ -42,3 +42,22 @@ Baidu_Tieba_name: 童年
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Child) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Childhood](/_Standards/bio/Reproduction/Developmental_Biology/Childhood.md) 
+
+### #is_/same_as :: [Childhood.public](/_public/bio/Reproduction/Developmental_Biology/Childhood.public.md) 
+
+### #is_/same_as :: [Childhood.internal](/_internal/bio/Reproduction/Developmental_Biology/Childhood.internal.md) 
+
+### #is_/same_as :: [Childhood.protect](/_protect/bio/Reproduction/Developmental_Biology/Childhood.protect.md) 
+
+### #is_/same_as :: [Childhood.private](/_private/bio/Reproduction/Developmental_Biology/Childhood.private.md) 
+
+### #is_/same_as :: [Childhood.personal](/_personal/bio/Reproduction/Developmental_Biology/Childhood.personal.md) 
+
+### #is_/same_as :: [Childhood.secret](/_secret/bio/Reproduction/Developmental_Biology/Childhood.secret.md)
+

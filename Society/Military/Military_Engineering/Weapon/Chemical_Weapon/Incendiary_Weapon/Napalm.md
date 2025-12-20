@@ -51,3 +51,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20riverboat%20using
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Napalm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Napalm](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.md) 
+
+### #is_/same_as :: [Napalm.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.public.md) 
+
+### #is_/same_as :: [Napalm.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.internal.md) 
+
+### #is_/same_as :: [Napalm.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.protect.md) 
+
+### #is_/same_as :: [Napalm.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.private.md) 
+
+### #is_/same_as :: [Napalm.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.personal.md) 
+
+### #is_/same_as :: [Napalm.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Napalm.secret.md)
+

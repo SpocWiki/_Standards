@@ -121,3 +121,22 @@ Christianized the Kievan Rus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20the%20Great) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0958-Vladimir_the_Great+1015](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0900/0958-Vladimir_the_Great+1015.md) 
+
+### #is_/same_as :: [0958-Vladimir_the_Great+1015.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0900/0958-Vladimir_the_Great+1015.public.md) 
+
+### #is_/same_as :: [0958-Vladimir_the_Great+1015.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0900/0958-Vladimir_the_Great+1015.internal.md) 
+
+### #is_/same_as :: [0958-Vladimir_the_Great+1015.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0900/0958-Vladimir_the_Great+1015.protect.md) 
+
+### #is_/same_as :: [0958-Vladimir_the_Great+1015.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0900/0958-Vladimir_the_Great+1015.private.md) 
+
+### #is_/same_as :: [0958-Vladimir_the_Great+1015.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0900/0958-Vladimir_the_Great+1015.personal.md) 
+
+### #is_/same_as :: [0958-Vladimir_the_Great+1015.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0900/0958-Vladimir_the_Great+1015.secret.md)
+

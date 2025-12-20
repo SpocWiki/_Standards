@@ -63,6 +63,7 @@ short_name: Cet
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cetus)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Cetus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cetus.md) 

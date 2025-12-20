@@ -59,3 +59,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Medicinal%20herbs%20fr
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Traditional%20medicine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Traditional_Medicine](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Medicine.md) 
+
+### #is_/same_as :: [Traditional_Medicine.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Medicine.public.md) 
+
+### #is_/same_as :: [Traditional_Medicine.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Medicine.internal.md) 
+
+### #is_/same_as :: [Traditional_Medicine.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Medicine.protect.md) 
+
+### #is_/same_as :: [Traditional_Medicine.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Medicine.private.md) 
+
+### #is_/same_as :: [Traditional_Medicine.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Medicine.personal.md) 
+
+### #is_/same_as :: [Traditional_Medicine.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Medicine.secret.md)
+

@@ -53,3 +53,22 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20flux) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magnetic_Flux](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Flux.md) 
+
+### #is_/same_as :: [Magnetic_Flux.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Flux.public.md) 
+
+### #is_/same_as :: [Magnetic_Flux.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Flux.internal.md) 
+
+### #is_/same_as :: [Magnetic_Flux.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Flux.protect.md) 
+
+### #is_/same_as :: [Magnetic_Flux.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Flux.private.md) 
+
+### #is_/same_as :: [Magnetic_Flux.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Flux.personal.md) 
+
+### #is_/same_as :: [Magnetic_Flux.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Flux.secret.md)
+

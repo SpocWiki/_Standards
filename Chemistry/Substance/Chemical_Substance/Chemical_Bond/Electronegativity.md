@@ -48,3 +48,22 @@ Commons_category: Electronegativity
 > [Wikipedia](https://en.wikipedia.org/wiki/Electronegativity) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electronegativity](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.md) 
+
+### #is_/same_as :: [Electronegativity.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.public.md) 
+
+### #is_/same_as :: [Electronegativity.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.internal.md) 
+
+### #is_/same_as :: [Electronegativity.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.protect.md) 
+
+### #is_/same_as :: [Electronegativity.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.private.md) 
+
+### #is_/same_as :: [Electronegativity.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.personal.md) 
+
+### #is_/same_as :: [Electronegativity.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.secret.md)
+

@@ -58,3 +58,22 @@ date_of_birth: 1920-07-17T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gordon%20Gould) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gould,Gordon](/_Standards/Science/Inventor/Gould,Gordon.md) 
+
+### #is_/same_as :: [Gould,Gordon.public](/_public/Science/Inventor/Gould,Gordon.public.md) 
+
+### #is_/same_as :: [Gould,Gordon.internal](/_internal/Science/Inventor/Gould,Gordon.internal.md) 
+
+### #is_/same_as :: [Gould,Gordon.protect](/_protect/Science/Inventor/Gould,Gordon.protect.md) 
+
+### #is_/same_as :: [Gould,Gordon.private](/_private/Science/Inventor/Gould,Gordon.private.md) 
+
+### #is_/same_as :: [Gould,Gordon.personal](/_personal/Science/Inventor/Gould,Gordon.personal.md) 
+
+### #is_/same_as :: [Gould,Gordon.secret](/_secret/Science/Inventor/Gould,Gordon.secret.md)
+

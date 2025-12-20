@@ -63,3 +63,22 @@ TA98_Latin_term: ovarium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ovary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ovary](/_Standards/bio/Reproduction/Ovary.md) 
+
+### #is_/same_as :: [Ovary.public](/_public/bio/Reproduction/Ovary.public.md) 
+
+### #is_/same_as :: [Ovary.internal](/_internal/bio/Reproduction/Ovary.internal.md) 
+
+### #is_/same_as :: [Ovary.protect](/_protect/bio/Reproduction/Ovary.protect.md) 
+
+### #is_/same_as :: [Ovary.private](/_private/bio/Reproduction/Ovary.private.md) 
+
+### #is_/same_as :: [Ovary.personal](/_personal/bio/Reproduction/Ovary.personal.md) 
+
+### #is_/same_as :: [Ovary.secret](/_secret/bio/Reproduction/Ovary.secret.md)
+

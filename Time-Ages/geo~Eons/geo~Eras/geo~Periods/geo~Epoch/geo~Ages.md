@@ -41,17 +41,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [geo~Ages](geo~Ages.md) 
+### #is_/same_as :: [geo~Ages](/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.md) 
 
-### #is_/same_as :: [geo~Ages.public](/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.public.md) 
+### #is_/same_as :: [geo~Ages.public](/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.public.md) 
 
-### #is_/same_as :: [geo~Ages.internal](/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.internal.md) 
+### #is_/same_as :: [geo~Ages.internal](/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.internal.md) 
 
-### #is_/same_as :: [geo~Ages.protect](/_protect/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.protect.md) 
+### #is_/same_as :: [geo~Ages.protect](/_protect/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.protect.md) 
 
-### #is_/same_as :: [geo~Ages.private](/_private/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.private.md) 
+### #is_/same_as :: [geo~Ages.private](/_private/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.private.md) 
 
-### #is_/same_as :: [geo~Ages.personal](/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.personal.md) 
+### #is_/same_as :: [geo~Ages.personal](/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.personal.md) 
 
-### #is_/same_as :: [geo~Ages.secret](/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.secret.md)
+### #is_/same_as :: [geo~Ages.secret](/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.secret.md)
 

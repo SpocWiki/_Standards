@@ -61,3 +61,22 @@ Amazon_com_browse_node: "6502934011"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Noodle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Noodle](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Noodle.md) 
+
+### #is_/same_as :: [Noodle.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Noodle.public.md) 
+
+### #is_/same_as :: [Noodle.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Noodle.internal.md) 
+
+### #is_/same_as :: [Noodle.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Noodle.protect.md) 
+
+### #is_/same_as :: [Noodle.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Noodle.private.md) 
+
+### #is_/same_as :: [Noodle.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Noodle.personal.md) 
+
+### #is_/same_as :: [Noodle.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Noodle.secret.md)
+

@@ -49,3 +49,22 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Keuken%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kitchen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kitchen](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.md) 
+
+### #is_/same_as :: [Kitchen.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.public.md) 
+
+### #is_/same_as :: [Kitchen.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.internal.md) 
+
+### #is_/same_as :: [Kitchen.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.protect.md) 
+
+### #is_/same_as :: [Kitchen.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.private.md) 
+
+### #is_/same_as :: [Kitchen.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.personal.md) 
+
+### #is_/same_as :: [Kitchen.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen.secret.md)
+

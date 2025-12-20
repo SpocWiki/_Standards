@@ -37,3 +37,22 @@ Commons_category: Pipeline transport
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pipeline_Transport](/_Standards/Technology/Transport/Pipeline_Transport.md) 
+
+### #is_/same_as :: [Pipeline_Transport.public](/_public/Technology/Transport/Pipeline_Transport.public.md) 
+
+### #is_/same_as :: [Pipeline_Transport.internal](/_internal/Technology/Transport/Pipeline_Transport.internal.md) 
+
+### #is_/same_as :: [Pipeline_Transport.protect](/_protect/Technology/Transport/Pipeline_Transport.protect.md) 
+
+### #is_/same_as :: [Pipeline_Transport.private](/_private/Technology/Transport/Pipeline_Transport.private.md) 
+
+### #is_/same_as :: [Pipeline_Transport.personal](/_personal/Technology/Transport/Pipeline_Transport.personal.md) 
+
+### #is_/same_as :: [Pipeline_Transport.secret](/_secret/Technology/Transport/Pipeline_Transport.secret.md)
+

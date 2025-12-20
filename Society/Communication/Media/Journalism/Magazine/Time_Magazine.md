@@ -80,3 +80,22 @@ inception: 1923-03-03T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20(magazine)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Time_Magazine](/_Standards/Society/Communication/Media/Journalism/Magazine/Time_Magazine.md) 
+
+### #is_/same_as :: [Time_Magazine.public](/_public/Society/Communication/Media/Journalism/Magazine/Time_Magazine.public.md) 
+
+### #is_/same_as :: [Time_Magazine.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Time_Magazine.internal.md) 
+
+### #is_/same_as :: [Time_Magazine.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Time_Magazine.protect.md) 
+
+### #is_/same_as :: [Time_Magazine.private](/_private/Society/Communication/Media/Journalism/Magazine/Time_Magazine.private.md) 
+
+### #is_/same_as :: [Time_Magazine.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Time_Magazine.personal.md) 
+
+### #is_/same_as :: [Time_Magazine.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Time_Magazine.secret.md)
+

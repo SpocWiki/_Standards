@@ -41,17 +41,17 @@ medical conditions caused by trauma or sudden illness.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emergency](Emergency.md) 
+### #is_/same_as :: [Emergency](/_Standards/bio/Medicine/Medical_Business/Emergency.md) 
 
-### #is_/same_as :: [Emergency.public](/_public/Society/Organization/Local_Business/Medical_Business/Emergency.public.md) 
+### #is_/same_as :: [Emergency.public](/_public/bio/Medicine/Medical_Business/Emergency.public.md) 
 
-### #is_/same_as :: [Emergency.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Emergency.internal.md) 
+### #is_/same_as :: [Emergency.internal](/_internal/bio/Medicine/Medical_Business/Emergency.internal.md) 
 
-### #is_/same_as :: [Emergency.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Emergency.protect.md) 
+### #is_/same_as :: [Emergency.protect](/_protect/bio/Medicine/Medical_Business/Emergency.protect.md) 
 
-### #is_/same_as :: [Emergency.private](/_private/Society/Organization/Local_Business/Medical_Business/Emergency.private.md) 
+### #is_/same_as :: [Emergency.private](/_private/bio/Medicine/Medical_Business/Emergency.private.md) 
 
-### #is_/same_as :: [Emergency.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Emergency.personal.md) 
+### #is_/same_as :: [Emergency.personal](/_personal/bio/Medicine/Medical_Business/Emergency.personal.md) 
 
-### #is_/same_as :: [Emergency.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Emergency.secret.md)
+### #is_/same_as :: [Emergency.secret](/_secret/bio/Medicine/Medical_Business/Emergency.secret.md)
 

@@ -262,3 +262,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/TERN
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/J.%20M.%20W.%20Turner) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turner,J.M.W.](/_Standards/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..md) 
+
+### #is_/same_as :: [Turner,J.M.W..public](/_public/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..public.md) 
+
+### #is_/same_as :: [Turner,J.M.W..internal](/_internal/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..internal.md) 
+
+### #is_/same_as :: [Turner,J.M.W..protect](/_protect/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..protect.md) 
+
+### #is_/same_as :: [Turner,J.M.W..private](/_private/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..private.md) 
+
+### #is_/same_as :: [Turner,J.M.W..personal](/_personal/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..personal.md) 
+
+### #is_/same_as :: [Turner,J.M.W..secret](/_secret/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..secret.md)
+

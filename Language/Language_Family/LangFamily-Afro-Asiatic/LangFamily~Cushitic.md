@@ -35,3 +35,22 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cushitic%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cushitic%20languages) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [LangFamily~Cushitic](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic.md) 
+
+### #is_/same_as :: [LangFamily~Cushitic.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic.public.md) 
+
+### #is_/same_as :: [LangFamily~Cushitic.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic.internal.md) 
+
+### #is_/same_as :: [LangFamily~Cushitic.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic.protect.md) 
+
+### #is_/same_as :: [LangFamily~Cushitic.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic.private.md) 
+
+### #is_/same_as :: [LangFamily~Cushitic.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic.personal.md) 
+
+### #is_/same_as :: [LangFamily~Cushitic.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic.secret.md)
+

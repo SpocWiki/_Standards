@@ -58,3 +58,22 @@ Commons_category: Tocharians
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tocharians) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tocharians](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.md) 
+
+### #is_/same_as :: [Tocharians.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.public.md) 
+
+### #is_/same_as :: [Tocharians.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.internal.md) 
+
+### #is_/same_as :: [Tocharians.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.protect.md) 
+
+### #is_/same_as :: [Tocharians.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.private.md) 
+
+### #is_/same_as :: [Tocharians.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.personal.md) 
+
+### #is_/same_as :: [Tocharians.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tocharians.secret.md)
+

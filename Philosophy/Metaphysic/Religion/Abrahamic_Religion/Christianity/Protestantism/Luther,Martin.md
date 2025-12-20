@@ -180,17 +180,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Luther,Martin](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luther,Martin.md) 
+### #is_/same_as :: [Luther,Martin](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Luther,Martin.md) 
 
-### #is_/same_as :: [Luther,Martin.public](/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luther,Martin.public.md) 
+### #is_/same_as :: [Luther,Martin.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Luther,Martin.public.md) 
 
-### #is_/same_as :: [Luther,Martin.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luther,Martin.internal.md) 
+### #is_/same_as :: [Luther,Martin.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Luther,Martin.internal.md) 
 
-### #is_/same_as :: [Luther,Martin.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luther,Martin.protect.md) 
+### #is_/same_as :: [Luther,Martin.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Luther,Martin.protect.md) 
 
-### #is_/same_as :: [Luther,Martin.private](/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luther,Martin.private.md) 
+### #is_/same_as :: [Luther,Martin.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Luther,Martin.private.md) 
 
-### #is_/same_as :: [Luther,Martin.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luther,Martin.personal.md) 
+### #is_/same_as :: [Luther,Martin.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Luther,Martin.personal.md) 
 
-### #is_/same_as :: [Luther,Martin.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luther,Martin.secret.md)
+### #is_/same_as :: [Luther,Martin.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Luther,Martin.secret.md)
 

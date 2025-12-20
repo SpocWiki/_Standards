@@ -60,3 +60,22 @@ Library_of_Congress_Classification: CS1-CS3090
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genealogy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Genealogy](/_Standards/Society/Agent/Community/Clan/Genealogy.md) 
+
+### #is_/same_as :: [Genealogy.public](/_public/Society/Agent/Community/Clan/Genealogy.public.md) 
+
+### #is_/same_as :: [Genealogy.internal](/_internal/Society/Agent/Community/Clan/Genealogy.internal.md) 
+
+### #is_/same_as :: [Genealogy.protect](/_protect/Society/Agent/Community/Clan/Genealogy.protect.md) 
+
+### #is_/same_as :: [Genealogy.private](/_private/Society/Agent/Community/Clan/Genealogy.private.md) 
+
+### #is_/same_as :: [Genealogy.personal](/_personal/Society/Agent/Community/Clan/Genealogy.personal.md) 
+
+### #is_/same_as :: [Genealogy.secret](/_secret/Society/Agent/Community/Clan/Genealogy.secret.md)
+

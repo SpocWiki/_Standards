@@ -40,17 +40,17 @@ DemoAlbum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Demo_Album](Demo_Album.md) 
+### #is_/same_as :: [Demo_Album](/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Demo_Album.md) 
 
-### #is_/same_as :: [demo_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.public.md) 
+### #is_/same_as :: [Demo_Album.public](/_public/schema-org/Enumeration/Music_Album_Production_Type/Demo_Album.public.md) 
 
-### #is_/same_as :: [demo_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.internal.md) 
+### #is_/same_as :: [Demo_Album.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type/Demo_Album.internal.md) 
 
-### #is_/same_as :: [demo_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.protect.md) 
+### #is_/same_as :: [Demo_Album.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type/Demo_Album.protect.md) 
 
-### #is_/same_as :: [demo_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.private.md) 
+### #is_/same_as :: [Demo_Album.private](/_private/schema-org/Enumeration/Music_Album_Production_Type/Demo_Album.private.md) 
 
-### #is_/same_as :: [demo_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.personal.md) 
+### #is_/same_as :: [Demo_Album.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type/Demo_Album.personal.md) 
 
-### #is_/same_as :: [demo_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.secret.md)
+### #is_/same_as :: [Demo_Album.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type/Demo_Album.secret.md)
 

@@ -37,3 +37,22 @@ Commons_category: Lagoons
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lagoon) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lagoon](/_Standards/Earth/Geology/Landform/body_of_water/Lagoon.md) 
+
+### #is_/same_as :: [Lagoon.public](/_public/Earth/Geology/Landform/body_of_water/Lagoon.public.md) 
+
+### #is_/same_as :: [Lagoon.internal](/_internal/Earth/Geology/Landform/body_of_water/Lagoon.internal.md) 
+
+### #is_/same_as :: [Lagoon.protect](/_protect/Earth/Geology/Landform/body_of_water/Lagoon.protect.md) 
+
+### #is_/same_as :: [Lagoon.private](/_private/Earth/Geology/Landform/body_of_water/Lagoon.private.md) 
+
+### #is_/same_as :: [Lagoon.personal](/_personal/Earth/Geology/Landform/body_of_water/Lagoon.personal.md) 
+
+### #is_/same_as :: [Lagoon.secret](/_secret/Earth/Geology/Landform/body_of_water/Lagoon.secret.md)
+

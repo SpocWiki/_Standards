@@ -42,17 +42,17 @@ Represents EnergyStar certification.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Energy_Star_Certified](Energy_Star_Certified.md) 
+### #is_/same_as :: [Energy_Star_Certified](/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.md) 
 
-### #is_/same_as :: [energy_star_certified.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.public.md) 
+### #is_/same_as :: [Energy_Star_Certified.public](/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.public.md) 
 
-### #is_/same_as :: [energy_star_certified.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.internal.md) 
+### #is_/same_as :: [Energy_Star_Certified.internal](/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.internal.md) 
 
-### #is_/same_as :: [energy_star_certified.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.protect.md) 
+### #is_/same_as :: [Energy_Star_Certified.protect](/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.protect.md) 
 
-### #is_/same_as :: [energy_star_certified.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.private.md) 
+### #is_/same_as :: [Energy_Star_Certified.private](/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.private.md) 
 
-### #is_/same_as :: [energy_star_certified.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.personal.md) 
+### #is_/same_as :: [Energy_Star_Certified.personal](/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.personal.md) 
 
-### #is_/same_as :: [energy_star_certified.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.secret.md)
+### #is_/same_as :: [Energy_Star_Certified.secret](/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.secret.md)
 

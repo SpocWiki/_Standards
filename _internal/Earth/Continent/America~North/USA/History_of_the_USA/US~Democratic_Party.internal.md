@@ -36,3 +36,22 @@ They can (easily) turn over Democracy like Hitler and Trump did.
 2021 Trump calls for a Storm on the Capitol, but the Supreme Court rules Indemnity for any Presidential Action 
 2025 Trumps second Term starts with Revenge and Retribution using the largest ever number of Decrees 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [US~Democratic_Party.internal](/_Standards/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.md) 
+
+### #is_/same_as :: [US~Democratic_Party.internal.public](/_public/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.public.md) 
+
+### #is_/same_as :: [US~Democratic_Party.internal.internal](/_internal/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.internal.md) 
+
+### #is_/same_as :: [US~Democratic_Party.internal.protect](/_protect/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.protect.md) 
+
+### #is_/same_as :: [US~Democratic_Party.internal.private](/_private/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.private.md) 
+
+### #is_/same_as :: [US~Democratic_Party.internal.personal](/_personal/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.personal.md) 
+
+### #is_/same_as :: [US~Democratic_Party.internal.secret](/_secret/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.secret.md)
+

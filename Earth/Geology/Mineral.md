@@ -98,17 +98,17 @@ EAGLE_id: material/lod/87
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mineral](Mineral.md) 
+### #is_/same_as :: [Mineral](/_Standards/Earth/Geology/Mineral.md) 
 
-### #is_/same_as :: [Mineral.public](/_public/Chemistry/Material/Mineral.public.md) 
+### #is_/same_as :: [Mineral.public](/_public/Earth/Geology/Mineral.public.md) 
 
-### #is_/same_as :: [Mineral.internal](/_internal/Chemistry/Material/Mineral.internal.md) 
+### #is_/same_as :: [Mineral.internal](/_internal/Earth/Geology/Mineral.internal.md) 
 
-### #is_/same_as :: [Mineral.protect](/_protect/Chemistry/Material/Mineral.protect.md) 
+### #is_/same_as :: [Mineral.protect](/_protect/Earth/Geology/Mineral.protect.md) 
 
-### #is_/same_as :: [Mineral.private](/_private/Chemistry/Material/Mineral.private.md) 
+### #is_/same_as :: [Mineral.private](/_private/Earth/Geology/Mineral.private.md) 
 
-### #is_/same_as :: [Mineral.personal](/_personal/Chemistry/Material/Mineral.personal.md) 
+### #is_/same_as :: [Mineral.personal](/_personal/Earth/Geology/Mineral.personal.md) 
 
-### #is_/same_as :: [Mineral.secret](/_secret/Chemistry/Material/Mineral.secret.md)
+### #is_/same_as :: [Mineral.secret](/_secret/Earth/Geology/Mineral.secret.md)
 

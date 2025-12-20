@@ -72,17 +72,17 @@ has_id_wikidata: Q205739
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moore,Alan](/_Standards/Society/Communication/Media/Writing/Book/Author/Moore,Alan.md) 
+### #is_/same_as :: [Moore,Alan](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.md) 
 
-### #is_/same_as :: [Moore,Alan.public](/_public/Society/Communication/Media/Writing/Book/Author/Moore,Alan.public.md) 
+### #is_/same_as :: [Moore,Alan.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.public.md) 
 
-### #is_/same_as :: [Moore,Alan.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Moore,Alan.internal.md) 
+### #is_/same_as :: [Moore,Alan.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.internal.md) 
 
-### #is_/same_as :: [Moore,Alan.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Moore,Alan.protect.md) 
+### #is_/same_as :: [Moore,Alan.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.protect.md) 
 
-### #is_/same_as :: [Moore,Alan.private](/_private/Society/Communication/Media/Writing/Book/Author/Moore,Alan.private.md) 
+### #is_/same_as :: [Moore,Alan.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.private.md) 
 
-### #is_/same_as :: [Moore,Alan.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Moore,Alan.personal.md) 
+### #is_/same_as :: [Moore,Alan.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.personal.md) 
 
-### #is_/same_as :: [Moore,Alan.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Moore,Alan.secret.md)
+### #is_/same_as :: [Moore,Alan.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Moore,Alan.secret.md)
 

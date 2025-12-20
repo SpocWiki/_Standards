@@ -96,3 +96,22 @@ date_of_birth: 1929-02-10T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jerry%20Goldsmith) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goldsmith,Jerry](/_Standards/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.md) 
+
+### #is_/same_as :: [Goldsmith,Jerry.public](/_public/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.public.md) 
+
+### #is_/same_as :: [Goldsmith,Jerry.internal](/_internal/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.internal.md) 
+
+### #is_/same_as :: [Goldsmith,Jerry.protect](/_protect/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.protect.md) 
+
+### #is_/same_as :: [Goldsmith,Jerry.private](/_private/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.private.md) 
+
+### #is_/same_as :: [Goldsmith,Jerry.personal](/_personal/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.personal.md) 
+
+### #is_/same_as :: [Goldsmith,Jerry.secret](/_secret/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.secret.md)
+

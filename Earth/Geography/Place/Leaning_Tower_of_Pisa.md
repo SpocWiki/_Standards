@@ -139,3 +139,22 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20di%20pi
 > [Wikipedia](https://en.wikipedia.org/wiki/Leaning%20Tower%20of%20Pisa) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leaning_Tower_of_Pisa](/_Standards/Earth/Geography/Place/Leaning_Tower_of_Pisa.md) 
+
+### #is_/same_as :: [Leaning_Tower_of_Pisa.public](/_public/Earth/Geography/Place/Leaning_Tower_of_Pisa.public.md) 
+
+### #is_/same_as :: [Leaning_Tower_of_Pisa.internal](/_internal/Earth/Geography/Place/Leaning_Tower_of_Pisa.internal.md) 
+
+### #is_/same_as :: [Leaning_Tower_of_Pisa.protect](/_protect/Earth/Geography/Place/Leaning_Tower_of_Pisa.protect.md) 
+
+### #is_/same_as :: [Leaning_Tower_of_Pisa.private](/_private/Earth/Geography/Place/Leaning_Tower_of_Pisa.private.md) 
+
+### #is_/same_as :: [Leaning_Tower_of_Pisa.personal](/_personal/Earth/Geography/Place/Leaning_Tower_of_Pisa.personal.md) 
+
+### #is_/same_as :: [Leaning_Tower_of_Pisa.secret](/_secret/Earth/Geography/Place/Leaning_Tower_of_Pisa.secret.md)
+

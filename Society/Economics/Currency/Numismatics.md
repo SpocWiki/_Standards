@@ -71,3 +71,22 @@ Commons_category: Numismatics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Numismatics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Numismatics](/_Standards/Society/Economics/Currency/Numismatics.md) 
+
+### #is_/same_as :: [Numismatics.public](/_public/Society/Economics/Currency/Numismatics.public.md) 
+
+### #is_/same_as :: [Numismatics.internal](/_internal/Society/Economics/Currency/Numismatics.internal.md) 
+
+### #is_/same_as :: [Numismatics.protect](/_protect/Society/Economics/Currency/Numismatics.protect.md) 
+
+### #is_/same_as :: [Numismatics.private](/_private/Society/Economics/Currency/Numismatics.private.md) 
+
+### #is_/same_as :: [Numismatics.personal](/_personal/Society/Economics/Currency/Numismatics.personal.md) 
+
+### #is_/same_as :: [Numismatics.secret](/_secret/Society/Economics/Currency/Numismatics.secret.md)
+

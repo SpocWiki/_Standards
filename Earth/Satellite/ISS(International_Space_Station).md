@@ -142,3 +142,22 @@ service_entry: 2000-11-02T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Space%20Station) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ISS(International_Space_Station)](/_Standards/Earth/Satellite/ISS(International_Space_Station).md) 
+
+### #is_/same_as :: [ISS(International_Space_Station).public](/_public/Earth/Satellite/ISS(International_Space_Station).public.md) 
+
+### #is_/same_as :: [ISS(International_Space_Station).internal](/_internal/Earth/Satellite/ISS(International_Space_Station).internal.md) 
+
+### #is_/same_as :: [ISS(International_Space_Station).protect](/_protect/Earth/Satellite/ISS(International_Space_Station).protect.md) 
+
+### #is_/same_as :: [ISS(International_Space_Station).private](/_private/Earth/Satellite/ISS(International_Space_Station).private.md) 
+
+### #is_/same_as :: [ISS(International_Space_Station).personal](/_personal/Earth/Satellite/ISS(International_Space_Station).personal.md) 
+
+### #is_/same_as :: [ISS(International_Space_Station).secret](/_secret/Earth/Satellite/ISS(International_Space_Station).secret.md)
+

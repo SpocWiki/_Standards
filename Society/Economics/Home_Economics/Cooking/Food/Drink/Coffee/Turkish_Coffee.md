@@ -33,3 +33,22 @@ Commons_category: Turkish coffee
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20coffee) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turkish_Coffee](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.md) 
+
+### #is_/same_as :: [Turkish_Coffee.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.public.md) 
+
+### #is_/same_as :: [Turkish_Coffee.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.internal.md) 
+
+### #is_/same_as :: [Turkish_Coffee.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.protect.md) 
+
+### #is_/same_as :: [Turkish_Coffee.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.private.md) 
+
+### #is_/same_as :: [Turkish_Coffee.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.personal.md) 
+
+### #is_/same_as :: [Turkish_Coffee.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.secret.md)
+

@@ -28,3 +28,22 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Ruby](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby.md) 
+
+### #is_/same_as :: [Prog~Ruby.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby.public.md) 
+
+### #is_/same_as :: [Prog~Ruby.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby.internal.md) 
+
+### #is_/same_as :: [Prog~Ruby.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby.protect.md) 
+
+### #is_/same_as :: [Prog~Ruby.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby.private.md) 
+
+### #is_/same_as :: [Prog~Ruby.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby.personal.md) 
+
+### #is_/same_as :: [Prog~Ruby.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Prog~Ruby.secret.md)
+

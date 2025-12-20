@@ -42,17 +42,17 @@ Specifies that product returns must be paid for, and are the responsibility of, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Fees_Customer_Responsibility](Return_Fees_Customer_Responsibility.md) 
+### #is_/same_as :: [Return_Fees_Customer_Responsibility](/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.md) 
 
-### #is_/same_as :: [return_fees_customer_responsibility.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.public.md) 
+### #is_/same_as :: [Return_Fees_Customer_Responsibility.public](/_public/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.public.md) 
 
-### #is_/same_as :: [return_fees_customer_responsibility.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.internal.md) 
+### #is_/same_as :: [Return_Fees_Customer_Responsibility.internal](/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.internal.md) 
 
-### #is_/same_as :: [return_fees_customer_responsibility.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.protect.md) 
+### #is_/same_as :: [Return_Fees_Customer_Responsibility.protect](/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.protect.md) 
 
-### #is_/same_as :: [return_fees_customer_responsibility.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.private.md) 
+### #is_/same_as :: [Return_Fees_Customer_Responsibility.private](/_private/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.private.md) 
 
-### #is_/same_as :: [return_fees_customer_responsibility.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.personal.md) 
+### #is_/same_as :: [Return_Fees_Customer_Responsibility.personal](/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.personal.md) 
 
-### #is_/same_as :: [return_fees_customer_responsibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.secret.md)
+### #is_/same_as :: [Return_Fees_Customer_Responsibility.secret](/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.secret.md)
 

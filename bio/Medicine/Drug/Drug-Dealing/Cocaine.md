@@ -263,3 +263,22 @@ DSSTOX_compound_identifier: DTXCID501030562
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cocaine](/_Standards/bio/Medicine/Drug/Drug-Dealing/Cocaine.md) 
+
+### #is_/same_as :: [Cocaine.public](/_public/bio/Medicine/Drug/Drug-Dealing/Cocaine.public.md) 
+
+### #is_/same_as :: [Cocaine.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Cocaine.internal.md) 
+
+### #is_/same_as :: [Cocaine.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Cocaine.protect.md) 
+
+### #is_/same_as :: [Cocaine.private](/_private/bio/Medicine/Drug/Drug-Dealing/Cocaine.private.md) 
+
+### #is_/same_as :: [Cocaine.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Cocaine.personal.md) 
+
+### #is_/same_as :: [Cocaine.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Cocaine.secret.md)
+

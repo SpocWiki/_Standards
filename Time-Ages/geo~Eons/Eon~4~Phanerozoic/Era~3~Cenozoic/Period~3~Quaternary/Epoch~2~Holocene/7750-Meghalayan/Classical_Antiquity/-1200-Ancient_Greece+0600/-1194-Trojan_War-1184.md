@@ -77,3 +77,22 @@ Dewey_Decimal_Classification: "939.21"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trojan%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-1194-Trojan_War-1184](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-1194-Trojan_War-1184.md) 
+
+### #is_/same_as :: [-1194-Trojan_War-1184.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-1194-Trojan_War-1184.public.md) 
+
+### #is_/same_as :: [-1194-Trojan_War-1184.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-1194-Trojan_War-1184.internal.md) 
+
+### #is_/same_as :: [-1194-Trojan_War-1184.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-1194-Trojan_War-1184.protect.md) 
+
+### #is_/same_as :: [-1194-Trojan_War-1184.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-1194-Trojan_War-1184.private.md) 
+
+### #is_/same_as :: [-1194-Trojan_War-1184.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-1194-Trojan_War-1184.personal.md) 
+
+### #is_/same_as :: [-1194-Trojan_War-1184.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-1194-Trojan_War-1184.secret.md)
+

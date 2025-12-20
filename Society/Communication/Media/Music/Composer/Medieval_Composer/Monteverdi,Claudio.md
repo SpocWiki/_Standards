@@ -115,3 +115,22 @@ Libris_URI: b8nqlq7v4060l7x
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Claudio%20Monteverdi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monteverdi,Claudio](/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.md) 
+
+### #is_/same_as :: [Monteverdi,Claudio.public](/_public/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.public.md) 
+
+### #is_/same_as :: [Monteverdi,Claudio.internal](/_internal/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.internal.md) 
+
+### #is_/same_as :: [Monteverdi,Claudio.protect](/_protect/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.protect.md) 
+
+### #is_/same_as :: [Monteverdi,Claudio.private](/_private/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.private.md) 
+
+### #is_/same_as :: [Monteverdi,Claudio.personal](/_personal/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.personal.md) 
+
+### #is_/same_as :: [Monteverdi,Claudio.secret](/_secret/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.secret.md)
+

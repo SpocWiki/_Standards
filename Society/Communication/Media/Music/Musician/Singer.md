@@ -156,3 +156,22 @@ P8189: "987007546150905171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Singing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Singer](/_Standards/Society/Communication/Media/Music/Musician/Singer.md) 
+
+### #is_/same_as :: [Singer.public](/_public/Society/Communication/Media/Music/Musician/Singer.public.md) 
+
+### #is_/same_as :: [Singer.internal](/_internal/Society/Communication/Media/Music/Musician/Singer.internal.md) 
+
+### #is_/same_as :: [Singer.protect](/_protect/Society/Communication/Media/Music/Musician/Singer.protect.md) 
+
+### #is_/same_as :: [Singer.private](/_private/Society/Communication/Media/Music/Musician/Singer.private.md) 
+
+### #is_/same_as :: [Singer.personal](/_personal/Society/Communication/Media/Music/Musician/Singer.personal.md) 
+
+### #is_/same_as :: [Singer.secret](/_secret/Society/Communication/Media/Music/Musician/Singer.secret.md)
+

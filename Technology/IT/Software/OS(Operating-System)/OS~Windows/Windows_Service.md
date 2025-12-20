@@ -40,3 +40,22 @@ These tools mainly handle the service configuration parameters such as the
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Windows%20service) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Windows_Service](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.md) 
+
+### #is_/same_as :: [Windows_Service.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.public.md) 
+
+### #is_/same_as :: [Windows_Service.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.internal.md) 
+
+### #is_/same_as :: [Windows_Service.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.protect.md) 
+
+### #is_/same_as :: [Windows_Service.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.private.md) 
+
+### #is_/same_as :: [Windows_Service.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.personal.md) 
+
+### #is_/same_as :: [Windows_Service.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.secret.md)
+

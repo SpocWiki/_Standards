@@ -27,3 +27,22 @@ Sub-Classes can break the Semantics when overriding Methods, violating the Lisko
 Changing the Code of any base-class is very powerful, because it can also change the behavior of all sub-classes, 
 but this Power comes great Responsibility. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [OO~Inheritance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.md) 
+
+### #is_/same_as :: [OO~Inheritance.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.public.md) 
+
+### #is_/same_as :: [OO~Inheritance.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.internal.md) 
+
+### #is_/same_as :: [OO~Inheritance.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.protect.md) 
+
+### #is_/same_as :: [OO~Inheritance.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.private.md) 
+
+### #is_/same_as :: [OO~Inheritance.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.personal.md) 
+
+### #is_/same_as :: [OO~Inheritance.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Inheritance.secret.md)
+

@@ -39,3 +39,21 @@ MeSH_tree_code: B01.050.500.644.400.750
 > Snails have considerable human relevance, including as food items, as pests, and as vectors of disease, and their shells are used as decorative objects and are incorporated into jewellery. The snail has also had some cultural significance, tending to be associated with lethargy. The snail has also been used as a figure of speech in reference to slow-moving things.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Snail)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Snail](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.md) 
+
+### #is_/same_as :: [Snail.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.public.md) 
+
+### #is_/same_as :: [Snail.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.internal.md) 
+
+### #is_/same_as :: [Snail.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.protect.md) 
+
+### #is_/same_as :: [Snail.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.private.md) 
+
+### #is_/same_as :: [Snail.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.personal.md) 
+
+### #is_/same_as :: [Snail.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Snail.secret.md)
+

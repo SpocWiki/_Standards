@@ -62,3 +62,22 @@ Commons_category: Thyristors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thyristor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thyristor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.md) 
+
+### #is_/same_as :: [Thyristor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.public.md) 
+
+### #is_/same_as :: [Thyristor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.internal.md) 
+
+### #is_/same_as :: [Thyristor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.protect.md) 
+
+### #is_/same_as :: [Thyristor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.private.md) 
+
+### #is_/same_as :: [Thyristor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.personal.md) 
+
+### #is_/same_as :: [Thyristor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.secret.md)
+

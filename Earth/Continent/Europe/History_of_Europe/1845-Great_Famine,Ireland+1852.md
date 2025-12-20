@@ -87,3 +87,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1845-Great_Famine,Ireland+1852](/_Standards/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.md) 
+
+### #is_/same_as :: [1845-Great_Famine,Ireland+1852.public](/_public/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.public.md) 
+
+### #is_/same_as :: [1845-Great_Famine,Ireland+1852.internal](/_internal/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.internal.md) 
+
+### #is_/same_as :: [1845-Great_Famine,Ireland+1852.protect](/_protect/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.protect.md) 
+
+### #is_/same_as :: [1845-Great_Famine,Ireland+1852.private](/_private/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.private.md) 
+
+### #is_/same_as :: [1845-Great_Famine,Ireland+1852.personal](/_personal/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.personal.md) 
+
+### #is_/same_as :: [1845-Great_Famine,Ireland+1852.secret](/_secret/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.secret.md)
+

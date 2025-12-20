@@ -101,3 +101,22 @@ Plex_media_key: 5d9c08717b5c2e001e65c17d
 > [Wikipedia](https://en.wikipedia.org/wiki/I%20Love%20Lucy) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [I_Love_Lucy](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.md) 
+
+### #is_/same_as :: [I_Love_Lucy.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.public.md) 
+
+### #is_/same_as :: [I_Love_Lucy.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.internal.md) 
+
+### #is_/same_as :: [I_Love_Lucy.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.protect.md) 
+
+### #is_/same_as :: [I_Love_Lucy.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.private.md) 
+
+### #is_/same_as :: [I_Love_Lucy.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.personal.md) 
+
+### #is_/same_as :: [I_Love_Lucy.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.secret.md)
+

@@ -45,3 +45,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/SVERHVISOKIH_CHAS
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Microwave) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Microwave](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.md) 
+
+### #is_/same_as :: [Microwave.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.public.md) 
+
+### #is_/same_as :: [Microwave.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.internal.md) 
+
+### #is_/same_as :: [Microwave.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.protect.md) 
+
+### #is_/same_as :: [Microwave.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.private.md) 
+
+### #is_/same_as :: [Microwave.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.personal.md) 
+
+### #is_/same_as :: [Microwave.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Microwave.secret.md)
+

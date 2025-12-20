@@ -49,17 +49,17 @@ Geospatial, AR/VR, artistic/animation, gaming, engineering and scientific conten
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [3d_Model](3d_Model.md) 
+### #is_/same_as :: [3d_Model](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.md) 
 
-### #is_/same_as :: [3d_Model.public](/_public/Society/Communication/Media/Media_Object/3d_Model.public.md) 
+### #is_/same_as :: [3d_Model.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.public.md) 
 
-### #is_/same_as :: [3d_Model.internal](/_internal/Society/Communication/Media/Media_Object/3d_Model.internal.md) 
+### #is_/same_as :: [3d_Model.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.internal.md) 
 
-### #is_/same_as :: [3d_Model.protect](/_protect/Society/Communication/Media/Media_Object/3d_Model.protect.md) 
+### #is_/same_as :: [3d_Model.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.protect.md) 
 
-### #is_/same_as :: [3d_Model.private](/_private/Society/Communication/Media/Media_Object/3d_Model.private.md) 
+### #is_/same_as :: [3d_Model.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.private.md) 
 
-### #is_/same_as :: [3d_Model.personal](/_personal/Society/Communication/Media/Media_Object/3d_Model.personal.md) 
+### #is_/same_as :: [3d_Model.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.personal.md) 
 
-### #is_/same_as :: [3d_Model.secret](/_secret/Society/Communication/Media/Media_Object/3d_Model.secret.md)
+### #is_/same_as :: [3d_Model.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.secret.md)
 

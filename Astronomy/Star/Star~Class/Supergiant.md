@@ -21,3 +21,22 @@ Commons_category: Supergiant stars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Supergiant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Supergiant](/_Standards/Astronomy/Star/Star~Class/Supergiant.md) 
+
+### #is_/same_as :: [Supergiant.public](/_public/Astronomy/Star/Star~Class/Supergiant.public.md) 
+
+### #is_/same_as :: [Supergiant.internal](/_internal/Astronomy/Star/Star~Class/Supergiant.internal.md) 
+
+### #is_/same_as :: [Supergiant.protect](/_protect/Astronomy/Star/Star~Class/Supergiant.protect.md) 
+
+### #is_/same_as :: [Supergiant.private](/_private/Astronomy/Star/Star~Class/Supergiant.private.md) 
+
+### #is_/same_as :: [Supergiant.personal](/_personal/Astronomy/Star/Star~Class/Supergiant.personal.md) 
+
+### #is_/same_as :: [Supergiant.secret](/_secret/Astronomy/Star/Star~Class/Supergiant.secret.md)
+

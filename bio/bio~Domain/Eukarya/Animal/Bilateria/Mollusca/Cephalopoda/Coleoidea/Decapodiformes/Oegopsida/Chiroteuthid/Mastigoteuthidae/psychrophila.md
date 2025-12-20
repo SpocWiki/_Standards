@@ -120,7 +120,7 @@ Mastigoteuthidae) from the Southern Ocean. Zoologichesky Zhurnal,
   Size                 84 mm ML
   Type                 Holotype
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
-  -----------------------------------------------------------------------
+  -----------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

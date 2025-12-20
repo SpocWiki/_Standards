@@ -53,3 +53,22 @@ hashtag: mentalhealth
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mental%20health) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mental_Health](/_Standards/bio/Psychology/Mental_Disorder/Mental_Health.md) 
+
+### #is_/same_as :: [Mental_Health.public](/_public/bio/Psychology/Mental_Disorder/Mental_Health.public.md) 
+
+### #is_/same_as :: [Mental_Health.internal](/_internal/bio/Psychology/Mental_Disorder/Mental_Health.internal.md) 
+
+### #is_/same_as :: [Mental_Health.protect](/_protect/bio/Psychology/Mental_Disorder/Mental_Health.protect.md) 
+
+### #is_/same_as :: [Mental_Health.private](/_private/bio/Psychology/Mental_Disorder/Mental_Health.private.md) 
+
+### #is_/same_as :: [Mental_Health.personal](/_personal/bio/Psychology/Mental_Disorder/Mental_Health.personal.md) 
+
+### #is_/same_as :: [Mental_Health.secret](/_secret/bio/Psychology/Mental_Disorder/Mental_Health.secret.md)
+

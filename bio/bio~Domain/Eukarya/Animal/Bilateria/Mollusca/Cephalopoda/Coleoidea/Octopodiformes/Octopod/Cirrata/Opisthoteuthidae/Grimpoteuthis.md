@@ -249,7 +249,7 @@ African Jour. Mar. Sci.., 20: 393-420.
   Specimen Condition   Live Specimen
   View                 Ventral
   Copyright ::            © [David Shale](mailto:david.shale@virgin.net)
-  -------------------
+  -------------------
 
 
 ## Confidential Links & Embeds: 

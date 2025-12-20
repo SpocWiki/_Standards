@@ -33,3 +33,22 @@ NBN_System_Key: NHMSYS0001386986
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictyoptera) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dictyoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera.md) 
+
+### #is_/same_as :: [Dictyoptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera.public.md) 
+
+### #is_/same_as :: [Dictyoptera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera.internal.md) 
+
+### #is_/same_as :: [Dictyoptera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera.protect.md) 
+
+### #is_/same_as :: [Dictyoptera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera.private.md) 
+
+### #is_/same_as :: [Dictyoptera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera.personal.md) 
+
+### #is_/same_as :: [Dictyoptera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Dictyoptera.secret.md)
+

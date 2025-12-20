@@ -27,3 +27,22 @@ official_website: https://www.ecaeurope.com/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Club%20Association) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [European_Club_Association](/_Standards/Earth/Continent/Europe/European_Club_Association.md) 
+
+### #is_/same_as :: [European_Club_Association.public](/_public/Earth/Continent/Europe/European_Club_Association.public.md) 
+
+### #is_/same_as :: [European_Club_Association.internal](/_internal/Earth/Continent/Europe/European_Club_Association.internal.md) 
+
+### #is_/same_as :: [European_Club_Association.protect](/_protect/Earth/Continent/Europe/European_Club_Association.protect.md) 
+
+### #is_/same_as :: [European_Club_Association.private](/_private/Earth/Continent/Europe/European_Club_Association.private.md) 
+
+### #is_/same_as :: [European_Club_Association.personal](/_personal/Earth/Continent/Europe/European_Club_Association.personal.md) 
+
+### #is_/same_as :: [European_Club_Association.secret](/_secret/Earth/Continent/Europe/European_Club_Association.secret.md)
+

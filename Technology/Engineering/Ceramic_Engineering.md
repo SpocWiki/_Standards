@@ -27,3 +27,22 @@ Commons_category: Ceramic engineering
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ceramic%20engineering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ceramic_Engineering](/_Standards/Technology/Engineering/Ceramic_Engineering.md) 
+
+### #is_/same_as :: [Ceramic_Engineering.public](/_public/Technology/Engineering/Ceramic_Engineering.public.md) 
+
+### #is_/same_as :: [Ceramic_Engineering.internal](/_internal/Technology/Engineering/Ceramic_Engineering.internal.md) 
+
+### #is_/same_as :: [Ceramic_Engineering.protect](/_protect/Technology/Engineering/Ceramic_Engineering.protect.md) 
+
+### #is_/same_as :: [Ceramic_Engineering.private](/_private/Technology/Engineering/Ceramic_Engineering.private.md) 
+
+### #is_/same_as :: [Ceramic_Engineering.personal](/_personal/Technology/Engineering/Ceramic_Engineering.personal.md) 
+
+### #is_/same_as :: [Ceramic_Engineering.secret](/_secret/Technology/Engineering/Ceramic_Engineering.secret.md)
+

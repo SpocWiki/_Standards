@@ -107,3 +107,22 @@ Wolfram_Language_entity_code: Entity["Person", "NiklasLuhmann::4796k"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niklas%20Luhmann) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Luhmann,Niklas](/_Standards/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.md) 
+
+### #is_/same_as :: [Luhmann,Niklas.public](/_public/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.public.md) 
+
+### #is_/same_as :: [Luhmann,Niklas.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.internal.md) 
+
+### #is_/same_as :: [Luhmann,Niklas.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.protect.md) 
+
+### #is_/same_as :: [Luhmann,Niklas.private](/_private/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.private.md) 
+
+### #is_/same_as :: [Luhmann,Niklas.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.personal.md) 
+
+### #is_/same_as :: [Luhmann,Niklas.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.secret.md)
+

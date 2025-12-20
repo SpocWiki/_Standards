@@ -42,17 +42,17 @@ Represents the invoice price of an offered product.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Invoice_Price](Invoice_Price.md) 
+### #is_/same_as :: [Invoice_Price](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.md) 
 
-### #is_/same_as :: [invoice_price.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.public.md) 
+### #is_/same_as :: [Invoice_Price.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.public.md) 
 
-### #is_/same_as :: [invoice_price.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.internal.md) 
+### #is_/same_as :: [Invoice_Price.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.internal.md) 
 
-### #is_/same_as :: [invoice_price.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.protect.md) 
+### #is_/same_as :: [Invoice_Price.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.protect.md) 
 
-### #is_/same_as :: [invoice_price.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.private.md) 
+### #is_/same_as :: [Invoice_Price.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.private.md) 
 
-### #is_/same_as :: [invoice_price.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.personal.md) 
+### #is_/same_as :: [Invoice_Price.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.personal.md) 
 
-### #is_/same_as :: [invoice_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.secret.md)
+### #is_/same_as :: [Invoice_Price.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.secret.md)
 

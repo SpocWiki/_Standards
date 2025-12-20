@@ -35,3 +35,22 @@ Baidu_Tieba_name: 天才
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Genius](/_Standards/bio/Psychology/Mind/Genius.md) 
+
+### #is_/same_as :: [Genius.public](/_public/bio/Psychology/Mind/Genius.public.md) 
+
+### #is_/same_as :: [Genius.internal](/_internal/bio/Psychology/Mind/Genius.internal.md) 
+
+### #is_/same_as :: [Genius.protect](/_protect/bio/Psychology/Mind/Genius.protect.md) 
+
+### #is_/same_as :: [Genius.private](/_private/bio/Psychology/Mind/Genius.private.md) 
+
+### #is_/same_as :: [Genius.personal](/_personal/bio/Psychology/Mind/Genius.personal.md) 
+
+### #is_/same_as :: [Genius.secret](/_secret/bio/Psychology/Mind/Genius.secret.md)
+

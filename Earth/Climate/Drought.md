@@ -94,19 +94,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Drought)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drought](/_Standards/Earth/Atmosphere,Earth/Climate/Drought.md) 
+### #is_/same_as :: [Drought](/_Standards/Earth/Climate/Drought.md) 
 
-### #is_/same_as :: [Drought.public](/_public/Earth/Atmosphere,Earth/Climate/Drought.public.md) 
+### #is_/same_as :: [Drought.public](/_public/Earth/Climate/Drought.public.md) 
 
-### #is_/same_as :: [Drought.internal](/_internal/Earth/Atmosphere,Earth/Climate/Drought.internal.md) 
+### #is_/same_as :: [Drought.internal](/_internal/Earth/Climate/Drought.internal.md) 
 
-### #is_/same_as :: [Drought.protect](/_protect/Earth/Atmosphere,Earth/Climate/Drought.protect.md) 
+### #is_/same_as :: [Drought.protect](/_protect/Earth/Climate/Drought.protect.md) 
 
-### #is_/same_as :: [Drought.private](/_private/Earth/Atmosphere,Earth/Climate/Drought.private.md) 
+### #is_/same_as :: [Drought.private](/_private/Earth/Climate/Drought.private.md) 
 
-### #is_/same_as :: [Drought.personal](/_personal/Earth/Atmosphere,Earth/Climate/Drought.personal.md) 
+### #is_/same_as :: [Drought.personal](/_personal/Earth/Climate/Drought.personal.md) 
 
-### #is_/same_as :: [Drought.secret](/_secret/Earth/Atmosphere,Earth/Climate/Drought.secret.md)
+### #is_/same_as :: [Drought.secret](/_secret/Earth/Climate/Drought.secret.md)
 

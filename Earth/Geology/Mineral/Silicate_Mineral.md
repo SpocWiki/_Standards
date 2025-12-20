@@ -21,3 +21,22 @@ has_id_wikidata: Q178977
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silicate%20mineral) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Silicate_Mineral](/_Standards/Earth/Geology/Mineral/Silicate_Mineral.md) 
+
+### #is_/same_as :: [Silicate_Mineral.public](/_public/Earth/Geology/Mineral/Silicate_Mineral.public.md) 
+
+### #is_/same_as :: [Silicate_Mineral.internal](/_internal/Earth/Geology/Mineral/Silicate_Mineral.internal.md) 
+
+### #is_/same_as :: [Silicate_Mineral.protect](/_protect/Earth/Geology/Mineral/Silicate_Mineral.protect.md) 
+
+### #is_/same_as :: [Silicate_Mineral.private](/_private/Earth/Geology/Mineral/Silicate_Mineral.private.md) 
+
+### #is_/same_as :: [Silicate_Mineral.personal](/_personal/Earth/Geology/Mineral/Silicate_Mineral.personal.md) 
+
+### #is_/same_as :: [Silicate_Mineral.secret](/_secret/Earth/Geology/Mineral/Silicate_Mineral.secret.md)
+

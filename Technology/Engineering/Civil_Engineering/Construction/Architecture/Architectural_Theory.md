@@ -29,17 +29,17 @@ Commons_category: Architectural theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Architectural_Theory](Architectural_Theory.md) 
+### #is_/same_as :: [Architectural_Theory](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.md) 
 
-### #is_/same_as :: [Architectural_Theory.public](/_public/Technology/Construction/Architecture/Architectural_Theory.public.md) 
+### #is_/same_as :: [Architectural_Theory.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.public.md) 
 
-### #is_/same_as :: [Architectural_Theory.internal](/_internal/Technology/Construction/Architecture/Architectural_Theory.internal.md) 
+### #is_/same_as :: [Architectural_Theory.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.internal.md) 
 
-### #is_/same_as :: [Architectural_Theory.protect](/_protect/Technology/Construction/Architecture/Architectural_Theory.protect.md) 
+### #is_/same_as :: [Architectural_Theory.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.protect.md) 
 
-### #is_/same_as :: [Architectural_Theory.private](/_private/Technology/Construction/Architecture/Architectural_Theory.private.md) 
+### #is_/same_as :: [Architectural_Theory.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.private.md) 
 
-### #is_/same_as :: [Architectural_Theory.personal](/_personal/Technology/Construction/Architecture/Architectural_Theory.personal.md) 
+### #is_/same_as :: [Architectural_Theory.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.personal.md) 
 
-### #is_/same_as :: [Architectural_Theory.secret](/_secret/Technology/Construction/Architecture/Architectural_Theory.secret.md)
+### #is_/same_as :: [Architectural_Theory.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Theory.secret.md)
 

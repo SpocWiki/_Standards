@@ -98,3 +98,22 @@ name_in_native_language: Ole Einar Bjørndalen
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ole%20Einar%20Bj%C3%B8rndalen) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bjørndalen,Ole_Einar](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon/Bjørndalen,Ole_Einar.md) 
+
+### #is_/same_as :: [Bjørndalen,Ole_Einar.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon/Bjørndalen,Ole_Einar.public.md) 
+
+### #is_/same_as :: [Bjørndalen,Ole_Einar.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon/Bjørndalen,Ole_Einar.internal.md) 
+
+### #is_/same_as :: [Bjørndalen,Ole_Einar.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon/Bjørndalen,Ole_Einar.protect.md) 
+
+### #is_/same_as :: [Bjørndalen,Ole_Einar.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon/Bjørndalen,Ole_Einar.private.md) 
+
+### #is_/same_as :: [Bjørndalen,Ole_Einar.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon/Bjørndalen,Ole_Einar.personal.md) 
+
+### #is_/same_as :: [Bjørndalen,Ole_Einar.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Biathlon/Bjørndalen,Ole_Einar.secret.md)
+

@@ -124,17 +124,17 @@ has_time_started: 1506-04-28
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [St.Peter's_Basilica](St.Peter's_Basilica.md) 
+### #is_/same_as :: [St.Peter's_Basilica](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.md) 
 
-### #is_/same_as :: [St.Peter's_Basilica.public](/_public/Technology/Construction/Architecture/St.Peter's_Basilica.public.md) 
+### #is_/same_as :: [St.Peter's_Basilica.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.public.md) 
 
-### #is_/same_as :: [St.Peter's_Basilica.internal](/_internal/Technology/Construction/Architecture/St.Peter's_Basilica.internal.md) 
+### #is_/same_as :: [St.Peter's_Basilica.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.internal.md) 
 
-### #is_/same_as :: [St.Peter's_Basilica.protect](/_protect/Technology/Construction/Architecture/St.Peter's_Basilica.protect.md) 
+### #is_/same_as :: [St.Peter's_Basilica.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.protect.md) 
 
-### #is_/same_as :: [St.Peter's_Basilica.private](/_private/Technology/Construction/Architecture/St.Peter's_Basilica.private.md) 
+### #is_/same_as :: [St.Peter's_Basilica.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.private.md) 
 
-### #is_/same_as :: [St.Peter's_Basilica.personal](/_personal/Technology/Construction/Architecture/St.Peter's_Basilica.personal.md) 
+### #is_/same_as :: [St.Peter's_Basilica.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.personal.md) 
 
-### #is_/same_as :: [St.Peter's_Basilica.secret](/_secret/Technology/Construction/Architecture/St.Peter's_Basilica.secret.md)
+### #is_/same_as :: [St.Peter's_Basilica.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.secret.md)
 

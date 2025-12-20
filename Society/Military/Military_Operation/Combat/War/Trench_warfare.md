@@ -37,3 +37,22 @@ Commons_category: Trench warfare
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trench%20warfare) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Trench_warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Trench_warfare.md) 
+
+### #is_/same_as :: [Trench_warfare.public](/_public/Society/Military/Military_Operation/Combat/War/Trench_warfare.public.md) 
+
+### #is_/same_as :: [Trench_warfare.internal](/_internal/Society/Military/Military_Operation/Combat/War/Trench_warfare.internal.md) 
+
+### #is_/same_as :: [Trench_warfare.protect](/_protect/Society/Military/Military_Operation/Combat/War/Trench_warfare.protect.md) 
+
+### #is_/same_as :: [Trench_warfare.private](/_private/Society/Military/Military_Operation/Combat/War/Trench_warfare.private.md) 
+
+### #is_/same_as :: [Trench_warfare.personal](/_personal/Society/Military/Military_Operation/Combat/War/Trench_warfare.personal.md) 
+
+### #is_/same_as :: [Trench_warfare.secret](/_secret/Society/Military/Military_Operation/Combat/War/Trench_warfare.secret.md)
+

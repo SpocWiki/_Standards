@@ -101,3 +101,22 @@ official_name: Организация Договора о коллективно
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Collective%20Security%20Treaty%20Organization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization)](/_Standards/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).md) 
+
+### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).public](/_public/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).public.md) 
+
+### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).internal](/_internal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).internal.md) 
+
+### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).protect](/_protect/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).protect.md) 
+
+### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).private](/_private/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).private.md) 
+
+### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).personal](/_personal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).personal.md) 
+
+### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).secret](/_secret/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).secret.md)
+

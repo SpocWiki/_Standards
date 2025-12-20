@@ -129,7 +129,7 @@ Type locality: North Atlantic, Bay of Biscay at 46°30\'N, 7°00\'W.
   Reference         Degner, E. 1925. Cephalopoda. Report on the Danish Oceanographical Expeditions 1908-10 to the Mediterranean and Adjacent Seas, 2(9):1-94.
   Size              46 mm ML
   Type              Holotype
-  ------------------------------------------------
+  ------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

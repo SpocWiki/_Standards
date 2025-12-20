@@ -41,17 +41,17 @@ The act of forming one's opinion, reaction or sentiment.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [assess_action](/_Standards/schema-org/Class/is_a_/action/assess_action.md) 
+### #is_/same_as :: [Assess_Action](/_Standards/schema-org/Class/is_a_/Action/Assess_Action.md) 
 
-### #is_/same_as :: [assess_action.public](/_public/schema-org/Class/is_a_/action/assess_action.public.md) 
+### #is_/same_as :: [Assess_Action.public](/_public/schema-org/Class/is_a_/Action/Assess_Action.public.md) 
 
-### #is_/same_as :: [assess_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action.internal.md) 
+### #is_/same_as :: [Assess_Action.internal](/_internal/schema-org/Class/is_a_/Action/Assess_Action.internal.md) 
 
-### #is_/same_as :: [assess_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action.protect.md) 
+### #is_/same_as :: [Assess_Action.protect](/_protect/schema-org/Class/is_a_/Action/Assess_Action.protect.md) 
 
-### #is_/same_as :: [assess_action.private](/_private/schema-org/Class/is_a_/action/assess_action.private.md) 
+### #is_/same_as :: [Assess_Action.private](/_private/schema-org/Class/is_a_/Action/Assess_Action.private.md) 
 
-### #is_/same_as :: [assess_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action.personal.md) 
+### #is_/same_as :: [Assess_Action.personal](/_personal/schema-org/Class/is_a_/Action/Assess_Action.personal.md) 
 
-### #is_/same_as :: [assess_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action.secret.md)
+### #is_/same_as :: [Assess_Action.secret](/_secret/schema-org/Class/is_a_/Action/Assess_Action.secret.md)
 

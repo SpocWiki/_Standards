@@ -46,3 +46,22 @@ Commons_category: Naval architecture
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Naval%20architecture) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Naval_Architecture](/_Standards/Technology/Engineering/Naval_Architecture.md) 
+
+### #is_/same_as :: [Naval_Architecture.public](/_public/Technology/Engineering/Naval_Architecture.public.md) 
+
+### #is_/same_as :: [Naval_Architecture.internal](/_internal/Technology/Engineering/Naval_Architecture.internal.md) 
+
+### #is_/same_as :: [Naval_Architecture.protect](/_protect/Technology/Engineering/Naval_Architecture.protect.md) 
+
+### #is_/same_as :: [Naval_Architecture.private](/_private/Technology/Engineering/Naval_Architecture.private.md) 
+
+### #is_/same_as :: [Naval_Architecture.personal](/_personal/Technology/Engineering/Naval_Architecture.personal.md) 
+
+### #is_/same_as :: [Naval_Architecture.secret](/_secret/Technology/Engineering/Naval_Architecture.secret.md)
+

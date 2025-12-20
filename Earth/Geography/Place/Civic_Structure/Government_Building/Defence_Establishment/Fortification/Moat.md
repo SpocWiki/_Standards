@@ -44,3 +44,22 @@ GeoNames_feature_code: U.MOTU
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moat) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moat](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.md) 
+
+### #is_/same_as :: [Moat.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.public.md) 
+
+### #is_/same_as :: [Moat.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.internal.md) 
+
+### #is_/same_as :: [Moat.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.protect.md) 
+
+### #is_/same_as :: [Moat.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.private.md) 
+
+### #is_/same_as :: [Moat.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.personal.md) 
+
+### #is_/same_as :: [Moat.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.secret.md)
+

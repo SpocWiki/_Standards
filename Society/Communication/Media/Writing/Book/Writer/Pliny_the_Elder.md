@@ -114,3 +114,22 @@ name_in_native_language: Caius Plinius Secundus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pliny%20the%20Elder) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pliny_the_Elder](/_Standards/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.md) 
+
+### #is_/same_as :: [Pliny_the_Elder.public](/_public/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.public.md) 
+
+### #is_/same_as :: [Pliny_the_Elder.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.internal.md) 
+
+### #is_/same_as :: [Pliny_the_Elder.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.protect.md) 
+
+### #is_/same_as :: [Pliny_the_Elder.private](/_private/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.private.md) 
+
+### #is_/same_as :: [Pliny_the_Elder.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.personal.md) 
+
+### #is_/same_as :: [Pliny_the_Elder.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.secret.md)
+

@@ -146,3 +146,22 @@ Libris_URI: 97mqzgkt38m1m50
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Xi%20Jinping) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Xi_Jinping](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.md) 
+
+### #is_/same_as :: [Xi_Jinping.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.public.md) 
+
+### #is_/same_as :: [Xi_Jinping.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.internal.md) 
+
+### #is_/same_as :: [Xi_Jinping.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.protect.md) 
+
+### #is_/same_as :: [Xi_Jinping.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.private.md) 
+
+### #is_/same_as :: [Xi_Jinping.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.personal.md) 
+
+### #is_/same_as :: [Xi_Jinping.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.secret.md)
+

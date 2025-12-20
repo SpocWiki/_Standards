@@ -70,3 +70,22 @@ dissolved_abolished_or_demolished_date: 2002-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Punch%20(magazine)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Punch(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Punch(Magazine).md) 
+
+### #is_/same_as :: [Punch(Magazine).public](/_public/Society/Communication/Media/Journalism/Magazine/Punch(Magazine).public.md) 
+
+### #is_/same_as :: [Punch(Magazine).internal](/_internal/Society/Communication/Media/Journalism/Magazine/Punch(Magazine).internal.md) 
+
+### #is_/same_as :: [Punch(Magazine).protect](/_protect/Society/Communication/Media/Journalism/Magazine/Punch(Magazine).protect.md) 
+
+### #is_/same_as :: [Punch(Magazine).private](/_private/Society/Communication/Media/Journalism/Magazine/Punch(Magazine).private.md) 
+
+### #is_/same_as :: [Punch(Magazine).personal](/_personal/Society/Communication/Media/Journalism/Magazine/Punch(Magazine).personal.md) 
+
+### #is_/same_as :: [Punch(Magazine).secret](/_secret/Society/Communication/Media/Journalism/Magazine/Punch(Magazine).secret.md)
+

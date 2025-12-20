@@ -108,17 +108,17 @@ writing_language: "[[_Standards/WikiData/WD~French,150]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fermat,Pierre_de](/_Standards/Mathematics/Mathematician/Fermat,Pierre_de.md) 
+### #is_/same_as :: [Fermat,Pierre_de](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.public](/_public/Mathematics/Mathematician/Fermat,Pierre_de.public.md) 
+### #is_/same_as :: [Fermat,Pierre_de.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de.public.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.internal](/_internal/Mathematics/Mathematician/Fermat,Pierre_de.internal.md) 
+### #is_/same_as :: [Fermat,Pierre_de.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de.internal.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.protect](/_protect/Mathematics/Mathematician/Fermat,Pierre_de.protect.md) 
+### #is_/same_as :: [Fermat,Pierre_de.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de.protect.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.private](/_private/Mathematics/Mathematician/Fermat,Pierre_de.private.md) 
+### #is_/same_as :: [Fermat,Pierre_de.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de.private.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.personal](/_personal/Mathematics/Mathematician/Fermat,Pierre_de.personal.md) 
+### #is_/same_as :: [Fermat,Pierre_de.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de.personal.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.secret](/_secret/Mathematics/Mathematician/Fermat,Pierre_de.secret.md)
+### #is_/same_as :: [Fermat,Pierre_de.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de.secret.md)
 

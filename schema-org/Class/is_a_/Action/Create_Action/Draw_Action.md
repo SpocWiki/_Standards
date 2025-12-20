@@ -39,17 +39,17 @@ The act of producing a visual/graphical representation of an object, typically w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [draw_action](/_Standards/schema-org/Class/is_a_/action/create_action/draw_action.md) 
+### #is_/same_as :: [Draw_Action](/_Standards/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.md) 
 
-### #is_/same_as :: [draw_action.public](/_public/schema-org/Class/is_a_/action/create_action/draw_action.public.md) 
+### #is_/same_as :: [Draw_Action.public](/_public/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.public.md) 
 
-### #is_/same_as :: [draw_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/draw_action.internal.md) 
+### #is_/same_as :: [Draw_Action.internal](/_internal/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.internal.md) 
 
-### #is_/same_as :: [draw_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/draw_action.protect.md) 
+### #is_/same_as :: [Draw_Action.protect](/_protect/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.protect.md) 
 
-### #is_/same_as :: [draw_action.private](/_private/schema-org/Class/is_a_/action/create_action/draw_action.private.md) 
+### #is_/same_as :: [Draw_Action.private](/_private/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.private.md) 
 
-### #is_/same_as :: [draw_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/draw_action.personal.md) 
+### #is_/same_as :: [Draw_Action.personal](/_personal/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.personal.md) 
 
-### #is_/same_as :: [draw_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/draw_action.secret.md)
+### #is_/same_as :: [Draw_Action.secret](/_secret/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.secret.md)
 

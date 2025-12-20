@@ -150,3 +150,22 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jane%20Goodall) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goodall,Jane](/_Standards/Society/Anthropology/Anthropologist/Goodall,Jane.md) 
+
+### #is_/same_as :: [Goodall,Jane.public](/_public/Society/Anthropology/Anthropologist/Goodall,Jane.public.md) 
+
+### #is_/same_as :: [Goodall,Jane.internal](/_internal/Society/Anthropology/Anthropologist/Goodall,Jane.internal.md) 
+
+### #is_/same_as :: [Goodall,Jane.protect](/_protect/Society/Anthropology/Anthropologist/Goodall,Jane.protect.md) 
+
+### #is_/same_as :: [Goodall,Jane.private](/_private/Society/Anthropology/Anthropologist/Goodall,Jane.private.md) 
+
+### #is_/same_as :: [Goodall,Jane.personal](/_personal/Society/Anthropology/Anthropologist/Goodall,Jane.personal.md) 
+
+### #is_/same_as :: [Goodall,Jane.secret](/_secret/Society/Anthropology/Anthropologist/Goodall,Jane.secret.md)
+

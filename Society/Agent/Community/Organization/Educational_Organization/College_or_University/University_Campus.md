@@ -39,3 +39,22 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000467
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Campus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [University_Campus](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.md) 
+
+### #is_/same_as :: [University_Campus.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.public.md) 
+
+### #is_/same_as :: [University_Campus.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.internal.md) 
+
+### #is_/same_as :: [University_Campus.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.protect.md) 
+
+### #is_/same_as :: [University_Campus.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.private.md) 
+
+### #is_/same_as :: [University_Campus.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.personal.md) 
+
+### #is_/same_as :: [University_Campus.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/University_Campus.secret.md)
+

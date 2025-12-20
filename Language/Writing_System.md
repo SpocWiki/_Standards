@@ -114,22 +114,3 @@ topic_has_template:
 
 ### #is_/same_as :: [Writing_System.secret](/_secret/Language/Writing_System.secret.md)
 
-
-# [[Writing_System]] 
-
-#is_/part_of :: [[Writing_System]] 
-
-![[Writing_System.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Writing_System.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

@@ -60,3 +60,22 @@ OpenStreetMap_tag: seamark:type=harbour
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harbor) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Harbor](/_Standards/Earth/Geology/Landform/Harbor.md) 
+
+### #is_/same_as :: [Harbor.public](/_public/Earth/Geology/Landform/Harbor.public.md) 
+
+### #is_/same_as :: [Harbor.internal](/_internal/Earth/Geology/Landform/Harbor.internal.md) 
+
+### #is_/same_as :: [Harbor.protect](/_protect/Earth/Geology/Landform/Harbor.protect.md) 
+
+### #is_/same_as :: [Harbor.private](/_private/Earth/Geology/Landform/Harbor.private.md) 
+
+### #is_/same_as :: [Harbor.personal](/_personal/Earth/Geology/Landform/Harbor.personal.md) 
+
+### #is_/same_as :: [Harbor.secret](/_secret/Earth/Geology/Landform/Harbor.secret.md)
+

@@ -36,3 +36,22 @@ Commons_gallery: Electromagnet
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromagnet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electromagnet](/_Standards/Technology/Engineering/Electrical_Engineering/Electromagnet.md) 
+
+### #is_/same_as :: [Electromagnet.public](/_public/Technology/Engineering/Electrical_Engineering/Electromagnet.public.md) 
+
+### #is_/same_as :: [Electromagnet.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electromagnet.internal.md) 
+
+### #is_/same_as :: [Electromagnet.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electromagnet.protect.md) 
+
+### #is_/same_as :: [Electromagnet.private](/_private/Technology/Engineering/Electrical_Engineering/Electromagnet.private.md) 
+
+### #is_/same_as :: [Electromagnet.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electromagnet.personal.md) 
+
+### #is_/same_as :: [Electromagnet.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electromagnet.secret.md)
+

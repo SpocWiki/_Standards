@@ -72,3 +72,22 @@ date_of_birth: 1918-03-29T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sam%20Walton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Walton,Sam](/_Standards/Society/Agent/Community/Organization/Business-Person/Walton,Sam.md) 
+
+### #is_/same_as :: [Walton,Sam.public](/_public/Society/Agent/Community/Organization/Business-Person/Walton,Sam.public.md) 
+
+### #is_/same_as :: [Walton,Sam.internal](/_internal/Society/Agent/Community/Organization/Business-Person/Walton,Sam.internal.md) 
+
+### #is_/same_as :: [Walton,Sam.protect](/_protect/Society/Agent/Community/Organization/Business-Person/Walton,Sam.protect.md) 
+
+### #is_/same_as :: [Walton,Sam.private](/_private/Society/Agent/Community/Organization/Business-Person/Walton,Sam.private.md) 
+
+### #is_/same_as :: [Walton,Sam.personal](/_personal/Society/Agent/Community/Organization/Business-Person/Walton,Sam.personal.md) 
+
+### #is_/same_as :: [Walton,Sam.secret](/_secret/Society/Agent/Community/Organization/Business-Person/Walton,Sam.secret.md)
+

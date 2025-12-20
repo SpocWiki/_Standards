@@ -42,3 +42,22 @@ Commons_category: Mohs scale
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mohs%20scale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unit~Mohs](/_Standards/Dimension/Unit~Mohs.md) 
+
+### #is_/same_as :: [Unit~Mohs.public](/_public/Dimension/Unit~Mohs.public.md) 
+
+### #is_/same_as :: [Unit~Mohs.internal](/_internal/Dimension/Unit~Mohs.internal.md) 
+
+### #is_/same_as :: [Unit~Mohs.protect](/_protect/Dimension/Unit~Mohs.protect.md) 
+
+### #is_/same_as :: [Unit~Mohs.private](/_private/Dimension/Unit~Mohs.private.md) 
+
+### #is_/same_as :: [Unit~Mohs.personal](/_personal/Dimension/Unit~Mohs.personal.md) 
+
+### #is_/same_as :: [Unit~Mohs.secret](/_secret/Dimension/Unit~Mohs.secret.md)
+

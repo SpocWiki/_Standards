@@ -30,3 +30,22 @@ Commons_category: Stellar magnetic fields
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stellar%20magnetic%20field) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stellar_magnetic_Field](/_Standards/Astronomy/Star/Stellar_magnetic_Field.md) 
+
+### #is_/same_as :: [Stellar_magnetic_Field.public](/_public/Astronomy/Star/Stellar_magnetic_Field.public.md) 
+
+### #is_/same_as :: [Stellar_magnetic_Field.internal](/_internal/Astronomy/Star/Stellar_magnetic_Field.internal.md) 
+
+### #is_/same_as :: [Stellar_magnetic_Field.protect](/_protect/Astronomy/Star/Stellar_magnetic_Field.protect.md) 
+
+### #is_/same_as :: [Stellar_magnetic_Field.private](/_private/Astronomy/Star/Stellar_magnetic_Field.private.md) 
+
+### #is_/same_as :: [Stellar_magnetic_Field.personal](/_personal/Astronomy/Star/Stellar_magnetic_Field.personal.md) 
+
+### #is_/same_as :: [Stellar_magnetic_Field.secret](/_secret/Astronomy/Star/Stellar_magnetic_Field.secret.md)
+

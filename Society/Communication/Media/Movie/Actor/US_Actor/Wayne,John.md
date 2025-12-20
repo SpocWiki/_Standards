@@ -132,3 +132,22 @@ Europeana_entity: agent/base/146849
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Wayne) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wayne,John](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.md) 
+
+### #is_/same_as :: [Wayne,John.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.public.md) 
+
+### #is_/same_as :: [Wayne,John.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.internal.md) 
+
+### #is_/same_as :: [Wayne,John.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.protect.md) 
+
+### #is_/same_as :: [Wayne,John.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.private.md) 
+
+### #is_/same_as :: [Wayne,John.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.personal.md) 
+
+### #is_/same_as :: [Wayne,John.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.secret.md)
+

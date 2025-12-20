@@ -44,3 +44,21 @@ native_label: 夏朝
 > According to the traditional chronology, based upon calculations by Liu Xin, the Xia ruled between 2205 and 1766 BC. According to the chronology based on the "current text" Bamboo Annals, it ruled between 1989 and 1558 BC. Comparing the same text with dates of five-planet conjunctions, David Pankenier, supported by David Nivison, proposed dates of 1953 and 1555 BC. The Xia–Shang–Zhou Chronology Project, commissioned by the Chinese government in 1996, proposed that the Xia existed between 2070 and 1600 BC.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Xia%20dynasty)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [-2204-Xia_Dynasty-1599](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2204-Xia_Dynasty-1599.md) 
+
+### #is_/same_as :: [-2204-Xia_Dynasty-1599.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2204-Xia_Dynasty-1599.public.md) 
+
+### #is_/same_as :: [-2204-Xia_Dynasty-1599.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2204-Xia_Dynasty-1599.internal.md) 
+
+### #is_/same_as :: [-2204-Xia_Dynasty-1599.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2204-Xia_Dynasty-1599.protect.md) 
+
+### #is_/same_as :: [-2204-Xia_Dynasty-1599.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2204-Xia_Dynasty-1599.private.md) 
+
+### #is_/same_as :: [-2204-Xia_Dynasty-1599.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2204-Xia_Dynasty-1599.personal.md) 
+
+### #is_/same_as :: [-2204-Xia_Dynasty-1599.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2204-Xia_Dynasty-1599.secret.md)
+

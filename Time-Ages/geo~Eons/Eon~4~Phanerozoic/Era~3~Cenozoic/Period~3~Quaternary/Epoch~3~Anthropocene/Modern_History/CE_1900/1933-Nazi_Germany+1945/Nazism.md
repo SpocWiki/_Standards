@@ -130,3 +130,22 @@ start_time: 1920-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nazism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nazism](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.md) 
+
+### #is_/same_as :: [Nazism.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.public.md) 
+
+### #is_/same_as :: [Nazism.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.internal.md) 
+
+### #is_/same_as :: [Nazism.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.protect.md) 
+
+### #is_/same_as :: [Nazism.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.private.md) 
+
+### #is_/same_as :: [Nazism.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.personal.md) 
+
+### #is_/same_as :: [Nazism.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.secret.md)
+

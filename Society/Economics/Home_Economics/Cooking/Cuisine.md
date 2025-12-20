@@ -41,3 +41,22 @@ pronunciation_audio:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cuisine) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cuisine](/_Standards/Society/Economics/Home_Economics/Cooking/Cuisine.md) 
+
+### #is_/same_as :: [Cuisine.public](/_public/Society/Economics/Home_Economics/Cooking/Cuisine.public.md) 
+
+### #is_/same_as :: [Cuisine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Cuisine.internal.md) 
+
+### #is_/same_as :: [Cuisine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Cuisine.protect.md) 
+
+### #is_/same_as :: [Cuisine.private](/_private/Society/Economics/Home_Economics/Cooking/Cuisine.private.md) 
+
+### #is_/same_as :: [Cuisine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Cuisine.personal.md) 
+
+### #is_/same_as :: [Cuisine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Cuisine.secret.md)
+

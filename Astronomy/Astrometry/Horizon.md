@@ -78,3 +78,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sureal%20Horizon.jpg
 > Vanishing lines run from the foreground to one or more vanishing points on the horizon line.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Horizon) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Horizon](/_Standards/Astronomy/Astrometry/Horizon.md) 
+
+### #is_/same_as :: [Horizon.public](/_public/Astronomy/Astrometry/Horizon.public.md) 
+
+### #is_/same_as :: [Horizon.internal](/_internal/Astronomy/Astrometry/Horizon.internal.md) 
+
+### #is_/same_as :: [Horizon.protect](/_protect/Astronomy/Astrometry/Horizon.protect.md) 
+
+### #is_/same_as :: [Horizon.private](/_private/Astronomy/Astrometry/Horizon.private.md) 
+
+### #is_/same_as :: [Horizon.personal](/_personal/Astronomy/Astrometry/Horizon.personal.md) 
+
+### #is_/same_as :: [Horizon.secret](/_secret/Astronomy/Astrometry/Horizon.secret.md)
+

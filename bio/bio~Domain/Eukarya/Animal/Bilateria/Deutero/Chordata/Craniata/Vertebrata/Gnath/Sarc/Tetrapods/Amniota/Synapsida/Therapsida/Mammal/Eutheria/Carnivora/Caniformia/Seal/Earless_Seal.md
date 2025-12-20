@@ -50,3 +50,22 @@ taxon_common_name: selfamilien
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earless%20seal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Earless_Seal](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Earless_Seal.md) 
+
+### #is_/same_as :: [Earless_Seal.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Earless_Seal.public.md) 
+
+### #is_/same_as :: [Earless_Seal.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Earless_Seal.internal.md) 
+
+### #is_/same_as :: [Earless_Seal.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Earless_Seal.protect.md) 
+
+### #is_/same_as :: [Earless_Seal.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Earless_Seal.private.md) 
+
+### #is_/same_as :: [Earless_Seal.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Earless_Seal.personal.md) 
+
+### #is_/same_as :: [Earless_Seal.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Seal/Earless_Seal.secret.md)
+

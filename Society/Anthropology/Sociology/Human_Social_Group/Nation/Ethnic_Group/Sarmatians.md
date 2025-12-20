@@ -59,3 +59,22 @@ Commons_category: Sarmatians
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sarmatians) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sarmatians](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.md) 
+
+### #is_/same_as :: [Sarmatians.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.public.md) 
+
+### #is_/same_as :: [Sarmatians.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.internal.md) 
+
+### #is_/same_as :: [Sarmatians.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.protect.md) 
+
+### #is_/same_as :: [Sarmatians.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.private.md) 
+
+### #is_/same_as :: [Sarmatians.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.personal.md) 
+
+### #is_/same_as :: [Sarmatians.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.secret.md)
+

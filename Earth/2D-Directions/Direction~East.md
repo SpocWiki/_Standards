@@ -56,6 +56,7 @@ meaning 'eastern' or loosely 'oriental'.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/East)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Direction~East](/_Standards/Earth/2D-Directions/Direction~East.md) 

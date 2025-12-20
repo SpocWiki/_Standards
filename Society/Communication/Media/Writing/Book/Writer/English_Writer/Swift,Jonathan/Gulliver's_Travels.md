@@ -23,3 +23,22 @@ has_id_wikidata: Q181488
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gulliver's%20Travels) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gulliver's_Travels](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.md) 
+
+### #is_/same_as :: [Gulliver's_Travels.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.public.md) 
+
+### #is_/same_as :: [Gulliver's_Travels.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.internal.md) 
+
+### #is_/same_as :: [Gulliver's_Travels.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.protect.md) 
+
+### #is_/same_as :: [Gulliver's_Travels.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.private.md) 
+
+### #is_/same_as :: [Gulliver's_Travels.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.personal.md) 
+
+### #is_/same_as :: [Gulliver's_Travels.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.secret.md)
+

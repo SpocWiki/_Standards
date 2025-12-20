@@ -58,3 +58,22 @@ P8189: "987007285078305171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Cheque) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cheque](/_Standards/Society/Economics/Industry/Bank/Cheque.md) 
+
+### #is_/same_as :: [Cheque.public](/_public/Society/Economics/Industry/Bank/Cheque.public.md) 
+
+### #is_/same_as :: [Cheque.internal](/_internal/Society/Economics/Industry/Bank/Cheque.internal.md) 
+
+### #is_/same_as :: [Cheque.protect](/_protect/Society/Economics/Industry/Bank/Cheque.protect.md) 
+
+### #is_/same_as :: [Cheque.private](/_private/Society/Economics/Industry/Bank/Cheque.private.md) 
+
+### #is_/same_as :: [Cheque.personal](/_personal/Society/Economics/Industry/Bank/Cheque.personal.md) 
+
+### #is_/same_as :: [Cheque.secret](/_secret/Society/Economics/Industry/Bank/Cheque.secret.md)
+

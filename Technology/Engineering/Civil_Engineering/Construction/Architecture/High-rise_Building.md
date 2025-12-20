@@ -74,3 +74,22 @@ Commons_category: High-rises
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tower%20block) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [High-rise_Building](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.md) 
+
+### #is_/same_as :: [High-rise_Building.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.public.md) 
+
+### #is_/same_as :: [High-rise_Building.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.internal.md) 
+
+### #is_/same_as :: [High-rise_Building.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.protect.md) 
+
+### #is_/same_as :: [High-rise_Building.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.private.md) 
+
+### #is_/same_as :: [High-rise_Building.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.personal.md) 
+
+### #is_/same_as :: [High-rise_Building.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.secret.md)
+

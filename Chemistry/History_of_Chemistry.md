@@ -38,3 +38,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/HIMII_ISTORIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Chemistry](/_Standards/Chemistry/History_of_Chemistry.md) 
+
+### #is_/same_as :: [History_of_Chemistry.public](/_public/Chemistry/History_of_Chemistry.public.md) 
+
+### #is_/same_as :: [History_of_Chemistry.internal](/_internal/Chemistry/History_of_Chemistry.internal.md) 
+
+### #is_/same_as :: [History_of_Chemistry.protect](/_protect/Chemistry/History_of_Chemistry.protect.md) 
+
+### #is_/same_as :: [History_of_Chemistry.private](/_private/Chemistry/History_of_Chemistry.private.md) 
+
+### #is_/same_as :: [History_of_Chemistry.personal](/_personal/Chemistry/History_of_Chemistry.personal.md) 
+
+### #is_/same_as :: [History_of_Chemistry.secret](/_secret/Chemistry/History_of_Chemistry.secret.md)
+

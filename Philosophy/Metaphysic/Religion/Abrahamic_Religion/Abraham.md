@@ -222,19 +222,21 @@ graph TD
 ## Ishmael 
 
 Ishmael is the **first son of Abraham**, born through Hagar. He lived **137 years** (Genesis 25:17) and, like Jacob, was said to have **12 sons**, each becoming a tribal chief in Arabia.
+
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abraham](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.md) 
+### #is_/same_as :: [Abraham](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.md) 
 
-### #is_/same_as :: [Abraham.public](/_public/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.public.md) 
+### #is_/same_as :: [Abraham.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.public.md) 
 
-### #is_/same_as :: [Abraham.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.internal.md) 
+### #is_/same_as :: [Abraham.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.internal.md) 
 
-### #is_/same_as :: [Abraham.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.protect.md) 
+### #is_/same_as :: [Abraham.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.protect.md) 
 
-### #is_/same_as :: [Abraham.private](/_private/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.private.md) 
+### #is_/same_as :: [Abraham.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.private.md) 
 
-### #is_/same_as :: [Abraham.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.personal.md) 
+### #is_/same_as :: [Abraham.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.personal.md) 
 
-### #is_/same_as :: [Abraham.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.secret.md)
+### #is_/same_as :: [Abraham.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.secret.md)
 

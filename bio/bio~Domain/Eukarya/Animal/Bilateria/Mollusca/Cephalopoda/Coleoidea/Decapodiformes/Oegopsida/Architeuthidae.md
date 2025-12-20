@@ -377,7 +377,7 @@ Trans. Connecticut Acad. Sciences, 5: 23: 177-257.
   Scientific Name ::  Architeuthis \"princeps\"
   Comments          Modified from Verrill, 1879.
   Reference         Verrill, A. E. 1879. The cephalopods of the north-eastern coast of America. Part I. The gigantic squids (Architeuthis) and their allies; with observations on similar large species from foreign localities. Trans. Connecticut Acad. Sciences 5:23:177-257.
-  ------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

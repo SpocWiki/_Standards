@@ -88,17 +88,17 @@ UMLS_CUI: C0949248
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cannabis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabis.md) 
+### #is_/same_as :: [Cannabis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabaceae/Cannabis.md) 
 
-### #is_/same_as :: [Cannabis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabis.public.md) 
+### #is_/same_as :: [Cannabis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabaceae/Cannabis.public.md) 
 
-### #is_/same_as :: [Cannabis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabis.internal.md) 
+### #is_/same_as :: [Cannabis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabaceae/Cannabis.internal.md) 
 
-### #is_/same_as :: [Cannabis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabis.protect.md) 
+### #is_/same_as :: [Cannabis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabaceae/Cannabis.protect.md) 
 
-### #is_/same_as :: [Cannabis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabis.private.md) 
+### #is_/same_as :: [Cannabis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabaceae/Cannabis.private.md) 
 
-### #is_/same_as :: [Cannabis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabis.personal.md) 
+### #is_/same_as :: [Cannabis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabaceae/Cannabis.personal.md) 
 
-### #is_/same_as :: [Cannabis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabis.secret.md)
+### #is_/same_as :: [Cannabis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabaceae/Cannabis.secret.md)
 

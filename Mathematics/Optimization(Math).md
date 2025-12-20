@@ -35,3 +35,22 @@ Library_of_Congress_Classification: QA402.5-QA402.6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20optimization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Optimization(Math)](/_Standards/Mathematics/Optimization(Math).md) 
+
+### #is_/same_as :: [Optimization(Math).public](/_public/Mathematics/Optimization(Math).public.md) 
+
+### #is_/same_as :: [Optimization(Math).internal](/_internal/Mathematics/Optimization(Math).internal.md) 
+
+### #is_/same_as :: [Optimization(Math).protect](/_protect/Mathematics/Optimization(Math).protect.md) 
+
+### #is_/same_as :: [Optimization(Math).private](/_private/Mathematics/Optimization(Math).private.md) 
+
+### #is_/same_as :: [Optimization(Math).personal](/_personal/Mathematics/Optimization(Math).personal.md) 
+
+### #is_/same_as :: [Optimization(Math).secret](/_secret/Mathematics/Optimization(Math).secret.md)
+

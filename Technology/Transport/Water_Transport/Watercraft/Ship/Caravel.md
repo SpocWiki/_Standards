@@ -34,21 +34,19 @@ Commons_category: Caravels
 > [Wikipedia](https://en.wikipedia.org/wiki/Caravel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caravel](/_Standards/Technology/Transport/Water_Transport/Ship/Caravel.md) 
+### #is_/same_as :: [Caravel](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Caravel.md) 
 
-### #is_/same_as :: [Caravel.public](/_public/Technology/Transport/Water_Transport/Ship/Caravel.public.md) 
+### #is_/same_as :: [Caravel.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Caravel.public.md) 
 
-### #is_/same_as :: [Caravel.internal](/_internal/Technology/Transport/Water_Transport/Ship/Caravel.internal.md) 
+### #is_/same_as :: [Caravel.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Caravel.internal.md) 
 
-### #is_/same_as :: [Caravel.protect](/_protect/Technology/Transport/Water_Transport/Ship/Caravel.protect.md) 
+### #is_/same_as :: [Caravel.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Caravel.protect.md) 
 
-### #is_/same_as :: [Caravel.private](/_private/Technology/Transport/Water_Transport/Ship/Caravel.private.md) 
+### #is_/same_as :: [Caravel.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Caravel.private.md) 
 
-### #is_/same_as :: [Caravel.personal](/_personal/Technology/Transport/Water_Transport/Ship/Caravel.personal.md) 
+### #is_/same_as :: [Caravel.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Caravel.personal.md) 
 
-### #is_/same_as :: [Caravel.secret](/_secret/Technology/Transport/Water_Transport/Ship/Caravel.secret.md)
+### #is_/same_as :: [Caravel.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Caravel.secret.md)
 

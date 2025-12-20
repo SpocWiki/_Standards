@@ -97,3 +97,22 @@ Europeana_entity: agent/base/60086
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Janis%20Joplin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Janis_Joplin](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Janis_Joplin.md) 
+
+### #is_/same_as :: [Janis_Joplin.public](/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Janis_Joplin.public.md) 
+
+### #is_/same_as :: [Janis_Joplin.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Janis_Joplin.internal.md) 
+
+### #is_/same_as :: [Janis_Joplin.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Janis_Joplin.protect.md) 
+
+### #is_/same_as :: [Janis_Joplin.private](/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Janis_Joplin.private.md) 
+
+### #is_/same_as :: [Janis_Joplin.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Janis_Joplin.personal.md) 
+
+### #is_/same_as :: [Janis_Joplin.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Janis_Joplin.secret.md)
+

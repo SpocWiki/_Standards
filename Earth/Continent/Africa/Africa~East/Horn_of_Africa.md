@@ -47,3 +47,22 @@ GitHub_topic: horn-of-africa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Horn%20of%20Africa) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Horn_of_Africa](/_Standards/Earth/Continent/Africa/Africa~East/Horn_of_Africa.md) 
+
+### #is_/same_as :: [Horn_of_Africa.public](/_public/Earth/Continent/Africa/Africa~East/Horn_of_Africa.public.md) 
+
+### #is_/same_as :: [Horn_of_Africa.internal](/_internal/Earth/Continent/Africa/Africa~East/Horn_of_Africa.internal.md) 
+
+### #is_/same_as :: [Horn_of_Africa.protect](/_protect/Earth/Continent/Africa/Africa~East/Horn_of_Africa.protect.md) 
+
+### #is_/same_as :: [Horn_of_Africa.private](/_private/Earth/Continent/Africa/Africa~East/Horn_of_Africa.private.md) 
+
+### #is_/same_as :: [Horn_of_Africa.personal](/_personal/Earth/Continent/Africa/Africa~East/Horn_of_Africa.personal.md) 
+
+### #is_/same_as :: [Horn_of_Africa.secret](/_secret/Earth/Continent/Africa/Africa~East/Horn_of_Africa.secret.md)
+

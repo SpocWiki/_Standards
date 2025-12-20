@@ -60,3 +60,22 @@ OpenStreetMap_tag: clothes=leather
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leather) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leather](/_Standards/Chemistry/Material/Leather.md) 
+
+### #is_/same_as :: [Leather.public](/_public/Chemistry/Material/Leather.public.md) 
+
+### #is_/same_as :: [Leather.internal](/_internal/Chemistry/Material/Leather.internal.md) 
+
+### #is_/same_as :: [Leather.protect](/_protect/Chemistry/Material/Leather.protect.md) 
+
+### #is_/same_as :: [Leather.private](/_private/Chemistry/Material/Leather.private.md) 
+
+### #is_/same_as :: [Leather.personal](/_personal/Chemistry/Material/Leather.personal.md) 
+
+### #is_/same_as :: [Leather.secret](/_secret/Chemistry/Material/Leather.secret.md)
+

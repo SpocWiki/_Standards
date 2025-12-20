@@ -41,3 +41,22 @@ Commons_category: Plant hormones
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant%20hormone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Plant_Hormone](/_Standards/bio/Botany/Plant_Anatomy/Plant_Hormone.md) 
+
+### #is_/same_as :: [Plant_Hormone.public](/_public/bio/Botany/Plant_Anatomy/Plant_Hormone.public.md) 
+
+### #is_/same_as :: [Plant_Hormone.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Hormone.internal.md) 
+
+### #is_/same_as :: [Plant_Hormone.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Hormone.protect.md) 
+
+### #is_/same_as :: [Plant_Hormone.private](/_private/bio/Botany/Plant_Anatomy/Plant_Hormone.private.md) 
+
+### #is_/same_as :: [Plant_Hormone.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Hormone.personal.md) 
+
+### #is_/same_as :: [Plant_Hormone.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Hormone.secret.md)
+

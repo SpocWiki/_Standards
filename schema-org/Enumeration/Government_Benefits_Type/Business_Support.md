@@ -42,17 +42,17 @@ BusinessSupport: this is a benefit for supporting businesses.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business_Support](Business_Support.md) 
+### #is_/same_as :: [Business_Support](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Business_Support.md) 
 
-### #is_/same_as :: [business_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.public.md) 
+### #is_/same_as :: [Business_Support.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Business_Support.public.md) 
 
-### #is_/same_as :: [business_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.internal.md) 
+### #is_/same_as :: [Business_Support.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Business_Support.internal.md) 
 
-### #is_/same_as :: [business_support.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.protect.md) 
+### #is_/same_as :: [Business_Support.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Business_Support.protect.md) 
 
-### #is_/same_as :: [business_support.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.private.md) 
+### #is_/same_as :: [Business_Support.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Business_Support.private.md) 
 
-### #is_/same_as :: [business_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.personal.md) 
+### #is_/same_as :: [Business_Support.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Business_Support.personal.md) 
 
-### #is_/same_as :: [business_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.secret.md)
+### #is_/same_as :: [Business_Support.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Business_Support.secret.md)
 

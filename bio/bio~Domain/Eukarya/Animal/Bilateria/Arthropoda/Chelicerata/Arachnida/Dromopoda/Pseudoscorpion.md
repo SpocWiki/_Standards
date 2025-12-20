@@ -41,3 +41,22 @@ taxon_common_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudoscorpion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pseudoscorpion](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.md) 
+
+### #is_/same_as :: [Pseudoscorpion.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.public.md) 
+
+### #is_/same_as :: [Pseudoscorpion.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.internal.md) 
+
+### #is_/same_as :: [Pseudoscorpion.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.protect.md) 
+
+### #is_/same_as :: [Pseudoscorpion.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.private.md) 
+
+### #is_/same_as :: [Pseudoscorpion.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.personal.md) 
+
+### #is_/same_as :: [Pseudoscorpion.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Dromopoda/Pseudoscorpion.secret.md)
+

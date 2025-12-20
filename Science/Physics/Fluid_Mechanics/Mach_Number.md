@@ -60,3 +60,22 @@ Commons_category: Mach number
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mach%20number) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mach_Number](/_Standards/Science/Physics/Fluid_Mechanics/Mach_Number.md) 
+
+### #is_/same_as :: [Mach_Number.public](/_public/Science/Physics/Fluid_Mechanics/Mach_Number.public.md) 
+
+### #is_/same_as :: [Mach_Number.internal](/_internal/Science/Physics/Fluid_Mechanics/Mach_Number.internal.md) 
+
+### #is_/same_as :: [Mach_Number.protect](/_protect/Science/Physics/Fluid_Mechanics/Mach_Number.protect.md) 
+
+### #is_/same_as :: [Mach_Number.private](/_private/Science/Physics/Fluid_Mechanics/Mach_Number.private.md) 
+
+### #is_/same_as :: [Mach_Number.personal](/_personal/Science/Physics/Fluid_Mechanics/Mach_Number.personal.md) 
+
+### #is_/same_as :: [Mach_Number.secret](/_secret/Science/Physics/Fluid_Mechanics/Mach_Number.secret.md)
+

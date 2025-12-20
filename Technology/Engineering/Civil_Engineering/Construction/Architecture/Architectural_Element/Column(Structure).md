@@ -84,3 +84,22 @@ OpenStreetMap_tag: man_made=column
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Column(Structure)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).md) 
+
+### #is_/same_as :: [Column(Structure).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).public.md) 
+
+### #is_/same_as :: [Column(Structure).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).internal.md) 
+
+### #is_/same_as :: [Column(Structure).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).protect.md) 
+
+### #is_/same_as :: [Column(Structure).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).private.md) 
+
+### #is_/same_as :: [Column(Structure).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).personal.md) 
+
+### #is_/same_as :: [Column(Structure).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).secret.md)
+

@@ -88,3 +88,22 @@ PhilPapers_topic: computer-science
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20science) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Computer_Science](/_Standards/Technology/IT/Computer_Science.md) 
+
+### #is_/same_as :: [Computer_Science.public](/_public/Technology/IT/Computer_Science.public.md) 
+
+### #is_/same_as :: [Computer_Science.internal](/_internal/Technology/IT/Computer_Science.internal.md) 
+
+### #is_/same_as :: [Computer_Science.protect](/_protect/Technology/IT/Computer_Science.protect.md) 
+
+### #is_/same_as :: [Computer_Science.private](/_private/Technology/IT/Computer_Science.private.md) 
+
+### #is_/same_as :: [Computer_Science.personal](/_personal/Technology/IT/Computer_Science.personal.md) 
+
+### #is_/same_as :: [Computer_Science.secret](/_secret/Technology/IT/Computer_Science.secret.md)
+

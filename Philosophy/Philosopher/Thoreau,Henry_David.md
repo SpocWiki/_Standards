@@ -143,3 +143,22 @@ Libris_URI: mkz12s654bq4w57
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20David%20Thoreau) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thoreau,Henry_David](/_Standards/Philosophy/Philosopher/Thoreau,Henry_David.md) 
+
+### #is_/same_as :: [Thoreau,Henry_David.public](/_public/Philosophy/Philosopher/Thoreau,Henry_David.public.md) 
+
+### #is_/same_as :: [Thoreau,Henry_David.internal](/_internal/Philosophy/Philosopher/Thoreau,Henry_David.internal.md) 
+
+### #is_/same_as :: [Thoreau,Henry_David.protect](/_protect/Philosophy/Philosopher/Thoreau,Henry_David.protect.md) 
+
+### #is_/same_as :: [Thoreau,Henry_David.private](/_private/Philosophy/Philosopher/Thoreau,Henry_David.private.md) 
+
+### #is_/same_as :: [Thoreau,Henry_David.personal](/_personal/Philosophy/Philosopher/Thoreau,Henry_David.personal.md) 
+
+### #is_/same_as :: [Thoreau,Henry_David.secret](/_secret/Philosophy/Philosopher/Thoreau,Henry_David.secret.md)
+

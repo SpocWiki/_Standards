@@ -63,3 +63,22 @@ IPTC_NewsCode: mediatopic/20000359
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gross%20domestic%20product) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GDP(Gross_domestic_Product)](/_Standards/Society/Economics/GDP(Gross_domestic_Product).md) 
+
+### #is_/same_as :: [GDP(Gross_domestic_Product).public](/_public/Society/Economics/GDP(Gross_domestic_Product).public.md) 
+
+### #is_/same_as :: [GDP(Gross_domestic_Product).internal](/_internal/Society/Economics/GDP(Gross_domestic_Product).internal.md) 
+
+### #is_/same_as :: [GDP(Gross_domestic_Product).protect](/_protect/Society/Economics/GDP(Gross_domestic_Product).protect.md) 
+
+### #is_/same_as :: [GDP(Gross_domestic_Product).private](/_private/Society/Economics/GDP(Gross_domestic_Product).private.md) 
+
+### #is_/same_as :: [GDP(Gross_domestic_Product).personal](/_personal/Society/Economics/GDP(Gross_domestic_Product).personal.md) 
+
+### #is_/same_as :: [GDP(Gross_domestic_Product).secret](/_secret/Society/Economics/GDP(Gross_domestic_Product).secret.md)
+

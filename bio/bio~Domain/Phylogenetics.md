@@ -37,3 +37,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phylogenetics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phylogenetics](/_Standards/bio/bio~Domain/Phylogenetics.md) 
+
+### #is_/same_as :: [Phylogenetics.public](/_public/bio/bio~Domain/Phylogenetics.public.md) 
+
+### #is_/same_as :: [Phylogenetics.internal](/_internal/bio/bio~Domain/Phylogenetics.internal.md) 
+
+### #is_/same_as :: [Phylogenetics.protect](/_protect/bio/bio~Domain/Phylogenetics.protect.md) 
+
+### #is_/same_as :: [Phylogenetics.private](/_private/bio/bio~Domain/Phylogenetics.private.md) 
+
+### #is_/same_as :: [Phylogenetics.personal](/_personal/bio/bio~Domain/Phylogenetics.personal.md) 
+
+### #is_/same_as :: [Phylogenetics.secret](/_secret/bio/bio~Domain/Phylogenetics.secret.md)
+

@@ -37,3 +37,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Impressionism%20(literature)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Impressionist_Literature](/_Standards/Society/Communication/Art/Art_History/Impressionism/Impressionist_Literature.md) 
+
+### #is_/same_as :: [Impressionist_Literature.public](/_public/Society/Communication/Art/Art_History/Impressionism/Impressionist_Literature.public.md) 
+
+### #is_/same_as :: [Impressionist_Literature.internal](/_internal/Society/Communication/Art/Art_History/Impressionism/Impressionist_Literature.internal.md) 
+
+### #is_/same_as :: [Impressionist_Literature.protect](/_protect/Society/Communication/Art/Art_History/Impressionism/Impressionist_Literature.protect.md) 
+
+### #is_/same_as :: [Impressionist_Literature.private](/_private/Society/Communication/Art/Art_History/Impressionism/Impressionist_Literature.private.md) 
+
+### #is_/same_as :: [Impressionist_Literature.personal](/_personal/Society/Communication/Art/Art_History/Impressionism/Impressionist_Literature.personal.md) 
+
+### #is_/same_as :: [Impressionist_Literature.secret](/_secret/Society/Communication/Art/Art_History/Impressionism/Impressionist_Literature.secret.md)
+

@@ -159,17 +159,17 @@ Dewey_Decimal_Classification: "494.811"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ta](/_Standards/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.md) 
+### #is_/same_as :: [Lang-tam](/_Standards/Language/Language_Family/LangFamily-Dravidian/Lang-tam.md) 
 
-### #is_/same_as :: [Lang-ta.public](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.public.md) 
+### #is_/same_as :: [Lang-tam.public](/_public/Language/Language_Family/LangFamily-Dravidian/Lang-tam.public.md) 
 
-### #is_/same_as :: [Lang-ta.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.internal.md) 
+### #is_/same_as :: [Lang-tam.internal](/_internal/Language/Language_Family/LangFamily-Dravidian/Lang-tam.internal.md) 
 
-### #is_/same_as :: [Lang-ta.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.protect.md) 
+### #is_/same_as :: [Lang-tam.protect](/_protect/Language/Language_Family/LangFamily-Dravidian/Lang-tam.protect.md) 
 
-### #is_/same_as :: [Lang-ta.private](/_private/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.private.md) 
+### #is_/same_as :: [Lang-tam.private](/_private/Language/Language_Family/LangFamily-Dravidian/Lang-tam.private.md) 
 
-### #is_/same_as :: [Lang-ta.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.personal.md) 
+### #is_/same_as :: [Lang-tam.personal](/_personal/Language/Language_Family/LangFamily-Dravidian/Lang-tam.personal.md) 
 
-### #is_/same_as :: [Lang-ta.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.secret.md)
+### #is_/same_as :: [Lang-tam.secret](/_secret/Language/Language_Family/LangFamily-Dravidian/Lang-tam.secret.md)
 

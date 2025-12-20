@@ -77,3 +77,22 @@ equivalent_class: http://pcp-on-web.de/ontology#Birth
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Birth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Birth](/_Standards/bio/Reproduction/Pregnancy/Birth.md) 
+
+### #is_/same_as :: [Birth.public](/_public/bio/Reproduction/Pregnancy/Birth.public.md) 
+
+### #is_/same_as :: [Birth.internal](/_internal/bio/Reproduction/Pregnancy/Birth.internal.md) 
+
+### #is_/same_as :: [Birth.protect](/_protect/bio/Reproduction/Pregnancy/Birth.protect.md) 
+
+### #is_/same_as :: [Birth.private](/_private/bio/Reproduction/Pregnancy/Birth.private.md) 
+
+### #is_/same_as :: [Birth.personal](/_personal/bio/Reproduction/Pregnancy/Birth.personal.md) 
+
+### #is_/same_as :: [Birth.secret](/_secret/bio/Reproduction/Pregnancy/Birth.secret.md)
+

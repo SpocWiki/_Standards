@@ -101,3 +101,22 @@ different from the 1st Generation [[Machine-Language]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Assembly%20language)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Assembler](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.md) 
+
+### #is_/same_as :: [Prog~Assembler.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.public.md) 
+
+### #is_/same_as :: [Prog~Assembler.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.internal.md) 
+
+### #is_/same_as :: [Prog~Assembler.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.protect.md) 
+
+### #is_/same_as :: [Prog~Assembler.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.private.md) 
+
+### #is_/same_as :: [Prog~Assembler.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.personal.md) 
+
+### #is_/same_as :: [Prog~Assembler.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.secret.md)
+

@@ -39,17 +39,17 @@ A store that sells materials useful or necessary for various hobbies.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hobby_Shop](Hobby_Shop.md) 
+### #is_/same_as :: [Hobby_Shop](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.md) 
 
-### #is_/same_as :: [Hobby_Shop.public](/_public/Society/Organization/Local_Business/Store/Hobby_Shop.public.md) 
+### #is_/same_as :: [Hobby_Shop.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.public.md) 
 
-### #is_/same_as :: [Hobby_Shop.internal](/_internal/Society/Organization/Local_Business/Store/Hobby_Shop.internal.md) 
+### #is_/same_as :: [Hobby_Shop.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.internal.md) 
 
-### #is_/same_as :: [Hobby_Shop.protect](/_protect/Society/Organization/Local_Business/Store/Hobby_Shop.protect.md) 
+### #is_/same_as :: [Hobby_Shop.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.protect.md) 
 
-### #is_/same_as :: [Hobby_Shop.private](/_private/Society/Organization/Local_Business/Store/Hobby_Shop.private.md) 
+### #is_/same_as :: [Hobby_Shop.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.private.md) 
 
-### #is_/same_as :: [Hobby_Shop.personal](/_personal/Society/Organization/Local_Business/Store/Hobby_Shop.personal.md) 
+### #is_/same_as :: [Hobby_Shop.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.personal.md) 
 
-### #is_/same_as :: [Hobby_Shop.secret](/_secret/Society/Organization/Local_Business/Store/Hobby_Shop.secret.md)
+### #is_/same_as :: [Hobby_Shop.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Hobby_Shop.secret.md)
 

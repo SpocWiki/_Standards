@@ -158,3 +158,22 @@ date_of_death: 1890-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Count%20Dracula) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Count_Dracula](/_Standards/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.md) 
+
+### #is_/same_as :: [Count_Dracula.public](/_public/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.public.md) 
+
+### #is_/same_as :: [Count_Dracula.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.internal.md) 
+
+### #is_/same_as :: [Count_Dracula.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.protect.md) 
+
+### #is_/same_as :: [Count_Dracula.private](/_private/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.private.md) 
+
+### #is_/same_as :: [Count_Dracula.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.personal.md) 
+
+### #is_/same_as :: [Count_Dracula.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/English_Literature/Count_Dracula.secret.md)
+

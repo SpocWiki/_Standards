@@ -44,3 +44,22 @@ Commons_category: Imaginary numbers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Imaginary%20number) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Imaginary_Number](/_Standards/Mathematics/Complex_Analysis/Imaginary_Number.md) 
+
+### #is_/same_as :: [Imaginary_Number.public](/_public/Mathematics/Complex_Analysis/Imaginary_Number.public.md) 
+
+### #is_/same_as :: [Imaginary_Number.internal](/_internal/Mathematics/Complex_Analysis/Imaginary_Number.internal.md) 
+
+### #is_/same_as :: [Imaginary_Number.protect](/_protect/Mathematics/Complex_Analysis/Imaginary_Number.protect.md) 
+
+### #is_/same_as :: [Imaginary_Number.private](/_private/Mathematics/Complex_Analysis/Imaginary_Number.private.md) 
+
+### #is_/same_as :: [Imaginary_Number.personal](/_personal/Mathematics/Complex_Analysis/Imaginary_Number.personal.md) 
+
+### #is_/same_as :: [Imaginary_Number.secret](/_secret/Mathematics/Complex_Analysis/Imaginary_Number.secret.md)
+

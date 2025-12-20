@@ -55,3 +55,22 @@ Commons_category: Subatomic particles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Subatomic%20particle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Subatomic_Particle](/_Standards/Science/Physics/Quantum_Mechanics/Subatomic_Particle.md) 
+
+### #is_/same_as :: [Subatomic_Particle.public](/_public/Science/Physics/Quantum_Mechanics/Subatomic_Particle.public.md) 
+
+### #is_/same_as :: [Subatomic_Particle.internal](/_internal/Science/Physics/Quantum_Mechanics/Subatomic_Particle.internal.md) 
+
+### #is_/same_as :: [Subatomic_Particle.protect](/_protect/Science/Physics/Quantum_Mechanics/Subatomic_Particle.protect.md) 
+
+### #is_/same_as :: [Subatomic_Particle.private](/_private/Science/Physics/Quantum_Mechanics/Subatomic_Particle.private.md) 
+
+### #is_/same_as :: [Subatomic_Particle.personal](/_personal/Science/Physics/Quantum_Mechanics/Subatomic_Particle.personal.md) 
+
+### #is_/same_as :: [Subatomic_Particle.secret](/_secret/Science/Physics/Quantum_Mechanics/Subatomic_Particle.secret.md)
+

@@ -31,3 +31,22 @@ Commons_category: Terrestrial planets
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Terrestrial%20planet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Terrestrial_Planet](/_Standards/Astronomy/Planet/Terrestrial_Planet.md) 
+
+### #is_/same_as :: [Terrestrial_Planet.public](/_public/Astronomy/Planet/Terrestrial_Planet.public.md) 
+
+### #is_/same_as :: [Terrestrial_Planet.internal](/_internal/Astronomy/Planet/Terrestrial_Planet.internal.md) 
+
+### #is_/same_as :: [Terrestrial_Planet.protect](/_protect/Astronomy/Planet/Terrestrial_Planet.protect.md) 
+
+### #is_/same_as :: [Terrestrial_Planet.private](/_private/Astronomy/Planet/Terrestrial_Planet.private.md) 
+
+### #is_/same_as :: [Terrestrial_Planet.personal](/_personal/Astronomy/Planet/Terrestrial_Planet.personal.md) 
+
+### #is_/same_as :: [Terrestrial_Planet.secret](/_secret/Astronomy/Planet/Terrestrial_Planet.secret.md)
+

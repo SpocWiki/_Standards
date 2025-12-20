@@ -47,3 +47,22 @@ Commons_category: Riemann hypothesis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Riemann%20hypothesis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Riemann_Hypothesis](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.md) 
+
+### #is_/same_as :: [Riemann_Hypothesis.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.public.md) 
+
+### #is_/same_as :: [Riemann_Hypothesis.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.internal.md) 
+
+### #is_/same_as :: [Riemann_Hypothesis.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.protect.md) 
+
+### #is_/same_as :: [Riemann_Hypothesis.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.private.md) 
+
+### #is_/same_as :: [Riemann_Hypothesis.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.personal.md) 
+
+### #is_/same_as :: [Riemann_Hypothesis.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis.secret.md)
+

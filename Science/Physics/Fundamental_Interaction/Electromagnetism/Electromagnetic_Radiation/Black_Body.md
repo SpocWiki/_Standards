@@ -53,17 +53,17 @@ Commons_category: Black body
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Body](/_Standards/Science/Physics/Electricity/Black_Body.md) 
+### #is_/same_as :: [Black_Body](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body.md) 
 
-### #is_/same_as :: [Black_Body.public](/_public/Science/Physics/Electricity/Black_Body.public.md) 
+### #is_/same_as :: [Black_Body.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body.public.md) 
 
-### #is_/same_as :: [Black_Body.internal](/_internal/Science/Physics/Electricity/Black_Body.internal.md) 
+### #is_/same_as :: [Black_Body.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body.internal.md) 
 
-### #is_/same_as :: [Black_Body.protect](/_protect/Science/Physics/Electricity/Black_Body.protect.md) 
+### #is_/same_as :: [Black_Body.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body.protect.md) 
 
-### #is_/same_as :: [Black_Body.private](/_private/Science/Physics/Electricity/Black_Body.private.md) 
+### #is_/same_as :: [Black_Body.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body.private.md) 
 
-### #is_/same_as :: [Black_Body.personal](/_personal/Science/Physics/Electricity/Black_Body.personal.md) 
+### #is_/same_as :: [Black_Body.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body.personal.md) 
 
-### #is_/same_as :: [Black_Body.secret](/_secret/Science/Physics/Electricity/Black_Body.secret.md)
+### #is_/same_as :: [Black_Body.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Black_Body.secret.md)
 

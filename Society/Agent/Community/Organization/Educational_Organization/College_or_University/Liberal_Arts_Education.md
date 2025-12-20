@@ -83,3 +83,22 @@ Commons_category: Seven liberal arts
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liberal%20arts%20education) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Liberal_Arts_Education](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Liberal_Arts_Education.md) 
+
+### #is_/same_as :: [Liberal_Arts_Education.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Liberal_Arts_Education.public.md) 
+
+### #is_/same_as :: [Liberal_Arts_Education.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Liberal_Arts_Education.internal.md) 
+
+### #is_/same_as :: [Liberal_Arts_Education.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Liberal_Arts_Education.protect.md) 
+
+### #is_/same_as :: [Liberal_Arts_Education.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Liberal_Arts_Education.private.md) 
+
+### #is_/same_as :: [Liberal_Arts_Education.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Liberal_Arts_Education.personal.md) 
+
+### #is_/same_as :: [Liberal_Arts_Education.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Liberal_Arts_Education.secret.md)
+

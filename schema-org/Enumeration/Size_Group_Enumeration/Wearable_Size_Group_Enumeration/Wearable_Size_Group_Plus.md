@@ -42,17 +42,17 @@ Size group "Plus" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_Group_Plus](Wearable_Size_Group_Plus.md) 
+### #is_/same_as :: [Wearable_Size_Group_Plus](/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Plus.md) 
 
-### #is_/same_as :: [wearable_size_group_plus.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_plus.public.md) 
+### #is_/same_as :: [Wearable_Size_Group_Plus.public](/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Plus.public.md) 
 
-### #is_/same_as :: [wearable_size_group_plus.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_plus.internal.md) 
+### #is_/same_as :: [Wearable_Size_Group_Plus.internal](/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Plus.internal.md) 
 
-### #is_/same_as :: [wearable_size_group_plus.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_plus.protect.md) 
+### #is_/same_as :: [Wearable_Size_Group_Plus.protect](/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Plus.protect.md) 
 
-### #is_/same_as :: [wearable_size_group_plus.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_plus.private.md) 
+### #is_/same_as :: [Wearable_Size_Group_Plus.private](/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Plus.private.md) 
 
-### #is_/same_as :: [wearable_size_group_plus.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_plus.personal.md) 
+### #is_/same_as :: [Wearable_Size_Group_Plus.personal](/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Plus.personal.md) 
 
-### #is_/same_as :: [wearable_size_group_plus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_plus.secret.md)
+### #is_/same_as :: [Wearable_Size_Group_Plus.secret](/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Plus.secret.md)
 

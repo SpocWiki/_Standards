@@ -36,3 +36,22 @@ Library_of_Congress_Classification: PN2071.I5
 > [Wikipedia](https://en.wikipedia.org/wiki/Improvisational%20theatre) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Improvisational_Theatre](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.md) 
+
+### #is_/same_as :: [Improvisational_Theatre.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.public.md) 
+
+### #is_/same_as :: [Improvisational_Theatre.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.internal.md) 
+
+### #is_/same_as :: [Improvisational_Theatre.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.protect.md) 
+
+### #is_/same_as :: [Improvisational_Theatre.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.private.md) 
+
+### #is_/same_as :: [Improvisational_Theatre.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.personal.md) 
+
+### #is_/same_as :: [Improvisational_Theatre.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Improvisational_Theatre.secret.md)
+

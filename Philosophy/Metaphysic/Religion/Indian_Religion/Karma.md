@@ -55,3 +55,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/KARMA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Karma) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Karma](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.md) 
+
+### #is_/same_as :: [Karma.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.public.md) 
+
+### #is_/same_as :: [Karma.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.internal.md) 
+
+### #is_/same_as :: [Karma.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.protect.md) 
+
+### #is_/same_as :: [Karma.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.private.md) 
+
+### #is_/same_as :: [Karma.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.personal.md) 
+
+### #is_/same_as :: [Karma.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.secret.md)
+

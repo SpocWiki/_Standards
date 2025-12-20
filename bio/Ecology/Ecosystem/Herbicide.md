@@ -45,3 +45,22 @@ Commons_category: Herbicides
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Herbicide) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Herbicide](/_Standards/bio/Ecology/Ecosystem/Herbicide.md) 
+
+### #is_/same_as :: [Herbicide.public](/_public/bio/Ecology/Ecosystem/Herbicide.public.md) 
+
+### #is_/same_as :: [Herbicide.internal](/_internal/bio/Ecology/Ecosystem/Herbicide.internal.md) 
+
+### #is_/same_as :: [Herbicide.protect](/_protect/bio/Ecology/Ecosystem/Herbicide.protect.md) 
+
+### #is_/same_as :: [Herbicide.private](/_private/bio/Ecology/Ecosystem/Herbicide.private.md) 
+
+### #is_/same_as :: [Herbicide.personal](/_personal/bio/Ecology/Ecosystem/Herbicide.personal.md) 
+
+### #is_/same_as :: [Herbicide.secret](/_secret/bio/Ecology/Ecosystem/Herbicide.secret.md)
+

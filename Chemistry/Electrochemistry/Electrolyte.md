@@ -31,3 +31,22 @@ has_id_wikidata: Q162908
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrolyte) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrolyte](/_Standards/Chemistry/Electrochemistry/Electrolyte.md) 
+
+### #is_/same_as :: [Electrolyte.public](/_public/Chemistry/Electrochemistry/Electrolyte.public.md) 
+
+### #is_/same_as :: [Electrolyte.internal](/_internal/Chemistry/Electrochemistry/Electrolyte.internal.md) 
+
+### #is_/same_as :: [Electrolyte.protect](/_protect/Chemistry/Electrochemistry/Electrolyte.protect.md) 
+
+### #is_/same_as :: [Electrolyte.private](/_private/Chemistry/Electrochemistry/Electrolyte.private.md) 
+
+### #is_/same_as :: [Electrolyte.personal](/_personal/Chemistry/Electrochemistry/Electrolyte.personal.md) 
+
+### #is_/same_as :: [Electrolyte.secret](/_secret/Chemistry/Electrochemistry/Electrolyte.secret.md)
+

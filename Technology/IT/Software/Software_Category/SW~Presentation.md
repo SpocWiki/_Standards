@@ -53,3 +53,22 @@ has_id_wikidata: Q2115026
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Presentation%20program) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [SW~Presentation](/_Standards/Technology/IT/Software/Software_Category/SW~Presentation.md) 
+
+### #is_/same_as :: [SW~Presentation.public](/_public/Technology/IT/Software/Software_Category/SW~Presentation.public.md) 
+
+### #is_/same_as :: [SW~Presentation.internal](/_internal/Technology/IT/Software/Software_Category/SW~Presentation.internal.md) 
+
+### #is_/same_as :: [SW~Presentation.protect](/_protect/Technology/IT/Software/Software_Category/SW~Presentation.protect.md) 
+
+### #is_/same_as :: [SW~Presentation.private](/_private/Technology/IT/Software/Software_Category/SW~Presentation.private.md) 
+
+### #is_/same_as :: [SW~Presentation.personal](/_personal/Technology/IT/Software/Software_Category/SW~Presentation.personal.md) 
+
+### #is_/same_as :: [SW~Presentation.secret](/_secret/Technology/IT/Software/Software_Category/SW~Presentation.secret.md)
+

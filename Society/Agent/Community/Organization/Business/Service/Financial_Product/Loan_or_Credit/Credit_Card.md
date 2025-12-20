@@ -56,17 +56,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Credit_Card](Credit_Card.md) 
+### #is_/same_as :: [Credit_Card](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.md) 
 
-### #is_/same_as :: [credit_card.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.public.md) 
+### #is_/same_as :: [Credit_Card.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.public.md) 
 
-### #is_/same_as :: [credit_card.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.internal.md) 
+### #is_/same_as :: [Credit_Card.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.internal.md) 
 
-### #is_/same_as :: [credit_card.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.protect.md) 
+### #is_/same_as :: [Credit_Card.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.protect.md) 
 
-### #is_/same_as :: [credit_card.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.private.md) 
+### #is_/same_as :: [Credit_Card.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.private.md) 
 
-### #is_/same_as :: [credit_card.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.personal.md) 
+### #is_/same_as :: [Credit_Card.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.personal.md) 
 
-### #is_/same_as :: [credit_card.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.secret.md)
+### #is_/same_as :: [Credit_Card.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.secret.md)
 

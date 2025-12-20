@@ -39,17 +39,17 @@ A value indicating a steering position.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steering_Position_Value](Steering_Position_Value.md) 
+### #is_/same_as :: [Steering_Position_Value](/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.md) 
 
-### #is_/same_as :: [steering_position_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.public.md) 
+### #is_/same_as :: [Steering_Position_Value.public](/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.public.md) 
 
-### #is_/same_as :: [steering_position_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.internal.md) 
+### #is_/same_as :: [Steering_Position_Value.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.internal.md) 
 
-### #is_/same_as :: [steering_position_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.protect.md) 
+### #is_/same_as :: [Steering_Position_Value.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.protect.md) 
 
-### #is_/same_as :: [steering_position_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.private.md) 
+### #is_/same_as :: [Steering_Position_Value.private](/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.private.md) 
 
-### #is_/same_as :: [steering_position_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.personal.md) 
+### #is_/same_as :: [Steering_Position_Value.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.personal.md) 
 
-### #is_/same_as :: [steering_position_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.secret.md)
+### #is_/same_as :: [Steering_Position_Value.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.secret.md)
 

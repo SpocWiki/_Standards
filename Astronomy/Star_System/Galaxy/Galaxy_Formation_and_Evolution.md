@@ -25,3 +25,22 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Simulation%20%E2%80%93
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy%20formation%20and%20evolution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Galaxy_Formation_and_Evolution](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.md) 
+
+### #is_/same_as :: [Galaxy_Formation_and_Evolution.public](/_public/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.public.md) 
+
+### #is_/same_as :: [Galaxy_Formation_and_Evolution.internal](/_internal/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.internal.md) 
+
+### #is_/same_as :: [Galaxy_Formation_and_Evolution.protect](/_protect/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.protect.md) 
+
+### #is_/same_as :: [Galaxy_Formation_and_Evolution.private](/_private/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.private.md) 
+
+### #is_/same_as :: [Galaxy_Formation_and_Evolution.personal](/_personal/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.personal.md) 
+
+### #is_/same_as :: [Galaxy_Formation_and_Evolution.secret](/_secret/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.secret.md)
+

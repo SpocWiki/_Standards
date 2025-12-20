@@ -50,3 +50,22 @@ MeSH_tree_code: L01.224.230.260.115
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peripheral) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Peripheral](/_Standards/Technology/IT/Computer_Hardware/Peripheral.md) 
+
+### #is_/same_as :: [Peripheral.public](/_public/Technology/IT/Computer_Hardware/Peripheral.public.md) 
+
+### #is_/same_as :: [Peripheral.internal](/_internal/Technology/IT/Computer_Hardware/Peripheral.internal.md) 
+
+### #is_/same_as :: [Peripheral.protect](/_protect/Technology/IT/Computer_Hardware/Peripheral.protect.md) 
+
+### #is_/same_as :: [Peripheral.private](/_private/Technology/IT/Computer_Hardware/Peripheral.private.md) 
+
+### #is_/same_as :: [Peripheral.personal](/_personal/Technology/IT/Computer_Hardware/Peripheral.personal.md) 
+
+### #is_/same_as :: [Peripheral.secret](/_secret/Technology/IT/Computer_Hardware/Peripheral.secret.md)
+

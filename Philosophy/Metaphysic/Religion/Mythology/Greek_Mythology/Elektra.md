@@ -77,3 +77,22 @@ name_in_native_language: Ἠλέκτρα
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electra%20(mythology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elektra](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.md) 
+
+### #is_/same_as :: [Elektra.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.public.md) 
+
+### #is_/same_as :: [Elektra.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.internal.md) 
+
+### #is_/same_as :: [Elektra.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.protect.md) 
+
+### #is_/same_as :: [Elektra.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.private.md) 
+
+### #is_/same_as :: [Elektra.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.personal.md) 
+
+### #is_/same_as :: [Elektra.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Elektra.secret.md)
+

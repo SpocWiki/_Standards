@@ -44,3 +44,22 @@ Commons_category: Music conservatories
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20school)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Conservatory](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.md) 
+
+### #is_/same_as :: [Conservatory.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.public.md) 
+
+### #is_/same_as :: [Conservatory.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.internal.md) 
+
+### #is_/same_as :: [Conservatory.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.protect.md) 
+
+### #is_/same_as :: [Conservatory.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.private.md) 
+
+### #is_/same_as :: [Conservatory.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.personal.md) 
+
+### #is_/same_as :: [Conservatory.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.secret.md)
+

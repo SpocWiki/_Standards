@@ -119,3 +119,22 @@ Provenio_UUID: c21608cf-5ae4-4e14-9ded-0d23bc3f18a9
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dancer](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer.md) 
+
+### #is_/same_as :: [Dancer.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Dancer.public.md) 
+
+### #is_/same_as :: [Dancer.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Dancer.internal.md) 
+
+### #is_/same_as :: [Dancer.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Dancer.protect.md) 
+
+### #is_/same_as :: [Dancer.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Dancer.private.md) 
+
+### #is_/same_as :: [Dancer.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Dancer.personal.md) 
+
+### #is_/same_as :: [Dancer.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Dancer.secret.md)
+

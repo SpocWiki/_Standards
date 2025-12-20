@@ -196,3 +196,22 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Weyl) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Weyl,Hermann](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.md) 
+
+### #is_/same_as :: [Weyl,Hermann.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.public.md) 
+
+### #is_/same_as :: [Weyl,Hermann.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.internal.md) 
+
+### #is_/same_as :: [Weyl,Hermann.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.protect.md) 
+
+### #is_/same_as :: [Weyl,Hermann.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.private.md) 
+
+### #is_/same_as :: [Weyl,Hermann.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.personal.md) 
+
+### #is_/same_as :: [Weyl,Hermann.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.secret.md)
+

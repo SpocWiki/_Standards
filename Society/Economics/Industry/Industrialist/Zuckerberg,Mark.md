@@ -134,3 +134,22 @@ name_in_native_language: Mark Elliot Zuckerberg
 > [Wikipedia](https://en.wikipedia.org/wiki/Mark%20Zuckerberg) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zuckerberg,Mark](/_Standards/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.md) 
+
+### #is_/same_as :: [Zuckerberg,Mark.public](/_public/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.public.md) 
+
+### #is_/same_as :: [Zuckerberg,Mark.internal](/_internal/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.internal.md) 
+
+### #is_/same_as :: [Zuckerberg,Mark.protect](/_protect/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.protect.md) 
+
+### #is_/same_as :: [Zuckerberg,Mark.private](/_private/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.private.md) 
+
+### #is_/same_as :: [Zuckerberg,Mark.personal](/_personal/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.personal.md) 
+
+### #is_/same_as :: [Zuckerberg,Mark.secret](/_secret/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.secret.md)
+

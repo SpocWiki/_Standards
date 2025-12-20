@@ -40,17 +40,17 @@ Physical activity that is engaged in to improve muscle and bone strength. Also r
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strength_Training](Strength_Training.md) 
+### #is_/same_as :: [Strength_Training](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.md) 
 
-### #is_/same_as :: [strength_training.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/strength_training.public.md) 
+### #is_/same_as :: [Strength_Training.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.public.md) 
 
-### #is_/same_as :: [strength_training.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/strength_training.internal.md) 
+### #is_/same_as :: [Strength_Training.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.internal.md) 
 
-### #is_/same_as :: [strength_training.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/strength_training.protect.md) 
+### #is_/same_as :: [Strength_Training.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.protect.md) 
 
-### #is_/same_as :: [strength_training.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/strength_training.private.md) 
+### #is_/same_as :: [Strength_Training.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.private.md) 
 
-### #is_/same_as :: [strength_training.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/strength_training.personal.md) 
+### #is_/same_as :: [Strength_Training.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.personal.md) 
 
-### #is_/same_as :: [strength_training.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/strength_training.secret.md)
+### #is_/same_as :: [Strength_Training.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.secret.md)
 

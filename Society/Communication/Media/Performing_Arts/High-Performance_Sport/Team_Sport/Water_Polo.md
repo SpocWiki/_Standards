@@ -61,3 +61,22 @@ Dewey_Decimal_Classification: "797.25"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Water%20polo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Water_Polo](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Water_Polo.md) 
+
+### #is_/same_as :: [Water_Polo.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Water_Polo.public.md) 
+
+### #is_/same_as :: [Water_Polo.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Water_Polo.internal.md) 
+
+### #is_/same_as :: [Water_Polo.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Water_Polo.protect.md) 
+
+### #is_/same_as :: [Water_Polo.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Water_Polo.private.md) 
+
+### #is_/same_as :: [Water_Polo.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Water_Polo.personal.md) 
+
+### #is_/same_as :: [Water_Polo.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Water_Polo.secret.md)
+

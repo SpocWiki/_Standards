@@ -25,3 +25,22 @@ has_id_wikidata: Q92624
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dan%20Bricklin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bricklin,Dan](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.md) 
+
+### #is_/same_as :: [Bricklin,Dan.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.public.md) 
+
+### #is_/same_as :: [Bricklin,Dan.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.internal.md) 
+
+### #is_/same_as :: [Bricklin,Dan.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.protect.md) 
+
+### #is_/same_as :: [Bricklin,Dan.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.private.md) 
+
+### #is_/same_as :: [Bricklin,Dan.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.personal.md) 
+
+### #is_/same_as :: [Bricklin,Dan.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Bricklin,Dan.secret.md)
+

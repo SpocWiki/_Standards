@@ -41,3 +41,22 @@ This is the [[categorical_Product]] [[../../../../Knowledge/Math/Category_Theory
 
 This are the Structs/classes/tuples/records well-known in any Programming Language.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Product-Type](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Product-Type.md) 
+
+### #is_/same_as :: [Product-Type.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Product-Type.public.md) 
+
+### #is_/same_as :: [Product-Type.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Product-Type.internal.md) 
+
+### #is_/same_as :: [Product-Type.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Product-Type.protect.md) 
+
+### #is_/same_as :: [Product-Type.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Product-Type.private.md) 
+
+### #is_/same_as :: [Product-Type.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Product-Type.personal.md) 
+
+### #is_/same_as :: [Product-Type.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Product-Type.secret.md)
+

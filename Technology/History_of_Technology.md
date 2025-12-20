@@ -36,3 +36,22 @@ Provenio_UUID: a0035593-f8b7-450b-89c7-f92233cf7fc0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20technology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History_of_Technology](/_Standards/Technology/History_of_Technology.md) 
+
+### #is_/same_as :: [History_of_Technology.public](/_public/Technology/History_of_Technology.public.md) 
+
+### #is_/same_as :: [History_of_Technology.internal](/_internal/Technology/History_of_Technology.internal.md) 
+
+### #is_/same_as :: [History_of_Technology.protect](/_protect/Technology/History_of_Technology.protect.md) 
+
+### #is_/same_as :: [History_of_Technology.private](/_private/Technology/History_of_Technology.private.md) 
+
+### #is_/same_as :: [History_of_Technology.personal](/_personal/Technology/History_of_Technology.personal.md) 
+
+### #is_/same_as :: [History_of_Technology.secret](/_secret/Technology/History_of_Technology.secret.md)
+

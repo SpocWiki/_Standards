@@ -35,3 +35,22 @@ Krugosvet_article: nauka_i_tehnika/himiya/LITOSFERA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithosphere) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lithosphere](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere.md) 
+
+### #is_/same_as :: [Lithosphere.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere.public.md) 
+
+### #is_/same_as :: [Lithosphere.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere.internal.md) 
+
+### #is_/same_as :: [Lithosphere.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere.protect.md) 
+
+### #is_/same_as :: [Lithosphere.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere.private.md) 
+
+### #is_/same_as :: [Lithosphere.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere.personal.md) 
+
+### #is_/same_as :: [Lithosphere.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere.secret.md)
+

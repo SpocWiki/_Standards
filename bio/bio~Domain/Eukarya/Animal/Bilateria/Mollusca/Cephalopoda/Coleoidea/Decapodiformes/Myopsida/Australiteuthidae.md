@@ -124,7 +124,7 @@ pp.
   Size                 21.3 mm ML
   Type                 Holotype
   Copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
-  -------------------------------------------------------------------------
+  -------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

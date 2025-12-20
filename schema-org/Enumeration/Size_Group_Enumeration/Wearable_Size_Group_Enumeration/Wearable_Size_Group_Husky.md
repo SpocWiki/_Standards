@@ -42,17 +42,17 @@ Size group "Husky" (or "Stocky") for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_Group_Husky](Wearable_Size_Group_Husky.md) 
+### #is_/same_as :: [Wearable_Size_Group_Husky](/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Husky.md) 
 
-### #is_/same_as :: [wearable_size_group_husky.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_husky.public.md) 
+### #is_/same_as :: [Wearable_Size_Group_Husky.public](/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Husky.public.md) 
 
-### #is_/same_as :: [wearable_size_group_husky.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_husky.internal.md) 
+### #is_/same_as :: [Wearable_Size_Group_Husky.internal](/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Husky.internal.md) 
 
-### #is_/same_as :: [wearable_size_group_husky.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_husky.protect.md) 
+### #is_/same_as :: [Wearable_Size_Group_Husky.protect](/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Husky.protect.md) 
 
-### #is_/same_as :: [wearable_size_group_husky.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_husky.private.md) 
+### #is_/same_as :: [Wearable_Size_Group_Husky.private](/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Husky.private.md) 
 
-### #is_/same_as :: [wearable_size_group_husky.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_husky.personal.md) 
+### #is_/same_as :: [Wearable_Size_Group_Husky.personal](/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Husky.personal.md) 
 
-### #is_/same_as :: [wearable_size_group_husky.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_husky.secret.md)
+### #is_/same_as :: [Wearable_Size_Group_Husky.secret](/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Husky.secret.md)
 

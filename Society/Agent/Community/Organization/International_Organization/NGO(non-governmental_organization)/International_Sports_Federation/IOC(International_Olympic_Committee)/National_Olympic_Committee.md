@@ -49,3 +49,22 @@ Dewey_Decimal_Classification: "796.4806"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Olympic%20Committee) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [National_Olympic_Committee](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/National_Olympic_Committee.md) 
+
+### #is_/same_as :: [National_Olympic_Committee.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/National_Olympic_Committee.public.md) 
+
+### #is_/same_as :: [National_Olympic_Committee.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/National_Olympic_Committee.internal.md) 
+
+### #is_/same_as :: [National_Olympic_Committee.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/National_Olympic_Committee.protect.md) 
+
+### #is_/same_as :: [National_Olympic_Committee.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/National_Olympic_Committee.private.md) 
+
+### #is_/same_as :: [National_Olympic_Committee.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/National_Olympic_Committee.personal.md) 
+
+### #is_/same_as :: [National_Olympic_Committee.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/National_Olympic_Committee.secret.md)
+

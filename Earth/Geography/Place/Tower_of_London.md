@@ -43,3 +43,22 @@ has_id_wikidata: Q62378
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tower%20of%20London) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tower_of_London](/_Standards/Earth/Geography/Place/Tower_of_London.md) 
+
+### #is_/same_as :: [Tower_of_London.public](/_public/Earth/Geography/Place/Tower_of_London.public.md) 
+
+### #is_/same_as :: [Tower_of_London.internal](/_internal/Earth/Geography/Place/Tower_of_London.internal.md) 
+
+### #is_/same_as :: [Tower_of_London.protect](/_protect/Earth/Geography/Place/Tower_of_London.protect.md) 
+
+### #is_/same_as :: [Tower_of_London.private](/_private/Earth/Geography/Place/Tower_of_London.private.md) 
+
+### #is_/same_as :: [Tower_of_London.personal](/_personal/Earth/Geography/Place/Tower_of_London.personal.md) 
+
+### #is_/same_as :: [Tower_of_London.secret](/_secret/Earth/Geography/Place/Tower_of_London.secret.md)
+

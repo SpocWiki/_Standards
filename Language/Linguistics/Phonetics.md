@@ -45,3 +45,22 @@ Commons_category: Phonetics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phonetics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Phonetics](/_Standards/Language/Linguistics/Phonetics.md) 
+
+### #is_/same_as :: [Phonetics.public](/_public/Language/Linguistics/Phonetics.public.md) 
+
+### #is_/same_as :: [Phonetics.internal](/_internal/Language/Linguistics/Phonetics.internal.md) 
+
+### #is_/same_as :: [Phonetics.protect](/_protect/Language/Linguistics/Phonetics.protect.md) 
+
+### #is_/same_as :: [Phonetics.private](/_private/Language/Linguistics/Phonetics.private.md) 
+
+### #is_/same_as :: [Phonetics.personal](/_personal/Language/Linguistics/Phonetics.personal.md) 
+
+### #is_/same_as :: [Phonetics.secret](/_secret/Language/Linguistics/Phonetics.secret.md)
+

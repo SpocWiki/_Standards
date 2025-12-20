@@ -19,3 +19,22 @@ has_id_wikidata: Q1107656
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Garden) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Garden](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.md) 
+
+### #is_/same_as :: [Garden.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.public.md) 
+
+### #is_/same_as :: [Garden.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.internal.md) 
+
+### #is_/same_as :: [Garden.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.protect.md) 
+
+### #is_/same_as :: [Garden.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.private.md) 
+
+### #is_/same_as :: [Garden.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.personal.md) 
+
+### #is_/same_as :: [Garden.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.secret.md)
+

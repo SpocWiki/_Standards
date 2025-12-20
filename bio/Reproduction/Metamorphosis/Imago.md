@@ -42,3 +42,22 @@ Commons_category: Imago (biology)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Imago) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Imago](/_Standards/bio/Reproduction/Metamorphosis/Imago.md) 
+
+### #is_/same_as :: [Imago.public](/_public/bio/Reproduction/Metamorphosis/Imago.public.md) 
+
+### #is_/same_as :: [Imago.internal](/_internal/bio/Reproduction/Metamorphosis/Imago.internal.md) 
+
+### #is_/same_as :: [Imago.protect](/_protect/bio/Reproduction/Metamorphosis/Imago.protect.md) 
+
+### #is_/same_as :: [Imago.private](/_private/bio/Reproduction/Metamorphosis/Imago.private.md) 
+
+### #is_/same_as :: [Imago.personal](/_personal/bio/Reproduction/Metamorphosis/Imago.personal.md) 
+
+### #is_/same_as :: [Imago.secret](/_secret/bio/Reproduction/Metamorphosis/Imago.secret.md)
+

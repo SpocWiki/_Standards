@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delp,Brad](Delp,Brad.md) 
+### #is_/same_as :: [Delp,Brad](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Delp,Brad.md) 
 
-### #is_/same_as :: [Delp,Brad.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(band)/Delp,Brad.public.md) 
+### #is_/same_as :: [Delp,Brad.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Delp,Brad.public.md) 
 
-### #is_/same_as :: [Delp,Brad.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Boston(band)/Delp,Brad.internal.md) 
+### #is_/same_as :: [Delp,Brad.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Delp,Brad.internal.md) 
 
-### #is_/same_as :: [Delp,Brad.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Boston(band)/Delp,Brad.protect.md) 
+### #is_/same_as :: [Delp,Brad.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Delp,Brad.protect.md) 
 
-### #is_/same_as :: [Delp,Brad.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Boston(band)/Delp,Brad.private.md) 
+### #is_/same_as :: [Delp,Brad.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Delp,Brad.private.md) 
 
-### #is_/same_as :: [Delp,Brad.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Boston(band)/Delp,Brad.personal.md) 
+### #is_/same_as :: [Delp,Brad.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Delp,Brad.personal.md) 
 
-### #is_/same_as :: [Delp,Brad.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Boston(band)/Delp,Brad.secret.md)
+### #is_/same_as :: [Delp,Brad.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Delp,Brad.secret.md)
 

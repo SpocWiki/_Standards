@@ -92,3 +92,22 @@ name_in_native_language: James Francis Cagney, Jr.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Cagney) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cagney,James](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.md) 
+
+### #is_/same_as :: [Cagney,James.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.public.md) 
+
+### #is_/same_as :: [Cagney,James.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.internal.md) 
+
+### #is_/same_as :: [Cagney,James.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.protect.md) 
+
+### #is_/same_as :: [Cagney,James.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.private.md) 
+
+### #is_/same_as :: [Cagney,James.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.personal.md) 
+
+### #is_/same_as :: [Cagney,James.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.secret.md)
+

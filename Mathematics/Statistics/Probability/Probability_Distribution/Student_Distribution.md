@@ -66,3 +66,22 @@ variance_of_a_probability_distribution: <math class="mwe-math-element mwe-math-e
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Student's%20t-distribution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Student_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.md) 
+
+### #is_/same_as :: [Student_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.public.md) 
+
+### #is_/same_as :: [Student_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.internal.md) 
+
+### #is_/same_as :: [Student_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.protect.md) 
+
+### #is_/same_as :: [Student_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.private.md) 
+
+### #is_/same_as :: [Student_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.personal.md) 
+
+### #is_/same_as :: [Student_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Student_Distribution.secret.md)
+

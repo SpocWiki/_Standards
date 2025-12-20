@@ -30,3 +30,22 @@ Commons_category: Central European Free Trade Agreement
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20European%20Free%20Trade%20Agreement) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement)](/_Standards/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).md) 
+
+### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).public](/_public/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).public.md) 
+
+### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).internal](/_internal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).internal.md) 
+
+### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).protect](/_protect/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).protect.md) 
+
+### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).private](/_private/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).private.md) 
+
+### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).personal](/_personal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).personal.md) 
+
+### #is_/same_as :: [CEFTA(Central_European_Free_Trade_Agreement).secret](/_secret/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).secret.md)
+

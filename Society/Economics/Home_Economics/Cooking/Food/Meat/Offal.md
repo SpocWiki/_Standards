@@ -43,3 +43,22 @@ Commons_category: Offal
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Offal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Offal](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.md) 
+
+### #is_/same_as :: [Offal.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.public.md) 
+
+### #is_/same_as :: [Offal.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.internal.md) 
+
+### #is_/same_as :: [Offal.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.protect.md) 
+
+### #is_/same_as :: [Offal.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.private.md) 
+
+### #is_/same_as :: [Offal.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.personal.md) 
+
+### #is_/same_as :: [Offal.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.secret.md)
+

@@ -55,3 +55,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Korea%202003-05-01%20N
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Korea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Korean_Peninsula](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula.md) 
+
+### #is_/same_as :: [Korean_Peninsula.public](/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public.md) 
+
+### #is_/same_as :: [Korean_Peninsula.internal](/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal.md) 
+
+### #is_/same_as :: [Korean_Peninsula.protect](/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect.md) 
+
+### #is_/same_as :: [Korean_Peninsula.private](/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private.md) 
+
+### #is_/same_as :: [Korean_Peninsula.personal](/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal.md) 
+
+### #is_/same_as :: [Korean_Peninsula.secret](/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret.md)
+

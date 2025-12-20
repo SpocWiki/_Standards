@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cshtml
 - vbhtml
@@ -69,4 +69,23 @@ For an in-depth understanding, please refer to the official documentation:
 - [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/)  
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Razor-Web-Pages](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.md) 
+
+### #is_/same_as :: [Razor-Web-Pages.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.public.md) 
+
+### #is_/same_as :: [Razor-Web-Pages.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.internal.md) 
+
+### #is_/same_as :: [Razor-Web-Pages.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.protect.md) 
+
+### #is_/same_as :: [Razor-Web-Pages.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.private.md) 
+
+### #is_/same_as :: [Razor-Web-Pages.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.personal.md) 
+
+### #is_/same_as :: [Razor-Web-Pages.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.secret.md)
 

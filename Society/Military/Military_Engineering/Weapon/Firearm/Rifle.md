@@ -19,3 +19,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rifle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rifle](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.md) 
+
+### #is_/same_as :: [Rifle.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.public.md) 
+
+### #is_/same_as :: [Rifle.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.internal.md) 
+
+### #is_/same_as :: [Rifle.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.protect.md) 
+
+### #is_/same_as :: [Rifle.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.private.md) 
+
+### #is_/same_as :: [Rifle.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.personal.md) 
+
+### #is_/same_as :: [Rifle.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.secret.md)
+

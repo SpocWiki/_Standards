@@ -102,3 +102,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/DORZ.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Doors) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Doors](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Doors.md) 
+
+### #is_/same_as :: [Doors.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Doors.public.md) 
+
+### #is_/same_as :: [Doors.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Doors.internal.md) 
+
+### #is_/same_as :: [Doors.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Doors.protect.md) 
+
+### #is_/same_as :: [Doors.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Doors.private.md) 
+
+### #is_/same_as :: [Doors.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Doors.personal.md) 
+
+### #is_/same_as :: [Doors.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Doors.secret.md)
+

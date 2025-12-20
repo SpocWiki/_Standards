@@ -42,17 +42,17 @@ Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Healthcare_Consideration](Healthcare_Consideration.md) 
+### #is_/same_as :: [Healthcare_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.md) 
 
-### #is_/same_as :: [healthcare_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.public.md) 
+### #is_/same_as :: [Healthcare_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.public.md) 
 
-### #is_/same_as :: [healthcare_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.internal.md) 
+### #is_/same_as :: [Healthcare_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.internal.md) 
 
-### #is_/same_as :: [healthcare_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.protect.md) 
+### #is_/same_as :: [Healthcare_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.protect.md) 
 
-### #is_/same_as :: [healthcare_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.private.md) 
+### #is_/same_as :: [Healthcare_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.private.md) 
 
-### #is_/same_as :: [healthcare_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.personal.md) 
+### #is_/same_as :: [Healthcare_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.personal.md) 
 
-### #is_/same_as :: [healthcare_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.secret.md)
+### #is_/same_as :: [Healthcare_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Healthcare_Consideration.secret.md)
 

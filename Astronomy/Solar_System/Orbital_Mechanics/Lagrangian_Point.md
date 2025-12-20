@@ -56,3 +56,22 @@ Commons_category: Lagrange points
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lagrange%20point) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lagrangian_Point](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.md) 
+
+### #is_/same_as :: [Lagrangian_Point.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.public.md) 
+
+### #is_/same_as :: [Lagrangian_Point.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.internal.md) 
+
+### #is_/same_as :: [Lagrangian_Point.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.protect.md) 
+
+### #is_/same_as :: [Lagrangian_Point.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.private.md) 
+
+### #is_/same_as :: [Lagrangian_Point.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.personal.md) 
+
+### #is_/same_as :: [Lagrangian_Point.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.secret.md)
+

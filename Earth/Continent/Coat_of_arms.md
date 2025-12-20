@@ -71,10 +71,9 @@ The same holds for Flags.
 > [Wikipedia](https://en.wikipedia.org/wiki/Coat%20of%20arms) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coat_of_Arms](Coat_of_Arms.md) 
+### #is_/same_as :: [Coat_of_arms](/_Standards/Earth/Continent/Coat_of_arms.md) 
 
 ### #is_/same_as :: [Coat_of_arms.public](/_public/Earth/Continent/Coat_of_arms.public.md) 
 

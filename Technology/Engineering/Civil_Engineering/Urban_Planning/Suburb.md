@@ -54,3 +54,22 @@ Dewey_Decimal_Classification: "307.74"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suburb) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Suburb](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Suburb.md) 
+
+### #is_/same_as :: [Suburb.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Suburb.public.md) 
+
+### #is_/same_as :: [Suburb.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Suburb.internal.md) 
+
+### #is_/same_as :: [Suburb.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Suburb.protect.md) 
+
+### #is_/same_as :: [Suburb.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Suburb.private.md) 
+
+### #is_/same_as :: [Suburb.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Suburb.personal.md) 
+
+### #is_/same_as :: [Suburb.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Suburb.secret.md)
+

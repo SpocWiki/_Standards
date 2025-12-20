@@ -40,17 +40,17 @@ OrderStatus representing successful delivery of an order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Delivered](Order_Delivered.md) 
+### #is_/same_as :: [Order_Delivered](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.md) 
 
-### #is_/same_as :: [order_delivered.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.public.md) 
+### #is_/same_as :: [Order_Delivered.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.public.md) 
 
-### #is_/same_as :: [order_delivered.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.internal.md) 
+### #is_/same_as :: [Order_Delivered.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.internal.md) 
 
-### #is_/same_as :: [order_delivered.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.protect.md) 
+### #is_/same_as :: [Order_Delivered.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.protect.md) 
 
-### #is_/same_as :: [order_delivered.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.private.md) 
+### #is_/same_as :: [Order_Delivered.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.private.md) 
 
-### #is_/same_as :: [order_delivered.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.personal.md) 
+### #is_/same_as :: [Order_Delivered.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.personal.md) 
 
-### #is_/same_as :: [order_delivered.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.secret.md)
+### #is_/same_as :: [Order_Delivered.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.secret.md)
 

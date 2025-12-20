@@ -13,3 +13,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/There%20Will%20Be%20Blood) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [There_will_be_Blood](/_Standards/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.md) 
+
+### #is_/same_as :: [There_will_be_Blood.public](/_public/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.public.md) 
+
+### #is_/same_as :: [There_will_be_Blood.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.internal.md) 
+
+### #is_/same_as :: [There_will_be_Blood.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.protect.md) 
+
+### #is_/same_as :: [There_will_be_Blood.private](/_private/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.private.md) 
+
+### #is_/same_as :: [There_will_be_Blood.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.personal.md) 
+
+### #is_/same_as :: [There_will_be_Blood.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas/There_will_be_Blood.secret.md)
+

@@ -59,3 +59,22 @@ name_in_kana: ふくいんは
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Evangelicalism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Evangelicalism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.md) 
+
+### #is_/same_as :: [Evangelicalism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.public.md) 
+
+### #is_/same_as :: [Evangelicalism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.internal.md) 
+
+### #is_/same_as :: [Evangelicalism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.protect.md) 
+
+### #is_/same_as :: [Evangelicalism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.private.md) 
+
+### #is_/same_as :: [Evangelicalism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.personal.md) 
+
+### #is_/same_as :: [Evangelicalism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.secret.md)
+

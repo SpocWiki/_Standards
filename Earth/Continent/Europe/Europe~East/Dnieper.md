@@ -212,3 +212,22 @@ Commons_category: Dnieper (river)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dnieper) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dnieper](/_Standards/Earth/Continent/Europe/Europe~East/Dnieper.md) 
+
+### #is_/same_as :: [Dnieper.public](/_public/Earth/Continent/Europe/Europe~East/Dnieper.public.md) 
+
+### #is_/same_as :: [Dnieper.internal](/_internal/Earth/Continent/Europe/Europe~East/Dnieper.internal.md) 
+
+### #is_/same_as :: [Dnieper.protect](/_protect/Earth/Continent/Europe/Europe~East/Dnieper.protect.md) 
+
+### #is_/same_as :: [Dnieper.private](/_private/Earth/Continent/Europe/Europe~East/Dnieper.private.md) 
+
+### #is_/same_as :: [Dnieper.personal](/_personal/Earth/Continent/Europe/Europe~East/Dnieper.personal.md) 
+
+### #is_/same_as :: [Dnieper.secret](/_secret/Earth/Continent/Europe/Europe~East/Dnieper.secret.md)
+

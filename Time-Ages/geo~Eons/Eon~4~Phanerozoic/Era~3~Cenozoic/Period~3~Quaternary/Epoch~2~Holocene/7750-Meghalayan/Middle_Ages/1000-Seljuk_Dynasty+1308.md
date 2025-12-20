@@ -47,3 +47,22 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Double-he
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seljuk%20dynasty) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1000-Seljuk_Dynasty+1308](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-Seljuk_Dynasty+1308.md) 
+
+### #is_/same_as :: [1000-Seljuk_Dynasty+1308.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-Seljuk_Dynasty+1308.public.md) 
+
+### #is_/same_as :: [1000-Seljuk_Dynasty+1308.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-Seljuk_Dynasty+1308.internal.md) 
+
+### #is_/same_as :: [1000-Seljuk_Dynasty+1308.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-Seljuk_Dynasty+1308.protect.md) 
+
+### #is_/same_as :: [1000-Seljuk_Dynasty+1308.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-Seljuk_Dynasty+1308.private.md) 
+
+### #is_/same_as :: [1000-Seljuk_Dynasty+1308.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-Seljuk_Dynasty+1308.personal.md) 
+
+### #is_/same_as :: [1000-Seljuk_Dynasty+1308.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-Seljuk_Dynasty+1308.secret.md)
+

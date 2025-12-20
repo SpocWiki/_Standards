@@ -79,3 +79,22 @@ name: Aid Al-Fitr
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eid%20al-Fitr) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eid_al-Fitr](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Eid_al-Fitr.md) 
+
+### #is_/same_as :: [Eid_al-Fitr.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Eid_al-Fitr.public.md) 
+
+### #is_/same_as :: [Eid_al-Fitr.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Eid_al-Fitr.internal.md) 
+
+### #is_/same_as :: [Eid_al-Fitr.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Eid_al-Fitr.protect.md) 
+
+### #is_/same_as :: [Eid_al-Fitr.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Eid_al-Fitr.private.md) 
+
+### #is_/same_as :: [Eid_al-Fitr.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Eid_al-Fitr.personal.md) 
+
+### #is_/same_as :: [Eid_al-Fitr.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Eid_al-Fitr.secret.md)
+

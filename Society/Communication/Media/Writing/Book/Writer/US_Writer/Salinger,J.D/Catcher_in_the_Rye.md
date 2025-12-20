@@ -65,3 +65,22 @@ last_line: It’s funny. Don’t ever tell anybody anything. If you do, you star
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Catcher%20in%20the%20Rye) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Catcher_in_the_Rye](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.md) 
+
+### #is_/same_as :: [Catcher_in_the_Rye.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.public.md) 
+
+### #is_/same_as :: [Catcher_in_the_Rye.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.internal.md) 
+
+### #is_/same_as :: [Catcher_in_the_Rye.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.protect.md) 
+
+### #is_/same_as :: [Catcher_in_the_Rye.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.private.md) 
+
+### #is_/same_as :: [Catcher_in_the_Rye.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.personal.md) 
+
+### #is_/same_as :: [Catcher_in_the_Rye.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.secret.md)
+

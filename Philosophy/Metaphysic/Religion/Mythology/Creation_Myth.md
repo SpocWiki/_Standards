@@ -39,3 +39,22 @@ Provenio_UUID: d7a6f1bb-08aa-472d-890e-c604ed8f3f81
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Creation%20myth) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Creation_Myth](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.md) 
+
+### #is_/same_as :: [Creation_Myth.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.public.md) 
+
+### #is_/same_as :: [Creation_Myth.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.internal.md) 
+
+### #is_/same_as :: [Creation_Myth.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.protect.md) 
+
+### #is_/same_as :: [Creation_Myth.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.private.md) 
+
+### #is_/same_as :: [Creation_Myth.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.personal.md) 
+
+### #is_/same_as :: [Creation_Myth.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.secret.md)
+

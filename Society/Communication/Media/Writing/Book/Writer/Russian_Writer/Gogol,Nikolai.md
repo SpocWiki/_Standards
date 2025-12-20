@@ -165,3 +165,22 @@ Wolfram_Language_entity_code: Entity["Person", "NikolaiGogol::3qh39"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nikolai%20Gogol) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gogol,Nikolai](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.md) 
+
+### #is_/same_as :: [Gogol,Nikolai.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.public.md) 
+
+### #is_/same_as :: [Gogol,Nikolai.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.internal.md) 
+
+### #is_/same_as :: [Gogol,Nikolai.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.protect.md) 
+
+### #is_/same_as :: [Gogol,Nikolai.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.private.md) 
+
+### #is_/same_as :: [Gogol,Nikolai.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.personal.md) 
+
+### #is_/same_as :: [Gogol,Nikolai.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.secret.md)
+

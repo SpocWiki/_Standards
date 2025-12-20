@@ -119,3 +119,22 @@ Commons_category: Alphabet Inc.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alphabet%20Inc.) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alphabet_Inc](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.md) 
+
+### #is_/same_as :: [Alphabet_Inc.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.public.md) 
+
+### #is_/same_as :: [Alphabet_Inc.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.internal.md) 
+
+### #is_/same_as :: [Alphabet_Inc.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.protect.md) 
+
+### #is_/same_as :: [Alphabet_Inc.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.private.md) 
+
+### #is_/same_as :: [Alphabet_Inc.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.personal.md) 
+
+### #is_/same_as :: [Alphabet_Inc.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.secret.md)
+

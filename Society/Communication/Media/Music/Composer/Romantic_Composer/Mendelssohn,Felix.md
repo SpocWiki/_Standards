@@ -196,3 +196,22 @@ Europeana_entity: agent/base/147180
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Felix%20Mendelssohn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mendelssohn,Felix](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.md) 
+
+### #is_/same_as :: [Mendelssohn,Felix.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.public.md) 
+
+### #is_/same_as :: [Mendelssohn,Felix.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.internal.md) 
+
+### #is_/same_as :: [Mendelssohn,Felix.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.protect.md) 
+
+### #is_/same_as :: [Mendelssohn,Felix.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.private.md) 
+
+### #is_/same_as :: [Mendelssohn,Felix.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.personal.md) 
+
+### #is_/same_as :: [Mendelssohn,Felix.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Mendelssohn,Felix.secret.md)
+

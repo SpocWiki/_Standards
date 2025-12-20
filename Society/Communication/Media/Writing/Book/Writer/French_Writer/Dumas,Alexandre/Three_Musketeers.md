@@ -185,3 +185,22 @@ work_available_at_URL: https://grapaharan.org/Երեք_հրացանակիրնե�
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Three%20Musketeers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Three_Musketeers](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre/Three_Musketeers.md) 
+
+### #is_/same_as :: [Three_Musketeers.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre/Three_Musketeers.public.md) 
+
+### #is_/same_as :: [Three_Musketeers.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre/Three_Musketeers.internal.md) 
+
+### #is_/same_as :: [Three_Musketeers.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre/Three_Musketeers.protect.md) 
+
+### #is_/same_as :: [Three_Musketeers.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre/Three_Musketeers.private.md) 
+
+### #is_/same_as :: [Three_Musketeers.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre/Three_Musketeers.personal.md) 
+
+### #is_/same_as :: [Three_Musketeers.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre/Three_Musketeers.secret.md)
+

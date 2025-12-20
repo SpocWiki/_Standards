@@ -18,3 +18,22 @@ has_id_wikidata: Q190507
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hope) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hope](/_Standards/bio/Psychology/Affect/Emotion/Hope.md) 
+
+### #is_/same_as :: [Hope.public](/_public/bio/Psychology/Affect/Emotion/Hope.public.md) 
+
+### #is_/same_as :: [Hope.internal](/_internal/bio/Psychology/Affect/Emotion/Hope.internal.md) 
+
+### #is_/same_as :: [Hope.protect](/_protect/bio/Psychology/Affect/Emotion/Hope.protect.md) 
+
+### #is_/same_as :: [Hope.private](/_private/bio/Psychology/Affect/Emotion/Hope.private.md) 
+
+### #is_/same_as :: [Hope.personal](/_personal/bio/Psychology/Affect/Emotion/Hope.personal.md) 
+
+### #is_/same_as :: [Hope.secret](/_secret/bio/Psychology/Affect/Emotion/Hope.secret.md)
+

@@ -60,3 +60,22 @@ BHCL_UUID: 4ca534b3-1a0c-438e-982f-6563583effe1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pappus%20of%20Alexandria) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pappus_of_Alexandria](/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Pappus_of_Alexandria.md) 
+
+### #is_/same_as :: [Pappus_of_Alexandria.public](/_public/Mathematics/Mathematician/Ancient_Mathematician/Pappus_of_Alexandria.public.md) 
+
+### #is_/same_as :: [Pappus_of_Alexandria.internal](/_internal/Mathematics/Mathematician/Ancient_Mathematician/Pappus_of_Alexandria.internal.md) 
+
+### #is_/same_as :: [Pappus_of_Alexandria.protect](/_protect/Mathematics/Mathematician/Ancient_Mathematician/Pappus_of_Alexandria.protect.md) 
+
+### #is_/same_as :: [Pappus_of_Alexandria.private](/_private/Mathematics/Mathematician/Ancient_Mathematician/Pappus_of_Alexandria.private.md) 
+
+### #is_/same_as :: [Pappus_of_Alexandria.personal](/_personal/Mathematics/Mathematician/Ancient_Mathematician/Pappus_of_Alexandria.personal.md) 
+
+### #is_/same_as :: [Pappus_of_Alexandria.secret](/_secret/Mathematics/Mathematician/Ancient_Mathematician/Pappus_of_Alexandria.secret.md)
+

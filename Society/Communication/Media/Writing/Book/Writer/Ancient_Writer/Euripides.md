@@ -113,3 +113,22 @@ ISNI: "0000000121382034"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euripides) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euripides](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.md) 
+
+### #is_/same_as :: [Euripides.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.public.md) 
+
+### #is_/same_as :: [Euripides.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.internal.md) 
+
+### #is_/same_as :: [Euripides.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.protect.md) 
+
+### #is_/same_as :: [Euripides.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.private.md) 
+
+### #is_/same_as :: [Euripides.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.personal.md) 
+
+### #is_/same_as :: [Euripides.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Euripides.secret.md)
+

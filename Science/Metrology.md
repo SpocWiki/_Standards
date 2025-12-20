@@ -64,3 +64,22 @@ Commons_category: Metrology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metrology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metrology](/_Standards/Science/Metrology.md) 
+
+### #is_/same_as :: [Metrology.public](/_public/Science/Metrology.public.md) 
+
+### #is_/same_as :: [Metrology.internal](/_internal/Science/Metrology.internal.md) 
+
+### #is_/same_as :: [Metrology.protect](/_protect/Science/Metrology.protect.md) 
+
+### #is_/same_as :: [Metrology.private](/_private/Science/Metrology.private.md) 
+
+### #is_/same_as :: [Metrology.personal](/_personal/Science/Metrology.personal.md) 
+
+### #is_/same_as :: [Metrology.secret](/_secret/Science/Metrology.secret.md)
+

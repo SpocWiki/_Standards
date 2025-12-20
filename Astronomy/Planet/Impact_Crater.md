@@ -38,3 +38,21 @@ OpenStreetMap_tag: geological=meteor_crater
 > Although Earth's active surface processes quickly destroy the impact record, about 190 terrestrial impact craters have been identified. These range in diameter from a few tens of meters up to about 300 km (190 mi), and they range in age from recent times (e.g. the Sikhote-Alin craters in Russia whose creation was witnessed in 1947) to more than two billion years, though most are less than 500 million years old because geological processes tend to obliterate older craters. They are also selectively found in the stable interior regions of continents. Few undersea craters have been discovered because of the difficulty of surveying the sea floor, the rapid rate of change of the ocean bottom, and the subduction of the ocean floor into Earth's interior by processes of plate tectonics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Impact%20crater)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Impact_Crater](/_Standards/Astronomy/Planet/Impact_Crater.md) 
+
+### #is_/same_as :: [Impact_Crater.public](/_public/Astronomy/Planet/Impact_Crater.public.md) 
+
+### #is_/same_as :: [Impact_Crater.internal](/_internal/Astronomy/Planet/Impact_Crater.internal.md) 
+
+### #is_/same_as :: [Impact_Crater.protect](/_protect/Astronomy/Planet/Impact_Crater.protect.md) 
+
+### #is_/same_as :: [Impact_Crater.private](/_private/Astronomy/Planet/Impact_Crater.private.md) 
+
+### #is_/same_as :: [Impact_Crater.personal](/_personal/Astronomy/Planet/Impact_Crater.personal.md) 
+
+### #is_/same_as :: [Impact_Crater.secret](/_secret/Astronomy/Planet/Impact_Crater.secret.md)
+

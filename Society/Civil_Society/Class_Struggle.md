@@ -53,3 +53,22 @@ Wolfram_Language_entity_code: Entity["Concept", "ClassStruggle::t55f5"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Class%20struggle) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Class_Struggle](/_Standards/Society/Civil_Society/Class_Struggle.md) 
+
+### #is_/same_as :: [Class_Struggle.public](/_public/Society/Civil_Society/Class_Struggle.public.md) 
+
+### #is_/same_as :: [Class_Struggle.internal](/_internal/Society/Civil_Society/Class_Struggle.internal.md) 
+
+### #is_/same_as :: [Class_Struggle.protect](/_protect/Society/Civil_Society/Class_Struggle.protect.md) 
+
+### #is_/same_as :: [Class_Struggle.private](/_private/Society/Civil_Society/Class_Struggle.private.md) 
+
+### #is_/same_as :: [Class_Struggle.personal](/_personal/Society/Civil_Society/Class_Struggle.personal.md) 
+
+### #is_/same_as :: [Class_Struggle.secret](/_secret/Society/Civil_Society/Class_Struggle.secret.md)
+

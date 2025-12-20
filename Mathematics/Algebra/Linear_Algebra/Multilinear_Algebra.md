@@ -25,3 +25,22 @@ Commons_category: Multilinear algebra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multilinear%20algebra) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multilinear_Algebra](/_Standards/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.md) 
+
+### #is_/same_as :: [Multilinear_Algebra.public](/_public/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.public.md) 
+
+### #is_/same_as :: [Multilinear_Algebra.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.internal.md) 
+
+### #is_/same_as :: [Multilinear_Algebra.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.protect.md) 
+
+### #is_/same_as :: [Multilinear_Algebra.private](/_private/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.private.md) 
+
+### #is_/same_as :: [Multilinear_Algebra.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.personal.md) 
+
+### #is_/same_as :: [Multilinear_Algebra.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Multilinear_Algebra.secret.md)
+

@@ -42,17 +42,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bakshi,Ralph](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bakshi,Ralph.md) 
+### #is_/same_as :: [Bakshi,Ralph](/_Standards/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.md) 
 
-### #is_/same_as :: [Bakshi,Ralph.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bakshi,Ralph.public.md) 
+### #is_/same_as :: [Bakshi,Ralph.public](/_public/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.public.md) 
 
-### #is_/same_as :: [Bakshi,Ralph.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bakshi,Ralph.internal.md) 
+### #is_/same_as :: [Bakshi,Ralph.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.internal.md) 
 
-### #is_/same_as :: [Bakshi,Ralph.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bakshi,Ralph.protect.md) 
+### #is_/same_as :: [Bakshi,Ralph.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.protect.md) 
 
-### #is_/same_as :: [Bakshi,Ralph.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bakshi,Ralph.private.md) 
+### #is_/same_as :: [Bakshi,Ralph.private](/_private/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.private.md) 
 
-### #is_/same_as :: [Bakshi,Ralph.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bakshi,Ralph.personal.md) 
+### #is_/same_as :: [Bakshi,Ralph.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.personal.md) 
 
-### #is_/same_as :: [Bakshi,Ralph.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bakshi,Ralph.secret.md)
+### #is_/same_as :: [Bakshi,Ralph.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.secret.md)
 

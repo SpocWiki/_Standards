@@ -50,3 +50,22 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pachisi.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pachisi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pachisi](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Pachisi.md) 
+
+### #is_/same_as :: [Pachisi.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Pachisi.public.md) 
+
+### #is_/same_as :: [Pachisi.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Pachisi.internal.md) 
+
+### #is_/same_as :: [Pachisi.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Pachisi.protect.md) 
+
+### #is_/same_as :: [Pachisi.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Pachisi.private.md) 
+
+### #is_/same_as :: [Pachisi.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Pachisi.personal.md) 
+
+### #is_/same_as :: [Pachisi.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Pachisi.secret.md)
+

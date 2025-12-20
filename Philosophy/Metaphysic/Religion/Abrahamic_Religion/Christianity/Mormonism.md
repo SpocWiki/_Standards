@@ -53,3 +53,22 @@ OpenStreetMap_tag: denomination=mormon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mormonism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mormonism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.md) 
+
+### #is_/same_as :: [Mormonism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.public.md) 
+
+### #is_/same_as :: [Mormonism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.internal.md) 
+
+### #is_/same_as :: [Mormonism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.protect.md) 
+
+### #is_/same_as :: [Mormonism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.private.md) 
+
+### #is_/same_as :: [Mormonism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.personal.md) 
+
+### #is_/same_as :: [Mormonism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.secret.md)
+

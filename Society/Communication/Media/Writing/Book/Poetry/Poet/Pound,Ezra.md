@@ -114,3 +114,22 @@ work_period_start_: 1909-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ezra%20Pound) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pound,Ezra](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.md) 
+
+### #is_/same_as :: [Pound,Ezra.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.public.md) 
+
+### #is_/same_as :: [Pound,Ezra.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.internal.md) 
+
+### #is_/same_as :: [Pound,Ezra.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.protect.md) 
+
+### #is_/same_as :: [Pound,Ezra.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.private.md) 
+
+### #is_/same_as :: [Pound,Ezra.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.personal.md) 
+
+### #is_/same_as :: [Pound,Ezra.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Pound,Ezra.secret.md)
+

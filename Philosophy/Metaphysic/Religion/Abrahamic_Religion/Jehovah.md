@@ -51,3 +51,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jhwh4.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jehovah) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jehovah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.md) 
+
+### #is_/same_as :: [Jehovah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.public.md) 
+
+### #is_/same_as :: [Jehovah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.internal.md) 
+
+### #is_/same_as :: [Jehovah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.protect.md) 
+
+### #is_/same_as :: [Jehovah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.private.md) 
+
+### #is_/same_as :: [Jehovah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.personal.md) 
+
+### #is_/same_as :: [Jehovah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.secret.md)
+

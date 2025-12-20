@@ -39,17 +39,17 @@ Ear function assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ear](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.md) 
+### #is_/same_as :: [Ear_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.md) 
 
-### #is_/same_as :: [ear.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.public.md) 
+### #is_/same_as :: [Ear_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.public.md) 
 
-### #is_/same_as :: [ear.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.internal.md) 
+### #is_/same_as :: [Ear_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.internal.md) 
 
-### #is_/same_as :: [ear.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.protect.md) 
+### #is_/same_as :: [Ear_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.protect.md) 
 
-### #is_/same_as :: [ear.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.private.md) 
+### #is_/same_as :: [Ear_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.private.md) 
 
-### #is_/same_as :: [ear.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.personal.md) 
+### #is_/same_as :: [Ear_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.personal.md) 
 
-### #is_/same_as :: [ear.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.secret.md)
+### #is_/same_as :: [Ear_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Ear_Exam.secret.md)
 

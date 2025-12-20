@@ -50,17 +50,17 @@ title: "Eastern Palearctic water frogs"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eastern_Water_Frogs](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Eastern_Water_Frogs.md) 
+### #is_/same_as :: [Eastern_Water_Frogs](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs.md) 
 
-### #is_/same_as :: [Eastern_Water_Frogs.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Eastern_Water_Frogs.public.md) 
+### #is_/same_as :: [Eastern_Water_Frogs.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs.public.md) 
 
-### #is_/same_as :: [Eastern_Water_Frogs.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Eastern_Water_Frogs.internal.md) 
+### #is_/same_as :: [Eastern_Water_Frogs.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs.internal.md) 
 
-### #is_/same_as :: [Eastern_Water_Frogs.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Eastern_Water_Frogs.protect.md) 
+### #is_/same_as :: [Eastern_Water_Frogs.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs.protect.md) 
 
-### #is_/same_as :: [Eastern_Water_Frogs.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Eastern_Water_Frogs.private.md) 
+### #is_/same_as :: [Eastern_Water_Frogs.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs.private.md) 
 
-### #is_/same_as :: [Eastern_Water_Frogs.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Eastern_Water_Frogs.personal.md) 
+### #is_/same_as :: [Eastern_Water_Frogs.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs.personal.md) 
 
-### #is_/same_as :: [Eastern_Water_Frogs.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranidae/Rana/Pelophylax/Eastern_Water_Frogs.secret.md)
+### #is_/same_as :: [Eastern_Water_Frogs.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs.secret.md)
 

@@ -46,3 +46,22 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turbulence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Turbulence](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.md) 
+
+### #is_/same_as :: [Turbulence.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.public.md) 
+
+### #is_/same_as :: [Turbulence.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.internal.md) 
+
+### #is_/same_as :: [Turbulence.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.protect.md) 
+
+### #is_/same_as :: [Turbulence.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.private.md) 
+
+### #is_/same_as :: [Turbulence.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.personal.md) 
+
+### #is_/same_as :: [Turbulence.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.secret.md)
+

@@ -50,3 +50,22 @@ Commons_category: National libraries
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20library) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [National_Library](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/National_Library.md) 
+
+### #is_/same_as :: [National_Library.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/National_Library.public.md) 
+
+### #is_/same_as :: [National_Library.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/National_Library.internal.md) 
+
+### #is_/same_as :: [National_Library.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/National_Library.protect.md) 
+
+### #is_/same_as :: [National_Library.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/National_Library.private.md) 
+
+### #is_/same_as :: [National_Library.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/National_Library.personal.md) 
+
+### #is_/same_as :: [National_Library.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/National_Library.secret.md)
+

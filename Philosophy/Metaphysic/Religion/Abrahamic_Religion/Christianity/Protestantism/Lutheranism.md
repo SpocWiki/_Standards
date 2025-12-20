@@ -117,3 +117,22 @@ OpenStreetMap_tag: denomination=lutheran
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lutheranism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lutheranism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.md) 
+
+### #is_/same_as :: [Lutheranism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.public.md) 
+
+### #is_/same_as :: [Lutheranism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.internal.md) 
+
+### #is_/same_as :: [Lutheranism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.protect.md) 
+
+### #is_/same_as :: [Lutheranism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.private.md) 
+
+### #is_/same_as :: [Lutheranism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.personal.md) 
+
+### #is_/same_as :: [Lutheranism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Lutheranism.secret.md)
+

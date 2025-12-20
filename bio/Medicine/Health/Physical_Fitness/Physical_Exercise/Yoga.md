@@ -107,3 +107,22 @@ Dewey_Decimal_Classification: "181.45"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yoga) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yoga](/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.md) 
+
+### #is_/same_as :: [Yoga.public](/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.public.md) 
+
+### #is_/same_as :: [Yoga.internal](/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.internal.md) 
+
+### #is_/same_as :: [Yoga.protect](/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.protect.md) 
+
+### #is_/same_as :: [Yoga.private](/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.private.md) 
+
+### #is_/same_as :: [Yoga.personal](/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.personal.md) 
+
+### #is_/same_as :: [Yoga.secret](/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.secret.md)
+

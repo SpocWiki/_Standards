@@ -78,3 +78,22 @@ Commons_category: William Gilbert (physicist)
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Gilbert%20(physicist)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gilbert,William(Physicist)](/_Standards/Science/Physics/Physicist/Gilbert,William(Physicist).md) 
+
+### #is_/same_as :: [Gilbert,William(Physicist).public](/_public/Science/Physics/Physicist/Gilbert,William(Physicist).public.md) 
+
+### #is_/same_as :: [Gilbert,William(Physicist).internal](/_internal/Science/Physics/Physicist/Gilbert,William(Physicist).internal.md) 
+
+### #is_/same_as :: [Gilbert,William(Physicist).protect](/_protect/Science/Physics/Physicist/Gilbert,William(Physicist).protect.md) 
+
+### #is_/same_as :: [Gilbert,William(Physicist).private](/_private/Science/Physics/Physicist/Gilbert,William(Physicist).private.md) 
+
+### #is_/same_as :: [Gilbert,William(Physicist).personal](/_personal/Science/Physics/Physicist/Gilbert,William(Physicist).personal.md) 
+
+### #is_/same_as :: [Gilbert,William(Physicist).secret](/_secret/Science/Physics/Physicist/Gilbert,William(Physicist).secret.md)
+

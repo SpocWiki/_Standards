@@ -71,3 +71,22 @@ Commons_category: Smell
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sense%20of%20smell) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sense_of_Smell](/_Standards/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.md) 
+
+### #is_/same_as :: [Sense_of_Smell.public](/_public/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.public.md) 
+
+### #is_/same_as :: [Sense_of_Smell.internal](/_internal/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.internal.md) 
+
+### #is_/same_as :: [Sense_of_Smell.protect](/_protect/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.protect.md) 
+
+### #is_/same_as :: [Sense_of_Smell.private](/_private/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.private.md) 
+
+### #is_/same_as :: [Sense_of_Smell.personal](/_personal/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.personal.md) 
+
+### #is_/same_as :: [Sense_of_Smell.secret](/_secret/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.secret.md)
+

@@ -121,3 +121,22 @@ official_name: eBay Inc.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/EBay) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [EBay](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.md) 
+
+### #is_/same_as :: [EBay.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.public.md) 
+
+### #is_/same_as :: [EBay.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.internal.md) 
+
+### #is_/same_as :: [EBay.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.protect.md) 
+
+### #is_/same_as :: [EBay.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.private.md) 
+
+### #is_/same_as :: [EBay.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.personal.md) 
+
+### #is_/same_as :: [EBay.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/EBay.secret.md)
+

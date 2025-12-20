@@ -23,3 +23,22 @@ instance_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Van%20der%20Waals%20radius) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Van_der_Waals_Radius](/_Standards/Science/Physics/Atom/Van_der_Waals_Radius.md) 
+
+### #is_/same_as :: [Van_der_Waals_Radius.public](/_public/Science/Physics/Atom/Van_der_Waals_Radius.public.md) 
+
+### #is_/same_as :: [Van_der_Waals_Radius.internal](/_internal/Science/Physics/Atom/Van_der_Waals_Radius.internal.md) 
+
+### #is_/same_as :: [Van_der_Waals_Radius.protect](/_protect/Science/Physics/Atom/Van_der_Waals_Radius.protect.md) 
+
+### #is_/same_as :: [Van_der_Waals_Radius.private](/_private/Science/Physics/Atom/Van_der_Waals_Radius.private.md) 
+
+### #is_/same_as :: [Van_der_Waals_Radius.personal](/_personal/Science/Physics/Atom/Van_der_Waals_Radius.personal.md) 
+
+### #is_/same_as :: [Van_der_Waals_Radius.secret](/_secret/Science/Physics/Atom/Van_der_Waals_Radius.secret.md)
+

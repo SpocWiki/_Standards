@@ -58,3 +58,22 @@ Commons_category: Voting systems
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electoral%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electoral_System](/_Standards/Society/Politics/Political_Power/Electoral_System.md) 
+
+### #is_/same_as :: [Electoral_System.public](/_public/Society/Politics/Political_Power/Electoral_System.public.md) 
+
+### #is_/same_as :: [Electoral_System.internal](/_internal/Society/Politics/Political_Power/Electoral_System.internal.md) 
+
+### #is_/same_as :: [Electoral_System.protect](/_protect/Society/Politics/Political_Power/Electoral_System.protect.md) 
+
+### #is_/same_as :: [Electoral_System.private](/_private/Society/Politics/Political_Power/Electoral_System.private.md) 
+
+### #is_/same_as :: [Electoral_System.personal](/_personal/Society/Politics/Political_Power/Electoral_System.personal.md) 
+
+### #is_/same_as :: [Electoral_System.secret](/_secret/Society/Politics/Political_Power/Electoral_System.secret.md)
+

@@ -44,3 +44,22 @@ Commons_category: Cola drinks
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cola) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cola](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Cola.md) 
+
+### #is_/same_as :: [Cola.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Cola.public.md) 
+
+### #is_/same_as :: [Cola.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Cola.internal.md) 
+
+### #is_/same_as :: [Cola.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Cola.protect.md) 
+
+### #is_/same_as :: [Cola.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Cola.private.md) 
+
+### #is_/same_as :: [Cola.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Cola.personal.md) 
+
+### #is_/same_as :: [Cola.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Cola.secret.md)
+

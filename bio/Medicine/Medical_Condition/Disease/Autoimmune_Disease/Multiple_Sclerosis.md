@@ -182,3 +182,22 @@ subreddit: MultipleSclerosis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multiple%20sclerosis) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Multiple_Sclerosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.md) 
+
+### #is_/same_as :: [Multiple_Sclerosis.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.public.md) 
+
+### #is_/same_as :: [Multiple_Sclerosis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.internal.md) 
+
+### #is_/same_as :: [Multiple_Sclerosis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.protect.md) 
+
+### #is_/same_as :: [Multiple_Sclerosis.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.private.md) 
+
+### #is_/same_as :: [Multiple_Sclerosis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.personal.md) 
+
+### #is_/same_as :: [Multiple_Sclerosis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.secret.md)
+

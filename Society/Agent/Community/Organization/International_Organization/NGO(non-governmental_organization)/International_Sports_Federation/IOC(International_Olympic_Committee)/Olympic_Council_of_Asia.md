@@ -41,3 +41,22 @@ Commons_category: Olympic Council of Asia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Olympic%20Council%20of%20Asia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Olympic_Council_of_Asia](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.md) 
+
+### #is_/same_as :: [Olympic_Council_of_Asia.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.public.md) 
+
+### #is_/same_as :: [Olympic_Council_of_Asia.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.internal.md) 
+
+### #is_/same_as :: [Olympic_Council_of_Asia.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.protect.md) 
+
+### #is_/same_as :: [Olympic_Council_of_Asia.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.private.md) 
+
+### #is_/same_as :: [Olympic_Council_of_Asia.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.personal.md) 
+
+### #is_/same_as :: [Olympic_Council_of_Asia.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.secret.md)
+

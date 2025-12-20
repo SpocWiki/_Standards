@@ -50,3 +50,22 @@ Commons_gallery: Wushu (sport)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20martial%20arts) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wushu](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Wushu.md) 
+
+### #is_/same_as :: [Wushu.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Wushu.public.md) 
+
+### #is_/same_as :: [Wushu.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Wushu.internal.md) 
+
+### #is_/same_as :: [Wushu.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Wushu.protect.md) 
+
+### #is_/same_as :: [Wushu.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Wushu.private.md) 
+
+### #is_/same_as :: [Wushu.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Wushu.personal.md) 
+
+### #is_/same_as :: [Wushu.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Martial_Art/Wushu.secret.md)
+

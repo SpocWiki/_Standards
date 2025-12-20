@@ -31,3 +31,22 @@ instance_of: "[[_Standards/WikiData/WD~molecular_cloud,272447]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Formation%20and%20evolution%20of%20the%20Solar%20System) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Solar_Nebula](/_Standards/Astronomy/Solar_System/Solar_Nebula.md) 
+
+### #is_/same_as :: [Solar_Nebula.public](/_public/Astronomy/Solar_System/Solar_Nebula.public.md) 
+
+### #is_/same_as :: [Solar_Nebula.internal](/_internal/Astronomy/Solar_System/Solar_Nebula.internal.md) 
+
+### #is_/same_as :: [Solar_Nebula.protect](/_protect/Astronomy/Solar_System/Solar_Nebula.protect.md) 
+
+### #is_/same_as :: [Solar_Nebula.private](/_private/Astronomy/Solar_System/Solar_Nebula.private.md) 
+
+### #is_/same_as :: [Solar_Nebula.personal](/_personal/Astronomy/Solar_System/Solar_Nebula.personal.md) 
+
+### #is_/same_as :: [Solar_Nebula.secret](/_secret/Astronomy/Solar_System/Solar_Nebula.secret.md)
+

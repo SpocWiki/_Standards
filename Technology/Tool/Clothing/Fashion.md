@@ -76,3 +76,22 @@ Krugosvet_article_archived_: psikhologiya-i-pedagogika/moda
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fashion](/_Standards/Technology/Tool/Clothing/Fashion.md) 
+
+### #is_/same_as :: [Fashion.public](/_public/Technology/Tool/Clothing/Fashion.public.md) 
+
+### #is_/same_as :: [Fashion.internal](/_internal/Technology/Tool/Clothing/Fashion.internal.md) 
+
+### #is_/same_as :: [Fashion.protect](/_protect/Technology/Tool/Clothing/Fashion.protect.md) 
+
+### #is_/same_as :: [Fashion.private](/_private/Technology/Tool/Clothing/Fashion.private.md) 
+
+### #is_/same_as :: [Fashion.personal](/_personal/Technology/Tool/Clothing/Fashion.personal.md) 
+
+### #is_/same_as :: [Fashion.secret](/_secret/Technology/Tool/Clothing/Fashion.secret.md)
+

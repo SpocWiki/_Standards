@@ -55,3 +55,22 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinetic%20energy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kinetic_Energy](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.md) 
+
+### #is_/same_as :: [Kinetic_Energy.public](/_public/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.public.md) 
+
+### #is_/same_as :: [Kinetic_Energy.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.internal.md) 
+
+### #is_/same_as :: [Kinetic_Energy.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.protect.md) 
+
+### #is_/same_as :: [Kinetic_Energy.private](/_private/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.private.md) 
+
+### #is_/same_as :: [Kinetic_Energy.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.personal.md) 
+
+### #is_/same_as :: [Kinetic_Energy.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.secret.md)
+

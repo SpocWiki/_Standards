@@ -101,3 +101,22 @@ Libris_URI: 31fhk94m0s4wkg7
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Michelangelo%20Antonioni) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Antonioni,Michelangelo](/_Standards/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.md) 
+
+### #is_/same_as :: [Antonioni,Michelangelo.public](/_public/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.public.md) 
+
+### #is_/same_as :: [Antonioni,Michelangelo.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.internal.md) 
+
+### #is_/same_as :: [Antonioni,Michelangelo.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.protect.md) 
+
+### #is_/same_as :: [Antonioni,Michelangelo.private](/_private/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.private.md) 
+
+### #is_/same_as :: [Antonioni,Michelangelo.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.personal.md) 
+
+### #is_/same_as :: [Antonioni,Michelangelo.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Antonioni,Michelangelo.secret.md)
+

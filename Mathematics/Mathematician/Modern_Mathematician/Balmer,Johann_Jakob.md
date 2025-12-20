@@ -50,3 +50,22 @@ name_in_native_language: Johann Jakob Balmer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Jakob%20Balmer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Balmer,Johann_Jakob](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.md) 
+
+### #is_/same_as :: [Balmer,Johann_Jakob.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.public.md) 
+
+### #is_/same_as :: [Balmer,Johann_Jakob.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.internal.md) 
+
+### #is_/same_as :: [Balmer,Johann_Jakob.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.protect.md) 
+
+### #is_/same_as :: [Balmer,Johann_Jakob.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.private.md) 
+
+### #is_/same_as :: [Balmer,Johann_Jakob.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.personal.md) 
+
+### #is_/same_as :: [Balmer,Johann_Jakob.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.secret.md)
+

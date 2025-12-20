@@ -98,3 +98,22 @@ Commons_category: Foot-and-mouth disease
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Foot-and-mouth%20disease) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hoof-and-Mouth_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.md) 
+
+### #is_/same_as :: [Hoof-and-Mouth_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.public.md) 
+
+### #is_/same_as :: [Hoof-and-Mouth_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.internal.md) 
+
+### #is_/same_as :: [Hoof-and-Mouth_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.protect.md) 
+
+### #is_/same_as :: [Hoof-and-Mouth_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.private.md) 
+
+### #is_/same_as :: [Hoof-and-Mouth_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.personal.md) 
+
+### #is_/same_as :: [Hoof-and-Mouth_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.secret.md)
+

@@ -43,17 +43,17 @@ Specifies that product returns are not permitted.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merchant_Return_Not_Permitted](Merchant_Return_Not_Permitted.md) 
+### #is_/same_as :: [Merchant_Return_Not_Permitted](/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.md) 
 
-### #is_/same_as :: [merchant_return_not_permitted.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.public.md) 
+### #is_/same_as :: [Merchant_Return_Not_Permitted.public](/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.public.md) 
 
-### #is_/same_as :: [merchant_return_not_permitted.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.internal.md) 
+### #is_/same_as :: [Merchant_Return_Not_Permitted.internal](/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.internal.md) 
 
-### #is_/same_as :: [merchant_return_not_permitted.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.protect.md) 
+### #is_/same_as :: [Merchant_Return_Not_Permitted.protect](/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.protect.md) 
 
-### #is_/same_as :: [merchant_return_not_permitted.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.private.md) 
+### #is_/same_as :: [Merchant_Return_Not_Permitted.private](/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.private.md) 
 
-### #is_/same_as :: [merchant_return_not_permitted.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.personal.md) 
+### #is_/same_as :: [Merchant_Return_Not_Permitted.personal](/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.personal.md) 
 
-### #is_/same_as :: [merchant_return_not_permitted.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.secret.md)
+### #is_/same_as :: [Merchant_Return_Not_Permitted.secret](/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.secret.md)
 

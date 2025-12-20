@@ -45,3 +45,22 @@ Commons_category: Sea and land breezes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20breeze) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sea_Breeze](/_Standards/Earth/Climate/Weather/Sea_Breeze.md) 
+
+### #is_/same_as :: [Sea_Breeze.public](/_public/Earth/Climate/Weather/Sea_Breeze.public.md) 
+
+### #is_/same_as :: [Sea_Breeze.internal](/_internal/Earth/Climate/Weather/Sea_Breeze.internal.md) 
+
+### #is_/same_as :: [Sea_Breeze.protect](/_protect/Earth/Climate/Weather/Sea_Breeze.protect.md) 
+
+### #is_/same_as :: [Sea_Breeze.private](/_private/Earth/Climate/Weather/Sea_Breeze.private.md) 
+
+### #is_/same_as :: [Sea_Breeze.personal](/_personal/Earth/Climate/Weather/Sea_Breeze.personal.md) 
+
+### #is_/same_as :: [Sea_Breeze.secret](/_secret/Earth/Climate/Weather/Sea_Breeze.secret.md)
+

@@ -53,3 +53,22 @@ Commons_gallery: Cultivator
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cultivator) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cultivator](/_Standards/Society/Economics/Industry/Agriculture/Cultivator.md) 
+
+### #is_/same_as :: [Cultivator.public](/_public/Society/Economics/Industry/Agriculture/Cultivator.public.md) 
+
+### #is_/same_as :: [Cultivator.internal](/_internal/Society/Economics/Industry/Agriculture/Cultivator.internal.md) 
+
+### #is_/same_as :: [Cultivator.protect](/_protect/Society/Economics/Industry/Agriculture/Cultivator.protect.md) 
+
+### #is_/same_as :: [Cultivator.private](/_private/Society/Economics/Industry/Agriculture/Cultivator.private.md) 
+
+### #is_/same_as :: [Cultivator.personal](/_personal/Society/Economics/Industry/Agriculture/Cultivator.personal.md) 
+
+### #is_/same_as :: [Cultivator.secret](/_secret/Society/Economics/Industry/Agriculture/Cultivator.secret.md)
+

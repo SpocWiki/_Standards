@@ -63,3 +63,22 @@ date_of_birth: 1500-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hernando%20de%20Soto) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Soto,Hernando_de](/_Standards/Earth/Explorer/Age_of_Discovery/Soto,Hernando_de.md) 
+
+### #is_/same_as :: [Soto,Hernando_de.public](/_public/Earth/Explorer/Age_of_Discovery/Soto,Hernando_de.public.md) 
+
+### #is_/same_as :: [Soto,Hernando_de.internal](/_internal/Earth/Explorer/Age_of_Discovery/Soto,Hernando_de.internal.md) 
+
+### #is_/same_as :: [Soto,Hernando_de.protect](/_protect/Earth/Explorer/Age_of_Discovery/Soto,Hernando_de.protect.md) 
+
+### #is_/same_as :: [Soto,Hernando_de.private](/_private/Earth/Explorer/Age_of_Discovery/Soto,Hernando_de.private.md) 
+
+### #is_/same_as :: [Soto,Hernando_de.personal](/_personal/Earth/Explorer/Age_of_Discovery/Soto,Hernando_de.personal.md) 
+
+### #is_/same_as :: [Soto,Hernando_de.secret](/_secret/Earth/Explorer/Age_of_Discovery/Soto,Hernando_de.secret.md)
+

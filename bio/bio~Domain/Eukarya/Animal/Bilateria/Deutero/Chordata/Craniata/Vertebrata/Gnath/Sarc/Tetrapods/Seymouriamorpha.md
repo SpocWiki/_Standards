@@ -314,7 +314,7 @@ seymouriamorphs in Xinjiang, China. Vertebrata PalAsiatica 22: 294-304.
   Location ::           Texas
   Reference            Reproduced from White, T. E. 1939. Osteology of Seymouria baylorensis Broili. Bulletin of the Museum of Comparative Zoology 85:325-409.
   Specimen Condition   Fossil \-- Period: Lower Permian
-  ------------------------------------------------
+  ------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

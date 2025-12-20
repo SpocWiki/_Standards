@@ -80,3 +80,22 @@ name_in_native_language: Μήδεια
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Medea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medea](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.md) 
+
+### #is_/same_as :: [Medea.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.public.md) 
+
+### #is_/same_as :: [Medea.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.internal.md) 
+
+### #is_/same_as :: [Medea.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.protect.md) 
+
+### #is_/same_as :: [Medea.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.private.md) 
+
+### #is_/same_as :: [Medea.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.personal.md) 
+
+### #is_/same_as :: [Medea.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Medea.secret.md)
+

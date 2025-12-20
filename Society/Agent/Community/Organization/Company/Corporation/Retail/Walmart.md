@@ -169,3 +169,22 @@ motto_text: Save money. Live better.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Walmart) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Walmart](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.md) 
+
+### #is_/same_as :: [Walmart.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.public.md) 
+
+### #is_/same_as :: [Walmart.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.internal.md) 
+
+### #is_/same_as :: [Walmart.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.protect.md) 
+
+### #is_/same_as :: [Walmart.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.private.md) 
+
+### #is_/same_as :: [Walmart.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.personal.md) 
+
+### #is_/same_as :: [Walmart.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.secret.md)
+

@@ -34,3 +34,22 @@ Commons_category: Ions
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionization) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ionization](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization.md) 
+
+### #is_/same_as :: [Ionization.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization.public.md) 
+
+### #is_/same_as :: [Ionization.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization.internal.md) 
+
+### #is_/same_as :: [Ionization.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization.protect.md) 
+
+### #is_/same_as :: [Ionization.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization.private.md) 
+
+### #is_/same_as :: [Ionization.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization.personal.md) 
+
+### #is_/same_as :: [Ionization.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization.secret.md)
+

@@ -35,3 +35,22 @@ This corresponds to a relational Design, AOP, SOA and Microservices.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ECP(Entity Component System)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).md) 
+
+### #is_/same_as :: [ECP(Entity Component System).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).public.md) 
+
+### #is_/same_as :: [ECP(Entity Component System).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).internal.md) 
+
+### #is_/same_as :: [ECP(Entity Component System).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).protect.md) 
+
+### #is_/same_as :: [ECP(Entity Component System).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).private.md) 
+
+### #is_/same_as :: [ECP(Entity Component System).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).personal.md) 
+
+### #is_/same_as :: [ECP(Entity Component System).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/ECP(Entity Component System).secret.md)
+

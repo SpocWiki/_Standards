@@ -68,6 +68,7 @@ Baidu_Tieba_name: 密码
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cryptography)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cryptography](/_Standards/Technology/IT/Cryptography.md) 

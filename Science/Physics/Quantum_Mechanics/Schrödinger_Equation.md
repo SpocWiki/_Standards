@@ -115,3 +115,22 @@ Some theories beyond the Standard Model propose more scalar (spin-0) particles:
 | **Supersymmetric partners of fermions (sfermions)** | Supersymmetry (SUSY)                | Scalar superpartners of quarks & leptons               |
 | **Moduli fields**                                   | String theory                       | Scalar fields determining geometry of extra dimensions |
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schrödinger_Equation](/_Standards/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.md) 
+
+### #is_/same_as :: [Schrödinger_Equation.public](/_public/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.public.md) 
+
+### #is_/same_as :: [Schrödinger_Equation.internal](/_internal/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.internal.md) 
+
+### #is_/same_as :: [Schrödinger_Equation.protect](/_protect/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.protect.md) 
+
+### #is_/same_as :: [Schrödinger_Equation.private](/_private/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.private.md) 
+
+### #is_/same_as :: [Schrödinger_Equation.personal](/_personal/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.personal.md) 
+
+### #is_/same_as :: [Schrödinger_Equation.secret](/_secret/Science/Physics/Quantum_Mechanics/Schrödinger_Equation.secret.md)
+

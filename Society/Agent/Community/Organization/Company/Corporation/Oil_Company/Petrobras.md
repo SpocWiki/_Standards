@@ -89,3 +89,22 @@ motto_text:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Petrobras) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Petrobras](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.md) 
+
+### #is_/same_as :: [Petrobras.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.public.md) 
+
+### #is_/same_as :: [Petrobras.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.internal.md) 
+
+### #is_/same_as :: [Petrobras.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.protect.md) 
+
+### #is_/same_as :: [Petrobras.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.private.md) 
+
+### #is_/same_as :: [Petrobras.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.personal.md) 
+
+### #is_/same_as :: [Petrobras.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Oil_Company/Petrobras.secret.md)
+

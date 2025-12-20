@@ -80,3 +80,22 @@ Dewey_Decimal_Classification: "516.156"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sphere) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sphere](/_Standards/Mathematics/Geometry/Geometry-3D/Sphere.md) 
+
+### #is_/same_as :: [Sphere.public](/_public/Mathematics/Geometry/Geometry-3D/Sphere.public.md) 
+
+### #is_/same_as :: [Sphere.internal](/_internal/Mathematics/Geometry/Geometry-3D/Sphere.internal.md) 
+
+### #is_/same_as :: [Sphere.protect](/_protect/Mathematics/Geometry/Geometry-3D/Sphere.protect.md) 
+
+### #is_/same_as :: [Sphere.private](/_private/Mathematics/Geometry/Geometry-3D/Sphere.private.md) 
+
+### #is_/same_as :: [Sphere.personal](/_personal/Mathematics/Geometry/Geometry-3D/Sphere.personal.md) 
+
+### #is_/same_as :: [Sphere.secret](/_secret/Mathematics/Geometry/Geometry-3D/Sphere.secret.md)
+

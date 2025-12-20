@@ -72,3 +72,22 @@ ISNI: "0000000109184393"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Georges%20Danton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Danton,Georges](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.md) 
+
+### #is_/same_as :: [Danton,Georges.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.public.md) 
+
+### #is_/same_as :: [Danton,Georges.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.internal.md) 
+
+### #is_/same_as :: [Danton,Georges.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.protect.md) 
+
+### #is_/same_as :: [Danton,Georges.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.private.md) 
+
+### #is_/same_as :: [Danton,Georges.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.personal.md) 
+
+### #is_/same_as :: [Danton,Georges.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.secret.md)
+

@@ -89,7 +89,7 @@ Figure 1. **Eligmodontia typus** copyright © Oliver Pearson 1997.
 
   ---------
   Copyright ::   © 1997 Oliver Pearson
-  ---------
+  ---------
 
 
 ## Confidential Links & Embeds: 

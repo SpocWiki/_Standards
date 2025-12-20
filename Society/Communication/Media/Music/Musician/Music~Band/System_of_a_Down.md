@@ -75,3 +75,22 @@ VK_username: soad_band
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/System%20of%20a%20Down) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [System_of_a_Down](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.md) 
+
+### #is_/same_as :: [System_of_a_Down.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.public.md) 
+
+### #is_/same_as :: [System_of_a_Down.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.internal.md) 
+
+### #is_/same_as :: [System_of_a_Down.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.protect.md) 
+
+### #is_/same_as :: [System_of_a_Down.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.private.md) 
+
+### #is_/same_as :: [System_of_a_Down.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.personal.md) 
+
+### #is_/same_as :: [System_of_a_Down.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/System_of_a_Down.secret.md)
+

@@ -61,3 +61,22 @@ Krugosvet_article: muzyka/kamernaya-muzyka
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chamber%20music) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chamber_music](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Chamber_music.md) 
+
+### #is_/same_as :: [Chamber_music.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Chamber_music.public.md) 
+
+### #is_/same_as :: [Chamber_music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Chamber_music.internal.md) 
+
+### #is_/same_as :: [Chamber_music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Chamber_music.protect.md) 
+
+### #is_/same_as :: [Chamber_music.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Chamber_music.private.md) 
+
+### #is_/same_as :: [Chamber_music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Chamber_music.personal.md) 
+
+### #is_/same_as :: [Chamber_music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Chamber_music.secret.md)
+

@@ -47,3 +47,22 @@ Dewey_Decimal_Classification: "133.32424"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tarot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tarot](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot.md) 
+
+### #is_/same_as :: [Tarot.public](/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot.public.md) 
+
+### #is_/same_as :: [Tarot.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot.internal.md) 
+
+### #is_/same_as :: [Tarot.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot.protect.md) 
+
+### #is_/same_as :: [Tarot.private](/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot.private.md) 
+
+### #is_/same_as :: [Tarot.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot.personal.md) 
+
+### #is_/same_as :: [Tarot.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot.secret.md)
+

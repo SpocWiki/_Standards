@@ -126,3 +126,22 @@ date_of_birth: 1921-07-18T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Glenn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Glenn,John](/_Standards/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.md) 
+
+### #is_/same_as :: [Glenn,John.public](/_public/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.public.md) 
+
+### #is_/same_as :: [Glenn,John.internal](/_internal/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.internal.md) 
+
+### #is_/same_as :: [Glenn,John.protect](/_protect/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.protect.md) 
+
+### #is_/same_as :: [Glenn,John.private](/_private/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.private.md) 
+
+### #is_/same_as :: [Glenn,John.personal](/_personal/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.personal.md) 
+
+### #is_/same_as :: [Glenn,John.secret](/_secret/Technology/Spaceflight/Astronautics/Astronaut/Glenn,John.secret.md)
+

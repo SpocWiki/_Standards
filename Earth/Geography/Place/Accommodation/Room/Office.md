@@ -42,3 +42,22 @@ Provenio_UUID: b8aec14d-dd22-418a-8f9b-dc9602f977d9
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Office) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Office](/_Standards/Earth/Geography/Place/Accommodation/Room/Office.md) 
+
+### #is_/same_as :: [Office.public](/_public/Earth/Geography/Place/Accommodation/Room/Office.public.md) 
+
+### #is_/same_as :: [Office.internal](/_internal/Earth/Geography/Place/Accommodation/Room/Office.internal.md) 
+
+### #is_/same_as :: [Office.protect](/_protect/Earth/Geography/Place/Accommodation/Room/Office.protect.md) 
+
+### #is_/same_as :: [Office.private](/_private/Earth/Geography/Place/Accommodation/Room/Office.private.md) 
+
+### #is_/same_as :: [Office.personal](/_personal/Earth/Geography/Place/Accommodation/Room/Office.personal.md) 
+
+### #is_/same_as :: [Office.secret](/_secret/Earth/Geography/Place/Accommodation/Room/Office.secret.md)
+

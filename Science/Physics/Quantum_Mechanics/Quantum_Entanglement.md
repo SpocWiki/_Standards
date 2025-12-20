@@ -78,3 +78,22 @@ Commons_category: Quantum entanglement
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20entanglement) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quantum_Entanglement](/_Standards/Science/Physics/Quantum_Mechanics/Quantum_Entanglement.md) 
+
+### #is_/same_as :: [Quantum_Entanglement.public](/_public/Science/Physics/Quantum_Mechanics/Quantum_Entanglement.public.md) 
+
+### #is_/same_as :: [Quantum_Entanglement.internal](/_internal/Science/Physics/Quantum_Mechanics/Quantum_Entanglement.internal.md) 
+
+### #is_/same_as :: [Quantum_Entanglement.protect](/_protect/Science/Physics/Quantum_Mechanics/Quantum_Entanglement.protect.md) 
+
+### #is_/same_as :: [Quantum_Entanglement.private](/_private/Science/Physics/Quantum_Mechanics/Quantum_Entanglement.private.md) 
+
+### #is_/same_as :: [Quantum_Entanglement.personal](/_personal/Science/Physics/Quantum_Mechanics/Quantum_Entanglement.personal.md) 
+
+### #is_/same_as :: [Quantum_Entanglement.secret](/_secret/Science/Physics/Quantum_Mechanics/Quantum_Entanglement.secret.md)
+

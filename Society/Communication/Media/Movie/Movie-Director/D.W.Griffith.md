@@ -39,3 +39,21 @@ has_id_wikidata: Q51123
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/D.%20W.%20Griffith) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [D.W.Griffith](/_Standards/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.md) 
+
+### #is_/same_as :: [D.W.Griffith.public](/_public/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.public.md) 
+
+### #is_/same_as :: [D.W.Griffith.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.internal.md) 
+
+### #is_/same_as :: [D.W.Griffith.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.protect.md) 
+
+### #is_/same_as :: [D.W.Griffith.private](/_private/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.private.md) 
+
+### #is_/same_as :: [D.W.Griffith.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.personal.md) 
+
+### #is_/same_as :: [D.W.Griffith.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/D.W.Griffith.secret.md)
+

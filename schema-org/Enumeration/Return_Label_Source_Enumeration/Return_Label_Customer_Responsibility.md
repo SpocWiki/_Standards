@@ -42,17 +42,17 @@ Indicated that creating a return label is the responsibility of the customer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Label_Customer_Responsibility](Return_Label_Customer_Responsibility.md) 
+### #is_/same_as :: [Return_Label_Customer_Responsibility](/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.md) 
 
-### #is_/same_as :: [return_label_customer_responsibility.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.public.md) 
+### #is_/same_as :: [Return_Label_Customer_Responsibility.public](/_public/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.public.md) 
 
-### #is_/same_as :: [return_label_customer_responsibility.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.internal.md) 
+### #is_/same_as :: [Return_Label_Customer_Responsibility.internal](/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.internal.md) 
 
-### #is_/same_as :: [return_label_customer_responsibility.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.protect.md) 
+### #is_/same_as :: [Return_Label_Customer_Responsibility.protect](/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.protect.md) 
 
-### #is_/same_as :: [return_label_customer_responsibility.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.private.md) 
+### #is_/same_as :: [Return_Label_Customer_Responsibility.private](/_private/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.private.md) 
 
-### #is_/same_as :: [return_label_customer_responsibility.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.personal.md) 
+### #is_/same_as :: [Return_Label_Customer_Responsibility.personal](/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.personal.md) 
 
-### #is_/same_as :: [return_label_customer_responsibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.secret.md)
+### #is_/same_as :: [Return_Label_Customer_Responsibility.secret](/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility.secret.md)
 

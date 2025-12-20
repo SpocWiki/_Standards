@@ -96,3 +96,22 @@ IPTC_NewsCode: mediatopic/20000942
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gymnastics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gymnastics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.md) 
+
+### #is_/same_as :: [Gymnastics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.public.md) 
+
+### #is_/same_as :: [Gymnastics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.internal.md) 
+
+### #is_/same_as :: [Gymnastics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.protect.md) 
+
+### #is_/same_as :: [Gymnastics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.private.md) 
+
+### #is_/same_as :: [Gymnastics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.personal.md) 
+
+### #is_/same_as :: [Gymnastics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics.secret.md)
+

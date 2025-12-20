@@ -282,3 +282,22 @@ Europeana_entity: agent/base/56427
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89douard%20Manet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Manet,Édouard](/_Standards/Society/Communication/Media/Painting/Painter/Manet,Édouard.md) 
+
+### #is_/same_as :: [Manet,Édouard.public](/_public/Society/Communication/Media/Painting/Painter/Manet,Édouard.public.md) 
+
+### #is_/same_as :: [Manet,Édouard.internal](/_internal/Society/Communication/Media/Painting/Painter/Manet,Édouard.internal.md) 
+
+### #is_/same_as :: [Manet,Édouard.protect](/_protect/Society/Communication/Media/Painting/Painter/Manet,Édouard.protect.md) 
+
+### #is_/same_as :: [Manet,Édouard.private](/_private/Society/Communication/Media/Painting/Painter/Manet,Édouard.private.md) 
+
+### #is_/same_as :: [Manet,Édouard.personal](/_personal/Society/Communication/Media/Painting/Painter/Manet,Édouard.personal.md) 
+
+### #is_/same_as :: [Manet,Édouard.secret](/_secret/Society/Communication/Media/Painting/Painter/Manet,Édouard.secret.md)
+

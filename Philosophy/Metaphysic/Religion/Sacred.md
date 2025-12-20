@@ -41,3 +41,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sacredness) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sacred](/_Standards/Philosophy/Metaphysic/Religion/Sacred.md) 
+
+### #is_/same_as :: [Sacred.public](/_public/Philosophy/Metaphysic/Religion/Sacred.public.md) 
+
+### #is_/same_as :: [Sacred.internal](/_internal/Philosophy/Metaphysic/Religion/Sacred.internal.md) 
+
+### #is_/same_as :: [Sacred.protect](/_protect/Philosophy/Metaphysic/Religion/Sacred.protect.md) 
+
+### #is_/same_as :: [Sacred.private](/_private/Philosophy/Metaphysic/Religion/Sacred.private.md) 
+
+### #is_/same_as :: [Sacred.personal](/_personal/Philosophy/Metaphysic/Religion/Sacred.personal.md) 
+
+### #is_/same_as :: [Sacred.secret](/_secret/Philosophy/Metaphysic/Religion/Sacred.secret.md)
+

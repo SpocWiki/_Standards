@@ -71,3 +71,22 @@ Commons_category: Real numbers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Real%20number) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Real_Number](/_Standards/Mathematics/Number/Real_Number.md) 
+
+### #is_/same_as :: [Real_Number.public](/_public/Mathematics/Number/Real_Number.public.md) 
+
+### #is_/same_as :: [Real_Number.internal](/_internal/Mathematics/Number/Real_Number.internal.md) 
+
+### #is_/same_as :: [Real_Number.protect](/_protect/Mathematics/Number/Real_Number.protect.md) 
+
+### #is_/same_as :: [Real_Number.private](/_private/Mathematics/Number/Real_Number.private.md) 
+
+### #is_/same_as :: [Real_Number.personal](/_personal/Mathematics/Number/Real_Number.personal.md) 
+
+### #is_/same_as :: [Real_Number.secret](/_secret/Mathematics/Number/Real_Number.secret.md)
+

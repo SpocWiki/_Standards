@@ -92,3 +92,22 @@ ISNI: 000000012144141X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thucydides) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thucydides](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Thucydides.md) 
+
+### #is_/same_as :: [Thucydides.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Thucydides.public.md) 
+
+### #is_/same_as :: [Thucydides.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Thucydides.internal.md) 
+
+### #is_/same_as :: [Thucydides.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Thucydides.protect.md) 
+
+### #is_/same_as :: [Thucydides.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Thucydides.private.md) 
+
+### #is_/same_as :: [Thucydides.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Thucydides.personal.md) 
+
+### #is_/same_as :: [Thucydides.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Thucydides.secret.md)
+

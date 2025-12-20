@@ -104,17 +104,17 @@ UNII: MNQ4O4WSI1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ytterbium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Ytterbium.md) 
+### #is_/same_as :: [Ytterbium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Ytterbium.md) 
 
-### #is_/same_as :: [Ytterbium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Ytterbium.public.md) 
+### #is_/same_as :: [Ytterbium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Ytterbium.public.md) 
 
-### #is_/same_as :: [Ytterbium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Ytterbium.internal.md) 
+### #is_/same_as :: [Ytterbium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.internal.md) 
 
-### #is_/same_as :: [Ytterbium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Ytterbium.protect.md) 
+### #is_/same_as :: [Ytterbium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Ytterbium.protect.md) 
 
-### #is_/same_as :: [Ytterbium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Ytterbium.private.md) 
+### #is_/same_as :: [Ytterbium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Ytterbium.private.md) 
 
-### #is_/same_as :: [Ytterbium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Ytterbium.personal.md) 
+### #is_/same_as :: [Ytterbium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.personal.md) 
 
-### #is_/same_as :: [Ytterbium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Ytterbium.secret.md)
+### #is_/same_as :: [Ytterbium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Ytterbium.secret.md)
 

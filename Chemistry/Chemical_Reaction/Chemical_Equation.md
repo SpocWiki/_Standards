@@ -37,3 +37,22 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_URAVNENIE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20equation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chemical_Equation](/_Standards/Chemistry/Chemical_Reaction/Chemical_Equation.md) 
+
+### #is_/same_as :: [Chemical_Equation.public](/_public/Chemistry/Chemical_Reaction/Chemical_Equation.public.md) 
+
+### #is_/same_as :: [Chemical_Equation.internal](/_internal/Chemistry/Chemical_Reaction/Chemical_Equation.internal.md) 
+
+### #is_/same_as :: [Chemical_Equation.protect](/_protect/Chemistry/Chemical_Reaction/Chemical_Equation.protect.md) 
+
+### #is_/same_as :: [Chemical_Equation.private](/_private/Chemistry/Chemical_Reaction/Chemical_Equation.private.md) 
+
+### #is_/same_as :: [Chemical_Equation.personal](/_personal/Chemistry/Chemical_Reaction/Chemical_Equation.personal.md) 
+
+### #is_/same_as :: [Chemical_Equation.secret](/_secret/Chemistry/Chemical_Reaction/Chemical_Equation.secret.md)
+

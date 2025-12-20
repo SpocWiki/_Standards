@@ -147,3 +147,22 @@ Instagram_username: franzbeckenbauer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Beckenbauer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beckenbauer,Franz](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckenbauer,Franz.md) 
+
+### #is_/same_as :: [Beckenbauer,Franz.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckenbauer,Franz.public.md) 
+
+### #is_/same_as :: [Beckenbauer,Franz.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckenbauer,Franz.internal.md) 
+
+### #is_/same_as :: [Beckenbauer,Franz.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckenbauer,Franz.protect.md) 
+
+### #is_/same_as :: [Beckenbauer,Franz.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckenbauer,Franz.private.md) 
+
+### #is_/same_as :: [Beckenbauer,Franz.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckenbauer,Franz.personal.md) 
+
+### #is_/same_as :: [Beckenbauer,Franz.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Beckenbauer,Franz.secret.md)
+

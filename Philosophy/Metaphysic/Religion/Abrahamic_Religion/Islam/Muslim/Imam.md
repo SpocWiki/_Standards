@@ -56,3 +56,22 @@ female_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Imam) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Imam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Imam.md) 
+
+### #is_/same_as :: [Imam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Imam.public.md) 
+
+### #is_/same_as :: [Imam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Imam.internal.md) 
+
+### #is_/same_as :: [Imam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Imam.protect.md) 
+
+### #is_/same_as :: [Imam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Imam.private.md) 
+
+### #is_/same_as :: [Imam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Imam.personal.md) 
+
+### #is_/same_as :: [Imam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Imam.secret.md)
+

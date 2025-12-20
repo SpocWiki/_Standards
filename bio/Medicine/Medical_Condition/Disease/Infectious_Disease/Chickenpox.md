@@ -23,3 +23,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chickenpox) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chickenpox](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Chickenpox.md) 
+
+### #is_/same_as :: [Chickenpox.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Chickenpox.public.md) 
+
+### #is_/same_as :: [Chickenpox.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Chickenpox.internal.md) 
+
+### #is_/same_as :: [Chickenpox.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Chickenpox.protect.md) 
+
+### #is_/same_as :: [Chickenpox.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Chickenpox.private.md) 
+
+### #is_/same_as :: [Chickenpox.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Chickenpox.personal.md) 
+
+### #is_/same_as :: [Chickenpox.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Chickenpox.secret.md)
+

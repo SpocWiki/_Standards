@@ -12,3 +12,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mechanical_Tool](/_Standards/Technology/Tool/Mechanical_Tool.md) 
+
+### #is_/same_as :: [Mechanical_Tool.public](/_public/Technology/Tool/Mechanical_Tool.public.md) 
+
+### #is_/same_as :: [Mechanical_Tool.internal](/_internal/Technology/Tool/Mechanical_Tool.internal.md) 
+
+### #is_/same_as :: [Mechanical_Tool.protect](/_protect/Technology/Tool/Mechanical_Tool.protect.md) 
+
+### #is_/same_as :: [Mechanical_Tool.private](/_private/Technology/Tool/Mechanical_Tool.private.md) 
+
+### #is_/same_as :: [Mechanical_Tool.personal](/_personal/Technology/Tool/Mechanical_Tool.personal.md) 
+
+### #is_/same_as :: [Mechanical_Tool.secret](/_secret/Technology/Tool/Mechanical_Tool.secret.md)
+

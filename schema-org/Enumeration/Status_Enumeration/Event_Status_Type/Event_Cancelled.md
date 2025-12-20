@@ -40,17 +40,17 @@ The event has been cancelled. If the event has multiple startDate values, all ar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Cancelled](Event_Cancelled.md) 
+### #is_/same_as :: [Event_Cancelled](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.md) 
 
-### #is_/same_as :: [event_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.public.md) 
+### #is_/same_as :: [Event_Cancelled.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.public.md) 
 
-### #is_/same_as :: [event_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal.md) 
+### #is_/same_as :: [Event_Cancelled.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.internal.md) 
 
-### #is_/same_as :: [event_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.protect.md) 
+### #is_/same_as :: [Event_Cancelled.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.protect.md) 
 
-### #is_/same_as :: [event_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.private.md) 
+### #is_/same_as :: [Event_Cancelled.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.private.md) 
 
-### #is_/same_as :: [event_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal.md) 
+### #is_/same_as :: [Event_Cancelled.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.personal.md) 
 
-### #is_/same_as :: [event_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md)
+### #is_/same_as :: [Event_Cancelled.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.secret.md)
 

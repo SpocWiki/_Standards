@@ -104,3 +104,22 @@ Gujarati_Vishwakosh_entry: ઊડિયા-ભાષા-અને-સાહિ�
 > [Wikipedia](https://en.wikipedia.org/wiki/Odia%20language) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [lang-ori](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.md) 
+
+### #is_/same_as :: [lang-ori.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.public.md) 
+
+### #is_/same_as :: [lang-ori.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.internal.md) 
+
+### #is_/same_as :: [lang-ori.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.protect.md) 
+
+### #is_/same_as :: [lang-ori.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.private.md) 
+
+### #is_/same_as :: [lang-ori.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.personal.md) 
+
+### #is_/same_as :: [lang-ori.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/lang-ori.secret.md)
+

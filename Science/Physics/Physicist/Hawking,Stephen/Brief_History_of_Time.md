@@ -55,3 +55,22 @@ subtitle: From the Big Bang to Black Holes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/A%20Brief%20History%20of%20Time) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brief_History_of_Time](/_Standards/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.md) 
+
+### #is_/same_as :: [Brief_History_of_Time.public](/_public/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.public.md) 
+
+### #is_/same_as :: [Brief_History_of_Time.internal](/_internal/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.internal.md) 
+
+### #is_/same_as :: [Brief_History_of_Time.protect](/_protect/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.protect.md) 
+
+### #is_/same_as :: [Brief_History_of_Time.private](/_private/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.private.md) 
+
+### #is_/same_as :: [Brief_History_of_Time.personal](/_personal/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.personal.md) 
+
+### #is_/same_as :: [Brief_History_of_Time.secret](/_secret/Science/Physics/Physicist/Hawking,Stephen/Brief_History_of_Time.secret.md)
+

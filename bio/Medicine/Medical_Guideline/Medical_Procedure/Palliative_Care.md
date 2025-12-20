@@ -52,3 +52,22 @@ OpenStreetMap_tag: healthcare:speciality=palliative
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palliative%20care) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Palliative_Care](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.md) 
+
+### #is_/same_as :: [Palliative_Care.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.public.md) 
+
+### #is_/same_as :: [Palliative_Care.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.internal.md) 
+
+### #is_/same_as :: [Palliative_Care.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.protect.md) 
+
+### #is_/same_as :: [Palliative_Care.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.private.md) 
+
+### #is_/same_as :: [Palliative_Care.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.personal.md) 
+
+### #is_/same_as :: [Palliative_Care.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Palliative_Care.secret.md)
+

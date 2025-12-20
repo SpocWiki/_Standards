@@ -63,3 +63,22 @@ Commons_category: Mode (statistics)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mode](/_Standards/Mathematics/Statistics/Probability/Mode.md) 
+
+### #is_/same_as :: [Mode.public](/_public/Mathematics/Statistics/Probability/Mode.public.md) 
+
+### #is_/same_as :: [Mode.internal](/_internal/Mathematics/Statistics/Probability/Mode.internal.md) 
+
+### #is_/same_as :: [Mode.protect](/_protect/Mathematics/Statistics/Probability/Mode.protect.md) 
+
+### #is_/same_as :: [Mode.private](/_private/Mathematics/Statistics/Probability/Mode.private.md) 
+
+### #is_/same_as :: [Mode.personal](/_personal/Mathematics/Statistics/Probability/Mode.personal.md) 
+
+### #is_/same_as :: [Mode.secret](/_secret/Mathematics/Statistics/Probability/Mode.secret.md)
+

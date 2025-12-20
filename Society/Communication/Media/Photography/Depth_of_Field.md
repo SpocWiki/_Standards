@@ -22,3 +22,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Depth%20of%20field%20f
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Depth%20of%20field) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Depth_of_Field](/_Standards/Society/Communication/Media/Photography/Depth_of_Field.md) 
+
+### #is_/same_as :: [Depth_of_Field.public](/_public/Society/Communication/Media/Photography/Depth_of_Field.public.md) 
+
+### #is_/same_as :: [Depth_of_Field.internal](/_internal/Society/Communication/Media/Photography/Depth_of_Field.internal.md) 
+
+### #is_/same_as :: [Depth_of_Field.protect](/_protect/Society/Communication/Media/Photography/Depth_of_Field.protect.md) 
+
+### #is_/same_as :: [Depth_of_Field.private](/_private/Society/Communication/Media/Photography/Depth_of_Field.private.md) 
+
+### #is_/same_as :: [Depth_of_Field.personal](/_personal/Society/Communication/Media/Photography/Depth_of_Field.personal.md) 
+
+### #is_/same_as :: [Depth_of_Field.secret](/_secret/Society/Communication/Media/Photography/Depth_of_Field.secret.md)
+

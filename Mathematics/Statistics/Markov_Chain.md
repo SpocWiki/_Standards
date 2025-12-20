@@ -53,3 +53,22 @@ Commons_category: Markov chains
 > [Wikipedia](https://en.wikipedia.org/wiki/Markov%20chain) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Markov_Chain](/_Standards/Mathematics/Statistics/Markov_Chain.md) 
+
+### #is_/same_as :: [Markov_Chain.public](/_public/Mathematics/Statistics/Markov_Chain.public.md) 
+
+### #is_/same_as :: [Markov_Chain.internal](/_internal/Mathematics/Statistics/Markov_Chain.internal.md) 
+
+### #is_/same_as :: [Markov_Chain.protect](/_protect/Mathematics/Statistics/Markov_Chain.protect.md) 
+
+### #is_/same_as :: [Markov_Chain.private](/_private/Mathematics/Statistics/Markov_Chain.private.md) 
+
+### #is_/same_as :: [Markov_Chain.personal](/_personal/Mathematics/Statistics/Markov_Chain.personal.md) 
+
+### #is_/same_as :: [Markov_Chain.secret](/_secret/Mathematics/Statistics/Markov_Chain.secret.md)
+

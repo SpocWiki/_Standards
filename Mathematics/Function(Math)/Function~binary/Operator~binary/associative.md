@@ -108,3 +108,22 @@ a^(b ^ c)  !=  (a ^ b) ^ c = a^(b * c)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [associative](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.md) 
+
+### #is_/same_as :: [associative.public](/_public/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.public.md) 
+
+### #is_/same_as :: [associative.internal](/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.internal.md) 
+
+### #is_/same_as :: [associative.protect](/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.protect.md) 
+
+### #is_/same_as :: [associative.private](/_private/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.private.md) 
+
+### #is_/same_as :: [associative.personal](/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.personal.md) 
+
+### #is_/same_as :: [associative.secret](/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.secret.md)
+

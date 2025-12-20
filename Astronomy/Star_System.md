@@ -38,3 +38,22 @@ Dewey_Decimal_Classification: "523.841"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star%20system) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Star_System](/_Standards/Astronomy/Star_System.md) 
+
+### #is_/same_as :: [Star_System.public](/_public/Astronomy/Star_System.public.md) 
+
+### #is_/same_as :: [Star_System.internal](/_internal/Astronomy/Star_System.internal.md) 
+
+### #is_/same_as :: [Star_System.protect](/_protect/Astronomy/Star_System.protect.md) 
+
+### #is_/same_as :: [Star_System.private](/_private/Astronomy/Star_System.private.md) 
+
+### #is_/same_as :: [Star_System.personal](/_personal/Astronomy/Star_System.personal.md) 
+
+### #is_/same_as :: [Star_System.secret](/_secret/Astronomy/Star_System.secret.md)
+

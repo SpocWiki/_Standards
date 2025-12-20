@@ -51,17 +51,17 @@ has_id_wikidata: Q306786
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beta_Decay](/_Standards/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Beta_Decay.md) 
+### #is_/same_as :: [Beta_Decay](/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.md) 
 
-### #is_/same_as :: [Beta_Decay.public](/_public/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Beta_Decay.public.md) 
+### #is_/same_as :: [Beta_Decay.public](/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.public.md) 
 
-### #is_/same_as :: [Beta_Decay.internal](/_internal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Beta_Decay.internal.md) 
+### #is_/same_as :: [Beta_Decay.internal](/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.internal.md) 
 
-### #is_/same_as :: [Beta_Decay.protect](/_protect/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Beta_Decay.protect.md) 
+### #is_/same_as :: [Beta_Decay.protect](/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.protect.md) 
 
-### #is_/same_as :: [Beta_Decay.private](/_private/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Beta_Decay.private.md) 
+### #is_/same_as :: [Beta_Decay.private](/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.private.md) 
 
-### #is_/same_as :: [Beta_Decay.personal](/_personal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Beta_Decay.personal.md) 
+### #is_/same_as :: [Beta_Decay.personal](/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.personal.md) 
 
-### #is_/same_as :: [Beta_Decay.secret](/_secret/Science/Physics/Quantum_Mechanics/Fundamental_Interaction/Beta_Decay.secret.md)
+### #is_/same_as :: [Beta_Decay.secret](/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.secret.md)
 

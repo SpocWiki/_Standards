@@ -51,3 +51,22 @@ UNII: AMN6S4M09G
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coconut%20milk) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Coconut_Milk](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.md) 
+
+### #is_/same_as :: [Coconut_Milk.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.public.md) 
+
+### #is_/same_as :: [Coconut_Milk.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.internal.md) 
+
+### #is_/same_as :: [Coconut_Milk.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.protect.md) 
+
+### #is_/same_as :: [Coconut_Milk.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.private.md) 
+
+### #is_/same_as :: [Coconut_Milk.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.personal.md) 
+
+### #is_/same_as :: [Coconut_Milk.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coconut_Milk.secret.md)
+

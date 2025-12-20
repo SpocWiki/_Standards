@@ -71,3 +71,22 @@ Library_of_Congress_Classification: JF801
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Citizenship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [National_Citizenship](/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.md) 
+
+### #is_/same_as :: [National_Citizenship.public](/_public/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.public.md) 
+
+### #is_/same_as :: [National_Citizenship.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.internal.md) 
+
+### #is_/same_as :: [National_Citizenship.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.protect.md) 
+
+### #is_/same_as :: [National_Citizenship.private](/_private/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.private.md) 
+
+### #is_/same_as :: [National_Citizenship.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.personal.md) 
+
+### #is_/same_as :: [National_Citizenship.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.secret.md)
+

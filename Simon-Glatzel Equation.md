@@ -26,3 +26,22 @@ has_id_wikidata: Q7520530
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Simon-Glatzel Equation](/_Standards/Simon-Glatzel Equation.md) 
+
+### #is_/same_as :: [Simon-Glatzel Equation.public](/_public/Simon-Glatzel Equation.public.md) 
+
+### #is_/same_as :: [Simon-Glatzel Equation.internal](/_internal/Simon-Glatzel Equation.internal.md) 
+
+### #is_/same_as :: [Simon-Glatzel Equation.protect](/_protect/Simon-Glatzel Equation.protect.md) 
+
+### #is_/same_as :: [Simon-Glatzel Equation.private](/_private/Simon-Glatzel Equation.private.md) 
+
+### #is_/same_as :: [Simon-Glatzel Equation.personal](/_personal/Simon-Glatzel Equation.personal.md) 
+
+### #is_/same_as :: [Simon-Glatzel Equation.secret](/_secret/Simon-Glatzel Equation.secret.md)
+

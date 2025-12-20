@@ -97,3 +97,22 @@ ISNI: "0000000109657250"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Burns%20Woodward) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Burns_Woodward,Robert](/_Standards/Chemistry/Chemist/Burns_Woodward,Robert.md) 
+
+### #is_/same_as :: [Burns_Woodward,Robert.public](/_public/Chemistry/Chemist/Burns_Woodward,Robert.public.md) 
+
+### #is_/same_as :: [Burns_Woodward,Robert.internal](/_internal/Chemistry/Chemist/Burns_Woodward,Robert.internal.md) 
+
+### #is_/same_as :: [Burns_Woodward,Robert.protect](/_protect/Chemistry/Chemist/Burns_Woodward,Robert.protect.md) 
+
+### #is_/same_as :: [Burns_Woodward,Robert.private](/_private/Chemistry/Chemist/Burns_Woodward,Robert.private.md) 
+
+### #is_/same_as :: [Burns_Woodward,Robert.personal](/_personal/Chemistry/Chemist/Burns_Woodward,Robert.personal.md) 
+
+### #is_/same_as :: [Burns_Woodward,Robert.secret](/_secret/Chemistry/Chemist/Burns_Woodward,Robert.secret.md)
+

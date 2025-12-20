@@ -40,17 +40,17 @@ A designation that the drug in question has not been assigned a pregnancy catego
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [fd_anot_evaluated](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.md) 
+### #is_/same_as :: [Fda_not_Evaluated](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_not_Evaluated.md) 
 
-### #is_/same_as :: [fd_anot_evaluated.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.public.md) 
+### #is_/same_as :: [Fda_not_Evaluated.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_not_Evaluated.public.md) 
 
-### #is_/same_as :: [fd_anot_evaluated.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.internal.md) 
+### #is_/same_as :: [Fda_not_Evaluated.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_not_Evaluated.internal.md) 
 
-### #is_/same_as :: [fd_anot_evaluated.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.protect.md) 
+### #is_/same_as :: [Fda_not_Evaluated.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_not_Evaluated.protect.md) 
 
-### #is_/same_as :: [fd_anot_evaluated.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.private.md) 
+### #is_/same_as :: [Fda_not_Evaluated.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_not_Evaluated.private.md) 
 
-### #is_/same_as :: [fd_anot_evaluated.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.personal.md) 
+### #is_/same_as :: [Fda_not_Evaluated.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_not_Evaluated.personal.md) 
 
-### #is_/same_as :: [fd_anot_evaluated.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.secret.md)
+### #is_/same_as :: [Fda_not_Evaluated.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_not_Evaluated.secret.md)
 

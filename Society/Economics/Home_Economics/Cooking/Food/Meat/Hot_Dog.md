@@ -55,3 +55,22 @@ Unicode_character: 🌭
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hot%20dog) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hot_Dog](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.md) 
+
+### #is_/same_as :: [Hot_Dog.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.public.md) 
+
+### #is_/same_as :: [Hot_Dog.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.internal.md) 
+
+### #is_/same_as :: [Hot_Dog.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.protect.md) 
+
+### #is_/same_as :: [Hot_Dog.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.private.md) 
+
+### #is_/same_as :: [Hot_Dog.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.personal.md) 
+
+### #is_/same_as :: [Hot_Dog.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Hot_Dog.secret.md)
+

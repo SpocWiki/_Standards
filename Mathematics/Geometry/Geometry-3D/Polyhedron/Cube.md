@@ -74,3 +74,22 @@ Schläfli_symbol: "{4,3}"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cube) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cube](/_Standards/Mathematics/Geometry/Geometry-3D/Polyhedron/Cube.md) 
+
+### #is_/same_as :: [Cube.public](/_public/Mathematics/Geometry/Geometry-3D/Polyhedron/Cube.public.md) 
+
+### #is_/same_as :: [Cube.internal](/_internal/Mathematics/Geometry/Geometry-3D/Polyhedron/Cube.internal.md) 
+
+### #is_/same_as :: [Cube.protect](/_protect/Mathematics/Geometry/Geometry-3D/Polyhedron/Cube.protect.md) 
+
+### #is_/same_as :: [Cube.private](/_private/Mathematics/Geometry/Geometry-3D/Polyhedron/Cube.private.md) 
+
+### #is_/same_as :: [Cube.personal](/_personal/Mathematics/Geometry/Geometry-3D/Polyhedron/Cube.personal.md) 
+
+### #is_/same_as :: [Cube.secret](/_secret/Mathematics/Geometry/Geometry-3D/Polyhedron/Cube.secret.md)
+

@@ -73,3 +73,22 @@ Facebook_username: odedguam
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development](/_Standards/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.md) 
+
+### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.public](/_public/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.public.md) 
+
+### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.internal](/_internal/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.internal.md) 
+
+### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.protect](/_protect/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.protect.md) 
+
+### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.private](/_private/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.private.md) 
+
+### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.personal](/_personal/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.personal.md) 
+
+### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.secret](/_secret/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.secret.md)
+

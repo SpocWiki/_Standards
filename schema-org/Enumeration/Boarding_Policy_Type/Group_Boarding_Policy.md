@@ -40,17 +40,17 @@ The airline boards by groups based on check-in time, priority, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group_Boarding_Policy](Group_Boarding_Policy.md) 
+### #is_/same_as :: [Group_Boarding_Policy](/_Standards/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.md) 
 
-### #is_/same_as :: [group_boarding_policy.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.public.md) 
+### #is_/same_as :: [Group_Boarding_Policy.public](/_public/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.public.md) 
 
-### #is_/same_as :: [group_boarding_policy.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.internal.md) 
+### #is_/same_as :: [Group_Boarding_Policy.internal](/_internal/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.internal.md) 
 
-### #is_/same_as :: [group_boarding_policy.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.protect.md) 
+### #is_/same_as :: [Group_Boarding_Policy.protect](/_protect/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.protect.md) 
 
-### #is_/same_as :: [group_boarding_policy.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.private.md) 
+### #is_/same_as :: [Group_Boarding_Policy.private](/_private/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.private.md) 
 
-### #is_/same_as :: [group_boarding_policy.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.personal.md) 
+### #is_/same_as :: [Group_Boarding_Policy.personal](/_personal/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.personal.md) 
 
-### #is_/same_as :: [group_boarding_policy.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.secret.md)
+### #is_/same_as :: [Group_Boarding_Policy.secret](/_secret/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.secret.md)
 

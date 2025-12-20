@@ -57,3 +57,21 @@ Commons_category: Walnuts
 > After full ripening, the shell is discarded, and the kernel is eaten. Nuts of the eastern black walnut (Juglans nigra) and butternuts (Juglans cinerea) are less commonly consumed.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Walnut)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Walnut](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.md) 
+
+### #is_/same_as :: [Walnut.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.public.md) 
+
+### #is_/same_as :: [Walnut.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.internal.md) 
+
+### #is_/same_as :: [Walnut.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.protect.md) 
+
+### #is_/same_as :: [Walnut.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.private.md) 
+
+### #is_/same_as :: [Walnut.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.personal.md) 
+
+### #is_/same_as :: [Walnut.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Walnut.secret.md)
+

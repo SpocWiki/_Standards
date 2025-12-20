@@ -42,17 +42,17 @@ Represents EU Energy Efficiency Class G as defined in EU energy labeling regulat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eu_Energy_Efficiency_Category_G](Eu_Energy_Efficiency_Category_G.md) 
+### #is_/same_as :: [Eu_Energy_Efficiency_Category_G](/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.md) 
 
-### #is_/same_as :: [eu_energy_efficiency_category_g.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_g.public.md) 
+### #is_/same_as :: [Eu_Energy_Efficiency_Category_G.public](/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.public.md) 
 
-### #is_/same_as :: [eu_energy_efficiency_category_g.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_g.internal.md) 
+### #is_/same_as :: [Eu_Energy_Efficiency_Category_G.internal](/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.internal.md) 
 
-### #is_/same_as :: [eu_energy_efficiency_category_g.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_g.protect.md) 
+### #is_/same_as :: [Eu_Energy_Efficiency_Category_G.protect](/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.protect.md) 
 
-### #is_/same_as :: [eu_energy_efficiency_category_g.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_g.private.md) 
+### #is_/same_as :: [Eu_Energy_Efficiency_Category_G.private](/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.private.md) 
 
-### #is_/same_as :: [eu_energy_efficiency_category_g.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_g.personal.md) 
+### #is_/same_as :: [Eu_Energy_Efficiency_Category_G.personal](/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.personal.md) 
 
-### #is_/same_as :: [eu_energy_efficiency_category_g.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_g.secret.md)
+### #is_/same_as :: [Eu_Energy_Efficiency_Category_G.secret](/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.secret.md)
 

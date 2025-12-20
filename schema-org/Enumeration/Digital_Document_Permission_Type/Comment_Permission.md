@@ -44,17 +44,17 @@ In Markdown this is even riskier, since there are no clear limits, except for th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comment_Permission](Comment_Permission.md) 
+### #is_/same_as :: [Comment_Permission](/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.md) 
 
-### #is_/same_as :: [comment_permission.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.public.md) 
+### #is_/same_as :: [Comment_Permission.public](/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.public.md) 
 
-### #is_/same_as :: [comment_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.internal.md) 
+### #is_/same_as :: [Comment_Permission.internal](/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.internal.md) 
 
-### #is_/same_as :: [comment_permission.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.protect.md) 
+### #is_/same_as :: [Comment_Permission.protect](/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.protect.md) 
 
-### #is_/same_as :: [comment_permission.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.private.md) 
+### #is_/same_as :: [Comment_Permission.private](/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.private.md) 
 
-### #is_/same_as :: [comment_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.personal.md) 
+### #is_/same_as :: [Comment_Permission.personal](/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.personal.md) 
 
-### #is_/same_as :: [comment_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.secret.md)
+### #is_/same_as :: [Comment_Permission.secret](/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.secret.md)
 

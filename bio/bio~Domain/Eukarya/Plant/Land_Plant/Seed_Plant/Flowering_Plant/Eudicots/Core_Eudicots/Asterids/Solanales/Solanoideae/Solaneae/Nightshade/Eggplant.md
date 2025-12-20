@@ -128,3 +128,22 @@ external_data_available_at_URL: https://www.gbif.org/dataset/93725bf2-6ada-47f9-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eggplant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eggplant](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.md) 
+
+### #is_/same_as :: [Eggplant.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.public.md) 
+
+### #is_/same_as :: [Eggplant.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.internal.md) 
+
+### #is_/same_as :: [Eggplant.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.protect.md) 
+
+### #is_/same_as :: [Eggplant.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.private.md) 
+
+### #is_/same_as :: [Eggplant.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.personal.md) 
+
+### #is_/same_as :: [Eggplant.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Solanales/Solanoideae/Solaneae/Nightshade/Eggplant.secret.md)
+

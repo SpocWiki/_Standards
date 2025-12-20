@@ -35,3 +35,22 @@ Commons_category: Pareto distribution
 > [Wikipedia](https://en.wikipedia.org/wiki/Pareto%20distribution)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pareto_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.md) 
+
+### #is_/same_as :: [Pareto_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.public.md) 
+
+### #is_/same_as :: [Pareto_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.internal.md) 
+
+### #is_/same_as :: [Pareto_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.protect.md) 
+
+### #is_/same_as :: [Pareto_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.private.md) 
+
+### #is_/same_as :: [Pareto_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.personal.md) 
+
+### #is_/same_as :: [Pareto_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.secret.md)
+

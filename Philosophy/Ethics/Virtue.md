@@ -65,3 +65,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Virtue) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Virtue](/_Standards/Philosophy/Ethics/Virtue.md) 
+
+### #is_/same_as :: [Virtue.public](/_public/Philosophy/Ethics/Virtue.public.md) 
+
+### #is_/same_as :: [Virtue.internal](/_internal/Philosophy/Ethics/Virtue.internal.md) 
+
+### #is_/same_as :: [Virtue.protect](/_protect/Philosophy/Ethics/Virtue.protect.md) 
+
+### #is_/same_as :: [Virtue.private](/_private/Philosophy/Ethics/Virtue.private.md) 
+
+### #is_/same_as :: [Virtue.personal](/_personal/Philosophy/Ethics/Virtue.personal.md) 
+
+### #is_/same_as :: [Virtue.secret](/_secret/Philosophy/Ethics/Virtue.secret.md)
+

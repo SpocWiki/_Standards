@@ -55,3 +55,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/VALTORNA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Horn%20(instrument)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Horn(Instrument)](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Horn(Instrument).md) 
+
+### #is_/same_as :: [Horn(Instrument).public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Horn(Instrument).public.md) 
+
+### #is_/same_as :: [Horn(Instrument).internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Horn(Instrument).internal.md) 
+
+### #is_/same_as :: [Horn(Instrument).protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Horn(Instrument).protect.md) 
+
+### #is_/same_as :: [Horn(Instrument).private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Horn(Instrument).private.md) 
+
+### #is_/same_as :: [Horn(Instrument).personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Horn(Instrument).personal.md) 
+
+### #is_/same_as :: [Horn(Instrument).secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Horn(Instrument).secret.md)
+

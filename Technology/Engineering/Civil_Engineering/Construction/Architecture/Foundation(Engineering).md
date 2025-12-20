@@ -41,3 +41,22 @@ Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/FUNDAMENT.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Foundation%20(engineering)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Foundation(Engineering)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Foundation(Engineering).md) 
+
+### #is_/same_as :: [Foundation(Engineering).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Foundation(Engineering).public.md) 
+
+### #is_/same_as :: [Foundation(Engineering).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Foundation(Engineering).internal.md) 
+
+### #is_/same_as :: [Foundation(Engineering).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Foundation(Engineering).protect.md) 
+
+### #is_/same_as :: [Foundation(Engineering).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Foundation(Engineering).private.md) 
+
+### #is_/same_as :: [Foundation(Engineering).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Foundation(Engineering).personal.md) 
+
+### #is_/same_as :: [Foundation(Engineering).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Foundation(Engineering).secret.md)
+

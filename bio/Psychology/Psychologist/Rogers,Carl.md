@@ -26,8 +26,6 @@ has_id_wikidata: Q191004
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Rogers) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rogers,Carl](/_Standards/bio/Psychology/Psychologist/Rogers,Carl.md) 

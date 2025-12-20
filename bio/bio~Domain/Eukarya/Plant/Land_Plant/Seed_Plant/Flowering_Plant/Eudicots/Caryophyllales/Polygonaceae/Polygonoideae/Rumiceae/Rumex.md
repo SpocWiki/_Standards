@@ -101,3 +101,22 @@ taxon_name: Rumex
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rumex) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rumex](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex.md) 
+
+### #is_/same_as :: [Rumex.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex.public.md) 
+
+### #is_/same_as :: [Rumex.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex.internal.md) 
+
+### #is_/same_as :: [Rumex.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex.protect.md) 
+
+### #is_/same_as :: [Rumex.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex.private.md) 
+
+### #is_/same_as :: [Rumex.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex.personal.md) 
+
+### #is_/same_as :: [Rumex.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Rumiceae/Rumex.secret.md)
+

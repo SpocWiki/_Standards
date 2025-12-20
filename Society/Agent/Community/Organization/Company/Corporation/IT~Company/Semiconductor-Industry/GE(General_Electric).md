@@ -230,17 +230,17 @@ continue to operate under the GE banner to this day.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GE(General_Electric)](GE(General_Electric).md) 
+### #is_/same_as :: [GE(General_Electric)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GE(General_Electric).md) 
 
-### #is_/same_as :: [GE(General_Electric).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GE(General_Electric).public.md) 
+### #is_/same_as :: [GE(General_Electric).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GE(General_Electric).public.md) 
 
-### #is_/same_as :: [GE(General_Electric).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GE(General_Electric).internal.md) 
+### #is_/same_as :: [GE(General_Electric).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GE(General_Electric).internal.md) 
 
-### #is_/same_as :: [GE(General_Electric).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GE(General_Electric).protect.md) 
+### #is_/same_as :: [GE(General_Electric).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GE(General_Electric).protect.md) 
 
-### #is_/same_as :: [GE(General_Electric).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GE(General_Electric).private.md) 
+### #is_/same_as :: [GE(General_Electric).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GE(General_Electric).private.md) 
 
-### #is_/same_as :: [GE(General_Electric).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GE(General_Electric).personal.md) 
+### #is_/same_as :: [GE(General_Electric).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GE(General_Electric).personal.md) 
 
-### #is_/same_as :: [GE(General_Electric).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GE(General_Electric).secret.md)
+### #is_/same_as :: [GE(General_Electric).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GE(General_Electric).secret.md)
 

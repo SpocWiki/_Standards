@@ -95,3 +95,22 @@ EPPO_Code: RHNDTY
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Whale%20shark)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Whale_Shark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Whale_Shark.md) 
+
+### #is_/same_as :: [Whale_Shark.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Whale_Shark.public.md) 
+
+### #is_/same_as :: [Whale_Shark.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Whale_Shark.internal.md) 
+
+### #is_/same_as :: [Whale_Shark.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Whale_Shark.protect.md) 
+
+### #is_/same_as :: [Whale_Shark.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Whale_Shark.private.md) 
+
+### #is_/same_as :: [Whale_Shark.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Whale_Shark.personal.md) 
+
+### #is_/same_as :: [Whale_Shark.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Orectolobiformes/Whale_Shark.secret.md)
+

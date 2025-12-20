@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - C#
 - C-Sharp
@@ -31,4 +31,23 @@ col: 2
 briefMax: 128
 noteOnly: true
 ```
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~CSharp](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp.md) 
+
+### #is_/same_as :: [Prog~CSharp.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp.public.md) 
+
+### #is_/same_as :: [Prog~CSharp.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp.internal.md) 
+
+### #is_/same_as :: [Prog~CSharp.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp.protect.md) 
+
+### #is_/same_as :: [Prog~CSharp.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp.private.md) 
+
+### #is_/same_as :: [Prog~CSharp.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp.personal.md) 
+
+### #is_/same_as :: [Prog~CSharp.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~CSharp.secret.md)
 

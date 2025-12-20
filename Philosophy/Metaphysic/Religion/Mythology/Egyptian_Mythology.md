@@ -70,6 +70,7 @@ Commons_category: Egyptian mythology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Egyptian%20mythology) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Egyptian_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology.md) 

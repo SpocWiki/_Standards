@@ -30,3 +30,22 @@ OpenStreetMap_tag: building=stable
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stable) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stable](/_Standards/Society/Economics/Industry/Agriculture/Farm/Stable.md) 
+
+### #is_/same_as :: [Stable.public](/_public/Society/Economics/Industry/Agriculture/Farm/Stable.public.md) 
+
+### #is_/same_as :: [Stable.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Stable.internal.md) 
+
+### #is_/same_as :: [Stable.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Stable.protect.md) 
+
+### #is_/same_as :: [Stable.private](/_private/Society/Economics/Industry/Agriculture/Farm/Stable.private.md) 
+
+### #is_/same_as :: [Stable.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Stable.personal.md) 
+
+### #is_/same_as :: [Stable.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Stable.secret.md)
+

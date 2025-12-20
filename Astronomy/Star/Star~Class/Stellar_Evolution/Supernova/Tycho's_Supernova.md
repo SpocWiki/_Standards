@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tycho's_Supernova](/_Standards/Astronomy/Supernova/Tycho's_Supernova.md) 
+### #is_/same_as :: [Tycho's_Supernova](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.md) 
 
-### #is_/same_as :: [Tycho's_Supernova.public](/_public/Astronomy/Supernova/Tycho's_Supernova.public.md) 
+### #is_/same_as :: [Tycho's_Supernova.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.public.md) 
 
-### #is_/same_as :: [Tycho's_Supernova.internal](/_internal/Astronomy/Supernova/Tycho's_Supernova.internal.md) 
+### #is_/same_as :: [Tycho's_Supernova.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.internal.md) 
 
-### #is_/same_as :: [Tycho's_Supernova.protect](/_protect/Astronomy/Supernova/Tycho's_Supernova.protect.md) 
+### #is_/same_as :: [Tycho's_Supernova.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.protect.md) 
 
-### #is_/same_as :: [Tycho's_Supernova.private](/_private/Astronomy/Supernova/Tycho's_Supernova.private.md) 
+### #is_/same_as :: [Tycho's_Supernova.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private.md) 
 
-### #is_/same_as :: [Tycho's_Supernova.personal](/_personal/Astronomy/Supernova/Tycho's_Supernova.personal.md) 
+### #is_/same_as :: [Tycho's_Supernova.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal.md) 
 
-### #is_/same_as :: [Tycho's_Supernova.secret](/_secret/Astronomy/Supernova/Tycho's_Supernova.secret.md)
+### #is_/same_as :: [Tycho's_Supernova.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret.md)
 

@@ -172,3 +172,22 @@ work_period_start_: 1908-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean%20Cocteau) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cocteau,Jean](/_Standards/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.md) 
+
+### #is_/same_as :: [Cocteau,Jean.public](/_public/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.public.md) 
+
+### #is_/same_as :: [Cocteau,Jean.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.internal.md) 
+
+### #is_/same_as :: [Cocteau,Jean.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.protect.md) 
+
+### #is_/same_as :: [Cocteau,Jean.private](/_private/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.private.md) 
+
+### #is_/same_as :: [Cocteau,Jean.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.personal.md) 
+
+### #is_/same_as :: [Cocteau,Jean.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Cocteau,Jean.secret.md)
+

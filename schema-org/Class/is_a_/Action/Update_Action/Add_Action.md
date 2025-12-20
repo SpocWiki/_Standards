@@ -41,17 +41,17 @@ The act of editing by adding an object to a collection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [add_action](/_Standards/schema-org/Class/is_a_/action/update_action/add_action.md) 
+### #is_/same_as :: [Add_Action](/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action.md) 
 
-### #is_/same_as :: [add_action.public](/_public/schema-org/Class/is_a_/action/update_action/add_action.public.md) 
+### #is_/same_as :: [Add_Action.public](/_public/schema-org/Class/is_a_/Action/Update_Action/Add_Action.public.md) 
 
-### #is_/same_as :: [add_action.internal](/_internal/schema-org/Class/is_a_/action/update_action/add_action.internal.md) 
+### #is_/same_as :: [Add_Action.internal](/_internal/schema-org/Class/is_a_/Action/Update_Action/Add_Action.internal.md) 
 
-### #is_/same_as :: [add_action.protect](/_protect/schema-org/Class/is_a_/action/update_action/add_action.protect.md) 
+### #is_/same_as :: [Add_Action.protect](/_protect/schema-org/Class/is_a_/Action/Update_Action/Add_Action.protect.md) 
 
-### #is_/same_as :: [add_action.private](/_private/schema-org/Class/is_a_/action/update_action/add_action.private.md) 
+### #is_/same_as :: [Add_Action.private](/_private/schema-org/Class/is_a_/Action/Update_Action/Add_Action.private.md) 
 
-### #is_/same_as :: [add_action.personal](/_personal/schema-org/Class/is_a_/action/update_action/add_action.personal.md) 
+### #is_/same_as :: [Add_Action.personal](/_personal/schema-org/Class/is_a_/Action/Update_Action/Add_Action.personal.md) 
 
-### #is_/same_as :: [add_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/add_action.secret.md)
+### #is_/same_as :: [Add_Action.secret](/_secret/schema-org/Class/is_a_/Action/Update_Action/Add_Action.secret.md)
 

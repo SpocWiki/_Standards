@@ -93,3 +93,22 @@ U_S_National_Archives_Identifier: "10046247"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Red%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Red_Sea](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.md) 
+
+### #is_/same_as :: [Red_Sea.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.public.md) 
+
+### #is_/same_as :: [Red_Sea.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.internal.md) 
+
+### #is_/same_as :: [Red_Sea.protect](/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.protect.md) 
+
+### #is_/same_as :: [Red_Sea.private](/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.private.md) 
+
+### #is_/same_as :: [Red_Sea.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.personal.md) 
+
+### #is_/same_as :: [Red_Sea.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.secret.md)
+

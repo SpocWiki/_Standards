@@ -110,3 +110,22 @@ date_of_birth:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacob%20Bernoulli) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bernoulli,Jacob](/_Standards/Mathematics/Mathematician/Bernoulli,Jacob.md) 
+
+### #is_/same_as :: [Bernoulli,Jacob.public](/_public/Mathematics/Mathematician/Bernoulli,Jacob.public.md) 
+
+### #is_/same_as :: [Bernoulli,Jacob.internal](/_internal/Mathematics/Mathematician/Bernoulli,Jacob.internal.md) 
+
+### #is_/same_as :: [Bernoulli,Jacob.protect](/_protect/Mathematics/Mathematician/Bernoulli,Jacob.protect.md) 
+
+### #is_/same_as :: [Bernoulli,Jacob.private](/_private/Mathematics/Mathematician/Bernoulli,Jacob.private.md) 
+
+### #is_/same_as :: [Bernoulli,Jacob.personal](/_personal/Mathematics/Mathematician/Bernoulli,Jacob.personal.md) 
+
+### #is_/same_as :: [Bernoulli,Jacob.secret](/_secret/Mathematics/Mathematician/Bernoulli,Jacob.secret.md)
+

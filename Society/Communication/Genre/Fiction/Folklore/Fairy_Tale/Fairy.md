@@ -90,3 +90,22 @@ Unicode_character:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fairy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fairy](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.md) 
+
+### #is_/same_as :: [Fairy.public](/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.public.md) 
+
+### #is_/same_as :: [Fairy.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.internal.md) 
+
+### #is_/same_as :: [Fairy.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.protect.md) 
+
+### #is_/same_as :: [Fairy.private](/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.private.md) 
+
+### #is_/same_as :: [Fairy.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.personal.md) 
+
+### #is_/same_as :: [Fairy.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.secret.md)
+

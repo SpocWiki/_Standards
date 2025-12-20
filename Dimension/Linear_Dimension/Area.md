@@ -196,17 +196,17 @@ Wikidata_property: area
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Area](/_Standards/Mathematics/Geometry/Area.md) 
+### #is_/same_as :: [Area](/_Standards/Dimension/Linear_Dimension/Area.md) 
 
-### #is_/same_as :: [Area.public](/_public/Mathematics/Geometry/Area.public.md) 
+### #is_/same_as :: [Area.public](/_public/Dimension/Linear_Dimension/Area.public.md) 
 
-### #is_/same_as :: [Area.internal](/_internal/Mathematics/Geometry/Area.internal.md) 
+### #is_/same_as :: [Area.internal](/_internal/Dimension/Linear_Dimension/Area.internal.md) 
 
-### #is_/same_as :: [Area.protect](/_protect/Mathematics/Geometry/Area.protect.md) 
+### #is_/same_as :: [Area.protect](/_protect/Dimension/Linear_Dimension/Area.protect.md) 
 
-### #is_/same_as :: [Area.private](/_private/Mathematics/Geometry/Area.private.md) 
+### #is_/same_as :: [Area.private](/_private/Dimension/Linear_Dimension/Area.private.md) 
 
-### #is_/same_as :: [Area.personal](/_personal/Mathematics/Geometry/Area.personal.md) 
+### #is_/same_as :: [Area.personal](/_personal/Dimension/Linear_Dimension/Area.personal.md) 
 
-### #is_/same_as :: [Area.secret](/_secret/Mathematics/Geometry/Area.secret.md)
+### #is_/same_as :: [Area.secret](/_secret/Dimension/Linear_Dimension/Area.secret.md)
 

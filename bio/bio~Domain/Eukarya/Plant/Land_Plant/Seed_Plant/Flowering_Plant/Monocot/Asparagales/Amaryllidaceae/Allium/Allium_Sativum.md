@@ -87,3 +87,22 @@ short_name: A. sativum
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Allium_Sativum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Allium_Sativum.md) 
+
+### #is_/same_as :: [Allium_Sativum.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Allium_Sativum.public.md) 
+
+### #is_/same_as :: [Allium_Sativum.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Allium_Sativum.internal.md) 
+
+### #is_/same_as :: [Allium_Sativum.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Allium_Sativum.protect.md) 
+
+### #is_/same_as :: [Allium_Sativum.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Allium_Sativum.private.md) 
+
+### #is_/same_as :: [Allium_Sativum.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Allium_Sativum.personal.md) 
+
+### #is_/same_as :: [Allium_Sativum.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Amaryllidaceae/Allium/Allium_Sativum.secret.md)
+

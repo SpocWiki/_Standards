@@ -72,3 +72,22 @@ Commons_category: Skulls
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skull)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skull](/_Standards/bio/Medicine/Anatomy/Skeleton/Skull.md) 
+
+### #is_/same_as :: [Skull.public](/_public/bio/Medicine/Anatomy/Skeleton/Skull.public.md) 
+
+### #is_/same_as :: [Skull.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Skull.internal.md) 
+
+### #is_/same_as :: [Skull.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Skull.protect.md) 
+
+### #is_/same_as :: [Skull.private](/_private/bio/Medicine/Anatomy/Skeleton/Skull.private.md) 
+
+### #is_/same_as :: [Skull.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Skull.personal.md) 
+
+### #is_/same_as :: [Skull.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Skull.secret.md)
+

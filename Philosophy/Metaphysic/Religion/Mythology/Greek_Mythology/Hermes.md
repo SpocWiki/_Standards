@@ -150,3 +150,22 @@ father: "[[_Standards/WikiData/WD~Zeus,34201]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hermes](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.md) 
+
+### #is_/same_as :: [Hermes.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.public.md) 
+
+### #is_/same_as :: [Hermes.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.internal.md) 
+
+### #is_/same_as :: [Hermes.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.protect.md) 
+
+### #is_/same_as :: [Hermes.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.private.md) 
+
+### #is_/same_as :: [Hermes.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.personal.md) 
+
+### #is_/same_as :: [Hermes.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hermes.secret.md)
+

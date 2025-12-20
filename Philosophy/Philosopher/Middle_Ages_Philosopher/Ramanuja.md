@@ -57,3 +57,22 @@ Commons_category: Ramanujacharya
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ramanuja) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ramanuja](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Ramanuja.md) 
+
+### #is_/same_as :: [Ramanuja.public](/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Ramanuja.public.md) 
+
+### #is_/same_as :: [Ramanuja.internal](/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Ramanuja.internal.md) 
+
+### #is_/same_as :: [Ramanuja.protect](/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Ramanuja.protect.md) 
+
+### #is_/same_as :: [Ramanuja.private](/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Ramanuja.private.md) 
+
+### #is_/same_as :: [Ramanuja.personal](/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Ramanuja.personal.md) 
+
+### #is_/same_as :: [Ramanuja.secret](/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Ramanuja.secret.md)
+

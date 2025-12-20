@@ -41,17 +41,17 @@ The act of interacting with another person or organization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [interact_action](/_Standards/schema-org/Class/is_a_/action/interact_action.md) 
+### #is_/same_as :: [Interact_Action](/_Standards/schema-org/Class/is_a_/Action/Interact_Action.md) 
 
-### #is_/same_as :: [interact_action.public](/_public/schema-org/Class/is_a_/action/interact_action.public.md) 
+### #is_/same_as :: [Interact_Action.public](/_public/schema-org/Class/is_a_/Action/Interact_Action.public.md) 
 
-### #is_/same_as :: [interact_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action.internal.md) 
+### #is_/same_as :: [Interact_Action.internal](/_internal/schema-org/Class/is_a_/Action/Interact_Action.internal.md) 
 
-### #is_/same_as :: [interact_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action.protect.md) 
+### #is_/same_as :: [Interact_Action.protect](/_protect/schema-org/Class/is_a_/Action/Interact_Action.protect.md) 
 
-### #is_/same_as :: [interact_action.private](/_private/schema-org/Class/is_a_/action/interact_action.private.md) 
+### #is_/same_as :: [Interact_Action.private](/_private/schema-org/Class/is_a_/Action/Interact_Action.private.md) 
 
-### #is_/same_as :: [interact_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action.personal.md) 
+### #is_/same_as :: [Interact_Action.personal](/_personal/schema-org/Class/is_a_/Action/Interact_Action.personal.md) 
 
-### #is_/same_as :: [interact_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action.secret.md)
+### #is_/same_as :: [Interact_Action.secret](/_secret/schema-org/Class/is_a_/Action/Interact_Action.secret.md)
 

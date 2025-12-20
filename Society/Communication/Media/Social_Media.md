@@ -97,3 +97,22 @@ subreddit: socialmedia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20media) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Social_Media](/_Standards/Society/Communication/Media/Social_Media.md) 
+
+### #is_/same_as :: [Social_Media.public](/_public/Society/Communication/Media/Social_Media.public.md) 
+
+### #is_/same_as :: [Social_Media.internal](/_internal/Society/Communication/Media/Social_Media.internal.md) 
+
+### #is_/same_as :: [Social_Media.protect](/_protect/Society/Communication/Media/Social_Media.protect.md) 
+
+### #is_/same_as :: [Social_Media.private](/_private/Society/Communication/Media/Social_Media.private.md) 
+
+### #is_/same_as :: [Social_Media.personal](/_personal/Society/Communication/Media/Social_Media.personal.md) 
+
+### #is_/same_as :: [Social_Media.secret](/_secret/Society/Communication/Media/Social_Media.secret.md)
+

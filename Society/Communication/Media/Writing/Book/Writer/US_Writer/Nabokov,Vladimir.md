@@ -194,3 +194,22 @@ Libris_URI: b8nqlrsv277d1qd
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Nabokov) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nabokov,Vladimir](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir.md) 
+
+### #is_/same_as :: [Nabokov,Vladimir.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir.public.md) 
+
+### #is_/same_as :: [Nabokov,Vladimir.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir.internal.md) 
+
+### #is_/same_as :: [Nabokov,Vladimir.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir.protect.md) 
+
+### #is_/same_as :: [Nabokov,Vladimir.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir.private.md) 
+
+### #is_/same_as :: [Nabokov,Vladimir.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir.personal.md) 
+
+### #is_/same_as :: [Nabokov,Vladimir.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Nabokov,Vladimir.secret.md)
+

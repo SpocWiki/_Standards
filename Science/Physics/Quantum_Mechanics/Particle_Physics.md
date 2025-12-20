@@ -48,3 +48,22 @@ GitHub_topic: particle-physics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Particle%20physics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Particle_Physics](/_Standards/Science/Physics/Quantum_Mechanics/Particle_Physics.md) 
+
+### #is_/same_as :: [Particle_Physics.public](/_public/Science/Physics/Quantum_Mechanics/Particle_Physics.public.md) 
+
+### #is_/same_as :: [Particle_Physics.internal](/_internal/Science/Physics/Quantum_Mechanics/Particle_Physics.internal.md) 
+
+### #is_/same_as :: [Particle_Physics.protect](/_protect/Science/Physics/Quantum_Mechanics/Particle_Physics.protect.md) 
+
+### #is_/same_as :: [Particle_Physics.private](/_private/Science/Physics/Quantum_Mechanics/Particle_Physics.private.md) 
+
+### #is_/same_as :: [Particle_Physics.personal](/_personal/Science/Physics/Quantum_Mechanics/Particle_Physics.personal.md) 
+
+### #is_/same_as :: [Particle_Physics.secret](/_secret/Science/Physics/Quantum_Mechanics/Particle_Physics.secret.md)
+

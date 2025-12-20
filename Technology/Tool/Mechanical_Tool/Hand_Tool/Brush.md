@@ -42,3 +42,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Brush.tif
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brush) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brush](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush.md) 
+
+### #is_/same_as :: [Brush.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush.public.md) 
+
+### #is_/same_as :: [Brush.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush.internal.md) 
+
+### #is_/same_as :: [Brush.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush.protect.md) 
+
+### #is_/same_as :: [Brush.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush.private.md) 
+
+### #is_/same_as :: [Brush.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush.personal.md) 
+
+### #is_/same_as :: [Brush.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Brush.secret.md)
+

@@ -59,3 +59,22 @@ Commons_category: Vertebral column
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spinal%20column) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vertebral_Column](/_Standards/bio/Medicine/Anatomy/Vertebral_Column.md) 
+
+### #is_/same_as :: [Vertebral_Column.public](/_public/bio/Medicine/Anatomy/Vertebral_Column.public.md) 
+
+### #is_/same_as :: [Vertebral_Column.internal](/_internal/bio/Medicine/Anatomy/Vertebral_Column.internal.md) 
+
+### #is_/same_as :: [Vertebral_Column.protect](/_protect/bio/Medicine/Anatomy/Vertebral_Column.protect.md) 
+
+### #is_/same_as :: [Vertebral_Column.private](/_private/bio/Medicine/Anatomy/Vertebral_Column.private.md) 
+
+### #is_/same_as :: [Vertebral_Column.personal](/_personal/bio/Medicine/Anatomy/Vertebral_Column.personal.md) 
+
+### #is_/same_as :: [Vertebral_Column.secret](/_secret/bio/Medicine/Anatomy/Vertebral_Column.secret.md)
+

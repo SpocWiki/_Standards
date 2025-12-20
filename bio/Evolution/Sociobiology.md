@@ -38,3 +38,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sociobiology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sociobiology](/_Standards/bio/Evolution/Sociobiology.md) 
+
+### #is_/same_as :: [Sociobiology.public](/_public/bio/Evolution/Sociobiology.public.md) 
+
+### #is_/same_as :: [Sociobiology.internal](/_internal/bio/Evolution/Sociobiology.internal.md) 
+
+### #is_/same_as :: [Sociobiology.protect](/_protect/bio/Evolution/Sociobiology.protect.md) 
+
+### #is_/same_as :: [Sociobiology.private](/_private/bio/Evolution/Sociobiology.private.md) 
+
+### #is_/same_as :: [Sociobiology.personal](/_personal/bio/Evolution/Sociobiology.personal.md) 
+
+### #is_/same_as :: [Sociobiology.secret](/_secret/bio/Evolution/Sociobiology.secret.md)
+

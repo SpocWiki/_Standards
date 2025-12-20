@@ -46,3 +46,22 @@ Commons_category: Kolkhoz
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kolkhoz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kolkhoz](/_Standards/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.md) 
+
+### #is_/same_as :: [Kolkhoz.public](/_public/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.public.md) 
+
+### #is_/same_as :: [Kolkhoz.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.internal.md) 
+
+### #is_/same_as :: [Kolkhoz.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.protect.md) 
+
+### #is_/same_as :: [Kolkhoz.private](/_private/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.private.md) 
+
+### #is_/same_as :: [Kolkhoz.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.personal.md) 
+
+### #is_/same_as :: [Kolkhoz.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.secret.md)
+

@@ -54,3 +54,22 @@ Commons_category: Fertile Crescent
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fertile%20Crescent) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fertile_Crescent](/_Standards/Earth/Continent/Asia/Asia~West/Fertile_Crescent.md) 
+
+### #is_/same_as :: [Fertile_Crescent.public](/_public/Earth/Continent/Asia/Asia~West/Fertile_Crescent.public.md) 
+
+### #is_/same_as :: [Fertile_Crescent.internal](/_internal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.internal.md) 
+
+### #is_/same_as :: [Fertile_Crescent.protect](/_protect/Earth/Continent/Asia/Asia~West/Fertile_Crescent.protect.md) 
+
+### #is_/same_as :: [Fertile_Crescent.private](/_private/Earth/Continent/Asia/Asia~West/Fertile_Crescent.private.md) 
+
+### #is_/same_as :: [Fertile_Crescent.personal](/_personal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.personal.md) 
+
+### #is_/same_as :: [Fertile_Crescent.secret](/_secret/Earth/Continent/Asia/Asia~West/Fertile_Crescent.secret.md)
+

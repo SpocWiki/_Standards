@@ -93,3 +93,4 @@ video:
 ### #is_/same_as :: [Proof(Math).personal](/_personal/Mathematics/Proof(Math).personal.md) 
 
 ### #is_/same_as :: [Proof(Math).secret](/_secret/Mathematics/Proof(Math).secret.md)
+

@@ -206,3 +206,22 @@ Plex_person_key: 5d77682b2e80df001ebdd55e
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Nixon)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nixon,Richard](/_Standards/Earth/Continent/America~North/US~President/Nixon,Richard.md) 
+
+### #is_/same_as :: [Nixon,Richard.public](/_public/Earth/Continent/America~North/US~President/Nixon,Richard.public.md) 
+
+### #is_/same_as :: [Nixon,Richard.internal](/_internal/Earth/Continent/America~North/US~President/Nixon,Richard.internal.md) 
+
+### #is_/same_as :: [Nixon,Richard.protect](/_protect/Earth/Continent/America~North/US~President/Nixon,Richard.protect.md) 
+
+### #is_/same_as :: [Nixon,Richard.private](/_private/Earth/Continent/America~North/US~President/Nixon,Richard.private.md) 
+
+### #is_/same_as :: [Nixon,Richard.personal](/_personal/Earth/Continent/America~North/US~President/Nixon,Richard.personal.md) 
+
+### #is_/same_as :: [Nixon,Richard.secret](/_secret/Earth/Continent/America~North/US~President/Nixon,Richard.secret.md)
+

@@ -31,3 +31,22 @@ Commons_category: Improvised explosive devices
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Improvised%20explosive%20device) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Improvised_explosive_Device](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.md) 
+
+### #is_/same_as :: [Improvised_explosive_Device.public](/_public/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.public.md) 
+
+### #is_/same_as :: [Improvised_explosive_Device.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.internal.md) 
+
+### #is_/same_as :: [Improvised_explosive_Device.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.protect.md) 
+
+### #is_/same_as :: [Improvised_explosive_Device.private](/_private/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.private.md) 
+
+### #is_/same_as :: [Improvised_explosive_Device.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.personal.md) 
+
+### #is_/same_as :: [Improvised_explosive_Device.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.secret.md)
+

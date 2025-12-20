@@ -59,3 +59,22 @@ Baidu_Tieba_name: 数独
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sudoku) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sudoku](/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.md) 
+
+### #is_/same_as :: [Sudoku.public](/_public/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.public.md) 
+
+### #is_/same_as :: [Sudoku.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.internal.md) 
+
+### #is_/same_as :: [Sudoku.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.protect.md) 
+
+### #is_/same_as :: [Sudoku.private](/_private/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.private.md) 
+
+### #is_/same_as :: [Sudoku.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.personal.md) 
+
+### #is_/same_as :: [Sudoku.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.secret.md)
+

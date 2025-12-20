@@ -43,3 +43,22 @@ Commons_category: Dowry
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dowry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dowry](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Dowry.md) 
+
+### #is_/same_as :: [Dowry.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Dowry.public.md) 
+
+### #is_/same_as :: [Dowry.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Dowry.internal.md) 
+
+### #is_/same_as :: [Dowry.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Dowry.protect.md) 
+
+### #is_/same_as :: [Dowry.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Dowry.private.md) 
+
+### #is_/same_as :: [Dowry.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Dowry.personal.md) 
+
+### #is_/same_as :: [Dowry.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Dowry.secret.md)
+

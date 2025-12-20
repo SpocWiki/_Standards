@@ -88,3 +88,22 @@ Commons_category: Monarchs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monarch) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monarch](/_Standards/Society/Politics/Government/Monarchy/Monarch.md) 
+
+### #is_/same_as :: [Monarch.public](/_public/Society/Politics/Government/Monarchy/Monarch.public.md) 
+
+### #is_/same_as :: [Monarch.internal](/_internal/Society/Politics/Government/Monarchy/Monarch.internal.md) 
+
+### #is_/same_as :: [Monarch.protect](/_protect/Society/Politics/Government/Monarchy/Monarch.protect.md) 
+
+### #is_/same_as :: [Monarch.private](/_private/Society/Politics/Government/Monarchy/Monarch.private.md) 
+
+### #is_/same_as :: [Monarch.personal](/_personal/Society/Politics/Government/Monarchy/Monarch.personal.md) 
+
+### #is_/same_as :: [Monarch.secret](/_secret/Society/Politics/Government/Monarchy/Monarch.secret.md)
+

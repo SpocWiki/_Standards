@@ -43,3 +43,22 @@ GeoNames_feature_code: U.SHFU
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Continental%20shelf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Continental_Shelf](/_Standards/Earth/Geology/Landform/Continental_Shelf.md) 
+
+### #is_/same_as :: [Continental_Shelf.public](/_public/Earth/Geology/Landform/Continental_Shelf.public.md) 
+
+### #is_/same_as :: [Continental_Shelf.internal](/_internal/Earth/Geology/Landform/Continental_Shelf.internal.md) 
+
+### #is_/same_as :: [Continental_Shelf.protect](/_protect/Earth/Geology/Landform/Continental_Shelf.protect.md) 
+
+### #is_/same_as :: [Continental_Shelf.private](/_private/Earth/Geology/Landform/Continental_Shelf.private.md) 
+
+### #is_/same_as :: [Continental_Shelf.personal](/_personal/Earth/Geology/Landform/Continental_Shelf.personal.md) 
+
+### #is_/same_as :: [Continental_Shelf.secret](/_secret/Earth/Geology/Landform/Continental_Shelf.secret.md)
+

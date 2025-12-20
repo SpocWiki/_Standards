@@ -68,7 +68,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Specimen Condition   Egg case
   Identified By        Jeremy Miller
   Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
-  ---------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

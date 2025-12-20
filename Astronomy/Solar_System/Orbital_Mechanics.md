@@ -31,3 +31,22 @@ Commons_category: Astrodynamics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbital%20mechanics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orbital_Mechanics](/_Standards/Astronomy/Solar_System/Orbital_Mechanics.md) 
+
+### #is_/same_as :: [Orbital_Mechanics.public](/_public/Astronomy/Solar_System/Orbital_Mechanics.public.md) 
+
+### #is_/same_as :: [Orbital_Mechanics.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics.internal.md) 
+
+### #is_/same_as :: [Orbital_Mechanics.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics.protect.md) 
+
+### #is_/same_as :: [Orbital_Mechanics.private](/_private/Astronomy/Solar_System/Orbital_Mechanics.private.md) 
+
+### #is_/same_as :: [Orbital_Mechanics.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics.personal.md) 
+
+### #is_/same_as :: [Orbital_Mechanics.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics.secret.md)
+

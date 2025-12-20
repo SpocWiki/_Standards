@@ -30,3 +30,22 @@ Commons_category: Electric power generation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electricity%20generation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electricity_Generation](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electricity_Generation.md) 
+
+### #is_/same_as :: [Electricity_Generation.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electricity_Generation.public.md) 
+
+### #is_/same_as :: [Electricity_Generation.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electricity_Generation.internal.md) 
+
+### #is_/same_as :: [Electricity_Generation.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electricity_Generation.protect.md) 
+
+### #is_/same_as :: [Electricity_Generation.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electricity_Generation.private.md) 
+
+### #is_/same_as :: [Electricity_Generation.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electricity_Generation.personal.md) 
+
+### #is_/same_as :: [Electricity_Generation.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electricity_Generation.secret.md)
+

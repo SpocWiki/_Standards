@@ -42,17 +42,17 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Narcotic_Consideration](Narcotic_Consideration.md) 
+### #is_/same_as :: [Narcotic_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.md) 
 
-### #is_/same_as :: [narcotic_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.public.md) 
+### #is_/same_as :: [Narcotic_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.public.md) 
 
-### #is_/same_as :: [narcotic_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.internal.md) 
+### #is_/same_as :: [Narcotic_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.internal.md) 
 
-### #is_/same_as :: [narcotic_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.protect.md) 
+### #is_/same_as :: [Narcotic_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.protect.md) 
 
-### #is_/same_as :: [narcotic_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.private.md) 
+### #is_/same_as :: [Narcotic_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.private.md) 
 
-### #is_/same_as :: [narcotic_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.personal.md) 
+### #is_/same_as :: [Narcotic_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.personal.md) 
 
-### #is_/same_as :: [narcotic_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.secret.md)
+### #is_/same_as :: [Narcotic_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Narcotic_Consideration.secret.md)
 

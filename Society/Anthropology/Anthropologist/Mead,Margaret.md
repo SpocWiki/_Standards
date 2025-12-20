@@ -122,3 +122,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Mead%20%281
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Margaret%20Mead) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mead,Margaret](/_Standards/Society/Anthropology/Anthropologist/Mead,Margaret.md) 
+
+### #is_/same_as :: [Mead,Margaret.public](/_public/Society/Anthropology/Anthropologist/Mead,Margaret.public.md) 
+
+### #is_/same_as :: [Mead,Margaret.internal](/_internal/Society/Anthropology/Anthropologist/Mead,Margaret.internal.md) 
+
+### #is_/same_as :: [Mead,Margaret.protect](/_protect/Society/Anthropology/Anthropologist/Mead,Margaret.protect.md) 
+
+### #is_/same_as :: [Mead,Margaret.private](/_private/Society/Anthropology/Anthropologist/Mead,Margaret.private.md) 
+
+### #is_/same_as :: [Mead,Margaret.personal](/_personal/Society/Anthropology/Anthropologist/Mead,Margaret.personal.md) 
+
+### #is_/same_as :: [Mead,Margaret.secret](/_secret/Society/Anthropology/Anthropologist/Mead,Margaret.secret.md)
+

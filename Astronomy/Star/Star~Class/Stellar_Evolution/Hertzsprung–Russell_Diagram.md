@@ -67,3 +67,22 @@ Commons_category: Hertzsprung–Russell diagram
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell%20diagram) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hertzsprung–Russell_Diagram](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.md) 
+
+### #is_/same_as :: [Hertzsprung–Russell_Diagram.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.public.md) 
+
+### #is_/same_as :: [Hertzsprung–Russell_Diagram.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.internal.md) 
+
+### #is_/same_as :: [Hertzsprung–Russell_Diagram.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.protect.md) 
+
+### #is_/same_as :: [Hertzsprung–Russell_Diagram.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.private.md) 
+
+### #is_/same_as :: [Hertzsprung–Russell_Diagram.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.personal.md) 
+
+### #is_/same_as :: [Hertzsprung–Russell_Diagram.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.secret.md)
+

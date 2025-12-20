@@ -37,3 +37,22 @@ IPTC_NewsCode: mediatopic/20000057
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guerrilla%20warfare) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Guerrilla_Warfare](/_Standards/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.md) 
+
+### #is_/same_as :: [Guerrilla_Warfare.public](/_public/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.public.md) 
+
+### #is_/same_as :: [Guerrilla_Warfare.internal](/_internal/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.internal.md) 
+
+### #is_/same_as :: [Guerrilla_Warfare.protect](/_protect/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.protect.md) 
+
+### #is_/same_as :: [Guerrilla_Warfare.private](/_private/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.private.md) 
+
+### #is_/same_as :: [Guerrilla_Warfare.personal](/_personal/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.personal.md) 
+
+### #is_/same_as :: [Guerrilla_Warfare.secret](/_secret/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.secret.md)
+

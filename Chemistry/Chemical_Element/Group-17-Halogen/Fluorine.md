@@ -120,17 +120,17 @@ vapor_pressure: 1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fluorine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.md) 
+### #is_/same_as :: [Fluorine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.md) 
 
-### #is_/same_as :: [Fluorine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.public.md) 
+### #is_/same_as :: [Fluorine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.public.md) 
 
-### #is_/same_as :: [Fluorine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.internal.md) 
+### #is_/same_as :: [Fluorine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.internal.md) 
 
-### #is_/same_as :: [Fluorine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.protect.md) 
+### #is_/same_as :: [Fluorine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.protect.md) 
 
-### #is_/same_as :: [Fluorine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.private.md) 
+### #is_/same_as :: [Fluorine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.private.md) 
 
-### #is_/same_as :: [Fluorine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.personal.md) 
+### #is_/same_as :: [Fluorine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.personal.md) 
 
-### #is_/same_as :: [Fluorine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.secret.md)
+### #is_/same_as :: [Fluorine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.secret.md)
 

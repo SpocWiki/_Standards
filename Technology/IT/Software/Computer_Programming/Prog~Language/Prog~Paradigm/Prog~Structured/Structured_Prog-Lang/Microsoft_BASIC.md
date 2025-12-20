@@ -16,3 +16,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Microsoft%20BASIC)
 > 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Microsoft_BASIC](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC.md) 
+
+### #is_/same_as :: [Microsoft_BASIC.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC.public.md) 
+
+### #is_/same_as :: [Microsoft_BASIC.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC.internal.md) 
+
+### #is_/same_as :: [Microsoft_BASIC.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC.protect.md) 
+
+### #is_/same_as :: [Microsoft_BASIC.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC.private.md) 
+
+### #is_/same_as :: [Microsoft_BASIC.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC.personal.md) 
+
+### #is_/same_as :: [Microsoft_BASIC.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC.secret.md)
+

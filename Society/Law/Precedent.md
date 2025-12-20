@@ -43,3 +43,22 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q61421325,61421325]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Precedent) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Precedent](/_Standards/Society/Law/Precedent.md) 
+
+### #is_/same_as :: [Precedent.public](/_public/Society/Law/Precedent.public.md) 
+
+### #is_/same_as :: [Precedent.internal](/_internal/Society/Law/Precedent.internal.md) 
+
+### #is_/same_as :: [Precedent.protect](/_protect/Society/Law/Precedent.protect.md) 
+
+### #is_/same_as :: [Precedent.private](/_private/Society/Law/Precedent.private.md) 
+
+### #is_/same_as :: [Precedent.personal](/_personal/Society/Law/Precedent.personal.md) 
+
+### #is_/same_as :: [Precedent.secret](/_secret/Society/Law/Precedent.secret.md)
+

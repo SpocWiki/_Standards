@@ -26,3 +26,22 @@ Commons_category: Religious law
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Religious_Law](/_Standards/Society/Law/Religious_Law.md) 
+
+### #is_/same_as :: [Religious_Law.public](/_public/Society/Law/Religious_Law.public.md) 
+
+### #is_/same_as :: [Religious_Law.internal](/_internal/Society/Law/Religious_Law.internal.md) 
+
+### #is_/same_as :: [Religious_Law.protect](/_protect/Society/Law/Religious_Law.protect.md) 
+
+### #is_/same_as :: [Religious_Law.private](/_private/Society/Law/Religious_Law.private.md) 
+
+### #is_/same_as :: [Religious_Law.personal](/_personal/Society/Law/Religious_Law.personal.md) 
+
+### #is_/same_as :: [Religious_Law.secret](/_secret/Society/Law/Religious_Law.secret.md)
+

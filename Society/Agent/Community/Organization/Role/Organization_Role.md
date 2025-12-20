@@ -41,17 +41,17 @@ A subclass of Role used to describe roles within organizations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organization_Role](Organization_Role.md) 
+### #is_/same_as :: [Organization_Role](/_Standards/Society/Agent/Community/Organization/Role/Organization_Role.md) 
 
-### #is_/same_as :: [organization_role.public](/_public/schema-org/Class/is_a_/Intangible/role/organization_role.public.md) 
+### #is_/same_as :: [Organization_Role.public](/_public/Society/Agent/Community/Organization/Role/Organization_Role.public.md) 
 
-### #is_/same_as :: [organization_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/organization_role.internal.md) 
+### #is_/same_as :: [Organization_Role.internal](/_internal/Society/Agent/Community/Organization/Role/Organization_Role.internal.md) 
 
-### #is_/same_as :: [organization_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/organization_role.protect.md) 
+### #is_/same_as :: [Organization_Role.protect](/_protect/Society/Agent/Community/Organization/Role/Organization_Role.protect.md) 
 
-### #is_/same_as :: [organization_role.private](/_private/schema-org/Class/is_a_/Intangible/role/organization_role.private.md) 
+### #is_/same_as :: [Organization_Role.private](/_private/Society/Agent/Community/Organization/Role/Organization_Role.private.md) 
 
-### #is_/same_as :: [organization_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/organization_role.personal.md) 
+### #is_/same_as :: [Organization_Role.personal](/_personal/Society/Agent/Community/Organization/Role/Organization_Role.personal.md) 
 
-### #is_/same_as :: [organization_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role.secret.md)
+### #is_/same_as :: [Organization_Role.secret](/_secret/Society/Agent/Community/Organization/Role/Organization_Role.secret.md)
 

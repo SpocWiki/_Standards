@@ -52,3 +52,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jethro_Tull(Band)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Jethro_Tull(Band).md) 
+
+### #is_/same_as :: [Jethro_Tull(Band).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Jethro_Tull(Band).public.md) 
+
+### #is_/same_as :: [Jethro_Tull(Band).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Jethro_Tull(Band).internal.md) 
+
+### #is_/same_as :: [Jethro_Tull(Band).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Jethro_Tull(Band).protect.md) 
+
+### #is_/same_as :: [Jethro_Tull(Band).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Jethro_Tull(Band).private.md) 
+
+### #is_/same_as :: [Jethro_Tull(Band).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Jethro_Tull(Band).personal.md) 
+
+### #is_/same_as :: [Jethro_Tull(Band).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Jethro_Tull(Band).secret.md)
+

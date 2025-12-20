@@ -117,3 +117,22 @@ work_period_start_: 1914-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gloria%20Swanson) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gloria_Swanson](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Gloria_Swanson.md) 
+
+### #is_/same_as :: [Gloria_Swanson.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Gloria_Swanson.public.md) 
+
+### #is_/same_as :: [Gloria_Swanson.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Gloria_Swanson.internal.md) 
+
+### #is_/same_as :: [Gloria_Swanson.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Gloria_Swanson.protect.md) 
+
+### #is_/same_as :: [Gloria_Swanson.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Gloria_Swanson.private.md) 
+
+### #is_/same_as :: [Gloria_Swanson.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Gloria_Swanson.personal.md) 
+
+### #is_/same_as :: [Gloria_Swanson.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Gloria_Swanson.secret.md)
+

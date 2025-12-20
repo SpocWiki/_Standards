@@ -50,3 +50,22 @@ Commons_category: Mid-ocean ridges
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mid-ocean%20ridge) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mid-Ocean_Ridge](/_Standards/Earth/Ocean/Mid-Ocean_Ridge.md) 
+
+### #is_/same_as :: [Mid-Ocean_Ridge.public](/_public/Earth/Ocean/Mid-Ocean_Ridge.public.md) 
+
+### #is_/same_as :: [Mid-Ocean_Ridge.internal](/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal.md) 
+
+### #is_/same_as :: [Mid-Ocean_Ridge.protect](/_protect/Earth/Ocean/Mid-Ocean_Ridge.protect.md) 
+
+### #is_/same_as :: [Mid-Ocean_Ridge.private](/_private/Earth/Ocean/Mid-Ocean_Ridge.private.md) 
+
+### #is_/same_as :: [Mid-Ocean_Ridge.personal](/_personal/Earth/Ocean/Mid-Ocean_Ridge.personal.md) 
+
+### #is_/same_as :: [Mid-Ocean_Ridge.secret](/_secret/Earth/Ocean/Mid-Ocean_Ridge.secret.md)
+

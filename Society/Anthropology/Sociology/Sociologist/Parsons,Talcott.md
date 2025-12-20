@@ -97,3 +97,22 @@ date_of_birth: 1902-12-13T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Talcott%20Parsons) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parsons,Talcott](/_Standards/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.md) 
+
+### #is_/same_as :: [Parsons,Talcott.public](/_public/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.public.md) 
+
+### #is_/same_as :: [Parsons,Talcott.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.internal.md) 
+
+### #is_/same_as :: [Parsons,Talcott.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.protect.md) 
+
+### #is_/same_as :: [Parsons,Talcott.private](/_private/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.private.md) 
+
+### #is_/same_as :: [Parsons,Talcott.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.personal.md) 
+
+### #is_/same_as :: [Parsons,Talcott.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Parsons,Talcott.secret.md)
+

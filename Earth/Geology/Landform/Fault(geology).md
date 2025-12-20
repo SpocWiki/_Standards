@@ -43,3 +43,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Faille%20des%20Causses
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fault%20(geology)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fault(geology)](/_Standards/Earth/Geology/Landform/Fault(geology).md) 
+
+### #is_/same_as :: [Fault(geology).public](/_public/Earth/Geology/Landform/Fault(geology).public.md) 
+
+### #is_/same_as :: [Fault(geology).internal](/_internal/Earth/Geology/Landform/Fault(geology).internal.md) 
+
+### #is_/same_as :: [Fault(geology).protect](/_protect/Earth/Geology/Landform/Fault(geology).protect.md) 
+
+### #is_/same_as :: [Fault(geology).private](/_private/Earth/Geology/Landform/Fault(geology).private.md) 
+
+### #is_/same_as :: [Fault(geology).personal](/_personal/Earth/Geology/Landform/Fault(geology).personal.md) 
+
+### #is_/same_as :: [Fault(geology).secret](/_secret/Earth/Geology/Landform/Fault(geology).secret.md)
+

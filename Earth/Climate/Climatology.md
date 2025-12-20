@@ -58,3 +58,22 @@ Commons_category: Climatology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Climatology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Climatology](/_Standards/Earth/Climate/Climatology.md) 
+
+### #is_/same_as :: [Climatology.public](/_public/Earth/Climate/Climatology.public.md) 
+
+### #is_/same_as :: [Climatology.internal](/_internal/Earth/Climate/Climatology.internal.md) 
+
+### #is_/same_as :: [Climatology.protect](/_protect/Earth/Climate/Climatology.protect.md) 
+
+### #is_/same_as :: [Climatology.private](/_private/Earth/Climate/Climatology.private.md) 
+
+### #is_/same_as :: [Climatology.personal](/_personal/Earth/Climate/Climatology.personal.md) 
+
+### #is_/same_as :: [Climatology.secret](/_secret/Earth/Climate/Climatology.secret.md)
+

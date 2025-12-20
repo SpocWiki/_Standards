@@ -48,3 +48,22 @@ OpenStreetMap_tag_or_key: Tag:place=city_block
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/City%20block) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [City_Block](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/City_Block.md) 
+
+### #is_/same_as :: [City_Block.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/City_Block.public.md) 
+
+### #is_/same_as :: [City_Block.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/City_Block.internal.md) 
+
+### #is_/same_as :: [City_Block.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/City_Block.protect.md) 
+
+### #is_/same_as :: [City_Block.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/City_Block.private.md) 
+
+### #is_/same_as :: [City_Block.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/City_Block.personal.md) 
+
+### #is_/same_as :: [City_Block.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/City_Block.secret.md)
+

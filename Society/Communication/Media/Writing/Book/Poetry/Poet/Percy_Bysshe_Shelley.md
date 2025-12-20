@@ -142,3 +142,21 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SHELLI_PERSI_BISH.
 > He died in a boating accident in 1822 at age 29.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Percy%20Bysshe%20Shelley)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Percy_Bysshe_Shelley](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.md) 
+
+### #is_/same_as :: [Percy_Bysshe_Shelley.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.public.md) 
+
+### #is_/same_as :: [Percy_Bysshe_Shelley.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.internal.md) 
+
+### #is_/same_as :: [Percy_Bysshe_Shelley.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.protect.md) 
+
+### #is_/same_as :: [Percy_Bysshe_Shelley.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.private.md) 
+
+### #is_/same_as :: [Percy_Bysshe_Shelley.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.personal.md) 
+
+### #is_/same_as :: [Percy_Bysshe_Shelley.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Percy_Bysshe_Shelley.secret.md)
+

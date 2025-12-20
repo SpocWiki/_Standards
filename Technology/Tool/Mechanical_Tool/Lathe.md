@@ -46,3 +46,22 @@ Commons_category: Lathes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lathe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lathe](/_Standards/Technology/Tool/Mechanical_Tool/Lathe.md) 
+
+### #is_/same_as :: [Lathe.public](/_public/Technology/Tool/Mechanical_Tool/Lathe.public.md) 
+
+### #is_/same_as :: [Lathe.internal](/_internal/Technology/Tool/Mechanical_Tool/Lathe.internal.md) 
+
+### #is_/same_as :: [Lathe.protect](/_protect/Technology/Tool/Mechanical_Tool/Lathe.protect.md) 
+
+### #is_/same_as :: [Lathe.private](/_private/Technology/Tool/Mechanical_Tool/Lathe.private.md) 
+
+### #is_/same_as :: [Lathe.personal](/_personal/Technology/Tool/Mechanical_Tool/Lathe.personal.md) 
+
+### #is_/same_as :: [Lathe.secret](/_secret/Technology/Tool/Mechanical_Tool/Lathe.secret.md)
+

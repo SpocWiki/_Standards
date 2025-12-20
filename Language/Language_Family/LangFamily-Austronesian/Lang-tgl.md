@@ -97,3 +97,22 @@ Commons_category: Tagalog language
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tagalog%20language) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-tgl](/_Standards/Language/Language_Family/LangFamily-Austronesian/Lang-tgl.md) 
+
+### #is_/same_as :: [Lang-tgl.public](/_public/Language/Language_Family/LangFamily-Austronesian/Lang-tgl.public.md) 
+
+### #is_/same_as :: [Lang-tgl.internal](/_internal/Language/Language_Family/LangFamily-Austronesian/Lang-tgl.internal.md) 
+
+### #is_/same_as :: [Lang-tgl.protect](/_protect/Language/Language_Family/LangFamily-Austronesian/Lang-tgl.protect.md) 
+
+### #is_/same_as :: [Lang-tgl.private](/_private/Language/Language_Family/LangFamily-Austronesian/Lang-tgl.private.md) 
+
+### #is_/same_as :: [Lang-tgl.personal](/_personal/Language/Language_Family/LangFamily-Austronesian/Lang-tgl.personal.md) 
+
+### #is_/same_as :: [Lang-tgl.secret](/_secret/Language/Language_Family/LangFamily-Austronesian/Lang-tgl.secret.md)
+

@@ -36,3 +36,22 @@ Commons_category: Data transmission
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Data%20communication) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Data_Transmission](/_Standards/Technology/IT/Data/Data_Transmission.md) 
+
+### #is_/same_as :: [Data_Transmission.public](/_public/Technology/IT/Data/Data_Transmission.public.md) 
+
+### #is_/same_as :: [Data_Transmission.internal](/_internal/Technology/IT/Data/Data_Transmission.internal.md) 
+
+### #is_/same_as :: [Data_Transmission.protect](/_protect/Technology/IT/Data/Data_Transmission.protect.md) 
+
+### #is_/same_as :: [Data_Transmission.private](/_private/Technology/IT/Data/Data_Transmission.private.md) 
+
+### #is_/same_as :: [Data_Transmission.personal](/_personal/Technology/IT/Data/Data_Transmission.personal.md) 
+
+### #is_/same_as :: [Data_Transmission.secret](/_secret/Technology/IT/Data/Data_Transmission.secret.md)
+

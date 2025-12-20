@@ -77,7 +77,7 @@ mitochondrial DNA sequences. Canadian Journal of Zoology 81:462-468.
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
   Copyright ::            © 2006 [Frank Wouters](http://flickr.com/people/frank-wouters/)
-  --------------------------------------------------------
+  --------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

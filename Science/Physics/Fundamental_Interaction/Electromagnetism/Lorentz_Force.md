@@ -45,3 +45,22 @@ Commons_category: Lorentz force
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lorentz%20force) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lorentz_Force](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.md) 
+
+### #is_/same_as :: [Lorentz_Force.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.public.md) 
+
+### #is_/same_as :: [Lorentz_Force.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.internal.md) 
+
+### #is_/same_as :: [Lorentz_Force.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.protect.md) 
+
+### #is_/same_as :: [Lorentz_Force.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.private.md) 
+
+### #is_/same_as :: [Lorentz_Force.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.personal.md) 
+
+### #is_/same_as :: [Lorentz_Force.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.secret.md)
+

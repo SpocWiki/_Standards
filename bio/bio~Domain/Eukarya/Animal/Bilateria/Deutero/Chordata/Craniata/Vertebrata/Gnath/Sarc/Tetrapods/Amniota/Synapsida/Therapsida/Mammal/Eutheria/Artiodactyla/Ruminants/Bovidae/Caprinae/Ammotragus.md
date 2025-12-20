@@ -64,7 +64,7 @@ biology, ecology and distribution. Annales Zoologici Fennici 35:149-162.
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   Copyright ::            © 2003 [Eric Conner](http://flickr.com/people/horatio3k/)
-  -------------------------------------------------------------
+  -------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

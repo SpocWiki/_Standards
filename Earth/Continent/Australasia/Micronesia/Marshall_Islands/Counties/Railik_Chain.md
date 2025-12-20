@@ -40,17 +40,17 @@ markerFolder: ./Railik_Chain/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Railik_Chain](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.md) 
+### #is_/same_as :: [Railik_Chain](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.md) 
 
-### #is_/same_as :: [Railik_Chain.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.public.md) 
+### #is_/same_as :: [Railik_Chain.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.public.md) 
 
-### #is_/same_as :: [Railik_Chain.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.internal.md) 
+### #is_/same_as :: [Railik_Chain.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.internal.md) 
 
-### #is_/same_as :: [Railik_Chain.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.protect.md) 
+### #is_/same_as :: [Railik_Chain.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.protect.md) 
 
-### #is_/same_as :: [Railik_Chain.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.private.md) 
+### #is_/same_as :: [Railik_Chain.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.private.md) 
 
-### #is_/same_as :: [Railik_Chain.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.personal.md) 
+### #is_/same_as :: [Railik_Chain.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.personal.md) 
 
-### #is_/same_as :: [Railik_Chain.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.secret.md)
+### #is_/same_as :: [Railik_Chain.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.secret.md)
 

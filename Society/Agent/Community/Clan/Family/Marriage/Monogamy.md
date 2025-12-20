@@ -29,3 +29,22 @@ has_id_wikidata: Q184211
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monogamy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monogamy](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Monogamy.md) 
+
+### #is_/same_as :: [Monogamy.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Monogamy.public.md) 
+
+### #is_/same_as :: [Monogamy.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Monogamy.internal.md) 
+
+### #is_/same_as :: [Monogamy.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Monogamy.protect.md) 
+
+### #is_/same_as :: [Monogamy.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Monogamy.private.md) 
+
+### #is_/same_as :: [Monogamy.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Monogamy.personal.md) 
+
+### #is_/same_as :: [Monogamy.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Monogamy.secret.md)
+

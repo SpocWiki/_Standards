@@ -87,3 +87,22 @@ periapsis: 34.4961098
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Haumea)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Haumea](/_Standards/Astronomy/Solar_System/Haumea.md) 
+
+### #is_/same_as :: [Haumea.public](/_public/Astronomy/Solar_System/Haumea.public.md) 
+
+### #is_/same_as :: [Haumea.internal](/_internal/Astronomy/Solar_System/Haumea.internal.md) 
+
+### #is_/same_as :: [Haumea.protect](/_protect/Astronomy/Solar_System/Haumea.protect.md) 
+
+### #is_/same_as :: [Haumea.private](/_private/Astronomy/Solar_System/Haumea.private.md) 
+
+### #is_/same_as :: [Haumea.personal](/_personal/Astronomy/Solar_System/Haumea.personal.md) 
+
+### #is_/same_as :: [Haumea.secret](/_secret/Astronomy/Solar_System/Haumea.secret.md)
+

@@ -114,3 +114,22 @@ Commons_category: Urdu language
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Urdu) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lang-urd](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-urd.md) 
+
+### #is_/same_as :: [Lang-urd.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-urd.public.md) 
+
+### #is_/same_as :: [Lang-urd.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-urd.internal.md) 
+
+### #is_/same_as :: [Lang-urd.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-urd.protect.md) 
+
+### #is_/same_as :: [Lang-urd.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-urd.private.md) 
+
+### #is_/same_as :: [Lang-urd.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-urd.personal.md) 
+
+### #is_/same_as :: [Lang-urd.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-urd.secret.md)
+

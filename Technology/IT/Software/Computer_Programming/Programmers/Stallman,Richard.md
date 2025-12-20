@@ -159,3 +159,22 @@ birth_name: Richard Matthew Stallman
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Stallman)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stallman,Richard](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.md) 
+
+### #is_/same_as :: [Stallman,Richard.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.public.md) 
+
+### #is_/same_as :: [Stallman,Richard.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.internal.md) 
+
+### #is_/same_as :: [Stallman,Richard.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.protect.md) 
+
+### #is_/same_as :: [Stallman,Richard.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.private.md) 
+
+### #is_/same_as :: [Stallman,Richard.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.personal.md) 
+
+### #is_/same_as :: [Stallman,Richard.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.secret.md)
+

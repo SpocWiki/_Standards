@@ -45,3 +45,22 @@ MeSH_tree_code: G09.330.380.750
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pulse) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pulse](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Pulse.md) 
+
+### #is_/same_as :: [Pulse.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Pulse.public.md) 
+
+### #is_/same_as :: [Pulse.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Pulse.internal.md) 
+
+### #is_/same_as :: [Pulse.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Pulse.protect.md) 
+
+### #is_/same_as :: [Pulse.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Pulse.private.md) 
+
+### #is_/same_as :: [Pulse.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Pulse.personal.md) 
+
+### #is_/same_as :: [Pulse.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Pulse.secret.md)
+

@@ -109,3 +109,22 @@ Commons_category: Treaties
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Treaty](/_Standards/Society/Law/Contract/Treaty.md) 
+
+### #is_/same_as :: [Treaty.public](/_public/Society/Law/Contract/Treaty.public.md) 
+
+### #is_/same_as :: [Treaty.internal](/_internal/Society/Law/Contract/Treaty.internal.md) 
+
+### #is_/same_as :: [Treaty.protect](/_protect/Society/Law/Contract/Treaty.protect.md) 
+
+### #is_/same_as :: [Treaty.private](/_private/Society/Law/Contract/Treaty.private.md) 
+
+### #is_/same_as :: [Treaty.personal](/_personal/Society/Law/Contract/Treaty.personal.md) 
+
+### #is_/same_as :: [Treaty.secret](/_secret/Society/Law/Contract/Treaty.secret.md)
+

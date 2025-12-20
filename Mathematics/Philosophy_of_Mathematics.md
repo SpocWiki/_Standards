@@ -39,3 +39,22 @@ PhilPapers_topic: philosophy-of-mathematics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20mathematics) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Philosophy_of_Mathematics](/_Standards/Mathematics/Philosophy_of_Mathematics.md) 
+
+### #is_/same_as :: [Philosophy_of_Mathematics.public](/_public/Mathematics/Philosophy_of_Mathematics.public.md) 
+
+### #is_/same_as :: [Philosophy_of_Mathematics.internal](/_internal/Mathematics/Philosophy_of_Mathematics.internal.md) 
+
+### #is_/same_as :: [Philosophy_of_Mathematics.protect](/_protect/Mathematics/Philosophy_of_Mathematics.protect.md) 
+
+### #is_/same_as :: [Philosophy_of_Mathematics.private](/_private/Mathematics/Philosophy_of_Mathematics.private.md) 
+
+### #is_/same_as :: [Philosophy_of_Mathematics.personal](/_personal/Mathematics/Philosophy_of_Mathematics.personal.md) 
+
+### #is_/same_as :: [Philosophy_of_Mathematics.secret](/_secret/Mathematics/Philosophy_of_Mathematics.secret.md)
+

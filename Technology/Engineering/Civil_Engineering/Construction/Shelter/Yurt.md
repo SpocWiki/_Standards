@@ -49,3 +49,22 @@ Commons_category: Yurts
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yurt) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yurt](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.md) 
+
+### #is_/same_as :: [Yurt.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.public.md) 
+
+### #is_/same_as :: [Yurt.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.internal.md) 
+
+### #is_/same_as :: [Yurt.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.protect.md) 
+
+### #is_/same_as :: [Yurt.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.private.md) 
+
+### #is_/same_as :: [Yurt.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.personal.md) 
+
+### #is_/same_as :: [Yurt.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Yurt.secret.md)
+

@@ -46,3 +46,22 @@ Commons_category: Sonnets
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sonnet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sonnet](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Sonnet.md) 
+
+### #is_/same_as :: [Sonnet.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Sonnet.public.md) 
+
+### #is_/same_as :: [Sonnet.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Sonnet.internal.md) 
+
+### #is_/same_as :: [Sonnet.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Sonnet.protect.md) 
+
+### #is_/same_as :: [Sonnet.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Sonnet.private.md) 
+
+### #is_/same_as :: [Sonnet.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Sonnet.personal.md) 
+
+### #is_/same_as :: [Sonnet.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Sonnet.secret.md)
+

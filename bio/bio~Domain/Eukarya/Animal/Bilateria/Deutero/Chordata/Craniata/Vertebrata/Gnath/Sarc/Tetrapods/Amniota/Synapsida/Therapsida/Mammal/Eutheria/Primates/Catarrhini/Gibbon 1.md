@@ -50,3 +50,21 @@ UMLS_CUI:
 > Depending on the species and sex, gibbons' fur coloration varies from dark- to light-brown shades, and any shade between black and white, though a completely "white" gibbon is rare.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gibbon)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gibbon 1](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon 1.md) 
+
+### #is_/same_as :: [Gibbon 1.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon 1.public.md) 
+
+### #is_/same_as :: [Gibbon 1.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon 1.internal.md) 
+
+### #is_/same_as :: [Gibbon 1.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon 1.protect.md) 
+
+### #is_/same_as :: [Gibbon 1.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon 1.private.md) 
+
+### #is_/same_as :: [Gibbon 1.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon 1.personal.md) 
+
+### #is_/same_as :: [Gibbon 1.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon 1.secret.md)
+

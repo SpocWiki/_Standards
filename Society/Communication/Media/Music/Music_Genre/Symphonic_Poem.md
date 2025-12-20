@@ -39,3 +39,22 @@ Dewey_Decimal_Classification: "784.1843"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Symphonic%20poem) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Symphonic_Poem](/_Standards/Society/Communication/Media/Music/Music_Genre/Symphonic_Poem.md) 
+
+### #is_/same_as :: [Symphonic_Poem.public](/_public/Society/Communication/Media/Music/Music_Genre/Symphonic_Poem.public.md) 
+
+### #is_/same_as :: [Symphonic_Poem.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Symphonic_Poem.internal.md) 
+
+### #is_/same_as :: [Symphonic_Poem.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Symphonic_Poem.protect.md) 
+
+### #is_/same_as :: [Symphonic_Poem.private](/_private/Society/Communication/Media/Music/Music_Genre/Symphonic_Poem.private.md) 
+
+### #is_/same_as :: [Symphonic_Poem.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Symphonic_Poem.personal.md) 
+
+### #is_/same_as :: [Symphonic_Poem.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Symphonic_Poem.secret.md)
+

@@ -136,3 +136,22 @@ U_S_National_Archives_Identifier: "10581113"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guglielmo%20Marconi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marconi,Guglielmo](/_Standards/Science/Inventor/Marconi,Guglielmo.md) 
+
+### #is_/same_as :: [Marconi,Guglielmo.public](/_public/Science/Inventor/Marconi,Guglielmo.public.md) 
+
+### #is_/same_as :: [Marconi,Guglielmo.internal](/_internal/Science/Inventor/Marconi,Guglielmo.internal.md) 
+
+### #is_/same_as :: [Marconi,Guglielmo.protect](/_protect/Science/Inventor/Marconi,Guglielmo.protect.md) 
+
+### #is_/same_as :: [Marconi,Guglielmo.private](/_private/Science/Inventor/Marconi,Guglielmo.private.md) 
+
+### #is_/same_as :: [Marconi,Guglielmo.personal](/_personal/Science/Inventor/Marconi,Guglielmo.personal.md) 
+
+### #is_/same_as :: [Marconi,Guglielmo.secret](/_secret/Science/Inventor/Marconi,Guglielmo.secret.md)
+

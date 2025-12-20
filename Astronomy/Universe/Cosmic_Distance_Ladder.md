@@ -35,3 +35,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Extragalactic%20Distan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cosmic%20distance%20ladder) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cosmic_Distance_Ladder](/_Standards/Astronomy/Universe/Cosmic_Distance_Ladder.md) 
+
+### #is_/same_as :: [Cosmic_Distance_Ladder.public](/_public/Astronomy/Universe/Cosmic_Distance_Ladder.public.md) 
+
+### #is_/same_as :: [Cosmic_Distance_Ladder.internal](/_internal/Astronomy/Universe/Cosmic_Distance_Ladder.internal.md) 
+
+### #is_/same_as :: [Cosmic_Distance_Ladder.protect](/_protect/Astronomy/Universe/Cosmic_Distance_Ladder.protect.md) 
+
+### #is_/same_as :: [Cosmic_Distance_Ladder.private](/_private/Astronomy/Universe/Cosmic_Distance_Ladder.private.md) 
+
+### #is_/same_as :: [Cosmic_Distance_Ladder.personal](/_personal/Astronomy/Universe/Cosmic_Distance_Ladder.personal.md) 
+
+### #is_/same_as :: [Cosmic_Distance_Ladder.secret](/_secret/Astronomy/Universe/Cosmic_Distance_Ladder.secret.md)
+

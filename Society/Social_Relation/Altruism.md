@@ -52,17 +52,17 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/ALTRUIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Altruism](/_Standards/Society/Altruism.md) 
+### #is_/same_as :: [Altruism](/_Standards/Society/Social_Relation/Altruism.md) 
 
-### #is_/same_as :: [Altruism.public](/_public/Society/Altruism.public.md) 
+### #is_/same_as :: [Altruism.public](/_public/Society/Social_Relation/Altruism.public.md) 
 
-### #is_/same_as :: [Altruism.internal](/_internal/Society/Altruism.internal.md) 
+### #is_/same_as :: [Altruism.internal](/_internal/Society/Social_Relation/Altruism.internal.md) 
 
-### #is_/same_as :: [Altruism.protect](/_protect/Society/Altruism.protect.md) 
+### #is_/same_as :: [Altruism.protect](/_protect/Society/Social_Relation/Altruism.protect.md) 
 
-### #is_/same_as :: [Altruism.private](/_private/Society/Altruism.private.md) 
+### #is_/same_as :: [Altruism.private](/_private/Society/Social_Relation/Altruism.private.md) 
 
-### #is_/same_as :: [Altruism.personal](/_personal/Society/Altruism.personal.md) 
+### #is_/same_as :: [Altruism.personal](/_personal/Society/Social_Relation/Altruism.personal.md) 
 
-### #is_/same_as :: [Altruism.secret](/_secret/Society/Altruism.secret.md)
+### #is_/same_as :: [Altruism.secret](/_secret/Society/Social_Relation/Altruism.secret.md)
 

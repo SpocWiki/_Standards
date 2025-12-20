@@ -232,6 +232,7 @@ A car is a wheeled, self-powered motor [[../Vehicle|vehicle]] used for transport
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Car)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Car](/_Standards/Technology/Transport/Road_Transport/Car.md) 

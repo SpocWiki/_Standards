@@ -37,3 +37,22 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/LATINOAMERIKANSKAY
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin%20American%20literature) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Latin_American_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.md) 
+
+### #is_/same_as :: [Latin_American_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.public.md) 
+
+### #is_/same_as :: [Latin_American_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.internal.md) 
+
+### #is_/same_as :: [Latin_American_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.protect.md) 
+
+### #is_/same_as :: [Latin_American_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.private.md) 
+
+### #is_/same_as :: [Latin_American_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.personal.md) 
+
+### #is_/same_as :: [Latin_American_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Latin_American_Literature.secret.md)
+

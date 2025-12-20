@@ -92,3 +92,22 @@ Krugosvet_article_archived_: medicina/UMSTVENNAYA_OTSTALOST.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Intellectual%20disability) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Intellectual_Disability](/_Standards/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability.md) 
+
+### #is_/same_as :: [Intellectual_Disability.public](/_public/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability.public.md) 
+
+### #is_/same_as :: [Intellectual_Disability.internal](/_internal/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability.internal.md) 
+
+### #is_/same_as :: [Intellectual_Disability.protect](/_protect/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability.protect.md) 
+
+### #is_/same_as :: [Intellectual_Disability.private](/_private/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability.private.md) 
+
+### #is_/same_as :: [Intellectual_Disability.personal](/_personal/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability.personal.md) 
+
+### #is_/same_as :: [Intellectual_Disability.secret](/_secret/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability.secret.md)
+

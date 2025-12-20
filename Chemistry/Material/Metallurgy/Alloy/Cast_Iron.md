@@ -37,3 +37,22 @@ Commons_category: Cast iron
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cast%20iron) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cast_Iron](/_Standards/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.md) 
+
+### #is_/same_as :: [Cast_Iron.public](/_public/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.public.md) 
+
+### #is_/same_as :: [Cast_Iron.internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.internal.md) 
+
+### #is_/same_as :: [Cast_Iron.protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.protect.md) 
+
+### #is_/same_as :: [Cast_Iron.private](/_private/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.private.md) 
+
+### #is_/same_as :: [Cast_Iron.personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.personal.md) 
+
+### #is_/same_as :: [Cast_Iron.secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Cast_Iron.secret.md)
+

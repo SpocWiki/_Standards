@@ -23,3 +23,22 @@ Commons_category: Worm gears
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Worm%20drive) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Worm_Drive](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.md) 
+
+### #is_/same_as :: [Worm_Drive.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.public.md) 
+
+### #is_/same_as :: [Worm_Drive.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.internal.md) 
+
+### #is_/same_as :: [Worm_Drive.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.protect.md) 
+
+### #is_/same_as :: [Worm_Drive.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.private.md) 
+
+### #is_/same_as :: [Worm_Drive.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.personal.md) 
+
+### #is_/same_as :: [Worm_Drive.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Worm_Drive.secret.md)
+

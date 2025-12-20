@@ -49,3 +49,22 @@ Commons_category: Herbivores
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Herbivore) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Herbivore](/_Standards/bio/Metabolism/Herbivore.md) 
+
+### #is_/same_as :: [Herbivore.public](/_public/bio/Metabolism/Herbivore.public.md) 
+
+### #is_/same_as :: [Herbivore.internal](/_internal/bio/Metabolism/Herbivore.internal.md) 
+
+### #is_/same_as :: [Herbivore.protect](/_protect/bio/Metabolism/Herbivore.protect.md) 
+
+### #is_/same_as :: [Herbivore.private](/_private/bio/Metabolism/Herbivore.private.md) 
+
+### #is_/same_as :: [Herbivore.personal](/_personal/bio/Metabolism/Herbivore.personal.md) 
+
+### #is_/same_as :: [Herbivore.secret](/_secret/bio/Metabolism/Herbivore.secret.md)
+

@@ -41,3 +41,22 @@ inception: 2010-04-18T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pirate%20Parties%20International) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pirate_Parties_International](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.md) 
+
+### #is_/same_as :: [Pirate_Parties_International.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.public.md) 
+
+### #is_/same_as :: [Pirate_Parties_International.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.internal.md) 
+
+### #is_/same_as :: [Pirate_Parties_International.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.protect.md) 
+
+### #is_/same_as :: [Pirate_Parties_International.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.private.md) 
+
+### #is_/same_as :: [Pirate_Parties_International.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.personal.md) 
+
+### #is_/same_as :: [Pirate_Parties_International.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.secret.md)
+

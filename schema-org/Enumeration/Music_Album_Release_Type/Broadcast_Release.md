@@ -40,17 +40,17 @@ BroadcastRelease.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Broadcast_Release](Broadcast_Release.md) 
+### #is_/same_as :: [Broadcast_Release](/_Standards/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.md) 
 
-### #is_/same_as :: [broadcast_release.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.public.md) 
+### #is_/same_as :: [Broadcast_Release.public](/_public/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.public.md) 
 
-### #is_/same_as :: [broadcast_release.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.internal.md) 
+### #is_/same_as :: [Broadcast_Release.internal](/_internal/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.internal.md) 
 
-### #is_/same_as :: [broadcast_release.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.protect.md) 
+### #is_/same_as :: [Broadcast_Release.protect](/_protect/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.protect.md) 
 
-### #is_/same_as :: [broadcast_release.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.private.md) 
+### #is_/same_as :: [Broadcast_Release.private](/_private/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.private.md) 
 
-### #is_/same_as :: [broadcast_release.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.personal.md) 
+### #is_/same_as :: [Broadcast_Release.personal](/_personal/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.personal.md) 
 
-### #is_/same_as :: [broadcast_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.secret.md)
+### #is_/same_as :: [Broadcast_Release.secret](/_secret/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release.secret.md)
 

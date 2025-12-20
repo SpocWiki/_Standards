@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - surjection
 ---
@@ -39,4 +39,23 @@ direction LR
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surjective%20function)
 [[../../../Knowledge/Math/Combinatorics/Twelvefold_way]]] 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [surjective](/_Standards/Mathematics/Function(Math)/surjective.md) 
+
+### #is_/same_as :: [surjective.public](/_public/Mathematics/Function(Math)/surjective.public.md) 
+
+### #is_/same_as :: [surjective.internal](/_internal/Mathematics/Function(Math)/surjective.internal.md) 
+
+### #is_/same_as :: [surjective.protect](/_protect/Mathematics/Function(Math)/surjective.protect.md) 
+
+### #is_/same_as :: [surjective.private](/_private/Mathematics/Function(Math)/surjective.private.md) 
+
+### #is_/same_as :: [surjective.personal](/_personal/Mathematics/Function(Math)/surjective.personal.md) 
+
+### #is_/same_as :: [surjective.secret](/_secret/Mathematics/Function(Math)/surjective.secret.md)
 

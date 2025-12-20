@@ -67,7 +67,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
   Collection           2004
   Collector            M. Mennicken
   Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

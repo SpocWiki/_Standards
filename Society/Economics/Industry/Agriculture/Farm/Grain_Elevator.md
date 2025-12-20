@@ -66,3 +66,22 @@ Commons_category: Grain elevators
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grain%20elevator) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grain_Elevator](/_Standards/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.md) 
+
+### #is_/same_as :: [Grain_Elevator.public](/_public/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.public.md) 
+
+### #is_/same_as :: [Grain_Elevator.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.internal.md) 
+
+### #is_/same_as :: [Grain_Elevator.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.protect.md) 
+
+### #is_/same_as :: [Grain_Elevator.private](/_private/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.private.md) 
+
+### #is_/same_as :: [Grain_Elevator.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.personal.md) 
+
+### #is_/same_as :: [Grain_Elevator.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Grain_Elevator.secret.md)
+

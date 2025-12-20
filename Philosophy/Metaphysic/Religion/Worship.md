@@ -36,3 +36,22 @@ Colon_Classification: Q:45
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Worship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Worship](/_Standards/Philosophy/Metaphysic/Religion/Worship.md) 
+
+### #is_/same_as :: [Worship.public](/_public/Philosophy/Metaphysic/Religion/Worship.public.md) 
+
+### #is_/same_as :: [Worship.internal](/_internal/Philosophy/Metaphysic/Religion/Worship.internal.md) 
+
+### #is_/same_as :: [Worship.protect](/_protect/Philosophy/Metaphysic/Religion/Worship.protect.md) 
+
+### #is_/same_as :: [Worship.private](/_private/Philosophy/Metaphysic/Religion/Worship.private.md) 
+
+### #is_/same_as :: [Worship.personal](/_personal/Philosophy/Metaphysic/Religion/Worship.personal.md) 
+
+### #is_/same_as :: [Worship.secret](/_secret/Philosophy/Metaphysic/Religion/Worship.secret.md)
+

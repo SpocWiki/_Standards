@@ -40,17 +40,17 @@ UNSPSC_Code: 12352003
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alkyne](/_Standards/Chemistry/organic/Alkyne.md) 
+### #is_/same_as :: [Alkyne](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.md) 
 
-### #is_/same_as :: [Alkyne.public](/_public/Chemistry/organic/Alkyne.public.md) 
+### #is_/same_as :: [Alkyne.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.public.md) 
 
-### #is_/same_as :: [Alkyne.internal](/_internal/Chemistry/organic/Alkyne.internal.md) 
+### #is_/same_as :: [Alkyne.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.internal.md) 
 
-### #is_/same_as :: [Alkyne.protect](/_protect/Chemistry/organic/Alkyne.protect.md) 
+### #is_/same_as :: [Alkyne.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.protect.md) 
 
-### #is_/same_as :: [Alkyne.private](/_private/Chemistry/organic/Alkyne.private.md) 
+### #is_/same_as :: [Alkyne.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.private.md) 
 
-### #is_/same_as :: [Alkyne.personal](/_personal/Chemistry/organic/Alkyne.personal.md) 
+### #is_/same_as :: [Alkyne.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.personal.md) 
 
-### #is_/same_as :: [Alkyne.secret](/_secret/Chemistry/organic/Alkyne.secret.md)
+### #is_/same_as :: [Alkyne.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.secret.md)
 

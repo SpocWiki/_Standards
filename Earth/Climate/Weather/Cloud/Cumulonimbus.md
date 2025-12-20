@@ -39,3 +39,22 @@ hashtag_: cumulonimbus_cloud
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cumulonimbus%20cloud) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cumulonimbus](/_Standards/Earth/Climate/Weather/Cloud/Cumulonimbus.md) 
+
+### #is_/same_as :: [Cumulonimbus.public](/_public/Earth/Climate/Weather/Cloud/Cumulonimbus.public.md) 
+
+### #is_/same_as :: [Cumulonimbus.internal](/_internal/Earth/Climate/Weather/Cloud/Cumulonimbus.internal.md) 
+
+### #is_/same_as :: [Cumulonimbus.protect](/_protect/Earth/Climate/Weather/Cloud/Cumulonimbus.protect.md) 
+
+### #is_/same_as :: [Cumulonimbus.private](/_private/Earth/Climate/Weather/Cloud/Cumulonimbus.private.md) 
+
+### #is_/same_as :: [Cumulonimbus.personal](/_personal/Earth/Climate/Weather/Cloud/Cumulonimbus.personal.md) 
+
+### #is_/same_as :: [Cumulonimbus.secret](/_secret/Earth/Climate/Weather/Cloud/Cumulonimbus.secret.md)
+

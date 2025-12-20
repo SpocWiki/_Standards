@@ -65,3 +65,22 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/SKAZKA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fairy%20tale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fairy_Tale](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.md) 
+
+### #is_/same_as :: [Fairy_Tale.public](/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.public.md) 
+
+### #is_/same_as :: [Fairy_Tale.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.internal.md) 
+
+### #is_/same_as :: [Fairy_Tale.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.protect.md) 
+
+### #is_/same_as :: [Fairy_Tale.private](/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.private.md) 
+
+### #is_/same_as :: [Fairy_Tale.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.personal.md) 
+
+### #is_/same_as :: [Fairy_Tale.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale.secret.md)
+

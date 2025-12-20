@@ -45,3 +45,22 @@ Commons_gallery: 折り紙
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Origami) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Origami](/_Standards/Society/Communication/Art/Origami.md) 
+
+### #is_/same_as :: [Origami.public](/_public/Society/Communication/Art/Origami.public.md) 
+
+### #is_/same_as :: [Origami.internal](/_internal/Society/Communication/Art/Origami.internal.md) 
+
+### #is_/same_as :: [Origami.protect](/_protect/Society/Communication/Art/Origami.protect.md) 
+
+### #is_/same_as :: [Origami.private](/_private/Society/Communication/Art/Origami.private.md) 
+
+### #is_/same_as :: [Origami.personal](/_personal/Society/Communication/Art/Origami.personal.md) 
+
+### #is_/same_as :: [Origami.secret](/_secret/Society/Communication/Art/Origami.secret.md)
+

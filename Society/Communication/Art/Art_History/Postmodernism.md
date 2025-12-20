@@ -45,3 +45,22 @@ Commons_category: Postmodernism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Postmodernism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Postmodernism](/_Standards/Society/Communication/Art/Art_History/Postmodernism.md) 
+
+### #is_/same_as :: [Postmodernism.public](/_public/Society/Communication/Art/Art_History/Postmodernism.public.md) 
+
+### #is_/same_as :: [Postmodernism.internal](/_internal/Society/Communication/Art/Art_History/Postmodernism.internal.md) 
+
+### #is_/same_as :: [Postmodernism.protect](/_protect/Society/Communication/Art/Art_History/Postmodernism.protect.md) 
+
+### #is_/same_as :: [Postmodernism.private](/_private/Society/Communication/Art/Art_History/Postmodernism.private.md) 
+
+### #is_/same_as :: [Postmodernism.personal](/_personal/Society/Communication/Art/Art_History/Postmodernism.personal.md) 
+
+### #is_/same_as :: [Postmodernism.secret](/_secret/Society/Communication/Art/Art_History/Postmodernism.secret.md)
+

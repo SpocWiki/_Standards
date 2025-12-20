@@ -55,3 +55,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ulysses(Novel)](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).md) 
+
+### #is_/same_as :: [Ulysses(Novel).public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).public.md) 
+
+### #is_/same_as :: [Ulysses(Novel).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).internal.md) 
+
+### #is_/same_as :: [Ulysses(Novel).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).protect.md) 
+
+### #is_/same_as :: [Ulysses(Novel).private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).private.md) 
+
+### #is_/same_as :: [Ulysses(Novel).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).personal.md) 
+
+### #is_/same_as :: [Ulysses(Novel).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James/Ulysses(Novel).secret.md)
+

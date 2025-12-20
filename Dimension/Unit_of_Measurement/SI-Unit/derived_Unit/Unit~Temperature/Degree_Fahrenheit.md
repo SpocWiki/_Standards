@@ -70,3 +70,22 @@ unit_symbol:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fahrenheit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Degree_Fahrenheit](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.md) 
+
+### #is_/same_as :: [Degree_Fahrenheit.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.public.md) 
+
+### #is_/same_as :: [Degree_Fahrenheit.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.internal.md) 
+
+### #is_/same_as :: [Degree_Fahrenheit.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.protect.md) 
+
+### #is_/same_as :: [Degree_Fahrenheit.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.private.md) 
+
+### #is_/same_as :: [Degree_Fahrenheit.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.personal.md) 
+
+### #is_/same_as :: [Degree_Fahrenheit.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.secret.md)
+

@@ -32,3 +32,22 @@ Commons_category: Molecular orbitals
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molecular%20orbital) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Molecular_Orbital](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.md) 
+
+### #is_/same_as :: [Molecular_Orbital.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.public.md) 
+
+### #is_/same_as :: [Molecular_Orbital.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.internal.md) 
+
+### #is_/same_as :: [Molecular_Orbital.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.protect.md) 
+
+### #is_/same_as :: [Molecular_Orbital.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.private.md) 
+
+### #is_/same_as :: [Molecular_Orbital.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.personal.md) 
+
+### #is_/same_as :: [Molecular_Orbital.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.secret.md)
+

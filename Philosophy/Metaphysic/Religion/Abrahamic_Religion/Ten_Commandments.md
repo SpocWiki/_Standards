@@ -103,3 +103,22 @@ Commons_category: Ten Commandments
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ten%20Commandments) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ten_Commandments](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Ten_Commandments.md) 
+
+### #is_/same_as :: [Ten_Commandments.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Ten_Commandments.public.md) 
+
+### #is_/same_as :: [Ten_Commandments.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Ten_Commandments.internal.md) 
+
+### #is_/same_as :: [Ten_Commandments.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Ten_Commandments.protect.md) 
+
+### #is_/same_as :: [Ten_Commandments.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Ten_Commandments.private.md) 
+
+### #is_/same_as :: [Ten_Commandments.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Ten_Commandments.personal.md) 
+
+### #is_/same_as :: [Ten_Commandments.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Ten_Commandments.secret.md)
+

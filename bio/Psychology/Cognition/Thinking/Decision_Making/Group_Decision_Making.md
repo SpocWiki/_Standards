@@ -25,3 +25,22 @@ Library_of_Congress_Classification: HM746-HM751
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%20decision-making) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Group_Decision_Making](/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.md) 
+
+### #is_/same_as :: [Group_Decision_Making.public](/_public/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.public.md) 
+
+### #is_/same_as :: [Group_Decision_Making.internal](/_internal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.internal.md) 
+
+### #is_/same_as :: [Group_Decision_Making.protect](/_protect/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.protect.md) 
+
+### #is_/same_as :: [Group_Decision_Making.private](/_private/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.private.md) 
+
+### #is_/same_as :: [Group_Decision_Making.personal](/_personal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.personal.md) 
+
+### #is_/same_as :: [Group_Decision_Making.secret](/_secret/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.secret.md)
+

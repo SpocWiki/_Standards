@@ -97,3 +97,22 @@ The paradox vanishes once you adopt modern quantum field theory:
  The **electron mass** is not field energy, but set by its **Higgs Yukawa coupling**, 
  with QED renormalization handling divergent self-energies.
     
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.md) 
+
+### #is_/same_as :: [Electron.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.public.md) 
+
+### #is_/same_as :: [Electron.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.internal.md) 
+
+### #is_/same_as :: [Electron.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.protect.md) 
+
+### #is_/same_as :: [Electron.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.private.md) 
+
+### #is_/same_as :: [Electron.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.personal.md) 
+
+### #is_/same_as :: [Electron.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.secret.md)
+

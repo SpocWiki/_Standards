@@ -51,3 +51,22 @@ OpenStreetMap_tag_or_key: Tag:historic=archaeological_site
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Archaeological%20site) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Archaeological_Site](/_Standards/Earth/Geography/Place/Archaeological_Site.md) 
+
+### #is_/same_as :: [Archaeological_Site.public](/_public/Earth/Geography/Place/Archaeological_Site.public.md) 
+
+### #is_/same_as :: [Archaeological_Site.internal](/_internal/Earth/Geography/Place/Archaeological_Site.internal.md) 
+
+### #is_/same_as :: [Archaeological_Site.protect](/_protect/Earth/Geography/Place/Archaeological_Site.protect.md) 
+
+### #is_/same_as :: [Archaeological_Site.private](/_private/Earth/Geography/Place/Archaeological_Site.private.md) 
+
+### #is_/same_as :: [Archaeological_Site.personal](/_personal/Earth/Geography/Place/Archaeological_Site.personal.md) 
+
+### #is_/same_as :: [Archaeological_Site.secret](/_secret/Earth/Geography/Place/Archaeological_Site.secret.md)
+

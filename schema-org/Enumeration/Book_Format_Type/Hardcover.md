@@ -40,17 +40,17 @@ Book format: Hardcover.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hardcover](Hardcover.md) 
+### #is_/same_as :: [Hardcover](/_Standards/schema-org/Enumeration/Book_Format_Type/Hardcover.md) 
 
-### #is_/same_as :: [hardcover.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.public.md) 
+### #is_/same_as :: [Hardcover.public](/_public/schema-org/Enumeration/Book_Format_Type/Hardcover.public.md) 
 
-### #is_/same_as :: [hardcover.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.internal.md) 
+### #is_/same_as :: [Hardcover.internal](/_internal/schema-org/Enumeration/Book_Format_Type/Hardcover.internal.md) 
 
-### #is_/same_as :: [hardcover.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.protect.md) 
+### #is_/same_as :: [Hardcover.protect](/_protect/schema-org/Enumeration/Book_Format_Type/Hardcover.protect.md) 
 
-### #is_/same_as :: [hardcover.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.private.md) 
+### #is_/same_as :: [Hardcover.private](/_private/schema-org/Enumeration/Book_Format_Type/Hardcover.private.md) 
 
-### #is_/same_as :: [hardcover.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.personal.md) 
+### #is_/same_as :: [Hardcover.personal](/_personal/schema-org/Enumeration/Book_Format_Type/Hardcover.personal.md) 
 
-### #is_/same_as :: [hardcover.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.secret.md)
+### #is_/same_as :: [Hardcover.secret](/_secret/schema-org/Enumeration/Book_Format_Type/Hardcover.secret.md)
 

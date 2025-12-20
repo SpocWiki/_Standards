@@ -95,17 +95,17 @@ UMLS_CUI: C0024028
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Love](/_Standards/bio/Psychology/Emotion/Love.md) 
+### #is_/same_as :: [Love](/_Standards/bio/Psychology/Affect/Emotion/Love.md) 
 
-### #is_/same_as :: [Love.public](/_public/bio/Psychology/Emotion/Love.public.md) 
+### #is_/same_as :: [Love.public](/_public/bio/Psychology/Affect/Emotion/Love.public.md) 
 
-### #is_/same_as :: [Love.internal](/_internal/bio/Psychology/Emotion/Love.internal.md) 
+### #is_/same_as :: [Love.internal](/_internal/bio/Psychology/Affect/Emotion/Love.internal.md) 
 
-### #is_/same_as :: [Love.protect](/_protect/bio/Psychology/Emotion/Love.protect.md) 
+### #is_/same_as :: [Love.protect](/_protect/bio/Psychology/Affect/Emotion/Love.protect.md) 
 
-### #is_/same_as :: [Love.private](/_private/bio/Psychology/Emotion/Love.private.md) 
+### #is_/same_as :: [Love.private](/_private/bio/Psychology/Affect/Emotion/Love.private.md) 
 
-### #is_/same_as :: [Love.personal](/_personal/bio/Psychology/Emotion/Love.personal.md) 
+### #is_/same_as :: [Love.personal](/_personal/bio/Psychology/Affect/Emotion/Love.personal.md) 
 
-### #is_/same_as :: [Love.secret](/_secret/bio/Psychology/Emotion/Love.secret.md)
+### #is_/same_as :: [Love.secret](/_secret/bio/Psychology/Affect/Emotion/Love.secret.md)
 

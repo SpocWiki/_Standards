@@ -40,17 +40,17 @@ A trial design in which the researcher knows the full details of the treatment, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [open_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.md) 
+### #is_/same_as :: [Open_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.md) 
 
-### #is_/same_as :: [open_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.public.md) 
+### #is_/same_as :: [Open_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.public.md) 
 
-### #is_/same_as :: [open_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.internal.md) 
+### #is_/same_as :: [Open_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.internal.md) 
 
-### #is_/same_as :: [open_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.protect.md) 
+### #is_/same_as :: [Open_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.protect.md) 
 
-### #is_/same_as :: [open_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.private.md) 
+### #is_/same_as :: [Open_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.private.md) 
 
-### #is_/same_as :: [open_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.personal.md) 
+### #is_/same_as :: [Open_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.personal.md) 
 
-### #is_/same_as :: [open_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.secret.md)
+### #is_/same_as :: [Open_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.secret.md)
 

@@ -52,3 +52,22 @@ OpenStreetMap_tag: healthcare:speciality=surgery
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surgery) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Surgery](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.md) 
+
+### #is_/same_as :: [Surgery.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.public.md) 
+
+### #is_/same_as :: [Surgery.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.internal.md) 
+
+### #is_/same_as :: [Surgery.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.protect.md) 
+
+### #is_/same_as :: [Surgery.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.private.md) 
+
+### #is_/same_as :: [Surgery.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.personal.md) 
+
+### #is_/same_as :: [Surgery.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.secret.md)
+

@@ -123,19 +123,20 @@ The generation concept explains why:
     
 - Quark mass hierarchy affects **particle decay rates** and **CP violation**
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.md) 
+### #is_/same_as :: [Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark.md) 
 
-### #is_/same_as :: [Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.public.md) 
+### #is_/same_as :: [Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark.public.md) 
 
-### #is_/same_as :: [Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.internal.md) 
+### #is_/same_as :: [Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark.internal.md) 
 
-### #is_/same_as :: [Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.protect.md) 
+### #is_/same_as :: [Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark.protect.md) 
 
-### #is_/same_as :: [Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.private.md) 
+### #is_/same_as :: [Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark.private.md) 
 
-### #is_/same_as :: [Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.personal.md) 
+### #is_/same_as :: [Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark.personal.md) 
 
-### #is_/same_as :: [Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.secret.md)
+### #is_/same_as :: [Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark.secret.md)
 

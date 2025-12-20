@@ -96,3 +96,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PersianGulf%20vue%20sa
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Persian%20Gulf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Persian_Gulf](/_Standards/Earth/Ocean/Ocean~Indian/Persian_Gulf.md) 
+
+### #is_/same_as :: [Persian_Gulf.public](/_public/Earth/Ocean/Ocean~Indian/Persian_Gulf.public.md) 
+
+### #is_/same_as :: [Persian_Gulf.internal](/_internal/Earth/Ocean/Ocean~Indian/Persian_Gulf.internal.md) 
+
+### #is_/same_as :: [Persian_Gulf.protect](/_protect/Earth/Ocean/Ocean~Indian/Persian_Gulf.protect.md) 
+
+### #is_/same_as :: [Persian_Gulf.private](/_private/Earth/Ocean/Ocean~Indian/Persian_Gulf.private.md) 
+
+### #is_/same_as :: [Persian_Gulf.personal](/_personal/Earth/Ocean/Ocean~Indian/Persian_Gulf.personal.md) 
+
+### #is_/same_as :: [Persian_Gulf.secret](/_secret/Earth/Ocean/Ocean~Indian/Persian_Gulf.secret.md)
+

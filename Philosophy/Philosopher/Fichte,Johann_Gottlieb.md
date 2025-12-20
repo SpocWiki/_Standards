@@ -130,3 +130,22 @@ Europeana_entity: agent/base/145317
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Gottlieb%20Fichte) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fichte,Johann_Gottlieb](/_Standards/Philosophy/Philosopher/Fichte,Johann_Gottlieb.md) 
+
+### #is_/same_as :: [Fichte,Johann_Gottlieb.public](/_public/Philosophy/Philosopher/Fichte,Johann_Gottlieb.public.md) 
+
+### #is_/same_as :: [Fichte,Johann_Gottlieb.internal](/_internal/Philosophy/Philosopher/Fichte,Johann_Gottlieb.internal.md) 
+
+### #is_/same_as :: [Fichte,Johann_Gottlieb.protect](/_protect/Philosophy/Philosopher/Fichte,Johann_Gottlieb.protect.md) 
+
+### #is_/same_as :: [Fichte,Johann_Gottlieb.private](/_private/Philosophy/Philosopher/Fichte,Johann_Gottlieb.private.md) 
+
+### #is_/same_as :: [Fichte,Johann_Gottlieb.personal](/_personal/Philosophy/Philosopher/Fichte,Johann_Gottlieb.personal.md) 
+
+### #is_/same_as :: [Fichte,Johann_Gottlieb.secret](/_secret/Philosophy/Philosopher/Fichte,Johann_Gottlieb.secret.md)
+

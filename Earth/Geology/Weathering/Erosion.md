@@ -41,3 +41,22 @@ Krugosvet_article: Earth_sciences/geologiya/EROZIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Erosion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Erosion](/_Standards/Earth/Geology/Weathering/Erosion.md) 
+
+### #is_/same_as :: [Erosion.public](/_public/Earth/Geology/Weathering/Erosion.public.md) 
+
+### #is_/same_as :: [Erosion.internal](/_internal/Earth/Geology/Weathering/Erosion.internal.md) 
+
+### #is_/same_as :: [Erosion.protect](/_protect/Earth/Geology/Weathering/Erosion.protect.md) 
+
+### #is_/same_as :: [Erosion.private](/_private/Earth/Geology/Weathering/Erosion.private.md) 
+
+### #is_/same_as :: [Erosion.personal](/_personal/Earth/Geology/Weathering/Erosion.personal.md) 
+
+### #is_/same_as :: [Erosion.secret](/_secret/Earth/Geology/Weathering/Erosion.secret.md)
+

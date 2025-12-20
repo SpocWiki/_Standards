@@ -42,17 +42,17 @@ Body height (measured between crown of head and soles of feet). Used, for exampl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Height](Body_Measurement_Height.md) 
+### #is_/same_as :: [Body_Measurement_Height](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.md) 
 
-### #is_/same_as :: [body_measurement_height.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.public.md) 
+### #is_/same_as :: [Body_Measurement_Height.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.public.md) 
 
-### #is_/same_as :: [body_measurement_height.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.internal.md) 
+### #is_/same_as :: [Body_Measurement_Height.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.internal.md) 
 
-### #is_/same_as :: [body_measurement_height.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.protect.md) 
+### #is_/same_as :: [Body_Measurement_Height.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.protect.md) 
 
-### #is_/same_as :: [body_measurement_height.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.private.md) 
+### #is_/same_as :: [Body_Measurement_Height.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.private.md) 
 
-### #is_/same_as :: [body_measurement_height.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.personal.md) 
+### #is_/same_as :: [Body_Measurement_Height.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.personal.md) 
 
-### #is_/same_as :: [body_measurement_height.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.secret.md)
+### #is_/same_as :: [Body_Measurement_Height.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.secret.md)
 

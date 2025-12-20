@@ -48,19 +48,20 @@ Eye or ophthalmological function assessment with clinical examination.
 
 #is_/same_as :: [[../../../../WikiData/WD~Eye_examination,796207|WD~Eye_examination,796207]]
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [eye](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.md) 
+### #is_/same_as :: [Eye_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.md) 
 
-### #is_/same_as :: [eye.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.public.md) 
+### #is_/same_as :: [Eye_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.public.md) 
 
-### #is_/same_as :: [eye.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.internal.md) 
+### #is_/same_as :: [Eye_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.internal.md) 
 
-### #is_/same_as :: [eye.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.protect.md) 
+### #is_/same_as :: [Eye_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.protect.md) 
 
-### #is_/same_as :: [eye.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.private.md) 
+### #is_/same_as :: [Eye_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.private.md) 
 
-### #is_/same_as :: [eye.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.personal.md) 
+### #is_/same_as :: [Eye_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.personal.md) 
 
-### #is_/same_as :: [eye.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.secret.md)
+### #is_/same_as :: [Eye_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Eye_Exam.secret.md)
 

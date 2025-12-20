@@ -45,3 +45,22 @@ Commons_category: Suffering
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suffering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Suffering](/_Standards/bio/Psychology/Affect/Emotion/Suffering.md) 
+
+### #is_/same_as :: [Suffering.public](/_public/bio/Psychology/Affect/Emotion/Suffering.public.md) 
+
+### #is_/same_as :: [Suffering.internal](/_internal/bio/Psychology/Affect/Emotion/Suffering.internal.md) 
+
+### #is_/same_as :: [Suffering.protect](/_protect/bio/Psychology/Affect/Emotion/Suffering.protect.md) 
+
+### #is_/same_as :: [Suffering.private](/_private/bio/Psychology/Affect/Emotion/Suffering.private.md) 
+
+### #is_/same_as :: [Suffering.personal](/_personal/bio/Psychology/Affect/Emotion/Suffering.personal.md) 
+
+### #is_/same_as :: [Suffering.secret](/_secret/bio/Psychology/Affect/Emotion/Suffering.secret.md)
+

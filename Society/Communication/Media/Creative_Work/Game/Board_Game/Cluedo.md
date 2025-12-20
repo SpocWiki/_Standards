@@ -63,3 +63,22 @@ title: Cluedo
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cluedo) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cluedo](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Cluedo.md) 
+
+### #is_/same_as :: [Cluedo.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Cluedo.public.md) 
+
+### #is_/same_as :: [Cluedo.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Cluedo.internal.md) 
+
+### #is_/same_as :: [Cluedo.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Cluedo.protect.md) 
+
+### #is_/same_as :: [Cluedo.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Cluedo.private.md) 
+
+### #is_/same_as :: [Cluedo.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Cluedo.personal.md) 
+
+### #is_/same_as :: [Cluedo.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Cluedo.secret.md)
+

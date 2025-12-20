@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lust_for_Life](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lust_for_Life.md) 
+### #is_/same_as :: [Lust_for_Life](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life.md) 
 
-### #is_/same_as :: [Lust_for_Life.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lust_for_Life.public.md) 
+### #is_/same_as :: [Lust_for_Life.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life.public.md) 
 
-### #is_/same_as :: [Lust_for_Life.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lust_for_Life.internal.md) 
+### #is_/same_as :: [Lust_for_Life.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life.internal.md) 
 
-### #is_/same_as :: [Lust_for_Life.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lust_for_Life.protect.md) 
+### #is_/same_as :: [Lust_for_Life.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life.protect.md) 
 
-### #is_/same_as :: [Lust_for_Life.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lust_for_Life.private.md) 
+### #is_/same_as :: [Lust_for_Life.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life.private.md) 
 
-### #is_/same_as :: [Lust_for_Life.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lust_for_Life.personal.md) 
+### #is_/same_as :: [Lust_for_Life.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life.personal.md) 
 
-### #is_/same_as :: [Lust_for_Life.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lust_for_Life.secret.md)
+### #is_/same_as :: [Lust_for_Life.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lust_for_Life.secret.md)
 

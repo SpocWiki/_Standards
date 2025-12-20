@@ -49,8 +49,6 @@ PhilPapers_topic: chemical-bonding
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20bond) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Chemical_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond.md) 

@@ -66,3 +66,22 @@ MeSH_tree_code: G01.374.715
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pressure) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dim~Pressure](/_Standards/Dimension/Dim~Pressure.md) 
+
+### #is_/same_as :: [Dim~Pressure.public](/_public/Dimension/Dim~Pressure.public.md) 
+
+### #is_/same_as :: [Dim~Pressure.internal](/_internal/Dimension/Dim~Pressure.internal.md) 
+
+### #is_/same_as :: [Dim~Pressure.protect](/_protect/Dimension/Dim~Pressure.protect.md) 
+
+### #is_/same_as :: [Dim~Pressure.private](/_private/Dimension/Dim~Pressure.private.md) 
+
+### #is_/same_as :: [Dim~Pressure.personal](/_personal/Dimension/Dim~Pressure.personal.md) 
+
+### #is_/same_as :: [Dim~Pressure.secret](/_secret/Dimension/Dim~Pressure.secret.md)
+

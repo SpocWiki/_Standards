@@ -82,3 +82,22 @@ Krugosvet_article: nauka_i_tehnika/matematika/IGR_TEORIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Game%20theory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Game_Theory](/_Standards/Mathematics/Game_Theory.md) 
+
+### #is_/same_as :: [Game_Theory.public](/_public/Mathematics/Game_Theory.public.md) 
+
+### #is_/same_as :: [Game_Theory.internal](/_internal/Mathematics/Game_Theory.internal.md) 
+
+### #is_/same_as :: [Game_Theory.protect](/_protect/Mathematics/Game_Theory.protect.md) 
+
+### #is_/same_as :: [Game_Theory.private](/_private/Mathematics/Game_Theory.private.md) 
+
+### #is_/same_as :: [Game_Theory.personal](/_personal/Mathematics/Game_Theory.personal.md) 
+
+### #is_/same_as :: [Game_Theory.secret](/_secret/Mathematics/Game_Theory.secret.md)
+

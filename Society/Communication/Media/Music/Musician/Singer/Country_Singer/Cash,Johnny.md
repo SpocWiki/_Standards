@@ -146,3 +146,22 @@ IPI_name_number: "00005462217"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johnny%20Cash) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cash,Johnny](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.md) 
+
+### #is_/same_as :: [Cash,Johnny.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.public.md) 
+
+### #is_/same_as :: [Cash,Johnny.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.internal.md) 
+
+### #is_/same_as :: [Cash,Johnny.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.protect.md) 
+
+### #is_/same_as :: [Cash,Johnny.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.private.md) 
+
+### #is_/same_as :: [Cash,Johnny.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.personal.md) 
+
+### #is_/same_as :: [Cash,Johnny.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.secret.md)
+

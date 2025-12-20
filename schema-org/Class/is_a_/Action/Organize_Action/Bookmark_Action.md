@@ -39,17 +39,17 @@ An agent bookmarks/flags/labels/tags/marks an object.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bookmark_action](/_Standards/schema-org/Class/is_a_/action/organize_action/bookmark_action.md) 
+### #is_/same_as :: [Bookmark_Action](/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.md) 
 
-### #is_/same_as :: [bookmark_action.public](/_public/schema-org/Class/is_a_/action/organize_action/bookmark_action.public.md) 
+### #is_/same_as :: [Bookmark_Action.public](/_public/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.public.md) 
 
-### #is_/same_as :: [bookmark_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/bookmark_action.internal.md) 
+### #is_/same_as :: [Bookmark_Action.internal](/_internal/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.internal.md) 
 
-### #is_/same_as :: [bookmark_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/bookmark_action.protect.md) 
+### #is_/same_as :: [Bookmark_Action.protect](/_protect/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.protect.md) 
 
-### #is_/same_as :: [bookmark_action.private](/_private/schema-org/Class/is_a_/action/organize_action/bookmark_action.private.md) 
+### #is_/same_as :: [Bookmark_Action.private](/_private/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.private.md) 
 
-### #is_/same_as :: [bookmark_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/bookmark_action.personal.md) 
+### #is_/same_as :: [Bookmark_Action.personal](/_personal/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.personal.md) 
 
-### #is_/same_as :: [bookmark_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/bookmark_action.secret.md)
+### #is_/same_as :: [Bookmark_Action.secret](/_secret/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.secret.md)
 

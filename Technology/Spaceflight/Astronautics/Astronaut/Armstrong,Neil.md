@@ -160,3 +160,22 @@ ISNI: 000000012147959X
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neil%20Armstrong) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Armstrong,Neil](/_Standards/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.md) 
+
+### #is_/same_as :: [Armstrong,Neil.public](/_public/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.public.md) 
+
+### #is_/same_as :: [Armstrong,Neil.internal](/_internal/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.internal.md) 
+
+### #is_/same_as :: [Armstrong,Neil.protect](/_protect/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.protect.md) 
+
+### #is_/same_as :: [Armstrong,Neil.private](/_private/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.private.md) 
+
+### #is_/same_as :: [Armstrong,Neil.personal](/_personal/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.personal.md) 
+
+### #is_/same_as :: [Armstrong,Neil.secret](/_secret/Technology/Spaceflight/Astronautics/Astronaut/Armstrong,Neil.secret.md)
+

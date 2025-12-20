@@ -30,3 +30,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Immortality) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Immortality](/_Standards/bio/Metabolism/Death/Immortality.md) 
+
+### #is_/same_as :: [Immortality.public](/_public/bio/Metabolism/Death/Immortality.public.md) 
+
+### #is_/same_as :: [Immortality.internal](/_internal/bio/Metabolism/Death/Immortality.internal.md) 
+
+### #is_/same_as :: [Immortality.protect](/_protect/bio/Metabolism/Death/Immortality.protect.md) 
+
+### #is_/same_as :: [Immortality.private](/_private/bio/Metabolism/Death/Immortality.private.md) 
+
+### #is_/same_as :: [Immortality.personal](/_personal/bio/Metabolism/Death/Immortality.personal.md) 
+
+### #is_/same_as :: [Immortality.secret](/_secret/bio/Metabolism/Death/Immortality.secret.md)
+

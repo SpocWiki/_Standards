@@ -24,3 +24,22 @@ inception: 1910-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dixieland%20jazz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dixieland_Jazz](/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.md) 
+
+### #is_/same_as :: [Dixieland_Jazz.public](/_public/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.public.md) 
+
+### #is_/same_as :: [Dixieland_Jazz.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.internal.md) 
+
+### #is_/same_as :: [Dixieland_Jazz.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.protect.md) 
+
+### #is_/same_as :: [Dixieland_Jazz.private](/_private/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.private.md) 
+
+### #is_/same_as :: [Dixieland_Jazz.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.personal.md) 
+
+### #is_/same_as :: [Dixieland_Jazz.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Jazz/Dixieland_Jazz.secret.md)
+

@@ -94,17 +94,17 @@ Unit :: #Unit/SI/s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Second](/_Standards/Unit/SI-Unit/Unit~Second.md) 
+### #is_/same_as :: [Unit~Second](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Second.md) 
 
-### #is_/same_as :: [Unit~Second.public](/_public/Unit/SI-Unit/Unit~Second.public.md) 
+### #is_/same_as :: [Unit~Second.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Second.public.md) 
 
-### #is_/same_as :: [Unit~Second.internal](/_internal/Unit/SI-Unit/Unit~Second.internal.md) 
+### #is_/same_as :: [Unit~Second.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Second.internal.md) 
 
-### #is_/same_as :: [Unit~Second.protect](/_protect/Unit/SI-Unit/Unit~Second.protect.md) 
+### #is_/same_as :: [Unit~Second.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Second.protect.md) 
 
-### #is_/same_as :: [Unit~Second.private](/_private/Unit/SI-Unit/Unit~Second.private.md) 
+### #is_/same_as :: [Unit~Second.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Second.private.md) 
 
-### #is_/same_as :: [Unit~Second.personal](/_personal/Unit/SI-Unit/Unit~Second.personal.md) 
+### #is_/same_as :: [Unit~Second.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Second.personal.md) 
 
-### #is_/same_as :: [Unit~Second.secret](/_secret/Unit/SI-Unit/Unit~Second.secret.md)
+### #is_/same_as :: [Unit~Second.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Second.secret.md)
 

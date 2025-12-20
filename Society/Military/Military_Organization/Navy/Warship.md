@@ -39,3 +39,22 @@ has_id_wikidata: Q3114762
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Warship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Warship](/_Standards/Society/Military/Military_Organization/Navy/Warship.md) 
+
+### #is_/same_as :: [Warship.public](/_public/Society/Military/Military_Organization/Navy/Warship.public.md) 
+
+### #is_/same_as :: [Warship.internal](/_internal/Society/Military/Military_Organization/Navy/Warship.internal.md) 
+
+### #is_/same_as :: [Warship.protect](/_protect/Society/Military/Military_Organization/Navy/Warship.protect.md) 
+
+### #is_/same_as :: [Warship.private](/_private/Society/Military/Military_Organization/Navy/Warship.private.md) 
+
+### #is_/same_as :: [Warship.personal](/_personal/Society/Military/Military_Organization/Navy/Warship.personal.md) 
+
+### #is_/same_as :: [Warship.secret](/_secret/Society/Military/Military_Organization/Navy/Warship.secret.md)
+

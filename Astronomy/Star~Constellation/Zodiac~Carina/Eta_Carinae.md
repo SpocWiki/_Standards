@@ -50,3 +50,22 @@ has_id_wikidata: Q12185
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eta_Carinae](/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.md) 
+
+### #is_/same_as :: [Eta_Carinae.public](/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public.md) 
+
+### #is_/same_as :: [Eta_Carinae.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal.md) 
+
+### #is_/same_as :: [Eta_Carinae.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect.md) 
+
+### #is_/same_as :: [Eta_Carinae.private](/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private.md) 
+
+### #is_/same_as :: [Eta_Carinae.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal.md) 
+
+### #is_/same_as :: [Eta_Carinae.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret.md)
+

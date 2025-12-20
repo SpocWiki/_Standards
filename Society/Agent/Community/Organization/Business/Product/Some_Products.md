@@ -39,17 +39,17 @@ A placeholder for multiple similar products of the same kind.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Some_Products](Some_Products.md) 
+### #is_/same_as :: [Some_Products](/_Standards/Society/Agent/Community/Organization/Business/Product/Some_Products.md) 
 
-### #is_/same_as :: [some_products.public](/_public/schema-org/Class/is_a_/product/some_products.public.md) 
+### #is_/same_as :: [Some_Products.public](/_public/Society/Agent/Community/Organization/Business/Product/Some_Products.public.md) 
 
-### #is_/same_as :: [some_products.internal](/_internal/schema-org/Class/is_a_/product/some_products.internal.md) 
+### #is_/same_as :: [Some_Products.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Some_Products.internal.md) 
 
-### #is_/same_as :: [some_products.protect](/_protect/schema-org/Class/is_a_/product/some_products.protect.md) 
+### #is_/same_as :: [Some_Products.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Some_Products.protect.md) 
 
-### #is_/same_as :: [some_products.private](/_private/schema-org/Class/is_a_/product/some_products.private.md) 
+### #is_/same_as :: [Some_Products.private](/_private/Society/Agent/Community/Organization/Business/Product/Some_Products.private.md) 
 
-### #is_/same_as :: [some_products.personal](/_personal/schema-org/Class/is_a_/product/some_products.personal.md) 
+### #is_/same_as :: [Some_Products.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Some_Products.personal.md) 
 
-### #is_/same_as :: [some_products.secret](/_secret/schema-org/Class/is_a_/product/some_products.secret.md)
+### #is_/same_as :: [Some_Products.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Some_Products.secret.md)
 

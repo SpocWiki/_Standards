@@ -59,3 +59,22 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/ETIMOLOGIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Etymology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Etymology](/_Standards/Language/Word/Etymology.md) 
+
+### #is_/same_as :: [Etymology.public](/_public/Language/Word/Etymology.public.md) 
+
+### #is_/same_as :: [Etymology.internal](/_internal/Language/Word/Etymology.internal.md) 
+
+### #is_/same_as :: [Etymology.protect](/_protect/Language/Word/Etymology.protect.md) 
+
+### #is_/same_as :: [Etymology.private](/_private/Language/Word/Etymology.private.md) 
+
+### #is_/same_as :: [Etymology.personal](/_personal/Language/Word/Etymology.personal.md) 
+
+### #is_/same_as :: [Etymology.secret](/_secret/Language/Word/Etymology.secret.md)
+

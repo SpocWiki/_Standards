@@ -31,3 +31,22 @@ Commons_category: Syllabaries
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Syllabary) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Syllabary](/_Standards/Language/Linguistics/Syllabary.md) 
+
+### #is_/same_as :: [Syllabary.public](/_public/Language/Linguistics/Syllabary.public.md) 
+
+### #is_/same_as :: [Syllabary.internal](/_internal/Language/Linguistics/Syllabary.internal.md) 
+
+### #is_/same_as :: [Syllabary.protect](/_protect/Language/Linguistics/Syllabary.protect.md) 
+
+### #is_/same_as :: [Syllabary.private](/_private/Language/Linguistics/Syllabary.private.md) 
+
+### #is_/same_as :: [Syllabary.personal](/_personal/Language/Linguistics/Syllabary.personal.md) 
+
+### #is_/same_as :: [Syllabary.secret](/_secret/Language/Linguistics/Syllabary.secret.md)
+

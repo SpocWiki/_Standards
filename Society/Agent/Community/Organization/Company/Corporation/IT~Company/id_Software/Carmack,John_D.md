@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carmack,John_D](Carmack,John_D.md) 
+### #is_/same_as :: [Carmack,John_D](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.md) 
 
-### #is_/same_as :: [Carmack,John_D.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Carmack,John_D.public.md) 
+### #is_/same_as :: [Carmack,John_D.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.public.md) 
 
-### #is_/same_as :: [Carmack,John_D.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Carmack,John_D.internal.md) 
+### #is_/same_as :: [Carmack,John_D.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.internal.md) 
 
-### #is_/same_as :: [Carmack,John_D.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Carmack,John_D.protect.md) 
+### #is_/same_as :: [Carmack,John_D.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.protect.md) 
 
-### #is_/same_as :: [Carmack,John_D.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Carmack,John_D.private.md) 
+### #is_/same_as :: [Carmack,John_D.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.private.md) 
 
-### #is_/same_as :: [Carmack,John_D.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Carmack,John_D.personal.md) 
+### #is_/same_as :: [Carmack,John_D.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.personal.md) 
 
-### #is_/same_as :: [Carmack,John_D.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/id_Software/Carmack,John_D.secret.md)
+### #is_/same_as :: [Carmack,John_D.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.secret.md)
 

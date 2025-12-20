@@ -39,3 +39,22 @@ Commons_category: Greek fire
 > [Wikipedia](https://en.wikipedia.org/wiki/Greek%20fire) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Greek_Fire](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.md) 
+
+### #is_/same_as :: [Greek_Fire.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.public.md) 
+
+### #is_/same_as :: [Greek_Fire.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.internal.md) 
+
+### #is_/same_as :: [Greek_Fire.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.protect.md) 
+
+### #is_/same_as :: [Greek_Fire.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.private.md) 
+
+### #is_/same_as :: [Greek_Fire.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.personal.md) 
+
+### #is_/same_as :: [Greek_Fire.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon/Incendiary_Weapon/Greek_Fire.secret.md)
+

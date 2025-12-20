@@ -53,3 +53,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Swift,Taylor](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.md) 
+
+### #is_/same_as :: [Swift,Taylor.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.public.md) 
+
+### #is_/same_as :: [Swift,Taylor.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.internal.md) 
+
+### #is_/same_as :: [Swift,Taylor.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.protect.md) 
+
+### #is_/same_as :: [Swift,Taylor.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.private.md) 
+
+### #is_/same_as :: [Swift,Taylor.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.personal.md) 
+
+### #is_/same_as :: [Swift,Taylor.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.secret.md)
+

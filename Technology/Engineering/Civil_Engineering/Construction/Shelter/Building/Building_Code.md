@@ -43,17 +43,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Building_Code](Building_Code.md) 
+### #is_/same_as :: [Building_Code](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.md) 
 
-### #is_/same_as :: [Building_Code.public](/_public/Technology/Construction/Building/Building_Code.public.md) 
+### #is_/same_as :: [Building_Code.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.public.md) 
 
-### #is_/same_as :: [Building_Code.internal](/_internal/Technology/Construction/Building/Building_Code.internal.md) 
+### #is_/same_as :: [Building_Code.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.internal.md) 
 
-### #is_/same_as :: [Building_Code.protect](/_protect/Technology/Construction/Building/Building_Code.protect.md) 
+### #is_/same_as :: [Building_Code.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.protect.md) 
 
-### #is_/same_as :: [Building_Code.private](/_private/Technology/Construction/Building/Building_Code.private.md) 
+### #is_/same_as :: [Building_Code.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.private.md) 
 
-### #is_/same_as :: [Building_Code.personal](/_personal/Technology/Construction/Building/Building_Code.personal.md) 
+### #is_/same_as :: [Building_Code.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.personal.md) 
 
-### #is_/same_as :: [Building_Code.secret](/_secret/Technology/Construction/Building/Building_Code.secret.md)
+### #is_/same_as :: [Building_Code.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Building_Code.secret.md)
 

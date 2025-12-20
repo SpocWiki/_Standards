@@ -32,3 +32,22 @@ end_time: 0284-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crisis%20of%20the%20Third%20Century) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [0235-Crisis_of_the_Third_Century](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.md) 
+
+### #is_/same_as :: [0235-Crisis_of_the_Third_Century.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.public.md) 
+
+### #is_/same_as :: [0235-Crisis_of_the_Third_Century.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.internal.md) 
+
+### #is_/same_as :: [0235-Crisis_of_the_Third_Century.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.protect.md) 
+
+### #is_/same_as :: [0235-Crisis_of_the_Third_Century.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.private.md) 
+
+### #is_/same_as :: [0235-Crisis_of_the_Third_Century.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.personal.md) 
+
+### #is_/same_as :: [0235-Crisis_of_the_Third_Century.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.secret.md)
+

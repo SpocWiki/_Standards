@@ -190,3 +190,22 @@ Plex_person_key: 5d7768254de0ee001fcc832d
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oprah%20Winfrey) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Winfrey,Oprah](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.md) 
+
+### #is_/same_as :: [Winfrey,Oprah.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.public.md) 
+
+### #is_/same_as :: [Winfrey,Oprah.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.internal.md) 
+
+### #is_/same_as :: [Winfrey,Oprah.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.protect.md) 
+
+### #is_/same_as :: [Winfrey,Oprah.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.private.md) 
+
+### #is_/same_as :: [Winfrey,Oprah.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.personal.md) 
+
+### #is_/same_as :: [Winfrey,Oprah.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.secret.md)
+

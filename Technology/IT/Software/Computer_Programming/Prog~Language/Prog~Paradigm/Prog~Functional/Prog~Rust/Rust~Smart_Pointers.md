@@ -92,3 +92,22 @@ Rc::weak_count(&rc);
 *(rc.borrow_mut()) += 9; //can be shared e.g. with a structure AND can be modified.  
 Rc::downgrade(&rc);
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rust~Smart_Pointers](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.md) 
+
+### #is_/same_as :: [Rust~Smart_Pointers.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.public.md) 
+
+### #is_/same_as :: [Rust~Smart_Pointers.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.internal.md) 
+
+### #is_/same_as :: [Rust~Smart_Pointers.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.protect.md) 
+
+### #is_/same_as :: [Rust~Smart_Pointers.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.private.md) 
+
+### #is_/same_as :: [Rust~Smart_Pointers.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.personal.md) 
+
+### #is_/same_as :: [Rust~Smart_Pointers.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.secret.md)
+

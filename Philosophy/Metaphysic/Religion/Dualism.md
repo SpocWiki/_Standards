@@ -60,3 +60,22 @@ Commons_category: Dualism
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dualism) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dualism](/_Standards/Philosophy/Metaphysic/Religion/Dualism.md) 
+
+### #is_/same_as :: [Dualism.public](/_public/Philosophy/Metaphysic/Religion/Dualism.public.md) 
+
+### #is_/same_as :: [Dualism.internal](/_internal/Philosophy/Metaphysic/Religion/Dualism.internal.md) 
+
+### #is_/same_as :: [Dualism.protect](/_protect/Philosophy/Metaphysic/Religion/Dualism.protect.md) 
+
+### #is_/same_as :: [Dualism.private](/_private/Philosophy/Metaphysic/Religion/Dualism.private.md) 
+
+### #is_/same_as :: [Dualism.personal](/_personal/Philosophy/Metaphysic/Religion/Dualism.personal.md) 
+
+### #is_/same_as :: [Dualism.secret](/_secret/Philosophy/Metaphysic/Religion/Dualism.secret.md)
+

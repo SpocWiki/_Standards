@@ -34,3 +34,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/HIMIYA_LEKARSTV.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Medicinal%20chemistry) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Medicinal_Chemistry](/_Standards/Chemistry/Medicinal_Chemistry.md) 
+
+### #is_/same_as :: [Medicinal_Chemistry.public](/_public/Chemistry/Medicinal_Chemistry.public.md) 
+
+### #is_/same_as :: [Medicinal_Chemistry.internal](/_internal/Chemistry/Medicinal_Chemistry.internal.md) 
+
+### #is_/same_as :: [Medicinal_Chemistry.protect](/_protect/Chemistry/Medicinal_Chemistry.protect.md) 
+
+### #is_/same_as :: [Medicinal_Chemistry.private](/_private/Chemistry/Medicinal_Chemistry.private.md) 
+
+### #is_/same_as :: [Medicinal_Chemistry.personal](/_personal/Chemistry/Medicinal_Chemistry.personal.md) 
+
+### #is_/same_as :: [Medicinal_Chemistry.secret](/_secret/Chemistry/Medicinal_Chemistry.secret.md)
+

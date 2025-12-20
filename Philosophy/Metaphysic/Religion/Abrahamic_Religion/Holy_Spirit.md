@@ -47,3 +47,22 @@ Provenio_UUID: 704a7832-1419-4db2-9e2f-cfd763c29ed2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holy%20Spirit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holy_Spirit](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Holy_Spirit.md) 
+
+### #is_/same_as :: [Holy_Spirit.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Holy_Spirit.public.md) 
+
+### #is_/same_as :: [Holy_Spirit.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Holy_Spirit.internal.md) 
+
+### #is_/same_as :: [Holy_Spirit.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Holy_Spirit.protect.md) 
+
+### #is_/same_as :: [Holy_Spirit.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Holy_Spirit.private.md) 
+
+### #is_/same_as :: [Holy_Spirit.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Holy_Spirit.personal.md) 
+
+### #is_/same_as :: [Holy_Spirit.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Holy_Spirit.secret.md)
+

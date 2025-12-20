@@ -67,17 +67,17 @@ Commons_category: Tropical cyclones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tropical_Cyclone](/_Standards/Earth/Atmosphere,Earth/Climate/Weather/Tropical_Cyclone.md) 
+### #is_/same_as :: [Tropical_Cyclone](/_Standards/Earth/Climate/Weather/Tropical_Cyclone.md) 
 
-### #is_/same_as :: [Tropical_Cyclone.public](/_public/Earth/Atmosphere,Earth/Climate/Weather/Tropical_Cyclone.public.md) 
+### #is_/same_as :: [Tropical_Cyclone.public](/_public/Earth/Climate/Weather/Tropical_Cyclone.public.md) 
 
-### #is_/same_as :: [Tropical_Cyclone.internal](/_internal/Earth/Atmosphere,Earth/Climate/Weather/Tropical_Cyclone.internal.md) 
+### #is_/same_as :: [Tropical_Cyclone.internal](/_internal/Earth/Climate/Weather/Tropical_Cyclone.internal.md) 
 
-### #is_/same_as :: [Tropical_Cyclone.protect](/_protect/Earth/Atmosphere,Earth/Climate/Weather/Tropical_Cyclone.protect.md) 
+### #is_/same_as :: [Tropical_Cyclone.protect](/_protect/Earth/Climate/Weather/Tropical_Cyclone.protect.md) 
 
-### #is_/same_as :: [Tropical_Cyclone.private](/_private/Earth/Atmosphere,Earth/Climate/Weather/Tropical_Cyclone.private.md) 
+### #is_/same_as :: [Tropical_Cyclone.private](/_private/Earth/Climate/Weather/Tropical_Cyclone.private.md) 
 
-### #is_/same_as :: [Tropical_Cyclone.personal](/_personal/Earth/Atmosphere,Earth/Climate/Weather/Tropical_Cyclone.personal.md) 
+### #is_/same_as :: [Tropical_Cyclone.personal](/_personal/Earth/Climate/Weather/Tropical_Cyclone.personal.md) 
 
-### #is_/same_as :: [Tropical_Cyclone.secret](/_secret/Earth/Atmosphere,Earth/Climate/Weather/Tropical_Cyclone.secret.md)
+### #is_/same_as :: [Tropical_Cyclone.secret](/_secret/Earth/Climate/Weather/Tropical_Cyclone.secret.md)
 

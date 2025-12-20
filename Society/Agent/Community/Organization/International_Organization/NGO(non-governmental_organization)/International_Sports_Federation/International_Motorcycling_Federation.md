@@ -43,3 +43,22 @@ inception: 1904-12-21T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration%20Internationale%20de%20Motocyclisme) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [International_Motorcycling_Federation](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Motorcycling_Federation.md) 
+
+### #is_/same_as :: [International_Motorcycling_Federation.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Motorcycling_Federation.public.md) 
+
+### #is_/same_as :: [International_Motorcycling_Federation.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Motorcycling_Federation.internal.md) 
+
+### #is_/same_as :: [International_Motorcycling_Federation.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Motorcycling_Federation.protect.md) 
+
+### #is_/same_as :: [International_Motorcycling_Federation.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Motorcycling_Federation.private.md) 
+
+### #is_/same_as :: [International_Motorcycling_Federation.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Motorcycling_Federation.personal.md) 
+
+### #is_/same_as :: [International_Motorcycling_Federation.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Motorcycling_Federation.secret.md)
+

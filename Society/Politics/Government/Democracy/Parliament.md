@@ -25,3 +25,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parliament) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parliament](/_Standards/Society/Politics/Government/Democracy/Parliament.md) 
+
+### #is_/same_as :: [Parliament.public](/_public/Society/Politics/Government/Democracy/Parliament.public.md) 
+
+### #is_/same_as :: [Parliament.internal](/_internal/Society/Politics/Government/Democracy/Parliament.internal.md) 
+
+### #is_/same_as :: [Parliament.protect](/_protect/Society/Politics/Government/Democracy/Parliament.protect.md) 
+
+### #is_/same_as :: [Parliament.private](/_private/Society/Politics/Government/Democracy/Parliament.private.md) 
+
+### #is_/same_as :: [Parliament.personal](/_personal/Society/Politics/Government/Democracy/Parliament.personal.md) 
+
+### #is_/same_as :: [Parliament.secret](/_secret/Society/Politics/Government/Democracy/Parliament.secret.md)
+

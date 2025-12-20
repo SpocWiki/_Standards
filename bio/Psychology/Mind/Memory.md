@@ -34,3 +34,22 @@ has_id_wikidata: Q492
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Memory) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Memory](/_Standards/bio/Psychology/Mind/Memory.md) 
+
+### #is_/same_as :: [Memory.public](/_public/bio/Psychology/Mind/Memory.public.md) 
+
+### #is_/same_as :: [Memory.internal](/_internal/bio/Psychology/Mind/Memory.internal.md) 
+
+### #is_/same_as :: [Memory.protect](/_protect/bio/Psychology/Mind/Memory.protect.md) 
+
+### #is_/same_as :: [Memory.private](/_private/bio/Psychology/Mind/Memory.private.md) 
+
+### #is_/same_as :: [Memory.personal](/_personal/bio/Psychology/Mind/Memory.personal.md) 
+
+### #is_/same_as :: [Memory.secret](/_secret/bio/Psychology/Mind/Memory.secret.md)
+

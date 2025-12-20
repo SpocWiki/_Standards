@@ -16,3 +16,22 @@ has_id_wikidata: Q12334861
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Secretion) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Secretion](/_Standards/bio/Metabolism/Secretion.md) 
+
+### #is_/same_as :: [Secretion.public](/_public/bio/Metabolism/Secretion.public.md) 
+
+### #is_/same_as :: [Secretion.internal](/_internal/bio/Metabolism/Secretion.internal.md) 
+
+### #is_/same_as :: [Secretion.protect](/_protect/bio/Metabolism/Secretion.protect.md) 
+
+### #is_/same_as :: [Secretion.private](/_private/bio/Metabolism/Secretion.private.md) 
+
+### #is_/same_as :: [Secretion.personal](/_personal/bio/Metabolism/Secretion.personal.md) 
+
+### #is_/same_as :: [Secretion.secret](/_secret/bio/Metabolism/Secretion.secret.md)
+

@@ -59,3 +59,22 @@ OpenStreetMap_tag: natural=mountain_range
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mountain%20range) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mountain_Range](/_Standards/Earth/Geology/Landform/Mountain_Range.md) 
+
+### #is_/same_as :: [Mountain_Range.public](/_public/Earth/Geology/Landform/Mountain_Range.public.md) 
+
+### #is_/same_as :: [Mountain_Range.internal](/_internal/Earth/Geology/Landform/Mountain_Range.internal.md) 
+
+### #is_/same_as :: [Mountain_Range.protect](/_protect/Earth/Geology/Landform/Mountain_Range.protect.md) 
+
+### #is_/same_as :: [Mountain_Range.private](/_private/Earth/Geology/Landform/Mountain_Range.private.md) 
+
+### #is_/same_as :: [Mountain_Range.personal](/_personal/Earth/Geology/Landform/Mountain_Range.personal.md) 
+
+### #is_/same_as :: [Mountain_Range.secret](/_secret/Earth/Geology/Landform/Mountain_Range.secret.md)
+

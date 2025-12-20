@@ -30,3 +30,22 @@ Commons_category: Pre-Columbian era
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pre-Columbian%20era) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pre-Columbian_Era](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.md) 
+
+### #is_/same_as :: [Pre-Columbian_Era.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.public.md) 
+
+### #is_/same_as :: [Pre-Columbian_Era.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.internal.md) 
+
+### #is_/same_as :: [Pre-Columbian_Era.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.protect.md) 
+
+### #is_/same_as :: [Pre-Columbian_Era.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.private.md) 
+
+### #is_/same_as :: [Pre-Columbian_Era.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.personal.md) 
+
+### #is_/same_as :: [Pre-Columbian_Era.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.secret.md)
+

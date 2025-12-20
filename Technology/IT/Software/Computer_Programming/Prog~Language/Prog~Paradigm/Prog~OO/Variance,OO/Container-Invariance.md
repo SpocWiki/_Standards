@@ -39,3 +39,22 @@ for high IRR rather take the nth root of it or, as a first Approximation:
 (1+IRR)ⁿ= (C1​​+C2​​+…+Cn​) / C0 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Container-Invariance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.md) 
+
+### #is_/same_as :: [Container-Invariance.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.public.md) 
+
+### #is_/same_as :: [Container-Invariance.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.internal.md) 
+
+### #is_/same_as :: [Container-Invariance.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.protect.md) 
+
+### #is_/same_as :: [Container-Invariance.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.private.md) 
+
+### #is_/same_as :: [Container-Invariance.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.personal.md) 
+
+### #is_/same_as :: [Container-Invariance.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Variance,OO/Container-Invariance.secret.md)
+

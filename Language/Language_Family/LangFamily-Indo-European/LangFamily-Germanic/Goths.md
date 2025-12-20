@@ -78,3 +78,22 @@ Krugosvet_article: istoriya/GOTI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Goths) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goths](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.md) 
+
+### #is_/same_as :: [Goths.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.public.md) 
+
+### #is_/same_as :: [Goths.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.internal.md) 
+
+### #is_/same_as :: [Goths.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.protect.md) 
+
+### #is_/same_as :: [Goths.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.private.md) 
+
+### #is_/same_as :: [Goths.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.personal.md) 
+
+### #is_/same_as :: [Goths.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Goths.secret.md)
+

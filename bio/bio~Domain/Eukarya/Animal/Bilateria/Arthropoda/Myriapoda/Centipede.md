@@ -117,17 +117,17 @@ Copyright ::         © [Department of Entomology, University of Nebraska-Lincol
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chilopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.md) 
+### #is_/same_as :: [Centipede](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.md) 
 
-### #is_/same_as :: [Chilopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.public.md) 
+### #is_/same_as :: [Centipede.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.public.md) 
 
-### #is_/same_as :: [Chilopoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.internal.md) 
+### #is_/same_as :: [Centipede.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.internal.md) 
 
-### #is_/same_as :: [Chilopoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.protect.md) 
+### #is_/same_as :: [Centipede.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.protect.md) 
 
-### #is_/same_as :: [Chilopoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.private.md) 
+### #is_/same_as :: [Centipede.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.private.md) 
 
-### #is_/same_as :: [Chilopoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.personal.md) 
+### #is_/same_as :: [Centipede.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.personal.md) 
 
-### #is_/same_as :: [Chilopoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.secret.md)
+### #is_/same_as :: [Centipede.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Centipede.secret.md)
 

@@ -69,3 +69,22 @@ native_label: '"Skrik"'
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Scream) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [The_Scream](/_Standards/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.md) 
+
+### #is_/same_as :: [The_Scream.public](/_public/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.public.md) 
+
+### #is_/same_as :: [The_Scream.internal](/_internal/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.internal.md) 
+
+### #is_/same_as :: [The_Scream.protect](/_protect/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.protect.md) 
+
+### #is_/same_as :: [The_Scream.private](/_private/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.private.md) 
+
+### #is_/same_as :: [The_Scream.personal](/_personal/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.personal.md) 
+
+### #is_/same_as :: [The_Scream.secret](/_secret/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.secret.md)
+

@@ -180,17 +180,17 @@ subreddit: CSLewis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lewis,C.S](Lewis,C.S.md) 
+### #is_/same_as :: [Lewis,C.S](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.md) 
 
-### #is_/same_as :: [C.S.Lewis.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/C.S.Lewis.public.md) 
+### #is_/same_as :: [Lewis,C.S.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.public.md) 
 
-### #is_/same_as :: [C.S.Lewis.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/C.S.Lewis.internal.md) 
+### #is_/same_as :: [Lewis,C.S.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.internal.md) 
 
-### #is_/same_as :: [C.S.Lewis.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/C.S.Lewis.protect.md) 
+### #is_/same_as :: [Lewis,C.S.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.protect.md) 
 
-### #is_/same_as :: [C.S.Lewis.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/C.S.Lewis.private.md) 
+### #is_/same_as :: [Lewis,C.S.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.private.md) 
 
-### #is_/same_as :: [C.S.Lewis.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/C.S.Lewis.personal.md) 
+### #is_/same_as :: [Lewis,C.S.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.personal.md) 
 
-### #is_/same_as :: [C.S.Lewis.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/C.S.Lewis.secret.md)
+### #is_/same_as :: [Lewis,C.S.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.secret.md)
 

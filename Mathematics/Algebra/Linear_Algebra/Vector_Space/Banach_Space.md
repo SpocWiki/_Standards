@@ -35,3 +35,22 @@ A [[Hilbert_Space]] is a [[Banach_Space]] with an **inner product** ⟨⋅,⋅�
 > [Wikipedia](https://en.wikipedia.org/wiki/Banach%20space) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Banach_Space](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.md) 
+
+### #is_/same_as :: [Banach_Space.public](/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.public.md) 
+
+### #is_/same_as :: [Banach_Space.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.internal.md) 
+
+### #is_/same_as :: [Banach_Space.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.protect.md) 
+
+### #is_/same_as :: [Banach_Space.private](/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.private.md) 
+
+### #is_/same_as :: [Banach_Space.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.personal.md) 
+
+### #is_/same_as :: [Banach_Space.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.secret.md)
+

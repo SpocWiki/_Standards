@@ -22,3 +22,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Behavioral%20modernity) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cognitive Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.md) 
+
+### #is_/same_as :: [Cognitive Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.public.md) 
+
+### #is_/same_as :: [Cognitive Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.internal.md) 
+
+### #is_/same_as :: [Cognitive Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.protect.md) 
+
+### #is_/same_as :: [Cognitive Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.private.md) 
+
+### #is_/same_as :: [Cognitive Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.personal.md) 
+
+### #is_/same_as :: [Cognitive Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.secret.md)
+

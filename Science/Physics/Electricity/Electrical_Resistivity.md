@@ -54,3 +54,22 @@ quantity_symbol_string_: ρ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20resistivity%20and%20conductivity) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electrical_Resistivity](/_Standards/Science/Physics/Electricity/Electrical_Resistivity.md) 
+
+### #is_/same_as :: [Electrical_Resistivity.public](/_public/Science/Physics/Electricity/Electrical_Resistivity.public.md) 
+
+### #is_/same_as :: [Electrical_Resistivity.internal](/_internal/Science/Physics/Electricity/Electrical_Resistivity.internal.md) 
+
+### #is_/same_as :: [Electrical_Resistivity.protect](/_protect/Science/Physics/Electricity/Electrical_Resistivity.protect.md) 
+
+### #is_/same_as :: [Electrical_Resistivity.private](/_private/Science/Physics/Electricity/Electrical_Resistivity.private.md) 
+
+### #is_/same_as :: [Electrical_Resistivity.personal](/_personal/Science/Physics/Electricity/Electrical_Resistivity.personal.md) 
+
+### #is_/same_as :: [Electrical_Resistivity.secret](/_secret/Science/Physics/Electricity/Electrical_Resistivity.secret.md)
+

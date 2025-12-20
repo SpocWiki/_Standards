@@ -31,3 +31,22 @@ has_id_wikidata: Q180453
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dolly%20Parton) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Parton,Dolly](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.md) 
+
+### #is_/same_as :: [Parton,Dolly.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.public.md) 
+
+### #is_/same_as :: [Parton,Dolly.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.internal.md) 
+
+### #is_/same_as :: [Parton,Dolly.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.protect.md) 
+
+### #is_/same_as :: [Parton,Dolly.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.private.md) 
+
+### #is_/same_as :: [Parton,Dolly.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.personal.md) 
+
+### #is_/same_as :: [Parton,Dolly.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Parton,Dolly.secret.md)
+

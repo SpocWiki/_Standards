@@ -42,17 +42,17 @@ Indicates full game availability.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Full_Game_Availability](Full_Game_Availability.md) 
+### #is_/same_as :: [Full_Game_Availability](/_Standards/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.md) 
 
-### #is_/same_as :: [full_game_availability.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/full_game_availability.public.md) 
+### #is_/same_as :: [Full_Game_Availability.public](/_public/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.public.md) 
 
-### #is_/same_as :: [full_game_availability.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/full_game_availability.internal.md) 
+### #is_/same_as :: [Full_Game_Availability.internal](/_internal/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.internal.md) 
 
-### #is_/same_as :: [full_game_availability.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/full_game_availability.protect.md) 
+### #is_/same_as :: [Full_Game_Availability.protect](/_protect/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.protect.md) 
 
-### #is_/same_as :: [full_game_availability.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/full_game_availability.private.md) 
+### #is_/same_as :: [Full_Game_Availability.private](/_private/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.private.md) 
 
-### #is_/same_as :: [full_game_availability.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/full_game_availability.personal.md) 
+### #is_/same_as :: [Full_Game_Availability.personal](/_personal/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.personal.md) 
 
-### #is_/same_as :: [full_game_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/full_game_availability.secret.md)
+### #is_/same_as :: [Full_Game_Availability.secret](/_secret/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability.secret.md)
 

@@ -50,6 +50,7 @@ official_name: Apus
 
 #is_/same_as :: [[_Standards/WikiData/WD~Apus,10506]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Apus](/_Standards/Astronomy/Star~Constellation/Zodiac~Apus.md) 

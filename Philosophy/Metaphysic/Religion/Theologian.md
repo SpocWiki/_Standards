@@ -29,3 +29,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Theologian](/_Standards/Philosophy/Metaphysic/Religion/Theologian.md) 
+
+### #is_/same_as :: [Theologian.public](/_public/Philosophy/Metaphysic/Religion/Theologian.public.md) 
+
+### #is_/same_as :: [Theologian.internal](/_internal/Philosophy/Metaphysic/Religion/Theologian.internal.md) 
+
+### #is_/same_as :: [Theologian.protect](/_protect/Philosophy/Metaphysic/Religion/Theologian.protect.md) 
+
+### #is_/same_as :: [Theologian.private](/_private/Philosophy/Metaphysic/Religion/Theologian.private.md) 
+
+### #is_/same_as :: [Theologian.personal](/_personal/Philosophy/Metaphysic/Religion/Theologian.personal.md) 
+
+### #is_/same_as :: [Theologian.secret](/_secret/Philosophy/Metaphysic/Religion/Theologian.secret.md)
+

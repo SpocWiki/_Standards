@@ -151,3 +151,22 @@ Krugosvet_article: medicina/RAK_TOLSTOGO_KISHECHNIKA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colorectal%20cancer) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Colorectal_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Colorectal_Cancer.md) 
+
+### #is_/same_as :: [Colorectal_Cancer.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Colorectal_Cancer.public.md) 
+
+### #is_/same_as :: [Colorectal_Cancer.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Colorectal_Cancer.internal.md) 
+
+### #is_/same_as :: [Colorectal_Cancer.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Colorectal_Cancer.protect.md) 
+
+### #is_/same_as :: [Colorectal_Cancer.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Colorectal_Cancer.private.md) 
+
+### #is_/same_as :: [Colorectal_Cancer.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Colorectal_Cancer.personal.md) 
+
+### #is_/same_as :: [Colorectal_Cancer.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Colorectal_Cancer.secret.md)
+

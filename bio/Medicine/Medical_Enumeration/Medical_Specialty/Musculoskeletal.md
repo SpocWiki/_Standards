@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [musculoskeletal](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/musculoskeletal.md) 
+### #is_/same_as :: [Musculoskeletal](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Musculoskeletal.md) 
 
-### #is_/same_as :: [musculoskeletal.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/musculoskeletal.public.md) 
+### #is_/same_as :: [Musculoskeletal.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Musculoskeletal.public.md) 
 
-### #is_/same_as :: [musculoskeletal.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/musculoskeletal.internal.md) 
+### #is_/same_as :: [Musculoskeletal.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Musculoskeletal.internal.md) 
 
-### #is_/same_as :: [musculoskeletal.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/musculoskeletal.protect.md) 
+### #is_/same_as :: [Musculoskeletal.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Musculoskeletal.protect.md) 
 
-### #is_/same_as :: [musculoskeletal.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/musculoskeletal.private.md) 
+### #is_/same_as :: [Musculoskeletal.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Musculoskeletal.private.md) 
 
-### #is_/same_as :: [musculoskeletal.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/musculoskeletal.personal.md) 
+### #is_/same_as :: [Musculoskeletal.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Musculoskeletal.personal.md) 
 
-### #is_/same_as :: [musculoskeletal.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/musculoskeletal.secret.md)
+### #is_/same_as :: [Musculoskeletal.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Musculoskeletal.secret.md)
 

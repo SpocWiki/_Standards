@@ -84,3 +84,22 @@ As the parser becomes more complex, the code becomes cluttered with necessary de
 When trying to make changes to a language that has no formal grammar, 
 you may find it difficult to distinguish between changes to the language's grammar 
 and changes to its implementation.
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Context-free_grammar](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.md) 
+
+### #is_/same_as :: [Context-free_grammar.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.public.md) 
+
+### #is_/same_as :: [Context-free_grammar.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.internal.md) 
+
+### #is_/same_as :: [Context-free_grammar.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.protect.md) 
+
+### #is_/same_as :: [Context-free_grammar.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.private.md) 
+
+### #is_/same_as :: [Context-free_grammar.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.personal.md) 
+
+### #is_/same_as :: [Context-free_grammar.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.secret.md)
+

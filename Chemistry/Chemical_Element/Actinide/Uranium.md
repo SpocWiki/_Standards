@@ -173,17 +173,17 @@ ZVG_number: 7920
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uranium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Uranium.md) 
+### #is_/same_as :: [Uranium](/_Standards/Chemistry/Chemical_Element/Actinide/Uranium.md) 
 
-### #is_/same_as :: [Uranium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Uranium.public.md) 
+### #is_/same_as :: [Uranium.public](/_public/Chemistry/Chemical_Element/Actinide/Uranium.public.md) 
 
-### #is_/same_as :: [Uranium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Uranium.internal.md) 
+### #is_/same_as :: [Uranium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal.md) 
 
-### #is_/same_as :: [Uranium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Uranium.protect.md) 
+### #is_/same_as :: [Uranium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Uranium.protect.md) 
 
-### #is_/same_as :: [Uranium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Uranium.private.md) 
+### #is_/same_as :: [Uranium.private](/_private/Chemistry/Chemical_Element/Actinide/Uranium.private.md) 
 
-### #is_/same_as :: [Uranium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Uranium.personal.md) 
+### #is_/same_as :: [Uranium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal.md) 
 
-### #is_/same_as :: [Uranium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Uranium.secret.md)
+### #is_/same_as :: [Uranium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret.md)
 

@@ -37,17 +37,17 @@ Categories of medical devices, organized by the purpose or intended use of the d
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [medical_device_purpose](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.md) 
+### #is_/same_as :: [Medical_Device_Purpose](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose.md) 
 
-### #is_/same_as :: [medical_device_purpose.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.public.md) 
+### #is_/same_as :: [Medical_Device_Purpose.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose.public.md) 
 
-### #is_/same_as :: [medical_device_purpose.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.internal.md) 
+### #is_/same_as :: [Medical_Device_Purpose.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose.internal.md) 
 
-### #is_/same_as :: [medical_device_purpose.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.protect.md) 
+### #is_/same_as :: [Medical_Device_Purpose.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose.protect.md) 
 
-### #is_/same_as :: [medical_device_purpose.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.private.md) 
+### #is_/same_as :: [Medical_Device_Purpose.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose.private.md) 
 
-### #is_/same_as :: [medical_device_purpose.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.personal.md) 
+### #is_/same_as :: [Medical_Device_Purpose.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose.personal.md) 
 
-### #is_/same_as :: [medical_device_purpose.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.secret.md)
+### #is_/same_as :: [Medical_Device_Purpose.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose.secret.md)
 

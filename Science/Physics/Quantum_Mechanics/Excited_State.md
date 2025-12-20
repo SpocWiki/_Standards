@@ -39,3 +39,22 @@ IEV_number: 113-06-09
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Excited%20state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Excited_State](/_Standards/Science/Physics/Quantum_Mechanics/Excited_State.md) 
+
+### #is_/same_as :: [Excited_State.public](/_public/Science/Physics/Quantum_Mechanics/Excited_State.public.md) 
+
+### #is_/same_as :: [Excited_State.internal](/_internal/Science/Physics/Quantum_Mechanics/Excited_State.internal.md) 
+
+### #is_/same_as :: [Excited_State.protect](/_protect/Science/Physics/Quantum_Mechanics/Excited_State.protect.md) 
+
+### #is_/same_as :: [Excited_State.private](/_private/Science/Physics/Quantum_Mechanics/Excited_State.private.md) 
+
+### #is_/same_as :: [Excited_State.personal](/_personal/Science/Physics/Quantum_Mechanics/Excited_State.personal.md) 
+
+### #is_/same_as :: [Excited_State.secret](/_secret/Science/Physics/Quantum_Mechanics/Excited_State.secret.md)
+

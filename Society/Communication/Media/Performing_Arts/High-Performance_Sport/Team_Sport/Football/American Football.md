@@ -115,3 +115,22 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Oregon%20vs.%20Washing
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/American%20football) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [American Football](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football.md) 
+
+### #is_/same_as :: [American Football.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football.public.md) 
+
+### #is_/same_as :: [American Football.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football.internal.md) 
+
+### #is_/same_as :: [American Football.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football.protect.md) 
+
+### #is_/same_as :: [American Football.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football.private.md) 
+
+### #is_/same_as :: [American Football.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football.personal.md) 
+
+### #is_/same_as :: [American Football.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football.secret.md)
+

@@ -39,3 +39,22 @@ Unicode_character: 🪜
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ladder) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ladder](/_Standards/Technology/Tool/Mechanical_Tool/Ladder.md) 
+
+### #is_/same_as :: [Ladder.public](/_public/Technology/Tool/Mechanical_Tool/Ladder.public.md) 
+
+### #is_/same_as :: [Ladder.internal](/_internal/Technology/Tool/Mechanical_Tool/Ladder.internal.md) 
+
+### #is_/same_as :: [Ladder.protect](/_protect/Technology/Tool/Mechanical_Tool/Ladder.protect.md) 
+
+### #is_/same_as :: [Ladder.private](/_private/Technology/Tool/Mechanical_Tool/Ladder.private.md) 
+
+### #is_/same_as :: [Ladder.personal](/_personal/Technology/Tool/Mechanical_Tool/Ladder.personal.md) 
+
+### #is_/same_as :: [Ladder.secret](/_secret/Technology/Tool/Mechanical_Tool/Ladder.secret.md)
+

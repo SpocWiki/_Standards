@@ -49,6 +49,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pupp
 
 #is_/same_as :: [[../../WikiData/WD~Puppis,9251|WD~Puppis,9251]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Zodiac~Puppis](/_Standards/Astronomy/Star~Constellation/Zodiac~Puppis.md) 

@@ -35,3 +35,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/VODORODNAYA_SVYAZ.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen%20bond) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydrogen_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.md) 
+
+### #is_/same_as :: [Hydrogen_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public.md) 
+
+### #is_/same_as :: [Hydrogen_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal.md) 
+
+### #is_/same_as :: [Hydrogen_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect.md) 
+
+### #is_/same_as :: [Hydrogen_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private.md) 
+
+### #is_/same_as :: [Hydrogen_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal.md) 
+
+### #is_/same_as :: [Hydrogen_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret.md)
+

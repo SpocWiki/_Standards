@@ -964,3 +964,22 @@ SPLASH:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palmitic%20acid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Palmitic_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.md) 
+
+### #is_/same_as :: [Palmitic_Acid.public](/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.public.md) 
+
+### #is_/same_as :: [Palmitic_Acid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.internal.md) 
+
+### #is_/same_as :: [Palmitic_Acid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.protect.md) 
+
+### #is_/same_as :: [Palmitic_Acid.private](/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.private.md) 
+
+### #is_/same_as :: [Palmitic_Acid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.personal.md) 
+
+### #is_/same_as :: [Palmitic_Acid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Palmitic_Acid.secret.md)
+

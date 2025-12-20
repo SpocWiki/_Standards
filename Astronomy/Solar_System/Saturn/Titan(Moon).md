@@ -100,3 +100,22 @@ time_of_discovery_or_invention: 1655-03-25T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Titan%20(moon))  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Titan(Moon)](/_Standards/Astronomy/Solar_System/Saturn/Titan(Moon).md) 
+
+### #is_/same_as :: [Titan(Moon).public](/_public/Astronomy/Solar_System/Saturn/Titan(Moon).public.md) 
+
+### #is_/same_as :: [Titan(Moon).internal](/_internal/Astronomy/Solar_System/Saturn/Titan(Moon).internal.md) 
+
+### #is_/same_as :: [Titan(Moon).protect](/_protect/Astronomy/Solar_System/Saturn/Titan(Moon).protect.md) 
+
+### #is_/same_as :: [Titan(Moon).private](/_private/Astronomy/Solar_System/Saturn/Titan(Moon).private.md) 
+
+### #is_/same_as :: [Titan(Moon).personal](/_personal/Astronomy/Solar_System/Saturn/Titan(Moon).personal.md) 
+
+### #is_/same_as :: [Titan(Moon).secret](/_secret/Astronomy/Solar_System/Saturn/Titan(Moon).secret.md)
+

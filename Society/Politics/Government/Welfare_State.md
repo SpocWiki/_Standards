@@ -34,3 +34,22 @@ Dewey_Decimal_Classification: "361.65"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Welfare%20state) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Welfare_State](/_Standards/Society/Politics/Government/Welfare_State.md) 
+
+### #is_/same_as :: [Welfare_State.public](/_public/Society/Politics/Government/Welfare_State.public.md) 
+
+### #is_/same_as :: [Welfare_State.internal](/_internal/Society/Politics/Government/Welfare_State.internal.md) 
+
+### #is_/same_as :: [Welfare_State.protect](/_protect/Society/Politics/Government/Welfare_State.protect.md) 
+
+### #is_/same_as :: [Welfare_State.private](/_private/Society/Politics/Government/Welfare_State.private.md) 
+
+### #is_/same_as :: [Welfare_State.personal](/_personal/Society/Politics/Government/Welfare_State.personal.md) 
+
+### #is_/same_as :: [Welfare_State.secret](/_secret/Society/Politics/Government/Welfare_State.secret.md)
+

@@ -40,17 +40,17 @@ OrderStatus representing that an order is in transit.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_in_Transit](Order_in_Transit.md) 
+### #is_/same_as :: [Order_in_Transit](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_in_Transit.md) 
 
-### #is_/same_as :: [order_in_transit.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.public.md) 
+### #is_/same_as :: [Order_in_Transit.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_in_Transit.public.md) 
 
-### #is_/same_as :: [order_in_transit.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.internal.md) 
+### #is_/same_as :: [Order_in_Transit.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_in_Transit.internal.md) 
 
-### #is_/same_as :: [order_in_transit.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.protect.md) 
+### #is_/same_as :: [Order_in_Transit.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_in_Transit.protect.md) 
 
-### #is_/same_as :: [order_in_transit.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.private.md) 
+### #is_/same_as :: [Order_in_Transit.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_in_Transit.private.md) 
 
-### #is_/same_as :: [order_in_transit.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.personal.md) 
+### #is_/same_as :: [Order_in_Transit.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_in_Transit.personal.md) 
 
-### #is_/same_as :: [order_in_transit.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.secret.md)
+### #is_/same_as :: [Order_in_Transit.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_in_Transit.secret.md)
 

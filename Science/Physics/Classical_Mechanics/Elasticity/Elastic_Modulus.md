@@ -39,3 +39,22 @@ MeSH_tree_code: G01.374.590.605
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elastic%20modulus) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elastic_Modulus](/_Standards/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.md) 
+
+### #is_/same_as :: [Elastic_Modulus.public](/_public/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.public.md) 
+
+### #is_/same_as :: [Elastic_Modulus.internal](/_internal/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.internal.md) 
+
+### #is_/same_as :: [Elastic_Modulus.protect](/_protect/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.protect.md) 
+
+### #is_/same_as :: [Elastic_Modulus.private](/_private/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.private.md) 
+
+### #is_/same_as :: [Elastic_Modulus.personal](/_personal/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.personal.md) 
+
+### #is_/same_as :: [Elastic_Modulus.secret](/_secret/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.secret.md)
+

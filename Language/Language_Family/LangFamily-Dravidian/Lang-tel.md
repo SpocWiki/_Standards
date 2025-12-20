@@ -46,17 +46,17 @@ type: Lang
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-te](/_Standards/Language/Lang~Family/LangFamily-Dravidian/Lang-te.md) 
+### #is_/same_as :: [Lang-tel](/_Standards/Language/Language_Family/LangFamily-Dravidian/Lang-tel.md) 
 
-### #is_/same_as :: [Lang-te.public](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-te.public.md) 
+### #is_/same_as :: [Lang-tel.public](/_public/Language/Language_Family/LangFamily-Dravidian/Lang-tel.public.md) 
 
-### #is_/same_as :: [Lang-te.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.internal.md) 
+### #is_/same_as :: [Lang-tel.internal](/_internal/Language/Language_Family/LangFamily-Dravidian/Lang-tel.internal.md) 
 
-### #is_/same_as :: [Lang-te.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian/Lang-te.protect.md) 
+### #is_/same_as :: [Lang-tel.protect](/_protect/Language/Language_Family/LangFamily-Dravidian/Lang-tel.protect.md) 
 
-### #is_/same_as :: [Lang-te.private](/_private/Language/Lang~Family/LangFamily-Dravidian/Lang-te.private.md) 
+### #is_/same_as :: [Lang-tel.private](/_private/Language/Language_Family/LangFamily-Dravidian/Lang-tel.private.md) 
 
-### #is_/same_as :: [Lang-te.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.personal.md) 
+### #is_/same_as :: [Lang-tel.personal](/_personal/Language/Language_Family/LangFamily-Dravidian/Lang-tel.personal.md) 
 
-### #is_/same_as :: [Lang-te.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-te.secret.md)
+### #is_/same_as :: [Lang-tel.secret](/_secret/Language/Language_Family/LangFamily-Dravidian/Lang-tel.secret.md)
 

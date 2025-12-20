@@ -30,3 +30,22 @@ Prolog is a [[../Prog~Logic|Prog~Logic]] Programming Language
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prolog)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prog~Prolog](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Prolog.md) 
+
+### #is_/same_as :: [Prog~Prolog.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Prolog.public.md) 
+
+### #is_/same_as :: [Prog~Prolog.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Prolog.internal.md) 
+
+### #is_/same_as :: [Prog~Prolog.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Prolog.protect.md) 
+
+### #is_/same_as :: [Prog~Prolog.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Prolog.private.md) 
+
+### #is_/same_as :: [Prog~Prolog.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Prolog.personal.md) 
+
+### #is_/same_as :: [Prog~Prolog.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Logic/Prog~Prolog.secret.md)
+

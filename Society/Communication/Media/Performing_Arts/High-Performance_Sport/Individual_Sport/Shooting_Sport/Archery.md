@@ -55,17 +55,17 @@ Krugosvet_article: voennoe-delo/strelba-iz-luka
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archery](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Archery.md) 
+### #is_/same_as :: [Archery](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Shooting_Sport/Archery.md) 
 
-### #is_/same_as :: [Archery.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Archery.public.md) 
+### #is_/same_as :: [Archery.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Shooting_Sport/Archery.public.md) 
 
-### #is_/same_as :: [Archery.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Archery.internal.md) 
+### #is_/same_as :: [Archery.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Shooting_Sport/Archery.internal.md) 
 
-### #is_/same_as :: [Archery.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Archery.protect.md) 
+### #is_/same_as :: [Archery.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Shooting_Sport/Archery.protect.md) 
 
-### #is_/same_as :: [Archery.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Archery.private.md) 
+### #is_/same_as :: [Archery.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Shooting_Sport/Archery.private.md) 
 
-### #is_/same_as :: [Archery.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Archery.personal.md) 
+### #is_/same_as :: [Archery.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Shooting_Sport/Archery.personal.md) 
 
-### #is_/same_as :: [Archery.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Archery.secret.md)
+### #is_/same_as :: [Archery.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Shooting_Sport/Archery.secret.md)
 

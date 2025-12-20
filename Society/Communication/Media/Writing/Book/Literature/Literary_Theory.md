@@ -31,3 +31,22 @@ Commons_category: Literary theory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Literary%20theory)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Literary_Theory](/_Standards/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.md) 
+
+### #is_/same_as :: [Literary_Theory.public](/_public/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.public.md) 
+
+### #is_/same_as :: [Literary_Theory.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.internal.md) 
+
+### #is_/same_as :: [Literary_Theory.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.protect.md) 
+
+### #is_/same_as :: [Literary_Theory.private](/_private/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.private.md) 
+
+### #is_/same_as :: [Literary_Theory.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.personal.md) 
+
+### #is_/same_as :: [Literary_Theory.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.secret.md)
+

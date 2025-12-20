@@ -45,3 +45,22 @@ Europeana_entity: agent/base/157054
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philippe%20Kahn) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kahn,Philippe](/_Standards/Science/Inventor/Kahn,Philippe.md) 
+
+### #is_/same_as :: [Kahn,Philippe.public](/_public/Science/Inventor/Kahn,Philippe.public.md) 
+
+### #is_/same_as :: [Kahn,Philippe.internal](/_internal/Science/Inventor/Kahn,Philippe.internal.md) 
+
+### #is_/same_as :: [Kahn,Philippe.protect](/_protect/Science/Inventor/Kahn,Philippe.protect.md) 
+
+### #is_/same_as :: [Kahn,Philippe.private](/_private/Science/Inventor/Kahn,Philippe.private.md) 
+
+### #is_/same_as :: [Kahn,Philippe.personal](/_personal/Science/Inventor/Kahn,Philippe.personal.md) 
+
+### #is_/same_as :: [Kahn,Philippe.secret](/_secret/Science/Inventor/Kahn,Philippe.secret.md)
+

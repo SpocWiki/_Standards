@@ -50,3 +50,22 @@ OpenStreetMap_tag: sport=ski_jumping
 > Ski jumping is not limited to winter conditions and can also be practiced during the summer months, thanks to specially designed facilities that simulate the snowy environment. In summer ski jumping, the in-run — which is the part of the hill where the jumper gains speed before takeoff — is constructed with tracks made from smooth porcelain materials.. The highest level summer competition is the FIS Ski Jumping Grand Prix, contested since 1994.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ski%20jumping) 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ski_Jumping](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.md) 
+
+### #is_/same_as :: [Ski_Jumping.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.public.md) 
+
+### #is_/same_as :: [Ski_Jumping.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.internal.md) 
+
+### #is_/same_as :: [Ski_Jumping.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.protect.md) 
+
+### #is_/same_as :: [Ski_Jumping.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.private.md) 
+
+### #is_/same_as :: [Ski_Jumping.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.personal.md) 
+
+### #is_/same_as :: [Ski_Jumping.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.secret.md)
+

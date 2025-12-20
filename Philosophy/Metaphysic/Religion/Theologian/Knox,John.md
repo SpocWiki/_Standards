@@ -78,3 +78,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Knox) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Knox,John](/_Standards/Philosophy/Metaphysic/Religion/Theologian/Knox,John.md) 
+
+### #is_/same_as :: [Knox,John.public](/_public/Philosophy/Metaphysic/Religion/Theologian/Knox,John.public.md) 
+
+### #is_/same_as :: [Knox,John.internal](/_internal/Philosophy/Metaphysic/Religion/Theologian/Knox,John.internal.md) 
+
+### #is_/same_as :: [Knox,John.protect](/_protect/Philosophy/Metaphysic/Religion/Theologian/Knox,John.protect.md) 
+
+### #is_/same_as :: [Knox,John.private](/_private/Philosophy/Metaphysic/Religion/Theologian/Knox,John.private.md) 
+
+### #is_/same_as :: [Knox,John.personal](/_personal/Philosophy/Metaphysic/Religion/Theologian/Knox,John.personal.md) 
+
+### #is_/same_as :: [Knox,John.secret](/_secret/Philosophy/Metaphysic/Religion/Theologian/Knox,John.secret.md)
+
