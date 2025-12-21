@@ -19,7 +19,7 @@ Commons_category: Design of experiments
 
 # [[Design_of_Experiments]] 
 
-#is_/same_as :: [[../WikiData/WD~Design_of_experiments,2334061|WD~Design_of_experiments,2334061]] 
+#is_/same_as :: [[../../WikiData/WD~Design_of_experiments,2334061|WD~Design_of_experiments,2334061]] 
 
 ## #has_/text_of_/abstract 
 

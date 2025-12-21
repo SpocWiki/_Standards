@@ -96,7 +96,7 @@ Use it like this:
 - [[Fruits/Blackberry|Blackberry]] 
 - [[Fruits/Cashew|Cashew]] 
 - [[Fruits/Chili_Pepper|Chili_Pepper]] 
-- [[Fruits/Grape|Grape]] 
+- [[Fruits/Berry/Grape|Grape]] 
 - [[Fruits/Nut(fruit)|Nut(fruit)]] 
 
 

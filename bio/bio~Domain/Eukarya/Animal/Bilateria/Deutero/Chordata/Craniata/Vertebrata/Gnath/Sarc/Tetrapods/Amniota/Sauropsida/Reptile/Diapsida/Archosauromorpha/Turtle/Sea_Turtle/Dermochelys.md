@@ -23,6 +23,13 @@ taxon_name: Dermochelys
 NBN_System_Key: NBNSYS0000188645
 ---
 
+# [[Dermochelys]] 
+
+## #has_/text_of_/abstract 
+
+> The leatherback sea turtle (**Dermochelys** coriacea), sometimes called the lute turtle, leathery turtle or simply the luth, is the largest of all living turtles and the heaviest non-crocodilian reptile, reaching lengths of up to 2.7 metres (8 ft 10 in) and weights of 500 kilograms (1,100 lb). It is the only living species in the genus Dermochelys and family Dermochelyidae. It can easily be differentiated from other modern sea turtles by its lack of a bony shell; instead, its carapace is covered by oily flesh and flexible, leather-like skin, for which it is named. Leatherback turtles have a global range, although there are multiple distinct subpopulations. The species as a whole is considered vulnerable, and some of its subpopulations are critically endangered.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Leatherback%20sea%20turtle)
 
 ## Confidential Links & Embeds: 
 

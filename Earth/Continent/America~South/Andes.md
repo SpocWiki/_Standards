@@ -53,6 +53,21 @@ width: 500
 
 #is_/same_as :: [[../../../WikiData/WD~Andes,5456|WD~Andes,5456]]  
 
+## #has_/map 
+
+```leaflet
+id: Andes
+geojsonFolder: ./Andes/
+markerFolder: ./Andes/
+coordinates: [[Andes]] 
+markerFile: [[Andes]] 
+zoomFeatures: true
+defaultZoom: 11 
+maxZoom: 18
+minZoom: 3
+```
+
+
 ## #has_/text_of_/abstract 
 
 > The Andes ( AN-deez Ananta), Andes Mountains or Andean Mountain Range 

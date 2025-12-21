@@ -8,27 +8,27 @@ aliases:
   - Interparliamentary Union
 has_id_wikidata: Q176815
 headquarters_location:
-  - '[[_Standards/WikiData/WD~Le_Grand_Saconnex,69714]]'
-  - '[[_Standards/WikiData/WD~Geneva,71]]'
+  - "[[_Standards/WikiData/WD~Le_Grand_Saconnex,69714]]"
+  - "[[_Standards/WikiData/WD~Geneva,71]]"
 founded_by:
-  - '[[_Standards/WikiData/WD~Frédéric_Passy,180409]]'
-  - '[[_Standards/WikiData/WD~Randal_Cremer,189841]]'
-instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
+  - "[[_Standards/WikiData/WD~Frédéric_Passy,180409]]"
+  - "[[_Standards/WikiData/WD~Randal_Cremer,189841]]"
+instance_of: "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
 official_observer_status_in_organization:
-  - '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
-  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
-member_of: '[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
+member_of: "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 inception: 1889-01-01T00:00:00Z
-country: '[[_Standards/WikiData/WD~Switzerland,39]]'
-location_of_formation: '[[_Standards/WikiData/WD~Paris,90]]'
+country: "[[_Standards/WikiData/WD~Switzerland,39]]"
+location_of_formation: "[[_Standards/WikiData/WD~Paris,90]]"
 social_media_followers: 38040
 EU_Corporate_body_code: IPU
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Inter-Parliamentary%20Union%20Members.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IPU%20Building2010.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20the%20Inter-Parliamentary%20Union.svg
 official_website: http://www.ipu.org
-ISNI: 0000000121634035
+ISNI: 121634035
 Libris_URI: 31fhf1sm3l4k7vl
 Commons_category: Inter-Parliamentary Union
 X_Twitter_username:

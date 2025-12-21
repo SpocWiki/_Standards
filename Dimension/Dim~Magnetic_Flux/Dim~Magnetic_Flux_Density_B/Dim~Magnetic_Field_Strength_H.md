@@ -12,7 +12,7 @@ part_of:
 different_from:
   - "[[_Standards/WikiData/WD~field_strength,1365197]]"
   - "[[_Standards/WikiData/WD~gravitational_field_strength,21652129]]"
-  - "[[../../WikiData/WD~magnetic_flux_density,30204]]"
+  - "[[../../../WikiData/WD~magnetic_flux_density,30204]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]"
@@ -39,10 +39,10 @@ IEV_number: 121-11-56
 
 # [[Dim~Magnetic_Field_Strength_H]] 
 
-#is_/similar_to :: [[../../Dimension/Dim~Magnetic_Flux_Density_B]] 
+#is_/similar_to :: [[../Dim~Magnetic_Flux_Density_B]] 
 #is_/same_as :: [[_Standards/WikiData/WD~magnetic_field_strength,28123]] 
 
-[[../../Dimension/Dim~Magnetic_Flux_Density_B|B]] = μ · [[Dim~Magnetic_Field_Strength_H|H]]
+[[../Dim~Magnetic_Flux_Density_B|B]] = μ · [[Dim~Magnetic_Field_Strength_H|H]]
 
 ## #has_/text_of_/abstract 
 
@@ -68,7 +68,7 @@ IEV_number: 121-11-56
 > 
 > Since both strength and direction of a magnetic field may vary with location, 
 > it is described mathematically by a function assigning a vector to each point of space, 
-> called a vector field (more precisely, a [[../../Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector|Pseudovector]] field).
+> called a vector field (more precisely, a [[../../../Mathematics/Algebra/Linear_Algebra/Vector_Space/Pseudovector|Pseudovector]] field).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20field) 
 

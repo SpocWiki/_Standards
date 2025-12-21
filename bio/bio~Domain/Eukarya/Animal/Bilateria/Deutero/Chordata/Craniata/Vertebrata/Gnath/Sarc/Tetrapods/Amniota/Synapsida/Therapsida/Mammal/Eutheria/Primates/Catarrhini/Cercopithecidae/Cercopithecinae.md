@@ -14,7 +14,7 @@ taxon_name: Cercopithecinae
 
 # [[Cercopithecinae]] 
 
-#is_/same_as :: [[WD~Cercopithecinae,220848]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../_Standards/WikiData/WD~Cercopithecinae,220848|WD~Cercopithecinae,220848]]  
 
 ## #has_/text_of_/abstract 
 

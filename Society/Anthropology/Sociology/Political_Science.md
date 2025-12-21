@@ -7,7 +7,7 @@ aliases:
 
 # [[Political_Science]] 
 
-#is_/similar_to :: [[../../Politics/Political_Philosophy|Political_Philosophy]] 
+#is_/similar_to :: [[../../Ideology/Political_Ideology/Political_Philosophy|Political_Philosophy]] 
 #is_/same_as :: [[../../../WikiData/WD~Political_science,36442|WD~Political_science,36442]] 
 
 ## #has_/text_of_/abstract 

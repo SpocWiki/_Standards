@@ -6,6 +6,69 @@ aliases:
   - London_Times
   - London Times
 has_id_wikidata: Q50008
+founded_by: "[[_Standards/WikiData/WD~John_Walter,322295]]"
+indexed_in_bibliographic_review: "[[_Standards/WikiData/WD~Scopus,371467]]"
+has_works_in_the_collection:
+  - "[[_Standards/WikiData/WD~Tate,430682]]"
+  - "[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]"
+  - "[[_Standards/WikiData/WD~Amsab_Instituut_voor_Sociale_Geschiedenis_Gent,3359412]]"
+publisher:
+  - "[[_Standards/WikiData/WD~The_Amalgamated_Press,686038]]"
+  - "[[_Standards/WikiData/WD~Times_Media,102279854]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~periodical,1002697]]"
+  - "[[_Standards/WikiData/WD~daily_newspaper,1110794]]"
+  - "[[_Standards/WikiData/WD~online_newspaper,1153191]]"
+  - "[[_Standards/WikiData/WD~newspaper,11032]]"
+political_ideology: "[[_Standards/WikiData/WD~liberal_conservatism,1043096]]"
+owned_by: "[[_Standards/WikiData/WD~News_UK,1105124]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+newspaper_format: "[[_Standards/WikiData/WD~compact,3684950]]"
+editor: "[[_Standards/WikiData/WD~Tony_Gallagher,7822407]]"
+has_edition_or_translation: "[[_Standards/WikiData/WD~The_Times_1911,15987170]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+industry: "[[_Standards/WikiData/WD~journalism,11030]]"
+place_of_publication: "[[_Standards/WikiData/WD~London,84]]"
+headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~London,84]]"
+country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+publication_interval: 1
+Alexa_rank: 5594
+Commons_category: The Times
+ISSN_L: 0140-0460
+ISSN:
+  - 0140-0460
+  - 0956-1382
+  - 1363-7746
+title:
+  - The Times
+  - Times
+  - التايمس
+  - التيمس
+  - جريدة التيمس
+  - London times
+  - Times of London
+  - The Daily Universal Register
+quantity: 440581
+social_media_followers: 1768821
+periodical_archive_URL: http://gale.cengage.co.uk/times.aspx/
+image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Times%20-%20Argentine%20Capture%20of%20the%20Falkland%20Islands%201821.jpg
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Times%20masthead.svg
+official_website: https://www.thetimes.com/
+OCLC_number: "992611467"
+Telegram_username: thetimes
+Instagram_username: thetimes
+X_Twitter_username: thetimes
+domain_name: thetimes.co.uk
+Bluesky_handle: thetimes.com
+Facebook_username: timesandsundaytimes
+YouTube_handle: timesonlinevideo
+floruit:
+  - 1929-02-10T00:00:00Z
+  - 1928-12-28T00:00:00Z
+inception: 1785-01-01T00:00:00Z
 ---
 
 # [[London_Times]] 

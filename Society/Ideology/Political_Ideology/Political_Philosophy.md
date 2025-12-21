@@ -21,8 +21,8 @@ subreddit: PoliticalPhilosophy
 
 # [[Political_Philosophy]] 
 
-#is_/similar_to :: [[../Anthropology/Sociology/Political_Science|Political_Science]]  
-#is_/same_as :: [[../../WikiData/WD~Political_philosophy,179805|WD~Political_philosophy,179805]]  
+#is_/similar_to :: [[../../Anthropology/Sociology/Political_Science|Political_Science]]  
+#is_/same_as :: [[../../../WikiData/WD~Political_philosophy,179805|WD~Political_philosophy,179805]]  
 
 ## #has_/text_of_/abstract 
 

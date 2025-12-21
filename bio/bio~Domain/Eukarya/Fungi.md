@@ -1,8 +1,10 @@
 ---
 aliases:
-  - fungus
   - Fungi
   - funguses
+  - Pilz
+  - Pilze
+  - Fungus
 has_id_wikidata: Q764
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Pilz.stl
 AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070
@@ -22,16 +24,17 @@ described_by_source:
   - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
   - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification:
+  - 579.5
   - 579.6
   - 579
   - 664.001579
-  - 579.5
 different_from: '[[_Standards/WikiData/WD~plant,756]]'
 EPPO_Code: 1FUNGK
 FoodEx2_code: A0ETG
 has_part_s_:
   - '[[_Standards/WikiData/WD~mushroom,83093]]'
   - '[[_Standards/WikiData/WD~mycelium,326228]]'
+has_time_started: -410000000
 Iconclass_notation: 25G54
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -86,10 +89,28 @@ Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc.
 > These organisms are classified as one of the traditional eukaryotic kingdoms, 
 > along with Animalia, Plantae, and either Protista or Protozoa and Chromista.
 >
-> A characteristic that places fungi in a different kingdom from plants, bacteria, 
-> and some protists is __chitin in their cell walls__. 
+> A characteristic that places fungi in a different kingdom from plants, bacteria, and some protists 
+> is chitin in their cell walls. 
+> Fungi, like animals, are heterotrophs; they acquire their food by absorbing dissolved molecules, 
+> typically by secreting digestive enzymes into their environment. 
+> Fungi do not photosynthesize. 
 > 
-> Fungi, like animals, are heterotrophs; they acquire their food by absorbing dissolved molecules, typically by secreting digestive enzymes into their environment. Fungi do not photosynthesize. Growth is their means of mobility, except for spores (a few of which are flagellated), which may travel through the air or water. Fungi are the principal decomposers in ecological systems. These and other differences place fungi in a single group of related organisms, named the Eumycota (true fungi or Eumycetes), that share a common ancestor (i.e. they form a monophyletic group), an interpretation that is also strongly supported by molecular phylogenetics. This fungal group is distinct from the structurally similar myxomycetes (slime molds) and oomycetes (water molds). The discipline of biology devoted to the study of fungi is known as mycology (from the Greek μύκης mykes, mushroom). In the past, mycology was regarded as a branch of botany, although it is now known that fungi are genetically more closely related to animals than to plants.
+> Growth is their means of mobility, 
+> except for spores (a few of which are flagellated), which may travel through the air or water. 
+> 
+> Fungi are the principal decomposers in ecological systems. 
+> These and other differences place fungi in a single group of related organisms, 
+> named the Eumycota (true fungi or Eumycetes), 
+> that share a common ancestor (i.e. they form a monophyletic group), 
+> an interpretation that is also strongly supported by molecular phylogenetics. 
+> 
+> This fungal group is distinct from the structurally similar myxomycetes (slime molds) 
+> and oomycetes (water molds). 
+> 
+> The discipline of biology devoted to the study of fungi is known as mycology 
+> (from the Greek μύκης mykes, mushroom). 
+> In the past, mycology was regarded as a branch of botany, 
+> although it is now known that fungi are genetically more closely related to animals than to plants.
 >
 > Abundant worldwide, most fungi are inconspicuous because of the small size of their structures, and their cryptic lifestyles in soil or on dead matter. Fungi include symbionts of plants, animals, or other fungi and also parasites. They may become noticeable when fruiting, either as mushrooms or as molds. Fungi perform an essential role in the decomposition of organic matter and have fundamental roles in nutrient cycling and exchange in the environment. They have long been used as a direct source of human food, in the form of mushrooms and truffles; as a leavening agent for bread; and in the fermentation of various food products, such as wine, beer, and soy sauce. Since the 1940s, fungi have been used for the production of antibiotics, and, more recently, various enzymes produced by fungi are used industrially and in detergents. Fungi are also used as biological pesticides to control weeds, plant diseases, and insect pests. Many species produce bioactive compounds called mycotoxins, such as alkaloids and polyketides, that are toxic to animals, including humans. The fruiting structures of a few species contain psychotropic compounds and are consumed recreationally or in traditional spiritual ceremonies. Fungi can break down manufactured materials and buildings, and become significant pathogens of humans and other animals. Losses of crops due to fungal diseases (e.g., rice blast disease) or food spoilage can have a large impact on human food supplies and local economies.
 >

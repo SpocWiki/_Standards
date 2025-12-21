@@ -3,17 +3,17 @@ aliases:
   - Metronom
   - Metronome
 has_id_wikidata: Q156424
-has_use: '[[_Standards/WikiData/WD~tempo,189214]]'
+has_use: "[[_Standards/WikiData/WD~tempo,189214]]"
 described_by_source:
-  - '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~timepiece,42622779]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+subclass_of: "[[_Standards/WikiData/WD~timepiece,42622779]]"
 Nomenclature_for_Museum_Cataloging: 10634
 OmegaWiki_Defined_Meaning: 537763
 image:

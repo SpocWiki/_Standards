@@ -5,7 +5,7 @@ aliases:
 ---
 
 Used to indicate Latin Script in Web-Pages 
-Several Languages, especially [[Semitic]] can be written either in Arabic Script or a Latin Transcription: 
+Several Languages, especially [[../Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic]] can be written either in Arabic Script or a Latin Transcription: 
 
 1. **Arabic:**
     
